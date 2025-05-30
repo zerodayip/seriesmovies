@@ -1,0 +1,45 @@
+name: Delete Files
+
+on:
+  push:
+    paths:
+      - 'sil.txt'  # Bu dosya eklendiğinde workflow tetiklenecek
+  workflow_dispatch:  # Bu tetikleyici manuel çalıştırmaya izin verir
+
+jobs:
+  delete-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git user
+        run: |
+          git config --global user.email "your-email@example.com"
+          git config --global user.name "Your Name"
+
+      - name: Delete all files except data.html in 'sdizi' folder
+        run: |
+          find sdizi -type f ! -name 'logo.txt'  -exec git rm {} \;
+
+      - name: Delete all files except a.txt in 'r' folder
+        run: |
+          find r -type f ! -name 'a.txt' -exec git rm {} \;
+
+      - name: Delete all files except logo.txt and ana_link.txt in 's' folder
+        run: |
+          find s -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} \;
+
+      - name: Delete all files except logo.txt and ana_link.txt in 'g' folder
+        run: |
+          find g -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} \;
+
+      - name: Delete all files except logo.txt, livejson.py, and schedule.json in 'd' folder
+        run: |
+          find d -type f ! -name 'logo.txt' ! -name 'livejson.py' ! -name 'livejson2.py' ! -name 'kana2l.m3u' ! -name 'schedule.json' -exec git rm {} \;
+
+      - name: Commit and push the changes
+        run: |
+          git commit -m "Updated files"
+          git push origin main
