@@ -17,21 +17,36 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.10'
 
       - name: Clone Private Py Repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      - name: Install Dependencies
+      - name: Install Chrome and ChromeDriver
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip
+          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo dpkg -i google-chrome-stable_current_amd64.deb || sudo apt-get -f install -y
+          CHROME_VERSION=$(google-chrome --version | grep -oP '[0-9.]+' | head -1 | cut -d '.' -f 1)
+          DRIVER_VERSION=$(wget -qO- "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
+          wget https://chromedriver.storage.googleapis.com/$DRIVER_VERSION/chromedriver_linux64.zip
+          unzip chromedriver_linux64.zip
+          sudo mv chromedriver /usr/local/bin/
+          sudo chmod +x /usr/local/bin/chromedriver
+          echo "✅ Chrome ve ChromeDriver kuruldu"
+
+      - name: Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml httpx
+          pip install requests beautifulsoup4 lxml selenium
 
       - name: Run SezonlukDizi Script
-        run: python private_py/sezonlukdizi/proxy3.py
+        run: |
+          export DISPLAY=:99
+          python private_py/sezonlukdizi/proxy3.py
 
-      # ✅ Public repoya push
       - name: Commit and Push to Public Repo (sitem3u)
         run: |
           git config user.name "GitHub Actions"
@@ -40,7 +55,6 @@ jobs:
           git commit -m "SezonlukDizi: public repoda güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # ✅ Private Py repo içine kopyalama
       - name: Copy files to private_py/m3u8/sezonlukdizi
         run: |
           mkdir -p private_py/m3u8/sezonlukdizi
@@ -51,7 +65,6 @@ jobs:
           echo "📁 Kopyalanan dosyalar:"
           ls -lh private_py/m3u8/sezonlukdizi
 
-      # ✅ Private Py repo'ya push
       - name: Commit and Push to Private Py Repo
         run: |
           cd private_py
