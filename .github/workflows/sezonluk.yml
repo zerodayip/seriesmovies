@@ -60,3 +60,10 @@ jobs:
           git add m3u8/sezonlukdizi/*.m3u
           git commit -m "SezonlukDizi çıktıları m3u8/sezonlukdizi klasörüne eklendi [auto]" || echo "No changes"
           git push origin main
+
+      - name: Create or Update sil.txt (Trigger file)
+        run: |
+          echo "This is a trigger file $(date)" > sil.txt
+          git add sil.txt
+          git commit -m "Trigger to Next Step"
+          git push origin main
