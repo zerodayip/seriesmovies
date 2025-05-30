@@ -23,20 +23,12 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      - name: Install Chrome and ChromeDriver
+      - name: Install Chromium and Chromedriver via apt
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget unzip
-          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo dpkg -i google-chrome-stable_current_amd64.deb || true
-          sudo apt-get install -f -y
-          CHROME_VERSION=$(google-chrome --version | grep -oP '[0-9.]+' | head -1 | cut -d '.' -f 1)
-          DRIVER_VERSION=$(wget -qO- "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
-          wget https://chromedriver.storage.googleapis.com/$DRIVER_VERSION/chromedriver_linux64.zip
-          unzip chromedriver_linux64.zip
-          sudo mv chromedriver /usr/local/bin/
-          sudo chmod +x /usr/local/bin/chromedriver
-          echo "✅ Chrome ve ChromeDriver kuruldu"
+          sudo apt-get install -y chromium-browser chromium-chromedriver
+          sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver
+          echo "✅ Chromium ve Chromedriver kuruldu"
 
       - name: Install Python Dependencies
         run: |
@@ -44,8 +36,9 @@ jobs:
           pip install requests beautifulsoup4 lxml selenium
 
       - name: Run SezonlukDizi Script
+        env:
+          DISPLAY: :99
         run: |
-          export DISPLAY=:99
           python private_py/sezonlukdizi/proxy3.py
 
       - name: Commit and Push to Public Repo (sitem3u)
