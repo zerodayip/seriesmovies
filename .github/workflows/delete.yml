@@ -21,7 +21,7 @@ jobs:
 
       - name: Delete all files except data.html in 'sdizi' folder
         run: |
-          find sdizi -type f ! -name 'logo.txt'  -exec git rm {} \;
+          find sdizi -type f ! -name 'queries.txt'  -exec git rm {} \;
 
       - name: Delete all files except a.txt in 'r' folder
         run: |
