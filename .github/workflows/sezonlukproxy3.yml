@@ -26,10 +26,10 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml
+          pip install requests beautifulsoup4 lxml httpx
 
       - name: Run SezonlukDizi Script
-        run: python private_py/sezonlukdizi/proxy2.py
+        run: python private_py/sezonlukdizi/proxy3.py
 
       # ✅ Public repoya push
       - name: Commit and Push to Public Repo (sitem3u)
