@@ -44,7 +44,7 @@ jobs:
       - name: Copy files to private_py/m3u8/sezonlukdizi
         run: |
           mkdir -p private_py/m3u8/sezonlukdizi
-          cp r/*.m3u private_py/m3u8/sezonlukdizi/ || echo "m3u dosyaları kopyalanamadı"
+          cp sdizi/*.m3u private_py/m3u8/sezonlukdizi/ || echo "m3u dosyaları kopyalanamadı"
 
       - name: Check copied files
         run: |
