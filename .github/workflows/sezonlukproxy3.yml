@@ -1,4 +1,4 @@
-name: Run SezonlukDizi Script 3
+name: Run SezonlukDizi Script with Playwright
 
 on:
   workflow_dispatch:
@@ -9,13 +9,13 @@ jobs:
 
     steps:
       - name: Checkout Public Repo (sitem3u)
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
           ref: main
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
@@ -23,38 +23,21 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      - name: Install Google Chrome and ChromeDriver
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y wget unzip curl gnupg
-          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo dpkg -i google-chrome-stable_current_amd64.deb || true
-          sudo apt-get install -f -y
-
-          CHROME_VERSION=$(google-chrome --version | grep -oP '[0-9.]+' | head -1 | cut -d '.' -f 1)
-          DRIVER_VERSION=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
-          wget https://chromedriver.storage.googleapis.com/$DRIVER_VERSION/chromedriver_linux64.zip
-          unzip chromedriver_linux64.zip
-          sudo mv chromedriver /usr/local/bin/
-          sudo chmod +x /usr/local/bin/chromedriver
-
       - name: Install Python Dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml selenium
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml playwright
+          playwright install chromium
 
-      - name: Run SezonlukDizi Script
-        env:
-          DISPLAY: :99
-        run: |
-          python private_py/sezonlukdizi/proxy3.py
+      - name: Run SezonlukDizi Script (Playwright)
+        run: python private_py/sezonlukdizi/proxy3.py
 
       - name: Commit and Push to Public Repo (sitem3u)
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add sdizi/*.m3u
-          git commit -m "SezonlukDizi: public repoda güncellendi [auto]" || echo "No changes"
+          git commit -m "SezonlukDizi güncellendi [auto]" || echo "No changes"
           git push origin main
 
       - name: Copy files to private_py/m3u8/sezonlukdizi
@@ -62,16 +45,11 @@ jobs:
           mkdir -p private_py/m3u8/sezonlukdizi
           cp sdizi/*.m3u private_py/m3u8/sezonlukdizi/ || echo "m3u dosyaları kopyalanamadı"
 
-      - name: Check copied files
-        run: |
-          echo "📁 Kopyalanan dosyalar:"
-          ls -lh private_py/m3u8/sezonlukdizi
-
-      - name: Commit and Push to Private Py Repo
+      - name: Push to Private Py Repo
         run: |
           cd private_py
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add m3u8/sezonlukdizi/*.m3u
-          git commit -m "SezonlukDizi çıktıları m3u8/sezonlukdizi klasörüne eklendi [auto]" || echo "No changes"
+          git commit -m "SezonlukDizi çıktıları güncellendi [auto]" || echo "No changes"
           git push origin main
