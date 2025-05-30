@@ -23,21 +23,21 @@ jobs:
         run: |
           find sdizi -type f ! -name 'queries.txt'  -exec git rm {} \;
 
-      - name: Delete all files except a.txt in 'r' folder
-        run: |
-          find r -type f ! -name 'a.txt' -exec git rm {} \;
+#      - name: Delete all files except a.txt in 'r' folder
+#        run: |
+#          find r -type f ! -name 'a.txt' -exec git rm {} \;
 
-      - name: Delete all files except logo.txt and ana_link.txt in 's' folder
-        run: |
-          find s -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} \;
+#      - name: Delete all files except logo.txt and ana_link.txt in 's' folder
+#        run: |
+#          find s -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} \;
 
-      - name: Delete all files except logo.txt and ana_link.txt in 'g' folder
-        run: |
-          find g -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} \;
+#      - name: Delete all files except logo.txt and ana_link.txt in 'g' folder
+#        run: |
+#          find g -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} \;
 
-      - name: Delete all files except logo.txt, livejson.py, and schedule.json in 'd' folder
-        run: |
-          find d -type f ! -name 'logo.txt' ! -name 'livejson.py' ! -name 'livejson2.py' ! -name 'kana2l.m3u' ! -name 'schedule.json' -exec git rm {} \;
+#      - name: Delete all files except logo.txt, livejson.py, and schedule.json in 'd' folder
+#        run: |
+#          find d -type f ! -name 'logo.txt' ! -name 'livejson.py' ! -name 'livejson2.py' ! -name 'kana2l.m3u' ! -name 'schedule.json' -exec git rm {} \;
 
       - name: Commit and push the changes
         run: |
