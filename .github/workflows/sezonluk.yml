@@ -29,14 +29,14 @@ jobs:
           pip install requests beautifulsoup4 lxml
 
       - name: Run SezonlukDizi Script
-        run: python private_py/sezonlukdizi/proxy.py
+        run: python private_py/sezonlukdizi/proxy2.py
 
       # ✅ Public repoya push
       - name: Commit and Push to Public Repo (sitem3u)
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add r/*.m3u
+          git add sdizi/*.m3u
           git commit -m "SezonlukDizi: public repoda güncellendi [auto]" || echo "No changes"
           git push origin main
 
