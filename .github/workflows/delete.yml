@@ -1,9 +1,10 @@
 name: Delete Files
 
 on:
-  push:
-    paths:
-      - 'sil.txt'  # Bu dosya eklendiğinde workflow tetiklenecek
+  workflow_run:
+    workflows: ["Run SezonlukDizi Script"]
+    types:
+      - completed
   workflow_dispatch:  # Bu tetikleyici manuel çalıştırmaya izin verir
 
 jobs:
