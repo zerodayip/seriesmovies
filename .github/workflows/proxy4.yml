@@ -30,7 +30,7 @@ jobs:
           playwright install chromium
 
       - name: Run SezonlukDizi Script (Playwright)
-        run: python private_py/sezonlukdizi/proxy3.py
+        run: python private_py/sezonlukdizi/proxy4.py
 
       - name: Commit and Push to Public Repo (sitem3u)
         run: |
