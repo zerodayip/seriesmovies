@@ -1,4 +1,4 @@
-name: Run SezonlukDizi Script with Playwright 4
+name: Run SezonlukDizi Script
 
 on:
   workflow_dispatch:
@@ -30,7 +30,7 @@ jobs:
           playwright install chromium
 
       - name: Run SezonlukDizi Script (Playwright)
-        run: python private_py/sezonlukdizi/proxy4.py
+        run: python private_py/sezonlukdizi/proxy3.py
 
       - name: Commit and Push to Public Repo (sitem3u)
         run: |
