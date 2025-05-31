@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://sezonlukdizi6.com/i/dizi400/b/l/1166.jpg" group-title="YENİ DİZİLER", BLACK MIRROR S01E01
 https://zeroipday-full.hf.space/proxy/vidmoly?url=https://vidmoly.to/embed-f3xpgdn73f6k.html
+
+#EXTINF:-1 tvg-id="None" tvg-name="24" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TURKEY", 24
+https://zeroipday-zeroipday.hf.space/proxy/m3u?url=https://vavoo.to/play/1702937932/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="24 HABER HD+ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TURKEY", 24 HABER HD+ SD
+https://zeroipday-zeroipday.hf.space/proxy/m3u?url=https://vavoo.to/play/3828793616/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="24 KITCHEN" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TURKEY", 24 KITCHEN
+https://zeroipday-zeroipday.hf.space/proxy/m3u?url=https://vavoo.to/play/3329504843/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="24 KITCHEN" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TURKEY", 24 KITCHEN
+https://zeroipday-zeroipday.hf.space/proxy/m3u?url=https://vavoo.to/play/3295699287/index.m3u8
