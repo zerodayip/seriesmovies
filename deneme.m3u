@@ -1,6 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/137.jpg" group-title="YENİ DİZİLER", BLACK MIRROR S01E01 (2011 - IMDB: 8.8 - DUBLAJ)
-#EXTVLCOPT:http-referrer=https://video.sibnet.ru/shell.php?videoid=5875678
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G960F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36
-https://video.sibnet.ru/v/19581d5b6162efacd37e2e686aaca9dc/5875678.mp4
+#EXTINF:-1 tvg-logo="https://sezonlukdizi6.com/i/dizi400/b/l/1166.jpg" group-title="YENİ DİZİLER", BLACK MIRROR S01E01
+/proxy/resolve?host=sibnet&url=https%3A%2F%2Fsezonlukdizi6.com%2Fblack-mirror%2F1-sezon-1-bolum.html
