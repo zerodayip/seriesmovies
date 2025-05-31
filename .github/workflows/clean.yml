@@ -1,0 +1,49 @@
+name: Workflow Geçmişini Temizle (Private Repo 'Py' ile)
+
+on:
+  # Manuel başlatma
+  workflow_dispatch:
+
+  # 5 saat 20 dakika arayla çalışacak zamanlama
+#  schedule:
+#    - cron: '20 */5 * * *'  # Her 5 saatte bir, 20. dakikada çalışır (5 saat 20 dakika arayla)
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ana repo'yu çek
+        uses: actions/checkout@v4
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Py repo'sunu klonla
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: requests kütüphanesini yükle
+        run: pip install requests
+
+      - name: Aktif Workflow'ları kontrol et
+        run: |
+          while true; do
+            active_runs=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" "https://api.github.com/repos/${{ github.repository_owner }}/${{ github.repository_name }}/actions/runs?status=in_progress" | jq '.workflow_runs | length')
+            if [ "$active_runs" -eq "0" ]; then
+              echo "✅ Aktif workflow bulunamadı, işlem başlatılıyor..."
+              break
+            else
+              echo "⚠️ Aktif workflow mevcut, bekleniyor..."
+              sleep 60  # 60 saniye bekle ve tekrar dene
+            fi
+          done
+
+      - name: Workflow geçmişini sil
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPO_OWNER: ${{ github.repository_owner }}
+          REPO_NAME: ${{ github.event.repository.name }}
+        run: python private_py/delete_runs.py
