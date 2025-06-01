@@ -1,18 +1,6 @@
 {
-  "Black Mirror": {
-    "last_season": 7,
-    "last_episode": 6
-  },
-  "Love, Death": {
-    "last_season": 4,
-    "last_episode": 10
-  },
   "Murder Drones": {
-    "last_season": 1,
-    "last_episode": 8
-  },
-  "The Better Sister": {
-    "last_season": 1,
-    "last_episode": 8
+    "last_season": 0,
+    "last_episode": 0
   }
 }
