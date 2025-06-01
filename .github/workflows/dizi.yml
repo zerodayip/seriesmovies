@@ -35,20 +35,20 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add sdizi/*.m3u sdizi/diziler.json
+          git add sdizi/**/**/*.m3u sdizi/diziler.json
           git commit -m "SezonlukDizi güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      - name: Copy updated M3U files to private repo
+      - name: Copy updated M3U folders to private repo
         run: |
           mkdir -p private_py/m3u8/sezonlukdizi
-          cp sdizi/*.m3u private_py/m3u8/sezonlukdizi/ || echo "m3u yok"
+          cp -r sdizi/* private_py/m3u8/sezonlukdizi/
 
       - name: Push to Private Py Repo
         run: |
           cd private_py
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add m3u8/sezonlukdizi/*.m3u
+          git add m3u8/sezonlukdizi/**/**/*.m3u
           git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
