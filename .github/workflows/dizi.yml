@@ -28,6 +28,11 @@ jobs:
           pip install --upgrade pip
           pip install requests beautifulsoup4 lxml
 
+      - name: Copy old M3U files from private repo before script runs
+        run: |
+          mkdir -p sdizi
+          cp private_py/m3u8/sezonlukdizi/*.m3u sdizi/ || echo "Eski m3u yok"
+
       - name: Run SezonlukDizi Script (No Playwright)
         run: python private_py/sezonlukdizi/dizi.py
 
@@ -35,14 +40,14 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add sdizi/*.m3u
+          git add sdizi/*.m3u sdizi/diziler.json
           git commit -m "SezonlukDizi güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      - name: Copy files to private_py/m3u8/sezonlukdizi
+      - name: Copy updated M3U files to private_py/m3u8/sezonlukdizi
         run: |
           mkdir -p private_py/m3u8/sezonlukdizi
-          cp sdizi/*.m3u private_py/m3u8/sezonlukdizi/ || echo "m3u dosyaları kopyalanamadı"
+          cp sdizi/*.m3u private_py/m3u8/sezonlukdizi/ || echo "m3u dosyaları yok"
 
       - name: Push to Private Py Repo
         run: |
