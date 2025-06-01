@@ -31,21 +31,18 @@ jobs:
       - name: Run SezonlukDizi Script
         run: python private_py/sezonlukdizi/dizi.py
 
-      - name: Debug Output
-        run: find sdizi -name "*.m3u"
-
       - name: Commit and Push to Public Repo (sitem3u)
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add sdizi/**/*.m3u sdizi/diziler.json || echo "Dosya yok"
+          git add sdizi/**/*.m3u sdizi/diziler.json || echo "No files"
           git commit -m "SezonlukDizi güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      - name: Copy updated M3U folders to private repo
+      - name: Copy updated M3U folders to private repo (with structure)
         run: |
           mkdir -p private_py/m3u8/sezonlukdizi
-          cp -r sdizi/* private_py/m3u8/sezonlukdizi/
+          rsync -a sdizi/ private_py/m3u8/sezonlukdizi/
 
       - name: Push to Private Py Repo
         run: |
