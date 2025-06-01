@@ -1,4 +1,4 @@
-name: Run SezonlukDizi Script (No Playwright)
+name: Run SezonlukDizi Script JSON
 
 on:
   workflow_dispatch:
