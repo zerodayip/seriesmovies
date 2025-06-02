@@ -29,7 +29,7 @@ jobs:
           pip install requests beautifulsoup4 lxml
 
       - name: Run SezonlukDizi Script
-        run: python private_py/sezonlukdizi/dizi.py
+        run: python private_py/sezonlukdizi/dizi2.py
 
       - name: Commit and Push to Public Repo (sitem3u)
         run: |
