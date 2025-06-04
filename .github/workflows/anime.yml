@@ -26,7 +26,8 @@ jobs:
       - name: Install Python Dependencies
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml pycryptodome
+          pip install playwright beautifulsoup4
+          playwright install
 
       - name: Run TurkAnime Script
         run: python private_py/turkanime/turkanime.py
