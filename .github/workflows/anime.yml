@@ -26,7 +26,7 @@ jobs:
       - name: Install Python Dependencies
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml Crypto
+          pip install requests beautifulsoup4 lxml pycryptodome
 
       - name: Run TurkAnime Script
         run: python private_py/turkanime/turkanime.py
