@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add anime/**/*.m3u anime/animeler.json || echo "No files"
+          git add debug.html anime/**/*.m3u anime/animeler.json || echo "No files"
           git commit -m "SezonlukDizi güncellendi [auto]" || echo "No changes"
           git push origin main
 
