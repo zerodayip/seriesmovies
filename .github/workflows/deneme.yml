@@ -27,4 +27,4 @@ jobs:
 
       - name: Mediafire download linkini trafik üzerinden yakala
         run: |
-          python mediafire_network_extract.py "${{ github.event.inputs.mediafire_url }}"
+          python a.py "${{ github.event.inputs.mediafire_url }}"
