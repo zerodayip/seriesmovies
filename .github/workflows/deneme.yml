@@ -1,4 +1,4 @@
-name: Mediafire Playwright Direct Link
+name: Mediafire HTML Dump
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ on:
         default: 'https://www.mediafire.com/file/8lyizr4y1l5v91u/zuihou-de-zhaohuan-shi-11-bolum.mp4/file'
 
 jobs:
-  get-link:
+  get-html:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,6 +23,12 @@ jobs:
         run: |
           python -m playwright install chromium
 
-      - name: Get Mediafire direct link
+      - name: Run script to get Mediafire HTML
         run: |
-          python a.py "${{ github.event.inputs.mediafire_url }}"
+          python mediafire_playwright.py "${{ github.event.inputs.mediafire_url }}"
+
+      - name: Upload html.txt as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: mediafire-html
+          path: html.txt
