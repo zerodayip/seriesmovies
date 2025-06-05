@@ -1,20 +1,18 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-import time
 
-# Mediafire linkini buraya gir
-mediafire_url = "https://www.mediafire.com/file/8lyizr4y1l5v91u/zuihou-de-zhaohuan-shi-11-bolum.mp4/file"
+chrome_options = Options()
+# JavaScript'i kapat (en güncel yol)
+chrome_options.add_experimental_option("prefs", {
+    "profile.managed_default_content_settings.javascript": 2
+})
 
-options = Options()
-options.add_argument("--headless")  # Tarayıcıyı görünmez açmak için (istemezsen kaldırabilirsin)
-driver = webdriver.Chrome(options=options)
+driver = webdriver.Chrome(options=chrome_options)
 
-driver.get(mediafire_url)
-time.sleep(5)  # Sayfa tamamen yüklensin
+# Artık JS devre dışı! İlk istekte bile JS çalışmaz.
+driver.get("https://www.mediafire.com/file/8lyizr4y1l5v91u/zuihou-de-zhaohuan-shi-11-bolum.mp4/file")
 
-# Tüm HTML'yi al ve yazdır
 html = driver.page_source
-print(html)
+print(html[:1000])  # örnek: ilk 1000 karakteri yazdır
 
 driver.quit()
