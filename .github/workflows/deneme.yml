@@ -6,7 +6,7 @@ on:
       mediafire_url:
         description: 'Mediafire dosya sayfası linki'
         required: true
-        default: 'https://www.mediafire.com/file/8lyizr4y1l5v91u/zuihou-de-zhaohuan-shi-11-bolum.mp4/file'
+        default: 'https://www.mediafire.com/file/5hzht41ucsw67kz/Berserk-.The.Golden.Age.Arc.%25E2%2580%2593.Memorial.Edition.1..Sezon.3..B%25C3%25B6l%25C3%25BCm.izle.%25E2%2580%2593.mp4/file?offerShown'
 
 jobs:
   extract-download-link:
