@@ -1,34 +1,43 @@
-name: Mediafire HTML Dump
+name: Mediafire Mobile Download Link Extractor
 
 on:
   workflow_dispatch:
     inputs:
       mediafire_url:
-        description: 'Mediafire file link'
+        description: 'Mediafire dosya linki'
         required: true
         default: 'https://www.mediafire.com/file/8lyizr4y1l5v91u/zuihou-de-zhaohuan-shi-11-bolum.mp4/file'
 
 jobs:
-  get-html:
+  extract-download-link:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Kodları çek
+        uses: actions/checkout@v4
 
-      - name: Install Python dependencies
+      - name: Python ve pip kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Bağımlılıkları yükle
         run: |
           python -m pip install --upgrade pip
-          pip install playwright
+          pip install selenium
 
-      - name: Install Playwright Browsers
+      - name: Chrome ve chromedriver kur
         run: |
-          python -m playwright install chromium
+          sudo apt-get update
+          sudo apt-get install -y wget unzip
+          wget -q -O chrome.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt-get install -y ./chrome.deb
+          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+\.\d+')
+          wget -q -O chromedriver.zip "https://storage.googleapis.com/chrome-for-testing-public/$CHROME_VERSION/linux64/chromedriver-linux64.zip" || \
+          wget -q -O chromedriver.zip "https://chromedriver.storage.googleapis.com/$(echo $CHROME_VERSION | cut -d. -f1-3)/chromedriver_linux64.zip"
+          unzip chromedriver.zip
+          sudo mv chromedriver-linux64/chromedriver /usr/local/bin/ 2>/dev/null || sudo mv chromedriver /usr/local/bin/
+          sudo chmod +x /usr/local/bin/chromedriver
 
-      - name: Run script to get Mediafire HTML
+      - name: Mediafire download butonunun href'ini mobil tarayıcı gibi kopyala
         run: |
-          python a.py "${{ github.event.inputs.mediafire_url }}"
-
-      - name: Upload html.txt as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: mediafire-html
-          path: html.txt
+          python mobile_mediafire.py "${{ github.event.inputs.mediafire_url }}"
