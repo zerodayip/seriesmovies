@@ -25,7 +25,7 @@ jobs:
 
       - name: Run script to get Mediafire HTML
         run: |
-          python mediafire_playwright.py "${{ github.event.inputs.mediafire_url }}"
+          python a.py "${{ github.event.inputs.mediafire_url }}"
 
       - name: Upload html.txt as artifact
         uses: actions/upload-artifact@v4
