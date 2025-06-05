@@ -1,8 +1,7 @@
 import sys
-import re
 from playwright.sync_api import sync_playwright
 
-def print_download_link(url):
+def print_download_button_href(url):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
@@ -12,13 +11,13 @@ def print_download_link(url):
         )
         page = context.new_page()
         page.goto(url, timeout=60000)
-        page.wait_for_timeout(3000)  # JS'in işlemesi için kısa bekleme
+        # 3 saniye bekle, istersen artırabilirsin
+        page.wait_for_timeout(3000)
 
-        html = page.content()
-        # Download ile başlayan ilk mediafire linkini bul
-        match = re.search(r'https://download[^"\']+mediafire\.com[^"\']+', html)
-        if match:
-            print(match.group(0))
+        # "downloadButton" id'li <a> elementinin href'ini çek
+        href = page.get_attribute("a#downloadButton", "href")
+        if href and href.startswith("https://download") and "mediafire.com" in href:
+            print(href)
         else:
             print("Download link bulunamadı.")
         browser.close()
@@ -27,4 +26,4 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Kullanım: python mediafire_playwright.py <mediafire-link>")
         sys.exit(1)
-    print_download_link(sys.argv[1])
+    print_download_button_href(sys.argv[1])
