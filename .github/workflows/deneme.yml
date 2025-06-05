@@ -1,25 +1,28 @@
-name: Mediafire Direct Link Extractor
+name: Mediafire Playwright Direct Link
 
 on:
-  workflow_dispatch:    # Manuel başlatma için (istenirse cron, push, vs. ekleyebilirsin)
+  workflow_dispatch:
+    inputs:
+      mediafire_url:
+        description: 'Mediafire file link'
+        required: true
+        default: 'https://www.mediafire.com/file/8lyizr4y1l5v91u/zuihou-de-zhaohuan-shi-11-bolum.mp4/file'
 
 jobs:
-  extract-link:
+  get-link:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
-          pip install requests 
+          python -m pip install --upgrade pip
+          pip install playwright
 
-      - name: Extract direct download link from Mediafire
+      - name: Install Playwright Browsers
         run: |
-          python a.py
+          python -m playwright install chromium
+
+      - name: Get Mediafire direct link
+        run: |
+          python mediafire_playwright.py "${{ github.event.inputs.mediafire_url }}"
