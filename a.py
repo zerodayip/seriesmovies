@@ -1,61 +1,47 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+import time
 import sys
-import requests
-from playwright.sync_api import sync_playwright, TimeoutError
 
-def get_download_button_href(url):
-    # Mobil cihaz profiliyle sayfayı açıp downloadButton'un href'ini alır
-    with sync_playwright() as p:
-        iphone = p.devices["Galaxy S9+"]
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(**iphone)
-        page = context.new_page()
-        page.goto(url, timeout=60000)
-        try:
-            # Download butonu DOM'a eklenene kadar bekle
-            page.wait_for_selector("a#downloadButton", timeout=20000)
-            href = page.get_attribute("a#downloadButton", "href")
-            if href:
-                # Bazı durumlarda href "//www.mediafire.com/..." ile başlar
-                if href.startswith("//"):
-                    href = "https:" + href
-                elif href.startswith("/"):
-                    href = "https://www.mediafire.com" + href
-                return href
-            else:
-                print("Download button var ama href yok!")
-                return None
-        except TimeoutError:
-            print("Download button DOM'a hiç gelmedi!")
-            return None
-        finally:
-            browser.close()
+MOBILE_USER_AGENT = (
+    "Mozilla/5.0 (Linux; Android 13; SM-S918B) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/124.0.0.0 Mobile Safari/537.36"
+)
+WINDOW_SIZE = "412,915"  # Galaxy S23 Ultra çözünürlüğü
 
-def get_final_download_url(redirect_url):
-    # GET isteğiyle gerçek download URL'sini yakalar
+chrome_options = Options()
+chrome_options.add_argument("--headless=new")
+chrome_options.add_argument(f"--window-size={WINDOW_SIZE}")
+chrome_options.add_argument(f"--user-agent={MOBILE_USER_AGENT}")
+chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+chrome_options.add_experimental_option('useAutomationExtension', False)
+
+driver = webdriver.Chrome(options=chrome_options)
+
+if len(sys.argv) < 2:
+    print("Kullanım: python mobile_mediafire.py <mediafire-link>")
+    driver.quit()
+    sys.exit(1)
+
+mediafire_url = sys.argv[1]
+driver.get(mediafire_url)
+
+# Download butonunu bekle (en fazla 20 saniye)
+for _ in range(20):
     try:
-        # Stream açık, allow_redirects=True ile son linki bul
-        resp = requests.get(redirect_url, allow_redirects=True, stream=True, timeout=30)
-        print("Son (final) indirme linki:", resp.url)
-        return resp.url
-    except Exception as e:
-        print(f"Hata oluştu: {e}")
-        return None
+        btn = driver.find_element(By.ID, "downloadButton")
+        break
+    except:
+        time.sleep(1)
+else:
+    print("Download button bulunamadı!")
+    driver.quit()
+    sys.exit(1)
 
-if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Kullanım: python mediafire_download_final.py <mediafire-link>")
-        sys.exit(1)
-    
-    mediafire_page_url = sys.argv[1]
+href = btn.get_attribute("href")
+print("Mobil tarayıcıda download butonu href:", href)
 
-    print("Mediafire dosya sayfası:", mediafire_page_url)
-    print("Buton href'i çekiliyor...")
-
-    download_href = get_download_button_href(mediafire_page_url)
-
-    if download_href:
-        print("Download button href:", download_href)
-        print("Gerçek indirme linki takip ediliyor...")
-        get_final_download_url(download_href)
-    else:
-        print("Hiçbir indirme linki bulunamadı.")
+driver.quit()
