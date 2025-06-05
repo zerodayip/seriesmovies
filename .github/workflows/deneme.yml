@@ -1,10 +1,10 @@
-name: Mediafire Gerçek Download Linkini Çek
+name: Mediafire Otomatik Download Link Extractor
 
 on:
   workflow_dispatch:
     inputs:
       mediafire_url:
-        description: 'Mediafire dosya linki'
+        description: 'Mediafire dosya sayfası linki'
         required: true
         default: 'https://www.mediafire.com/file/8lyizr4y1l5v91u/zuihou-de-zhaohuan-shi-11-bolum.mp4/file'
 
@@ -12,19 +12,20 @@ jobs:
   extract-download-link:
     runs-on: ubuntu-latest
     steps:
-      - name: Kodu çek
+      - name: Kodları çek
         uses: actions/checkout@v4
 
-      - name: Python kur
+      - name: Python ve pip kur
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
       - name: Bağımlılıkları yükle
         run: |
-          pip install playwright
-          python -m playwright install chromium requests
+          python -m pip install --upgrade pip
+          pip install requests playwright
+          python -m playwright install chromium
 
-      - name: Mediafire download linkini trafik üzerinden yakala
+      - name: Mediafire download linkini otomatik çek
         run: |
           python a.py "${{ github.event.inputs.mediafire_url }}"
