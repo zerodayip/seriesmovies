@@ -1,12 +1,23 @@
-import requests
+import sys
+from playwright.sync_api import sync_playwright
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 11; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36",
-    "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-    "Referer": "https://www.google.com/",
-    # Başka header eklemek de yardımcı olabilir
-}
+def get_mediafire_direct_link(url):
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Linux; Android 11; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36",
+            viewport={"width": 375, "height": 812},
+            java_script_enabled=True,
+        )
+        page = context.new_page()
+        page.goto(url, timeout=60000)
+        page.wait_for_selector("#downloadButton", timeout=60000)
+        link = page.get_attribute("#downloadButton", "href")
+        print(link if link else "Bulunamadı.")
+        browser.close()
 
-r = requests.get("https://www.mediafire.com/file/8lyizr4y1l5v91u/zuihou-de-zhaohuan-shi-11-bolum.mp4/file", headers=headers)
-print(r.text)
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Kullanım: python mediafire_playwright.py <mediafire-link>")
+        sys.exit(1)
+    get_mediafire_direct_link(sys.argv[1])
