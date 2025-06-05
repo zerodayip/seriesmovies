@@ -25,4 +25,4 @@ jobs:
 
       - name: Get Mediafire direct link
         run: |
-          python mediafire_playwright.py "${{ github.event.inputs.mediafire_url }}"
+          python a.py "${{ github.event.inputs.mediafire_url }}"
