@@ -1,7 +1,7 @@
 import sys
 from playwright.sync_api import sync_playwright
 
-def get_mediafire_direct_link(url):
+def print_full_html(url):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
@@ -11,13 +11,13 @@ def get_mediafire_direct_link(url):
         )
         page = context.new_page()
         page.goto(url, timeout=60000)
-        page.wait_for_selector("#downloadButton", timeout=60000)
-        link = page.get_attribute("#downloadButton", "href")
-        print(link if link else "Bulunamadı.")
+        page.wait_for_timeout(3000)  # sayfanın tam yüklenmesini beklemek için 3 saniye
+        html = page.content()
+        print(html)
         browser.close()
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Kullanım: python mediafire_playwright.py <mediafire-link>")
         sys.exit(1)
-    get_mediafire_direct_link(sys.argv[1])
+    print_full_html(sys.argv[1])
