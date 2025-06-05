@@ -9,17 +9,17 @@ def get_download_button_href_and_real_link(mediafire_url):
         )
         page = context.new_page()
         found_download_url = None
+        found_dkey_link = None
 
         def handle_response(response):
+            nonlocal found_download_url
             url = response.url
-            print("AĞ:", url)
             if url.startswith("https://download") and "mediafire.com" in url and (
                 url.endswith(".mp4")
                 or url.endswith(".mkv")
                 or url.endswith(".zip")
                 or url.endswith(".rar")
             ):
-                nonlocal found_download_url
                 found_download_url = url
 
         page.on("response", handle_response)
@@ -28,25 +28,24 @@ def get_download_button_href_and_real_link(mediafire_url):
 
         # Dkey içeren download butonunun href'ini çek
         btn = page.query_selector("a#downloadButton")
-        if not btn:
+        if btn:
+            found_dkey_link = btn.get_attribute("href")
+            print("dkey'li link:", found_dkey_link)
+            # Dkey link tam adres değilse tamamla
+            if found_dkey_link.startswith("//"):
+                found_dkey_link = "https:" + found_dkey_link
+            elif found_dkey_link.startswith("/"):
+                found_dkey_link = "https://www.mediafire.com" + found_dkey_link
+            # Butona tıkla
+            btn.click()
+            page.wait_for_timeout(15000)  # 15 saniye bekle (gerekirse artır)
+        else:
             print("Download butonu bulunamadı!")
             browser.close()
             return
 
-        found_dkey_link = btn.get_attribute("href")
-        print("dkey'li link:", found_dkey_link)
-        # Dkey link tam adres değilse tamamla
-        if found_dkey_link.startswith("//"):
-            found_dkey_link = "https:" + found_dkey_link
-        elif found_dkey_link.startswith("/"):
-            found_dkey_link = "https://www.mediafire.com" + found_dkey_link
-
-        # Şimdi dkey'li linke tekrar GET at ve ağı dinle!
-        page.goto(found_dkey_link, timeout=60000)
-        page.wait_for_timeout(15000)  # 15 saniye bekle (gerekirse artır)
-
         if found_download_url:
-            print("\nGerçek download link:", found_download_url)
+            print("Gerçek download link:", found_download_url)
         else:
             print("Gerçek download link bulunamadı!")
         browser.close()
