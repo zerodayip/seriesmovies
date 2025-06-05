@@ -6,7 +6,7 @@ on:
       mediafire_url:
         description: 'Mediafire dosya linki'
         required: true
-        default: 'https://www.mediafire.com/file/8lyizr4y1l5v91u/zuihou-de-zhaohuan-shi-11-bolum.mp4/file?dkey=xekn3tgivyl&r=121'
+        default: 'https://www.mediafire.com/file/8lyizr4y1l5v91u/zuihou-de-zhaohuan-shi-11-bolum.mp4/file'
 
 jobs:
   extract-download-link:
@@ -23,7 +23,7 @@ jobs:
       - name: Bağımlılıkları yükle
         run: |
           pip install playwright
-          python -m playwright install chromium
+          python -m playwright install chromium requests
 
       - name: Mediafire download linkini trafik üzerinden yakala
         run: |
