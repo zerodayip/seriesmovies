@@ -1,17 +1,15 @@
 import sys
-from playwright.sync_api import sync_playwright, devices
+from playwright.sync_api import sync_playwright
 
 def print_download_button_href(url):
-    iphone = devices["iPhone 13 Pro"]  # Playwright’ın hazır cihaz profili
     with sync_playwright() as p:
+        iphone = p.devices["iPhone 13 Pro"]  # Doğru cihaz profili erişimi!
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(**iphone)
         page = context.new_page()
         page.goto(url, timeout=60000)
-        # 4 saniye bekle, bazen Cloudflare biraz daha geç açılıyor
-        page.wait_for_timeout(4000)
+        page.wait_for_timeout(4000)  # Cloudflare için bekleme
 
-        # downloadButton id'li <a>'nın href'ini çek
         href = page.get_attribute("a#downloadButton", "href")
         if href and href.startswith("https://download") and "mediafire.com" in href:
             print(href)
