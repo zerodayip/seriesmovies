@@ -11,22 +11,23 @@ def get_download_button_href_and_real_link(mediafire_url):
         found_download_url = None
         found_dkey_link = None
 
+        # Tüm ağ isteklerini izle
         def handle_response(response):
-            nonlocal found_download_url
             url = response.url
+            print("Ağ isteği:", url)
             if url.startswith("https://download") and "mediafire.com" in url and (
                 url.endswith(".mp4")
                 or url.endswith(".mkv")
                 or url.endswith(".zip")
                 or url.endswith(".rar")
             ):
+                nonlocal found_download_url
                 found_download_url = url
 
         page.on("response", handle_response)
         page.goto(mediafire_url, timeout=60000)
         page.wait_for_selector("a#downloadButton", timeout=20000)
 
-        # Dkey içeren download butonunun href'ini çek
         btn = page.query_selector("a#downloadButton")
         if btn:
             found_dkey_link = btn.get_attribute("href")
@@ -36,9 +37,18 @@ def get_download_button_href_and_real_link(mediafire_url):
                 found_dkey_link = "https:" + found_dkey_link
             elif found_dkey_link.startswith("/"):
                 found_dkey_link = "https://www.mediafire.com" + found_dkey_link
-            # Butona tıkla
+
+            # 1) Download butonuna tıkla
             btn.click()
-            page.wait_for_timeout(15000)  # 15 saniye bekle (gerekirse artır)
+            print("Butona tıklandı, bekleniyor...")
+            page.wait_for_timeout(10000)  # 10 saniye bekle
+
+            # 2) dkey'li linke de doğrudan GET isteği at
+            print("dkey'li linke de doğrudan gidiliyor...")
+            page2 = context.new_page()
+            page2.on("response", handle_response)
+            page2.goto(found_dkey_link, timeout=60000)
+            page2.wait_for_timeout(10000)  # 10 saniye bekle
         else:
             print("Download butonu bulunamadı!")
             browser.close()
