@@ -40,4 +40,4 @@ jobs:
 
       - name: Mediafire download butonunun href'ini mobil tarayıcı gibi kopyala
         run: |
-          python mobile_mediafire.py "${{ github.event.inputs.mediafire_url }}"
+          python a.py "${{ github.event.inputs.mediafire_url }}"
