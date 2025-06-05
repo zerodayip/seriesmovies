@@ -1,47 +1,34 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-import time
+from playwright.sync_api import sync_playwright
 import sys
 
-MOBILE_USER_AGENT = (
-    "Mozilla/5.0 (Linux; Android 13; SM-S918B) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/124.0.0.0 Mobile Safari/537.36"
-)
-WINDOW_SIZE = "412,915"  # Galaxy S23 Ultra çözünürlüğü
+def find_real_download_url(mediafire_url):
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(user_agent="Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36")
+        page = context.new_page()
+        found = None
 
-chrome_options = Options()
-chrome_options.add_argument("--headless=new")
-chrome_options.add_argument(f"--window-size={WINDOW_SIZE}")
-chrome_options.add_argument(f"--user-agent={MOBILE_USER_AGENT}")
-chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-chrome_options.add_experimental_option('useAutomationExtension', False)
+        def handle_response(response):
+            nonlocal found
+            url = response.url
+            # Gerçek indirme linkini filtrele
+            if url.startswith("https://download") and "mediafire.com" in url and url.endswith(".mp4"):
+                found = url
 
-driver = webdriver.Chrome(options=chrome_options)
+        page.on("response", handle_response)
+        page.goto(mediafire_url, timeout=60000)
+        page.wait_for_selector("a#downloadButton", timeout=20000)
+        page.click("a#downloadButton")
+        page.wait_for_timeout(8000)  # İsteklerin gelmesini bekle
 
-if len(sys.argv) < 2:
-    print("Kullanım: python mobile_mediafire.py <mediafire-link>")
-    driver.quit()
-    sys.exit(1)
+        if found:
+            print("Gerçek download link:", found)
+        else:
+            print("Gerçek link bulunamadı!")
+        browser.close()
 
-mediafire_url = sys.argv[1]
-driver.get(mediafire_url)
-
-# Download butonunu bekle (en fazla 20 saniye)
-for _ in range(20):
-    try:
-        btn = driver.find_element(By.ID, "downloadButton")
-        break
-    except:
-        time.sleep(1)
-else:
-    print("Download button bulunamadı!")
-    driver.quit()
-    sys.exit(1)
-
-href = btn.get_attribute("href")
-print("Mobil tarayıcıda download butonu href:", href)
-
-driver.quit()
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Kullanım: python mediafire_network_extract.py <mediafire-link>")
+        sys.exit(1)
+    find_real_download_url(sys.argv[1])
