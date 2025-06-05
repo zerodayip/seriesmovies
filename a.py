@@ -5,7 +5,7 @@ from playwright.sync_api import sync_playwright, TimeoutError
 def get_download_button_href(url):
     # Mobil cihaz profiliyle sayfayı açıp downloadButton'un href'ini alır
     with sync_playwright() as p:
-        iphone = p.devices["Galaxy S20 Ultra"]
+        iphone = p.devices["Galaxy S9+"]
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(**iphone)
         page = context.new_page()
