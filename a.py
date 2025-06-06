@@ -2,9 +2,8 @@ from playwright.sync_api import sync_playwright
 import sys
 import os
 
-def sniff_everything(mediafire_url):
+def sniff_download_links(mediafire_url):
     with sync_playwright() as p:
-        # Headless + no-sandbox (online ve GUI olmayan ortamlarda sorun çıkarmaz)
         browser = p.chromium.launch(
             headless=True,
             args=["--no-sandbox"]
@@ -14,24 +13,24 @@ def sniff_everything(mediafire_url):
         )
         page = context.new_page()
 
-        # Tüm HTTP istekleri
         def on_request(request):
-            print("→ [REQUEST]", request.method, request.url)
+            url = request.url
+            if "download" in url:
+                print("→ [REQUEST]", request.method, url)
 
-        # Tüm HTTP response'ları
         def on_response(response):
-            print("← [RESPONSE]", response.status, response.url)
+            url = response.url
+            if "download" in url:
+                print("← [RESPONSE]", response.status, url)
 
-        # Download event'i (dosya inmeye başlarsa)
         def on_download(download):
+            url = download.url
             print("\n↓↓ [DOWNLOAD EVENT DETECTED]")
-            print("  URL:", download.url)
+            print("  URL:", url)
             print("  Dosya adı:", download.suggested_filename)
             _, ext = os.path.splitext(download.suggested_filename or "")
             print("  Uzantı:", ext)
-            # İstersen download.save_as() ile dosyayı kaydedebilirsin
 
-        # Eventleri bağla
         page.on("request", on_request)
         page.on("response", on_response)
         page.on("download", on_download)
@@ -39,23 +38,20 @@ def sniff_everything(mediafire_url):
         print(f"\n--- {mediafire_url} açılıyor ---\n")
         page.goto(mediafire_url, timeout=60000)
 
-        # Download butonunu bul ve tıkla
         try:
             page.wait_for_selector("a#downloadButton", timeout=20000)
             btn = page.query_selector("a#downloadButton")
             if btn:
                 print("\n--- Download butonuna tıklanıyor ---\n")
                 btn.click()
-
-                # Yeni sekme açılırsa orada da dinleyici kur
+                # Diğer sayfalara da event bağla (açılırsa)
                 for p2 in context.pages:
                     if p2 != page:
                         p2.on("request", on_request)
                         p2.on("response", on_response)
                         p2.on("download", on_download)
-
                 print("\n--- Download işlemleri için bekleniyor... ---\n")
-                page.wait_for_timeout(15000)  # 15 saniye bekle (gerekirse artır)
+                page.wait_for_timeout(15000)
             else:
                 print("Download butonu bulunamadı!")
         except Exception as e:
@@ -66,6 +62,6 @@ def sniff_everything(mediafire_url):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Kullanım: python mediafire_sniffer.py <mediafire-link>")
+        print("Kullanım: python mediafire_sniffer_downloadonly.py <mediafire-link>")
         sys.exit(1)
-    sniff_everything(sys.argv[1])
+    sniff_download_links(sys.argv[1])
