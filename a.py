@@ -4,10 +4,9 @@ from bs4 import BeautifulSoup
 base_url = "https://aniworld.to"
 page_url = "https://aniworld.to/anime/stream/from-old-country-bumpkin-to-master-swordsman"
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0 Firefox/101.0"
 }
 
-# 1. Bölüm linklerini topla
 response = requests.get(page_url, headers=headers)
 soup = BeautifulSoup(response.text, "html.parser")
 
@@ -25,19 +24,26 @@ if episodes_ul:
 else:
     print("Episoden listesi bulunamadı!")
 
-# 2. Her bölüm sayfasına git
+# Her bölüm için çıktı başlığı
 for link in episode_links:
+    print(f"\nEpisode page: {link}")
     ep_resp = requests.get(link, headers=headers)
     ep_soup = BeautifulSoup(ep_resp.text, "html.parser")
 
-    # 3. data-lang-key="2" olan hosterleri bul
+    found = False
     for hoster in ep_soup.select('li[data-lang-key="2"]'):
+        hoster_name = hoster.select_one("h4")
+        name = hoster_name.text.strip() if hoster_name else "Unknown"
         target = hoster.get("data-link-target")
         if target:
             embed_url = requests.compat.urljoin(base_url, target)
-            # 4. Sadece embed linkini (final yönlendirilen URL) yazdır
             try:
                 r = requests.get(embed_url, headers=headers, allow_redirects=True, timeout=10)
-                print(r.url)
+                print(f"  {name}: {r.url}")
+                found = True
             except Exception as e:
-                print(f"(ERROR: {e})")
+                print(f"  {name}: (ERROR: {e})")
+                found = True
+    if not found:
+        print("  No English hosters found.")
+
