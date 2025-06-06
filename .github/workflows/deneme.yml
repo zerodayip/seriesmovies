@@ -1,14 +1,14 @@
-name: Run Playwright Python Script
+name: Print Page HTML with Selenium
 
 on:
   workflow_dispatch:
 
 jobs:
-  run-script:
+  selenium-html:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -16,11 +16,13 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install Python dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install playwright requests
-          playwright install
+          pip install selenium webdriver-manager
 
-      - name: Run a.py
+      - name: Install Google Chrome
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Run a.py (Selenium HTML printer)
         run: python a.py
