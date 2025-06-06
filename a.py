@@ -31,6 +31,7 @@ def sniff_download_links(mediafire_url):
             _, ext = os.path.splitext(download.suggested_filename or "")
             print("  Uzantı:", ext)
 
+        # Dinleyicileri ekle
         page.on("request", on_request)
         page.on("response", on_response)
         page.on("download", on_download)
@@ -38,20 +39,33 @@ def sniff_download_links(mediafire_url):
         print(f"\n--- {mediafire_url} açılıyor ---\n")
         page.goto(mediafire_url, timeout=60000)
 
+        # Download butonunu bul ve tıkla, ayrıca dkey linkine de git
         try:
             page.wait_for_selector("a#downloadButton", timeout=20000)
             btn = page.query_selector("a#downloadButton")
             if btn:
+                found_dkey_link = btn.get_attribute("href")
                 print("\n--- Download butonuna tıklanıyor ---\n")
                 btn.click()
-                # Diğer sayfalara da event bağla (açılırsa)
-                for p2 in context.pages:
-                    if p2 != page:
-                        p2.on("request", on_request)
-                        p2.on("response", on_response)
-                        p2.on("download", on_download)
+
+                # Eğer dkey linki varsa, yeni bir sayfada aç ve aynı dinleyicileri ekle
+                if found_dkey_link:
+                    if found_dkey_link.startswith("//"):
+                        found_dkey_link = "https:" + found_dkey_link
+                    elif found_dkey_link.startswith("/"):
+                        found_dkey_link = "https://www.mediafire.com" + found_dkey_link
+
+                    print("\n--- dkey linkine ayrıca gidiliyor: ---")
+                    print(found_dkey_link)
+                    page2 = context.new_page()
+                    page2.on("request", on_request)
+                    page2.on("response", on_response)
+                    page2.on("download", on_download)
+                    page2.goto(found_dkey_link, timeout=60000)
+                    page2.wait_for_timeout(10000)  # 10 saniye bekle
+
                 print("\n--- Download işlemleri için bekleniyor... ---\n")
-                page.wait_for_timeout(15000)
+                page.wait_for_timeout(10000)  # 10 saniye bekle
             else:
                 print("Download butonu bulunamadı!")
         except Exception as e:
