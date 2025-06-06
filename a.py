@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 base_url = "https://aniworld.to"
-page_url = "https://aniworld.to/anime/stream/from-old-country-bumpkin-to-master-swordsman"
+page_url = "https://aniworld.to/anime/stream/the-beginning-after-the-end"
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0 Firefox/101.0"
 }
