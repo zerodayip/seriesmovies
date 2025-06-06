@@ -1,21 +1,55 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
+import requests
+from bs4 import BeautifulSoup
+import re
 import time
 
-url = "https://www.animeizlesene.com/serie/kusuriya-no-hitorigoto-484-2-season-21-episode"
+def get_embed_links(episode_url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+    }
 
-options = Options()
-options.add_argument("--headless")  # Tarayıcıyı arkaplanda açar, gerekirse kaldırabilirsin
-options.add_argument("--disable-gpu")
-options.add_argument("--no-sandbox")
+    print(f"Loading episode page: {episode_url}")
+    res = requests.get(episode_url, headers=headers)
+    soup = BeautifulSoup(res.text, "html.parser")
 
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-driver.get(url)
-time.sleep(5)  # Sayfanın tam yüklenmesi için 5 sn bekle (gerekirse artırabilirsin)
+    # 1. Find all hoster list elements
+    hoster_list = soup.select("div.hosterSiteVideo ul li")
+    if not hoster_list:
+        print("No hosters found!")
+        return
 
-html = driver.page_source
-print(html)
+    print(f"Found {len(hoster_list)} hosters.")
 
-driver.quit()
+    for hoster in hoster_list:
+        hoster_name = hoster.select_one("h4")
+        name = hoster_name.text.strip() if hoster_name else "Unknown"
+        if name.lower() == "vidoza":
+            continue  # skip vidoza as in original code
+
+        # Each hoster has a data-link-target attribute (redirect link)
+        hoster_link = hoster.get("data-link-target")
+        if not hoster_link:
+            continue
+
+        # Go to the hoster redirect page (it usually redirects to the real embed link)
+        hoster_page_url = requests.compat.urljoin(episode_url, hoster_link)
+        print(f"\nHoster: {name}")
+        print(f"  Redirect page: {hoster_page_url}")
+
+        hoster_res = requests.get(hoster_page_url, headers=headers, allow_redirects=True)
+        # Final URL after all redirects (usually the embed link!)
+        real_embed_url = hoster_res.url
+
+        # Try to find an iframe (optional, for more reliability)
+        hoster_soup = BeautifulSoup(hoster_res.text, "html.parser")
+        iframe = hoster_soup.find("iframe")
+        if iframe and iframe.get("src"):
+            print(f"  Embed iframe: {iframe['src']}")
+        else:
+            # Or print the final redirected URL (often works for VOE, Doodstream, Streamtape, etc.)
+            print(f"  Embed link: {real_embed_url}")
+
+if __name__ == "__main__":
+    # Example episode link (change this to a real episode URL)
+    episode_url = "https://aniworld.to/stream/123456789"  # <-- change to a real episode url!
+    get_embed_links(episode_url)
