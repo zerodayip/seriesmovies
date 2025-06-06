@@ -38,5 +38,10 @@ for link in episode_links:
         target = hoster.get("data-link-target")
         if target:
             embed_url = requests.compat.urljoin(base_url, target)
-            print(f"  {name}: {embed_url}")
-
+            # 4. Asıl yönlendirildiği sayfayı al
+            try:
+                r = requests.get(embed_url, headers=headers, allow_redirects=True, timeout=10)
+                final_url = r.url
+                print(f"  {name}: {embed_url} --> {final_url}")
+            except Exception as e:
+                print(f"  {name}: {embed_url} (ERROR: {e})")
