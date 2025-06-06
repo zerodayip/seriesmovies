@@ -27,21 +27,17 @@ else:
 
 # 2. Her bölüm sayfasına git
 for link in episode_links:
-    print(f"\nEpisode page: {link}")
     ep_resp = requests.get(link, headers=headers)
     ep_soup = BeautifulSoup(ep_resp.text, "html.parser")
 
     # 3. data-lang-key="2" olan hosterleri bul
     for hoster in ep_soup.select('li[data-lang-key="2"]'):
-        hoster_name = hoster.select_one("h4")
-        name = hoster_name.text.strip() if hoster_name else "Unknown"
         target = hoster.get("data-link-target")
         if target:
             embed_url = requests.compat.urljoin(base_url, target)
-            # 4. Asıl yönlendirildiği sayfayı al
+            # 4. Sadece embed linkini (final yönlendirilen URL) yazdır
             try:
                 r = requests.get(embed_url, headers=headers, allow_redirects=True, timeout=10)
-                final_url = r.url
-                print(f"  {name}: {embed_url} --> {final_url}")
+                print(r.url)
             except Exception as e:
-                print(f"  {name}: {embed_url} (ERROR: {e})")
+                print(f"(ERROR: {e})")
