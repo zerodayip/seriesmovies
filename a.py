@@ -8,7 +8,15 @@ async def get_embed_links(video_url):
         browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
         await page.goto(video_url)
-        await page.wait_for_selector('.parilda', timeout=10000)  # max 10sn bekle
+
+        # Önce play tuşunu bul ve tıkla
+        try:
+            await page.click('.play-btn')
+        except Exception as e:
+            print("Play tuşu bulunamadı veya tıklanamadı:", e)
+
+        # Play'dan sonra .parilda'yı bekle
+        await page.wait_for_selector('.parilda', timeout=10000)
 
         # .parilda elementlerini çek
         parilda_elements = await page.query_selector_all('.parilda')
@@ -39,7 +47,6 @@ async def get_embed_links(video_url):
         return embed_links
 
 if __name__ == "__main__":
-    import sys
     url = "https://www.animeizlesene.com/serie/kusuriya-no-hitorigoto-484-2-season-21-episode"
     links = asyncio.run(get_embed_links(url))
     print("Bulunan embed linkleri:")
