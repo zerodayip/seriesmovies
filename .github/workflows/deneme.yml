@@ -1,31 +1,25 @@
-name: Mediafire Otomatik Download Link Extractor
+name: Run a.py
 
 on:
-  workflow_dispatch:
-    inputs:
-      mediafire_url:
-        description: 'Mediafire dosya sayfası linki'
-        required: true
-        default: 'https://www.mediafire.com/file/5hzht41ucsw67kz/Berserk-.The.Golden.Age.Arc.%25E2%2580%2593.Memorial.Edition.1..Sezon.3..B%25C3%25B6l%25C3%25BCm.izle.%25E2%2580%2593.mp4/file?offerShown'
+  workflow_dispatch:  # Manuel başlatmak için
 
 jobs:
-  extract-download-link:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Kodları çek
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - name: Python ve pip kur
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
 
-      - name: Bağımlılıkları yükle
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests playwright
-          python -m playwright install chromium
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
 
-      - name: Mediafire download linkini otomatik çek
-        run: |
-          python a.py "${{ github.event.inputs.mediafire_url }}"
+    - name: Run a.py
+      run: python a.py
