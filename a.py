@@ -51,5 +51,5 @@ def get_embed_links(episode_url):
 
 if __name__ == "__main__":
     # Example episode link (change this to a real episode URL)
-    episode_url = "https://aniworld.to/stream/123456789"  # <-- change to a real episode url!
+    episode_url = "https://aniworld.to/anime/stream/from-old-country-bumpkin-to-master-swordsman"  # <-- change to a real episode url!
     get_embed_links(episode_url)
