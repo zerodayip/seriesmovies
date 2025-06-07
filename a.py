@@ -1,16 +1,40 @@
-import requests
+import asyncio
+from playwright.async_api import async_playwright
 
-url = "https://animeheaven.me/anime.php?h0xu8"
+async def print_episode_html(episode_number):
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=False)  # True yaparsan arka planda çalışır
+        page = await browser.new_page()
+        await page.goto("https://animeheaven.me/anime.php?h0xu8")
+        await page.wait_for_selector("a[href='gate.php']")
 
-# User-Agent eklemek bazı siteler için gereklidir
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-}
+        links = await page.query_selector_all("a[href='gate.php']")
+        found = False
+        for link in links:
+            num_div = await link.query_selector(".watch2")
+            if num_div:
+                text = (await num_div.inner_text()).strip()
+                if text == str(episode_number):
+                    await link.click()
+                    found = True
+                    break
 
-response = requests.get(url, headers=headers)
+        if not found:
+            print(f"Bölüm {episode_number} bulunamadı.")
+            await browser.close()
+            return
 
-# Status kontrolü (isteğe bağlı)
-if response.status_code == 200:
-    print(response.text)
-else:
-    print(f"Hata oluştu: {response.status_code}")
+        # Yeni sekmeye geç
+        if len(page.context.pages) > 1:
+            new_page = page.context.pages[-1]
+        else:
+            new_page = page
+
+        await new_page.wait_for_load_state('load')
+        html_content = await new_page.content()
+        print(f"\n--- Bölüm {episode_number} gate.php HTML kaynağı ---\n")
+        print(html_content)
+        await browser.close()
+
+# 9. bölüm için çağır:
+asyncio.run(print_episode_html(9))
