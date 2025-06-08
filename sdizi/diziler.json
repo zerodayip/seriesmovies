@@ -2,31 +2,43 @@
   "https://sezonlukdizi6.com/diziler/love-death-robots.html": {
     "last_season": 4,
     "last_episode": 10,
+    "last_chunk": 1,
+    "last_chunk_ep": 10,
     "group": ""
   },
   "https://sezonlukdizi6.com/bolumler/blood-of-zeus.html": {
     "last_season": 2,
     "last_episode": 9,
+    "last_chunk": 1,
+    "last_chunk_ep": 9,
     "group": ""
   },
   "https://sezonlukdizi6.com/diziler/wondla.html": {
     "last_season": 1,
     "last_episode": 9,
+    "last_chunk": 1,
+    "last_chunk_ep": 9,
     "group": ""
   },
   "https://sezonlukdizi6.com/diziler/rick-and-morty.html": {
     "last_season": 8,
     "last_episode": 2,
-    "group": "" 
+    "last_chunk": 1,
+    "last_chunk_ep": 2,
+    "group": ""
   },
   "one piece": {
     "last_season": 1,
     "last_episode": 1131,
+    "last_chunk": 76,
+    "last_chunk_ep": 1131,
     "group": "ANİME"
   },
   "The Tom and Jerry Show": {
     "last_season": 0,
     "last_episode": 0,
+    "last_chunk": 0,
+    "last_chunk_ep": 0,
     "group": "THE TOM AND JERRY SHOW"
   }
 }
