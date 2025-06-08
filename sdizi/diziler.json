@@ -1,48 +1,23 @@
 {
-  "Murder Drones": {
-    "last_season": 1,
-    "last_episode": 8,
-    "group": ""
-  },
-  "https://sezonlukdizi6.com/diziler/you.html": {
-    "last_season": 5,
-    "last_episode": 10,
-    "group": ""
-  },
-  "https://sezonlukdizi6.com/diziler/doctor-who-2023.html": {
-    "last_season": 2,
-    "last_episode": 8,
-    "group": ""
-  },
-  "https://sezonlukdizi6.com/diziler/our-unwritten-seoul.html": {
-    "last_season": 1,
-    "last_episode": 5,
-    "group": ""
-  },
   "https://sezonlukdizi6.com/diziler/love-death-robots.html": {
     "last_season": 4,
     "last_episode": 10,
     "group": ""
   },
   "https://sezonlukdizi6.com/bolumler/blood-of-zeus.html": {
-    "last_season": 3,
-    "last_episode": 8,
+    "last_season": 2,
+    "last_episode": 9,
     "group": ""
   },
   "https://sezonlukdizi6.com/diziler/wondla.html": {
-    "last_season": 2,
-    "last_episode": 7,
+    "last_season": 1,
+    "last_episode": 9,
     "group": ""
   },
   "https://sezonlukdizi6.com/diziler/rick-and-morty.html": {
     "last_season": 8,
     "last_episode": 2,
-    "group": ""
-  },
-  "https://sezonlukdizi6.com/bolumler/see.html": {
-    "last_season": 3,
-    "last_episode": 8,
-    "group": ""
+    "group": "" 
   },
   "one piece": {
     "last_season": 1,
@@ -50,8 +25,8 @@
     "group": "ANİME"
   },
   "The Tom and Jerry Show": {
-    "last_season": 5,
-    "last_episode": 39,
+    "last_season": 0,
+    "last_episode": 0,
     "group": "THE TOM AND JERRY SHOW"
   }
 }
