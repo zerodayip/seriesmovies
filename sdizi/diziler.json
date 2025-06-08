@@ -1,16 +1,16 @@
 {
   "https://sezonlukdizi6.com/bolumler/blood-of-zeus.html": {
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 9,
     "last_chunk": 1,
-    "last_chunk_ep": 9,
+    "last_chunk_ep": 8,
     "group": ""
   },
   "one piece": {
     "last_season": 1,
     "last_episode": 1120,
-    "last_chunk": 75,
-    "last_chunk_ep": 1120,
+    "last_chunk": 1,
+    "last_chunk_ep": 1132,
     "group": "ANİME"
   }
 }
