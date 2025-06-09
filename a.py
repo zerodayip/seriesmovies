@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import re
 
 url = "https://filmkovasi.pw/"
 headers = {
@@ -9,13 +10,44 @@ headers = {
 def extract_full_poster(img_tag):
     srcset = img_tag.get("data-srcset")
     if srcset:
-        # En büyük (orijinal) boyutlu url
         url_list = [part.strip().split(' ')[0] for part in srcset.split(',')]
         for url in url_list:
             if '-180x270' not in url and '-152x270' not in url:
                 return url
         return url_list[-1]
     return img_tag.get("data-src")
+
+def fetch_film_sources(film_link):
+    page = 1
+    while True:
+        if page == 1:
+            url = film_link
+        else:
+            if not film_link.endswith('/'):
+                film_link += '/'
+            url = film_link + f"{page}/"
+        try:
+            res = requests.get(url, headers=headers, timeout=15)
+            if res.status_code != 200:
+                break
+            soup = BeautifulSoup(res.text, "html.parser")
+            video_div = soup.find("div", class_="video-container")
+            if not video_div:
+                break
+
+            # Başlık yorumu (<!--baslik:....-->), regex ile alınır
+            m = re.search(r'<!--\s*baslik:(.*?)-->', str(video_div))
+            baslik = m.group(1).strip() if m else "KAYNAK"
+
+            iframe = video_div.find("iframe")
+            if not iframe or not iframe.get("src"):
+                break
+            iframe_src = iframe["src"]
+
+            print(f"{baslik} : {iframe_src}")
+            page += 1
+        except Exception:
+            break
 
 try:
     r = requests.get(url, headers=headers, timeout=15)
@@ -52,6 +84,10 @@ try:
         print("Film link:", film_link)
         if imdb:
             print("IMDB:", imdb)
+
+        # BURAYA EKLEDİK: Film linkine gidip kaynakları yazdır
+        if film_link:
+            fetch_film_sources(film_link)
         print("-" * 50)
 
 except Exception as e:
