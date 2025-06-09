@@ -36,6 +36,8 @@ def fetch_film_sources(film_link):
                 break
             m = re.search(r'<!--\s*baslik:(.*?)-->', str(video_div))
             baslik = m.group(1).strip() if m else "KAYNAK"
+            if baslik.startswith("XB-"):
+                baslik = baslik.replace("XB-", "", 1).strip()
             iframe = video_div.find("iframe")
             if not iframe or not iframe.get("src"):
                 break
@@ -67,15 +69,14 @@ def process_movie(movie):
     elif movie_box.find("div", class_="imdb"):
         imdb = movie_box.find("div", class_="imdb").get_text(strip=True)
 
-    # Önce kaynakları çekelim
     sources = fetch_film_sources(film_link) if film_link else []
     if not sources:
-        return ""  # Kaynak yoksa tamamen atla
+        return ""
 
     output = []
     output.append(f"Yıl: {yil}")
     output.append(f"Poster: {poster_url}")
-    output.append(f"Film adı: {film_adi}")
+    output.append(f"Film adı: {film_adi.upper()}")
     output.append(f"Film link: {film_link}")
     if imdb:
         output.append(f"IMDB: {imdb}")
