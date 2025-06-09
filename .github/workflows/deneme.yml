@@ -1,25 +1,33 @@
-name: Playwright Episode 9 HTML Print
+name: CanliTV M3U Oluşturucu
 
 on:
   workflow_dispatch:
-  
+
 jobs:
-  run-playwright-script:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Repo'yu Klonla
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Python Kurulumu
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.10'
 
-      - name: Install dependencies
+      - name: Bağımlılıkları Kur (Gerekirse)
         run: |
-          pip install playwright
-          playwright install chromium
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Run script (Episode 9 HTML)
-        run: python a.py
+      - name: M3U Oluştur
+        run: python your_script_name.py
+
+      - name: Oluşan Dosyayı Commit Et ve Push'la
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add yeni.m3u
+          git commit -m "🆕 Otomatik M3U güncellemesi [bot]" || echo "No changes to commit"
+          git push
