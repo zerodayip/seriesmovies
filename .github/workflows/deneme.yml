@@ -22,7 +22,7 @@ jobs:
           pip install requests
 
       - name: M3U Oluştur
-        run: python your_script_name.py
+        run: python a.py
 
       - name: Oluşan Dosyayı Commit Et ve Push'la
         run: |
