@@ -67,6 +67,11 @@ def process_movie(movie):
     elif movie_box.find("div", class_="imdb"):
         imdb = movie_box.find("div", class_="imdb").get_text(strip=True)
 
+    # Önce kaynakları çekelim
+    sources = fetch_film_sources(film_link) if film_link else []
+    if not sources:
+        return ""  # Kaynak yoksa tamamen atla
+
     output = []
     output.append(f"Yıl: {yil}")
     output.append(f"Poster: {poster_url}")
@@ -74,10 +79,7 @@ def process_movie(movie):
     output.append(f"Film link: {film_link}")
     if imdb:
         output.append(f"IMDB: {imdb}")
-
-    if film_link:
-        sources = fetch_film_sources(film_link)
-        output.extend(sources)
+    output.extend(sources)
     output.append("-" * 50)
     return "\n".join(output)
 
