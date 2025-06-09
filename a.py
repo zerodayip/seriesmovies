@@ -7,16 +7,14 @@ headers = {
 }
 
 def extract_full_poster(img_tag):
-    # En büyük (orijinal) poster url'sini bul
     srcset = img_tag.get("data-srcset")
     if srcset:
-        for part in srcset.split(','):
-            url = part.strip().split(' ')[0]
-            if not '-180x270' in url:
+        # En büyük (orijinal) boyutlu url
+        url_list = [part.strip().split(' ')[0] for part in srcset.split(',')]
+        for url in url_list:
+            if '-180x270' not in url and '-152x270' not in url:
                 return url
-        # Eğer yukarıda bulamazsa son kısmı al
-        return srcset.split(',')[-1].strip().split(' ')[0]
-    # data-src fallback
+        return url_list[-1]
     return img_tag.get("data-src")
 
 try:
@@ -25,25 +23,29 @@ try:
     soup = BeautifulSoup(r.text, "html.parser")
 
     for movie in soup.find_all("div", class_="listmovie"):
-        # Film yılı
-        yil_div = movie.find("div", class_="film-yil")
+        movie_box = movie.find("div", class_="movie-box")
+        if not movie_box:
+            continue
+
+        yil_div = movie_box.find("div", class_="film-yil")
         yil = yil_div.get_text(strip=True) if yil_div else ""
 
-        # Poster (tam boy)
-        img_tag = movie.find("img", class_="lazyload")
+        img_tag = movie_box.find("img", class_="lazyload")
         poster_url = extract_full_poster(img_tag) if img_tag else ""
 
-        # Film adı ve sayfa linki
-        film_ismi_div = movie.find("div", class_="film-ismi")
+        film_ismi_div = movie_box.find("div", class_="film-ismi")
         a_tag = film_ismi_div.find("a") if film_ismi_div else None
         film_adi = a_tag.get_text(strip=True) if a_tag else ""
         film_link = a_tag.get("href") if a_tag else ""
 
-        # IMDB puanı
-        imdb_div = movie.find("div", class_="imdb")
-        imdb = imdb_div.get_text(strip=True) if imdb_div else ""
+        # IMDb puanı önce bolum-ust, yoksa imdb div'inde aranır
+        imdb = ""
+        bolum_ust = movie_box.find("div", class_="bolum-ust")
+        if bolum_ust and bolum_ust.find("i", class_="fa-star"):
+            imdb = bolum_ust.get_text(strip=True)
+        elif movie_box.find("div", class_="imdb"):
+            imdb = movie_box.find("div", class_="imdb").get_text(strip=True)
 
-        # Yazdır
         print("Yıl:", yil)
         print("Poster:", poster_url)
         print("Film adı:", film_adi)
