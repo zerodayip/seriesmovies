@@ -2,8 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
 
-url = "https://filmkovasi.pw/"
+BASE_URL = "https://filmkovasi.pw/film-arsivi-izle-hd/"
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 }
@@ -80,20 +81,32 @@ def process_movie(movie):
     output.append("-" * 50)
     return "\n".join(output)
 
-import time
 start = time.time()
 
 try:
-    r = requests.get(url, headers=headers, timeout=10)
-    r.raise_for_status()
-    soup = BeautifulSoup(r.text, "html.parser")
+    all_movies = []
 
-    movies = soup.find_all("div", class_="listmovie")
+    # İlk 10 sayfa
+    for page_num in range(1, 11):
+        if page_num == 1:
+            page_url = BASE_URL
+        else:
+            page_url = BASE_URL.rstrip('/') + f'/page/{page_num}/'
+        print(f"Sayfa çekiliyor: {page_url}")
+
+        r = requests.get(page_url, headers=headers, timeout=10)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        movies = soup.find_all("div", class_="listmovie")
+        all_movies.extend(movies)
+
+    print(f"Toplam {len(all_movies)} film bulundu.")
+
     max_parallel = 30
     results = []
 
     with ThreadPoolExecutor(max_workers=max_parallel) as executor:
-        future_to_movie = {executor.submit(process_movie, movie): movie for movie in movies}
+        future_to_movie = {executor.submit(process_movie, movie): movie for movie in all_movies}
         for future in as_completed(future_to_movie):
             result = future.result()
             if result:
