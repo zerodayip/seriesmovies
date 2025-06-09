@@ -22,7 +22,7 @@ jobs:
           pip install requests
 
       - name: HTML Çek ve Kaydet
-        run: python filmkovasi.py
+        run: python a.py
 
       # İstersen çıktıyı commit edebilirsin:
       # - name: Çıktıyı Commit Et
