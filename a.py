@@ -20,33 +20,26 @@ def extract_full_poster(img_tag):
 
 def fetch_film_sources(film_link):
     out_lines = []
-    page = 1
-    while True:
+    for page in [1, 2]:
         if page == 1:
             url = film_link
         else:
-            if not film_link.endswith('/'):
-                film_link += '/'
-            url = film_link + f"{page}/"
+            url = film_link.rstrip('/') + '/2/'
         try:
-            res = requests.get(url, headers=headers, timeout=15)
+            res = requests.get(url, headers=headers, timeout=5)
             if res.status_code != 200:
                 break
             soup = BeautifulSoup(res.text, "html.parser")
             video_div = soup.find("div", class_="video-container")
             if not video_div:
                 break
-
             m = re.search(r'<!--\s*baslik:(.*?)-->', str(video_div))
             baslik = m.group(1).strip() if m else "KAYNAK"
-
             iframe = video_div.find("iframe")
             if not iframe or not iframe.get("src"):
                 break
             iframe_src = iframe["src"]
-
             out_lines.append(f"{baslik} : {iframe_src}")
-            page += 1
         except Exception:
             break
     return out_lines
@@ -81,25 +74,26 @@ def process_movie(movie):
     if imdb:
         output.append(f"IMDB: {imdb}")
 
-    # kaynakları çek
     if film_link:
         sources = fetch_film_sources(film_link)
         output.extend(sources)
     output.append("-" * 50)
     return "\n".join(output)
 
+import time
+start = time.time()
+
 try:
-    r = requests.get(url, headers=headers, timeout=15)
+    r = requests.get(url, headers=headers, timeout=10)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
 
     movies = soup.find_all("div", class_="listmovie")
-    # sadece ilk 10 film için paralel çalıştır
-    max_parallel = 10
+    max_parallel = 30
     results = []
 
     with ThreadPoolExecutor(max_workers=max_parallel) as executor:
-        future_to_movie = {executor.submit(process_movie, movie): movie for movie in movies[:max_parallel]}
+        future_to_movie = {executor.submit(process_movie, movie): movie for movie in movies}
         for future in as_completed(future_to_movie):
             result = future.result()
             if result:
@@ -107,6 +101,8 @@ try:
 
     for block in results:
         print(block)
+
+    print(f"Geçen süre: {time.time() - start:.2f} saniye")
 
 except Exception as e:
     print(f"Hata: {e}")
