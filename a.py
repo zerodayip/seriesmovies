@@ -42,15 +42,28 @@ def fetch_film_sources(film_link):
             if not iframe or not iframe.get("src"):
                 break
             iframe_src = iframe["src"]
-            out_lines.append(f"{baslik} : {iframe_src}")
+            out_lines.append((baslik, iframe_src))
         except Exception:
             break
     return out_lines
 
+def detect_language(sources):
+    # Basit: varsa TÜRKÇE DUBLAJ / ALTYAZI vb.
+    turler = [b.upper() for (b, _) in sources]
+    if any("ALTYAZI" in t for t in turler) and any("DUBLAJ" in t for t in turler):
+        return "DUBLAJ & ALTYAZI"
+    elif any("ALTYAZI" in t for t in turler):
+        return "TÜRKÇE ALTYAZILI"
+    elif any("DUBLAJ" in t for t in turler):
+        return "TÜRKÇE DUBLAJ"
+    else:
+        # Başlıklardan alınamıyorsa boş bırak
+        return ""
+
 def process_movie(movie):
     movie_box = movie.find("div", class_="movie-box")
     if not movie_box:
-        return ""
+        return []
     yil_div = movie_box.find("div", class_="film-yil")
     yil = yil_div.get_text(strip=True) if yil_div else ""
 
@@ -71,18 +84,29 @@ def process_movie(movie):
 
     sources = fetch_film_sources(film_link) if film_link else []
     if not sources:
-        return ""
+        return []
 
-    output = []
-    output.append(f"Yıl: {yil}")
-    output.append(f"Poster: {poster_url}")
-    output.append(f"Film adı: {film_adi.upper()}")
-    output.append(f"Film link: {film_link}")
-    if imdb:
-        output.append(f"IMDB: {imdb}")
-    output.extend(sources)
-    output.append("-" * 50)
-    return "\n".join(output)
+    language = detect_language(sources)
+    m3u_lines = []
+    for baslik, iframe_src in sources:
+        # Başlık ve grup-title ayarlama
+        full_title = film_adi.upper()
+        paren = []
+        if yil:
+            paren.append(yil)
+        if imdb:
+            paren.append(f"IMDB: {imdb}")
+        if baslik:
+            paren.append(baslik.upper())
+        elif language:
+            paren.append(language)
+        if paren:
+            full_title += " (" + " | ".join(paren) + ")"
+
+        m3u_lines.append(
+            f'#EXTINF:-1 group-title="YENİ FİLMLER" tvg-logo="{poster_url}",{full_title}\n{iframe_src}'
+        )
+    return m3u_lines
 
 start = time.time()
 
@@ -106,18 +130,31 @@ try:
     print(f"Toplam {len(all_movies)} film bulundu.")
 
     max_parallel = 30
-    results = []
+    m3u_lines = []
 
     with ThreadPoolExecutor(max_workers=max_parallel) as executor:
         future_to_movie = {executor.submit(process_movie, movie): movie for movie in all_movies}
         for future in as_completed(future_to_movie):
             result = future.result()
             if result:
-                results.append(result)
+                m3u_lines.extend(result)
 
-    for block in results:
-        print(block)
+    # Sonuçları sırala (yıl ve film adı)
+    def parse_year_from_title(s):
+        import re
+        m = re.search(r'\((\d{4})\b', s)
+        if m:
+            return int(m.group(1))
+        return 0
+    m3u_lines.sort(key=lambda s: -parse_year_from_title(s))
 
+    # Dosyaya yaz
+    with open("yeni_filmler.m3u", "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n\n")
+        for line in m3u_lines:
+            f.write(line + "\n")
+
+    print(f"Toplam {len(m3u_lines)} film kaynağı yazıldı.")
     print(f"Geçen süre: {time.time() - start:.2f} saniye")
 
 except Exception as e:
