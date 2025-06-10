@@ -16,16 +16,16 @@
   },
   "https://sezonlukdizi6.com/diziler/rick-and-morty.html": {
     "last_season": 8,
-    "last_episode": 2,
+    "last_episode": 3,
     "group": "YENİ DİZİLER",
     "start_episode": 1,
-    "last_written_time": 1749586718
+    "last_written_time": 1749587290
   },
   "one piece": {
     "last_season": 1,
-    "last_episode": 1130,
+    "last_episode": 1132,
     "group": "ANİME",
     "start_episode": 1120,
-    "last_written_time": 1749586725
+    "last_written_time": 1749587297
   }
 }
