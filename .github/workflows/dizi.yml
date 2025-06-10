@@ -1,4 +1,4 @@
-name: Run SezonlukDizi Script JSON
+name: Run SezonlukDizi Bölüm Takip
 
 on:
   workflow_dispatch:
