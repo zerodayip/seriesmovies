@@ -1,4 +1,4 @@
-name: Run SezonlukDizi Yıla Göre Dizi Takip
+name: Run SezonlukDizi Yıla Göre Dizi Takip JSON
 
 on:
   workflow_dispatch:
