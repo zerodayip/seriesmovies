@@ -113,8 +113,8 @@ start = time.time()
 try:
     all_movies = []
 
-    # İlk 10 sayfa
-    for page_num in range(1, 11):
+    # İlk 25 sayfa
+    for page_num in range(1, 26):
         if page_num == 1:
             page_url = BASE_URL
         else:
