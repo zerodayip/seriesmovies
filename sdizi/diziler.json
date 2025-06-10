@@ -15,10 +15,11 @@
     "group": "YENİ DİZİLER"
   },
   "https://sezonlukdizi6.com/diziler/rick-and-morty.html": {
-    "last_season": 7,
-    "last_episode": 10,
+    "last_season": 8,
+    "last_episode": 3,
     "group": "YENİ DİZİLER",
-    "start_episode": 1
+    "start_episode": 1,
+    "last_written_time": 1749586479
   },
   "one piece": {
     "last_season": 1,
