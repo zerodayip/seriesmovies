@@ -1,35 +1,54 @@
-name: Yeni Filmler M3U Olusturucu
+name: Run SezonlukDizi Yıla Göre Dizi Takip
 
 on:
   workflow_dispatch:
-#  schedule:
-#    - cron: '0 5 * * *'  # Her gün sabah 08:00'de (UTC+3)
 
 jobs:
-  build:
+  run-sezonlukdizi:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Kod deposunu klonla
-        uses: actions/checkout@v4
+      - name: Checkout Public Repo (sitem3u)
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
 
-      - name: Python Kur
-        uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Gerekli paketleri yükle
+      - name: Clone Private Py Repo
         run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      - name: M3U Dosyasını Üret
-        run: python a.py
-
-      - name: M3U Dosyasını Commit Et ve Gönder
+      - name: Install Python Dependencies
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add yeni_filmler.m3u
-          git commit -m "Otomatik yeni m3u güncellendi [bot]" || echo "Değişiklik yok"
-          git push
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: Run SezonlukDizi Script
+        run: python private_py/sezonlukdizi/yilagore.py
+
+      - name: Commit and Push to Public Repo (sitem3u)
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add sdizi/**/*.m3u sdizi/diziler.json || echo "No files"
+          git commit -m "SezonlukDizi güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Copy updated M3U folders to private repo (with structure)
+        run: |
+          mkdir -p private_py/m3u8/sezonlukdizi
+          rsync -a sdizi/ private_py/m3u8/sezonlukdizi/
+
+      - name: Push to Private Py Repo
+        run: |
+          cd private_py
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add m3u8/sezonlukdizi/**/*.m3u || echo "No M3U to add"
+          git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
