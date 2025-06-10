@@ -48,7 +48,6 @@ def fetch_film_sources(film_link):
     return out_lines
 
 def detect_language(sources):
-    # Basit: varsa TÜRKÇE DUBLAJ / ALTYAZI vb.
     turler = [b.upper() for (b, _) in sources]
     if any("ALTYAZI" in t for t in turler) and any("DUBLAJ" in t for t in turler):
         return "DUBLAJ & ALTYAZI"
@@ -57,7 +56,6 @@ def detect_language(sources):
     elif any("DUBLAJ" in t for t in turler):
         return "TÜRKÇE DUBLAJ"
     else:
-        # Başlıklardan alınamıyorsa boş bırak
         return ""
 
 def process_movie(movie):
@@ -89,7 +87,10 @@ def process_movie(movie):
     language = detect_language(sources)
     m3u_lines = []
     for baslik, iframe_src in sources:
-        # Başlık ve grup-title ayarlama
+        # Sadece Türkçe Dublaj veya Altyazı ise proxy ile ekle
+        if "DUBLAJ" in baslik.upper() or "ALTYAZI" in baslik.upper():
+            iframe_src = f"https://zeroipday-watch.hf.space/proxy/mastertxt?url={iframe_src}"
+
         full_title = film_adi.upper()
         paren = []
         if yil:
@@ -108,13 +109,27 @@ def process_movie(movie):
         )
     return m3u_lines
 
+def get_last_page():
+    r = requests.get(BASE_URL, headers=headers, timeout=10)
+    soup = BeautifulSoup(r.text, "html.parser")
+    sayfalama = soup.find("div", class_="sayfalama")
+    if not sayfalama:
+        return 1
+    son_link = sayfalama.find_all("a")[-1]
+    m = re.search(r'/page/(\d+)/', son_link.get("href", ""))
+    if m:
+        return int(m.group(1))
+    return 1
+
 start = time.time()
 
 try:
     all_movies = []
 
-    # İlk 25 sayfa
-    for page_num in range(1, 26):
+    last_page = get_last_page()
+    print(f"Toplam sayfa: {last_page}")
+
+    for page_num in range(1, last_page + 1):
         if page_num == 1:
             page_url = BASE_URL
         else:
@@ -139,16 +154,13 @@ try:
             if result:
                 m3u_lines.extend(result)
 
-    # Sonuçları sırala (yıl ve film adı)
     def parse_year_from_title(s):
-        import re
         m = re.search(r'\((\d{4})\b', s)
         if m:
             return int(m.group(1))
         return 0
     m3u_lines.sort(key=lambda s: -parse_year_from_title(s))
 
-    # Dosyaya yaz
     with open("yeni_filmler.m3u", "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n\n")
         for line in m3u_lines:
