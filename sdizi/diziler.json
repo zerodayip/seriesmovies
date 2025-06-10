@@ -3,32 +3,32 @@
     "last_season": 4,
     "last_episode": 10,
     "group": "YENİ DİZİLER",
-    "last_written_time": 1749587708
+    "last_written_time": 1749588715
   },
   "https://sezonlukdizi6.com/bolumler/blood-of-zeus.html": {
     "last_season": 3,
     "last_episode": 8,
     "group": "YENİ DİZİLER",
-    "last_written_time": 1749587713
+    "last_written_time": 1749588721
   },
   "https://sezonlukdizi6.com/diziler/wondla.html": {
     "last_season": 2,
     "last_episode": 7,
     "group": "YENİ DİZİLER",
-    "last_written_time": 1749587719
+    "last_written_time": 1749588726
   },
   "https://sezonlukdizi6.com/diziler/rick-and-morty.html": {
-    "last_season": 7,
-    "last_episode": 9,
+    "last_season": 8,
+    "last_episode": 3,
     "group": "YENİ DİZİLER",
     "start_episode": 1,
-    "last_written_time": 1749587726
+    "last_written_time": 1749588763
   },
   "one piece": {
     "last_season": 1,
-    "last_episode": 1130,
+    "last_episode": 1132,
     "group": "ANİME",
     "start_episode": 1120,
-    "last_written_time": 1749587733
+    "last_written_time": 1749588783
   }
 }
