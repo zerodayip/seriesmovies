@@ -22,7 +22,7 @@ jobs:
 
       - name: Delete all files except data.html in 'sdizi' folder
         run: |
-          find sdizi -type f ! -name 'queries.txt' ! -name 'bolum.txt'  ! -name 'not.txt' ! -name 'diziler.json' -exec git rm {} \;
+          find sdizi -type f ! -name '2020.json' ! -name '2021.json'  ! -name '2022.json' ! -name '2023.json' ! -name '2024.json' ! -name '2025.json'  ! -name 'diziler.json' -exec git rm {} \;
 
 #      - name: Delete all files except a.txt in 'r' folder
 #        run: |
