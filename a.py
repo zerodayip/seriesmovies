@@ -1,6 +1,6 @@
 import requests
 
-url = "https://vctplay.site/manifests/lMWDCxaHOSVZ/master.txt"
+url = "https://vctplay.site/manifests/lMWDCxaHOSVZ/master.m3u8"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
