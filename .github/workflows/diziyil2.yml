@@ -1,4 +1,4 @@
-name: Run SezonlukDizi Bölüm Takip M3U
+name: Run SezonlukDizi Yillik Bölüm Takip M3U
 
 on:
   workflow_dispatch:
