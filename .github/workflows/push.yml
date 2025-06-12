@@ -53,7 +53,7 @@ jobs:
       - name: Checkout Public Repository (sitem3u)
         uses: actions/checkout@v4
         with:
-          repository: 'zerodayip/sitem3u'
+          repository: 'zerodayip/seriesmovies'
           token: ${{ secrets.GH_TOKEN }}
           ref: main
 
