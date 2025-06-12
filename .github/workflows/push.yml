@@ -25,14 +25,14 @@ jobs:
 
       - name: Copy updated M3U folders to private repo (with structure)
         run: |
-          mkdir -p private_py/m3u8/sezonlukdizi
-          rsync -a sdizi/ private_py/m3u8/sezonlukdizi/
+          mkdir -p private_py/m3u8sezonlukdizi
+          rsync -a sdizi/ private_py/m3u8sezonlukdizi/
 
       - name: Push to Private Py Repo
         run: |
           cd private_py
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add m3u8/sezonlukdizi/**/*.m3u || echo "No M3U to add"
+          git add m3u8sezonlukdizi/**/*.m3u || echo "No M3U to add"
           git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
