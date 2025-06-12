@@ -1,10 +1,9 @@
 name: Delete Files
 
 on:
-  workflow_run:
-    workflows: ["Run SezonlukDizi Script"]
-    types:
-      - completed
+  push:
+    paths:
+      - 'sil.txt'  # Bu dosya eklendiğinde workflow tetiklenecek
   workflow_dispatch:  # Bu tetikleyici manuel çalıştırmaya izin verir
 
 jobs:
@@ -19,6 +18,12 @@ jobs:
         run: |
           git config --global user.email "your-email@example.com"
           git config --global user.name "Your Name"
+
+      - name: Delete only sezonlukdizi.m3u from root directory
+        run: |
+          if [ -f sezonlukdizi.m3u ]; then
+            git rm sezonlukdizi.m3u
+          fi
 
       - name: Delete all files except data.html in 'sdizi' folder
         run: |
