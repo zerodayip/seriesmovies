@@ -1,7 +1,7 @@
 import requests
 
 # Hedef video sayfası
-url = "https://d2.premiumvideo.click/uploads/encode/2dn66q6d3mosqg8gr4xr/1080p/playlist.m3u8"
+url = "https://d2.premiumvideo.click/uploads/encode/2dn66q6d3mosqg8gr4xr/master.m3u8"
 
 # Gerçek bir tarayıcı gibi davranan header'lar
 headers = {
