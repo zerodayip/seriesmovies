@@ -1,0 +1,32 @@
+name: Pull from Private Py Repo
+
+on:
+  workflow_dispatch:
+
+jobs:
+  pull-py:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Public Repo (sitem3u)
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Copy M3U folders from private repo (with structure)
+        run: |
+          mkdir -p m3u8/sezonlukdizi
+          rsync -a private_py/m3u8/sezonlukdizi/ m3u8/sezonlukdizi/
+
+      - name: Commit & Push to Public Repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add m3u8/sezonlukdizi/**/*.m3u || echo "No M3U to add"
+          git commit -m "Private Py Repo'dan M3U8 güncellendi [auto]" || echo "No changes"
+          git push origin main
