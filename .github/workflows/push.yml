@@ -2,9 +2,14 @@ name: Push
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Run m3u takip"]
+    types:
+      - completed
 
 jobs:
   merge-m3u-playlists:
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
 
     steps:
@@ -41,6 +46,7 @@ jobs:
           git diff --cached --quiet || (git commit -m "Update sezonlukdizi.m3u via GitHub Actions" && git push)
 
   sync-root-folder:
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
     needs: merge-m3u-playlists
 
@@ -81,4 +87,11 @@ jobs:
           cd private_py
           git add m3u8/sezonlukdizi.m3u
           git diff --cached --quiet || git commit -m "Sync sezonlukdizi.m3u into m3u8 folder [auto]"
+          git push origin main
+
+      - name: Create or Update sil.txt (Trigger file)
+        run: |
+          echo "This is a trigger file $(date)" > sil.txt
+          git add sil.txt
+          git commit -m "Trigger to Next Step"
           git push origin main
