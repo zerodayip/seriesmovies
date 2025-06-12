@@ -5,9 +5,9 @@ on:
   workflow_dispatch:
 
   # 5 saat 20 dakika arayla çalışacak zamanlama
-#  schedule:
-#    - cron: '20 */5 * * *'  # Her 5 saatte bir, 20. dakikada çalışır (5 saat 20 dakika arayla)
-
+  schedule:
+    - cron: '20 3 * * *' 
+    
 jobs:
   cleanup:
     runs-on: ubuntu-latest
