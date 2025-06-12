@@ -1,6 +1,8 @@
 name: Run m3u takip
 
 on:
+  schedule:
+    - cron: '15 2 * * *'
   workflow_dispatch:
 
 jobs:
