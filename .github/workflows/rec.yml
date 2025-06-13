@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add r/main.m3u r/dizi.m3u
+          git add r/reccanli.m3u r/recfilm.m3u r/recdizi.m3u r/recanime.m3u 
           git commit -m "RecTV: public repoda güncellendi [auto]" || echo "No changes"
           git push origin main
 
@@ -44,8 +44,10 @@ jobs:
       - name: Copy files to private_py/m3u8
         run: |
           mkdir -p private_py/m3u8
-          cp r/main.m3u private_py/m3u8/ || echo "main.m3u kopyalanamadı"
-          cp r/dizi.m3u private_py/m3u8/ || echo "dizi.m3u kopyalanamadı"
+          cp r/reccanli.m3u private_py/m3u8/ || echo "reccanli.m3u kopyalanamadı"
+          cp r/recfilm.m3u private_py/m3u8/ || echo "recfilm.m3u kopyalanamadı"
+          cp r/recdizi.m3u private_py/m3u8/ || echo "recdizi.m3u kopyalanamadı"
+          cp r/recanime.m3u private_py/m3u8/ || echo "recanime.m3u kopyalanamadı"
 
       - name: Check copied files
         run: |
@@ -58,7 +60,7 @@ jobs:
           cd private_py
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add m3u8/main.m3u m3u8/dizi.m3u
+          git add m3u8/reccanli.m3u m3u8/recfilm.m3u m3u8/recdizi.m3u m3u8/recanime.m3u
           git commit -m "RecTV çıktıları m3u8 klasörüne eklendi [auto]" || echo "No changes"
           git push origin main
 
