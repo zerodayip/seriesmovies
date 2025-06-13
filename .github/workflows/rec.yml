@@ -61,3 +61,10 @@ jobs:
           git add m3u8/main.m3u m3u8/dizi.m3u
           git commit -m "RecTV çıktıları m3u8 klasörüne eklendi [auto]" || echo "No changes"
           git push origin main
+
+      - name: Create or Update sil.txt (Trigger file)
+        run: |
+          echo "This is a trigger file $(date)" > sil.txt
+          git add sil.txt
+          git commit -m "Trigger to Next Step"
+          git push origin main
