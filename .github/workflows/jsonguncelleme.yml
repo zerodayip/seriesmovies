@@ -2,7 +2,8 @@ name: Run SezonlukDizi Yıla Göre Dizi Takip JSON
 
 on:
   workflow_dispatch:
-
+  schedule:
+    - cron: '* */4 * * *'
 jobs:
   run-sezonlukdizi:
     runs-on: ubuntu-latest
