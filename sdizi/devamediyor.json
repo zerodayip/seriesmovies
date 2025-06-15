@@ -11,12 +11,6 @@
     "group": "LAZARUS",
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/the-count-of-monte-cristo-1998.html": {
-    "last_season": 1,
-    "last_episode": 4,
-    "group": "THE COUNT OF MONTE CRISTO",
-    "start_episode": 1
-  },
   "https://sezonlukdizi6.com/diziler/good-boy.html": {
     "last_season": 1,
     "last_episode": 5,
@@ -33,30 +27,6 @@
     "last_season": 1,
     "last_episode": 7,
     "group": "OUR UNWRITTEN SEOUL",
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/light-shop.html": {
-    "last_season": 1,
-    "last_episode": 8,
-    "group": "LIGHT SHOP",
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/power-book-iii-raising-kanan.html": {
-    "last_season": 4,
-    "last_episode": 10,
-    "group": "POWER BOOK III: RAISING KANAN",
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/friendly-rivalry.html": {
-    "last_season": 1,
-    "last_episode": 16,
-    "group": "FRIENDLY RIVALRY",
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/girl-from-nowhere.html": {
-    "last_season": 2,
-    "last_episode": 8,
-    "group": "GIRL FROM NOWHERE",
     "start_episode": 1
   },
   "https://sezonlukdizi6.com/diziler/nine-perfect-strangers.html": {
@@ -87,6 +57,114 @@
     "last_season": 1,
     "last_episode": 6,
     "group": "MURDERBOT",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/stick.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "STICK",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/elsbeth.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "ELSBETH",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/my-hero-academia-vigilantes.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "MY HERO ACADEMIA: VIGILANTES",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/mobile-suit-gundam-gquuuuuux.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "MOBILE SUIT GUNDAM: GQUUUUUUX",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/fate-strange-fake.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "FATE/STRANGE FAKE",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/doctor-odyssey.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "DOCTOR ODYSSEY",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/love-next-door.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "LOVE NEXT DOOR",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/tracker.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "TRACKER",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/pokemon-horizons.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "POKEMON HORIZONS",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/the-worst-of-evil.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "THE WORST OF EVIL",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/will-trent.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "WILL TRENT",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/call-it-love.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "CALL IT LOVE",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/love-in-contract.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "LOVE IN CONTRACT",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/one-piece-izle.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "ONE PIECE",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/marvel-studios-assembled.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "MARVEL STUDIOS: ASSEMBLED",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/explained.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "EXPLAINED",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/dirty-john.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "DIRTY JOHN",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/rick-and-morty.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "RICK AND MORTY",
     "start_episode": 1
   }
 }
