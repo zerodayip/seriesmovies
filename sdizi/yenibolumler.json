@@ -1,4 +1,22 @@
 {
+  "https://sezonlukdizi6.com/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/good-boy.html": {
+    "last_season": 1,
+    "last_episode": 5,
+    "group": "GOOD BOY",
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/our-unwritten-seoul.html": {
+    "last_season": 1,
+    "last_episode": 7,
+    "group": "OUR UNWRITTEN SEOUL",
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/to-be-hero-x.html": {
     "last_season": 1,
     "last_episode": 11,
@@ -17,22 +35,10 @@
     "group": "THE COUNT OF MONTE CRISTO",
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/good-boy.html": {
-    "last_season": 1,
-    "last_episode": 5,
-    "group": "GOOD BOY",
-    "start_episode": 1
-  },
   "https://sezonlukdizi6.com/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
     "last_season": 1,
     "last_episode": 11,
     "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/our-unwritten-seoul.html": {
-    "last_season": 1,
-    "last_episode": 7,
-    "group": "OUR UNWRITTEN SEOUL",
     "start_episode": 1
   },
   "https://sezonlukdizi6.com/diziler/light-shop.html": {
@@ -69,24 +75,6 @@
     "last_season": 2,
     "last_episode": 22,
     "group": "THE APOTHECARY DIARIES",
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/and-just-like-that.html": {
-    "last_season": 3,
-    "last_episode": 3,
-    "group": "AND JUST LIKE THAT…",
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/duster.html": {
-    "last_season": 1,
-    "last_episode": 5,
-    "group": "DUSTER",
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/murderbot.html": {
-    "last_season": 1,
-    "last_episode": 6,
-    "group": "MURDERBOT",
     "start_episode": 1
   }
 }
