@@ -141,7 +141,7 @@
     "last_season": 1,
     "last_episode": 0,
     "group": "ONE PIECE",
-    "start_episode": 1
+    "start_episode": 1120
   },
   "https://sezonlukdizi6.com/diziler/marvel-studios-assembled.html": {
     "last_season": 1,
@@ -162,8 +162,8 @@
     "start_episode": 1
   },
   "https://sezonlukdizi6.com/diziler/rick-and-morty.html": {
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 8,
+    "last_episode": 1,
     "group": "RICK AND MORTY",
     "start_episode": 1
   }
