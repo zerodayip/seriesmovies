@@ -1,4 +1,4 @@
-name: Run SezonlukDizi Yıla Göre Dizi Takip JSON
+name: Run SezonlukDizi Tüm Diziler JSON
 
 on:
   workflow_dispatch:
@@ -30,7 +30,7 @@ jobs:
           pip install requests beautifulsoup4 lxml
 
       - name: Run SezonlukDizi Script
-        run: python private_py/sezonlukdizi/durumagorejson.py
+        run: python private_py/sezonlukdizi/tumdizilerjson.py
 
       - name: Commit and Push to Public Repo (sitem3u)
         run: |
