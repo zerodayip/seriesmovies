@@ -6,6 +6,9 @@ on:
     workflows: ["Run SezonlukDizi Tüm Diziler JSON"]
     types:
       - completed
+  push:
+    paths:
+      - 'yenibolumler.json' 
 
 jobs:
   run-sezonlukdizi:
