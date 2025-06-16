@@ -56,6 +56,8 @@ jobs:
           cd private_py
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+          git pull --rebase origin main || echo "No upstream changes"
           git add m3u8sezonlukdizi/**/*.m3u || echo "No M3U to add"
           git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
+
