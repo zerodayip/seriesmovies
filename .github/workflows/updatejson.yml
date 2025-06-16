@@ -3,7 +3,7 @@ name: Run SezonlukDizi Tüm Diziler JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '30 */12 * * *'
 jobs:
   run-sezonlukdizi:
     runs-on: ubuntu-latest
