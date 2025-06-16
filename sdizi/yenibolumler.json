@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/my-hero-academia-vigilantes.html": {
+    "group": "MY HERO ACADEMIA: VIGILANTES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/rick-and-morty.html": {
     "group": "RICK AND MORTY",
     "last_season": 8,
@@ -69,12 +75,6 @@
     "last_season": 2,
     "last_episode": 8,
     "group": "GIRL FROM NOWHERE",
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/nine-perfect-strangers.html": {
-    "last_season": 2,
-    "last_episode": 5,
-    "group": "NINE PERFECT STRANGERS",
     "start_episode": 1
   }
 }
