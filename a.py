@@ -1,13 +1,13 @@
 import requests
 
 # Hedef video sayfası
-url = "https://hdplayersystem.live/video/d13756f0b7adfeb6c08b99a3eb8ebddc"
+url = "https://vidmody.com/mm/tt26743210"
 
 # Gerçek bir tarayıcı gibi davranan header'lar
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Referer": "https://dizimom.club",  # Ana sayfa genellikle referer olarak kullanılır
+    "Referer": "https://gofilmizle.com",  # Ana sayfa genellikle referer olarak kullanılır
     "X-Requested-With": "XMLHttpRequest"   # AJAX isteği gibi görünmesini sağlar (bazı sunucular bunu ister)
 }
 
