@@ -1,7 +1,7 @@
 import requests
 
 # Hedef video sayfası
-url = "https://vidmody.com/mm/tt26743210"
+url = "https://vidmody.com/vs/tt11083552"
 
 # Gerçek bir tarayıcı gibi davranan header'lar
 headers = {
