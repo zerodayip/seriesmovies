@@ -1,4 +1,22 @@
 {
+  "https://sezonlukdizi6.com/diziler/suspicious-minds.html": {
+    "group": "SUSPICIOUS MINDS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/doc.html": {
+    "group": "DOC",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/billions.html": {
+    "group": "BILLIONS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/my-hero-academia-vigilantes.html": {
     "group": "MY HERO ACADEMIA: VIGILANTES",
     "last_season": 1,
@@ -56,24 +74,6 @@
   "https://sezonlukdizi6.com/diziler/light-shop.html": {
     "group": "LIGHT SHOP",
     "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/power-book-iii-raising-kanan.html": {
-    "group": "POWER BOOK III: RAISING KANAN",
-    "last_season": 4,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/friendly-rivalry.html": {
-    "group": "FRIENDLY RIVALRY",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/girl-from-nowhere.html": {
-    "group": "GIRL FROM NOWHERE",
-    "last_season": 2,
     "last_episode": 8,
     "start_episode": 1
   }
