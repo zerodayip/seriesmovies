@@ -1,4 +1,16 @@
 {
+  "https://sezonlukdizi6.com/diziler/we-were-liars.html": {
+    "group": "WE WERE LIARS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/stick.html": {
+    "group": "STICK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/yuu-yuu-hakusho.html": {
     "group": "YUU YUU HAKUSHO",
     "last_season": 1,
@@ -75,12 +87,6 @@
     "group": "THE COUNT OF MONTE CRISTO 1998",
     "last_season": 1,
     "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
-    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }
