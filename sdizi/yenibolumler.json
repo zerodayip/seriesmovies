@@ -1,4 +1,16 @@
 {
+  "https://sezonlukdizi6.com/diziler/yuu-yuu-hakusho.html": {
+    "group": "YUU YUU HAKUSHO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/mobile-suit-gundam-gquuuuuux.html": {
+    "group": "MOBILE SUIT GUNDAM: GQUUUUUUX",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/suspicious-minds.html": {
     "group": "SUSPICIOUS MINDS",
     "last_season": 1,
@@ -69,12 +81,6 @@
     "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/light-shop.html": {
-    "group": "LIGHT SHOP",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
