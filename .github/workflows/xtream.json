@@ -1,0 +1,56 @@
+name: Run Xtream Json Maker
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run-xtream:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Public Repo (sitem3u)
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Python Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run Xtream Script
+        run: python private_py/xtream/convert.py
+
+      - name: Commit and Push to Public Repo (sitem3u)
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add sdizi/*.m3u sdizi/*.json || echo "No files"
+          git commit -m "SezonlukDizi güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      # BURASI GÜNCELLENDİ - YALNIZCA xtream klasöründeki .json dosyalarını kopyalar ve pushlar!
+      - name: Copy updated JSON files to private repo (xtream)
+        run: |
+          mkdir -p private_py/xtream
+          rsync -a xtream/ private_py/xtream/ --include="*.json" --exclude="*"
+
+      - name: Push xtream JSONs to Private Py Repo
+        run: |
+          cd private_py
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git pull --rebase origin main || echo "No upstream changes"
+          git add xtream/*.json || echo "No JSON to add"
+          git commit -m "Xtream JSON dosyaları güncellendi [auto]" || echo "No changes"
+          git push origin main
