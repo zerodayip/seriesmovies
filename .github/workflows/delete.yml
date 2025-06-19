@@ -35,9 +35,9 @@ jobs:
         run: |
           find r -type f ! -name 'a.txt' -exec git rm {} +
 
-#     - name: Delete all files except logo.txt and ana_link.txt in 's' folder
-#       run: |
-#         find s -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} +
+      - name: Delete all files except logo.txt and ana_link.txt in 's' folder
+        run: |
+         find xtream -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} +
 
 #     - name: Delete all files except logo.txt and ana_link.txt in 'g' folder
 #       run: |
