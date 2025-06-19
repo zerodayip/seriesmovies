@@ -1,7 +1,7 @@
-name: Run Python Web Scrape
+name: Run Python Web Scrape and Push JSON
 
 on:
-  workflow_dispatch:    # Manuel başlatma (GitHub üzerinden “Run workflow”)
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -14,7 +14,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'    # Veya ihtiyacın olan başka bir sürüm
+          python-version: '3.10'
 
       - name: Install dependencies
         run: |
@@ -22,4 +22,14 @@ jobs:
 
       - name: Run script
         run: |
-          python a.py    # Kodunun bulunduğu dosya adını yaz
+          python a.py    # JSON üreten script
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Add & commit generated JSON files
+        run: |
+          git add *.json
+          git commit -m "Auto: Update generated JSON files" || echo "No changes to commit"
