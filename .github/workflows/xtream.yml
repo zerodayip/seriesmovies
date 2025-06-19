@@ -29,6 +29,8 @@ jobs:
           pip install requests
 
       - name: Run Xtream Script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/xtream/convert.py
 
       - name: Commit and Push to Public Repo (sitem3u)
