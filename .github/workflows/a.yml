@@ -1,7 +1,7 @@
-name: Run Python Web Scrape and Push JSON
+name: Run Python, Commit & Push JSON
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:    # Manuel başlatma
 
 jobs:
   run-script:
@@ -22,7 +22,7 @@ jobs:
 
       - name: Run script
         run: |
-          python a.py    # JSON üreten script
+          python a.py
 
       - name: Configure git
         run: |
@@ -33,3 +33,9 @@ jobs:
         run: |
           git add *.json
           git commit -m "Auto: Update generated JSON files" || echo "No changes to commit"
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
