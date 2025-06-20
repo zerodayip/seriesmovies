@@ -33,6 +33,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/xtream/convert.py
 
+      - name: Print Updated JSONs
+        run: |
+          cat xtream/vod.json
+          cat xtream/series.json
+
       - name: Commit and Push to Public Repo (sitem3u)
         run: |
           git config user.name "GitHub Actions"
