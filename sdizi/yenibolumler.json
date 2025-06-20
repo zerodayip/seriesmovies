@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/olympo.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "OLYMPO",
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/duster.html": {
     "group": "DUSTER",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "GOOD BOY",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/our-unwritten-seoul.html": {
-    "group": "OUR UNWRITTEN SEOUL",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
