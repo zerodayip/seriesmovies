@@ -1,4 +1,22 @@
 {
+  "https://sezonlukdizi6.com/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
+    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/good-boy.html": {
+    "group": "GOOD BOY",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/our-unwritten-seoul.html": {
+    "group": "OUR UNWRITTEN SEOUL",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/tracker.html": {
     "group": "TRACKER",
     "last_season": 2,
@@ -69,24 +87,6 @@
     "group": "MOBILE SUIT GUNDAM: GQUUUUUUX",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/suspicious-minds.html": {
-    "group": "SUSPICIOUS MINDS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/doc.html": {
-    "group": "DOC",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/billions.html": {
-    "group": "BILLIONS",
-    "last_season": 7,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
