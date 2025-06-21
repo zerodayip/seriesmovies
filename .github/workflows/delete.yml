@@ -37,7 +37,7 @@ jobs:
 
       - name: Delete all files except logo.txt and ana_link.txt in 's' folder
         run: |
-         find xtream -type f ! -name 'a.txt' ! -name 'ana_link.txt' -exec git rm {} +
+         find xtream -type f ! -name 'times.txt' ! -name 'ana_link.txt' -exec git rm {} +
 
 #     - name: Delete all files except logo.txt and ana_link.txt in 'g' folder
 #       run: |
