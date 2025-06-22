@@ -34,10 +34,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/setfilmizle/tumfilmler.py
 
-      - name: Copy updated M3U file to public repo
-        run: |
-          cp private_py/xtream/setfilmizlefilm.m3u .
-
       - name: Commit & Push updated m3u to public repo
         run: |
           git config user.name "GitHub Actions"
