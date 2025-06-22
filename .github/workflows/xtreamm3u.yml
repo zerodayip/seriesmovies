@@ -1,4 +1,4 @@
-name: Run Xtream Movie Maker
+name: Run Xtream M3U Maker
 
 on:
   workflow_dispatch:
@@ -44,7 +44,7 @@ jobs:
       - name: Copy updated JSON files to private repo (xtream)
         run: |
           mkdir -p private_py/xtream
-          rsync -a xtream/ private_py/xtream/ --include="*.json" --exclude="*"
+          rsync -a xtream/ private_py/xtream/ --include="*.m3u" --exclude="*"
 
       - name: Push xtream JSONs to Private Py Repo
         run: |
