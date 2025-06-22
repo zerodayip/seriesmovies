@@ -8,26 +8,55 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout Public Repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.10'
 
-      - name: Install Playwright
+      - name: Clone Private Py Repo
         run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Python Dependencies
+        run: |
+          pip install --upgrade pip
           pip install playwright requests beautifulsoup4
           playwright install chromium
 
-      - name: Run get_embed.py
-        run: python a.py
+      - name: Run get_embed.py from private repo
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python private_py/movies/setfilmizle/tumfilmler.py
 
-      - name: Commit m3u file
+      - name: Copy updated M3U file to public repo
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add setfilmizlefilm.m3u
-          git commit -m "✅ setfilmizlefilm.m3u otomatik güncellendi"
-          git push
+          cp private_py/xtream/setfilmizlefilm.m3u .
+
+      - name: Commit & Push updated m3u to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add setfilmizlefilm.m3u || echo "No file"
+          git commit -m "✅ setfilmizlefilm.m3u otomatik güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Copy updated M3U file back to private repo (if needed)
+        run: |
+          mkdir -p private_py/xtream
+          cp setfilmizlefilm.m3u private_py/xtream/
+
+      - name: Commit & Push updated m3u to private repo
+        run: |
+          cd private_py
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git pull --rebase origin main || echo "No upstream changes"
+          git add xtream/setfilmizlefilm.m3u || echo "No M3U to add"
+          git commit -m "setfilmizlefilm.m3u güncellendi [auto]" || echo "No changes"
+          git push origin main
