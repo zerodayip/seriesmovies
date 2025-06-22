@@ -1,42 +1,51 @@
 from playwright.sync_api import sync_playwright
+import requests
+from bs4 import BeautifulSoup
 import time
 
-def get_all_fastplay_embeds(page, film_url):
+def get_fastplay_embeds_bs(film_url):
+    headers = {
+        "User-Agent": "Mozilla/5.0",
+        "Referer": film_url,
+    }
+    embeds = []
     try:
-        page.goto(film_url)
-        page.wait_for_selector("div#playex", timeout=5000)
-        nonce = page.query_selector("div#playex").get_attribute("data-nonce")
-        # Tüm FastPlay butonlarını al
-        embeds = []
-        for btn in page.query_selector_all('nav.player a[data-player-name="FastPlay"]'):
-            btn_title = btn.inner_text().strip()
-            post_id = btn.get_attribute("data-post-id")
-            part_key = btn.get_attribute("data-part-key") or ""
-            payload = {
-                "action": "get_video_url",
-                "nonce": nonce,
-                "post_id": post_id,
-                "player_name": "FastPlay",
-                "part_key": part_key
-            }
-            ajax_response = page.request.post(
-                "https://www.setfilmizle.nl/wp-admin/admin-ajax.php",
-                data=payload,
-                headers={
+        resp = requests.get(film_url, headers=headers, timeout=15)
+        soup = BeautifulSoup(resp.text, "html.parser")
+        playex_div = soup.select_one("div#playex")
+        nonce = playex_div.get("data-nonce") if playex_div else None
+        if not nonce:
+            return []
+        for btn in soup.select("nav.player a"):
+            if btn.get("data-player-name", "").lower() == "fastplay":
+                post_id = btn.get("data-post-id")
+                part_key = btn.get("data-part-key", "")
+                label = btn.text.strip() or "FastPlay"
+                payload = {
+                    "action": "get_video_url",
+                    "nonce": nonce,
+                    "post_id": post_id,
+                    "player_name": "FastPlay",
+                    "part_key": part_key
+                }
+                ajax_headers = {
                     "User-Agent": "Mozilla/5.0",
                     "Referer": film_url,
                     "X-Requested-With": "XMLHttpRequest"
                 }
-            )
-            data = ajax_response.json()
-            embed_url = data.get("data", {}).get("url")
-            if embed_url:
-                embeds.append({"label": btn_title, "url": embed_url})
+                r = requests.post("https://www.setfilmizle.nl/wp-admin/admin-ajax.php", data=payload, headers=ajax_headers, timeout=15)
+                try:
+                    data = r.json()
+                    embed_url = data.get("data", {}).get("url")
+                    if embed_url:
+                        embeds.append((label, embed_url))
+                except Exception:
+                    pass
         return embeds
-    except Exception as e:
+    except Exception:
         return []
 
-def print_film_infos(page, page_no):
+def print_film_infos_with_embed(page, page_no):
     articles = page.query_selector_all("article.item.dortlu.movies")
     print(f"\n{page_no}. sayfa film sayısı: {len(articles)}")
     for art in articles:
@@ -49,11 +58,11 @@ def print_film_infos(page, page_no):
         film_link = art.query_selector(".poster a").get_attribute("href")
         print(f"\nFilm: {title_text} | Rating: {rating_text} | Yıl: {anayil_text} | Link: {film_link}")
 
-        # Her FastPlay alternatifi için embed linkini yazdır
-        fastplay_embeds = get_all_fastplay_embeds(page, film_link)
+        # Her film için embed linkleri:
+        fastplay_embeds = get_fastplay_embeds_bs(film_link)
         if fastplay_embeds:
-            for emb in fastplay_embeds:
-                print(f"  >>> FastPlay ({emb['label']}): {emb['url']}")
+            for label, emb_url in fastplay_embeds:
+                print(f"  >>> FastPlay ({label}): {emb_url}")
         else:
             print("  >>> FastPlay EMBED: Bulunamadı!")
 
@@ -64,7 +73,7 @@ with sync_playwright() as p:
     page.wait_for_selector("article.item.dortlu.movies")
     print("1. sayfa yüklendi.")
 
-    print_film_infos(page, 1)
+    print_film_infos_with_embed(page, 1)
 
     # 2. sayfa <span>'ına tıkla!
     page.click("span.page-number[data-page='2']")
@@ -81,5 +90,5 @@ with sync_playwright() as p:
             pass
         time.sleep(0.5)
 
-    print_film_infos(page, 2)
+    print_film_infos_with_embed(page, 2)
     browser.close()
