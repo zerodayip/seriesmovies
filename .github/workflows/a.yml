@@ -18,8 +18,16 @@ jobs:
 
       - name: Install Playwright
         run: |
-          pip install playwright requests beautifulsoup4 
+          pip install playwright requests beautifulsoup4
           playwright install chromium
 
       - name: Run get_embed.py
         run: python a.py
+
+      - name: Commit m3u file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add setfilmizlefilm.m3u
+          git commit -m "✅ setfilmizlefilm.m3u otomatik güncellendi"
+          git push
