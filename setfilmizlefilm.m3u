@@ -1,61 +1,539 @@
 #EXTM3U
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/mucize-aynalar-izle.webp",MUCIZE AYNALAR ( IMDB: 6.6 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",MUCIZE AYNALAR ( IMDB: 6.6 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/sx6r2zoWQzTV
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/kutsal-damacana-5-izle.webp",KUTSAL DAMACANA 5: ZOMBI ( IMDB: 1.9 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/kutsal-damacana-5-izle.webp",KUTSAL DAMACANA 5: ZOMBI ( IMDB: 1.9 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Kq7vmjehV8OK
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/bir-minecraft-filmi-izle.webp",BIR MINECRAFT FILMI ( IMDB: 5.7 | TÜRKÇE DUBLAJ )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/bir-minecraft-filmi-izle.webp",BIR MINECRAFT FILMI ( IMDB: 5.7 | TÜRKÇE DUBLAJ | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/X-M9ptjcU3Vv
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/bir-minecraft-filmi-izle.webp",BIR MINECRAFT FILMI ( IMDB: 5.7 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/bir-minecraft-filmi-izle.webp",BIR MINECRAFT FILMI ( IMDB: 5.7 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/UiUSF7lZgUGI
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/tezgah-2024-izle.webp",TEZGAH ( IMDB: 5.4 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/tezgah-2024-izle.webp",TEZGAH ( IMDB: 5.4 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/FzcjMtVivmt3
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/son-durak-6-kan-bagi-izle.webp",SON DURAK: KAN BAĞI ( IMDB: 7.0 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/son-durak-6-kan-bagi-izle.webp",SON DURAK: KAN BAĞI ( IMDB: 7.0 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/t-AmRG5Eg_LV
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/kayip-dunya-2025-izle.webp",KAYIP DÜNYA ( IMDB: 4.7 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/kayip-dunya-2025-izle.webp",KAYIP DÜNYA ( IMDB: 4.7 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/pRq41O5fT5CB
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/mesru-gayrimesru-2024-izle.webp",MEŞRU GAYRIMEŞRU ( IMDB: 7.4 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/mesru-gayrimesru-2024-izle.webp",MEŞRU GAYRIMEŞRU ( IMDB: 7.4 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/JUE_s0kV2lIy
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/sonic-the-hedgehog-3-izle.webp",KIRPI SONIC 3 ( IMDB: 6.9 | TÜRKÇE DUBLAJ )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/sonic-the-hedgehog-3-izle.webp",KIRPI SONIC 3 ( IMDB: 6.9 | TÜRKÇE DUBLAJ | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/t5GRk5wtLecw
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/sonic-the-hedgehog-3-izle.webp",KIRPI SONIC 3 ( IMDB: 6.9 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/sonic-the-hedgehog-3-izle.webp",KIRPI SONIC 3 ( IMDB: 6.9 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/WyESBHQ3Z7I1
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/friendship-2025-izle.webp",FRIENDSHIP ( IMDB: 7.2 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/friendship-2025-izle.webp",FRIENDSHIP ( IMDB: 7.2 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/omuPvisqRDsA
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/warfare-2025-izle.webp",WARFARE ( IMDB: 7.3 | TÜRKÇE DUBLAJ )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/warfare-2025-izle.webp",WARFARE ( IMDB: 7.3 | TÜRKÇE DUBLAJ | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/cHoO7Jp7xFea
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/warfare-2025-izle.webp",WARFARE ( IMDB: 7.3 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/warfare-2025-izle.webp",WARFARE ( IMDB: 7.3 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/cTARU93dh3Nk
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/diablo-2025-izle.webp",DIABLO ( IMDB: 5.6 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/diablo-2025-izle.webp",DIABLO ( IMDB: 5.6 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/vJ5NWkEFUWPr
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/mountainhead-2025-izle.webp",MOUNTAINHEAD ( IMDB: 5.4 | TÜRKÇE DUBLAJ )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/mountainhead-2025-izle.webp",MOUNTAINHEAD ( IMDB: 5.4 | TÜRKÇE DUBLAJ | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/BjF7TYASwT92
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/mountainhead-2025-izle.webp",MOUNTAINHEAD ( IMDB: 5.4 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/mountainhead-2025-izle.webp",MOUNTAINHEAD ( IMDB: 5.4 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/BfDnVYhYFBiO
-#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/eyvah-tatil-2023-izle.webp",EYVAH TATIL ( IMDB: 6.3 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",EYVAH TATIL ( IMDB: 6.3 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/AHR9N2Cs5FZe
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/seytan-ayini-2024-izle.webp",ŞEYTAN AYINI ( IMDB: 4.2 | TÜRKÇE DUBLAJ )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",ŞEYTAN AYINI ( IMDB: 4.2 | TÜRKÇE DUBLAJ | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/XI5Wv2fv-bbc
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/seytan-ayini-2024-izle.webp",ŞEYTAN AYINI ( IMDB: 4.2 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",ŞEYTAN AYINI ( IMDB: 4.2 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/jw6a62EtLPXH
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/restless-2024-izle.webp",RESTLESS ( IMDB: 6.4 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",RESTLESS ( IMDB: 6.4 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/K8zv9_OQL8eG
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/sew-torn-2024-izle.webp",SEW TORN ( IMDB: 6.2 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",SEW TORN ( IMDB: 6.2 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/hNfY50lJtFVV
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/echo-valley-2025-izle.webp",ECHO VALLEY ( IMDB: 6.6 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",ECHO VALLEY ( IMDB: 6.6 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/TPoeKaC5fMwN
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/tur-rehberi-2025-izle.webp",TUR REHBERI ( IMDB: 5.7 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",TUR REHBERI ( IMDB: 5.7 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/uqxR8A0O5gdh
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/gizli-gorev-2025-izle.webp",GIZLI GÖREV ( IMDB: 8.4 | TÜRKÇE DUBLAJ )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",GIZLI GÖREV ( IMDB: 8.4 | TÜRKÇE DUBLAJ | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/xgBOM67NPaxb
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/gizli-gorev-2025-izle.webp",GIZLI GÖREV ( IMDB: 8.4 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",GIZLI GÖREV ( IMDB: 8.4 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/HmjHyQnh0jLV
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/my-old-ass-2024-izle.webp",MORUK HÂLIM ( IMDB: 6.9 | TÜRKÇE DUBLAJ )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",MORUK HÂLIM ( IMDB: 6.9 | TÜRKÇE DUBLAJ | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/yjcalcOm1DUm
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/my-old-ass-2024-izle.webp",MORUK HÂLIM ( IMDB: 6.9 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",MORUK HÂLIM ( IMDB: 6.9 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/JnzeNckLFDe5
-#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/10/salems-lot-2024-izle.webp",SALEM’S LOT ( IMDB: 5.6 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",SALEM’S LOT ( IMDB: 5.6 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Bfn0hcTJJfF2
-#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/11/hayat-2023-izle.webp",HAYAT ( IMDB: 7.1 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",HAYAT ( IMDB: 7.1 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/INEFLuB-NRuH
-#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/karantina-2025-izle.webp",KARANTINA ( IMDB: 4.6 | TÜRKÇE ALTYAZILI )
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",KARANTINA ( IMDB: 4.6 | TÜRKÇE ALTYAZILI | FastPlay )
 https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/lMWDCxaHOSVZ
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/amator-2025-izle.webp",AMATÖR ( IMDB: 6.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/8tyHvuCmW0Sz
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/kusursuz-arkadas-2025-izle.webp",KUSURSUZ ARKADAŞ ( IMDB: 6.9 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/wYsrzlKWZdFB
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/kusursuz-arkadas-2025-izle.webp",KUSURSUZ ARKADAŞ ( IMDB: 6.9 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/avPfUny_jgyE
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/the-alto-knights-2025-izle.webp",THE ALTO KNIGHTS ( IMDB: 5.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/N6jEwlqb9stA
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/the-alto-knights-2025-izle.webp",THE ALTO KNIGHTS ( IMDB: 5.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/RhHjsLrtyQw-
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/predator-killer-of-killers-izle.webp",PREDATOR: KILLER OF KILLERS ( IMDB: 7.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/rraUJwSdcGBc
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/predator-killer-of-killers-izle.webp",PREDATOR: KILLER OF KILLERS ( IMDB: 7.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/0GZDUOLQhJgJ
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/son-damla-2025-izle.webp",SON DAMLA ( IMDB: 6.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Q4iEY0M0XkTG
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/son-damla-2025-izle.webp",SON DAMLA ( IMDB: 6.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/7MtXgyUr0GeE
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/nakavt-2025-izle.webp",NAKAVT ( IMDB: 6.2 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/aHyyMb492tq0
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/nakavt-2025-izle.webp",NAKAVT ( IMDB: 6.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/BfkjM9FVAu_e
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/06/her-seyin-basi-merkur-2024-izle.webp",HER ŞEYIN BAŞI MERKÜR ( IMDB: 3.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/TZHmG082iE_A
+#EXTINF:-1 group-title="2016 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2019/08/hayati-tehlike-2016-izle.webp",HAYATI TEHLIKE ( IMDB: 3.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/uSfz3UI0IItm
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kara-dul-maje-2025-izle.webp",KARA DUL MAJE ( IMDB: 6.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/n99J4Ocrq2IK
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kara-dul-maje-2025-izle.webp",KARA DUL MAJE ( IMDB: 6.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/lJiJrqRrbxdc
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kalp-bilir-2025-izle.webp",KALP BILIR ( IMDB: 6.6 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/c6y5A5As5siB
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kalp-bilir-2025-izle.webp",KALP BILIR ( IMDB: 6.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/39_MqxdLLFS_
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/bir-yildiz-kadar-uzak-2025-izle.webp",BIR YILDIZ KADAR UZAK ( IMDB: 6.2 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/mkZE90hTB-8I
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/bir-yildiz-kadar-uzak-2025-izle.webp",BIR YILDIZ KADAR UZAK ( IMDB: 6.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/BP-kgM5AEplM
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/cakallarla-dans-7-2024.webp",ÇAKALLARLA DANS 7 ( IMDB: 4.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/KX2Mb9Qb23GS
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/gunahkarlar-2025.webp",GÜNAHKARLAR ( IMDB: 8.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/yIiN2uRk9DdB
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/simarik-2024-izle.webp",ŞIMARIK ( IMDB: 6.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/9VVTVd-lc_aH
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/daha-iyi-bir-yarin-izle.webp",DAHA İYI BIR YARIN ( IMDB: 6.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/_N4Pk7Vl6N8t
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/safaga-kadar-izle.webp",ŞAFAĞA KADAR ( IMDB: 5.9 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/VfFwcsMFPiDU
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/kurt-adam-2025-izle.webp",KURT ADAM ( IMDB: 5.6 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/HNGydGeDLTSg
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/kurt-adam-2025-izle.webp",KURT ADAM ( IMDB: 5.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/zNwoGa8nit-u
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/mickey-17-izle.webp",MICKEY 17 ( IMDB: 6.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/jD4T8iwSnJOt
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/mickey-17-izle.webp",MICKEY 17 ( IMDB: 6.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/IbTodg8uB8cb
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/0000-kilometre-izle.webp",0000 KILOMETRE ( IMDB: 2.9 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/rFd0Xn8UIXu2
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/nemlizade-2024-izle.webp",NEMLIZADE ( IMDB: 5.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/xzxrZNlflB4A
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/korku-sokagi-mezuniyet-balosu-izle.webp",KORKU SOKAĞI: MEZUNIYET BALOSU ( IMDB: 7.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/rRSLTK-9iuY2
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/korku-sokagi-mezuniyet-balosu-izle.webp",KORKU SOKAĞI: MEZUNIYET BALOSU ( IMDB: 7.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/XZJwhTF1sicW
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/fountain-of-youth-2025-izle.webp",FOUNTAIN OF YOUTH ( IMDB: 6.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/EXT_rPo6vXmE
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kopek-adam-izle.webp",KÖPEK ADAM ( IMDB: 6.3 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/ckvLuDdtHweJ
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kopek-adam-izle.webp",KÖPEK ADAM ( IMDB: 6.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/TjoBTOgCPc_y
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/oflu-hoca-4-2024-izle.webp",OFLU HOCA 4 ( IMDB: 4.9 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Z-RdNGHkmV_E
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/06/ziyaretciler-bolum-1-izle.webp",ZIYARETÇILER: BÖLÜM 1 ( IMDB: 4.6 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/q8jzQ1xS9HUV
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/06/ziyaretciler-bolum-1-izle.webp",ZIYARETÇILER: BÖLÜM 1 ( IMDB: 4.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/TmVoJF-6bWpR
+#EXTINF:-1 group-title="2008 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/ziyaretciler-2008-izle.webp",ZIYARETÇILER ( IMDB: 6.1 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/6mIKT4ctdc3c
+#EXTINF:-1 group-title="2008 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/ziyaretciler-2008-izle.webp",ZIYARETÇILER ( IMDB: 6.1 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/lPbmndTYZdtI
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/12/duzen-2024-izle.webp",DÜZEN ( IMDB: 6.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/UQpGLSnJfc_-
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/12/duzen-2024-izle.webp",DÜZEN ( IMDB: 6.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/WeqzE6Mds_MG
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/baslangiclar-2023-izle.webp",BAŞLANGIÇLAR ( IMDB: 6.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/m_PuT06Xuou9
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/y2k-2024-izle.webp",Y2K ( IMDB: 4.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/5gryKHa072Fv
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/kirarim-kalbini-2025-izle.webp",KIRARIM KALBINI ( IMDB: 5.3 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/KRdcPIXVMiWx
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/kirarim-kalbini-2025-izle.webp",KIRARIM KALBINI ( IMDB: 5.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Pi6kRaRfTdIF
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/a-working-man-2025-izle.webp",A WORKING MAN ( IMDB: 5.7 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/arRUyZJGhSs6
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/a-working-man-2025-izle.webp",A WORKING MAN ( IMDB: 5.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/KlJyJiH8zcTS
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/05/sting-2024-izle.webp",STING ( IMDB: 5.7 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/VtCcDujSn2Rh
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/05/sting-2024-izle.webp",STING ( IMDB: 5.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/r-03z96FJ3E0
+#EXTINF:-1 group-title="2021 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/zuhal-2021-izle.webp",ZUHAL ( IMDB: 5.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/muLKXU0xdqoN
+#EXTINF:-1 group-title="2014 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/zaman-makinesi-1973-2014-izle.webp",ZAMAN MAKINESI 1973 ( IMDB: 6.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/ah6f2FdU7zqm
+#EXTINF:-1 group-title="2007 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/son-osmanli-yandim-ali-izle.webp",SON OSMANLI: YANDIM ALI ( IMDB: 6.9 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/VcOYTG5AXt3P
+#EXTINF:-1 group-title="2008 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/son-ders-ask-ve-universite-izle.webp",SON DERS: AŞK VE ÜNIVERSITE ( IMDB: 6.9 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/_Qq8sVsiBmpv
+#EXTINF:-1 group-title="2018 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/sevgili-komsum-2018-izle.webp",SEVGILI KOMŞUM ( IMDB: 4.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/oKsQLca4Rb1h
+#EXTINF:-1 group-title="2010 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/ses-2010-izle.webp",SES ( IMDB: 5.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/0XI4Z7kvCXTH
+#EXTINF:-1 group-title="2016 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/rauf-2016-izle.webp",RAUF ( IMDB: 6.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/01q38DmAQkTf
+#EXTINF:-1 group-title="2017 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/put-seylere-2017-izle.webp",PUT ŞEYLERE ( IMDB: 5.1 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/k5JN1CRIxG1D
+#EXTINF:-1 group-title="2008 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/peri-tozu-2008-izle.webp",PERI TOZU ( IMDB: 4.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/HlOmdB0UZL_h
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/ogretmen-2023-izle.webp",ÖĞRETMEN ( IMDB: 4.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/i4mpq-cVYz_k
+#EXTINF:-1 group-title="2018 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/milyonluk-kus-2018-izle.webp",MILYONLUK KUŞ ( IMDB: 7.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/OOR87ex1qUB5
+#EXTINF:-1 group-title="2013 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/meryem-2013-izle.webp",MERYEM ( IMDB: 6.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/WVCSU6XULFdv
+#EXTINF:-1 group-title="2013 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/mavi-dalga-2013-izle.webp",MAVI DALGA ( IMDB: 5.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Q5KfSyyFQiJT
+#EXTINF:-1 group-title="2018 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/gercek-kesit-manyak-izle.webp",GERÇEK KESIT: MANYAK ( IMDB: 5.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/mDsD9W7ZeMML
+#EXTINF:-1 group-title="2010 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/mahpeyker-kosem-sultan-izle.webp",MAHPEYKER: KÖSEM SULTAN ( IMDB: 4.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Suk5Vo1bPd8f
+#EXTINF:-1 group-title="2016 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kacis-2016-izle.webp",KAÇIŞ ( IMDB: 5.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/h8qzU2128XuC
+#EXTINF:-1 group-title="2020 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/hayaletler-2020-izle.webp",HAYALETLER ( IMDB: 5.9 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/rLTVk-sWjbQn
+#EXTINF:-1 group-title="2022 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/ela-ile-hilmi-ve-ali-izle.webp",ELA ILE HILMI VE ALI ( IMDB: 5.5 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/pVB_hr5J7tyk
+#EXTINF:-1 group-title="2004 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/duvara-karsi-2004-izle.webp",DUVARA KARŞI ( IMDB: 7.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/XlWjIvNo4PuJ
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/parca-parca-2024-izle.webp",PARÇA PARÇA ( IMDB: 6.9 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/tPFhqiXALwFm
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/parca-parca-2024-izle.webp",PARÇA PARÇA ( IMDB: 6.9 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/J5Jxl3nnb4SX
+#EXTINF:-1 group-title="2022 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/dijital-esaret-izle.webp",DIJITAL ESARET ( IMDB: 4.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Ht7D6U_Wx6Qq
+#EXTINF:-1 group-title="2017 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/damat-kogusu-2017-izle.webp",DAMAT KOĞUŞU ( IMDB: 6.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/KKpkVxQeaiir
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/pamuk-prenses-2025-izle.webp",PAMUK PRENSES ( IMDB: 1.6 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/wPSwnb2c5bPm
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/pamuk-prenses-2025-izle.webp",PAMUK PRENSES ( IMDB: 1.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/HuiH8juv0tPc
+#EXTINF:-1 group-title="2011 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/celal-tan-ve-ailesinin-asiri-acikli-hikayesi-izle.webp",CELAL TAN VE AILESININ AŞIRI ACIKLI HIKAYESI ( IMDB: 6.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/EzRQCgmK-eVp
+#EXTINF:-1 group-title="2010 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/cakal-2010-izle.webp",ÇAKAL ( IMDB: 6.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/0DVD2ga6cFcu
+#EXTINF:-1 group-title="2010 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/busra-2010-izle.webp",BÜŞRA ( IMDB: 5.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/aCTtMRJ9ob6M
+#EXTINF:-1 group-title="2009 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/bes-sehir-2009-izle.webp",BEŞ ŞEHIR ( IMDB: 6.9 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/AdI1ZImKvhMC
+#EXTINF:-1 group-title="2013 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/arkadaslar-arasinda-izle.webp",ARKADAŞLAR ARASINDA ( IMDB: 6.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/OvCEGV1mIwII
+#EXTINF:-1 group-title="2012 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/araf-2012-izle.webp",ARAF ( IMDB: 6.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/C-yfsISErPpu
+#EXTINF:-1 group-title="2009 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/adab-i-muaseret-2009-izle.webp",ADAB-I MUAŞERET ( IMDB: 3.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/g6YTTL0qV2FD
+#EXTINF:-1 group-title="2008 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/120-2008-izle.webp",120 ( IMDB: 7.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/RHGlsxgm-jGK
+#EXTINF:-1 group-title="2005 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/maskeli-besler-intikam-pesinde-izle.webp",MASKELI BEŞLER: İNTIKAM PEŞINDE ( IMDB: 4.5 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/PU7DdThnBhrn
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kotu-etki-2025-izle.webp",KÖTÜ ETKI ( IMDB: 4.2 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Ge4dANJuDZXh
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kotu-etki-2025-izle.webp",KÖTÜ ETKI ( IMDB: 4.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/U6vfkhfTLRL3
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/buyukanneler-restorani-izle.webp",BÜYÜKANNELER RESTORANI ( IMDB: 5.6 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Nw5h3q6RoLLZ
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/buyukanneler-restorani-izle.webp",BÜYÜKANNELER RESTORANI ( IMDB: 5.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/clbO1uG0OuXd
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/barda-2024-izle.webp",BARDA ( IMDB: 5.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/QTFt3Bdd5Kvx
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/leydi-di-2024-izle.webp",LEYDI DI ( IMDB: 2.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/8iqMYj4Jb0BV
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/bob-dylan-tam-bir-bilinmez-izle.webp",BOB DYLAN: TAM BIR BILINMEZ ( IMDB: 7.4 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/MBdf2vy-3ss0
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/bob-dylan-tam-bir-bilinmez-izle.webp",BOB DYLAN: TAM BIR BILINMEZ ( IMDB: 7.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/MJf5QgYDHcd1
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kursun-asker-2025-izle.webp",KURŞUN ASKER ( IMDB: 7.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/tfwnlFfrt1vU
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kursun-asker-2025-izle.webp",KURŞUN ASKER ( IMDB: 7.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/s69r-MqHAR0x
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/secilim-2024-izle.webp",SEÇILIM ( IMDB: 6.7 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/2zjsXVlcD-gS
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/secilim-2024-izle.webp",SEÇILIM ( IMDB: 6.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/HBLmDFtUX7mC
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/lost-bullet-3-2025-izle.webp",KAYIP MERMI 3 ( IMDB: 6.3 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/zb1n0iqDIiFM
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/lost-bullet-3-2025-izle.webp",KAYIP MERMI 3 ( IMDB: 6.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/SAOr7Xzko9Yu
+#EXTINF:-1 group-title="2022 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/lost-bullet-2-2022-izle.webp",KAYIP MERMI 2 ( IMDB: 6.3 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/aQILwU-A0ocA
+#EXTINF:-1 group-title="2022 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/lost-bullet-2-2022-izle.webp",KAYIP MERMI 2 ( IMDB: 6.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/WXVxy2dmitm_
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/karsilasma-2025-izle.webp",KARŞILAŞMA ( IMDB: 7.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/0qygyexjqVNF
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/karsilasma-2025-izle.webp",KARŞILAŞMA ( IMDB: 7.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Jy6vfAJN_vwG
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/mukadderat-2024-izle.webp",MUKADDERAT ( IMDB: 7.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/5RrqiSpjHI49
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/bir-salyangozun-anilari-izle.webp",BIR SALYANGOZUN ANILARI ( IMDB: 7.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/5f_oHGhyZP1z
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/bir-salyangozun-anilari-izle.webp",BIR SALYANGOZUN ANILARI ( IMDB: 7.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/EhKA9qzwsQcu
+#EXTINF:-1 group-title="2007 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/hannibal-doguyor-2007-izle.webp",HANNIBAL DOĞUYOR ( IMDB: 6.1 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/EcNqqwalU6xt
+#EXTINF:-1 group-title="2007 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/hannibal-doguyor-2007-izle.webp",HANNIBAL DOĞUYOR ( IMDB: 6.1 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/xG6NJeDJWYGd
+#EXTINF:-1 group-title="2002 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kizil-ejder-2002-izle.webp",KIZIL EJDER ( IMDB: 7.2 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/17q55HSPrmSW
+#EXTINF:-1 group-title="2002 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/kizil-ejder-2002-izle.webp",KIZIL EJDER ( IMDB: 7.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/ITmeh-TAkU9P
+#EXTINF:-1 group-title="2001 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/hannibal-2001-izle.webp",HANNIBAL ( IMDB: 6.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/saWd89IlITfc
+#EXTINF:-1 group-title="2001 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/hannibal-2001-izle.webp",HANNIBAL ( IMDB: 6.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/h5WtMS4Xx9y7
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/winter-spring-summer-or-fall-izle.webp",KIŞ BAHAR YAZ VEYA GÜZ ( IMDB: 6.1 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/8zn9JtnbjK37
+#EXTINF:-1 group-title="1986 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/manhunter-1986-izle.webp",İNSAN AVCISI ( IMDB: 7.2 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/jOdrm1Ntzc88
+#EXTINF:-1 group-title="1986 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/manhunter-1986-izle.webp",İNSAN AVCISI ( IMDB: 7.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/z6OUbJLqmVpY
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/neighborhood-watch-2025-izle.webp",NEIGHBORHOOD WATCH ( IMDB: 6.1 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/qQLh-P9V6QDL
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/the-brutalist-2024-izle.webp",THE BRUTALIST ( IMDB: 7.4 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/popbZAc-_eX_
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/the-brutalist-2024-izle.webp",THE BRUTALIST ( IMDB: 7.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/lJLiCbKZ6VQ6
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/drop-2025-izle.webp",DROP: KABUL ET VEYA REDDET ( IMDB: 6.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/8B5ZLnl2HUuu
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/08/son-nefes-2024-izle.webp",SON NEFES ( IMDB: 4.7 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/AA5SzKn5h4b2
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/08/son-nefes-2024-izle.webp",SON NEFES ( IMDB: 4.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/uBA0_-015sLl
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/the-rule-of-jenny-pen-izle.webp",JENNY PEN’IN KURALI ( IMDB: 6.2 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/IChrv4uk_4wJ
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/the-rule-of-jenny-pen-izle.webp",JENNY PEN’IN KURALI ( IMDB: 6.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/4_j9Ni2b7MT2
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/farkli-bir-son-izle.webp",FARKLI BIR SON ( IMDB: 6.4 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/bPoRgau-u8LZ
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/farkli-bir-son-izle.webp",FARKLI BIR SON ( IMDB: 6.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/_EpGPhX1JZHp
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/en-buyuk-hayran-2025-izle.webp",EN BÜYÜK HAYRAN ( IMDB: 5.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/JkUo9FIvzeGc
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/en-buyuk-hayran-2025-izle.webp",EN BÜYÜK HAYRAN ( IMDB: 5.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/R_SKGFc9KxDo
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/heavier-trip-2024-izle.webp",HEAVIER TRIP ( IMDB: 6.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/_EOeuxbqwTnI
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/heavier-trip-2024-izle.webp",HEAVIER TRIP ( IMDB: 6.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Ux540h_vBfM5
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/hope-caddesinin-guneyi-izle.webp",HOPE CADDESI’NIN GÜNEYI ( IMDB: 6.1 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/vYjA-3pgtsWj
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/hope-caddesinin-guneyi-izle.webp",HOPE CADDESI’NIN GÜNEYI ( IMDB: 6.1 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/tp8MWF5cb3PS
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/05/frewaka-2024-izle.webp",DERINDEN GELEN ( IMDB: 6.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/q7cKTQY48fY3
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/freaky-tales-2024-izle.webp",FREAKY TALES ( IMDB: 6.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Fpc_PLxsJcvu
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/aciya-yer-yok-2025-izle.webp",ACIYA YER YOK ( IMDB: 6.5 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/sJacrc1rxSh0
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/dokunulmazlik-2025-izle.webp",DOKUNULMAZLIK ( IMDB: 6.2 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/xzixmheDD4dU
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/dokunulmazlik-2025-izle.webp",DOKUNULMAZLIK ( IMDB: 6.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/MCDt3BnsWh5Z
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/versayin-gulu-2025-izle.webp",VERSAY’IN GÜLÜ ( IMDB: 8.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/MGhU2XEiRMKr
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/death-of-a-unicorn-2025-izle.webp",DEATH OF A UNICORN ( IMDB: 6.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/yUBff9AySGVe
+#EXTINF:-1 group-title="2013 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/man-of-tai-chi-izle.webp",MAN OF TAI CHI ( IMDB: 6.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/MbHTn__5nl6V
+#EXTINF:-1 group-title="2013 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/man-of-tai-chi-izle.webp",MAN OF TAI CHI ( IMDB: 6.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/s44hVspWfCuW
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/genis-aile-4-cevahir-ulvi-izle.webp",GENIŞ AILE 4: CEVAHIR & ULVI ( IMDB: 7.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/uuxOrYumIjsy
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/hala-buradayim-2024-izle.webp",HÂLÂ BURADAYIM ( IMDB: 8.3 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/imJtfZMePezp
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/hala-buradayim-2024-izle.webp",HÂLÂ BURADAYIM ( IMDB: 8.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/ZI7v1Naor1fn
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/fransiz-kizi-2024-izle.webp",FRANSIZ KIZI ( IMDB: 5.5 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/0iuvYEj1_sih
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/fransiz-kizi-2024-izle.webp",FRANSIZ KIZI ( IMDB: 5.5 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/1hJy5Hr_QTHh
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/insancil-2024-izle.webp",İNSANCIL ( IMDB: 5.5 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/vObU9pgIIe6i
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/insancil-2024-izle.webp",İNSANCIL ( IMDB: 5.5 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Y-lsVLzayljg
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/mucevher-hirsizi-soygun-basliyor-2025-izle.webp",MÜCEVHER HIRSIZI: SOYGUN BAŞLIYOR ( IMDB: 4.2 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/31ZtAiTpbNcb
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/mucevher-hirsizi-soygun-basliyor-2025-izle.webp",MÜCEVHER HIRSIZI: SOYGUN BAŞLIYOR ( IMDB: 4.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/vscNpFhlbvJI
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/malegaonlu-super-cocuklar-izle.webp",MALEGAONLU SÜPER ÇOCUKLAR ( IMDB: 7.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/xi6pgmzlSEob
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/malegaonlu-super-cocuklar-izle.webp",MALEGAONLU SÜPER ÇOCUKLAR ( IMDB: 7.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/sxtbOrB7uOtf
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/derin-kargasa-2025-izle.webp",DERIN KARGAŞA ( IMDB: 5.9 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/ph9QGMoLHDEa
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/derin-kargasa-2025-izle.webp",DERIN KARGAŞA ( IMDB: 5.9 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/6jXQsZwM4Dma
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/takintilar-2024-izle.webp",TAKINTILAR ( IMDB: 4.1 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/dvEDcg5rAssy
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/veda-partisi-2024-izle.webp",VEDA PARTISI ( IMDB: 5.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/F0RFspWOda9L
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/ash-2025-izle.webp",KÜL ( IMDB: 4.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Fy6KAT45ZuB2
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/ash-2025-izle.webp",KÜL ( IMDB: 4.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/vNxM0Q8UMTnj
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/hizli-tren-dehseti-2025-izle.webp",HIZLI TREN DEHŞETI ( IMDB: 6.3 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/4BR6Fsfwo-Qu
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/hizli-tren-dehseti-2025-izle.webp",HIZLI TREN DEHŞETI ( IMDB: 6.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/e2oy-mjq30VX
+#EXTINF:-1 group-title="2022 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/eflatun-2022-izle.webp",EFLATUN ( IMDB: 7.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/XMz2eogPBpQY
+#EXTINF:-1 group-title="1990 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2017/05/baba-3-1990-izle.webp",BABA 3 ( IMDB: 7.6 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/RyGrRVaTbaxR
+#EXTINF:-1 group-title="1990 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2017/05/baba-3-1990-izle.webp",BABA 3 ( IMDB: 7.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/UzHr9jctfy7Z
+#EXTINF:-1 group-title="1974 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2017/05/baba-2-1974-izle.webp",BABA 2 ( IMDB: 9.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/uEIClzZu0x38
+#EXTINF:-1 group-title="1974 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2017/05/baba-2-1974-izle.webp",BABA 2 ( IMDB: 9.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/mSDrwCFLgJQP
+#EXTINF:-1 group-title="1972 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2017/05/baba-1972-izle.webp",BABA ( IMDB: 9.2 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/ANQKRt3o65NL
+#EXTINF:-1 group-title="1972 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2017/05/baba-1972-izle.webp",BABA ( IMDB: 9.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/qHPlqTKzh049
+#EXTINF:-1 group-title="2010 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2023/05/ask-ve-kuller-izle.webp",AŞK VE KÜLLER ( IMDB: 7.3 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/vFy49K5o6hAx
+#EXTINF:-1 group-title="2010 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2023/05/ask-ve-kuller-izle.webp",AŞK VE KÜLLER ( IMDB: 7.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/ImNjVCh4_oBj
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2023/08/olumcul-dalis-2023-izle.webp",ÖLÜMCÜL DALIŞ ( IMDB: 5.6 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/vAvnc12-c5Gn
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2023/08/olumcul-dalis-2023-izle.webp",ÖLÜMCÜL DALIŞ ( IMDB: 5.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Wv4Qvcsswkvf
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/bahcedeki-kadin-2025-izle.webp",BAHÇEDEKI KADIN ( IMDB: 5.1 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Cy4PUNcpMREe
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/yolun-basinda-2024-izle.webp",YOLUN BAŞINDA ( IMDB: 6.7 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/uhASga-F8Of7
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/yolun-basinda-2024-izle.webp",YOLUN BAŞINDA ( IMDB: 6.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/LmDYWQ4oi2VN
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/rob-peace-2024-izle.webp",ROB PEACE ( IMDB: 6.5 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/wCXM10WprufF
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/rob-peace-2024-izle.webp",ROB PEACE ( IMDB: 6.5 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/qauu4Zai3th-
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/01/ruya-senaryo-izle.webp",RÜYA SENARYO ( IMDB: 6.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/eU29pSl_Xc1H
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/01/ruya-senaryo-izle.webp",RÜYA SENARYO ( IMDB: 6.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/LORjZK3Voq9k
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/havuzdaki-bufe-2024-izle.webp",HAVUZDAKI BÜFE ( IMDB: 7.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/vZ4nuDgfj-4N
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/havuzdaki-bufe-2024-izle.webp",HAVUZDAKI BÜFE ( IMDB: 7.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/5flg3nH_aOQq
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/annesinin-kuzusu-2023-izle.webp",ANNESININ KUZUSU ( IMDB: 4.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/bBVZQZFaHYTG
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/irehine-izle.webp",IREHINE ( IMDB: 5.7 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/gkqEczFMRDpr
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/irehine-izle.webp",IREHINE ( IMDB: 5.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/dqj3rg3U62_l
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/kaptan-amerika-cesur-yeni-dunya-izle.webp",KAPTAN AMERIKA: CESUR YENI DÜNYA ( IMDB: 5.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/vUPCs_Ue2hKP
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/kaptan-amerika-cesur-yeni-dunya-izle.webp",KAPTAN AMERIKA: CESUR YENI DÜNYA ( IMDB: 5.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/alHH4Y2p_5z7
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/reagan-2024-izle.webp",REAGAN ( IMDB: 6.1 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/Hf3dhgaX0ukx
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/reagan-2024-izle.webp",REAGAN ( IMDB: 6.1 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/EsZs0yaCQHvp
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/12/juror-2-2024-izle.webp",JÜRI ÜYESI NO. 2 ( IMDB: 7.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/OZVFzM-89awy
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/12/juror-2-2024-izle.webp",JÜRI ÜYESI NO. 2 ( IMDB: 7.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/G41Qqlc6yawW
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/elestirmen-2023-izle.webp",ELEŞTIRMEN ( IMDB: 6.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/ELHcTNEVz_ux
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/elestirmen-2023-izle.webp",ELEŞTIRMEN ( IMDB: 6.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/o1bH95rzY2VH
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/12/gladyator-2-2024-izle.webp",GLADYATÖR 2 ( IMDB: 6.5 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/tgltJF6Xjg9R
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/12/gladyator-2-2024-izle.webp",GLADYATÖR 2 ( IMDB: 6.5 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/194u_o5552qO
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2023/11/obsesyon-2023-izle.webp",OBSESYON ( IMDB: 4.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/dcG8Mw9n4bfv
+#EXTINF:-1 group-title="2011 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/kilic-ustalari-izle.webp",KILIÇ USTALARI ( IMDB: 7.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/rz6jY8YjVSnC
+#EXTINF:-1 group-title="2011 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/kilic-ustalari-izle.webp",KILIÇ USTALARI ( IMDB: 7.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/aC5cXe-l8adM
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/g20-2025-izle.webp",G20 ( IMDB: 5.1 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/x02h6MeLROxs
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/04/g20-2025-izle.webp",G20 ( IMDB: 5.1 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/c5Qe3A93RZ5f
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/01/nosferatu-2024-izle.webp",NOSFERATU ( IMDB: 7.2 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/E66PM31tiuqv
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/01/nosferatu-2024-izle.webp",NOSFERATU ( IMDB: 7.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/w9zvDyOC1NYf
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/varlik-2024-izle.webp",VARLIK ( IMDB: 6.1 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/6lty5GtUeIbw
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/ask-pesinde-bir-yil-izle.webp",AŞK PEŞINDE BIR YIL ( IMDB: 6.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/sdijRySEw39L
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/ask-pesinde-bir-yil-izle.webp",AŞK PEŞINDE BIR YIL ( IMDB: 6.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/LmnEz0zNnvjt
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/holland-2025-izle.webp",HOLLAND ( IMDB: 5.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/5Mq8-ZDSZQX7
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/holland-2025-izle.webp",HOLLAND ( IMDB: 5.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/_113yboQAgQU
+#EXTINF:-1 group-title="20232024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/geber-2023-izle.webp",GEBER! ( IMDB: 7.5 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/-ZADTj9msr-H
+#EXTINF:-1 group-title="20232024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/geber-2023-izle.webp",GEBER! ( IMDB: 7.5 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/KuUKRR6LHLJJ
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/dengeler-2024-izle.webp",DENGELER ( IMDB: 5.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/oe9bbPVv3yET
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/gelin-takimi-2024-izle.webp",GELIN TAKIMI ( IMDB: 3.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/54Y2X--T0J6D
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/silent-zone-2025-izle.webp",SILENT ZONE ( IMDB: 5.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/ulWQhFSnBG2J
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/01/wicked-2024-izle.webp",WICKED ( IMDB: 7.5 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/aGnYCo1BlopQ
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/01/wicked-2024-izle.webp",WICKED ( IMDB: 7.5 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/CnIEJK1M-lGO
+#EXTINF:-1 group-title="2017 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/paddington-2-2017-izle.webp",AYI PADDINGTON 2 ( IMDB: 7.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/tfz0exdRamVz
+#EXTINF:-1 group-title="2017 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/paddington-2-2017-izle.webp",AYI PADDINGTON 2 ( IMDB: 7.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/f9HycDNAAqaD
+#EXTINF:-1 group-title="2014 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/paddington-2014-izle.webp",AYI PADDINGTON ( IMDB: 7.3 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/wWSR6NWV6TT1
+#EXTINF:-1 group-title="2014 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/paddington-2014-izle.webp",AYI PADDINGTON ( IMDB: 7.3 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/SA1qlct_2kBo
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/sanal-ulke-izle.webp",SANAL ÜLKE ( IMDB: 5.9 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/zYZZaexd5Wpl
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/sanal-ulke-izle.webp",SANAL ÜLKE ( IMDB: 5.9 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/-uSQCrGuNqNb
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/icindeki-ates-2024-izle.webp",İÇINDEKI ATEŞ ( IMDB: 6.7 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/ubaGvRtk05Hf
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/03/icindeki-ates-2024-izle.webp",İÇINDEKI ATEŞ ( IMDB: 6.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/6riO_C_Ryz70
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/04/knox-goes-away-izle.webp",BIR KATILIN ANILARI ( IMDB: 7.0 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/r8jfzAZBP02O
+#EXTINF:-1 group-title="2023 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/04/knox-goes-away-izle.webp",BIR KATILIN ANILARI ( IMDB: 7.0 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/MPYk_tT5cs-7
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/01/moana-2-2024-izle.webp",MOANA 2 ( IMDB: 6.6 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/nDx90D7oHTiQ
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/01/moana-2-2024-izle.webp",MOANA 2 ( IMDB: 6.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/9hrNli6_OkSt
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/08/icimdeki-canavar-2024-izle.webp",İÇIMDEKI CANAVAR ( IMDB: 4.2 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/77bFq_VHepjp
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/08/icimdeki-canavar-2024-izle.webp",İÇIMDEKI CANAVAR ( IMDB: 4.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/bDgkfvefn5Xl
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/iblis-sehri-2025-izle.webp",İBLIS ŞEHRI ( IMDB: 5.4 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/kpsP4L3MlM5T
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/iblis-sehri-2025-izle.webp",İBLIS ŞEHRI ( IMDB: 5.4 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/KK4cPLVoEdfL
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/vahsi-robot-izle.webp",VAHŞI ROBOT ( IMDB: 8.2 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/m2mHV7EBZX8W
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/vahsi-robot-izle.webp",VAHŞI ROBOT ( IMDB: 8.2 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/9i4srWx6EKEi
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/01/avci-kraven-izle.webp",AVCI KRAVEN ( IMDB: 5.5 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/lJQQdejF4SzC
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/01/avci-kraven-izle.webp",AVCI KRAVEN ( IMDB: 5.5 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/xN4cbreCSjOx
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/mufasa-aslan-kral-2024-izle.webp",MUFASA: ASLAN KRAL ( IMDB: 6.6 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/KHho3tLtfshi
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/mufasa-aslan-kral-2024-izle.webp",MUFASA: ASLAN KRAL ( IMDB: 6.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/2_yNsJirjDpC
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/12/anora-2024-izle.webp",ANORA ( IMDB: 7.5 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/ytojjxalOVmX
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2024/12/anora-2024-izle.webp",ANORA ( IMDB: 7.5 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/jjQ0_yvanMPI
+#EXTINF:-1 group-title="2019 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/aslan-kral-2019-izle.webp",ASLAN KRAL ( IMDB: 6.8 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/AJhEgF-GW6qv
+#EXTINF:-1 group-title="2019 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/aslan-kral-2019-izle.webp",ASLAN KRAL ( IMDB: 6.8 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/BMqEIJdmTrJl
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/transformers-baslangic-2024-izle.webp",TRANSFORMERS: BAŞLANGIÇ ( IMDB: 7.6 | TÜRKÇE DUBLAJ | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/pNAk2DCMa5D8
+#EXTINF:-1 group-title="2024 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/transformers-baslangic-2024-izle.webp",TRANSFORMERS: BAŞLANGIÇ ( IMDB: 7.6 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/dWPHI7ejU-Nt
+#EXTINF:-1 group-title="2025 FİLMLERİ" tvg-logo="https://www.setfilmizle.nl/thumb_/149x224-1/wp-content/uploads/2025/02/the-gorge-2025-izle.webp",THE GORGE ( IMDB: 6.7 | TÜRKÇE ALTYAZILI | FastPlay )
+https://zeroipday-zeroipday.hf.space/proxy/vctplay?url=https://vctplay.site/video/-Q6HXBEWPyaG
