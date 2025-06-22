@@ -1,27 +1,22 @@
-# get_embed.py
-
 from playwright.sync_api import sync_playwright
-
-film_url = "https://www.hdfilmcehennemi.men/film/kutsal-damacana-5-zombi/"
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
     page = browser.new_page()
-    page.goto(film_url, wait_until="domcontentloaded")
-    page.wait_for_timeout(3000)  # Gerekirse artır
+    page.goto("https://www.setfilmizle.nl/film/")
+    page.wait_for_selector("article.item.dortlu.movies")  # Filmler yüklensin
 
-    # Eğer tıklama gerekirse (ör: #fimcnt_pb butonunu bulup tıkla)
-    try:
-        page.click("#fimcnt_pb")
-        page.wait_for_timeout(1500)
-    except Exception:
-        pass
+    # İlk sayfa filmlerini topla
+    articles = page.query_selector_all("article.item.dortlu.movies .poster a")
+    for art in articles:
+        print("Film linki:", art.get_attribute("href"))
 
-    iframe = page.query_selector("iframe")
-    if iframe:
-        src = iframe.get_attribute("src")
-        print(src)
-    else:
-        print("iframe bulunamadı.")
+    # Sonraki sayfa butonuna tıkla (örneğin sayfa 2)
+    page.click("a.page-numbers[aria-label='Sonraki Sayfa']")  # Veya doğru selector
+    page.wait_for_selector("article.item.dortlu.movies")
+
+    articles2 = page.query_selector_all("article.item.dortlu.movies .poster a")
+    for art in articles2:
+        print("2. sayfa film linki:", art.get_attribute("href"))
 
     browser.close()
