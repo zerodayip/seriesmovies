@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/to-be-hero-x.html": {
+    "group": "TO BE HERO X",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/melting-me-softly.html": {
     "group": "MELTING ME SOFTLY",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "STICK",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/yuu-yuu-hakusho.html": {
-    "group": "YUU YUU HAKUSHO",
-    "last_season": 1,
-    "last_episode": 112,
     "start_episode": 1
   }
 }
