@@ -5,6 +5,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 
 PROXY_PREFIX = "https://zeroipday-zeroipday.hf.space/proxy/vctplay?url="
+OUTPUT_FILE = "setfilmizlefilm.m3u"
 
 def get_fastplay_embeds_bs(film_url):
     headers = {
@@ -13,7 +14,7 @@ def get_fastplay_embeds_bs(film_url):
     }
     embeds = []
     try:
-        resp = requests.get(film_url, headers=headers, timeout=10)
+        resp = requests.get(film_url, headers=headers, timeout=15)
         soup = BeautifulSoup(resp.text, "html.parser")
         playex_div = soup.select_one("div#playex")
         nonce = playex_div.get("data-nonce") if playex_div else None
@@ -29,7 +30,7 @@ def get_fastplay_embeds_bs(film_url):
                     label = "Türkçe Dublaj"
                 elif part_key and "altyazi" in part_key.lower():
                     label = "Türkçe Altyazılı"
-                elif not part_key:   # part_key yok veya boş ise
+                elif not part_key:
                     label = "Türkçe Altyazılı"
                 else:
                     label = label_main
@@ -45,7 +46,7 @@ def get_fastplay_embeds_bs(film_url):
                     "Referer": film_url,
                     "X-Requested-With": "XMLHttpRequest"
                 }
-                r = requests.post("https://www.setfilmizle.nl/wp-admin/admin-ajax.php", data=payload, headers=ajax_headers, timeout=10)
+                r = requests.post("https://www.setfilmizle.nl/wp-admin/admin-ajax.php", data=payload, headers=ajax_headers, timeout=15)
                 try:
                     data = r.json()
                     embed_url = data.get("data", {}).get("url")
@@ -78,52 +79,67 @@ def gather_film_infos(page):
         film_infos.append((title_text, rating_text, anayil_text, film_link, logo_url))
     return film_infos
 
-def print_m3u_entry(title, rating, anayil, label, emb_url, logo_url=None, group_title=None):
+def print_m3u_entry(file, title, rating, anayil, label, emb_url, logo_url=None, group_title=None):
     group = group_title or (anayil + " FİLMLERİ")
     logo = logo_url or ""
     info_title = f"{title.upper()} ( IMDB: {rating} | {label.upper()} )"
-    # Proxy prefix ile embed url'i birleştir
     m3u_url = PROXY_PREFIX + emb_url
-    print(f'#EXTINF:-1 group-title="{group}" tvg-logo="{logo}",{info_title}')
-    print(m3u_url)
-    print()
+    file.write(f'#EXTINF:-1 group-title="{group}" tvg-logo="{logo}",{info_title}\n')
+    file.write(f"{m3u_url}\n\n")
+
+def get_max_page(page):
+    # "Son Sayfa" butonunu bul ve data-page değerini al
+    try:
+        element = page.query_selector("span.last-page")
+        if element:
+            return int(element.get_attribute("data-page"))
+        # Alternatif olarak en büyük data-page değerini bul
+        all_numbers = [int(e.get_attribute("data-page")) for e in page.query_selector_all("span.page-number") if e.get_attribute("data-page").isdigit()]
+        if all_numbers:
+            return max(all_numbers)
+    except Exception:
+        pass
+    return 1
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
     page = browser.new_page()
     page.goto("https://www.setfilmizle.nl/film/")
     page.wait_for_selector("article.item.dortlu.movies")
-    print("1. sayfa yüklendi.")
+    print("İlk sayfa yüklendi.")
 
-    film_infos_1 = gather_film_infos(page)
+    # Kaç sayfa var?
+    max_page = get_max_page(page)
+    print(f"Toplam sayfa: {max_page}")
 
-    # 2. sayfa <span>'ına tıkla!
-    page.click("span.page-number[data-page='2']")
-    print("2. sayfa butonuna tıklandı.")
+    all_film_infos = []
+    for current_page in range(1, max_page + 1):
+        if current_page > 1:
+            # Diğer sayfalara tıklama
+            page.click(f"span.page-number[data-page='{current_page}']")
+            # Yüklenmesini bekle (ilk filmin başlığı değişene kadar)
+            for _ in range(30):
+                try:
+                    time.sleep(0.3)
+                    break
+                except Exception:
+                    pass
+        time.sleep(1)
+        film_infos = gather_film_infos(page)
+        print(f"{current_page}. sayfa film sayısı: {len(film_infos)}")
+        all_film_infos.extend(film_infos)
 
-    # Yeni filmler gelene kadar bekle (ilk filmin başlığı değişene kadar)
-    first_film_title = page.query_selector("article.item.dortlu.movies h2").inner_text().strip()
-    for _ in range(20):
-        try:
-            new_title = page.query_selector("article.item.dortlu.movies h2").inner_text().strip()
-            if new_title != first_film_title:
-                break
-        except Exception:
-            pass
-        time.sleep(0.5)
-
-    film_infos_2 = gather_film_infos(page)
     browser.close()
 
-    # Tüm filmleri birleştir:
-    all_film_infos = film_infos_1 + film_infos_2
-    print("#EXTM3U\n")
-    print(f"# Toplam film: {len(all_film_infos)}\n")
+    print(f"Toplam film bulundu: {len(all_film_infos)}")
+    print(f"Tüm filmler embed linkleri ile {OUTPUT_FILE} dosyasına yazılıyor...")
 
-    # Embed linklerini paralel alalım!
-    with ThreadPoolExecutor(max_workers=10) as executor:
-        future_to_film = {executor.submit(fetch_embed_info, info): info for info in all_film_infos}
-        for future in as_completed(future_to_film):
-            title, rating, anayil, film_link, logo_url, fastplay_embeds = future.result()
-            for label, emb_url in fastplay_embeds:
-                print_m3u_entry(title, rating, anayil, label, emb_url, logo_url)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as fout:
+        fout.write("#EXTM3U\n\n")
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            future_to_film = {executor.submit(fetch_embed_info, info): info for info in all_film_infos}
+            for future in as_completed(future_to_film):
+                title, rating, anayil, film_link, logo_url, fastplay_embeds = future.result()
+                for label, emb_url in fastplay_embeds:
+                    print_m3u_entry(fout, title, rating, anayil, label, emb_url, logo_url)
+    print("Tamamlandı! ✅")
