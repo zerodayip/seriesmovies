@@ -17,17 +17,18 @@ def get_fastplay_embeds_bs(film_url):
         nonce = playex_div.get("data-nonce") if playex_div else None
         if not nonce:
             return []
-        # Hem nav.player a hem de .idTabs.sourceslist a için:
         for btn in soup.select('nav.player a, .idTabs.sourceslist a'):
             if btn.get("data-player-name", "").lower() == "fastplay":
                 post_id = btn.get("data-post-id")
                 part_key = btn.get("data-part-key", "")
                 b_tag = btn.find("b")
                 label_main = b_tag.get_text(strip=True) if b_tag else (btn.get_text(strip=True) or "FastPlay")
-                # part-key'e göre dublaj/altyazı etiketi
+                # part-key'e göre veya yoksa Türkçe Altyazılı
                 if part_key and "dublaj" in part_key.lower():
                     label = "Türkçe Dublaj"
                 elif part_key and "altyazi" in part_key.lower():
+                    label = "Türkçe Altyazılı"
+                elif not part_key:   # part_key yok veya boş ise
                     label = "Türkçe Altyazılı"
                 else:
                     label = label_main
