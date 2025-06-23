@@ -28,7 +28,7 @@ jobs:
           pip install --upgrade pip
           pip install requests beautifulsoup4 lxml
 
-      - name: Run SezonlukDizi Script
+      - name: Run SetFilmIzle Dizi Script
         run: python private_py/series/setfilmizle/dizi.py
 
       - name: Commit and Push to Public Repo
@@ -50,6 +50,6 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git pull --rebase origin main || echo "No upstream changes"
-          git add m3u8setfilmizle/**/*.m3u || echo "No M3U to add"
+          git add m3u8setfilmizle/*.m3u || echo "No M3U to add"
           git commit -m "Setfilmizle çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
