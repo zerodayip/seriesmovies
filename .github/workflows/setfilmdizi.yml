@@ -32,6 +32,8 @@ jobs:
         run: python private_py/series/setfilmizle/dizi.py
 
       - name: Run SetFilmIzle Dizi Birlestir Script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/series/setfilmizle/birlestir.py
 
       - name: Commit and Push to Public Repo
