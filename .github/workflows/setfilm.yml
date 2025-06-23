@@ -1,4 +1,4 @@
-name: Get Embed Link
+name: Run SetFilmIzle Film Embed
 
 on:
   workflow_dispatch:
