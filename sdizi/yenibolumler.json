@@ -1,116 +1,80 @@
 {
-  "https://sezonlukdizi6.com/diziler/the-tom-and-jerry-show.html": {
-    "group": "THE TOM AND JERRY SHOW",
-    "last_season": 5,
-    "last_episode": 39,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/frasier-2023.html": {
-    "group": "FRASIER 2023",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/rita.html": {
-    "group": "RITA",
-    "last_season": 5,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/woman-of-the-dead.html": {
-    "group": "WOMAN OF THE DEAD",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/valeria.html": {
-    "group": "VALERIA",
-    "last_season": 4,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/elena-of-avalor.html": {
-    "group": "ELENA OF AVALOR",
-    "last_season": 3,
-    "last_episode": 31,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/initial-d.html": {
-    "group": "INITIAL D",
-    "last_season": 6,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/robin-hood.html": {
-    "group": "ROBIN HOOD",
-    "last_season": 3,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/dynasties-ii.html": {
-    "group": "DYNASTIES II",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/kill-it.html": {
-    "group": "KILL IT",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/recess.html": {
-    "group": "RECESS",
-    "last_season": 3,
-    "last_episode": 39,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/ataturk-1881-1919.html": {
-    "group": "ATATÜRK 1881-1919 1919",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/the-a-team.html": {
-    "group": "THE A-TEAM",
-    "last_season": 5,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/my-dearest.html": {
-    "group": "MY DEAREST",
+  "https://sezonlukdizi6.com/diziler/sherlock-daughter.html": {
+    "group": "SHERLOCK & DAUGHTER",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/the-office-au-2024.html": {
-    "group": "THE OFFICE 2024",
+  "https://sezonlukdizi6.com/diziler/good-boy.html": {
+    "group": "GOOD BOY",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/our-unwritten-seoul.html": {
+    "group": "OUR UNWRITTEN SEOUL",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/to-be-hero-x.html": {
+    "group": "TO BE HERO X",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/melting-me-softly.html": {
+    "group": "MELTING ME SOFTLY",
+    "last_season": 1,
+    "last_episode": 16,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
+    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/tracker.html": {
+    "group": "TRACKER",
+    "last_season": 2,
+    "last_episode": 20,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/will-trent.html": {
+    "group": "WILL TRENT",
+    "last_season": 3,
+    "last_episode": 18,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/and-just-like-that.html": {
+    "group": "AND JUST LIKE THAT…",
+    "last_season": 3,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/nine-perfect-strangers.html": {
+    "group": "NINE PERFECT STRANGERS",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/olympo.html": {
+    "group": "OLYMPO",
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/serial-experiments-lain.html": {
-    "group": "SERIAL EXPERIMENTS LAIN",
+  "https://sezonlukdizi6.com/diziler/duster.html": {
+    "group": "DUSTER",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 6,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/the-tick.html": {
-    "group": "THE TICK",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/redakai.html": {
-    "group": "REDAKAI",
-    "last_season": 2,
-    "last_episode": 26,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/manhunt-2019.html": {
-    "group": "MANHUNT 2019",
-    "last_season": 2,
-    "last_episode": 4,
+  "https://sezonlukdizi6.com/diziler/murderbot.html": {
+    "group": "MURDERBOT",
+    "last_season": 1,
+    "last_episode": 7,
     "start_episode": 1
   }
 }
