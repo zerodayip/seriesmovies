@@ -41,7 +41,7 @@ jobs:
 
       - name: Delete all files except logo.txt and ana_link.txt in 'g' folder
         run: |
-         find setfilm -type f ! -name 'a.txt' ! -name 'ana_link.txt' -exec git rm {} +
+         find setfilm -type f ! -name 'link.txt' ! -name 'ana_link.txt' -exec git rm {} +
 
 #     - name: Delete all files except logo.txt, livejson.py, and schedule.json in 'd' folder
 #       run: |
