@@ -31,12 +31,15 @@ jobs:
       - name: Run SetFilmIzle Dizi Script
         run: python private_py/series/setfilmizle/dizi.py
 
+      - name: Run SetFilmIzle Dizi Birlestir Script
+        run: python private_py/series/setfilmizle/birlestir.py
+
       - name: Commit and Push to Public Repo
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add setfilm/*.m3u || echo "No files"
-          git commit -m "SezonlukDizi güncellendi [auto]" || echo "No changes"
+          git commit -m "SetFilmIzle güncellendi [auto]" || echo "No changes"
           git push origin main
 
       - name: Copy updated M3U folders to private repo (with structure)
