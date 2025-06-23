@@ -1,4 +1,4 @@
-name: Run SetFilmIzle Dizi M3u
+name: Run SetFilmIzle Dizi Embed
 
 on:
   workflow_dispatch:
