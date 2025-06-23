@@ -33,10 +33,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/xtream/film.py
 
-  #    - name: Run Xtream Dizi Script
-  #      env:
-  #        GH_TOKEN: ${{ secrets.GH_TOKEN }}
-  #      run: python private_py/xtream/dizi.py
+      - name: Run Xtream Dizi Script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python private_py/xtream/dizi.py
 
       - name: Commit and Push to Public Repo
         run: |
