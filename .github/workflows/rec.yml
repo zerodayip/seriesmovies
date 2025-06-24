@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: Checkout Public Repo (sitem3u)
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
           ref: main
@@ -49,11 +49,6 @@ jobs:
           cp r/recdizi.m3u private_py/m3u8/ || echo "recdizi.m3u kopyalanamadı"
           cp r/recanime.m3u private_py/m3u8/ || echo "recanime.m3u kopyalanamadı"
 
-      - name: Check copied files
-        run: |
-          echo "📁 Kopyalanan dosyalar:"
-          ls -lh private_py/m3u8
-
       # ✅ Private Py repo'ya push
       - name: Commit and Push to Private Py Repo
         run: |
@@ -68,5 +63,5 @@ jobs:
         run: |
           echo "This is a trigger file $(date)" > sil.txt
           git add sil.txt
-          git commit -m "Trigger to Next Step"
+          git commit -m "Trigger to Next Step 2"
           git push origin main
