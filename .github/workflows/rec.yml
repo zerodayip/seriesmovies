@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Public Repo (sitem3u)
+      - name: Checkout Public Repo
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
@@ -32,7 +32,7 @@ jobs:
         run: python private_py/rectv/grouptitlefarkli.py
 
       # ✅ Public repoya push
-      - name: Commit and Push to Public Repo (sitem3u)
+      - name: Commit and Push to Public Repo
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
@@ -59,9 +59,12 @@ jobs:
           git commit -m "RecTV çıktıları m3u8 klasörüne eklendi [auto]" || echo "No changes"
           git push origin main
 
-      - name: Create or Update sil.txt (Trigger file)
+      - name: Create or Update sil.txt (Trigger file) with PAT
+         env:
+         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           echo "This is a trigger file $(date)" > sil.txt
           git add sil.txt
-          git commit -m "Trigger to Next Step 2"
-          git push origin main
+          git commit -m "Trigger to Next Step 2" || echo "No changes"
+          git push https://x-access-token:${GH_TOKEN}@github.com/zerodayip/seriesmovies.git main
+
