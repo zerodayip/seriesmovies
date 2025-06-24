@@ -1,92 +1,86 @@
 {
-  "https://sezonlukdizi6.com/diziler/three-pines.html": {
-    "group": "THREE PINES",
+  "https://sezonlukdizi6.com/diziler/supernatural.html": {
+    "group": "SUPERNATURAL",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/icarly.html": {
-    "group": "ICARLY",
-    "last_season": 6,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/without-sin.html": {
-    "group": "WITHOUT SIN",
+  "https://sezonlukdizi6.com/diziler/true-detective.html": {
+    "group": "TRUE DETECTIVE",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/on-becoming-a-god-in-central-florida.html": {
-    "group": "ON BECOMING A GOD IN CENTRAL FLORIDA",
+  "https://sezonlukdizi6.com/diziler/person-of-interest.html": {
+    "group": "PERSON OF INTEREST",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/snatch.html": {
-    "group": "SNATCH",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/marriage.html": {
-    "group": "MARRIAGE",
+  "https://sezonlukdizi6.com/diziler/lost.html": {
+    "group": "LOST",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/heels.html": {
-    "group": "HEELS",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/a-spy-among-friends.html": {
-    "group": "A SPY AMONG FRIENDS",
+  "https://sezonlukdizi6.com/diziler/the-originals.html": {
+    "group": "THE ORIGINALS",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/hitlers-circle-of-evil.html": {
-    "group": "HITLER'S CIRCLE OF EVIL",
+  "https://sezonlukdizi6.com/diziler/teen-wolf.html": {
+    "group": "TEEN WOLF",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/perry-mason.html": {
-    "group": "PERRY MASON",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/hung.html": {
-    "group": "HUNG",
-    "last_season": 3,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/tunnel.html": {
-    "group": "TUNNEL",
+  "https://sezonlukdizi6.com/diziler/fringe.html": {
+    "group": "FRINGE",
     "last_season": 1,
-    "last_episode": 16,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/the-penguins-of-madagascar.html": {
-    "group": "THE PENGUINS OF MADAGASCAR",
-    "last_season": 3,
-    "last_episode": 15,
+  "https://sezonlukdizi6.com/diziler/dexter.html": {
+    "group": "DEXTER",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/baskets.html": {
-    "group": "BASKETS",
-    "last_season": 4,
-    "last_episode": 10,
+  "https://sezonlukdizi6.com/diziler/the-mentalist.html": {
+    "group": "THE MENTALIST",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/millennium-1996.html": {
-    "group": "MILLENNIUM 1996",
-    "last_season": 3,
-    "last_episode": 22,
+  "https://sezonlukdizi6.com/diziler/arrow-izle.html": {
+    "group": "ARROW",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/sherlock.html": {
+    "group": "SHERLOCK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/prison-break.html": {
+    "group": "PRISON BREAK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/how-i-met-your-mother.html": {
+    "group": "HOW I MET YOUR MOTHER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/band-of-brothers.html": {
+    "group": "BAND OF BROTHERS",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   }
 }
