@@ -4,8 +4,10 @@ on:
   schedule:
     - cron: '15 3 * * *'
   push:
+    branches:
+      - main
     paths:
-      - 'sil.txt'  # Bu dosya eklendiğinde workflow tetiklenecek
+      - 'sil.txt'
   workflow_dispatch:
 
 jobs:
