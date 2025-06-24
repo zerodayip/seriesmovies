@@ -60,7 +60,7 @@ jobs:
           git push origin main
 
       - name: Create or Update sil.txt (Trigger file) with PAT
-         env:
+        env:
          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           echo "This is a trigger file $(date)" > sil.txt
