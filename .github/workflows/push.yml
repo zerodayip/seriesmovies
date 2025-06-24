@@ -33,7 +33,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          python private_py/sezonlukdizi/birlestir.py
+          python private_py/series/sezonlukdizi/birlestir.py
 
       - name: Configure Git for Commit
         run: |
