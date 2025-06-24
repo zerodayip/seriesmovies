@@ -1,80 +1,61 @@
 {
-  "https://sezonlukdizi6.com/diziler/the-gilded-age.html": {
-    "group": "THE GILDED AGE",
-    "last_season": 3,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/doctor-odyssey.html": {
-    "group": "DOCTOR ODYSSEY",
+  "https://sezonlukdizi6.com/diziler/nurses.html": {
+    "group": "NURSES",
     "last_season": 1,
-    "last_episode": 17,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/my-hero-academia-vigilantes.html": {
-    "group": "MY HERO ACADEMIA: VIGILANTES",
+  "https://sezonlukdizi6.com/diziler/claymore.html": {
+    "group": "CLAYMORE",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/lazarus.html": {
-    "group": "LAZARUS",
+  "https://sezonlukdizi6.com/diziler/my-dearest.html": {
+    "group": "MY DEAREST",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/911.html": {
-    "group": "9-1-1",
-    "last_season": 8,
-    "last_episode": 18,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/rick-and-morty.html": {
-    "group": "RICK AND MORTY",
-    "last_season": 8,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/sherlock-daughter.html": {
-    "group": "SHERLOCK & DAUGHTER",
+  "https://sezonlukdizi6.com/diziler/macgyver.html": {
+    "group": "MACGYVER",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/good-boy.html": {
-    "group": "GOOD BOY",
+  "https://sezonlukdizi6.com/diziler/almost-paradise.html": {
+    "group": "ALMOST PARADISE",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/our-unwritten-seoul.html": {
-    "group": "OUR UNWRITTEN SEOUL",
+  "https://sezonlukdizi6.com/diziler/crossing-lines.html": {
+    "group": "CROSSING LINES",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/to-be-hero-x.html": {
-    "group": "TO BE HERO X",
+  "https://sezonlukdizi6.com/diziler/power-book-ii-ghost.html": {
+    "group": "POWER BOOK II: GHOST",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/melting-me-softly.html": {
-    "group": "MELTING ME SOFTLY",
+  "https://sezonlukdizi6.com/diziler/the-outpost.html": {
+    "group": "THE OUTPOST",
     "last_season": 1,
-    "last_episode": 16,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
-    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
+  "https://sezonlukdizi6.com/diziler/the-librarians.html": {
+    "group": "THE LIBRARIANS",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/tracker.html": {
-    "group": "TRACKER",
-    "last_season": 2,
-    "last_episode": 20,
+  "https://sezonlukdizi6.com/diziler/oban-star-racers.html": {
+    "group": "OBAN STAR-RACERS",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
-  }
-}
+  },
