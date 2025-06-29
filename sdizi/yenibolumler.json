@@ -1,4 +1,16 @@
 {
+  "https://sezonlukdizi6.com/diziler/good-boy.html": {
+    "group": "GOOD BOY",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/our-unwritten-seoul.html": {
+    "group": "OUR UNWRITTEN SEOUL",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/pokemon-horizons.html": {
     "group": "POKEMON HORIZONS",
     "last_season": 2,
@@ -69,12 +81,6 @@
     "group": "STICK",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/ironheart.html": {
-    "group": "IRONHEART",
-    "last_season": 1,
-    "last_episode": 3,
     "start_episode": 1
   }
 }
