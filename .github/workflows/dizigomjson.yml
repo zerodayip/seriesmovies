@@ -2,10 +2,9 @@ name: Run Dizigom Tüm Diziler JSON
 
 on:
   workflow_dispatch:
-#  schedule:
-#    - cron: '30 */12 * * *'
+
 jobs:
-  run-sezonlukdizi:
+  run-dizigom:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,12 +23,13 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      - name: Install Python Dependencies
+      - name: Install Python Dependencies (requests, bs4, lxml, playwright)
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml
+          pip install requests beautifulsoup4 lxml playwright
+          playwright install
 
-      - name: Run SezonlukDizi Script
+      - name: Run Dizigom Script
         run: python private_py/series/dizigom/dizigomdizijson.py
 
       - name: Commit and Push to Public Repo (sitem3u)
@@ -37,5 +37,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add dizigom/*.json || echo "No files"
-          git commit -m "SezonlukDizi JSON güncellendi [auto]" || echo "No changes"
+          git commit -m "Dizigom JSON güncellendi [auto]" || echo "No changes"
           git push origin main
