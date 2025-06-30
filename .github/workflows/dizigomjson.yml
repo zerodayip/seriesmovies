@@ -36,6 +36,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add sdizi/*.json || echo "No files"
+          git add dizigom/*.json || echo "No files"
           git commit -m "SezonlukDizi JSON güncellendi [auto]" || echo "No changes"
           git push origin main
