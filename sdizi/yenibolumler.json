@@ -1,4 +1,22 @@
 {
+  "https://sezonlukdizi6.com/diziler/the-gilded-age.html": {
+    "group": "THE GILDED AGE",
+    "last_season": 3,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/rick-and-morty.html": {
+    "group": "RICK AND MORTY",
+    "last_season": 8,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/lazarus.html": {
+    "group": "LAZARUS",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "last_season": 1,
@@ -51,24 +69,6 @@
     "group": "DUSTER",
     "last_season": 1,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/murderbot.html": {
-    "group": "MURDERBOT",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/abbott-elementary.html": {
-    "group": "ABBOTT ELEMENTARY",
-    "last_season": 4,
-    "last_episode": 18,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/godfather-of-harlem.html": {
-    "group": "GODFATHER OF HARLEM",
-    "last_season": 4,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
