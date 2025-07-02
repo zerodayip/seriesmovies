@@ -1,4 +1,16 @@
 {
+  "https://sezonlukdizi6.com/diziler/kaiju-no-8.html": {
+    "group": "KAIJU NO. 8",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/head-over-heels.html": {
+    "group": "HEAD OVER HEELS",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/resident-alien-izle.html": {
     "group": "RESIDENT ALIEN",
     "last_season": 4,
@@ -9,12 +21,6 @@
     "group": "MY HERO ACADEMIA: VIGILANTES",
     "last_season": 1,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/head-over-heels.html": {
-    "group": "HEAD OVER HEELS",
-    "last_season": 1,
-    "last_episode": 3,
     "start_episode": 1
   },
   "https://sezonlukdizi6.com/diziler/the-gilded-age.html": {
@@ -63,18 +69,6 @@
     "group": "POKEMON HORIZONS",
     "last_season": 2,
     "last_episode": 33,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/the-apothecary-diaries.html": {
-    "group": "THE APOTHECARY DIARIES",
-    "last_season": 2,
-    "last_episode": 23,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/and-just-like-that.html": {
-    "group": "AND JUST LIKE THAT…",
-    "last_season": 3,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
