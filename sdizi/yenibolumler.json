@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/the-sandman.html": {
+    "group": "THE SANDMAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/shifting-gears.html": {
     "group": "SHIFTING GEARS",
     "last_season": 1,
@@ -76,11 +82,5 @@
     "last_season": 1,
     "last_episode": 1134,
     "start_episode": 1120
-  },
-  "https://sezonlukdizi6.com/diziler/good-boy.html": {
-    "group": "GOOD BOY",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
   }
 }
