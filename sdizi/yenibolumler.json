@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/dandadan.html": {
+    "group": "DANDADAN",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/the-sandman.html": {
     "group": "THE SANDMAN",
     "last_season": 2,
@@ -76,11 +82,5 @@
     "last_season": 1,
     "last_episode": 13,
     "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1134,
-    "start_episode": 1120
   }
 }
