@@ -248,7 +248,7 @@
   "https://sezonlukdizi6.com/diziler/and-just-like-that.html": {
     "group": "AND JUST LIKE THAT…",
     "last_season": 3,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "https://sezonlukdizi6.com/diziler/resident-playbook.html": {
@@ -2018,7 +2018,7 @@
   "https://sezonlukdizi6.com/diziler/the-apothecary-diaries.html": {
     "group": "THE APOTHECARY DIARIES",
     "last_season": 2,
-    "last_episode": 23,
+    "last_episode": 24,
     "start_episode": 1
   },
   "https://sezonlukdizi6.com/diziler/black-cake.html": {
@@ -3343,8 +3343,8 @@
   },
   "https://sezonlukdizi6.com/diziler/call-of-the-night.html": {
     "group": "CALL OF THE NIGHT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 1,
     "start_episode": 1
   },
   "https://sezonlukdizi6.com/diziler/the-watchful-eye.html": {
@@ -15595,8 +15595,8 @@
   },
   "https://sezonlukdizi6.com/diziler/wind-breaker.html": {
     "group": "WIND BREAKER",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   }
 }
