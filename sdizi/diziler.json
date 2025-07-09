@@ -15610,5 +15610,17 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/ballard.html": {
+    "group": "BALLARD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/gachiakuta.html": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
