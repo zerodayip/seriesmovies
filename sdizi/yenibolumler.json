@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/the-rising-of-the-shield-hero.html": {
+    "group": "THE RISING OF THE SHIELD HERO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/ballard.html": {
     "group": "BALLARD",
     "last_season": 1,
@@ -76,11 +82,5 @@
     "last_season": 1,
     "last_episode": 1135,
     "start_episode": 1120
-  },
-  "https://sezonlukdizi6.com/diziler/good-boy.html": {
-    "group": "GOOD BOY",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
   }
 }
