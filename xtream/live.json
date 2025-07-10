@@ -1,153 +1,167 @@
 {
   "channels": {
-    "1125": {
+    "1129": {
       "name": "4K TR: A SPOR HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1771137539fa2adff8ebd5",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1126": {
+    "1130": {
       "name": "4K TR: TRT SPOR HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=22629699381f94fcd9dbe6",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1127": {
+    "1131": {
       "name": "4K TR: TRT SPOR YILDIZ",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2750507083b8337c6b6616",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1128": {
+    "1132": {
       "name": "A SPOR",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=81927269637ef82886825",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1129": {
+    "1133": {
       "name": "A SPOR",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=15619589713a6387b378e8",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1130": {
+    "1134": {
       "name": "A SPOR FHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=911836506e50aacc3a9e9",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1131": {
+    "1135": {
       "name": "A SPOR HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2556711030587eed1d7123",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1132": {
+    "1136": {
       "name": "A SPOR HD (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Faspor.m3u8&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "6",
       "source": "RECREC"
     },
-    "1133": {
+    "1137": {
       "name": "A SPOR HEVC",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=28805292086eedfe83d038",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1134": {
+    "1138": {
       "name": "A SPOR RAW",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2777121053574bf4d1b799",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1135": {
+    "1139": {
+      "name": "HT SPOR HD",
+      "icon": "",
+      "url": "https://goldvod.org/tv/vavoo?id=2773338492aa94862b5b31",
+      "category_id": "6",
+      "source": "VAVOO"
+    },
+    "1140": {
+      "name": "TRT 3 SPOR",
+      "icon": "",
+      "url": "https://goldvod.org/tv/vavoo?id=719664723485d9a3c9ed5",
+      "category_id": "6",
+      "source": "VAVOO"
+    },
+    "1141": {
       "name": "TRT SPOR",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=21143354242548e3a116d2",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1136": {
+    "1142": {
       "name": "TRT SPOR",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=27814292671faae74c3b20",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1137": {
+    "1143": {
       "name": "TRT SPOR FHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2952828245a3c08be2c885",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1138": {
+    "1144": {
       "name": "TRT SPOR HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=312904614dc748b02d86a",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1139": {
+    "1145": {
       "name": "TRT SPOR HD (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/c9aa0ea0e7cf2e4ec3523352f7dfd8ff.jpg",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Ftrt.daioncdn.net%2Ftrtspor%2Fmaster.m3u8%3Fapp%3Dweb%26&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "6",
       "source": "RECREC"
     },
-    "1140": {
+    "1146": {
       "name": "TRT SPOR RAW",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=601788690f9e0a5148c48",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1141": {
+    "1147": {
       "name": "TRT SPOR YILDIZ",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=930542029ffe0c297ec0",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1142": {
+    "1148": {
       "name": "TRT SPOR YILDIZ",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2081577417310aa2d344e3",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1143": {
+    "1149": {
       "name": "TRT SPOR YILDIZ (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/ddc793321e06b9f205e7b99ebca71e4b.jpg",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Ftrt.daioncdn.net%2Ftrtspor-yildiz%2Fmaster.m3u8%3Fapp%3Dweb%26platform%3Dtrtspor&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "6",
       "source": "RECREC"
     },
-    "1144": {
+    "1150": {
       "name": "TRT SPOR YILDIZ HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=14238458092c57f9e072fb",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1145": {
+    "1151": {
       "name": "TRT SPOR YILDIZ HEVC",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=114501523d11f5030113f",
       "category_id": "6",
       "source": "VAVOO"
     },
-    "1146": {
+    "1152": {
       "name": "TRT SPOR YILDIZ RAW",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=268929752745bb1e55d52a",
@@ -519,787 +533,773 @@
       "source": "VAVOO"
     },
     "1052": {
+      "name": "FILBOX SPOR 1 MACZAMANI",
+      "icon": "",
+      "url": "https://goldvod.org/tv/vavoo?id=407612267f0a9074e199a",
+      "category_id": "1",
+      "source": "VAVOO"
+    },
+    "1053": {
+      "name": "FILBOX SPOR 2 MACZAMANI",
+      "icon": "",
+      "url": "https://goldvod.org/tv/vavoo?id=1545833149c5b45d20168",
+      "category_id": "1",
+      "source": "VAVOO"
+    },
+    "1054": {
+      "name": "FILBOX SPOR 3 MACZAMANI",
+      "icon": "",
+      "url": "https://goldvod.org/tv/vavoo?id=2966231802972fc1b9caad",
+      "category_id": "1",
+      "source": "VAVOO"
+    },
+    "1055": {
       "name": "4K TR: EXXEN TV",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1944695268eb5e2a66f22",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1053": {
+    "1056": {
       "name": "EXXEN SPOR 1 SD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=20245689820af9ca3911b8",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1054": {
+    "1057": {
       "name": "EXXEN SPORTS 1",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1842018252a99ee10aa7f4",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1055": {
+    "1058": {
       "name": "EXXEN SPORTS 2",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=24320962ff3ce3209657",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1056": {
+    "1059": {
       "name": "EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY]",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=396148010898f34add6b9d",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1057": {
+    "1060": {
       "name": "EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3807939453af427a7aa295",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1058": {
+    "1061": {
       "name": "EXXEN SPORTS 4",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=27710240609c46572439c0",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1059": {
+    "1062": {
       "name": "EXXEN SPORTS 5",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2555007244d10a40e57838",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1060": {
+    "1063": {
       "name": "EXXEN SPORTS 6 [LIVE DURING EVENTS ONLY]",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=361553943278c9edf2a7dd",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1061": {
+    "1064": {
       "name": "EXXEN SPORTS 7",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=38006954042bb57163b020",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1062": {
+    "1065": {
       "name": "EXXEN SPORTS 8",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1624937917c024524dfe03",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1063": {
+    "1066": {
       "name": "EXXEN TV",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2426097659dac0cbc72851",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1064": {
+    "1067": {
       "name": "EXXEN TV SPOR 1",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1208369995ee56db60c6cb",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1065": {
+    "1068": {
       "name": "EXXEN TV SPOR 1 720P",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3333902867e8eeb6c13355",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1066": {
+    "1069": {
       "name": "EXXEN TV SPOR 1 FEED",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=10914039127b6d2cb4f9b1",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1067": {
+    "1070": {
       "name": "EXXEN TV SPOR 1 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=12042008015aa1fc47965f",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1068": {
+    "1071": {
       "name": "EXXEN TV SPOR 1 UHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3814925371b27457afc78f",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1069": {
+    "1072": {
       "name": "EXXEN TV SPOR 2 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3377046146a9c27858fc04",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1070": {
+    "1073": {
       "name": "EXXEN TV SPOR 2 UHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3673037054bbf23da360dd",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1071": {
+    "1074": {
       "name": "EXXEN TV SPOR 3",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=851841067026eb6346001",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1072": {
+    "1075": {
       "name": "EXXEN TV SPOR 4",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=21626092115c96093842ed",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1073": {
+    "1076": {
       "name": "EXXEN TV SPOR 5",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3179734411cc8e59810aba",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1074": {
+    "1077": {
       "name": "EXXEN TV SPOR 6",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=4196835163f7f34378737d",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1075": {
+    "1078": {
       "name": "EXXEN TV SPOR 7",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3343300331c5663b93a430",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1076": {
+    "1079": {
       "name": "EXXEN TV SPOR 8",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=11590782026618befbb16b",
       "category_id": "2",
       "source": "VAVOO"
     },
-    "1077": {
+    "1080": {
       "name": "S SPORT 1 (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Flively1.cf4-85e.workers.dev%2Fstatic%2Fss11.m3u8&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "3",
       "source": "RECREC"
     },
-    "1078": {
+    "1081": {
       "name": "S SPORT 2",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1313768516926dc999c43b",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1079": {
+    "1082": {
       "name": "S SPORT 2",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1234604880d226de6d47be",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1080": {
+    "1083": {
       "name": "S SPORT 2 (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Flively1.cf4-85e.workers.dev%2Fstatic%2Fss2.m3u8&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "3",
       "source": "RECREC"
     },
-    "1081": {
+    "1084": {
       "name": "4K TR: S SPORT",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=21232735984a3f0b463d66",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1082": {
+    "1085": {
       "name": "4K TR: S SPORT 2",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=9369082742fdb8ca83c62",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1083": {
+    "1086": {
       "name": "S SPORT",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=33465497225b9857743b71",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1084": {
+    "1087": {
       "name": "S SPORT",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=37183362955b988ce99242",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1085": {
+    "1088": {
       "name": "S SPORT PLUS (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Fpl1.m3u8&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "3",
       "source": "RECREC"
     },
-    "1086": {
+    "1089": {
       "name": "S SPORT PLUS (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Fpl3.m3u8&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "3",
       "source": "RECREC"
     },
-    "1087": {
+    "1090": {
       "name": "S SPORT PLUS (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Fpl2.m3u8&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "3",
       "source": "RECREC"
     },
-    "1088": {
+    "1091": {
       "name": "S SPORT+3 MAC SAATI",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3269372326de5ff1a4d9d7",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1089": {
+    "1092": {
       "name": "S SPORT+4 MAC SAATI",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1507829436cb5aa4fb5b34",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1090": {
+    "1093": {
       "name": "S SPORT+5 MAC SAATI",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=376048776421ffc14b9074",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1091": {
+    "1094": {
       "name": "S-SPORT 1 UHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3531762195c7260405eaad",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1092": {
+    "1095": {
       "name": "S-SPORT 2 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1183409452148e7cb0f613",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1093": {
+    "1096": {
       "name": "S-SPORT 2 UHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=394365103048c3f48946a4",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1094": {
+    "1097": {
       "name": "S-SPORT HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=919993168ebbbfbeecc50",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1095": {
+    "1098": {
       "name": "S-SPORT PLUS FHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=403604621968c940720735",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1096": {
+    "1099": {
       "name": "S-SPORT+1 MAC SAATI",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2559756791dcf166140367",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1097": {
+    "1100": {
       "name": "S-SPORT+2 MAC SAATI",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2314183566dbbab2892d05",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1098": {
+    "1101": {
       "name": "S-SPORTS 1 SD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3202905239f7c8981cff1",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1099": {
+    "1102": {
       "name": "S-SPORTS 2 SD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=26439990320f2e0b009aff",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1100": {
+    "1103": {
       "name": "SARAN SPORT 1",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3962972352ea44b8b75128",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1101": {
+    "1104": {
       "name": "SARAN SPORT 2",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=287875534435a082281e3f",
       "category_id": "3",
       "source": "VAVOO"
     },
-    "1102": {
+    "1105": {
       "name": "4K TR: SPOR SMART",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3159604752e1cba547bb",
       "category_id": "4",
       "source": "VAVOO"
     },
-    "1103": {
+    "1106": {
+      "name": "SMART SPOR 1",
+      "icon": "",
+      "url": "https://goldvod.org/tv/vavoo?id=4137962062d812f45c58bd",
+      "category_id": "4",
+      "source": "VAVOO"
+    },
+    "1107": {
       "name": "SPOR SMART",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1771511397d05184d3e443",
       "category_id": "4",
       "source": "VAVOO"
     },
-    "1104": {
+    "1108": {
       "name": "SPOR SMART 1 (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Fsmart1.m3u8&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "4",
       "source": "RECREC"
     },
-    "1105": {
+    "1109": {
       "name": "SPOR SMART 2",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=90716509593fd6426951b",
       "category_id": "4",
       "source": "VAVOO"
     },
-    "1106": {
+    "1110": {
       "name": "SPOR SMART 2 (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Fsmart2.m3u8&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "4",
       "source": "RECREC"
     },
-    "1107": {
+    "1111": {
       "name": "SPOR SMART 2 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2726496671ea6fd3c6dc54",
       "category_id": "4",
       "source": "VAVOO"
     },
-    "1108": {
+    "1112": {
       "name": "SPOR SMART FHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=37639315201c3521e36c44",
       "category_id": "4",
       "source": "VAVOO"
     },
-    "1109": {
+    "1113": {
       "name": "SPOR SMART HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1313563350f4a25655e128",
       "category_id": "4",
       "source": "VAVOO"
     },
-    "1110": {
+    "1114": {
       "name": "SPOR SMART HEVC",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3445708926e6195304f00c",
       "category_id": "4",
       "source": "VAVOO"
     },
-    "1111": {
+    "1115": {
       "name": "SPOR SMART SD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=660246670c64f4ea57a46",
       "category_id": "4",
       "source": "VAVOO"
     },
-    "1112": {
+    "1116": {
       "name": "TABII SPOR 1 720P",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=36659147631b81d08d6c82",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1113": {
+    "1117": {
       "name": "TABII SPOR 1 UHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=310770852202539a162e99",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1114": {
+    "1118": {
       "name": "TABII SPOR 2 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=24901653728e4a187da4c4",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1115": {
+    "1119": {
       "name": "TABII SPOR 2 UHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=21594692318c346548c2be",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1116": {
+    "1120": {
       "name": "TABII SPOR 3 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1489430754b4fd6e6dc327",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1117": {
+    "1121": {
       "name": "TABII SPOR 3 UHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2546857708611b47e42ecf",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1118": {
+    "1122": {
       "name": "TABII SPOR 4 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=13759861713a771b4b4726",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1119": {
+    "1123": {
       "name": "TABII SPOR 4 UHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=408817539739fafefc9d3b",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1120": {
+    "1124": {
       "name": "TABII SPOR 5 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=26619334135baa08b0bc1a",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1121": {
+    "1125": {
       "name": "TABII SPOR 6 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=270984838ca5cfbf75daa",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1122": {
+    "1126": {
       "name": "TABII SPOR 6 UHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=37137089631c97c5b7ef8f",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1123": {
+    "1127": {
       "name": "TABII SPOR HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=225948008747f499d08214",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1124": {
+    "1128": {
       "name": "TABII SPOR SD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=40221481750ee503c548f9",
       "category_id": "5",
       "source": "VAVOO"
     },
-    "1147": {
+    "1153": {
       "name": "4K TR: SPORTS TV HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2429298798dcd505d1ab4b",
       "category_id": "7",
       "source": "VAVOO"
     },
-    "1148": {
+    "1154": {
       "name": "SPORTS TV",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3422827985f7ff6e82532a",
       "category_id": "7",
       "source": "VAVOO"
     },
-    "1149": {
+    "1155": {
       "name": "SPORTS TV (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/d3fa136e0548a46e2b55393a00a93296.jpg",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Flive.sportstv.com.tr%2Fhls%2Flow%2Fsportstv.m3u8&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "7",
       "source": "RECREC"
     },
-    "1150": {
+    "1156": {
+      "name": "SPORTSTV HD",
+      "icon": "",
+      "url": "https://goldvod.org/tv/vavoo?id=2611296981b853ec9139b6",
+      "category_id": "7",
+      "source": "VAVOO"
+    },
+    "1157": {
       "name": "EUROSPORT 1",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=34586314617a4110b16336",
       "category_id": "8",
       "source": "VAVOO"
     },
-    "1151": {
+    "1158": {
       "name": "EUROSPORT 1",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3271328843ca1abfbfa420",
       "category_id": "8",
       "source": "VAVOO"
     },
-    "1152": {
+    "1159": {
       "name": "EUROSPORT 2",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=2307325429068c8e128ae6",
       "category_id": "8",
       "source": "VAVOO"
     },
-    "1153": {
+    "1160": {
       "name": "EUROSPORT 2 [LIVE DURING EVENTS ONLY]",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1309778674228351c44311",
       "category_id": "8",
       "source": "VAVOO"
     },
-    "1154": {
+    "1161": {
       "name": "4K TR: EUROSPORT 1 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=207886293750ec015d3e85",
       "category_id": "8",
       "source": "VAVOO"
     },
-    "1155": {
+    "1162": {
       "name": "4K TR: EUROSPORT 2 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=41172279629184f8c9c408",
       "category_id": "8",
       "source": "VAVOO"
     },
-    "1156": {
+    "1163": {
       "name": "EUROSPORT1 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3793200644fd418f955402",
       "category_id": "8",
       "source": "VAVOO"
     },
-    "1157": {
+    "1164": {
       "name": "EUROSPORT2 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1821942247abefa6aae14b",
       "category_id": "8",
       "source": "VAVOO"
     },
-    "1158": {
+    "1165": {
       "name": "TIVIBU SPOR 1",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=25659723389efdd2098be1",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1159": {
+    "1166": {
       "name": "TIVIBU SPOR 1",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1528949791210996169a6f",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1160": {
+    "1167": {
       "name": "TIVIBU SPOR 1 (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Ft1.m3u8&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "9",
       "source": "RECREC"
     },
-    "1161": {
+    "1168": {
       "name": "TIVIBU SPOR 2",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=37466838109fc1c67c228d",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1162": {
+    "1169": {
       "name": "TIVIBU SPOR 2",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=4782547993a1194125c51",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1163": {
+    "1170": {
       "name": "TIVIBU SPOR 2 (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/8c23cd76a1f7c2b12ab4e757b45ca87f.jpg",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Ft2.m3u8&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "9",
       "source": "RECREC"
     },
-    "1164": {
+    "1171": {
       "name": "TIVIBU SPOR 3",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=37949240505288959ad99c",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1165": {
+    "1172": {
       "name": "TIVIBU SPOR 3",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=568442751987b14d1ad00",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1166": {
+    "1173": {
       "name": "TIVIBU SPOR 3 (YEDEK)",
       "icon": "https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/2dd58a06227ac0410461a0be92123f12.jpg",
       "url": "https://zeroipday-recrec.hf.space/proxy/m3u?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Ft3.m3u8&h_Referer=https%3A%2F%2Ftwitter.com%2F&h_User-Agent=googleusercontent",
       "category_id": "9",
       "source": "RECREC"
     },
-    "1167": {
+    "1174": {
       "name": "TIVIBU SPOR 4",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1343303170fbfea75b9f15",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1168": {
+    "1175": {
       "name": "TIVIBU SPOR 4 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=3307062704472686916fe7",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1169": {
+    "1176": {
       "name": "TIVIBU SPOR 5 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=163038510f87c95f99d11",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1170": {
+    "1177": {
       "name": "TIVIBU SPOR",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1159899920595e9c441350",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1171": {
+    "1178": {
       "name": "TIVIBU SPOR RAW",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1406262118fb4f653061f6",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1172": {
+    "1179": {
       "name": "TIVIBUSPOR 1 FHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=289665874444b8f4f2d451",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1173": {
+    "1180": {
       "name": "TIVIBUSPOR 1 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=36545180071dd8a862ae2e",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1174": {
+    "1181": {
       "name": "TIVIBUSPOR 2 FHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=25026063331fd9c2bab71e",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1175": {
+    "1182": {
       "name": "TIVIBUSPOR 2 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=1465680660b8cd069bfa4c",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1176": {
+    "1183": {
       "name": "TIVIBUSPOR 3 FHD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=21863899508f19a672f26d",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1177": {
+    "1184": {
       "name": "TIVIBUSPOR 3 HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=261662401043fc1ad1ed6f",
       "category_id": "9",
       "source": "VAVOO"
     },
-    "1178": {
+    "1185": {
       "name": "TIVIBUSPOR SPOR HD",
       "icon": "",
       "url": "https://goldvod.org/tv/vavoo?id=36535158588fee46401238",
       "category_id": "9",
-      "source": "VAVOO"
-    },
-    "1179": {
-      "name": "FILBOX SPOR 1 MACZAMANI",
-      "icon": "",
-      "url": "https://goldvod.org/tv/vavoo?id=407612267f0a9074e199a",
-      "category_id": "10",
-      "source": "VAVOO"
-    },
-    "1180": {
-      "name": "FILBOX SPOR 2 MACZAMANI",
-      "icon": "",
-      "url": "https://goldvod.org/tv/vavoo?id=1545833149c5b45d20168",
-      "category_id": "10",
-      "source": "VAVOO"
-    },
-    "1181": {
-      "name": "FILBOX SPOR 3 MACZAMANI",
-      "icon": "",
-      "url": "https://goldvod.org/tv/vavoo?id=2966231802972fc1b9caad",
-      "category_id": "10",
-      "source": "VAVOO"
-    },
-    "1182": {
-      "name": "HT SPOR HD",
-      "icon": "",
-      "url": "https://goldvod.org/tv/vavoo?id=2773338492aa94862b5b31",
-      "category_id": "10",
-      "source": "VAVOO"
-    },
-    "1183": {
-      "name": "SMART SPOR 1",
-      "icon": "",
-      "url": "https://goldvod.org/tv/vavoo?id=4137962062d812f45c58bd",
-      "category_id": "10",
-      "source": "VAVOO"
-    },
-    "1184": {
-      "name": "SPORTSTV HD",
-      "icon": "",
-      "url": "https://goldvod.org/tv/vavoo?id=2611296981b853ec9139b6",
-      "category_id": "10",
-      "source": "VAVOO"
-    },
-    "1185": {
-      "name": "TRT 3 SPOR",
-      "icon": "",
-      "url": "https://goldvod.org/tv/vavoo?id=719664723485d9a3c9ed5",
-      "category_id": "10",
       "source": "VAVOO"
     },
     "1186": {
