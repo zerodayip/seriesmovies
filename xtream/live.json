@@ -63210,14 +63210,8 @@
     "3": "TR | SARAN SPORT",
     "11": "SPOR YAYINLARI",
     "12": "TÜRKİYE 🇹🇷",
-    "4": "TR | SPOR SMART",
-    "5": "TR | TABII SPOR",
-    "6": "TR | TRT SPOR & TRT SPOR YILDIZ",
-    "7": "TR | A SPOR",
-    "8": "TR | SPORTS TV",
-    "9": "TR | EUROSPORT",
-    "10": "TR | TIVIBU SPOR",
     "13": "ALMANYA 🇩🇪",
+    "27": "ALTERNATİF SPOR KANALLARI",
     "14": "ARABİSTAN 🇸🇦",
     "15": "ARNAVUTLUK 🇦🇱",
     "16": "BALKANLAR 🇧🇦",
@@ -63228,9 +63222,15 @@
     "21": "PORTEKİZ 🇵🇹",
     "22": "ROMANYA 🇷🇴",
     "23": "RUSYA 🇷🇺",
+    "7": "TR | A SPOR",
+    "9": "TR | EUROSPORT",
+    "4": "TR | SPOR SMART",
+    "8": "TR | SPORTS TV",
+    "5": "TR | TABII SPOR",
+    "10": "TR | TIVIBU SPOR",
+    "6": "TR | TRT SPOR & TRT SPOR YILDIZ",
     "24": "İNGİLTERE 🇬🇧",
     "25": "İSPANYA 🇪🇸",
-    "26": "İTALYA 🇮🇹",
-    "27": "ALTERNATİF SPOR KANALLARI"
+    "26": "İTALYA 🇮🇹"
   }
 }
