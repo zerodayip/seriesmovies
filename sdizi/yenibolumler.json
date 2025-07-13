@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/to-be-hero-x.html": {
+    "group": "TO BE HERO X",
+    "last_season": 1,
+    "last_episode": 14,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/my-dress-up-darling.html": {
     "group": "MY DRESS-UP DARLING",
     "last_season": 2,
@@ -75,12 +81,6 @@
     "group": "DANDADAN",
     "last_season": 2,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/dr-stone.html": {
-    "group": "DR. STONE",
-    "last_season": 4,
-    "last_episode": 13,
     "start_episode": 1
   }
 }
