@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/power-book-iv-force.html": {
+    "group": "POWER BOOK IV: FORCE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/its-always-sunny-in-philadelphia.html": {
     "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
     "last_season": 17,
@@ -69,12 +75,6 @@
     "group": "TO BE HERO X",
     "last_season": 1,
     "last_episode": 15,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/my-dress-up-darling.html": {
-    "group": "MY DRESS-UP DARLING",
-    "last_season": 2,
-    "last_episode": 2,
     "start_episode": 1
   }
 }
