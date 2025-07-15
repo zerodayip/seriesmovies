@@ -1,0 +1,58 @@
+name: Run Dizigom m3u Bölüm Takip
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'dizigom/yenibolumler.json' 
+
+jobs:
+  run-dizigom:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Python Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: Run Dizigom Script
+        run: python private_py/series/dizigom/yenibolumler.py
+
+      - name: Commit and Push to Public Repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dizigom/*.m3u dizigom/*.json || echo "No files"
+          git commit -m "Dizigom güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Copy updated M3U folders to private repo (with structure)
+        run: |
+          mkdir -p private_py/m3u8dizigom
+          rsync -a dizigom/ private_py/m3u8dizigom/
+
+      - name: Push to Private Py Repo
+        run: |
+          cd private_py
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git pull --rebase origin main || echo "No upstream changes"
+          git add m3u8dizigom/**/*.m3u || echo "No M3U to add"
+          git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
