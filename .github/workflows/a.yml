@@ -18,7 +18,7 @@ jobs:
 
       - name: Install Playwright
         run: |
-          pip install requests
+          pip install requests beautifulsoup4
 
       - name: Run get_embed.py
         run: python a.py
