@@ -1,4 +1,34 @@
 {
+  "https://sezonlukdizi6.com/diziler/its-always-sunny-in-philadelphia.html": {
+    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/resident-alien-izle.html": {
+    "group": "RESIDENT ALIEN",
+    "last_season": 4,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "last_season": 2,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/sakamoto-days.html": {
+    "group": "SAKAMOTO DAYS",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/head-over-heels.html": {
+    "group": "HEAD OVER HEELS",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/irma-vep.html": {
     "group": "IRMA VEP",
     "last_season": 1,
@@ -45,36 +75,6 @@
     "group": "MY DRESS-UP DARLING",
     "last_season": 2,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/the-fragrant-flower-blooms-with-dignity.html": {
-    "group": "THE FRAGRANT FLOWER BLOOMS WITH DIGNITY",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/rascal-does-not-dream-of-bunny-girl-senpai.html": {
-    "group": "RASCAL DOES NOT DREAM OF BUNNY GIRL SENPAI",
-    "last_season": 2,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/call-of-the-night.html": {
-    "group": "CALL OF THE NIGHT",
-    "last_season": 2,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/dexter-resurrection.html": {
-    "group": "DEXTER: RESURRECTION",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/and-just-like-that.html": {
-    "group": "AND JUST LIKE THAT…",
-    "last_season": 3,
-    "last_episode": 7,
     "start_episode": 1
   }
 }
