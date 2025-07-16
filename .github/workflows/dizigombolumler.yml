@@ -41,7 +41,7 @@ jobs:
 
       - name: Clone Private Dizigom Repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/private_dizigom.git private_dizigom
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizigom.git private_dizigom
 
       - name: Copy M3U and JSON to Private Dizigom Repo
         run: |
