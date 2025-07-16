@@ -1,4 +1,4 @@
-name: Get Embed series
+name: DENEME DENEME DENEME
 
 on:
   workflow_dispatch:
@@ -18,8 +18,15 @@ jobs:
 
       - name: Install Playwright
         run: |
-          pip install requests beautifulsoup4 playwright
-          playwright install
+          pip install requests
 
       - name: Run get_embed.py
         run: python a.py
+
+      - name: Commit and Push to Public Repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add merged_output.m3u
+          git commit -m "Denemeler public repoda güncellendi [auto]" || echo "No changes"
+          git push origin main
