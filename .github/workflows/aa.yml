@@ -15,7 +15,7 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/sezonlukdizi.git private_sezonlukdizi
 
-      - name: Kopyala: m3u8sezonlukdizi içeriğini köke taşı
+      - name: Copy m3u8sezonlukdizi içeriğini köke taşı
         run: |
           rsync -a private_py/m3u8sezonlukdizi/ private_sezonlukdizi/
 
