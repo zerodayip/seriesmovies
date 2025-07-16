@@ -1,4 +1,4 @@
-name: Py Repo'dan SezonlukDizi Kök Dizine Toplu Kopya
+name: Py'den SezonlukDizi Köke Kopya
 
 on:
   workflow_dispatch:
@@ -15,7 +15,7 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/sezonlukdizi.git private_sezonlukdizi
 
-      - name: Kopyala: m3u8sezonlukdizi içeriği köke taşınıyor
+      - name: Kopyala: m3u8sezonlukdizi içeriğini köke taşı
         run: |
           rsync -a private_py/m3u8sezonlukdizi/ private_sezonlukdizi/
 
@@ -25,5 +25,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add . || echo "No files"
-          git commit -m "m3u8sezonlukdizi içeriği Py reposundan köke taşındı [auto]" || echo "No changes"
+          git commit -m "m3u8sezonlukdizi içeriği Py'den köke taşındı [auto]" || echo "No changes"
           git push origin main
