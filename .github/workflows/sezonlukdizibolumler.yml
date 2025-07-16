@@ -1,11 +1,7 @@
-name: Run m3u takip
+name: Run SezonlukDizi m3u Bölüm Takip
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Run SezonlukDizi Tüm Diziler JSON"]
-    types:
-      - completed
   push:
     paths:
       - 'sdizi/yenibolumler.json' 
@@ -15,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Public Repo (sitem3u)
+      - name: Checkout Public Repo
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
@@ -38,26 +34,33 @@ jobs:
       - name: Run SezonlukDizi Script
         run: python private_py/series/sezonlukdizi/yenibolumler.py
 
-      - name: Commit and Push to Public Repo (sitem3u)
+      ######################
+      # 1) PUBLIC REPO'YA SADECE JSON PUSH
+      ######################
+      - name: Commit and Push JSON to Public Repo
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add sdizi/*.m3u sdizi/*.json || echo "No files"
-          git commit -m "SezonlukDizi güncellendi [auto]" || echo "No changes"
+          git add sdizi/*.json || echo "No JSON files"
+          git commit -m "SezonlukDizi JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      - name: Copy updated M3U folders to private repo (with structure)
+      ######################
+      # 2) PRIVATE_SEZONLUKDIZI REPO'YA TÜM DOSYALARI PUSH
+      ######################
+      - name: Clone Private SezonlukDizi Repo
         run: |
-          mkdir -p private_py/m3u8sezonlukdizi
-          rsync -a sdizi/ private_py/m3u8sezonlukdizi/
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/sezonlukdizi.git private_sezonlukdizi
 
-      - name: Push to Private Py Repo
+      - name: Copy All to Private SezonlukDizi Repo
         run: |
-          cd private_py
+          rsync -a sdizi/ private_sezonlukdizi/
+
+      - name: Commit and Push All Files to Private SezonlukDizi Repo
+        run: |
+          cd private_sezonlukdizi
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git pull --rebase origin main || echo "No upstream changes"
-          git add m3u8sezonlukdizi/**/*.m3u || echo "No M3U to add"
+          git add . || echo "No files"
           git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
-
