@@ -1,110 +1,200 @@
 {
-  "https://dizigom1.live/dizi-izle/twinkling-watermelon/": {
-    "group": "TWINKLING WATERMELON",
+  "https://dizigom1.live/dizi-izle/blue-eye-samurai/": {
+    "group": "BLUE EYE SAMURAI",
     "last_season": 1,
-    "last_episode": 16,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/firefly/": {
-    "group": "FIREFLY",
+  "https://dizigom1.live/dizi-izle/one-punch-man/": {
+    "group": "ONE-PUNCH MAN",
     "last_season": 1,
-    "last_episode": 14,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/monty-pythons-flying-circus/": {
-    "group": "MONTY PYTHON'S FLYING CIRCUS",
-    "last_season": 4,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/a-lion-in-the-house/": {
-    "group": "A LION IN THE HOUSE",
+  "https://dizigom1.live/dizi-izle/oz/": {
+    "group": "OZ",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/curb-your-enthusiasm/": {
-    "group": "CURB YOUR ENTHUSIASM",
-    "last_season": 11,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/its-always-sunny-in-philadelphia/": {
-    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
-    "last_season": 17,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/freaks-and-geeks/": {
-    "group": "FREAKS AND GEEKS",
+  "https://dizigom1.live/dizi-izle/fleabag/": {
+    "group": "FLEABAG",
     "last_season": 1,
-    "last_episode": 18,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/fawlty-towers/": {
-    "group": "FAWLTY TOWERS",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/love-in-the-big-city/": {
-    "group": "LOVE IN THE BIG CITY",
+  "https://dizigom1.live/dizi-izle/emilys-wonder-lab/": {
+    "group": "EMILY'S WONDER LAB",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/pride-and-prejudice/": {
-    "group": "PRIDE AND PREJUDICE (1995)",
+  "https://dizigom1.live/dizi-izle/1883/": {
+    "group": "1883",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/wonders-of-the-universe/": {
-    "group": "WONDERS OF THE UNIVERSE",
+  "https://dizigom1.live/dizi-izle/downton-abbey/": {
+    "group": "DOWNTON ABBEY",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/bojack-horseman/": {
-    "group": "BOJACK HORSEMAN",
-    "last_season": 6,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/when-they-see-us/": {
-    "group": "WHEN THEY SEE US",
+  "https://dizigom1.live/dizi-izle/hyoris-bed-and-breakfast/": {
+    "group": "HYORI'S BED AND BREAKFAST",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/vinland-saga/": {
-    "group": "VINLAND SAGA",
-    "last_season": 2,
-    "last_episode": 24,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/ted-lasso/": {
-    "group": "TED LASSO",
-    "last_season": 3,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-family-man/": {
-    "group": "THE FAMILY MAN",
+  "https://dizigom1.live/dizi-izle/alchemy-of-souls/": {
+    "group": "ALCHEMY OF SOULS",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/earth-the-power-of-the-planet/": {
-    "group": "EARTH: THE POWER OF THE PLANET",
+  "https://dizigom1.live/dizi-izle/hospital-playlist/": {
+    "group": "HOSPITAL PLAYLIST",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/lenox-hill/": {
-    "group": "LENOX HILL",
+  "https://dizigom1.live/dizi-izle/star-trek-the-next-generation/": {
+    "group": "STAR TREK: THE NEXT GENERATION",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/six-feet-under/": {
+    "group": "SIX FEET UNDER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/mr-inbetween/": {
+    "group": "MR INBETWEEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/one-strange-rock/": {
+    "group": "ONE STRANGE ROCK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/house/": {
+    "group": "HOUSE M.D.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/south-park/": {
+    "group": "SOUTH PARK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/narcos/": {
+    "group": "NARCOS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/crash-landing-on-you/": {
+    "group": "CRASH LANDING ON YOU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-shield/": {
+    "group": "THE SHIELD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-grand-tour/": {
+    "group": "THE GRAND TOUR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/x-men-97/": {
+    "group": "X-MEN '97",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/severance/": {
+    "group": "SEVERANCE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/six-flying-dragons/": {
+    "group": "SIX FLYING DRAGONS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/kians-bizarre-bb/": {
+    "group": "KIAN'S BIZARRE B&B",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/peep-show/": {
+    "group": "PEEP SHOW",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/real-madrid-until-the-end/": {
+    "group": "REAL MADRID: UNTIL THE END",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/peaky-blinders/": {
+    "group": "PEAKY BLINDERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/twin-peaks/": {
+    "group": "TWIN PEAKS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/invincible/": {
+    "group": "INVINCIBLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/dark/": {
+    "group": "DARK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/line-of-duty/": {
+    "group": "LINE OF DUTY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-marvelous-mrs-maisel/": {
+    "group": "THE MARVELOUS MRS. MAISEL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/black-mirror/": {
+    "group": "BLACK MIRROR",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   }
 }
