@@ -35,25 +35,23 @@ jobs:
       - name: Run Dizigom Script
         run: python private_py/series/dizigom/yenibolumler.py
 
-      - name: Commit and Push to Public Repo
+      ############################################################
+      # ÇIKTILARI PRIVATE_DIZIGOM REPO'SUNA KOPYALA ve PUSH'LA
+      ############################################################
+
+      - name: Clone Private Dizigom Repo
         run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/private_dizigom.git private_dizigom
+
+      - name: Copy M3U and JSON to Private Dizigom Repo
+        run: |
+          rsync -a dizigom/ private_dizigom/
+
+      - name: Commit and Push to Private Dizigom Repo
+        run: |
+          cd private_dizigom
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add dizigom/*.m3u dizigom/*.json || echo "No files"
-          git commit -m "Dizigom güncellendi [auto]" || echo "No changes"
-          git push origin main
-
-      - name: Copy updated M3U folders to private repo (with structure)
-        run: |
-          mkdir -p private_py/m3u8dizigom
-          rsync -a dizigom/ private_py/m3u8dizigom/
-
-      - name: Push to Private Py Repo
-        run: |
-          cd private_py
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git pull --rebase origin main || echo "No upstream changes"
-          git add m3u8dizigom/**/*.m3u || echo "No M3U to add"
+          git add . || echo "No files"
           git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
