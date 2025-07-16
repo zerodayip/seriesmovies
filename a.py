@@ -3,9 +3,10 @@ import requests
 import re
 import base64
 
+# ENV: GH_TOKEN otomatik geliyor (workflow veya shell ortamı)
 GH_TOKEN = os.getenv("GH_TOKEN")
 
-# --- Kendi bilgilerin:
+# Repo bilgiler
 DIZIGOM_OWNER = "zerodayip"
 DIZIGOM_REPO = "dizigom"
 DIZIGOM_PATH = "dizigomdizi.m3u"
@@ -29,7 +30,6 @@ def fetch_file_from_github(owner, repo, path, branch):
     if data.get("encoding") == "base64":
         content = base64.b64decode(data["content"]).decode("utf-8").splitlines()
     else:
-        # Fallback for direct text
         content = data["content"].splitlines()
     return content
 
@@ -61,17 +61,16 @@ def get_tvgid_tvgname_mode(extinf_line):
     return tvg_id, tvg_name, mode
 
 def main():
-    # 1) Fetch both files
-    print("Downloading dizigomdizi.m3u ...")
+    # 1) Dosyaları çek
+    print("Dizigom m3u indiriliyor...")
     dizi_lines = fetch_file_from_github(DIZIGOM_OWNER, DIZIGOM_REPO, DIZIGOM_PATH, DIZIGOM_BRANCH)
-    print("Downloading sezonlukdizi.m3u ...")
+    print("Sezonlukdizi m3u indiriliyor...")
     sezon_lines = fetch_file_from_github(SEZONLUK_OWNER, SEZONLUK_REPO, SEZONLUK_PATH, SEZONLUK_BRANCH)
 
-    # 2) Parse entries
+    # 2) Parse et
     dizi_entries = parse_m3u_lines(dizi_lines)
     sezon_entries = parse_m3u_lines(sezon_lines)
     merged = ["#EXTM3U"]
-
     yazilan_set = set()  # (tvg-id, tvg-name, mode)
 
     # 3) dizigomdizi.m3u başa
@@ -92,7 +91,7 @@ def main():
             merged.extend(entry)
             yazilan_set.add(key)
 
-    # 5) Yazdır
+    # 5) Dosyaya yaz
     with open("merged_output.m3u", "w", encoding="utf-8") as f:
         for line in merged:
             if isinstance(line, list):
@@ -100,8 +99,7 @@ def main():
                     f.write(sub + "\n")
             else:
                 f.write(line + "\n")
-    print("merged_output.m3u oluşturuldu!")
+    print("merged_output.m3u başarıyla oluşturuldu.")
 
 if __name__ == "__main__":
     main()
-
