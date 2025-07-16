@@ -95,14 +95,14 @@ def main():
             atlananlar.append(entry)
 
     # Dosyaya yaz
-    with open("merged_output.m3u", "w", encoding="utf-8") as f:
+    with open("series.m3u", "w", encoding="utf-8") as f:
         for line in merged:
             if isinstance(line, list):
                 for sub in line:
                     f.write(sub + "\n")
             else:
                 f.write(line + "\n")
-    print("merged_output.m3u başarıyla oluşturuldu.")
+    print("series.m3u başarıyla oluşturuldu.")
 
     # Atlananları özetle yazdır
     print("\n--- Atlanan veriler (kısa özet) ---")
