@@ -1,5 +1,6 @@
 import os
 import requests
+import re
 import base64
 
 GH_TOKEN = os.getenv("GH_TOKEN")
@@ -26,17 +27,75 @@ def fetch_large_file(owner, repo, path, branch):
     content = base64.b64decode(data2["content"]).decode("utf-8").splitlines()
     return content
 
-if __name__ == "__main__":
-    dizigom_lines = fetch_large_file(
+def parse_m3u_lines(lines):
+    entries = []
+    entry = []
+    for line in lines:
+        if line.startswith("#EXTINF"):
+            entry = [line]
+        elif line.startswith("http"):
+            if entry:
+                entry.append(line)
+                entries.append(entry)
+                entry = []
+    return entries
+
+def get_tvgid_tvgname_mode(extinf_line):
+    tvg_id_match = re.search(r'tvg-id="([^"]+)"', extinf_line)
+    tvg_id = tvg_id_match.group(1) if tvg_id_match else ""
+    tvg_name_match = re.search(r'tvg-name="([^"]+)"', extinf_line)
+    tvg_name = tvg_name_match.group(1) if tvg_name_match else ""
+    title = extinf_line.split(",", 1)[-1].strip().upper()
+    if "DUBLAJ" in title:
+        mode = "DUBLAJ"
+    elif "ALTYAZI" in title:
+        mode = "ALTYAZI"
+    else:
+        mode = "DİĞER"
+    return tvg_id, tvg_name, mode
+
+def main():
+    print("Dizigom m3u indiriliyor...")
+    dizi_lines = fetch_large_file(
         "zerodayip", "dizigom", "dizigomdizi.m3u", "main"
     )
-    print("== Dizigom İlk 5 Satır ==")
-    for line in dizigom_lines[:5]:
-        print(line)
-
+    print("Sezonlukdizi m3u indiriliyor...")
     sezonluk_lines = fetch_large_file(
         "zerodayip", "sezonlukdizi", "sezonlukdizi.m3u", "main"
     )
-    print("\n== Sezonlukdizi İlk 5 Satır ==")
-    for line in sezonluk_lines[:5]:
-        print(line)
+
+    dizi_entries = parse_m3u_lines(dizi_lines)
+    sezon_entries = parse_m3u_lines(sezonluk_lines)
+    merged = ["#EXTM3U"]
+    yazilan_set = set()  # (tvg-id, tvg-name, mode)
+
+    # Dizigom başa eklenir (her bölüm/mod bir kez!)
+    for entry in dizi_entries:
+        extinf = entry[0]
+        tvg_id, tvg_name, mode = get_tvgid_tvgname_mode(extinf)
+        key = (tvg_id, tvg_name, mode)
+        if key not in yazilan_set:
+            merged.extend(entry)
+            yazilan_set.add(key)
+
+    # Sezonlukdizi'den sadece eksik olanlar eklenir
+    for entry in sezon_entries:
+        extinf = entry[0]
+        tvg_id, tvg_name, mode = get_tvgid_tvgname_mode(extinf)
+        key = (tvg_id, tvg_name, mode)
+        if key not in yazilan_set:
+            merged.extend(entry)
+            yazilan_set.add(key)
+
+    # Dosyaya yaz
+    with open("merged_output.m3u", "w", encoding="utf-8") as f:
+        for line in merged:
+            if isinstance(line, list):
+                for sub in line:
+                    f.write(sub + "\n")
+            else:
+                f.write(line + "\n")
+    print("merged_output.m3u başarıyla oluşturuldu.")
+
+if __name__ == "__main__":
+    main()
