@@ -10,7 +10,6 @@ HEADERS = {
 }
 
 def fetch_large_file(owner, repo, path, branch):
-    # 1. Önce SHA'yı al
     url1 = f"https://api.github.com/repos/{owner}/{repo}/contents/{path}?ref={branch}"
     res1 = requests.get(url1, headers=HEADERS)
     res1.raise_for_status()
@@ -19,7 +18,6 @@ def fetch_large_file(owner, repo, path, branch):
         raise Exception(f"SHA bulunamadı! keys: {data1.keys()}")
     sha = data1["sha"]
 
-    # 2. Sonra blob içeriğini al
     url2 = f"https://api.github.com/repos/{owner}/{repo}/git/blobs/{sha}"
     res2 = requests.get(url2, headers=HEADERS)
     res2.raise_for_status()
@@ -68,6 +66,7 @@ def main():
     sezon_entries = parse_m3u_lines(sezonluk_lines)
     merged = ["#EXTM3U"]
     yazilan_set = set()  # (tvg-id, tvg-name, mode)
+    atlananlar = []      # Atlanan sezonlukdizi.m3u entry'leri
 
     # Dizigom başa eklenir (her bölüm/mod bir kez!)
     for entry in dizi_entries:
@@ -78,7 +77,7 @@ def main():
             merged.extend(entry)
             yazilan_set.add(key)
 
-    # Sezonlukdizi'den sadece eksik olanlar eklenir
+    # Sezonlukdizi'den sadece eksik olanlar eklenir, eklenmeyenler atlananlar'a
     for entry in sezon_entries:
         extinf = entry[0]
         tvg_id, tvg_name, mode = get_tvgid_tvgname_mode(extinf)
@@ -86,6 +85,8 @@ def main():
         if key not in yazilan_set:
             merged.extend(entry)
             yazilan_set.add(key)
+        else:
+            atlananlar.append(entry)
 
     # Dosyaya yaz
     with open("merged_output.m3u", "w", encoding="utf-8") as f:
@@ -96,6 +97,12 @@ def main():
             else:
                 f.write(line + "\n")
     print("merged_output.m3u başarıyla oluşturuldu.")
+
+    # Atlananları print et
+    print("\n--- Sezonlukdizi.m3u'da ATLANAN (eklenmeyen) veriler ---")
+    for entry in atlananlar:
+        print("\n".join(entry))
+        print("-" * 40)
 
 if __name__ == "__main__":
     main()
