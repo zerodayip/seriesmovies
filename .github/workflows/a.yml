@@ -1,17 +1,17 @@
-name: DENEME DENEME DENEME
+name: Merge m3u to Private Repo
 
 on:
   workflow_dispatch:
 
 jobs:
-  get-embed-link:
+  push-to-private-m3u8-repo:
     runs-on: ubuntu-latest
 
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     steps:
-      - name: Checkout
+      - name: Checkout (bu repodaki kodu çek)
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -20,16 +20,24 @@ jobs:
           python-version: '3.x'
 
       - name: Install Requests
-        run: |
-          pip install requests
+        run: pip install requests
 
-      - name: Run get_embed.py
+      - name: Run Python Script (ör. merge)
         run: python a.py
 
-      - name: Commit and Push to Public Repo
+      - name: Clone Private m3u8file Repo
         run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file
+
+      - name: Copy merged m3u to private repo
+        run: |
+          cp merged_output.m3u private_m3u8file/
+
+      - name: Commit and Push to Private m3u8file Repo
+        run: |
+          cd private_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add merged_output.m3u
-          git commit -m "Denemeler public repoda güncellendi [auto]" || echo "No changes"
+          git add merged_output.m3u || echo "No m3u file"
+          git commit -m "merged_output.m3u güncellendi [auto]" || echo "No changes"
           git push origin main
