@@ -36,28 +36,28 @@ jobs:
         run: python private_py/series/dizigom/yenibolumler.py
 
       ######################
-      # 1) PUBLIC REPO'YA PUSH
+      # 1) PUBLIC REPO'YA SADECE JSON PUSH
       ######################
-      - name: Commit and Push to Public Repo
+      - name: Commit and Push JSON to Public Repo
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add dizigom/*.m3u dizigom/*.json || echo "No files"
-          git commit -m "Dizigom güncellendi [auto]" || echo "No changes"
+          git add dizigom/*.json || echo "No JSON files"
+          git commit -m "Dizigom JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
       ######################
-      # 2) PRIVATE_DIZIGOM REPO'YA PUSH
+      # 2) PRIVATE_DIZIGOM REPO'YA TÜM DOSYALARI PUSH
       ######################
       - name: Clone Private Dizigom Repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizigom.git private_dizigom
 
-      - name: Copy M3U and JSON to Private Dizigom Repo
+      - name: Copy All to Private Dizigom Repo
         run: |
           rsync -a dizigom/ private_dizigom/
 
-      - name: Commit and Push to Private Dizigom Repo
+      - name: Commit and Push All Files to Private Dizigom Repo
         run: |
           cd private_dizigom
           git config user.name "GitHub Actions"
