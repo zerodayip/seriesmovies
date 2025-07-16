@@ -51,6 +51,13 @@ def get_tvgid_tvgname_mode(extinf_line):
         mode = "DİĞER"
     return tvg_id, tvg_name, mode
 
+def get_host_from_title(extinf_line):
+    title = extinf_line.split(",", 1)[-1].upper()
+    for host in ["VIDMOLY", "SIBNET", "OKRU", "MAILRU", "FILEMOON"]:
+        if host in title:
+            return host
+    return "BILINMIYOR"
+
 def main():
     print("Dizigom m3u indiriliyor...")
     dizi_lines = fetch_large_file(
@@ -81,14 +88,10 @@ def main():
         extinf = entry[0]
         tvg_id, tvg_name, mode = get_tvgid_tvgname_mode(extinf)
         key = (tvg_id, tvg_name, mode)
-        # DEBUG
-        print("[SEZONLUK]", key, "| Mode:", mode)
         if key not in yazilan_set:
-            print("[EKLENEN]", key, extinf)
             merged.extend(entry)
             yazilan_set.add(key)
         else:
-            print("[ATLANAN]", key, extinf)
             atlananlar.append(entry)
 
     # Dosyaya yaz
@@ -101,10 +104,14 @@ def main():
                 f.write(line + "\n")
     print("merged_output.m3u başarıyla oluşturuldu.")
 
-    print("\n--- Atlanan veriler ---")
+    # Atlananları özetle yazdır
+    print("\n--- Atlanan veriler (kısa özet) ---")
     for entry in atlananlar:
-        print("\n".join(entry))
-        print("-" * 40)
+        extinf = entry[0]
+        tvg_id, tvg_name, mode = get_tvgid_tvgname_mode(extinf)
+        host = get_host_from_title(extinf)
+        print(f"tvg-id={tvg_id} | tvg-name={tvg_name} | mode={mode} | host={host}")
+    print(f"Toplam atlanan: {len(atlananlar)} satır")
 
 if __name__ == "__main__":
     main()
