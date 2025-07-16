@@ -25,9 +25,12 @@ jobs:
         run: |
           pip install requests
 
-      - name: Run birlestir.py to create .m3u files
+      - name: Merge M3U Playlists
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          python private_py/series/birlestir.py
+          python private_py/series/sezonlukdizi/birlestir.py
+
 
       # ---- dizigom ----
       - name: Clone Private dizigom Repo
