@@ -1,17 +1,36 @@
-name: Push .m3u Files to Their Own Private Repos
+name: Push M3U Playlists to Private Repos
 
 on:
   workflow_dispatch:
-  
+
 jobs:
-  push-to-dizigom:
+  merge-and-push:
     if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout General Repo
+      - name: Checkout Public Repo
         uses: actions/checkout@v4
 
-      - name: Clone dizigom Repo
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Python dependencies
+        run: |
+          pip install requests
+
+      - name: Run birlestir.py to create .m3u files
+        run: |
+          python private_py/series/birlestir.py
+
+      # ---- dizigom ----
+      - name: Clone Private dizigom Repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizigom.git private_dizigom
 
@@ -19,23 +38,17 @@ jobs:
         run: |
           cp dizigomdizi.m3u private_dizigom/dizigomdizi.m3u
 
-      - name: Commit and Push to dizigom Repo
+      - name: Commit and Push dizigomdizi.m3u to dizigom Repo
         run: |
           cd private_dizigom
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add dizigomdizi.m3u
-          git diff --cached --quiet || git commit -m "Update dizigomdizi.m3u [auto]"
+          git diff --cached --quiet || git commit -m "Update dizigomdizi.m3u via GitHub Actions"
           git push origin main
 
-  push-to-sezonlukdizi:
-    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout General Repo
-        uses: actions/checkout@v4
-
-      - name: Clone sezonlukdizi Repo
+      # ---- sezonlukdizi ----
+      - name: Clone Private sezonlukdizi Repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/sezonlukdizi.git private_sezonlukdizi
 
@@ -43,11 +56,11 @@ jobs:
         run: |
           cp sezonlukdizi.m3u private_sezonlukdizi/sezonlukdizi.m3u
 
-      - name: Commit and Push to sezonlukdizi Repo
+      - name: Commit and Push sezonlukdizi.m3u to sezonlukdizi Repo
         run: |
           cd private_sezonlukdizi
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add sezonlukdizi.m3u
-          git diff --cached --quiet || git commit -m "Update sezonlukdizi.m3u [auto]"
+          git diff --cached --quiet || git commit -m "Update sezonlukdizi.m3u via GitHub Actions"
           git push origin main
