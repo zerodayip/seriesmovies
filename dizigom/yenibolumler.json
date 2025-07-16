@@ -1,104 +1,104 @@
 {
   "https://dizigom1.live/dizi-izle/breaking-bad/": {
     "group": "BREAKING BAD",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 16,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/planet-earth/": {
     "group": "PLANET EARTH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 11,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/planet-earth-ii/": {
     "group": "PLANET EARTH II",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/band-of-brothers/": {
     "group": "BAND OF BROTHERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/blue-planet-2/": {
     "group": "BLUE PLANET II",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/bluey/": {
     "group": "BLUEY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 51,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/avatar-the-last-airbender-2005/": {
     "group": "AVATAR: THE LAST AIRBENDER (2005)",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 21,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/the-wire/": {
     "group": "THE WIRE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 10,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/seven-worlds-one-planet/": {
     "group": "SEVEN WORLDS, ONE PLANET",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/cosmos/": {
     "group": "COSMOS: A SPACETIME ODYSSEY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/when-life-gives-you-tangerines/": {
     "group": "WHEN LIFE GIVES YOU TANGERINES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/trans-siberian-pathfinders/": {
     "group": "TRANS-SIBERIAN PATHFINDERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/the-sopranos/": {
     "group": "THE SOPRANOS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 21,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/our-planet/": {
     "group": "OUR PLANET",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/attack-on-titan/": {
     "group": "ATTACK ON TITAN (SHINGEKI NO KYOJIN)",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 30,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/bbc-life/": {
     "group": "BBC LIFE (2009)",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/the-vietnam-war/": {
     "group": "THE VIETNAM WAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   }
 }
