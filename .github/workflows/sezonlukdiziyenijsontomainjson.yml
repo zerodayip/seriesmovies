@@ -31,7 +31,7 @@ jobs:
           pip install requests beautifulsoup4 lxml
 
       - name: Run yenibolumdenanajsona Script
-        run: python private_py/series/sezonlukdizi/yenibolumdenanajsona.py
+        run: python private_py/series/yenibolumdenanajsona.py
 
       - name: Commit and Push to Public Repo (sitem3u)
         run: |
