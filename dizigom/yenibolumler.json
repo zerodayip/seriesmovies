@@ -1,104 +1,86 @@
 {
-  "https://dizigom1.live/dizi-izle/breaking-bad/": {
-    "group": "BREAKING BAD",
-    "last_season": 5,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/planet-earth/": {
-    "group": "PLANET EARTH",
+  "https://dizigom1.live/dizi-izle/dynasties/": {
+    "group": "DYNASTIES",
     "last_season": 1,
-    "last_episode": 11,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/planet-earth-ii/": {
-    "group": "PLANET EARTH II",
+  "https://dizigom1.live/dizi-izle/run-korean/": {
+    "group": "RUN (KOREAN)",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/band-of-brothers/": {
-    "group": "BAND OF BROTHERS",
+  "https://dizigom1.live/dizi-izle/kota-factory/": {
+    "group": "KOTA FACTORY",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/blue-planet-2/": {
-    "group": "BLUE PLANET II",
+  "https://dizigom1.live/dizi-izle/the-war/": {
+    "group": "THE WAR",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/bluey/": {
-    "group": "BLUEY",
-    "last_season": 2,
-    "last_episode": 51,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/avatar-the-last-airbender-2005/": {
-    "group": "AVATAR: THE LAST AIRBENDER (2005)",
-    "last_season": 3,
-    "last_episode": 21,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-wire/": {
-    "group": "THE WIRE",
-    "last_season": 5,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/seven-worlds-one-planet/": {
-    "group": "SEVEN WORLDS, ONE PLANET",
+  "https://dizigom1.live/dizi-izle/the-last-dance/": {
+    "group": "THE LAST DANCE",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/cosmos/": {
-    "group": "COSMOS: A SPACETIME ODYSSEY",
+  "https://dizigom1.live/dizi-izle/better-call-saul/": {
+    "group": "BETTER CALL SAUL",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/when-life-gives-you-tangerines/": {
-    "group": "WHEN LIFE GIVES YOU TANGERINES",
+  "https://dizigom1.live/dizi-izle/frozen-planet-ii/": {
+    "group": "FROZEN PLANET II",
     "last_season": 1,
-    "last_episode": 16,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/trans-siberian-pathfinders/": {
-    "group": "TRANS-SIBERIAN PATHFINDERS",
+  "https://dizigom1.live/dizi-izle/the-office/": {
+    "group": "THE OFFICE",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-sopranos/": {
-    "group": "THE SOPRANOS",
-    "last_season": 6,
-    "last_episode": 21,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/our-planet/": {
-    "group": "OUR PLANET",
-    "last_season": 2,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/attack-on-titan/": {
-    "group": "ATTACK ON TITAN (SHINGEKI NO KYOJIN)",
-    "last_season": 4,
-    "last_episode": 30,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/bbc-life/": {
-    "group": "BBC LIFE (2009)",
+  "https://dizigom1.live/dizi-izle/the-civil-war/": {
+    "group": "THE CIVIL WAR",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-vietnam-war/": {
-    "group": "THE VIETNAM WAR",
+  "https://dizigom1.live/dizi-izle/sherlock/": {
+    "group": "SHERLOCK",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-planets/": {
+    "group": "THE PLANETS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/arcane/": {
+    "group": "ARCANE: LEAGUE OF LEGENDS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/my-mister/": {
+    "group": "MY MISTER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/hunter-x-hunter/": {
+    "group": "HUNTER X HUNTER",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   }
 }
