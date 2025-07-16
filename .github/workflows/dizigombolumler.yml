@@ -35,10 +35,20 @@ jobs:
       - name: Run Dizigom Script
         run: python private_py/series/dizigom/yenibolumler.py
 
-      ############################################################
-      # ÇIKTILARI PRIVATE_DIZIGOM REPO'SUNA KOPYALA ve PUSH'LA
-      ############################################################
+      ######################
+      # 1) PUBLIC REPO'YA PUSH
+      ######################
+      - name: Commit and Push to Public Repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dizigom/*.m3u dizigom/*.json || echo "No files"
+          git commit -m "Dizigom güncellendi [auto]" || echo "No changes"
+          git push origin main
 
+      ######################
+      # 2) PRIVATE_DIZIGOM REPO'YA PUSH
+      ######################
       - name: Clone Private Dizigom Repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizigom.git private_dizigom
