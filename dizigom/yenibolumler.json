@@ -1,68 +1,50 @@
 {
-  "https://dizigom1.live/dizi-izle/countdown/": {
-    "group": "COUNTDOWN",
+  "https://dizigom1.live/dizi-izle/silicon-valley/": {
+    "group": "SILICON VALLEY",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/stick/": {
-    "group": "STICK",
+  "https://dizigom1.live/dizi-izle/derry-girls/": {
+    "group": "DERRY GIRLS",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/good-boy/": {
-    "group": "GOOD BOY",
+  "https://dizigom1.live/dizi-izle/rake/": {
+    "group": "RAKE",
     "last_season": 1,
-    "last_episode": 14,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/sakamoto-days/": {
-    "group": "SAKAMOTO DAYS",
+  "https://dizigom1.live/dizi-izle/traveler/": {
+    "group": "TRAVELER",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-summer-i-turned-pretty/": {
-    "group": "THE SUMMER I TURNED PRETTY",
-    "last_season": 3,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/rick-and-morty/": {
-    "group": "RICK AND MORTY",
-    "last_season": 8,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/amy-bradley-is-missing/": {
-    "group": "AMY BRADLEY IS MISSING",
+  "https://dizigom1.live/dizi-izle/louie/": {
+    "group": "LOUIE",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/low-life/": {
-    "group": "LOW LIFE",
+  "https://dizigom1.live/dizi-izle/the-it-crowd/": {
+    "group": "THE IT CROWD",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/head-over-heels/": {
-    "group": "HEAD OVER HEELS",
+  "https://dizigom1.live/dizi-izle/move-to-heaven/": {
+    "group": "MOVE TO HEAVEN",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/better-late-than-single/": {
-    "group": "BETTER LATE THAN SINGLE",
+  "https://dizigom1.live/dizi-izle/the-queens-gambit/": {
+    "group": "THE QUEEN'S GAMBIT",
     "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-buccaneers/": {
-    "group": "THE BUCCANEERS",
-    "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 0,
     "start_episode": 1
   }
 }
