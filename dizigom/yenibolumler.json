@@ -1,26 +1,8 @@
 {
-  "https://dizigom1.live/dizi-izle/good-boy/": {
-    "group": "GOOD BOY",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1
-  },
   "https://dizigom1.live/dizi-izle/countdown/": {
     "group": "COUNTDOWN",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/head-over-heels/": {
-    "group": "HEAD OVER HEELS",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/rick-and-morty/": {
-    "group": "RICK AND MORTY",
-    "last_season": 8,
-    "last_episode": 8,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/stick/": {
@@ -29,8 +11,14 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-buccaneers/": {
-    "group": "THE BUCCANEERS",
+  "https://dizigom1.live/dizi-izle/good-boy/": {
+    "group": "GOOD BOY",
+    "last_season": 1,
+    "last_episode": 14,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/sakamoto-days/": {
+    "group": "SAKAMOTO DAYS",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
@@ -41,8 +29,38 @@
     "last_episode": 0,
     "start_episode": 1
   },
+  "https://dizigom1.live/dizi-izle/rick-and-morty/": {
+    "group": "RICK AND MORTY",
+    "last_season": 8,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/amy-bradley-is-missing/": {
+    "group": "AMY BRADLEY IS MISSING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/low-life/": {
+    "group": "LOW LIFE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/head-over-heels/": {
+    "group": "HEAD OVER HEELS",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://dizigom1.live/dizi-izle/better-late-than-single/": {
     "group": "BETTER LATE THAN SINGLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-buccaneers/": {
+    "group": "THE BUCCANEERS",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
