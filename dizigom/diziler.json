@@ -27154,5 +27154,23 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/addicted-heroin/": {
+    "group": "ADDICTED HEROIN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/untamed/": {
+    "group": "UNTAMED",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/catalog/": {
+    "group": "CATALOG",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

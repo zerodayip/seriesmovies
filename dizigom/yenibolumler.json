@@ -1,8 +1,38 @@
 {
-  "https://dizigom1.live/dizi-izle/community/": {
-    "group": "COMMUNITY",
-    "last_season": 6,
-    "last_episode": 13,
+  "https://dizigom1.live/dizi-izle/building-the-band/": {
+    "group": "BUILDING THE BAND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/untamed/": {
+    "group": "UNTAMED",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/marry-my-husband-japan/": {
+    "group": "MARRY MY HUSBAND: JAPAN",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/catalog/": {
+    "group": "CATALOG",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/chespirito-not-really-on-purpose/": {
+    "group": "CHESPIRITO: NOT REALLY ON PURPOSE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/countdown/": {
+    "group": "COUNTDOWN",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
