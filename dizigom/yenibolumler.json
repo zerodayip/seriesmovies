@@ -1,464 +1,188 @@
 {
-  "https://dizigom1.live/dizi-izle/the-best-ending/": {
-    "group": "THE BEST ENDING",
+    "https://dizigom1.live/dizi-izle/polo/": {
+    "group": "POLO",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/leviathan/": {
-    "group": "LEVIATHAN",
+  "https://dizigom1.live/dizi-izle/harry-meghan/": {
+    "group": "HARRY & MEGHAN",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/a-romance-of-the-little-forest/": {
-    "group": "A ROMANCE OF THE LITTLE FOREST",
+  "https://dizigom1.live/dizi-izle/the-damelio-show/": {
+    "group": "THE D'AMELIO SHOW",
     "last_season": 1,
-    "last_episode": 35,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/korean-fried-chicken-rhapsody/": {
-    "group": "KOREAN FRIED CHICKEN RHAPSODY",
+  "https://dizigom1.live/dizi-izle/the-goop-lab/": {
+    "group": "THE GOOP LAB",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/off-road/": {
-    "group": "OFF ROAD",
+  "https://dizigom1.live/dizi-izle/paul-american/": {
+    "group": "PAUL AMERICAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-z-virus/": {
+    "group": "THE Z VIRUS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/hype-house/": {
+    "group": "HYPE HOUSE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/queen-cleopatra/": {
+    "group": "QUEEN CLEOPATRA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/mercy-for-none/": {
+    "group": "MERCY FOR NONE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-gringo-hunters/": {
+    "group": "THE GRINGO HUNTERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/yolanthe/": {
+    "group": "YOLANTHE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-wild-ones/": {
+    "group": "THE WILD ONES",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/change-days/": {
-    "group": "CHANGE DAYS",
-    "last_season": 2,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/head-over-heels/": {
-    "group": "HEAD OVER HEELS",
+  "https://dizigom1.live/dizi-izle/night-of-love-with-you/": {
+    "group": "NIGHT OF LOVE WITH YOU",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/sara-woman-in-the-shadows/": {
-    "group": "SARA - WOMAN IN THE SHADOWS",
+  "https://dizigom1.live/dizi-izle/the-survivors/": {
+    "group": "THE SURVIVORS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/my-handsome-roommate/": {
+    "group": "MY HANDSOME ROOMMATE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/doubt/": {
+    "group": "DOUBT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/wassup-man-go/": {
+    "group": "WASSUP MAN GO!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/han-river-police/": {
+    "group": "HAN RIVER POLICE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/building-the-band/": {
+    "group": "BUILDING THE BAND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/jjajangmyeon-rhapsody/": {
+    "group": "JJAJANGMYEON RHAPSODY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/olympo/": {
+    "group": "OLYMPO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/female-ceo-love-me/": {
+    "group": "FEMALE CEO LOVE ME",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/marry-my-husband-japan/": {
+    "group": "MARRY MY HUSBAND: JAPAN",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/better-late-than-single/": {
-    "group": "BETTER LATE THAN SINGLE",
+  "https://dizigom1.live/dizi-izle/cocaine-air-smugglers-at-30000-ft/": {
+    "group": "COCAINE AIR: SMUGGLERS AT 30,000 FT.",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/too-much/": {
-    "group": "TOO MUCH",
+  "https://dizigom1.live/dizi-izle/chihayafuru-full-circle/": {
+    "group": "CHIHAYAFURU: FULL CIRCLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/lover-of-the-palace/": {
+    "group": "LOVER OF THE PALACE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/blue-of-winter/": {
+    "group": "BLUE OF WINTER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/aniela/": {
+    "group": "AN!ELA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/7-bears/": {
+    "group": "7 BEARS",
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/ballard/": {
-    "group": "BALLARD",
+  "https://dizigom1.live/dizi-izle/stranger-kim/": {
+    "group": "STRANGER KIM",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/street-woman-fighter/": {
-    "group": "STREET WOMAN FIGHTER",
+  "https://dizigom1.live/dizi-izle/i-want-to-hold-aono-kun-so-badly-i-could-die/": {
+    "group": "I WANT TO HOLD AONO-KUN SO BADLY I COULD DIE",
     "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/see-you-tomorrow/": {
-    "group": "SEE YOU TOMORROW",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/time-flies-and-you-are-here/": {
-    "group": "TIME FLIES AND YOU ARE HERE",
-    "last_season": 1,
-    "last_episode": 32,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/countdown/": {
-    "group": "COUNTDOWN",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/secrets-we-keep/": {
-    "group": "SECRETS WE KEEP (RESERVATET)",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/under-a-dark-sun/": {
-    "group": "UNDER A DARK SUN",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/love-after-divorce/": {
-    "group": "LOVE AFTER DIVORCE",
-    "last_season": 4,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/blue-flame-assault/": {
-    "group": "BLUE FLAME ASSAULT",
-    "last_season": 1,
-    "last_episode": 33,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-great-queen-seondeok/": {
-    "group": "THE GREAT QUEEN SEONDEOK",
-    "last_season": 1,
-    "last_episode": 62,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-newsroom/": {
-    "group": "THE NEWSROOM",
-    "last_season": 3,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-incredible-dr-pol/": {
-    "group": "THE INCREDIBLE DR. POL",
-    "last_season": 16,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/solo-leveling/": {
-    "group": "SOLO LEVELING",
-    "last_season": 2,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/twenty-five-twenty-one/": {
-    "group": "TWENTY FIVE TWENTY ONE",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/endeavour/": {
-    "group": "ENDEAVOUR",
-    "last_season": 9,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-x-files/": {
-    "group": "THE X-FILES",
-    "last_season": 11,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/call-the-midwife/": {
-    "group": "CALL THE MIDWIFE",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/justified/": {
-    "group": "JUSTIFIED",
-    "last_season": 6,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/reply-1994/": {
-    "group": "REPLY 1994",
-    "last_season": 1,
-    "last_episode": 21,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/secrets-of-great-british-castles/": {
-    "group": "SECRETS OF GREAT BRITISH CASTLES",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/rising-impact/": {
-    "group": "RISING IMPACT",
-    "last_season": 2,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/dark-winds/": {
-    "group": "DARK WINDS",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/presumed-innocent/": {
-    "group": "PRESUMED INNOCENT",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/search-www/": {
-    "group": "SEARCH: WWW",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/come-and-hug-me/": {
-    "group": "COME AND HUG ME",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/tharntype-the-series/": {
-    "group": "THARNTYPE: THE SERIES",
-    "last_season": 2,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/on-the-verge-of-insanity/": {
-    "group": "ON THE VERGE OF INSANITY",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/queenmaker/": {
-    "group": "QUEENMAKER",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/connected/": {
-    "group": "CONNECTED",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/jurassic-world-camp-cretaceous/": {
-    "group": "JURASSIC WORLD: CAMP CRETACEOUS",
-    "last_season": 5,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/feel-good/": {
-    "group": "FEEL GOOD",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/trailer-park-boys-the-animated-series/": {
-    "group": "TRAILER PARK BOYS: THE ANIMATED SERIES",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/deadloch/": {
-    "group": "DEADLOCH",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/standing-up/": {
-    "group": "STANDING UP (DRÔLE)",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-leopard/": {
-    "group": "THE LEOPARD",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-sound-of-magic/": {
-    "group": "THE SOUND OF MAGIC",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/american-playboy-the-hugh-hefner-story/": {
-    "group": "AMERICAN PLAYBOY: THE HUGH HEFNER STORY",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/casual/": {
-    "group": "CASUAL",
-    "last_season": 2,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/who-killed-malcolm-x/": {
-    "group": "WHO KILLED MALCOLM X?",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/coronavirus-explained/": {
-    "group": "CORONAVIRUS, EXPLAINED",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/doctor-slump/": {
-    "group": "DOCTOR SLUMP",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/khakee-the-bengal-chapter/": {
-    "group": "KHAKEE: THE BENGAL CHAPTER",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-diary-of-anne-frank/": {
-    "group": "THE DIARY OF ANNE FRANK",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/korea-no-1/": {
-    "group": "KOREA NO.1",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/dogs-of-berlin/": {
-    "group": "DOGS OF BERLIN",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/sakamoto-days/": {
-    "group": "SAKAMOTO DAYS",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-crossing/": {
-    "group": "THE CROSSING",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-great-show/": {
-    "group": "THE GREAT SHOW",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/dear-edward/": {
-    "group": "DEAR EDWARD",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/my-shy-boss/": {
-    "group": "MY SHY BOSS",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/worlds-most-wanted/": {
-    "group": "WORLD'S MOST WANTED",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-horror-of-dolores-roach/": {
-    "group": "THE HORROR OF DOLORES ROACH",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/cocaine-cowboys-the-kings-of-miami/": {
-    "group": "COCAINE COWBOYS: THE KINGS OF MIAMI",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-shrink-next-door/": {
-    "group": "THE SHRINK NEXT DOOR",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-breakthrough/": {
-    "group": "THE BREAKTHROUGH (GENOMBROTTET)",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/that-dirty-black-bag/": {
-    "group": "THAT DIRTY BLACK BAG",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/gone-girls-the-long-island-serial-killer/": {
-    "group": "GONE GIRLS: THE LONG ISLAND SERIAL KILLER",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/tutankhamun/": {
-    "group": "TUTANKHAMUN",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-game-towards-zero/": {
-    "group": "THE GAME: TOWARDS ZERO",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/rebellion/": {
-    "group": "REBELLION",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/sea-power/": {
-    "group": "SEA POWER (KRIEGSSCHIFFE - TOD AUF SEE)",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/feedback/": {
-    "group": "FEEDBACK",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/alrawabi-school-for-girls/": {
-    "group": "ALRAWABI SCHOOL FOR GIRLS",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/inspector-koo/": {
-    "group": "INSPECTOR KOO",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/miracle-workers/": {
-    "group": "MIRACLE WORKERS",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/rillington-place/": {
-    "group": "RILLINGTON PLACE",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-girl-who-sees-smells/": {
-    "group": "THE GIRL WHO SEES SMELLS",
-    "last_season": 1,
-    "last_episode": 16,
+    "last_episode": 0,
     "start_episode": 1
   }
 }
