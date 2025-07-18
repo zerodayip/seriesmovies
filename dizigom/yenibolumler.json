@@ -1,4 +1,130 @@
 {
+  "https://dizigom1.live/dizi-izle/the-crown/": {
+    "group": "THE CROWN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/mindhunter/": {
+    "group": "MINDHUNTER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-simpsons/": {
+    "group": "THE SIMPSONS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/pose/": {
+    "group": "POSE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/shtisel/": {
+    "group": "SHTISEL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/scavengers-reign/": {
+    "group": "SCAVENGERS REIGN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/gomorrah/": {
+    "group": "GOMORRAH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/demon-slayer-kimetsu-no-yaiba/": {
+    "group": "DEMON SLAYER: KIMETSU NO YAIBA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/extraordinary-attorney-woo/": {
+    "group": "EXTRAORDINARY ATTORNEY WOO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/bosch/": {
+    "group": "BOSCH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/delhi-crime/": {
+    "group": "DELHI CRIME",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/chefs-table/": {
+    "group": "CHEF'S TABLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/pee-wee-as-himself/": {
+    "group": "PEE-WEE AS HIMSELF",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/queer-eye/": {
+    "group": "QUEER EYE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/sky-castle/": {
+    "group": "SKY CASTLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/kaguya-sama-love-is-war/": {
+    "group": "KAGUYA-SAMA: LOVE IS WAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/heartstopper/": {
+    "group": "HEARTSTOPPER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-slave-hunters/": {
+    "group": "THE SLAVE HUNTERS (CHUNO)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/dear-mama/": {
+    "group": "DEAR MAMA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/tear-along-the-dotted-line/": {
+    "group": "TEAR ALONG THE DOTTED LINE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/horace-and-pete/": {
+    "group": "HORACE AND PETE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://dizigom1.live/dizi-izle/silicon-valley/": {
     "group": "SILICON VALLEY",
     "last_season": 6,
@@ -45,6 +171,30 @@
     "group": "THE QUEEN'S GAMBIT",
     "last_season": 1,
     "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/person-of-interest/": {
+    "group": "PERSON OF INTEREST",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/schitts-creek/": {
+    "group": "SCHITT'S CREEK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/north-south-2004/": {
+    "group": "NORTH & SOUTH (2004)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/deaths-game/": {
+    "group": "DEATH'S GAME",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   }
 }
