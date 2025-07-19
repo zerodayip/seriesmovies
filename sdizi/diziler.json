@@ -15658,5 +15658,23 @@
     "last_season": 1,
     "last_episode": 13,
     "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/adults.html": {
+    "group": "ADULTS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/ncis-origins.html": {
+    "group": "NCIS: ORIGINS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/untamed.html": {
+    "group": "UNTAMED",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
