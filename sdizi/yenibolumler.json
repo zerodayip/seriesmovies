@@ -1,4 +1,34 @@
 {
+  "https://sezonlukdizi6.com/diziler/good-boy.html": {
+    "group": "GOOD BOY",
+    "last_season": 1,
+    "last_episode": 14,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/the-fragrant-flower-blooms-with-dignity.html": {
+    "group": "THE FRAGRANT FLOWER BLOOMS WITH DIGNITY",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/my-dress-up-darling.html": {
+    "group": "MY DRESS-UP DARLING",
+    "last_season": 2,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/rascal-does-not-dream-of-bunny-girl-senpai.html": {
+    "group": "RASCAL DOES NOT DREAM OF BUNNY GIRL SENPAI",
+    "last_season": 2,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/kaiju-no-8.html": {
+    "group": "KAIJU NO. 8",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/adults.html": {
     "group": "ADULTS",
     "last_season": 1,
@@ -57,36 +87,6 @@
     "group": "DR. STONE",
     "last_season": 4,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/its-always-sunny-in-philadelphia.html": {
-    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
-    "last_season": 17,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/girlboss.html": {
-    "group": "GIRLBOSS",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/elsbeth.html": {
-    "group": "ELSBETH",
-    "last_season": 2,
-    "last_episode": 19,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/the-rising-of-the-shield-hero.html": {
-    "group": "THE RISING OF THE SHIELD HERO",
-    "last_season": 4,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/countdown.html": {
-    "group": "COUNTDOWN",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
