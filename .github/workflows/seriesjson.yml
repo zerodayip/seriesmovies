@@ -35,7 +35,7 @@ jobs:
         run: python private_py/series/dizigom/dizigomdizijson.py
 
       - name: Run Sezonlukdizi Script
-        run: python private_py/series/sezonlukdizi/sezonlukdizijson.py
+        run: python private_py/series/sezonlukdizi/tumdizilerjson.py
 
       - name: Commit and Push JSONs
         run: |
