@@ -11,6 +11,9 @@ jobs:
   run-xtream:
     runs-on: ubuntu-latest
 
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
     steps:
       - name: Checkout Public Repo
         uses: actions/checkout@v3
@@ -35,27 +38,24 @@ jobs:
       - name: Run Xtream Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python private_py/xtream/scripts/convert.py
+        run: python private_py/xtream/convert.py
 
-      - name: Commit and Push to Public Repo
+      # --- Sadece m3u8file/xtreamjson'a push işlemleri ---
+      - name: Clone m3u8file Repo
         run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git m3u8file_repo
+
+      - name: Copy JSON files to m3u8file/xtreamjson
+        run: |
+          mkdir -p m3u8file_repo/xtreamjson
+          cp xtream/*.json m3u8file_repo/xtreamjson/ || echo "No JSON files"
+
+      - name: Commit and Push to m3u8file/xtreamjson
+        run: |
+          cd m3u8file_repo
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add xtream/*.json || echo "No files"
-          git commit -m "Xtream JSON güncellendi [auto]" || echo "No changes"
-          git push origin main
-
-      - name: Copy updated JSON files to private repo (xtream)
-        run: |
-          mkdir -p private_py/xtream
-          rsync -a xtream/ private_py/xtream/ --include="*.json" --exclude="*"
-
-      - name: Push xtream JSONs to Private Py Repo
-        run: |
-          cd private_py
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          git add xtreamjson/*.json || echo "No JSON files to add"
+          git commit -m "Xtream JSON dosyaları xtreamjson klasörüne eklendi [auto]" || echo "No changes"
           git pull --rebase origin main || echo "No upstream changes"
-          git add xtream/*.json || echo "No JSON to add"
-          git commit -m "Xtream JSON dosyaları güncellendi [auto]" || echo "No changes"
           git push origin main
