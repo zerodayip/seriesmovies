@@ -61,6 +61,7 @@ jobs:
           git push origin main
 
   run-dizigom:
+    needs: run-sezonlukdizi
     runs-on: ubuntu-latest
 
     steps:
