@@ -3,7 +3,7 @@ name: Run SezonlukDizi & Dizigom m3u Bölüm Takip
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Run Xtream M3U Maker"]
+    workflows: ["Run Dizigom ve Sezonlukdizi JSON"]
     types:
       - completed
   push:
