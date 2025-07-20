@@ -1,4 +1,4 @@
-name: Run RecTV Script
+name: Run RecTV Script and Push to m3u8file/rec
 
 on:
   workflow_dispatch:
@@ -7,15 +7,18 @@ jobs:
   run-rectv:
     runs-on: ubuntu-latest
 
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
     steps:
-      - name: Checkout Public Repo
-        uses: actions/checkout@v3
+      - name: Checkout This Repo
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: main
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
@@ -31,40 +34,24 @@ jobs:
       - name: Run RecTV Script
         run: python private_py/rectv/grouptitlefarkli.py
 
-      # ✅ Public repoya push
-      - name: Commit and Push to Public Repo
+      # ✅ Sadece m3u8file/rec klasörüne push
+      - name: Clone Private m3u8file Repo
         run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file
+
+      - name: Copy RecTV m3u files to m3u8file/rec
+        run: |
+          mkdir -p private_m3u8file/rec
+          cp r/reccanli.m3u private_m3u8file/rec/ || echo "reccanli.m3u kopyalanamadı"
+          cp r/recfilm.m3u private_m3u8file/rec/ || echo "recfilm.m3u kopyalanamadı"
+          cp r/recdizi.m3u private_m3u8file/rec/ || echo "recdizi.m3u kopyalanamadı"
+          cp r/recanime.m3u private_m3u8file/rec/ || echo "recanime.m3u kopyalanamadı"
+
+      - name: Commit and Push to m3u8file/rec
+        run: |
+          cd private_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add r/reccanli.m3u r/recfilm.m3u r/recdizi.m3u r/recanime.m3u 
-          git commit -m "RecTV: public repoda güncellendi [auto]" || echo "No changes"
+          git add rec/reccanli.m3u rec/recfilm.m3u rec/recdizi.m3u rec/recanime.m3u
+          git commit -m "RecTV çıktıları rec klasörüne güncellendi [auto]" || echo "No changes"
           git push origin main
-
-      # ✅ Private Py repo içine kopyalama
-      - name: Copy files to private_py/m3u8
-        run: |
-          mkdir -p private_py/m3u8
-          cp r/reccanli.m3u private_py/m3u8/ || echo "reccanli.m3u kopyalanamadı"
-          cp r/recfilm.m3u private_py/m3u8/ || echo "recfilm.m3u kopyalanamadı"
-          cp r/recdizi.m3u private_py/m3u8/ || echo "recdizi.m3u kopyalanamadı"
-          cp r/recanime.m3u private_py/m3u8/ || echo "recanime.m3u kopyalanamadı"
-
-      # ✅ Private Py repo'ya push
-      - name: Commit and Push to Private Py Repo
-        run: |
-          cd private_py
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add m3u8/reccanli.m3u m3u8/recfilm.m3u m3u8/recdizi.m3u m3u8/recanime.m3u
-          git commit -m "RecTV çıktıları m3u8 klasörüne eklendi [auto]" || echo "No changes"
-          git push origin main
-
-      - name: Create or Update sil.txt (Trigger file) with PAT
-        env:
-         GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          echo "This is a trigger file $(date)" > sil.txt
-          git add sil.txt
-          git commit -m "Trigger to Next Step 2" || echo "No changes"
-          git push https://x-access-token:${GH_TOKEN}@github.com/zerodayip/seriesmovies.git main
-
