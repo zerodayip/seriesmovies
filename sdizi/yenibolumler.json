@@ -5,6 +5,12 @@
     "last_episode": 15,
     "start_episode": 1
   },
+  "https://sezonlukdizi6.com/diziler/to-be-hero-x.html": {
+    "group": "TO BE HERO X",
+    "last_season": 1,
+    "last_episode": 15,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/the-fragrant-flower-blooms-with-dignity.html": {
     "group": "THE FRAGRANT FLOWER BLOOMS WITH DIGNITY",
     "last_season": 1,
@@ -75,18 +81,6 @@
     "group": "UNTAMED",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/dandadan.html": {
-    "group": "DANDADAN",
-    "last_season": 2,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/dr-stone.html": {
-    "group": "DR. STONE",
-    "last_season": 4,
-    "last_episode": 14,
     "start_episode": 1
   }
 }
