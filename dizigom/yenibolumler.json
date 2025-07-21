@@ -1,38 +1,8 @@
-{
-  "https://dizigom1.live/dizi-izle/rage/": {
-    "group": "RAGE (FURIA)",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/delirium/": {
-    "group": "DELIRIUM (DELIRIO)",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/superstar/": {
-    "group": "SUPERSTAR",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/pati/": {
-    "group": "PATI",
-    "last_season": 2,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/billy-joel-and-so-it-goes/": {
-    "group": "BILLY JOEL: AND SO IT GOES",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/good-boy/": {
-    "group": "GOOD BOY",
-    "last_season": 1,
-    "last_episode": 16,
+ {
+   "https://dizigom1.live/dizi-izle/south-park/": {
+    "group": "SOUTH PARK",
+    "last_season": 23,
+    "last_episode": 10,
     "start_episode": 1
   }
 }
