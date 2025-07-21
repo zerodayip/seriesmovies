@@ -6,11 +6,7 @@ on:
     workflows: ["Run Dizigom ve Sezonlukdizi JSON"]
     types:
       - completed
-  push:
-    paths:
-      - 'sdizi/yenibolumler.json'
-      - 'dizigom/yenibolumler.json'
-
+  
 jobs:
   run-sezonlukdizi:
     runs-on: ubuntu-latest
