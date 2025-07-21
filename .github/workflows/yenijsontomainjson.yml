@@ -2,8 +2,8 @@ name: Run Yenijson to Anajson
 
 on:
   workflow_dispatch:
-#  schedule:
-#    - cron: '0 */11 * * *'
+  schedule:
+    - cron: '0 */11 * * *'
 
 jobs:
   run-sezonlukdizi:
