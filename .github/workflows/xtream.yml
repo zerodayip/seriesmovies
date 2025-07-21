@@ -15,7 +15,7 @@ jobs:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     steps:
-      - name: Checkout Public Repo
+      - name: Checkout Public Repo (Genel repo)
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
@@ -40,15 +40,25 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/xtream/convert.py
 
-      # --- Sadece m3u8file/xtreamjson'a push işlemleri ---
+      # === GENEL REPOYA times.json PUSH ===
+      - name: Commit and Push times.json to General Repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtream/times.json || echo "No times.json"
+          git commit -m "times.json güncellendi [auto]" || echo "No changes"
+          git pull --rebase origin main || echo "No upstream changes"
+          git push origin main || echo "No push needed"
+
+      # === m3u8file REPOSU ===
       - name: Clone m3u8file Repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git m3u8file_repo
 
-      - name: Copy JSON files to m3u8file/xtreamjson
+      - name: Copy only JSON files (excluding times.json) to m3u8file/xtreamjson
         run: |
           mkdir -p m3u8file_repo/xtreamjson
-          cp xtream/*.json m3u8file_repo/xtreamjson/ || echo "No JSON files"
+          find xtream -name "*.json" ! -name "times.json" -exec cp {} m3u8file_repo/xtreamjson/ \;
 
       - name: Commit and Push to m3u8file/xtreamjson
         run: |
@@ -58,4 +68,4 @@ jobs:
           git add xtreamjson/*.json || echo "No JSON files to add"
           git commit -m "Xtream JSON dosyaları xtreamjson klasörüne eklendi [auto]" || echo "No changes"
           git pull --rebase origin main || echo "No upstream changes"
-          git push origin main
+          git push origin main || echo "No push needed"
