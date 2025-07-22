@@ -6,7 +6,7 @@ on:
 
   # 5 saat 20 dakika arayla çalışacak zamanlama
   schedule:
-    - cron: '20 3 * * *' 
+    - cron: '20 10 * * *' 
     
 jobs:
   cleanup:
