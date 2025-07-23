@@ -44,28 +44,32 @@ def write_m3u(anime_name, season_number, episodes, group_title):
     os.makedirs(folder, exist_ok=True)
     filename = f"{folder}/{safe_name(anime_name)}_Sezon_{season_number}.m3u"
     m3u_lines = ["#EXTM3U"]
+    count_written_eps = 0
     for ep in episodes:
         ep_title = ep['title'].upper()
-        for v in ep.get("videos", []):
+        if not ep.get("videos"):
+            continue
+        for v in ep["videos"]:
             tvg_name = f"{anime_name.upper()} S{season_number:02d}"
             key = f"{anime_name.upper()} SEZON {season_number} - {ep_title}"
             line = f'#EXTINF:-1 tvg-name="{tvg_name}" group-title="{group_title}",{key} [{v["label"].upper()}]'
             proxy_url = f"{PROXY_BASE}/video?url={v['url']}"
             m3u_lines.append(line)
             m3u_lines.append(proxy_url)
+        count_written_eps += 1
 
-    if len(m3u_lines) == 1:
-        print(f"⚠️ {filename} için video linki yok, dosya oluşturulmadı.")
-        return False
+    if count_written_eps == 0:
+        print(f"⚠️ {filename} için video linki yok, dosya oluşturulmadı.", flush=True)
+        return 0
 
     with open(filename, "w", encoding="utf-8") as f:
         f.write("\n".join(m3u_lines))
-    print(f"{filename} dosyasına {len(episodes)} bölüm yazıldı.")
-    return True
+    print(f"{filename} dosyasına {count_written_eps} bölüm yazıldı.", flush=True)
+    return count_written_eps
 
 async def main():
     if not os.path.exists(JSON_PATH):
-        print(f"{JSON_PATH} bulunamadı! Lütfen anizm/animeler.json dosyasını oluşturun.")
+        print(f"{JSON_PATH} bulunamadı! Lütfen anizm/animeler.json dosyasını oluşturun.", flush=True)
         return
 
     with open(JSON_PATH, "r", encoding="utf-8") as f:
@@ -78,17 +82,16 @@ async def main():
         for anime_url, info in animeler.items():
             anime_name = info.get("group") or "Bilinmeyen"
             season_number = info.get("last_season", 1)
-            print(f"\n=== İşleniyor: {anime_name} ===")
-            print(f"Link: {anime_url}")
 
+            print(f"\n{anime_url} işleniyor...", flush=True)
             episodes = await get_episodes(page, anime_url)
-            print(f"Bölüm sayısı: {len(episodes)}")
+            print(f"Bulunan bölüm sayısı: {len(episodes)}", flush=True)
 
             for ep in episodes:
                 ep['videos'] = await get_episode_video_links(page, ep['url'])
-                print(f"Bölüm: {ep['title']} - Video sayısı: {len(ep['videos'])}")
 
-            yazildi = write_m3u(anime_name, season_number, episodes, group_title="ANİMELER")
+            yazilan = write_m3u(anime_name, season_number, episodes, group_title="ANİMELER")
+            print(f"{yazilan} bölümü m3u dosyasına yazıldı.", flush=True)
 
         await browser.close()
 
