@@ -1,13 +1,13 @@
 name: Delete Files
 
 on:
-  schedule:
-    - cron: '15 3 * * *'
+#  schedule:
+#    - cron: '15 3 * * *'
   push:
     branches:
       - main
-    paths:
-      - 'sil.txt'
+ #   paths:
+#      - 'sil.txt'
   workflow_dispatch:
 
 jobs:
