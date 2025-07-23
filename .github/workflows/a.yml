@@ -1,25 +1,48 @@
-name: Run Playwright Script
+name: Run Dizigom ve Sezonlukdizi JSON anizim
 
 on:
-  workflow_dispatch:  # Manuel tetikleme
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'  # Her 12 saatte bir
 
 jobs:
-  run-script:
+  run-make-json:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Repo'yu klonla
+      - name: Checkout Public Repo (sitem3u)
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
 
-      - name: Python kur
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"  # ← 3.1 değil, 3.10 veya 3.11 kullan!
+          python-version: '3.10'
 
-      - name: Playwright ve bağımlılıkları yükle
+      - name: Clone Private Py Repo
         run: |
-          pip install playwright httpx
-          playwright install
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      - name: Python scriptini çalıştır
-        run: python a.py
+      - name: Install Python Dependencies (requests, bs4, lxml, playwright)
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: Run Dizigom Script
+        run: python private_py/anime/anizm/anizimjson.py
+
+  #    - name: Run Sezonlukdizi Script
+  #      run: python private_py/series/sezonlukdizi/tumdizilerjson.py
+
+      - name: Commit and Push JSONs
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          
+          git add dizigom/*.json || echo "No dizigom files"
+          git add sdizi/*.json || echo "No sezonlukdizi files"
+
+          git commit -m "Dizigom ve Sezonlukdizi JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
