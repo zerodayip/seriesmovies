@@ -1,4 +1,4 @@
-name: Run Dizigom ve Sezonlukdizi JSON
+name: Run All JSON
 
 on:
   workflow_dispatch:
@@ -37,6 +37,9 @@ jobs:
       - name: Run Sezonlukdizi Script
         run: python private_py/series/sezonlukdizi/tumdizilerjson.py
 
+      - name: Run Anizm Script
+        run: python private_py/anime/anizm/anizimjson.py
+
       - name: Commit and Push JSONs
         run: |
           git config user.name "GitHub Actions"
@@ -44,6 +47,7 @@ jobs:
           
           git add dizigom/*.json || echo "No dizigom files"
           git add sdizi/*.json || echo "No sezonlukdizi files"
+          git add anizm/*.json || echo "No anizm files"
 
-          git commit -m "Dizigom ve Sezonlukdizi JSON güncellendi [auto]" || echo "No changes"
+          git commit -m "All JSON güncellendi [auto]" || echo "No changes"
           git push origin main
