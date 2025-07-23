@@ -1,143 +1,159 @@
-import asyncio
-from playwright.async_api import async_playwright
-import httpx
+import requests
+from bs4 import BeautifulSoup
 import re
-import json
 import os
+import json
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from urllib.parse import urlparse
 
 BASE_URL = "https://anizm.com.tr"
-ANIMES_JSON_PATH = "anizm/animeler.json"  # Json dosya yolu
+PROXY_BASE = "https://zeroipday-zeroipday.hf.space/proxy"
 
-async def fetch_redirect_url(client, player_url):
-    try:
-        resp = await client.get(player_url, follow_redirects=False, headers={
-            "User-Agent": "Mozilla/5.0",
-            "Referer": BASE_URL + "/"
-        })
-        if resp.status_code in [301,302,303,307,308]:
-            return resp.headers.get("location")
-        else:
-            return None
-    except Exception as e:
-        print(f"Hata: {e}")
-        return None
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "X-Requested-With": "XMLHttpRequest"
+}
 
-async def get_episode_video_links(page, episode_url):
-    await page.goto(episode_url)
-    await page.wait_for_timeout(3000)  # JS yüklenmesi için bekle
+session = requests.Session()
+session.headers.update(HEADERS)
 
-    elements = await page.query_selector_all("a.videoPlayerButtons")
-    aincrad_videos = []
-    vidmoly_videos = []
-    for el in elements:
-        video_url = await el.get_attribute("video")
-        span = await el.query_selector("span")
-        span_text = (await span.inner_text()).strip() if span else ""
 
-        if video_url:
-            text_lower = span_text.lower()
-            if "aincrad" in text_lower:
-                aincrad_videos.append({"name": span_text, "url": video_url})
-            elif "vidmoly" in text_lower:
-                vidmoly_videos.append({"name": span_text, "url": video_url})
+def retry_request(func, *args, retries=3, delay=1, **kwargs):
+    for i in range(retries):
+        try:
+            response = func(*args, timeout=15, **kwargs)
+            time.sleep(delay)
+            return response
+        except Exception as e:
+            print(f"❗ Deneme {i+1} hata: {e}", flush=True)
+            if i == retries - 1:
+                print("⚠️ Tüm denemeler başarısız.", flush=True)
+                return None
+            time.sleep(delay)
 
-    if aincrad_videos:
-        return aincrad_videos
-    elif vidmoly_videos:
-        return vidmoly_videos
-    else:
+
+def safe_name(name):
+    name = name.replace(" ", "_")
+    return re.sub(r'[^A-Za-z0-9_-]', '', name)
+
+
+def load_json(path):
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
+def save_json(data, path):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+def get_episodes(anime_link):
+    res = retry_request(session.get, anime_link)
+    if res is None:
         return []
-
-async def extract_cover_url(page):
-    # 1. Öncelik: img.infoPosterImgItem
-    img_el = await page.query_selector("img.infoPosterImgItem")
-    if img_el:
-        src = await img_el.get_attribute("src")
-        if src:
-            return src if src.startswith("http") else BASE_URL + src
-
-    # 2. İkinci öncelik: header > div.cover style içindeki background url(...)
-    cover_div = await page.query_selector("header .cover.blurred")
-    if cover_div:
-        style = await cover_div.get_attribute("style") or ""
-        m = re.search(r"url\(['\"]?(.*?)['\"]?\)", style)
-        if m:
-            url = m.group(1)
-            return url if url.startswith("http") else BASE_URL + url
-
-    # 3. Son çare meta tag
-    meta_img = await page.query_selector("meta[property='og:image']")
-    if not meta_img:
-        meta_img = await page.query_selector("meta[name='og:image']")
-    if meta_img:
-        content = await meta_img.get_attribute("content")
-        if content:
-            return content if content.startswith("http") else BASE_URL + content
-
-    return "Kapak resmi bulunamadı"
-
-async def process_anime(page, client, anime_url, anime_name=None):
-    await page.goto(anime_url)
-    await page.wait_for_timeout(3000)
-
-    # Anime adı sayfadan al, parametre boşsa
-    if not anime_name:
-        title_el = await page.query_selector("h2.anizm_pageTitle a")
-        anime_name = (await title_el.inner_text()).strip() if title_el else "Bilinmiyor"
-
-    # Kapak resmi
-    cover_url = await extract_cover_url(page)
-
-    print(f"\n=== Anime: {anime_name} ===")
-    print(f"Kapak Resmi: {cover_url}")
-
-    # Bölüm linklerini al
-    episode_links = await page.query_selector_all("div.episodeBlockList a[href]")
-    episode_urls = []
-    for a in episode_links:
-        href = await a.get_attribute("href")
-        if href:
+    soup = BeautifulSoup(res.content, "html.parser")
+    episode_divs = soup.select("div#episodesContent div.three.wide.column a.anizm_colorDefault")
+    episodes = []
+    for a in episode_divs:
+        href = a.get("href")
+        title = a.select_one("div.title")
+        if href and title:
             full_url = href if href.startswith("http") else BASE_URL + href
-            episode_urls.append(full_url)
+            episodes.append({
+                "url": full_url,
+                "title": title.text.strip()
+            })
+    return episodes
 
-    # Her bölüm için video linklerini al, player yönlendirmesini çek ve yazdır
-    for ep_url in episode_urls:
-        print(f"\nBölüm URL: {ep_url}")
-        videos = await get_episode_video_links(page, ep_url)
-        if not videos:
-            print("  Video bulunamadı.")
+
+def extract_video_links(ep_url):
+    res = retry_request(session.get, ep_url)
+    if res is None:
+        return []
+    soup = BeautifulSoup(res.content, "html.parser")
+    video_buttons = soup.select("a.videoPlayerButtons")
+    links = []
+    for btn in video_buttons:
+        video_url = btn.get("video")
+        span = btn.select_one("span")
+        label = span.text.strip() if span else "Unknown"
+        if video_url:
+            links.append({"label": label, "url": video_url})
+    return links
+
+
+def write_season_m3u(anime_name, season_number, episodes, group_title):
+    folder = f"anizm/{safe_name(anime_name)}"
+    os.makedirs(folder, exist_ok=True)
+    filename = f"{folder}/{safe_name(anime_name)}_Sezon_{season_number}.m3u"
+    m3u_lines = ["#EXTM3U"]
+    for ep in episodes:
+        ep_title = ep['title'].upper()
+        for v in ep.get("videos", []):
+            tvg_name = f"{anime_name.upper()} S{season_number:02d}"
+            key = f"{anime_name.upper()} SEZON {season_number} - {ep_title}"
+            line = f'#EXTINF:-1 tvg-name="{tvg_name}" group-title="{group_title}",{key} [{v["label"].upper()}]'
+            proxy_url = f"{PROXY_BASE}/video?url={v['url']}"
+            m3u_lines.append(line)
+            m3u_lines.append(proxy_url)
+
+    if len(m3u_lines) == 1:
+        print(f"⚠️ {filename} için video linki yok, dosya oluşturulmadı.")
+        return False
+
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write("\n".join(m3u_lines))
+    print(f"{filename} dosyasına {len(episodes)} bölüm yazıldı.")
+    return True
+
+
+def main():
+    json_path = "anizm/animeler.json"
+    animeler = load_json(json_path)
+    updated = False
+
+    for anime_link, info in animeler.items():
+        anime_name = info.get("group", "Bilinmeyen")
+        print(f"\n⏳ {anime_name} işleniyor...")
+
+        episodes = get_episodes(anime_link)
+        if not episodes:
+            print("⚠️ Bölüm bulunamadı, atlanıyor.")
             continue
 
-        for v in videos:
-            print(f"  Video İsmi: {v['name']}")
-            print(f"  Video Linki: {v['url']}")
+        # Her bölüm için video linklerini çek
+        with ThreadPoolExecutor(max_workers=8) as executor:
+            futures = {executor.submit(extract_video_links, ep['url']): ep for ep in episodes}
+            for future in as_completed(futures):
+                ep = futures[future]
+                try:
+                    videos = future.result()
+                    ep['videos'] = videos
+                except Exception as e:
+                    print(f"❗ Bölüm video linki alınamadı: {e}")
+                    ep['videos'] = []
 
-            match = re.search(r'/video/(\d+)', v['url'])
-            if match:
-                video_id = match.group(1)
-                player_url = f"{BASE_URL}/player/{video_id}"
-                redirect_url = await fetch_redirect_url(client, player_url)
-                print(f"  Yönlendirme URL: {redirect_url}")
-            else:
-                print("  Video ID bulunamadı!")
+        # İstersen sezonu 1 sabit alıyoruz, ya da animede sezon bilgisi varsa oradan çek
+        season_number = 1
+        group_title = info.get("group", "ANIMELER")
 
-async def main():
-    if not os.path.exists(ANIMES_JSON_PATH):
-        print(f"Hata: '{ANIMES_JSON_PATH}' dosyası bulunamadı.")
-        return
+        success = write_season_m3u(anime_name, season_number, episodes, group_title)
+        if success:
+            # Yeni anime ise JSON’a ekle, eskileri güncelleme (isteğe bağlı)
+            if anime_link not in animeler:
+                animeler[anime_link] = info
+                updated = True
 
-    with open(ANIMES_JSON_PATH, "r", encoding="utf-8") as f:
-        anime_data = json.load(f)
+    if updated:
+        save_json(animeler, json_path)
+        print(f"\nJSON dosyası güncellendi: {json_path}")
+    else:
+        print("\nJSON dosyasında güncelleme gerekmedi.")
 
-    async with async_playwright() as p, httpx.AsyncClient() as client:
-        browser = await p.chromium.launch(headless=True)
-        page = await browser.new_page()
-
-        for anime_url, info in anime_data.items():
-            anime_name = info.get("group")
-            await process_anime(page, client, anime_url, anime_name)
-
-        await browser.close()
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
