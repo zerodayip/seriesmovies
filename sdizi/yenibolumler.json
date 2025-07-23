@@ -1,4 +1,28 @@
 {
+  "https://sezonlukdizi6.com/diziler/the-rising-of-the-shield-hero.html": {
+    "group": "THE RISING OF THE SHIELD HERO",
+    "last_season": 4,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/countdown.html": {
+    "group": "COUNTDOWN",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/stick.html": {
+    "group": "STICK",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/the-buccaneers.html": {
+    "group": "THE BUCCANEERS",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/head-over-heels.html": {
     "group": "HEAD OVER HEELS",
     "last_season": 1,
@@ -57,24 +81,6 @@
     "group": "TO BE HERO X",
     "last_season": 1,
     "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/the-fragrant-flower-blooms-with-dignity.html": {
-    "group": "THE FRAGRANT FLOWER BLOOMS WITH DIGNITY",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/my-dress-up-darling.html": {
-    "group": "MY DRESS-UP DARLING",
-    "last_season": 2,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/rascal-does-not-dream-of-bunny-girl-senpai.html": {
-    "group": "RASCAL DOES NOT DREAM OF BUNNY GIRL SENPAI",
-    "last_season": 2,
-    "last_episode": 3,
     "start_episode": 1
   }
 }
