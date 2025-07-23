@@ -18,7 +18,7 @@ jobs:
 
       - name: Playwright ve bağımlılıkları yükle
         run: |
-          pip install playwright
+          pip install playwright httpx
           playwright install
 
       - name: Python scriptini çalıştır
