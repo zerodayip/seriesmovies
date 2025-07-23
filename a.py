@@ -33,12 +33,40 @@ async def get_episode_video_links(page, episode_url):
             videos.append({"name": span_text, "url": video_url})
     return videos
 
+async def extract_cover_url(page):
+    # 1. Öncelik: img.infoPosterImgItem
+    img_el = await page.query_selector("img.infoPosterImgItem")
+    if img_el:
+        src = await img_el.get_attribute("src")
+        if src:
+            return src if src.startswith("http") else BASE_URL + src
+
+    # 2. İkinci öncelik: header > div.cover style içindeki background url(...)
+    cover_div = await page.query_selector("header .cover.blurred")
+    if cover_div:
+        style = await cover_div.get_attribute("style") or ""
+        # style içinde url('...') veya url("...") yakala
+        m = re.search(r"url\(['\"]?(.*?)['\"]?\)", style)
+        if m:
+            url = m.group(1)
+            return url if url.startswith("http") else BASE_URL + url
+
+    # 3. Son çare meta tag
+    meta_img = await page.query_selector("meta[property='og:image']")
+    if not meta_img:
+        meta_img = await page.query_selector("meta[name='og:image']")
+    if meta_img:
+        content = await meta_img.get_attribute("content")
+        if content:
+            return content if content.startswith("http") else BASE_URL + content
+
+    return "Kapak resmi bulunamadı"
+
 async def main():
     async with async_playwright() as p, httpx.AsyncClient() as client:
         browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
 
-        # Ana anime sayfası
         main_url = f"{BASE_URL}/tsuyokute-new-saga"
         await page.goto(main_url)
         await page.wait_for_timeout(3000)
@@ -48,15 +76,10 @@ async def main():
         anime_name = (await title_el.inner_text()).strip() if title_el else "Bilinmiyor"
 
         # Kapak resmi
-        meta_img = await page.query_selector("meta[property='og:image']")
-        img_content = await meta_img.get_attribute("content") if meta_img else ""
-        if img_content and not img_content.startswith("http"):
-            img_url = BASE_URL + img_content
-        else:
-            img_url = img_content
+        cover_url = await extract_cover_url(page)
 
         print(f"Anime Adı: {anime_name}")
-        print(f"Kapak Resmi: {img_url}")
+        print(f"Kapak Resmi: {cover_url}")
         print("\nBölümler ve videolar:")
 
         # Bölüm linklerini al
@@ -64,10 +87,9 @@ async def main():
         episode_urls = []
         for a in episode_links:
             href = await a.get_attribute("href")
-            if href and href.startswith(BASE_URL):
-                episode_urls.append(href)
-            elif href:
-                episode_urls.append(BASE_URL + href)
+            if href:
+                full_url = href if href.startswith("http") else BASE_URL + href
+                episode_urls.append(full_url)
 
         # Her bölüm için video linklerini al, player yönlendirmesini çek ve yazdır
         for ep_url in episode_urls:
@@ -81,7 +103,6 @@ async def main():
                 print(f"  Video İsmi: {v['name']}")
                 print(f"  Video Linki: {v['url']}")
 
-                # Player ID al
                 match = re.search(r'/video/(\d+)', v['url'])
                 if match:
                     video_id = match.group(1)
