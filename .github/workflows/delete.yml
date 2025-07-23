@@ -3,9 +3,9 @@ name: Delete Files
 on:
 #  schedule:
 #    - cron: '15 3 * * *'
-  push:
-    branches:
-      - main
+#  push:
+#    branches:
+#      - main
  #   paths:
 #      - 'sil.txt'
   workflow_dispatch:
