@@ -1,117 +1,31 @@
-import os
-import requests
-import re
-import base64
+import asyncio
+from playwright.async_api import async_playwright
 
-GH_TOKEN = os.getenv("GH_TOKEN")
-HEADERS = {
-    "Authorization": f"Bearer {GH_TOKEN}",
-    "Accept": "application/vnd.github.v3+json"
-}
+async def main():
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        context = await browser.new_context()
+        page = await context.new_page()
 
-def fetch_large_file(owner, repo, path, branch):
-    url1 = f"https://api.github.com/repos/{owner}/{repo}/contents/{path}?ref={branch}"
-    res1 = requests.get(url1, headers=HEADERS)
-    res1.raise_for_status()
-    data1 = res1.json()
-    if "sha" not in data1:
-        raise Exception(f"SHA bulunamadı! keys: {data1.keys()}")
-    sha = data1["sha"]
-    url2 = f"https://api.github.com/repos/{owner}/{repo}/git/blobs/{sha}"
-    res2 = requests.get(url2, headers=HEADERS)
-    res2.raise_for_status()
-    data2 = res2.json()
-    content = base64.b64decode(data2["content"]).decode("utf-8").splitlines()
-    return content
+        await page.goto("https://puffytr.com/mattaku-saikin-no-tantei-to-kitara-4-bolum")
+        await page.wait_for_timeout(5000)  # 5 saniye bekle DOM tam yüklensin
 
-def parse_m3u_lines(lines):
-    entries = []
-    entry = []
-    for line in lines:
-        if line.startswith("#EXTINF"):
-            entry = [line]
-        elif line.startswith("http"):
-            if entry:
-                entry.append(line)
-                entries.append(entry)
-                entry = []
-    return entries
+        # Tüm script'lerde videoID ara
+        video_id = await page.evaluate("""
+            () => {
+                const scripts = Array.from(document.scripts);
+                for (const script of scripts) {
+                    if (script.textContent.includes("videoID")) {
+                        const match = script.textContent.match(/videoID\\s*=\\s*"([^"]+)"/);
+                        if (match) return match[1];
+                    }
+                }
+                return null;
+            }
+        """)
 
-def get_tvgid_tvgname_mode(extinf_line):
-    tvg_id_match = re.search(r'tvg-id="([^"]+)"', extinf_line)
-    tvg_id = tvg_id_match.group(1) if tvg_id_match else ""
-    tvg_name_match = re.search(r'tvg-name="([^"]+)"', extinf_line)
-    tvg_name = tvg_name_match.group(1) if tvg_name_match else ""
-    title = extinf_line.split(",", 1)[-1].strip().upper()
-    if "DUBLAJ" in title:
-        mode = "DUBLAJ"
-    elif "ALTYAZI" in title:
-        mode = "ALTYAZI"
-    else:
-        mode = "DİĞER"
-    return tvg_id, tvg_name, mode
+        print("videoID (data):", video_id)
 
-def get_host_from_title(extinf_line):
-    title = extinf_line.split(",", 1)[-1].upper()
-    for host in ["VIDMOLY", "SIBNET", "OKRU", "MAILRU", "FILEMOON"]:
-        if host in title:
-            return host
-    return "BILINMIYOR"
+        await browser.close()
 
-def main():
-    print("Dizigom m3u indiriliyor...")
-    dizi_lines = fetch_large_file(
-        "zerodayip", "dizigom", "dizigomdizi.m3u", "main"
-    )
-    print("Sezonlukdizi m3u indiriliyor...")
-    sezonluk_lines = fetch_large_file(
-        "zerodayip", "sezonlukdizi", "sezonlukdizi.m3u", "main"
-    )
-
-    dizi_entries = parse_m3u_lines(dizi_lines)
-    sezon_entries = parse_m3u_lines(sezonluk_lines)
-    merged = ["#EXTM3U"]
-    yazilan_set = set()  # (tvg-id, tvg-name, mode)
-    atlananlar = []
-
-    # Dizigom başa eklenir
-    for entry in dizi_entries:
-        extinf = entry[0]
-        tvg_id, tvg_name, mode = get_tvgid_tvgname_mode(extinf)
-        key = (tvg_id, tvg_name, mode)
-        if key not in yazilan_set:
-            merged.extend(entry)
-            yazilan_set.add(key)
-
-    # Sezonlukdizi'den sadece eksik olanlar eklenir, eklenmeyenler atlananlar'a
-    for entry in sezon_entries:
-        extinf = entry[0]
-        tvg_id, tvg_name, mode = get_tvgid_tvgname_mode(extinf)
-        key = (tvg_id, tvg_name, mode)
-        if key not in yazilan_set:
-            merged.extend(entry)
-            yazilan_set.add(key)
-        else:
-            atlananlar.append(entry)
-
-    # Dosyaya yaz
-    with open("series.m3u", "w", encoding="utf-8") as f:
-        for line in merged:
-            if isinstance(line, list):
-                for sub in line:
-                    f.write(sub + "\n")
-            else:
-                f.write(line + "\n")
-    print("series.m3u başarıyla oluşturuldu.")
-
-    # Atlananları özetle yazdır
-    print("\n--- Atlanan veriler (kısa özet) ---")
-    for entry in atlananlar:
-        extinf = entry[0]
-        tvg_id, tvg_name, mode = get_tvgid_tvgname_mode(extinf)
-        host = get_host_from_title(extinf)
-        print(f"tvg-id={tvg_id} | tvg-name={tvg_name} | mode={mode} | host={host}")
-    print(f"Toplam atlanan: {len(atlananlar)} satır")
-
-if __name__ == "__main__":
-    main()
+asyncio.run(main())
