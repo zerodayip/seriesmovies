@@ -67,13 +67,20 @@ def write_m3u(anime_name, season_number, episodes, group_title):
     print(f"{filename} dosyasına {count_written_eps} bölüm yazıldı.", flush=True)
     return count_written_eps
 
-async def main():
+def load_animeler_json():
     if not os.path.exists(JSON_PATH):
-        print(f"{JSON_PATH} bulunamadı! Lütfen anizm/animeler.json dosyasını oluşturun.", flush=True)
-        return
-
+        print(f"{JSON_PATH} bulunamadı, yeni oluşturuluyor.", flush=True)
+        return {}
     with open(JSON_PATH, "r", encoding="utf-8") as f:
-        animeler = json.load(f)
+        return json.load(f)
+
+def save_animeler_json(data):
+    with open(JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    print(f"{JSON_PATH} dosyası güncellendi.", flush=True)
+
+async def main():
+    animeler = load_animeler_json()
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
@@ -81,17 +88,43 @@ async def main():
 
         for anime_url, info in animeler.items():
             anime_name = info.get("group") or "Bilinmeyen"
-            season_number = info.get("last_season", 1)
+            last_season = info.get("last_season", 1)
+            last_episode = info.get("last_episode", 0)
+            start_episode = info.get("start_episode", 1)
 
             print(f"\n{anime_url} işleniyor...", flush=True)
             episodes = await get_episodes(page, anime_url)
             print(f"Bulunan bölüm sayısı: {len(episodes)}", flush=True)
 
+            # Yeni bölümleri filtrele
+            new_episodes = []
             for ep in episodes:
+                # Bölüm numarasını episode başlığından çıkarabiliriz (ör: "4. Bölüm" gibi)
+                ep_num_match = re.search(r'(\d+)', ep['title'])
+                ep_num = int(ep_num_match.group(1)) if ep_num_match else 0
+                if ep_num >= start_episode:
+                    new_episodes.append(ep)
+
+            for ep in new_episodes:
                 ep['videos'] = await get_episode_video_links(page, ep['url'])
 
-            yazilan = write_m3u(anime_name, season_number, episodes, group_title="ANİMELER")
+            yazilan = write_m3u(anime_name, last_season, new_episodes, group_title="ANİMELER")
             print(f"{yazilan} bölümü m3u dosyasına yazıldı.", flush=True)
+
+            # JSON güncellemesi - sadece last_episode ve start_episode
+            if new_episodes:
+                max_ep_num = 0
+                for ep in new_episodes:
+                    ep_num_match = re.search(r'(\d+)', ep['title'])
+                    ep_num = int(ep_num_match.group(1)) if ep_num_match else 0
+                    if ep_num > max_ep_num:
+                        max_ep_num = ep_num
+                if max_ep_num > last_episode:
+                    animeler[anime_url]["last_episode"] = max_ep_num
+                    animeler[anime_url]["start_episode"] = max_ep_num + 1
+
+            # Kaydet
+            save_animeler_json(animeler)
 
         await browser.close()
 
