@@ -77,7 +77,6 @@ def load_animeler_json():
 def save_animeler_json(data):
     with open(JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-    print(f"{JSON_PATH} dosyası güncellendi.", flush=True)
 
 async def main():
     animeler = load_animeler_json()
@@ -109,7 +108,6 @@ async def main():
                 ep['videos'] = await get_episode_video_links(page, ep['url'])
 
             yazilan = write_m3u(anime_name, last_season, new_episodes, group_title="ANİMELER")
-            print(f"{yazilan} bölümü m3u dosyasına yazıldı.", flush=True)
 
             # JSON güncellemesi - sadece last_episode ve start_episode
             if new_episodes:
@@ -121,7 +119,6 @@ async def main():
                         max_ep_num = ep_num
                 if max_ep_num > last_episode:
                     animeler[anime_url]["last_episode"] = max_ep_num
-                    animeler[anime_url]["start_episode"] = max_ep_num + 1
 
             # Kaydet
             save_animeler_json(animeler)
