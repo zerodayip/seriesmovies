@@ -18,7 +18,7 @@ jobs:
 
       - name: Playwright ve bağımlılıkları yükle
         run: |
-          pip install playwright httpx
+          pip install playwright httpx requests beautifulsoup4
           playwright install
 
       - name: Python scriptini çalıştır
