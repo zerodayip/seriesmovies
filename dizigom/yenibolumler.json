@@ -14,13 +14,13 @@
   "https://dizigom1.live/dizi-izle/the-buccaneers/": {
     "group": "THE BUCCANEERS",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/acapulco/": {
     "group": "ACAPULCO",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 2,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/sakamoto-days/": {
@@ -38,13 +38,13 @@
   "https://dizigom1.live/dizi-izle/low-life/": {
     "group": "LOW LIFE",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/countdown/": {
     "group": "COUNTDOWN",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/better-late-than-single/": {
@@ -56,13 +56,13 @@
   "https://dizigom1.live/dizi-izle/building-the-band/": {
     "group": "BUILDING THE BAND",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 10,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/the-summer-i-turned-pretty/": {
     "group": "THE SUMMER I TURNED PRETTY",
     "last_season": 3,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   }
 }
