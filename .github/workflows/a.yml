@@ -43,7 +43,7 @@ jobs:
           
           git add dizigom/*.json || echo "No dizigom files"
           git add sdizi/*.json || echo "No sezonlukdizi files"
-          git add anizim/*.json || echo "No anizim files"
+          git add anizm/*.json || echo "No anizim files"
 
           git commit -m "Dizigom ve Sezonlukdizi JSON güncellendi [auto]" || echo "No changes"
           git push origin main
