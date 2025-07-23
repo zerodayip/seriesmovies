@@ -1,7 +1,7 @@
 name: Run Playwright Script
 
 on:
-  workflow_dispatch:  # Manuel çalıştırma için
+  workflow_dispatch:  # Manuel tetikleme
 
 jobs:
   run-script:
@@ -14,7 +14,7 @@ jobs:
       - name: Python kur
         uses: actions/setup-python@v4
         with:
-          python-version: 3.10
+          python-version: "3.10"  # ← 3.1 değil, 3.10 veya 3.11 kullan!
 
       - name: Playwright ve bağımlılıkları yükle
         run: |
