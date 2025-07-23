@@ -20,13 +20,13 @@
   "https://dizigom1.live/dizi-izle/head-over-heels/": {
     "group": "HEAD OVER HEELS",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/better-late-than-single/": {
     "group": "BETTER LATE THAN SINGLE",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 8,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/rick-and-morty/": {
@@ -44,7 +44,7 @@
   "https://dizigom1.live/dizi-izle/sakamoto-days/": {
     "group": "SAKAMOTO DAYS",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   }
 }
