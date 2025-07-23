@@ -1,7 +1,7 @@
 name: Run Playwright Script
 
 on:
-  workflow_dispatch:  # Manuel tetikleme
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -14,12 +14,22 @@ jobs:
       - name: Python kur
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"  # ← 3.1 değil, 3.10 veya 3.11 kullan!
+          python-version: "3.10"
 
       - name: Playwright ve bağımlılıkları yükle
         run: |
+          pip install --upgrade pip
           pip install playwright httpx requests beautifulsoup4
           playwright install
 
       - name: Python scriptini çalıştır
         run: python a.py
+
+      - name: Değişiklikleri commit ve push et
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add anizm/animeler.json || echo "Değişiklik yok"
+          git add anizm/m3u/*.m3u || echo "M3U dosyası yok"
+          git commit -m "Anizm JSON ve M3U dosyaları güncellendi [auto]" || echo "Commit edilecek değişiklik yok"
+          git push origin HEAD:main
