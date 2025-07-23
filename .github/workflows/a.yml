@@ -1,1 +1,25 @@
+name: Run Playwright Script
 
+on:
+  workflow_dispatch:  # Manuel tetikleme
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo'yu klonla
+        uses: actions/checkout@v3
+
+      - name: Python kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"  # ← 3.1 değil, 3.10 veya 3.11 kullan!
+
+      - name: Playwright ve bağımlılıkları yükle
+        run: |
+          pip install playwright httpx
+          playwright install
+
+      - name: Python scriptini çalıştır
+        run: python a.py
