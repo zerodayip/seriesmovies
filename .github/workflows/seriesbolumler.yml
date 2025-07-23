@@ -1,9 +1,9 @@
-name: Run SezonlukDizi & Dizigom m3u Bölüm Takip
+name: Run All M3U Maker
 
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Run Dizigom ve Sezonlukdizi JSON"]
+    workflows: ["Run All JSON"]
     types:
       - completed
   
