@@ -24,14 +24,26 @@ async def get_episode_video_links(page, episode_url):
     await page.wait_for_timeout(3000)  # JS yüklenmesi için bekle
 
     elements = await page.query_selector_all("a.videoPlayerButtons")
-    videos = []
+    aincrad_videos = []
+    vidmoly_videos = []
     for el in elements:
         video_url = await el.get_attribute("video")
         span = await el.query_selector("span")
         span_text = (await span.inner_text()).strip() if span else ""
-        if video_url and ("aincrad" in span_text.lower() or "vidmoly" in span_text.lower()):
-            videos.append({"name": span_text, "url": video_url})
-    return videos
+
+        if video_url:
+            text_lower = span_text.lower()
+            if "aincrad" in text_lower:
+                aincrad_videos.append({"name": span_text, "url": video_url})
+            elif "vidmoly" in text_lower:
+                vidmoly_videos.append({"name": span_text, "url": video_url})
+
+    if aincrad_videos:
+        return aincrad_videos
+    elif vidmoly_videos:
+        return vidmoly_videos
+    else:
+        return []
 
 async def extract_cover_url(page):
     # 1. Öncelik: img.infoPosterImgItem
@@ -45,7 +57,6 @@ async def extract_cover_url(page):
     cover_div = await page.query_selector("header .cover.blurred")
     if cover_div:
         style = await cover_div.get_attribute("style") or ""
-        # style içinde url('...') veya url("...") yakala
         m = re.search(r"url\(['\"]?(.*?)['\"]?\)", style)
         if m:
             url = m.group(1)
@@ -114,4 +125,5 @@ async def main():
 
         await browser.close()
 
-asyncio.run(main())
+if __name__ == "__main__":
+    asyncio.run(main())
