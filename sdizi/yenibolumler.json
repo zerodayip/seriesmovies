@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/washington-black.html": {
+    "group": "WASHINGTON BLACK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/the-rising-of-the-shield-hero.html": {
     "group": "THE RISING OF THE SHIELD HERO",
     "last_season": 4,
@@ -73,12 +79,6 @@
   },
   "https://sezonlukdizi6.com/diziler/good-boy.html": {
     "group": "GOOD BOY",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/to-be-hero-x.html": {
-    "group": "TO BE HERO X",
     "last_season": 1,
     "last_episode": 16,
     "start_episode": 1
