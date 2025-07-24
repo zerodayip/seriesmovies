@@ -58,19 +58,12 @@ def get_episodes(series_url):
     res = requests.get(series_url, headers=HEADERS, timeout=15)
     soup = BeautifulSoup(res.text, "html.parser")
     episodes = []
-
-    # Bölüm linkleri için selector düzeltildi:
     for a in soup.select("div.episodeBlockList div.content a[href]"):
         href = a.get("href")
         if not href:
             continue
         full_url = href if href.startswith("http") else BASE_URL + href
-
-        # Bölüm numarasını regex ile alıyoruz:
-        ep_match = re.search(r"-([0-9]+)-bolum$", href)
-        if not ep_match:
-            ep_match = re.search(r"-([0-9]+)$", href)
-
+        ep_match = re.search(r"-([0-9]+)-bolum$", href) or re.search(r"-([0-9]+)$", href)
         episode_number = int(ep_match.group(1)) if ep_match else None
         if episode_number is not None:
             episodes.append({
@@ -82,13 +75,12 @@ def get_episodes(series_url):
     print(f"📺 Bulunan bölüm sayısı: {len(episodes)}")
     return sorted(episodes, key=lambda ep: ep["episode"])
 
-async def extract_embed_with_playwright(ep_url):
+async def extract_redirect_url(ep_url):
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
         await page.goto(ep_url)
         await page.wait_for_timeout(4000)
-        embed = None
 
         buttons = await page.query_selector_all("a.videoPlayerButtons")
         for btn in buttons:
@@ -96,32 +88,30 @@ async def extract_embed_with_playwright(ep_url):
             label = label.lower()
             if "aincrad" in label:
                 video = await btn.get_attribute("video")
-                if video and "video/" in video:
+                if video and "/video/" in video:
                     video_id = video.split("/")[-1]
-                    embed = f"{BASE_URL}/player/{video_id}"
-                    break
-
+                    player_url = f"{BASE_URL}/player/{video_id}"
+                    response = requests.get(player_url, headers={"Referer": BASE_URL}, allow_redirects=False)
+                    if response.status_code in [301, 302] and "Location" in response.headers:
+                        redirect_url = response.headers["Location"]
+                        await browser.close()
+                        return {
+                            "host": "aincrad",
+                            "url": redirect_url,
+                            "label": "Altyazı"
+                        }
         await browser.close()
-
-        if embed:
-            return {
-                "host": "aincrad",
-                "url": embed,
-                "label": "Altyazı"
-            }
-        print(f"❗ Embed bulunamadı: {ep_url}")
+        print(f"❗️ Redirect bulunamadı: {ep_url}")
         return None
 
 async def get_embed_links_all(episodes):
     sem = asyncio.Semaphore(3)
-
     async def fetch_one(ep):
         async with sem:
-            link = await extract_embed_with_playwright(ep["url"])
+            link = await extract_redirect_url(ep["url"])
             ep = ep.copy()
             ep["embed_links"] = [link] if link else []
             return ep
-
     tasks = [fetch_one(ep) for ep in episodes]
     return await asyncio.gather(*tasks)
 
@@ -129,10 +119,8 @@ def write_season_m3u(series_name, poster_url, season_number, episodes, group_tit
     folder = f"anizm/{safe_name(series_name)}_{year}"
     os.makedirs(folder, exist_ok=True)
     filename = f"{folder}/{safe_name(series_name)}_Sezon_{season_number}.m3u"
-
     yazilan_bolumler = []
     m3u_lines = ["#EXTM3U"]
-
     for ep in episodes:
         links = ep.get("embed_links", [])
         if not links:
@@ -147,7 +135,6 @@ def write_season_m3u(series_name, poster_url, season_number, episodes, group_tit
             m3u_lines.append(line)
             m3u_lines.append(proxy_url)
         yazilan_bolumler.append(ep)
-
     if yazilan_bolumler:
         with open(filename, "w", encoding="utf-8") as f:
             f.write("\n".join(m3u_lines))
@@ -163,40 +150,30 @@ async def main():
         try:
             res = requests.get(name, headers=HEADERS, timeout=15)
             soup = BeautifulSoup(res.text, "html.parser")
-
             year = extract_year(soup)
             title_el = soup.select_one("h2.anizm_pageTitle a")
             title = title_el.text.strip() if title_el else "Bilinmeyen"
             poster_url = extract_cover_url(soup)
             group_title = info.get("group", "YENİ ANİME")
-
             episodes = get_episodes(name)
             last_season = info.get("last_season", 1)
             last_episode = info.get("last_episode", 0)
             start_episode = info.get("start_episode", 1)
-
-            yeni_bolumler = [ep for ep in episodes if ep["episode"] >= start_episode and ep["episode"] > last_episode]
-            if not yeni_bolumler:
-                print("✅ Yeni bölüm bulunamadı.")
-                continue
-
-            yeni_bolumler = await get_embed_links_all(yeni_bolumler)
-            yazilacak_eps = [ep for ep in yeni_bolumler if ep.get("embed_links")]
+            yazilacak_eps = [ep for ep in episodes if ep["episode"] >= start_episode]
+            yazilacak_eps = await get_embed_links_all(yazilacak_eps)
+            yazilacak_eps = [ep for ep in yazilacak_eps if ep.get("embed_links")]
             if not yazilacak_eps:
-                print("⚠️ Embed linki olmayan bölüm.")
+                print("⚠️ Embed linki olmayan bölümler atlandı.")
                 continue
-
             yazilanlar = write_season_m3u(title, poster_url, 1, yazilacak_eps, group_title, year)
             if yazilanlar:
                 son = max(yazilanlar, key=lambda ep: ep["episode"])
                 takip[name]["last_season"] = 1
                 takip[name]["last_episode"] = son["episode"]
-
             time.sleep(1)
         except Exception as e:
             print(f"🚫 HATA: {e}")
             continue
-
     save_series(takip)
 
 if __name__ == "__main__":
