@@ -6,7 +6,7 @@ on:
     - cron: '0 */11 * * *'
 
 jobs:
-  run-sezonlukdizi:
+  run-yenitoana-json:
     runs-on: ubuntu-latest
 
     steps:
