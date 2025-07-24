@@ -1,4 +1,16 @@
 {
+  "https://sezonlukdizi6.com/diziler/dandadan.html": {
+    "group": "DANDADAN",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/dr-stone.html": {
+    "group": "DR. STONE",
+    "last_season": 4,
+    "last_episode": 14,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/its-always-sunny-in-philadelphia.html": {
     "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
     "last_season": 17,
@@ -69,18 +81,6 @@
     "group": "RESIDENT ALIEN",
     "last_season": 4,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/family-guy.html": {
-    "group": "FAMILY GUY",
-    "last_season": 23,
-    "last_episode": 18,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/the-simpsons.html": {
-    "group": "THE SIMPSONS",
-    "last_season": 36,
-    "last_episode": 18,
     "start_episode": 1
   }
 }

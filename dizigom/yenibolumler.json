@@ -1,12 +1,12 @@
 {
-  "https://dizigom1.live/dizi-izle/countdown/": {
-    "group": "COUNTDOWN",
+  "https://dizigom1.live/dizi-izle/critical-between-life-and-death/": {
+    "group": "CRITICAL: BETWEEN LIFE AND DEATH",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-buccaneers/": {
-    "group": "THE BUCCANEERS",
+  "https://dizigom1.live/dizi-izle/the-sandman/": {
+    "group": "THE SANDMAN",
     "last_season": 2,
     "last_episode": 6,
     "start_episode": 1
@@ -17,8 +17,20 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-sandman/": {
-    "group": "THE SANDMAN",
+  "https://dizigom1.live/dizi-izle/countdown/": {
+    "group": "COUNTDOWN",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/low-life/": {
+    "group": "LOW LIFE",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-buccaneers/": {
+    "group": "THE BUCCANEERS",
     "last_season": 2,
     "last_episode": 6,
     "start_episode": 1
@@ -27,18 +39,6 @@
     "group": "BUILDING THE BAND",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/critical-between-life-and-death/": {
-    "group": "CRITICAL: BETWEEN LIFE AND DEATH",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/low-life/": {
-    "group": "LOW LIFE",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
