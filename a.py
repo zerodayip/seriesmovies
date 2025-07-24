@@ -3,7 +3,6 @@ import os
 import json
 import re
 import time
-from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
@@ -30,10 +29,12 @@ def save_series(data):
 def extract_year(soup):
     ul = soup.select_one("ul.anizm_verticalList")
     if ul:
+        # Anizm'de ilk li genelde yıl bilgisi
         first_li = ul.find("li")
         if first_li:
-            year = re.search(r"\d{4}", first_li.text.strip())
-            return year.group(0) if year else "unknown"
+            year_match = re.search(r"\d{4}", first_li.text.strip())
+            if year_match:
+                return year_match.group(0)
     return "unknown"
 
 def extract_cover_url(soup):
@@ -66,7 +67,7 @@ def get_episodes(series_url):
         full_url = href if href.startswith("http") else BASE_URL + href
         ep_match = re.search(r"-([0-9]+)$", href)
         episode_number = int(ep_match.group(1)) if ep_match else None
-        if episode_number:
+        if episode_number is not None:
             episodes.append({
                 "name": f"1. Sezon {episode_number}. Bölüm",
                 "url": full_url,
@@ -82,13 +83,12 @@ async def extract_embed_with_playwright(ep_url):
         page = await browser.new_page()
         await page.goto(ep_url)
         await page.wait_for_timeout(4000)
-        embed = None
 
+        embed = None
         buttons = await page.query_selector_all("a.videoPlayerButtons")
         for btn in buttons:
             label = await btn.inner_text()
-            label = label.lower()
-            if "aincrad" in label:
+            if "aincrad" in label.lower():
                 video = await btn.get_attribute("video")
                 if video and "video/" in video:
                     video_id = video.split("/")[-1]
@@ -112,9 +112,9 @@ async def get_embed_links_all(episodes):
     async def fetch_one(ep):
         async with sem:
             link = await extract_embed_with_playwright(ep["url"])
-            ep = ep.copy()
-            ep["embed_links"] = [link] if link else []
-            return ep
+            ep_copy = ep.copy()
+            ep_copy["embed_links"] = [link] if link else []
+            return ep_copy
 
     tasks = [fetch_one(ep) for ep in episodes]
     return await asyncio.gather(*tasks)
@@ -197,4 +197,3 @@ if __name__ == "__main__":
     if not os.path.exists("anizm"):
         os.makedirs("anizm")
     asyncio.run(main())
-
