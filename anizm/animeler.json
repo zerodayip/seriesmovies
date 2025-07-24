@@ -94,5 +94,23 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/fermat-no-ryouri": {
+    "group": "FERMAT NO RYOURI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/my-melody--kuromi": {
+    "group": "MY MELODY & KUROMI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/new-panty--stocking-with-garterbelt": {
+    "group": "NEW PANTY & STOCKING WITH GARTERBELT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
