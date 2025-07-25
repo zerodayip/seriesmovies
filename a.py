@@ -61,7 +61,7 @@ def save_to_json(filename, data):
     print(f"Veri '{filename}' dosyasına kaydedildi.", flush=True)
 
 if __name__ == "__main__":
-    start_url = "https://animeizlesene.com/series?filter=null"
+    start_url = "https://izle.animeizlesene.com/series?filter=null"
     result, total_pages = scrape_until_no_more_links(start_url)
 
     print("\n--- SONUÇ ---")
