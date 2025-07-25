@@ -27244,5 +27244,35 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/my-melody-kuromi/": {
+    "group": "MY MELODY & KUROMI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/hitmakers/": {
+    "group": "HITMAKERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/tales-of-the-teenage-mutant-ninja-turtles/": {
+    "group": "TALES OF THE TEENAGE MUTANT NINJA TURTLES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/rangeen/": {
+    "group": "RANGEEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/trigger/": {
+    "group": "TRIGGER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
