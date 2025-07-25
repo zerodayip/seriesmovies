@@ -31,14 +31,17 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright
           playwright install
 
-      - name: Run Dizigom Script
-        run: python private_py/series/dizigom/dizigomdizijson.py
+#      - name: Run Dizigom Script
+#        run: python private_py/series/dizigom/dizigomdizijson.py
 
-      - name: Run Sezonlukdizi Script
-        run: python private_py/series/sezonlukdizi/tumdizilerjson.py
+#      - name: Run Sezonlukdizi Script
+#        run: python private_py/series/sezonlukdizi/tumdizilerjson.py
 
-      - name: Run Anizm Script
-        run: python private_py/anime/anizm/anizimjson.py
+#      - name: Run Anizm Script
+#        run: python private_py/anime/anizm/anizimjson.py
+
+      - name: Run AnimeIzlesene Script
+        run: python private_py/anime/animeizlesene/animeizlesenejson.py
 
       - name: Commit and Push JSONs
         run: |
@@ -48,6 +51,7 @@ jobs:
           git add dizigom/*.json || echo "No dizigom files"
           git add sdizi/*.json || echo "No sezonlukdizi files"
           git add anizm/*.json || echo "No anizm files"
+          git add animeizlesene/*.json || echo "No animeizlesene files"
 
           git commit -m "All JSON güncellendi [auto]" || echo "No changes"
           git push origin main
