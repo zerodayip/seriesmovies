@@ -1,16 +1,4 @@
 {
-  "https://dizigom1.live/dizi-izle/marry-my-husband-japan/": {
-    "group": "MARRY MY HUSBAND: JAPAN",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/trigger/": {
-    "group": "TRIGGER",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
   "https://dizigom1.live/dizi-izle/rangeen/": {
     "group": "RANGEEN",
     "last_season": 1,
@@ -27,6 +15,18 @@
     "group": "RAGE (FURIA)",
     "last_season": 1,
     "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/marry-my-husband-japan/": {
+    "group": "MARRY MY HUSBAND: JAPAN",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/trigger/": {
+    "group": "TRIGGER",
+    "last_season": 1,
+    "last_episode": 10,
     "start_episode": 1
   }
 }
