@@ -1,4 +1,22 @@
 {
+  "https://sezonlukdizi6.com/diziler/phineas-and-ferb.html": {
+    "group": "PHINEAS AND FERB",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/call-of-the-night.html": {
+    "group": "CALL OF THE NIGHT",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/trigger.html": {
+    "group": "TRIGGER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/and-just-like-that.html": {
     "group": "AND JUST LIKE THAT…",
     "last_season": 3,
@@ -69,24 +87,6 @@
     "group": "COUNTDOWN",
     "last_season": 1,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/stick.html": {
-    "group": "STICK",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/the-buccaneers.html": {
-    "group": "THE BUCCANEERS",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/head-over-heels.html": {
-    "group": "HEAD OVER HEELS",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
