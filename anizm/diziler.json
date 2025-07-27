@@ -250,5 +250,41 @@
     "last_season": 1,
     "last_episode": 4,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/puniru-wa-kawaii-slime-2nd-season": {
+    "group": "PUNIRU WA KAWAII SLIME 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/busu-ni-hanataba-wo": {
+    "group": "BUSU NI HANATABA WO.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/summer-pockets": {
+    "group": "SUMMER POCKETS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/witch-watch": {
+    "group": "WITCH WATCH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/jigoku-sensei-nube-2025": {
+    "group": "JIGOKU SENSEI NUBE (2025)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/to-be-hero-x": {
+    "group": "TO BE HERO X",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
