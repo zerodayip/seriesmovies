@@ -340,5 +340,17 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/grand-blue-season-2": {
+    "group": "GRAND BLUE SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/koupen-chan": {
+    "group": "KOUPEN-CHAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
