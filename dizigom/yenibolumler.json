@@ -1,50 +1,32 @@
 {
-  "https://dizigom1.live/dizi-izle/head-over-heels/": {
-    "group": "HEAD OVER HEELS",
+  "https://dizigom1.live/dizi-izle/low-life/": {
+    "group": "LOW LIFE",
     "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/better-late-than-single/": {
-    "group": "BETTER LATE THAN SINGLE",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/rangeen/": {
-    "group": "RANGEEN",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/sakamoto-days/": {
-    "group": "SAKAMOTO DAYS",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/pati/": {
-    "group": "PATI",
-    "last_season": 2,
     "last_episode": 5,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/marry-my-husband-japan/": {
-    "group": "MARRY MY HUSBAND: JAPAN",
+  "https://dizigom1.live/dizi-izle/countdown/": {
+    "group": "COUNTDOWN",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 7,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/trigger/": {
-    "group": "TRIGGER",
-    "last_season": 1,
-    "last_episode": 10,
+  "https://dizigom1.live/dizi-izle/the-buccaneers/": {
+    "group": "THE BUCCANEERS",
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-winning-try/": {
-    "group": "THE WINNING TRY",
+  "https://dizigom1.live/dizi-izle/conversations-with-a-killer-the-son-of-sam-tapes/": {
+    "group": "CONVERSATIONS WITH A KILLER: THE SON OF SAM TAPES",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/unspeakable-sins/": {
+    "group": "UNSPEAKABLE SINS",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   }
 }
