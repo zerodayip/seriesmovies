@@ -352,5 +352,23 @@
     "last_season": 1,
     "last_episode": 17,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/city-hunter-movie-tenshi-no-namida": {
+    "group": "CITY HUNTER MOVIE: TENSHI NO NAMIDA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/inuyasha": {
+    "group": "INUYASHA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/onmyou-kaiten-rebirth": {
+    "group": "ONMYOU KAITEN RE:BIRTH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
