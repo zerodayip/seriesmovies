@@ -27280,5 +27280,35 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/wwe-unreal/": {
+    "group": "WWE: UNREAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/trainwreck-storm-area-51/": {
+    "group": "TRAINWRECK: STORM AREA 51",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/angi-fake-life-true-crime/": {
+    "group": "ANGI: FAKE LIFE, TRUE CRIME",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/unspeakable-sins/": {
+    "group": "UNSPEAKABLE SINS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/conversations-with-a-killer-the-son-of-sam-tapes/": {
+    "group": "CONVERSATIONS WITH A KILLER: THE SON OF SAM TAPES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

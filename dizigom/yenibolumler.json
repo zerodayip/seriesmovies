@@ -1,22 +1,4 @@
 {
-  "https://dizigom1.live/dizi-izle/sakamoto-days/": {
-    "group": "SAKAMOTO DAYS",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-winning-try/": {
-    "group": "THE WINNING TRY",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/rangeen/": {
-    "group": "RANGEEN",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
   "https://dizigom1.live/dizi-izle/head-over-heels/": {
     "group": "HEAD OVER HEELS",
     "last_season": 1,
@@ -27,6 +9,18 @@
     "group": "BETTER LATE THAN SINGLE",
     "last_season": 1,
     "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/rangeen/": {
+    "group": "RANGEEN",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/sakamoto-days/": {
+    "group": "SAKAMOTO DAYS",
+    "last_season": 1,
+    "last_episode": 14,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/pati/": {
@@ -45,6 +39,12 @@
     "group": "TRIGGER",
     "last_season": 1,
     "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-winning-try/": {
+    "group": "THE WINNING TRY",
+    "last_season": 1,
+    "last_episode": 2,
     "start_episode": 1
   }
 }
