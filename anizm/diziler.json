@@ -370,5 +370,29 @@
     "last_season": 1,
     "last_episode": 4,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/jitsu-wa-ore-saikyou-deshita": {
+    "group": "JITSU WA ORE, SAIKYOU DESHITA?",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/jibi-eopseo": {
+    "group": "JIBI EOPSEO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tondemo-skill-de-isekai-hourou-meshi": {
+    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/game-center-shoujo-to-ibunka-kouryuu": {
+    "group": "GAME CENTER SHOUJO TO IBUNKA KOURYUU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
