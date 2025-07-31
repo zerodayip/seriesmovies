@@ -1,62 +1,8 @@
 {
-  "https://dizigom1.live/dizi-izle/wwe-unreal/": {
-    "group": "WWE: UNREAL",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-buccaneers/": {
-    "group": "THE BUCCANEERS",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/conversations-with-a-killer-the-son-of-sam-tapes/": {
-    "group": "CONVERSATIONS WITH A KILLER: THE SON OF SAM TAPES",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/trainwreck-storm-area-51/": {
-    "group": "TRAINWRECK: STORM AREA 51",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/unspeakable-sins/": {
-    "group": "UNSPEAKABLE SINS",
-    "last_season": 1,
-    "last_episode": 18,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/sakamoto-days/": {
-    "group": "SAKAMOTO DAYS",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/head-over-heels/": {
-    "group": "HEAD OVER HEELS",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/countdown/": {
-    "group": "COUNTDOWN",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
   "https://dizigom1.live/dizi-izle/the-winning-try/": {
     "group": "THE WINNING TRY",
     "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/low-life/": {
-    "group": "LOW LIFE",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/better-late-than-single/": {
@@ -65,10 +11,64 @@
     "last_episode": 10,
     "start_episode": 1
   },
+  "https://dizigom1.live/dizi-izle/conversations-with-a-killer-the-son-of-sam-tapes/": {
+    "group": "CONVERSATIONS WITH A KILLER: THE SON OF SAM TAPES",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/head-over-heels/": {
+    "group": "HEAD OVER HEELS",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "https://dizigom1.live/dizi-izle/rick-and-morty/": {
     "group": "RICK AND MORTY",
     "last_season": 8,
     "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/sakamoto-days/": {
+    "group": "SAKAMOTO DAYS",
+    "last_season": 1,
+    "last_episode": 14,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/unspeakable-sins/": {
+    "group": "UNSPEAKABLE SINS",
+    "last_season": 1,
+    "last_episode": 18,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/wwe-unreal/": {
+    "group": "WWE: UNREAL",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/countdown/": {
+    "group": "COUNTDOWN",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/low-life/": {
+    "group": "LOW LIFE",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-buccaneers/": {
+    "group": "THE BUCCANEERS",
+    "last_season": 2,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/trainwreck-storm-area-51/": {
+    "group": "TRAINWRECK: STORM AREA 51",
+    "last_season": 1,
+    "last_episode": 2,
     "start_episode": 1
   }
 }

@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/new-panty--stocking-with-garterbelt": {
+    "group": "NEW PANTY & STOCKING WITH GARTERBELT",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/tsuyokute-new-saga": {
     "group": "TSUYOKUTE NEW SAGA",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "CITY HUNTER MOVIE: TENSHI NO NAMIDA",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/mattaku-saikin-no-tantei-to-kitara": {
-    "group": "MATTAKU SAIKIN NO TANTEI TO KITARA",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
