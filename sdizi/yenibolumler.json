@@ -1,4 +1,40 @@
 {
+  "https://sezonlukdizi6.com/diziler/eyes-of-wakanda.html": {
+    "group": "EYES OF WAKANDA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/chief-of-war.html": {
+    "group": "CHIEF OF WAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/dexter-resurrection.html": {
+    "group": "DEXTER: RESURRECTION",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/and-just-like-that.html": {
+    "group": "AND JUST LIKE THAT…",
+    "last_season": 3,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/foundation.html": {
+    "group": "FOUNDATION",
+    "last_season": 3,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/smoke.html": {
+    "group": "SMOKE",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/leanne.html": {
     "group": "LEANNE",
     "last_season": 1,
@@ -45,42 +81,6 @@
     "group": "COUNTDOWN",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/the-buccaneers.html": {
-    "group": "THE BUCCANEERS",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/around-the-world-in-80-days.html": {
-    "group": "AROUND THE WORLD IN 80 DAYS",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/tales-of-the-teenage-mutant-ninja-turtles.html": {
-    "group": "TALES OF THE TEENAGE MUTANT NINJA TURTLES",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/head-over-heels.html": {
-    "group": "HEAD OVER HEELS",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/sakamoto-days.html": {
-    "group": "SAKAMOTO DAYS",
-    "last_season": 1,
-    "last_episode": 15,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/grand-blue.html": {
-    "group": "GRAND BLUE",
-    "last_season": 2,
-    "last_episode": 4,
     "start_episode": 1
   }
 }
