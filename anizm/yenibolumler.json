@@ -1,4 +1,46 @@
 {
+  "https://anizm.com.tr/ame-to-kimi-to": {
+    "group": "AME TO KIMI TO",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/hikaru-ga-shinda-natsu": {
+    "group": "HIKARU GA SHINDA NATSU",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/bad-girl": {
+    "group": "BAD GIRL",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/sono-bisque-doll-wa-koi-wo-suru-season-2": {
+    "group": "SONO BISQUE DOLL WA KOI WO SURU SEASON 2",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
+    "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/kaoru-hana-wa-rin-to-saku": {
+    "group": "KAORU HANA WA RIN TO SAKU",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/anne-shirley": {
+    "group": "ANNE SHIRLEY",
+    "last_season": 1,
+    "last_episode": 17,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/kaijuu-8-gou-2nd-season": {
     "group": "KAIJUU 8-GOU 2ND SEASON",
     "last_season": 1,
@@ -61,42 +103,6 @@
   },
   "https://anizm.com.tr/arknights-rise-from-ember": {
     "group": "ARKNIGHTS: RISE FROM EMBER",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tougen-anki": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/takopii-no-genzai": {
-    "group": "TAKOPII NO GENZAI",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/dragon-raja-ii--the-mourners-eyes-": {
-    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/futari-solo-camp": {
-    "group": "FUTARI SOLO CAMP",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/turkey": {
-    "group": "TURKEY!",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/mizu-zokusei-no-mahoutsukai": {
-    "group": "MIZU ZOKUSEI NO MAHOUTSUKAI",
     "last_season": 1,
     "last_episode": 5,
     "start_episode": 1
