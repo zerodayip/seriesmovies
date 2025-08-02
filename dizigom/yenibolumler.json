@@ -1,14 +1,8 @@
 {
-  "https://dizigom1.live/dizi-izle/glass-heart/": {
-    "group": "GLASS HEART",
+  "https://dizigom1.live/dizi-izle/marked/": {
+    "group": "MARKED",
     "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/chief-of-war/": {
-    "group": "CHIEF OF WAR",
-    "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/eyes-of-wakanda/": {
@@ -17,10 +11,22 @@
     "last_episode": 4,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/marked/": {
-    "group": "MARKED",
+  "https://dizigom1.live/dizi-izle/pati/": {
+    "group": "PATI",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/foundation/": {
+    "group": "FOUNDATION",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-winning-try/": {
+    "group": "THE WINNING TRY",
+    "last_season": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/leanne/": {
@@ -29,10 +35,34 @@
     "last_episode": 16,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/unspeakable-sins/": {
-    "group": "UNSPEAKABLE SINS",
+  "https://dizigom1.live/dizi-izle/rage/": {
+    "group": "RAGE (FURIA)",
     "last_season": 1,
-    "last_episode": 18,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/smoke/": {
+    "group": "SMOKE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/perfect-match-2023/": {
+    "group": "PERFECT MATCH (2023)",
+    "last_season": 2,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/and-just-like-that/": {
+    "group": "AND JUST LIKE THAT…",
+    "last_season": 3,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/glass-heart/": {
+    "group": "GLASS HEART",
+    "last_season": 1,
+    "last_episode": 10,
     "start_episode": 1
   }
 }
