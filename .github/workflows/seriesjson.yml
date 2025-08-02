@@ -31,8 +31,8 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright
           playwright install
 
-#      - name: Run Dizigom Script
-#        run: python private_py/series/dizigom/dizigomdizijson.py
+      - name: Run Dizigom Script
+        run: python private_py/series/dizigom/dizigomdizijson.py
 
       - name: Run Sezonlukdizi Script
         run: python private_py/series/sezonlukdizi/tumdizilerjson.py
