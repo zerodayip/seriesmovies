@@ -1,4 +1,28 @@
 {
+  "https://anizm.com.tr/onmyou-kaiten-rebirth": {
+    "group": "ONMYOU KAITEN RE:BIRTH",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/nmeneko": {
+    "group": "NMENEKO",
+    "last_season": 1,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/busu-ni-hanataba-wo": {
+    "group": "BUSU NI HANATABA WO.",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
+    "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/silent-witch-chinmoku-no-majo-no-kakushigoto": {
     "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
     "last_season": 1,
@@ -75,30 +99,6 @@
     "group": "TSUIHOUSHA SHOKUDOU E YOUKOSO!",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/new-panty--stocking-with-garterbelt": {
-    "group": "NEW PANTY & STOCKING WITH GARTERBELT",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tsuyokute-new-saga": {
-    "group": "TSUYOKUTE NEW SAGA",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/mikadono-sanshimai-wa-angai-choroi": {
-    "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/jitsu-wa-ore-saikyou-deshita": {
-    "group": "JITSU WA ORE, SAIKYOU DESHITA?",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }
