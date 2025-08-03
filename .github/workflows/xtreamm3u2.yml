@@ -1,4 +1,4 @@
-name: Run Xtream M3U Maker
+name: Run Xtream M3U Maker 2
 
 on:
   workflow_dispatch:
