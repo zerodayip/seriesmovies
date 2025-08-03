@@ -1,4 +1,34 @@
 {
+  "https://anizm.com.tr/jibaku-shounen-hanako-kun-2-part-2": {
+    "group": "JIBAKU SHOUNEN HANAKO-KUN 2 PART 2",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/watari-kun-no-xx-ga-houkai-sunzen": {
+    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru": {
+    "group": "SAIKYOU TANK NO MEIKYUU KOURYAKU: TAIRYOKU 9999 NO RARE SKILL-MOCHI TANK, YUUSHA PARTY WO TSUIHOU SARERU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/puniru-wa-kawaii-slime-2nd-season": {
+    "group": "PUNIRU WA KAWAII SLIME 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/witch-watch": {
+    "group": "WITCH WATCH",
+    "last_season": 1,
+    "last_episode": 17,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/ame-to-kimi-to": {
     "group": "AME TO KIMI TO",
     "last_season": 1,
@@ -75,36 +105,6 @@
     "group": "NMENEKO",
     "last_season": 1,
     "last_episode": 14,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/busu-ni-hanataba-wo": {
-    "group": "BUSU NI HANATABA WO.",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
-    "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/silent-witch-chinmoku-no-majo-no-kakushigoto": {
-    "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/yofukashi-no-uta-2nd-season": {
-    "group": "YOFUKASHI NO UTA 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/arknights-rise-from-ember": {
-    "group": "ARKNIGHTS: RISE FROM EMBER",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }

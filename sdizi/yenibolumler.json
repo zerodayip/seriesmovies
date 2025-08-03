@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/transporter-the-series.html": {
+    "group": "TRANSPORTER: THE SERIES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/my-dress-up-darling.html": {
     "group": "MY DRESS-UP DARLING",
     "last_season": 2,
@@ -75,12 +81,6 @@
     "group": "DR. STONE",
     "last_season": 4,
     "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/dandadan.html": {
-    "group": "DANDADAN",
-    "last_season": 2,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
