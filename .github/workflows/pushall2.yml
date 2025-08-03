@@ -1,4 +1,4 @@
-name: Push All M3U Playlists to m3u8file Repo Root 2
+name: Push All M3U Playlists to m3u8file Repo Root
 
 on:
   workflow_dispatch:
