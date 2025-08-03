@@ -47,11 +47,10 @@ jobs:
 
       - name: Commit group_order.json to Public Repo
         run: |
-          # Eğer xtream dizini yoksa yarat
           mkdir -p xtream
-          # group_order.json zaten script ile xtream içinde oluşturulmuş oluyor
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+          git pull --rebase origin main || echo "Pull yapılamadı"
           git add xtream/group_order.json || echo "group_order.json yok veya eklenemedi"
           git commit -m "group_order.json güncellendi [auto]" || echo "No changes to group_order.json"
           git push origin main
@@ -70,6 +69,7 @@ jobs:
           cd private_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+          git pull --rebase origin main || echo "Pull yapılamadı"
           git add xtream/*.m3u || echo "No M3U to add"
           git commit -m "Xtream M3U dosyaları güncellendi [auto]" || echo "No changes"
           git push origin main
