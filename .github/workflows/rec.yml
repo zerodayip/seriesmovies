@@ -34,7 +34,7 @@ jobs:
           pip install aiohttp aiofiles requests
 
       - name: Run RecTV Script
-        run: python private_py/rectv/grouptitlefarkli.py
+        run: python private_py/rectv/rectv.py
 
       # ✅ Sadece m3u8file/rec klasörüne push
       - name: Clone Private m3u8file Repo
