@@ -43,7 +43,7 @@ jobs:
           GH_TOKEN4: ${{ secrets.GH_TOKEN4 }}
           GH_TOKEN5: ${{ secrets.GH_TOKEN5 }}
         run: |
-          python private_py/series/birlestir.py
+          python private_py/series/birlestirtoken.py
 
       - name: Clone Private m3u8file Repo
         run: |
