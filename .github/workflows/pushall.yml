@@ -11,7 +11,6 @@ jobs:
 
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      BIRLESTIR_TOKEN: ${{ secrets.BIRLESTIR_TOKEN }}
 
     steps:
       - name: Checkout (public kod)
@@ -34,7 +33,7 @@ jobs:
       # Scriptlerini burada çalıştırabilirsin
       - name: Birleştirici / Üretici scriptleri çalıştır
         env:
-         BIRLESTIR_TOKEN: ${{ secrets.BIRLESTIR_TOKEN }}
+         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           python private_py/series/birlestir.py
 
