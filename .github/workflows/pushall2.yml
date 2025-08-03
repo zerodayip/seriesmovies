@@ -2,8 +2,6 @@ name: Push All M3U Playlists to m3u8file Repo Root 2
 
 on:
   workflow_dispatch:
-#  schedule:
-#    - cron: '0 */7 * * *'
 
 jobs:
   push-m3u-to-root:
@@ -17,25 +15,28 @@ jobs:
       GH_TOKEN5: ${{ secrets.GH_TOKEN5 }}
 
     steps:
-      - name: Checkout (public kod)
+      - name: Checkout public repo (bu workflow'un olduğu repo)
         uses: actions/checkout@v4
+
+      - name: Checkout private_py repo
+        uses: actions/checkout@v4
+        with:
+          repository: zerodayip/Py
+          token: ${{ secrets.GH_TOKEN1 }}
+          path: private_py
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Clone Private Py Repo
-        run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN1 }}@github.com/zerodayip/Py.git private_py
-
       - name: Install Python dependencies
         run: |
           pip install --upgrade pip
           pip install requests
 
-      # Birleştirici scripti çalıştır (çoklu token destekli)
-      - name: Birleştirici / Üretici scriptleri çalıştır
+      - name: Run birleştirici / üretici scriptleri
         env:
           GH_TOKEN1: ${{ secrets.GH_TOKEN1 }}
           GH_TOKEN2: ${{ secrets.GH_TOKEN2 }}
@@ -45,20 +46,26 @@ jobs:
         run: |
           python private_py/series/birlestirtoken.py
 
-      - name: Clone Private m3u8file Repo
-        run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN1 }}@github.com/zerodayip/m3u8file.git private_m3u8file
+      - name: Checkout private m3u8file repo
+        uses: actions/checkout@v4
+        with:
+          repository: zerodayip/m3u8file
+          token: ${{ secrets.GH_TOKEN1 }}
+          path: private_m3u8file
+          fetch-depth: 0
 
-      # Tüm m3u dosyalarını ana dizine kopyala
       - name: Copy all M3U files to root of m3u8file repo
         run: |
           find . -maxdepth 2 -type f -name "*.m3u" -exec cp {} private_m3u8file/ \;
 
-      - name: Commit and Push all M3U to m3u8file Repo
+      - name: Commit and push M3U files
         run: |
           cd private_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add *.m3u || echo "No M3U to add"
-          git commit -m "Tüm M3U dosyaları güncellendi [auto]" || echo "No changes"
+          git commit -m "Tüm M3U dosyaları güncellendi [auto]" || echo "No changes to commit"
+          # Remote URL'yi PAT ile tekrar ayarla (push için)
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN1 }}@github.com/zerodayip/m3u8file.git
           git push origin main
+
