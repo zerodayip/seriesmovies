@@ -2,10 +2,10 @@ name: Run Xtream M3U Maker
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Push All M3U Playlists to m3u8file Repo Root"]
-    types:
-      - completed
+#  workflow_run:
+#    workflows: ["Push All M3U Playlists to m3u8file Repo Root"]
+#    types:
+#      - completed
 
 jobs:
   run-xtream-m3u:
