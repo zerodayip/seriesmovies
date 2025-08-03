@@ -47,7 +47,7 @@ jobs:
 
       - name: Clone Private m3u8file Repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file
+          git clone https://x-access-token:${{ secrets.GH_TOKEN1 }}@github.com/zerodayip/m3u8file.git private_m3u8file
 
       # Tüm m3u dosyalarını ana dizine kopyala
       - name: Copy all M3U files to root of m3u8file repo
