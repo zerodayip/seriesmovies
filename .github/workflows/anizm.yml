@@ -1,0 +1,58 @@
+name: Run Anizm
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run-anizm:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Python Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml playwright
+          playwright install
+
+      - name: Run Anizm Script
+        run: python private_py/anime/anizm/yenibolumler.py
+
+      - name: Commit and Push JSON to Public Repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add anizm/*.json || echo "No JSON files"
+          git commit -m "Anizm JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Clone Private Anizm Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/anizm.git private_anizm
+
+      - name: Copy All to Private Anizm Repo
+        run: |
+          rsync -a anizm/ private_anizm/
+
+      - name: Commit and Push All Files to Private Anizm Repo
+        run: |
+          cd private_anizm
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Anizm çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
