@@ -2,7 +2,7 @@
   "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
     "group": "BEYOND THE BAR",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/rage/": {
@@ -38,7 +38,7 @@
   "https://dizigom1.live/dizi-izle/the-yogurt-shop-murders/": {
     "group": "THE YOGURT SHOP MURDERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/the-winning-try/": {
@@ -61,8 +61,8 @@
   },
   "https://dizigom1.live/dizi-izle/king-of-the-hill/": {
     "group": "KING OF THE HILL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 14,
+    "last_episode": 10,
     "start_episode": 1
   }
 }
