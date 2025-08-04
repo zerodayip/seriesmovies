@@ -3,7 +3,7 @@ name: Run All JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'  # Her 12 saatte bir
+    - cron: '0 */10 * * *'  # Her 12 saatte bir
 
 jobs:
   run-make-json:
