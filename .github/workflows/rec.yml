@@ -3,7 +3,7 @@ name: Run RecTV Script and Push to m3u8file/rec
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 */11 * * *'
+    - cron: '20 */10 * * *'
 
 jobs:
   run-rectv:
