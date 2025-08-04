@@ -1,0 +1,242 @@
+name: Sequential Unified Pipeline (Optimized Single Job)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */10 * * *'  # Her 10 saatte bir
+
+jobs:
+  full-sequence:
+    name: Full Sequential Pipeline
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GH_TOKEN1: ${{ secrets.GH_TOKEN1 }}
+      GH_TOKEN2: ${{ secrets.GH_TOKEN2 }}
+      GH_TOKEN3: ${{ secrets.GH_TOKEN3 }}
+      GH_TOKEN4: ${{ secrets.GH_TOKEN4 }}
+      GH_TOKEN5: ${{ secrets.GH_TOKEN5 }}
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-cache-${{ runner.os }}-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            pip-cache-${{ runner.os }}-
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles
+          playwright install
+
+      # 1. Run All JSON (dizigom, sezonlukdizi, anizm)
+      - name: Run Dizigom JSON Script
+        run: python private_py/series/dizigom/dizigomdizijson.py
+
+      - name: Run Sezonlukdizi JSON Script
+        run: python private_py/series/sezonlukdizi/tumdizilerjson.py
+
+      - name: Run Anizm JSON Script
+        run: python private_py/anime/anizm/anizimjson.py
+
+      - name: Commit and Push All JSONs to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dizigom/*.json || echo "No dizigom files"
+          git add sdizi/*.json || echo "No sezonlukdizi files"
+          git add anizm/*.json || echo "No anizm files"
+          git add animeizlesene/*.json || echo "No animeizlesene files"
+          git commit -m "All JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      # 2. Sezonlukdizi M3U Maker (yenibolumler) + push to its public + private repo
+      - name: Run SezonlukDizi yenibolumler.py
+        run: python private_py/series/sezonlukdizi/yenibolumler.py
+
+      - name: Commit and Push SezonlukDizi JSON to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add sdizi/*.json || echo "No JSON files"
+          git commit -m "SezonlukDizi JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Sync SezonlukDizi output to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/sezonlukdizi.git private_sezonlukdizi
+          rsync -a sdizi/ private_sezonlukdizi/
+          cd private_sezonlukdizi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      # 3. Dizigom M3U Maker
+      - name: Run Dizigom yenibolumler.py
+        run: python private_py/series/dizigom/yenibolumler.py
+
+      - name: Commit and Push Dizigom JSON to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dizigom/*.json || echo "No JSON files"
+          git commit -m "Dizigom JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Sync Dizigom output to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizigom.git private_dizigom
+          rsync -a dizigom/ private_dizigom/
+          cd private_dizigom
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      # 4. Anizm M3U Maker
+      - name: Run Anizm yenibolumler.py
+        run: python private_py/anime/anizm/yenibolumler.py
+
+      - name: Commit and Push Anizm JSON to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add anizm/*.json || echo "No JSON files"
+          git commit -m "Anizm JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Sync Anizm output to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/anizm.git private_anizm
+          rsync -a anizm/ private_anizm/
+          cd private_anizm
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Anizm çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      # 5. YeniJSON to AnaJSON
+      - name: Run yenibolumdenanajsona Script
+        run: python private_py/series/yenibolumdenanajsona.py
+
+      - name: Commit and Push Ana JSONs to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dizigom/*.json sdizi/*.json anizm/*.json || echo "No files"
+          git commit -m "All Ana JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      # 6. RecTV Script
+      - name: Run RecTV Script
+        run: python private_py/rectv/rectv.py
+
+      - name: Sync RecTV outputs to private m3u8file repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file
+          mkdir -p private_m3u8file/rec
+          cp r/reccanli.m3u private_m3u8file/rec/ || echo "reccanli.m3u kopyalanamadı"
+          cp r/recfilm.m3u private_m3u8file/rec/ || echo "recfilm.m3u kopyalanamadı"
+          cp r/recdizi.m3u private_m3u8file/rec/ || echo "recdizi.m3u kopyalanamadı"
+          cp r/recanime.m3u private_m3u8file/rec/ || echo "recanime.m3u kopyalanamadı"
+          cd private_m3u8file
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add rec/reccanli.m3u rec/recfilm.m3u rec/recdizi.m3u rec/recanime.m3u
+          git commit -m "RecTV çıktıları rec klasörüne güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      # 7. Birleştirici / m3u root push
+      - name: Run birleştirtoken Script
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN1 }}@github.com/zerodayip/Py.git private_py_root
+          python private_py_root/series/birlestirtoken.py
+
+      - name: Copy all M3U to m3u8file root and push
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN1 }}@github.com/zerodayip/m3u8file.git private_m3u8file_root
+          find . -maxdepth 2 -type f -name "*.m3u" -exec cp {} private_m3u8file_root/ \;
+          cd private_m3u8file_root
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add *.m3u || echo "No M3U to add"
+          git commit -m "Tüm M3U dosyaları güncellendi [auto]" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN1 }}@github.com/zerodayip/m3u8file.git
+          git push origin main
+
+      # 8. Xtream M3U Maker
+      - name: Run Xtream Film Script
+        run: python private_py/xtream/film.py
+
+      - name: Run Xtream Series Script
+        run: python private_py/xtream/series2.py
+
+      - name: Commit group_order.json to public repo
+        run: |
+          mkdir -p xtream
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git pull --rebase origin main || echo "Pull failed"
+          git add xtream/group_order.json || echo "No group_order.json"
+          git commit -m "group_order.json güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Sync Xtream M3U to private m3u8file
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file_xtream
+          mkdir -p private_m3u8file_xtream/xtream
+          rsync -a xtream/ private_m3u8file_xtream/xtream/ --include="*.m3u" --exclude="*"
+          cd private_m3u8file_xtream
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git pull --rebase origin main || echo "Pull failed"
+          git add xtream/*.m3u || echo "No M3U to add"
+          git commit -m "Xtream M3U dosyaları güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      # 9. Xtream JSON Maker
+      - name: Run Xtream convert.py
+        run: python private_py/xtream/convert.py
+
+      - name: Commit times.json to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtream/times.json || echo "No times.json"
+          git commit -m "times.json güncellendi [auto]" || echo "No changes"
+          git pull --rebase origin main || echo "No upstream changes"
+          git push origin main || echo "No push needed"
+
+      - name: Sync Xtream JSON to m3u8file repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git m3u8file_repo_json
+          mkdir -p m3u8file_repo_json/xtreamjson
+          find xtream -name "*.json" ! -name "times.json" -exec cp {} m3u8file_repo_json/xtreamjson/ \;
+          cd m3u8file_repo_json
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtreamjson/*.json || echo "No JSON files to add"
+          git commit -m "Xtream JSON dosyaları xtreamjson klasörüne eklendi [auto]" || echo "No changes"
+          git pull --rebase origin main || echo "No upstream changes"
+          git push origin main || echo "No push needed"
