@@ -2,6 +2,8 @@ name: Push All M3U Playlists to m3u8file Repo Root
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 */10 * * *'
 
 jobs:
   push-m3u-to-root:
