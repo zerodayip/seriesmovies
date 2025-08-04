@@ -3,7 +3,7 @@ name: Run Yenijson to Anajson
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */11 * * *'
+    - cron: '0 */12 * * *'
 
 jobs:
   run-yenitoana-json:
