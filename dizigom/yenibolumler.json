@@ -1,14 +1,20 @@
 {
+  "https://dizigom1.live/dizi-izle/glass-heart/": {
+    "group": "GLASS HEART",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "https://dizigom1.live/dizi-izle/king-of-the-hill/": {
     "group": "KING OF THE HILL",
     "last_season": 14,
     "last_episode": 10,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/and-just-like-that/": {
-    "group": "AND JUST LIKE THAT…",
-    "last_season": 3,
-    "last_episode": 10,
+  "https://dizigom1.live/dizi-izle/leanne/": {
+    "group": "LEANNE",
+    "last_season": 1,
+    "last_episode": 16,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/pati/": {
@@ -23,10 +29,10 @@
     "last_episode": 4,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/rage/": {
-    "group": "RAGE (FURIA)",
+  "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
+    "group": "BEYOND THE BAR",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 2,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/the-yogurt-shop-murders/": {
@@ -35,34 +41,28 @@
     "last_episode": 1,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/glass-heart/": {
-    "group": "GLASS HEART",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/leanne/": {
-    "group": "LEANNE",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-winning-try/": {
-    "group": "THE WINNING TRY",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
   "https://dizigom1.live/dizi-izle/perfect-match-2023/": {
     "group": "PERFECT MATCH (2023)",
     "last_season": 3,
     "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
-    "group": "BEYOND THE BAR",
+  "https://dizigom1.live/dizi-izle/and-just-like-that/": {
+    "group": "AND JUST LIKE THAT…",
+    "last_season": 3,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/rage/": {
+    "group": "RAGE (FURIA)",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-winning-try/": {
+    "group": "THE WINNING TRY",
+    "last_season": 1,
+    "last_episode": 4,
     "start_episode": 1
   }
 }
