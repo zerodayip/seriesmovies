@@ -2,8 +2,10 @@ name: XTREAM MAKER
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '20 */11 * * *'
+  workflow_run:
+    workflows: ["M3U MAKER"]
+    types:
+      - completed
 
 jobs:
   push-m3u-to-root:
