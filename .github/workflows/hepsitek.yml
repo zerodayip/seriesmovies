@@ -2,8 +2,8 @@ name: Sequential Unified Pipeline (Optimized Single Job)
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 */5 * * *'  # Her 5 saatte bir
+#  schedule:
+#    - cron: '0 */5 * * *'  # Her 5 saatte bir
 
 jobs:
   full-sequence:
