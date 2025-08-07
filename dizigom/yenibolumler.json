@@ -1,56 +1,8 @@
 {
-  "https://dizigom1.live/dizi-izle/wednesday/": {
-    "group": "WEDNESDAY",
-    "last_season": 2,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/acapulco/": {
-    "group": "ACAPULCO",
-    "last_season": 4,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/low-life/": {
-    "group": "LOW LIFE",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/king-of-the-hill/": {
-    "group": "KING OF THE HILL",
-    "last_season": 14,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/sakamoto-days/": {
-    "group": "SAKAMOTO DAYS",
-    "last_season": 1,
-    "last_episode": 15,
-    "start_episode": 1
-  },
   "https://dizigom1.live/dizi-izle/eyes-of-wakanda/": {
     "group": "EYES OF WAKANDA",
     "last_season": 1,
     "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/pati/": {
-    "group": "PATI",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-buccaneers/": {
-    "group": "THE BUCCANEERS",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/perfect-match-2023/": {
-    "group": "PERFECT MATCH (2023)",
-    "last_season": 3,
-    "last_episode": 6,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/platonic/": {
@@ -59,10 +11,22 @@
     "last_episode": 2,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
-    "group": "BEYOND THE BAR",
+  "https://dizigom1.live/dizi-izle/rage/": {
+    "group": "RAGE (FURIA)",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/sakamoto-days/": {
+    "group": "SAKAMOTO DAYS",
+    "last_season": 1,
+    "last_episode": 15,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/low-life/": {
+    "group": "LOW LIFE",
+    "last_season": 1,
+    "last_episode": 9,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/countdown/": {
@@ -71,22 +35,58 @@
     "last_episode": 9,
     "start_episode": 1
   },
+  "https://dizigom1.live/dizi-izle/wednesday/": {
+    "group": "WEDNESDAY",
+    "last_season": 2,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/king-of-the-hill/": {
+    "group": "KING OF THE HILL",
+    "last_season": 14,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-buccaneers/": {
+    "group": "THE BUCCANEERS",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/acapulco/": {
+    "group": "ACAPULCO",
+    "last_season": 4,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
+    "group": "BEYOND THE BAR",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "https://dizigom1.live/dizi-izle/the-yogurt-shop-murders/": {
     "group": "THE YOGURT SHOP MURDERS",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/rage/": {
-    "group": "RAGE (FURIA)",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
   "https://dizigom1.live/dizi-izle/the-winning-try/": {
     "group": "THE WINNING TRY",
     "last_season": 1,
     "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/perfect-match-2023/": {
+    "group": "PERFECT MATCH (2023)",
+    "last_season": 3,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/pati/": {
+    "group": "PATI",
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
