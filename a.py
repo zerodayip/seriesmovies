@@ -1,4 +1,5 @@
 import asyncio
+import re
 import httpx
 from bs4 import BeautifulSoup
 
@@ -11,6 +12,8 @@ HEADERS = {
                   "Chrome/115.0.0.0 Safari/537.36",
     "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
 }
+
+episode_pattern = re.compile(r"^\d+\. Bölüm$")
 
 async def fetch_list(client):
     r = await client.get(LIST_URL)
@@ -33,19 +36,17 @@ async def fetch_list(client):
 async def fetch_details(show, client):
     try:
         r = await client.get(show["link"])
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, "html.parser")
-
-        # Bölüm listesi (ilk bölümden son bölüme sıralı)
-        episodes = []
-        for opt in soup.select('#seasonWithJs option[data-href]'):
-            bolum_no = opt.text.strip()
-            bolum_link = BASE_URL + opt.get("data-href").strip()
-            episodes.append({"bolum": bolum_no, "link": bolum_link})
-
-        episodes.reverse()  # Eski → yeni sıralama
-        show["episodes"] = episodes
-
+        if r.status_code == 200:
+            soup = BeautifulSoup(r.text, "html.parser")
+            episodes = []
+            for opt in soup.select('#seasonWithJs option[data-href]'):
+                bolum_no = opt.text.strip()
+                if not episode_pattern.match(bolum_no):
+                    continue  # format uymuyorsa geç
+                bolum_link = BASE_URL + opt.get("data-href").strip()
+                episodes.append({"bolum": bolum_no, "link": bolum_link})
+            # Eski → yeni sıralama (en eski bölüm en altta)
+            show["episodes"] = list(reversed(episodes))
     except Exception as e:
         show["episodes"] = [{"bolum": "Hata", "link": str(e)}]
     return show
