@@ -1,1 +1,55 @@
+import asyncio
+import httpx
+from bs4 import BeautifulSoup
+
+BASE_URL = "https://www.showtv.com.tr"
+LIST_URL = f"{BASE_URL}/diziler"
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/115.0.0.0 Safari/537.36",
+    "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
+}
+
+async def fetch_list():
+    async with httpx.AsyncClient(headers=HEADERS) as client:
+        r = await client.get(LIST_URL)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        shows = []
+        for slide in soup.select("div.swiper-slide a"):
+            name = slide.get("title", "").strip()
+            link = BASE_URL + slide.get("href", "").strip()
+            img_tag = slide.select_one("img")
+            img_url = img_tag.get("src", "").strip() if img_tag else ""
+            shows.append({"name": name, "link": link, "img": img_url})
+        return shows
+
+async def fetch_details(show, client):
+    # Burada detay sayfasından ekstra bilgi çekebilirsin
+    r = await client.get(show["link"])
+    if r.status_code == 200:
+        soup = BeautifulSoup(r.text, "html.parser")
+        # Örnek: Özet metnini çekelim
+        summary_tag = soup.select_one("meta[name='description']")
+        show["summary"] = summary_tag["content"].strip() if summary_tag else None
+    return show
+
+async def main():
+    shows = await fetch_list()
+    async with httpx.AsyncClient(headers=HEADERS) as client:
+        tasks = [fetch_details(show, client) for show in shows]
+        results = await asyncio.gather(*tasks)
+
+    for s in results:
+        print(f"Ad: {s['name']}")
+        print(f"Link: {s['link']}")
+        print(f"Resim: {s['img']}")
+        print(f"Özet: {s.get('summary')}")
+        print("-" * 50)
+
+if __name__ == "__main__":
+    asyncio.run(main())
 
