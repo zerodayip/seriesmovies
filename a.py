@@ -33,12 +33,21 @@ async def fetch_list(client):
 async def fetch_details(show, client):
     try:
         r = await client.get(show["link"])
-        if r.status_code == 200:
-            soup = BeautifulSoup(r.text, "html.parser")
-            summary_tag = soup.select_one("meta[name='description']")
-            show["summary"] = summary_tag["content"].strip() if summary_tag else None
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        # Bölüm listesi (ilk bölümden son bölüme sıralı)
+        episodes = []
+        for opt in soup.select('#seasonWithJs option[data-href]'):
+            bolum_no = opt.text.strip()
+            bolum_link = BASE_URL + opt.get("data-href").strip()
+            episodes.append({"bolum": bolum_no, "link": bolum_link})
+
+        episodes.reverse()  # Eski → yeni sıralama
+        show["episodes"] = episodes
+
     except Exception as e:
-        show["summary"] = f"Hata: {e}"
+        show["episodes"] = [{"bolum": "Hata", "link": str(e)}]
     return show
 
 async def main():
@@ -50,9 +59,9 @@ async def main():
 
     for s in results:
         print(f"Ad: {s['name']}")
-        print(f"Link: {s['link']}")
         print(f"Resim: {s['img']}")
-        print(f"Özet: {s.get('summary')}")
+        for ep in s.get("episodes", []):
+            print(f"  {ep['bolum']}: {ep['link']}")
         print("-" * 50)
 
 if __name__ == "__main__":
