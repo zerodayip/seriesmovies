@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/dragon-raja-ii--the-mourners-eyes-": {
+    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/mikadono-sanshimai-wa-angai-choroi": {
     "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "MATTAKU SAIKIN NO TANTEI TO KITARA",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kakkou-no-iinazuke-season-2": {
-    "group": "KAKKOU NO IINAZUKE SEASON 2",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
