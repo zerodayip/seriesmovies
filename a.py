@@ -12,34 +12,35 @@ HEADERS = {
     "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
 }
 
-async def fetch_list():
-    async with httpx.AsyncClient(headers=HEADERS) as client:
-        r = await client.get(LIST_URL)
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, "html.parser")
+async def fetch_list(client):
+    r = await client.get(LIST_URL)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
 
-        shows = []
-        for slide in soup.select("div.swiper-slide a"):
-            name = slide.get("title", "").strip()
-            link = BASE_URL + slide.get("href", "").strip()
-            img_tag = slide.select_one("img")
-            img_url = img_tag.get("src", "").strip() if img_tag else ""
-            shows.append({"name": name, "link": link, "img": img_url})
-        return shows
+    shows = []
+    for slide in soup.select("div.swiper-slide a"):
+        name = slide.get("title", "").strip()
+        link = BASE_URL + slide.get("href", "").strip()
+        img_tag = slide.select_one("img")
+        img_url = img_tag.get("src", "").strip() if img_tag else ""
+        shows.append({"name": name, "link": link, "img": img_url})
+    return shows
 
 async def fetch_details(show, client):
-    # Burada detay sayfasından ekstra bilgi çekebilirsin
-    r = await client.get(show["link"])
-    if r.status_code == 200:
-        soup = BeautifulSoup(r.text, "html.parser")
-        # Örnek: Özet metnini çekelim
-        summary_tag = soup.select_one("meta[name='description']")
-        show["summary"] = summary_tag["content"].strip() if summary_tag else None
+    try:
+        r = await client.get(show["link"])
+        if r.status_code == 200:
+            soup = BeautifulSoup(r.text, "html.parser")
+            summary_tag = soup.select_one("meta[name='description']")
+            show["summary"] = summary_tag["content"].strip() if summary_tag else None
+    except Exception as e:
+        show["summary"] = f"Hata: {e}"
     return show
 
 async def main():
-    shows = await fetch_list()
-    async with httpx.AsyncClient(headers=HEADERS) as client:
+    transport = httpx.AsyncHTTPTransport(retries=3, local_address="0.0.0.0")
+    async with httpx.AsyncClient(headers=HEADERS, timeout=20, transport=transport) as client:
+        shows = await fetch_list(client)
         tasks = [fetch_details(show, client) for show in shows]
         results = await asyncio.gather(*tasks)
 
@@ -52,4 +53,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-
