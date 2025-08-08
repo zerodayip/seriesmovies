@@ -18,11 +18,15 @@ async def fetch_list(client):
     soup = BeautifulSoup(r.text, "html.parser")
 
     shows = []
-    for slide in soup.select("div.swiper-slide a"):
-        name = slide.get("title", "").strip()
-        link = BASE_URL + slide.get("href", "").strip()
-        img_tag = slide.select_one("img")
+    for box in soup.select('div[data-name="box-type6"]'):
+        link_tag = box.select_one("a.group")
+        img_tag = box.select_one("img")
+        name_tag = box.select_one("figcaption span")
+
+        link = BASE_URL + link_tag.get("href", "").strip() if link_tag else ""
         img_url = img_tag.get("src", "").strip() if img_tag else ""
+        name = name_tag.get_text(strip=True) if name_tag else ""
+
         shows.append({"name": name, "link": link, "img": img_url})
     return shows
 
