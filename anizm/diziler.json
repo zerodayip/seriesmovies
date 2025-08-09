@@ -418,5 +418,11 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/yuzuki-san-chi-no-yonkyoudai": {
+    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

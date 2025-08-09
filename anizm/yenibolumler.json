@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/yuzuki-san-chi-no-yonkyoudai": {
+    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
     "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "JIDOU HANBAIKI NI UMAREKAWATTA ORE WA MEIKYUU WO SAMAYOU 2ND SEASON",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tate-no-yuusha-no-nariagari-season-4": {
-    "group": "TATE NO YUUSHA NO NARIAGARI SEASON 4",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
