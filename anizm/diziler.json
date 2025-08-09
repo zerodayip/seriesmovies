@@ -424,5 +424,11 @@
     "last_season": 1,
     "last_episode": 5,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/sasaki-to-pii-chan": {
+    "group": "SASAKI TO PII-CHAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
