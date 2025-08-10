@@ -1,4 +1,28 @@
 {
+  "https://anizm.com.tr/witch-watch": {
+    "group": "WITCH WATCH",
+    "last_season": 1,
+    "last_episode": 18,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/busu-ni-hanataba-wo": {
+    "group": "BUSU NI HANATABA WO.",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/to-be-hero-x": {
+    "group": "TO BE HERO X",
+    "last_season": 1,
+    "last_episode": 18,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/bad-girl": {
+    "group": "BAD GIRL",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
     "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
     "last_season": 1,
@@ -79,30 +103,6 @@
   },
   "https://anizm.com.tr/arknights-rise-from-ember": {
     "group": "ARKNIGHTS: RISE FROM EMBER",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/yofukashi-no-uta-2nd-season": {
-    "group": "YOFUKASHI NO UTA 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/silent-witch-chinmoku-no-majo-no-kakushigoto": {
-    "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tougen-anki": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/dragon-raja-ii--the-mourners-eyes-": {
-    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1

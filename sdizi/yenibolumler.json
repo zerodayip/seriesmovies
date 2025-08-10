@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/to-be-hero-x.html": {
+    "group": "TO BE HERO X",
+    "last_season": 1,
+    "last_episode": 18,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/my-dress-up-darling.html": {
     "group": "MY DRESS-UP DARLING",
     "last_season": 2,
@@ -81,12 +87,6 @@
     "group": "SOUTH PARK",
     "last_season": 27,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/its-always-sunny-in-philadelphia.html": {
-    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
-    "last_season": 17,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
