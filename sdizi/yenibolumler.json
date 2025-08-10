@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1138,
+    "start_episode": 1120
+  },
   "https://sezonlukdizi6.com/diziler/gachiakuta.html": {
     "group": "GACHIAKUTA",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "FOUNDATION",
     "last_season": 3,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/smoke.html": {
-    "group": "SMOKE",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
