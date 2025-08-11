@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/hotel-inhumans": {
+    "group": "HOTEL INHUMANS",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/ame-to-kimi-to": {
     "group": "AME TO KIMI TO",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "https://anizm.com.tr/onmyou-kaiten-rebirth": {
     "group": "ONMYOU KAITEN RE:BIRTH",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kizetsu-yuusha-to-ansatsu-hime": {
-    "group": "KIZETSU YUUSHA TO ANSATSU HIME",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
