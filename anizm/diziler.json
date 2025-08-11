@@ -430,5 +430,11 @@
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/dungeons--television": {
+    "group": "DUNGEONS & TELEVISION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
