@@ -1,4 +1,28 @@
 {
+  "https://anizm.com.tr/mattaku-saikin-no-tantei-to-kitara": {
+    "group": "MATTAKU SAIKIN NO TANTEI TO KITARA",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/kakkou-no-iinazuke-season-2": {
+    "group": "KAKKOU NO IINAZUKE SEASON 2",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/nintama-rantarou-movie-dokutake-ninja-tai-saikyou-no-gunshi": {
+    "group": "NINTAMA RANTAROU MOVIE: DOKUTAKE NINJA TAI SAIKYOU NO GUNSHI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/food-court-de-mata-ashita": {
+    "group": "FOOD COURT DE, MATA ASHITA.",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/koupen-chan": {
     "group": "KOUPEN-CHAN",
     "last_season": 1,
@@ -81,30 +105,6 @@
     "group": "WITCH WATCH",
     "last_season": 1,
     "last_episode": 19,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/busu-ni-hanataba-wo": {
-    "group": "BUSU NI HANATABA WO.",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/to-be-hero-x": {
-    "group": "TO BE HERO X",
-    "last_season": 1,
-    "last_episode": 19,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/bad-girl": {
-    "group": "BAD GIRL",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
-    "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
