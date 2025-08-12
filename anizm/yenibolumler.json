@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/koupen-chan": {
+    "group": "KOUPEN-CHAN",
+    "last_season": 1,
+    "last_episode": 18,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta": {
     "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?)",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "https://anizm.com.tr/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
     "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kaoru-hana-wa-rin-to-saku": {
-    "group": "KAORU HANA WA RIN TO SAKU",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
