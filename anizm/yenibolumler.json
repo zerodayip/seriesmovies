@@ -1,4 +1,28 @@
 {
+  "https://anizm.com.tr/futari-solo-camp": {
+    "group": "FUTARI SOLO CAMP",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/mizu-zokusei-no-mahoutsukai": {
+    "group": "MIZU ZOKUSEI NO MAHOUTSUKAI",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tsuihousha-shokudou-e-youkoso": {
+    "group": "TSUIHOUSHA SHOKUDOU E YOUKOSO!",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/dandadan-2nd-season": {
+    "group": "DANDADAN 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/new-panty--stocking-with-garterbelt": {
     "group": "NEW PANTY & STOCKING WITH GARTERBELT",
     "last_season": 1,
@@ -81,30 +105,6 @@
     "group": "KIJIN GENTOUSHOU",
     "last_season": 1,
     "last_episode": 18,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/dungeons--television": {
-    "group": "DUNGEONS & TELEVISION",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/grand-blue-season-2": {
-    "group": "GRAND BLUE SEASON 2",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/hotel-inhumans": {
-    "group": "HOTEL INHUMANS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/ame-to-kimi-to": {
-    "group": "AME TO KIMI TO",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }

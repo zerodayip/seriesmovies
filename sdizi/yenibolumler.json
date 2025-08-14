@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/dandadan.html": {
+    "group": "DANDADAN",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/miss-governor.html": {
     "group": "MISS GOVERNOR",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "SAKAMOTO DAYS",
     "last_season": 1,
     "last_episode": 17,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/the-gilded-age.html": {
-    "group": "THE GILDED AGE",
-    "last_season": 3,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
