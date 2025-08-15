@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/kanojo-okarishimasu-4th-season": {
+    "group": "KANOJO, OKARISHIMASU 4TH SEASON",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/mikadono-sanshimai-wa-angai-choroi": {
+    "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/futari-solo-camp": {
     "group": "FUTARI SOLO CAMP",
     "last_season": 1,
@@ -33,6 +45,12 @@
     "group": "TSUYOKUTE NEW SAGA",
     "last_season": 1,
     "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season": {
+    "group": "TENSEI SHITARA DAINANA OUJI DATTA NODE, KIMAMA NI MAJUTSU WO KIWAMEMASU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
   "https://anizm.com.tr/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season": {
@@ -87,18 +105,6 @@
     "group": "KOUPEN-CHAN",
     "last_season": 1,
     "last_episode": 19,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta": {
-    "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?)",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kijin-gentoushou": {
-    "group": "KIJIN GENTOUSHOU",
-    "last_season": 1,
-    "last_episode": 18,
     "start_episode": 1
   }
 }
