@@ -58,7 +58,7 @@ jobs:
           cd private_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add vavoo.m3u
+          git add v/vavoo.m3u
           git commit -m "Vavoo çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
 
