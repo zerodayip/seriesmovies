@@ -54,11 +54,11 @@ jobs:
       - name: Sync Vavoo outputs to private m3u8file repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file
-          cp vavoo.m3u private_m3u8file/ || echo "vavoo.m3u bulunamadı"
+          cp v/vavoo.m3u private_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
           cd private_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add v/vavoo.m3u
+          git add vavoo.m3u
           git commit -m "Vavoo çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
 
