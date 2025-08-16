@@ -79,7 +79,7 @@ def get_embed_links(movie_url):
 
 
 if __name__ == "__main__":
-    movie_url = "https://webteizle.info/izle/altyazi/ne-zha-2"
+    movie_url = "https://webteizle.info/izle/altyazi/girlfight"
     links = get_embed_links(movie_url)
     print("\n=== Bulunan Embed Linkler ===")
     for dil, link in links:
