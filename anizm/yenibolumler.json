@@ -1,4 +1,22 @@
 {
+  "https://anizm.com.tr/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku": {
+    "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/to-be-hero-x": {
+    "group": "TO BE HERO X",
+    "last_season": 1,
+    "last_episode": 19,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tondemo-skill-de-isekai-hourou-meshi": {
+    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/sakamoto-days-part-2": {
     "group": "SAKAMOTO DAYS PART 2",
     "last_season": 1,
@@ -47,12 +65,6 @@
     "last_episode": 7,
     "start_episode": 1
   },
-  "https://anizm.com.tr/tondemo-skill-de-isekai-hourou-meshi": {
-    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
   "https://anizm.com.tr/shin-samurai-den-yaiba": {
     "group": "SHIN SAMURAI-DEN YAIBA",
     "last_season": 1,
@@ -79,24 +91,6 @@
   },
   "https://anizm.com.tr/silent-witch-chinmoku-no-majo-no-kakushigoto": {
     "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/yofukashi-no-uta-2nd-season": {
-    "group": "YOFUKASHI NO UTA 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/mononoke-movie-dai-2-shou---hinezumi": {
-    "group": "MONONOKE MOVIE: DAI-2 SHOU - HINEZUMI",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/watari-kun-no-xx-ga-houkai-sunzen": {
-    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
