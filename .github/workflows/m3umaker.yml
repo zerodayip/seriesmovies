@@ -165,8 +165,8 @@ jobs:
           git push origin main
 
       # 7. RecTV Script
-      - name: Run RecTV Script
-        run: python private_py/rectv/rectv.py
+  #    - name: Run RecTV Script
+  #      run: python private_py/rectv/rectv.py
 
       - name: Sync RecTV outputs to private m3u8file repo
         run: |
