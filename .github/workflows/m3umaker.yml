@@ -168,17 +168,17 @@ jobs:
   #    - name: Run RecTV Script
   #      run: python private_py/rectv/rectv.py
 
-      - name: Sync RecTV outputs to private m3u8file repo
-        run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file
-          mkdir -p private_m3u8file/rec
-          cp r/reccanli.m3u private_m3u8file/rec/ || echo "reccanli.m3u kopyalanamadı"
-          cp r/recfilm.m3u private_m3u8file/rec/ || echo "recfilm.m3u kopyalanamadı"
-          cp r/recdizi.m3u private_m3u8file/rec/ || echo "recdizi.m3u kopyalanamadı"
-          cp r/recanime.m3u private_m3u8file/rec/ || echo "recanime.m3u kopyalanamadı"
-          cd private_m3u8file
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add rec/*.m3u
-          git commit -m "RecTV çıktıları güncellendi [auto]" || echo "No changes"
-          git push origin main
+ #     - name: Sync RecTV outputs to private m3u8file repo
+ #       run: |
+ #         git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file
+#          mkdir -p private_m3u8file/rec
+#          cp r/reccanli.m3u private_m3u8file/rec/ || echo "reccanli.m3u kopyalanamadı"
+#          cp r/recfilm.m3u private_m3u8file/rec/ || echo "recfilm.m3u kopyalanamadı"
+#          cp r/recdizi.m3u private_m3u8file/rec/ || echo "recdizi.m3u kopyalanamadı"
+#          cp r/recanime.m3u private_m3u8file/rec/ || echo "recanime.m3u kopyalanamadı"
+#          cd private_m3u8file
+#          git config user.name "GitHub Actions"
+#          git config user.email "actions@github.com"
+#          git add rec/*.m3u
+#          git commit -m "RecTV çıktıları güncellendi [auto]" || echo "No changes"
+#          git push origin main
