@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/yuzuki-san-chi-no-yonkyoudai": {
+    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/tondemo-skill-de-isekai-hourou-meshi": {
     "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI",
     "last_season": 1,
@@ -85,12 +91,6 @@
   },
   "https://anizm.com.tr/ame-to-kimi-to": {
     "group": "AME TO KIMI TO",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kaoru-hana-wa-rin-to-saku": {
-    "group": "KAORU HANA WA RIN TO SAKU",
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
