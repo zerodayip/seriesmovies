@@ -1,32 +1,8 @@
 {
-  "https://dizigom1.live/dizi-izle/rage/": {
-    "group": "RAGE (FURIA)",
+  "https://dizigom1.live/dizi-izle/the-winning-try/": {
+    "group": "THE WINNING TRY",
     "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-yogurt-shop-murders/": {
-    "group": "THE YOGURT SHOP MURDERS",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/fatal-seduction/": {
-    "group": "FATAL SEDUCTION",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/limitless-with-chris-hemsworth/": {
-    "group": "LIMITLESS WITH CHRIS HEMSWORTH",
-    "last_season": 2,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/smoke/": {
-    "group": "SMOKE",
-    "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 8,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/the-echoes-of-survivors-inside-koreas-tragedies/": {
@@ -35,22 +11,10 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/foundation/": {
-    "group": "FOUNDATION",
-    "last_season": 3,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/betty-la-fea-the-story-continues/": {
-    "group": "BETTY LA FEA, THE STORY CONTINUES",
-    "last_season": 2,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-winning-try/": {
-    "group": "THE WINNING TRY",
+  "https://dizigom1.live/dizi-izle/rage/": {
+    "group": "RAGE (FURIA)",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 7,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
@@ -59,10 +23,28 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/in-the-mud/": {
-    "group": "IN THE MUD (EN EL BARRO)",
+  "https://dizigom1.live/dizi-izle/rivers-of-fate/": {
+    "group": "RIVERS OF FATE (PSSICA)",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/countdown/": {
+    "group": "COUNTDOWN",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/alien-earth/": {
+    "group": "ALIEN: EARTH",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/fatal-seduction/": {
+    "group": "FATAL SEDUCTION",
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/fit-for-tv-the-reality-of-the-biggest-loser/": {
@@ -71,10 +53,34 @@
     "last_episode": 3,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/and-just-like-that/": {
-    "group": "AND JUST LIKE THAT…",
-    "last_season": 3,
-    "last_episode": 12,
+  "https://dizigom1.live/dizi-izle/platonic/": {
+    "group": "PLATONIC",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-twisted-tale-of-amanda-knox/": {
+    "group": "THE TWISTED TALE OF AMANDA KNOX",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/limitless-with-chris-hemsworth/": {
+    "group": "LIMITLESS WITH CHRIS HEMSWORTH",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/betty-la-fea-the-story-continues/": {
+    "group": "BETTY LA FEA, THE STORY CONTINUES",
+    "last_season": 2,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-yogurt-shop-murders/": {
+    "group": "THE YOGURT SHOP MURDERS",
+    "last_season": 1,
+    "last_episode": 3,
     "start_episode": 1
   }
 }
