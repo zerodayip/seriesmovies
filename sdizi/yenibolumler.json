@@ -1,4 +1,16 @@
 {
+  "https://sezonlukdizi6.com/diziler/countdown.html": {
+    "group": "COUNTDOWN",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/alien-earth.html": {
+    "group": "ALIEN: EARTH",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/grand-blue.html": {
     "group": "GRAND BLUE",
     "last_season": 2,
@@ -75,12 +87,6 @@
     "group": "RASCAL DOES NOT DREAM OF BUNNY GIRL SENPAI",
     "last_season": 2,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/kaiju-no-8.html": {
-    "group": "KAIJU NO. 8",
-    "last_season": 2,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
