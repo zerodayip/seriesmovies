@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/dr-stone.html": {
+    "group": "DR. STONE",
+    "last_season": 4,
+    "last_episode": 16,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/twisted-metal.html": {
     "group": "TWISTED METAL",
     "last_season": 2,
@@ -73,12 +79,6 @@
   },
   "https://sezonlukdizi6.com/diziler/gachiakuta.html": {
     "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/beyond-the-bar.html": {
-    "group": "BEYOND THE BAR",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
