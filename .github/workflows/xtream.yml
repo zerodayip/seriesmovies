@@ -1,11 +1,7 @@
-name: Run Xtream Json Maker
+name: Run Xtream CONVERT Maker
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Run Xtream M3U Maker"]
-    types:
-      - completed
 
 jobs:
   run-xtream:
