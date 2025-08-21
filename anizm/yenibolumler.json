@@ -1,4 +1,22 @@
 {
+  "https://anizm.com.tr/new-panty--stocking-with-garterbelt": {
+    "group": "NEW PANTY & STOCKING WITH GARTERBELT",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/lord-of-mysteries": {
+    "group": "LORD OF MYSTERIES",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/dr-stone-science-future-part-2": {
+    "group": "DR. STONE: SCIENCE FUTURE PART 2",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/tsuyokute-new-saga": {
     "group": "TSUYOKUTE NEW SAGA",
     "last_season": 1,
@@ -81,30 +99,6 @@
     "group": "KIJIN GENTOUSHOU",
     "last_season": 1,
     "last_episode": 19,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/grand-blue-season-2": {
-    "group": "GRAND BLUE SEASON 2",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/sakamoto-days-part-2": {
-    "group": "SAKAMOTO DAYS PART 2",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/summer-pockets": {
-    "group": "SUMMER POCKETS",
-    "last_season": 1,
-    "last_episode": 20,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/yuzuki-san-chi-no-yonkyoudai": {
-    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
