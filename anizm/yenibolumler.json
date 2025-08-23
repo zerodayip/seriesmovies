@@ -1,4 +1,70 @@
 {
+  "https://anizm.com.tr/nmeneko": {
+    "group": "NMENEKO",
+    "last_season": 1,
+    "last_episode": 16,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/hikaru-ga-shinda-natsu": {
+    "group": "HIKARU GA SHINDA NATSU",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/ame-to-kimi-to": {
+    "group": "AME TO KIMI TO",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/fermat-no-ryouri": {
+    "group": "FERMAT NO RYOURI",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/sono-bisque-doll-wa-koi-wo-suru-season-2": {
+    "group": "SONO BISQUE DOLL WA KOI WO SURU SEASON 2",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
+    "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/kaoru-hana-wa-rin-to-saku": {
+    "group": "KAORU HANA WA RIN TO SAKU",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/anne-shirley": {
+    "group": "ANNE SHIRLEY",
+    "last_season": 1,
+    "last_episode": 18,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/kanojo-okarishimasu-4th-season": {
+    "group": "KANOJO, OKARISHIMASU 4TH SEASON",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/kizetsu-yuusha-to-ansatsu-hime": {
+    "group": "KIZETSU YUUSHA TO ANSATSU HIME",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/lord-of-mysteries": {
+    "group": "LORD OF MYSTERIES",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/kaijuu-8-gou-2nd-season": {
     "group": "KAIJUU 8-GOU 2ND SEASON",
     "last_season": 1,
@@ -25,78 +91,6 @@
   },
   "https://anizm.com.tr/tate-no-yuusha-no-nariagari-season-4": {
     "group": "TATE NO YUUSHA NO NARIAGARI SEASON 4",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/silent-witch-chinmoku-no-majo-no-kakushigoto": {
-    "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
-    "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/yofukashi-no-uta-2nd-season": {
-    "group": "YOFUKASHI NO UTA 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/watari-kun-no-xx-ga-houkai-sunzen": {
-    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tougen-anki": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/ruri-no-houseki": {
-    "group": "RURI NO HOUSEKI",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/futari-solo-camp": {
-    "group": "FUTARI SOLO CAMP",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/mizu-zokusei-no-mahoutsukai": {
-    "group": "MIZU ZOKUSEI NO MAHOUTSUKAI",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tsuihousha-shokudou-e-youkoso": {
-    "group": "TSUIHOUSHA SHOKUDOU E YOUKOSO!",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/dandadan-2nd-season": {
-    "group": "DANDADAN 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/nmeneko": {
-    "group": "NMENEKO",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/turkey": {
-    "group": "TURKEY!",
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1

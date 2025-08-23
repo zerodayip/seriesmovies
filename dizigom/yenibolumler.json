@@ -1,4 +1,40 @@
 {
+  "https://dizigom1.live/dizi-izle/betty-la-fea-the-story-continues/": {
+    "group": "BETTY LA FEA, THE STORY CONTINUES",
+    "last_season": 2,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/invasion/": {
+    "group": "INVASION",
+    "last_season": 3,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/peacemaker/": {
+    "group": "PEACEMAKER",
+    "last_season": 2,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/bon-appetit-your-majesty/": {
+    "group": "BON APPÉTIT, YOUR MAJESTY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/007-road-to-a-million/": {
+    "group": "007: ROAD TO A MILLION",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/necaxa/": {
+    "group": "NECAXA",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "https://dizigom1.live/dizi-izle/hostage/": {
     "group": "HOSTAGE",
     "last_season": 1,
@@ -11,51 +47,21 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/long-story-short/": {
-    "group": "LONG STORY SHORT",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
   "https://dizigom1.live/dizi-izle/chief-of-war/": {
     "group": "CHIEF OF WAR",
     "last_season": 1,
     "last_episode": 5,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/betty-la-fea-the-story-continues/": {
-    "group": "BETTY LA FEA, THE STORY CONTINUES",
-    "last_season": 2,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/countdown/": {
-    "group": "COUNTDOWN",
+  "https://dizigom1.live/dizi-izle/long-story-short/": {
+    "group": "LONG STORY SHORT",
     "last_season": 1,
-    "last_episode": 11,
+    "last_episode": 10,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/peacemaker/": {
-    "group": "PEACEMAKER",
-    "last_season": 2,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/rivers-of-fate/": {
-    "group": "RIVERS OF FATE (PSSICA)",
+  "https://dizigom1.live/dizi-izle/the-winning-try/": {
+    "group": "THE WINNING TRY",
     "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/necaxa/": {
-    "group": "NECAXA",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/007-road-to-a-million/": {
-    "group": "007: ROAD TO A MILLION",
-    "last_season": 2,
     "last_episode": 8,
     "start_episode": 1
   },
@@ -63,12 +69,6 @@
     "group": "FOUNDATION",
     "last_season": 3,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/invasion/": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 1,
     "start_episode": 1
   }
 }
