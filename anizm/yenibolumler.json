@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/tate-no-yuusha-no-nariagari-season-4": {
+    "group": "TATE NO YUUSHA NO NARIAGARI SEASON 4",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/silent-witch-chinmoku-no-majo-no-kakushigoto": {
+    "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
     "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
     "last_season": 1,
@@ -81,18 +93,6 @@
     "group": "DR. STONE: SCIENCE FUTURE PART 2",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tsuyokute-new-saga": {
-    "group": "TSUYOKUTE NEW SAGA",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/mikadono-sanshimai-wa-angai-choroi": {
-    "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
