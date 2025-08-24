@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/witch-watch": {
+    "group": "WITCH WATCH",
+    "last_season": 1,
+    "last_episode": 20,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/bad-girl": {
     "group": "BAD GIRL",
     "last_season": 1,
@@ -87,12 +93,6 @@
     "group": "SHIN SAMURAI-DEN YAIBA",
     "last_season": 1,
     "last_episode": 20,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/onmyou-kaiten-rebirth": {
-    "group": "ONMYOU KAITEN RE:BIRTH",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
