@@ -1,4 +1,34 @@
 {
+  "https://sezonlukdizi6.com/diziler/black-mafia-family.html": {
+    "group": "BLACK MAFIA FAMILY",
+    "last_season": 4,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/star-trek-strange-new-worlds.html": {
+    "group": "STAR TREK: STRANGE NEW WORLDS",
+    "last_season": 3,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1140,
+    "start_episode": 1120
+  },
+  "https://sezonlukdizi6.com/diziler/beyond-the-bar.html": {
+    "group": "BEYOND THE BAR",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/gachiakuta.html": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/to-be-hero-x.html": {
     "group": "TO BE HERO X",
     "last_season": 1,
@@ -21,12 +51,6 @@
     "group": "RASCAL DOES NOT DREAM OF BUNNY GIRL SENPAI",
     "last_season": 2,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/beyond-the-bar.html": {
-    "group": "BEYOND THE BAR",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   },
   "https://sezonlukdizi6.com/diziler/kaiju-no-8.html": {
@@ -57,36 +81,6 @@
     "group": "PEACEMAKER",
     "last_season": 2,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/invasion.html": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/foundation.html": {
-    "group": "FOUNDATION",
-    "last_season": 3,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/chief-of-war.html": {
-    "group": "CHIEF OF WAR",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/phineas-and-ferb.html": {
-    "group": "PHINEAS AND FERB",
-    "last_season": 5,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/hostage.html": {
-    "group": "HOSTAGE",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
