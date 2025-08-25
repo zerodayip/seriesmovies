@@ -48,10 +48,10 @@ def get_imdb_poster(imdb_id):
         soup = BeautifulSoup(res.text, "html.parser")
         meta = soup.find("meta", property="og:image")
         if meta and meta.get("content"):
-            return imdb_id, meta["content"]
+            return meta["content"]
     except Exception as e:
         print(f"[HATA] {imdb_id}: {e}", flush=True)
-    return imdb_id, None
+    return None
 
 def search_imdb_by_name(series_name):
     try:
@@ -127,6 +127,7 @@ def main():
     cache = load_cache()
     tasks = []
 
+    # IMDb ID ve poster için task oluştur
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         for path in M3U_PATHS:
             print(f"[INFO] Taranıyor: {path}", flush=True)
@@ -144,7 +145,8 @@ def main():
                 # Poster yoksa veya poster null ise çek
                 if cache[group_title].get("imdb_id") and (cache[group_title].get("poster") is None):
                     print(f"[DEBUG] Poster çekilecek: {group_title} → {cache[group_title]['imdb_id']}", flush=True)
-                    tasks.append(executor.submit(get_imdb_poster, cache[group_title]["imdb_id"]))
+                    # key olarak group_title gönderiyoruz, poster URL döndüğünde cache güncellenecek
+                    tasks.append(executor.submit(lambda gt, id: (gt, get_imdb_poster(id)), group_title, cache[group_title]["imdb_id"]))
 
         # Sonuçları bekle ve cache güncelle
         for future in as_completed(tasks):
