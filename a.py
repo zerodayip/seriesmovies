@@ -140,8 +140,10 @@ def main():
                 # IMDb ID yoksa arama
                 if not cache[group_title].get("imdb_id"):
                     tasks.append(executor.submit(search_imdb_by_name, group_title))
-                # Poster yoksa veya imdb_id varsa poster çek
-                if cache[group_title].get("imdb_id") and not cache[group_title].get("poster"):
+
+                # Poster yoksa veya poster null ise çek
+                if cache[group_title].get("imdb_id") and (cache[group_title].get("poster") is None):
+                    print(f"[DEBUG] Poster çekilecek: {group_title} → {cache[group_title]['imdb_id']}", flush=True)
                     tasks.append(executor.submit(get_imdb_poster, cache[group_title]["imdb_id"]))
 
         # Sonuçları bekle ve cache güncelle
