@@ -7,7 +7,7 @@ from collections import OrderedDict
 import base64
 
 # --------- Ayarlar ---------
-GH_TOKEN = os.getenv("GH_TOKEN")
+GH_TOKEN = os.getenv("GH_TOKEN")  # GitHub token
 REPO = "zerodayip/m3u8file"
 M3U_PATHS = [
     "dizigomdizi.m3u",
@@ -59,7 +59,6 @@ def parse_m3u(text):
 def get_imdb_poster(imdb_id, poster_cache):
     if imdb_id in poster_cache:
         return poster_cache[imdb_id]
-
     imdb_url = f"https://www.imdb.com/title/{imdb_id}/"
     try:
         res = requests.get(imdb_url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
@@ -70,7 +69,6 @@ def get_imdb_poster(imdb_id, poster_cache):
             return meta["content"]
     except Exception as e:
         print(f"[HATA] {imdb_id}: IMDB posteri alınamadı: {e}", flush=True)
-
     poster_cache[imdb_id] = None
     return None
 
@@ -103,44 +101,43 @@ def process_m3u(path, cache, poster_cache):
     text = github_get_file(path)
     entries = parse_m3u(text)
     new_lines = []
-    printed_groups = set()
+    printed_groups = set()  # Her grup için sadece bir kez print
 
     for line, series_name, group_title, imdb_id in entries:
         # JSON’da yoksa ekle
-        if group_title not in cache:
-            cache[group_title] = {"imdb_id": imdb_id if imdb_id else None, "poster": None}
+        if series_name not in cache:
+            cache[series_name] = {"imdb_id": imdb_id if imdb_id else None, "poster": None}
 
-        current_imdb_id = cache[group_title].get("imdb_id")
-        poster_url = cache[group_title].get("poster")
+        printed = False
+        # IMDb ID yoksa M3U veya otomatik arama ile al
+        if not cache[series_name].get("imdb_id") and imdb_id:
+            cache[series_name]["imdb_id"] = imdb_id
+            printed = True
+            print(f"🔹 IMDb isteği yapıldı (manuel) → {group_title}: {imdb_id}", flush=True)
+        elif not cache[series_name].get("imdb_id"):
+            found_imdb = search_imdb_by_name(series_name)
+            if found_imdb:
+                cache[series_name]["imdb_id"] = found_imdb
+                printed = True
+                print(f"✨ IMDb isteği yapıldı → {group_title}: {found_imdb}", flush=True)
 
-        # IMDb isteği sadece JSON’da veri yoksa
-        if not current_imdb_id:
-            if imdb_id:
-                cache[group_title]["imdb_id"] = imdb_id
-                current_imdb_id = imdb_id
-                if group_title not in printed_groups:
-                    print(f"🔹 IMDb isteği yapıldı (manuel) → {group_title}: {imdb_id}", flush=True)
-                    printed_groups.add(group_title)
-            else:
-                found_imdb = search_imdb_by_name(series_name)
-                if found_imdb:
-                    cache[group_title]["imdb_id"] = found_imdb
-                    current_imdb_id = found_imdb
-                    if group_title not in printed_groups:
-                        print(f"✨ IMDb isteği yapıldı → {group_title}: {found_imdb}", flush=True)
-                        printed_groups.add(group_title)
-
-        # Poster yoksa çek
+        # Poster yoksa IMDb’den çek
+        current_imdb_id = cache[series_name].get("imdb_id", "")
+        poster_url = cache[series_name].get("poster")
         if current_imdb_id and not poster_url:
             poster = get_imdb_poster(current_imdb_id, poster_cache)
             if poster:
-                cache[group_title]["poster"] = poster
+                cache[series_name]["poster"] = poster
                 poster_url = poster
-                if group_title not in printed_groups:
-                    print(f"🖼️ Poster alındı → {group_title}", flush=True)
-                    printed_groups.add(group_title)
+                printed = True
+                print(f"🖼️ Poster alındı → {group_title}", flush=True)
 
-        # tvg-id ve tvg-logo ekle
+        # Her grup için sadece bir kez print et
+        if printed and group_title not in printed_groups:
+            print(f"✅ {group_title} güncellendi → IMDb ID: {current_imdb_id}, Poster: {poster_url}", flush=True)
+            printed_groups.add(group_title)
+
+        # tvg-id veya tvg-logo güncelle
         new_line = line
         if current_imdb_id and 'tvg-id' not in line:
             new_line = re.sub(r'(#EXTINF:[^ ]*)', rf'\1 tvg-id="{current_imdb_id}"', new_line)
@@ -149,7 +146,7 @@ def process_m3u(path, cache, poster_cache):
 
         new_lines.append(new_line)
 
-    # Push M3U
+    # Pushlamak için tüm M3U içeriğini birleştir
     new_content = "\n".join(new_lines)
     github_update_file(path, new_content, f"📺 {path} güncellendi: poster ve tvg-id eklendi")
 
@@ -158,7 +155,7 @@ def main():
     poster_cache = {}
 
     for path in M3U_PATHS:
-        print(f"[INFO] İşleniyor: {path}")
+        print(f"[INFO] İşleniyor: {path}", flush=True)
         process_m3u(path, cache, poster_cache)
 
     # imdb_id boş olanlar en üstte, diğerleri alfabetik
@@ -166,7 +163,7 @@ def main():
         sorted(cache.items(), key=lambda x: (0 if not x[1].get("imdb_id") else 1, x[0].lower()))
     )
     save_cache(sorted_data)
-    print(f"✅ JSON kaydedildi: {CACHE_FILE}")
+    print(f"✅ JSON kaydedildi: {CACHE_FILE}", flush=True)
 
 if __name__ == "__main__":
     main()
