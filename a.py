@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from collections import OrderedDict
 
 # --------- Ayarlar ---------
-GH_TOKEN = os.getenv("GH_TOKEN")  # GH_TOKEN ortam değişkeninden alınır
+GH_TOKEN = os.getenv("GH_TOKEN")  # GitHub token
 REPO = "zerodayip/m3u8file"
 M3U_PATHS = [
     "dizigomdizi.m3u",
@@ -18,7 +18,6 @@ CACHE_FILE = os.path.join(OUT_DIR, "imdb_series.json")
 # ---------------------------
 
 def github_raw(path: str) -> str:
-    """GH_TOKEN ile private repo'dan raw m3u içeriği çek."""
     url = f"https://raw.githubusercontent.com/{REPO}/main/{path}"
     headers = {"Authorization": f"Bearer {GH_TOKEN}"} if GH_TOKEN else {}
     r = requests.get(url, headers=headers, timeout=15)
@@ -26,7 +25,6 @@ def github_raw(path: str) -> str:
     return r.text
 
 def parse_m3u(text: str):
-    """M3U satırlarını tvg-id ve group-title bazlı ayıkla."""
     entries = []
     for line in text.splitlines():
         if line.startswith("#EXTINF"):
@@ -38,7 +36,6 @@ def parse_m3u(text: str):
     return entries
 
 def get_imdb_poster(imdb_id, poster_cache):
-    """IMDb sayfasından poster URL çek (scrape)."""
     if imdb_id in poster_cache:
         return poster_cache[imdb_id]
 
@@ -70,7 +67,6 @@ def save_cache(data):
 def main():
     cache = load_cache()
     poster_cache = {}
-    new_data = {}
 
     for path in M3U_PATHS:
         print(f"[INFO] Taranıyor: {path}")
@@ -78,14 +74,15 @@ def main():
         entries = parse_m3u(text)
 
         for series_name, imdb_id in entries:
+            # JSON'da yoksa ekle
             if series_name not in cache:
                 cache[series_name] = {"imdb_id": imdb_id, "poster": None}
 
-            # imdb_id güncellendi mi?
+            # IMDb ID boşsa M3U'dan al
             if not cache[series_name].get("imdb_id") and imdb_id:
                 cache[series_name]["imdb_id"] = imdb_id
 
-            # poster otomatik çekme
+            # Poster yoksa IMDb'den çek
             imdb_id = cache[series_name].get("imdb_id", "")
             if imdb_id and not cache[series_name].get("poster"):
                 poster = get_imdb_poster(imdb_id, poster_cache)
@@ -93,7 +90,7 @@ def main():
                     cache[series_name]["poster"] = poster
                     print(f"[POSTER] {series_name} → {poster}")
 
-    # imdb_id olmayanlar en üstte olacak şekilde sıralama
+    # imdb_id boş olanlar en üstte, diğerleri alfabetik
     sorted_data = OrderedDict(
         sorted(cache.items(), key=lambda x: (0 if not x[1].get("imdb_id") else 1, x[0].lower()))
     )
