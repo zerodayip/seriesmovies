@@ -17,7 +17,7 @@ SERIES_PATHS = [
     "rec/recdizi.m3u"
 ]
 MOVIE_PATHS = [
-    "dizigomfimler.m3u",
+    "dizigomfilmler.m3u",
     "rec/recfilm.m3u"
 ]
 
