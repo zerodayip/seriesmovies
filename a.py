@@ -93,24 +93,24 @@ def main():
         entries = parse_m3u(text)
 
         for group_title, tvg_id in entries:
-            # JSON’da zaten varsa ve aynı tvg-id ise skip
-            if group_title in cache and cache[group_title].get("poster") and cache[group_title].get("imdb_id") == tvg_id:
+            # Eğer JSON’da poster ve IMDb ID varsa → hiç işlem yapma
+            if group_title in cache and cache[group_title].get("poster") and cache[group_title].get("imdb_id"):
                 print(f"🗂️ JSON’dan poster alındı: {group_title}", flush=True)
                 continue
 
-            # JSON’da yoksa ekle
+            # JSON’da yoksa ekle (M3U’dan tvg-id kullanılır)
             if group_title not in cache:
-                cache[group_title] = {"imdb_id": tvg_id, "poster": None}
+                cache[group_title] = {"imdb_id": tvg_id if tvg_id else None, "poster": None}
 
-            # IMDb ID eksikse arama
-            if not cache[group_title].get("imdb_id") or cache[group_title]["imdb_id"] != tvg_id:
+            # IMDb ID eksikse veya boşsa arama
+            if not cache[group_title].get("imdb_id"):
                 found_imdb = tvg_id if tvg_id else search_imdb_by_name(group_title)
                 if found_imdb:
                     cache[group_title]["imdb_id"] = found_imdb
                     print(f"✨ {group_title} [IMDb] → {found_imdb}", flush=True)
 
             # Poster yoksa çek
-            if not cache[group_title].get("poster"):
+            if not cache[group_title].get("poster") and cache[group_title].get("imdb_id"):
                 poster = get_imdb_poster(cache[group_title]["imdb_id"], poster_cache)
                 if poster:
                     cache[group_title]["poster"] = poster
