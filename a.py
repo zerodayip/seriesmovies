@@ -68,6 +68,11 @@ def main():
     cache = load_cache()
     poster_cache = {}
 
+    # Manuel IMDb eklenmiş ama poster boş olanları bildir
+    for series_name, info in cache.items():
+        if info.get("imdb_id") and not info.get("poster"):
+            print(f"[MANUEL IMDb] {series_name} eklendi, poster henüz yok")
+
     for path in M3U_PATHS:
         print(f"[INFO] Taranıyor: {path}")
         text = github_raw(path)
