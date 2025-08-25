@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/upload.html": {
+    "group": "UPLOAD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/black-mafia-family.html": {
     "group": "BLACK MAFIA FAMILY",
     "last_season": 4,
@@ -75,12 +81,6 @@
     "group": "DEXTER: RESURRECTION",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/peacemaker.html": {
-    "group": "PEACEMAKER",
-    "last_season": 2,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

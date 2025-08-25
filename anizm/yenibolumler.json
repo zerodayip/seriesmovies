@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/hotel-inhumans": {
+    "group": "HOTEL INHUMANS",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/busu-ni-hanataba-wo": {
+    "group": "BUSU NI HANATABA WO.",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/koupen-chan": {
     "group": "KOUPEN-CHAN",
     "last_season": 1,
@@ -79,24 +91,6 @@
   },
   "https://anizm.com.tr/ame-to-kimi-to": {
     "group": "AME TO KIMI TO",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/fermat-no-ryouri": {
-    "group": "FERMAT NO RYOURI",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/sono-bisque-doll-wa-koi-wo-suru-season-2": {
-    "group": "SONO BISQUE DOLL WA KOI WO SURU SEASON 2",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
-    "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
