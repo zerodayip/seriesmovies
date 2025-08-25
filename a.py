@@ -21,21 +21,18 @@ CACHE_FILE = os.path.join(OUT_DIR, "imdb_series.json")
 HEADERS = {"Authorization": f"Bearer {GH_TOKEN}"} if GH_TOKEN else {}
 
 def github_get_file(path):
-    """GitHub raw içeriğini getirir."""
     url = f"https://raw.githubusercontent.com/{REPO}/main/{path}"
     r = requests.get(url, headers=HEADERS, timeout=15)
     r.raise_for_status()
     return r.text
 
 def github_get_file_sha(path):
-    """Dosyanın GitHub SHA değerini döner (push için gerekli)."""
     url = f"https://api.github.com/repos/{REPO}/contents/{path}"
     r = requests.get(url, headers=HEADERS, timeout=15)
     r.raise_for_status()
     return r.json()["sha"]
 
 def github_update_file(path, content, message):
-    """GitHub dosyasını push eder."""
     sha = github_get_file_sha(path)
     url = f"https://api.github.com/repos/{REPO}/contents/{path}"
     data = {
@@ -63,7 +60,6 @@ def parse_m3u(text):
 def get_imdb_poster(imdb_id, poster_cache):
     if imdb_id in poster_cache:
         return poster_cache[imdb_id]
-
     imdb_url = f"https://www.imdb.com/title/{imdb_id}/"
     try:
         res = requests.get(imdb_url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
@@ -74,7 +70,6 @@ def get_imdb_poster(imdb_id, poster_cache):
             return meta["content"]
     except Exception as e:
         print(f"[HATA] {imdb_id}: IMDB posteri alınamadı: {e}", flush=True)
-
     poster_cache[imdb_id] = None
     return None
 
@@ -107,6 +102,7 @@ def process_m3u(path, cache, poster_cache):
     text = github_get_file(path)
     entries = parse_m3u(text)
     new_lines = []
+    printed_groups = set()  # Her grup için sadece bir kez print
 
     for line, series_name, group_title, imdb_id in entries:
         # JSON’da yoksa ekle
@@ -114,14 +110,15 @@ def process_m3u(path, cache, poster_cache):
             cache[series_name] = {"imdb_id": imdb_id if imdb_id else None, "poster": None}
 
         # IMDb ID yoksa M3U veya otomatik arama ile al
+        printed = False
         if not cache[series_name].get("imdb_id") and imdb_id:
             cache[series_name]["imdb_id"] = imdb_id
-            print(f"🔹 {series_name} [MANUEL IMDb] → {imdb_id}", flush=True)
+            printed = True
         elif not cache[series_name].get("imdb_id"):
             found_imdb = search_imdb_by_name(series_name)
             if found_imdb:
                 cache[series_name]["imdb_id"] = found_imdb
-                print(f"✨ {series_name} [OTOMATİK IMDb] → {found_imdb}", flush=True)
+                printed = True
 
         current_imdb_id = cache[series_name].get("imdb_id", "")
         poster_url = cache[series_name].get("poster")
@@ -130,7 +127,12 @@ def process_m3u(path, cache, poster_cache):
             if poster:
                 cache[series_name]["poster"] = poster
                 poster_url = poster
-                print(f"🖼️ {series_name} → Poster bulundu: {poster}", flush=True)
+                printed = True
+
+        # Her grup için sadece bir kez print et
+        if printed and group_title not in printed_groups:
+            print(f"🖼️ {group_title} güncellendi → IMDb ID: {current_imdb_id}, Poster: {poster_url}", flush=True)
+            printed_groups.add(group_title)
 
         # tvg-id veya tvg-logo güncelle
         new_line = line
