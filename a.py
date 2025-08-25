@@ -99,12 +99,10 @@ def update_m3u_lines(m3u_text, json_cache):
                             line = line.replace(" group-title=", f' tvg-logo="{poster_url}" group-title=')
 
                     # tvg-id yok veya boşsa ve JSON'da imdb_id varsa ekle
-                    if (not re.search(r'tvg-id="[^"]+"', line)) and imdb_id:
+                    if imdb_id:
                         if 'tvg-id="' in line:
-                            # Mevcut boş tvg-id varsa değiştir
                             line = re.sub(r'tvg-id="[^"]*"', f'tvg-id="{imdb_id}"', line)
                         else:
-                            # tvg-id hiç yoksa ekle
                             line = line.replace("#EXTINF:", f'#EXTINF:-1 tvg-id="{imdb_id}" ', 1)
 
         updated_lines.append(line)
@@ -136,18 +134,14 @@ def main():
             entries = parse_m3u(text)
 
             for group_title, tvg_id in entries:
-                # JSON’da poster ve imdb_id varsa skip
-                if group_title in cache and cache[group_title].get("poster") and cache[group_title].get("imdb_id"):
-                    
-                    continue
-
                 if group_title not in cache:
                     cache[group_title] = {"imdb_id": tvg_id if tvg_id else None, "poster": None}
 
                 # IMDb ID yoksa arama
                 if not cache[group_title].get("imdb_id"):
                     tasks.append(executor.submit(search_imdb_by_name, group_title))
-                else:
+                # Poster yoksa veya imdb_id varsa poster çek
+                if cache[group_title].get("imdb_id") and not cache[group_title].get("poster"):
                     tasks.append(executor.submit(get_imdb_poster, cache[group_title]["imdb_id"]))
 
         # Sonuçları bekle ve cache güncelle
