@@ -20,6 +20,7 @@ CACHE_FILE = os.path.join(OUT_DIR, "imdb_series.json")
 
 HEADERS = {"Authorization": f"Bearer {GH_TOKEN}"} if GH_TOKEN else {}
 
+# ---------- GitHub İşlemleri ----------
 def github_get_file(path):
     url = f"https://raw.githubusercontent.com/{REPO}/main/{path}"
     r = requests.get(url, headers=HEADERS, timeout=15)
@@ -44,6 +45,7 @@ def github_update_file(path, content, message):
     r.raise_for_status()
     print(f"✅ {path} güncellendi ve pushlandı.", flush=True)
 
+# ---------- M3U İşlemleri ----------
 def parse_m3u(text):
     entries = []
     for line in text.splitlines():
@@ -57,6 +59,7 @@ def parse_m3u(text):
             entries.append((line, series_name, group_title, imdb_id))
     return entries
 
+# ---------- IMDb İşlemleri ----------
 def get_imdb_poster(imdb_id, poster_cache):
     if imdb_id in poster_cache:
         return poster_cache[imdb_id]
@@ -87,6 +90,7 @@ def search_imdb_by_name(series_name):
         print(f"[HATA] {series_name}: IMDb ID bulunamadı: {e}", flush=True)
     return None
 
+# ---------- JSON Cache ----------
 def load_cache():
     if os.path.exists(CACHE_FILE):
         with open(CACHE_FILE, "r", encoding="utf-8") as f:
@@ -98,45 +102,45 @@ def save_cache(data):
     with open(CACHE_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+# ---------- M3U İşleme ve Güncelleme ----------
 def process_m3u(path, cache, poster_cache):
     text = github_get_file(path)
     entries = parse_m3u(text)
     new_lines = []
-    printed_groups = set()  # Her grup için sadece bir kez print
+    printed_groups = set()
 
     for line, series_name, group_title, imdb_id in entries:
         # JSON’da yoksa ekle
         if series_name not in cache:
             cache[series_name] = {"imdb_id": imdb_id if imdb_id else None, "poster": None}
 
-        printed = False
-        # IMDb ID yoksa M3U veya otomatik arama ile al
-        if not cache[series_name].get("imdb_id") and imdb_id:
-            cache[series_name]["imdb_id"] = imdb_id
-            printed = True
-        elif not cache[series_name].get("imdb_id"):
-            found_imdb = search_imdb_by_name(series_name)
-            if found_imdb:
-                cache[series_name]["imdb_id"] = found_imdb
-                printed = True
-
-        current_imdb_id = cache[series_name].get("imdb_id", "")
+        current_imdb_id = cache[series_name].get("imdb_id")
         poster_url = cache[series_name].get("poster")
 
-        # Sadece poster yoksa IMDb isteği at
+        # IMDb ID yoksa M3U veya otomatik arama ile al
+        if not current_imdb_id:
+            if imdb_id:
+                current_imdb_id = imdb_id
+                cache[series_name]["imdb_id"] = imdb_id
+            else:
+                found_imdb = search_imdb_by_name(series_name)
+                if found_imdb:
+                    current_imdb_id = found_imdb
+                    cache[series_name]["imdb_id"] = found_imdb
+
+        # Poster yoksa IMDb’den çek
         if current_imdb_id and not poster_url:
             poster = get_imdb_poster(current_imdb_id, poster_cache)
             if poster:
-                cache[series_name]["poster"] = poster
                 poster_url = poster
-                printed = True
+                cache[series_name]["poster"] = poster
 
         # Her grup için sadece bir kez print et
-        if printed and group_title not in printed_groups:
+        if group_title not in printed_groups and (not poster_url or not current_imdb_id):
             print(f"🖼️ {group_title} güncellendi → IMDb ID: {current_imdb_id}, Poster: {poster_url}", flush=True)
             printed_groups.add(group_title)
 
-        # tvg-id veya tvg-logo güncelle
+        # tvg-id veya tvg-logo ekle
         new_line = line
         if current_imdb_id and 'tvg-id' not in line:
             new_line = re.sub(r'(#EXTINF:[^ ]*)', rf'\1 tvg-id="{current_imdb_id}"', new_line)
@@ -149,6 +153,7 @@ def process_m3u(path, cache, poster_cache):
     new_content = "\n".join(new_lines)
     github_update_file(path, new_content, f"📺 {path} güncellendi: poster ve tvg-id eklendi")
 
+# ---------- Ana Fonksiyon ----------
 def main():
     cache = load_cache()
     poster_cache = {}
@@ -157,9 +162,9 @@ def main():
         print(f"[INFO] İşleniyor: {path}")
         process_m3u(path, cache, poster_cache)
 
-    # imdb_id boş olanlar en üstte, diğerleri alfabetik
+    # imdb_id veya poster eksik olanlar en üstte, diğerleri alfabetik
     sorted_data = OrderedDict(
-        sorted(cache.items(), key=lambda x: (0 if not x[1].get("imdb_id") else 1, x[0].lower()))
+        sorted(cache.items(), key=lambda x: (0 if not x[1].get("imdb_id") or not x[1].get("poster") else 1, x[0].lower()))
     )
     save_cache(sorted_data)
     print(f"✅ JSON kaydedildi: {CACHE_FILE}")
