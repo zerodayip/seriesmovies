@@ -5,6 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 from collections import OrderedDict
 import base64
+import time
 
 # --------- Ayarlar ---------
 GH_TOKEN = os.getenv("GH_TOKEN")
@@ -15,6 +16,7 @@ SERIES_PATHS = [
     "sezonlukdizi.m3u",
     "rec/recdizi.m3u"
 ]
+
 VOD_PATHS = [
     "dizigomfilmler.m3u"
 ]
@@ -32,30 +34,39 @@ def github_raw(path: str) -> str:
     return r.text
 
 def parse_m3u_series(text: str):
+    """Diziler için group-title ve tvg-id kontrolü"""
     entries = OrderedDict()
     for line in text.splitlines():
         if line.startswith("#EXTINF"):
             tvg_id_match = re.search(r'tvg-id="([^"]*)"', line)
+            tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', line)
             group_match = re.search(r'group-title="([^"]*)"', line)
-            imdb_id = tvg_id_match.group(1).strip() if tvg_id_match else None
+
             group_title = group_match.group(1).strip() if group_match else "Bilinmeyen"
-            entries[group_title] = imdb_id
+            tvg_id = tvg_id_match.group(1).strip() if tvg_id_match else None
+            poster = tvg_logo_match.group(1).strip() if tvg_logo_match else None
+
+            entries[group_title] = {"imdb_id": tvg_id, "poster": poster}
     return entries
 
 def parse_m3u_vod(text: str):
+    """Filmler için title ve tvg-id kontrolü, parantez içinden temizleme"""
     entries = OrderedDict()
     for line in text.splitlines():
         if line.startswith("#EXTINF"):
             tvg_id_match = re.search(r'tvg-id="([^"]*)"', line)
+            tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', line)
             name_match = re.search(r',(.+)$', line)
-            imdb_id = tvg_id_match.group(1).strip() if tvg_id_match else None
             if name_match:
                 raw_title = name_match.group(1).strip()
-                # Parantez içini çıkar
-                title = re.sub(r'\s*\(.*?\)\s*', '', raw_title)
+                # Parantez içini temizle
+                title = re.sub(r'\(.*?\)', '', raw_title).strip()
             else:
                 title = "Bilinmeyen"
-            entries[title] = imdb_id
+            tvg_id = tvg_id_match.group(1).strip() if tvg_id_match else None
+            poster = tvg_logo_match.group(1).strip() if tvg_logo_match else None
+
+            entries[title] = {"imdb_id": tvg_id, "poster": poster}
     return entries
 
 def get_imdb_poster(imdb_id):
@@ -98,39 +109,47 @@ def save_cache(data, path):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-def update_m3u_lines(text, cache, is_series=True):
+def update_m3u_lines_series(text, cache):
     updated_lines = []
     for line in text.splitlines(keepends=True):
         if line.startswith("#EXTINF"):
-            key = None
-            if is_series:
-                group_match = re.search(r'group-title="([^"]*)"', line)
-                key = group_match.group(1).strip() if group_match else None
-            else:
-                name_match = re.search(r',(.+)$', line)
-                if name_match:
-                    raw_title = name_match.group(1).strip()
-                    key = re.sub(r'\s*\(.*?\)\s*', '', raw_title)
-
-            if key and key in cache:
-                data = cache[key]
-                poster = data.get("poster")
-                imdb_id = data.get("imdb_id")
-
-                if poster:
+            group_match = re.search(r'group-title="([^"]*)"', line)
+            group_title = group_match.group(1).strip() if group_match else None
+            if group_title and group_title in cache:
+                data = cache[group_title]
+                if data.get("poster"):
                     if 'tvg-logo="' in line:
-                        line = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{poster}"', line)
+                        line = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{data["poster"]}"', line)
                     else:
-                        if is_series:
-                            line = line.replace(" group-title=", f' tvg-logo="{poster}" group-title=')
-                        else:
-                            line = line.replace(",", f' tvg-logo="{poster}",', 1)
-
-                if imdb_id:
+                        line = line.replace(" group-title=", f' tvg-logo="{data["poster"]}" group-title=')
+                if data.get("imdb_id"):
                     if 'tvg-id="' in line:
-                        line = re.sub(r'tvg-id="[^"]*"', f'tvg-id="{imdb_id}"', line)
+                        line = re.sub(r'tvg-id="[^"]*"', f'tvg-id="{data["imdb_id"]}"', line)
                     else:
-                        line = line.replace("#EXTINF:", f'#EXTINF:-1 tvg-id="{imdb_id}"', 1)
+                        line = line.replace("#EXTINF:", f'#EXTINF:-1 tvg-id="{data["imdb_id"]}" ', 1)
+        updated_lines.append(line)
+    return ''.join(updated_lines)
+
+def update_m3u_lines_vod(text, cache):
+    updated_lines = []
+    for line in text.splitlines(keepends=True):
+        if line.startswith("#EXTINF"):
+            name_match = re.search(r',(.+)$', line)
+            if name_match:
+                raw_title = name_match.group(1).strip()
+                title = re.sub(r'\(.*?\)', '', raw_title).strip()
+                if title in cache:
+                    data = cache[title]
+                    if data.get("poster"):
+                        if 'tvg-logo="' in line:
+                            line = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{data["poster"]}"', line)
+                        else:
+                            line = line.replace(",", f' tvg-logo="{data["poster"]}",')
+                    if data.get("imdb_id"):
+                        if 'tvg-id="' in line:
+                            line = re.sub(r'tvg-id="[^"]*"', f'tvg-id="{data["imdb_id"]}"', line)
+                        else:
+                            line = line.replace("#EXTINF:", f'#EXTINF:-1 tvg-id="{data["imdb_id"]}" ', 1)
         updated_lines.append(line)
     return ''.join(updated_lines)
 
@@ -151,40 +170,42 @@ def push_to_github(path_in_repo, content, commit_message):
 
 def process_files(paths, cache_file, is_series=True):
     cache = load_cache(cache_file)
-
     for path in paths:
         print(f"[INFO] Taranıyor: {path}", flush=True)
         text = github_raw(path)
         entries = parse_m3u_series(text) if is_series else parse_m3u_vod(text)
 
-        # Cache güncelle
-        for key, tvg_id in entries.items():
+        # Eksik verileri IMDb’den sırayla çek
+        for key, data in entries.items():
             if key not in cache:
-                cache[key] = {"imdb_id": tvg_id, "poster": None}
+                cache[key] = {"imdb_id": data.get("imdb_id"), "poster": data.get("poster")}
 
-            # IMDb ID yoksa ara
-            if not cache[key].get("imdb_id"):
-                imdb_id = search_imdb_by_name(key, is_series)
-                if imdb_id:
-                    cache[key]["imdb_id"] = imdb_id
-                    print(f"✨ {key} [IMDb] → {imdb_id}", flush=True)
+            # IMDb’ye sadece eksik olanlar için git
+            if not cache[key].get("imdb_id") or not cache[key].get("poster"):
+                # IMDb ID yoksa ara
+                if not cache[key].get("imdb_id"):
+                    imdb_id = search_imdb_by_name(key, is_series)
+                    if imdb_id:
+                        cache[key]["imdb_id"] = imdb_id
+                        print(f"✨ {key} [IMDb] → {imdb_id}", flush=True)
+                        time.sleep(1)  # IMDb’ye fazla istek atmamak için bekleme
+                # Poster yoksa çek
+                if cache[key].get("imdb_id") and not cache[key].get("poster"):
+                    poster = get_imdb_poster(cache[key]["imdb_id"])
+                    if poster:
+                        cache[key]["poster"] = poster
+                        print(f"🖼️ {key} → Poster bulundu", flush=True)
+                        time.sleep(1)
 
-            # Poster yoksa çek
-            if cache[key].get("imdb_id") and not cache[key].get("poster"):
-                poster = get_imdb_poster(cache[key]["imdb_id"])
-                if poster:
-                    cache[key]["poster"] = poster
-                    print(f"🖼️ {key} → Poster bulundu", flush=True)
-
-        # M3U güncelle
-        updated_text = update_m3u_lines(text, cache, is_series)
+        # M3U güncelle ve push
+        updated_text = update_m3u_lines_series(text, cache) if is_series else update_m3u_lines_vod(text, cache)
         push_to_github(path, updated_text, f"Update posters & tvg-id for {path}")
 
-    # TVG-ID veya poster olmayanları üste alacak şekilde sırala
-    sorted_cache = OrderedDict(sorted(
-        cache.items(),
-        key=lambda x: (1 if x[1].get("imdb_id") and x[1].get("poster") else 0, x[0].lower())
-    ))
+    # Cache kaydet
+    # Önce eksik olanlar, sonra tamamlanmış olanlar
+    sorted_cache = OrderedDict(
+        sorted(cache.items(), key=lambda x: (0 if not x[1].get("imdb_id") or not x[1].get("poster") else 1, x[0].lower()))
+    )
     save_cache(sorted_cache, cache_file)
     print(f"✅ JSON kaydedildi: {cache_file}", flush=True)
 
