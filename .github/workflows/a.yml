@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add xtream/imdb_series.json
+          git add xtream/imdb_series.json xtream/imdb_vod.json
           git commit -m "Update imdb_series.json [skip ci]" || echo "No changes"
           git push
