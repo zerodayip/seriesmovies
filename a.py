@@ -8,7 +8,7 @@ import base64
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # --------- Ayarlar ---------
-GH_TOKEN = os.getenv("GH_TOKEN")  # GitHub token
+GH_TOKEN = os.getenv("GH_TOKEN")
 REPO = "zerodayip/m3u8file"
 M3U_PATHS = [
     "dizigomdizi.m3u",
@@ -17,10 +17,9 @@ M3U_PATHS = [
 ]
 OUT_DIR = "xtream"
 CACHE_FILE = os.path.join(OUT_DIR, "imdb_series.json")
-MAX_WORKERS = 10  # Paralel HTTP thread sayısı
+MAX_WORKERS = 10
 # ---------------------------
 
-# --- GitHub RAW ---
 def github_raw(path: str) -> str:
     url = f"https://raw.githubusercontent.com/{REPO}/main/{path}"
     headers = {"Authorization": f"Bearer {GH_TOKEN}"} if GH_TOKEN else {}
@@ -28,7 +27,6 @@ def github_raw(path: str) -> str:
     r.raise_for_status()
     return r.text
 
-# --- M3U Parsing ---
 def parse_m3u(text: str):
     entries = OrderedDict()
     for line in text.splitlines():
@@ -42,7 +40,6 @@ def parse_m3u(text: str):
                 entries[key] = True
     return list(entries.keys())
 
-# --- IMDb poster çekme ---
 def get_imdb_poster(imdb_id):
     try:
         print(f"🌐 IMDb posteri için istek atılıyor: {imdb_id}", flush=True)
@@ -56,7 +53,6 @@ def get_imdb_poster(imdb_id):
         print(f"[HATA] {imdb_id}: {e}", flush=True)
     return imdb_id, None
 
-# --- IMDb ID arama ---
 def search_imdb_by_name(series_name):
     try:
         print(f"🔎 IMDb araması yapılıyor: {series_name}", flush=True)
@@ -72,7 +68,6 @@ def search_imdb_by_name(series_name):
         print(f"[HATA] {series_name}: {e}", flush=True)
     return series_name, None
 
-# --- JSON cache ---
 def load_cache():
     if os.path.exists(CACHE_FILE):
         with open(CACHE_FILE, "r", encoding="utf-8") as f:
@@ -84,7 +79,6 @@ def save_cache(data):
     with open(CACHE_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-# --- M3U güncelleme ---
 def update_m3u_lines(m3u_text, json_cache):
     updated_lines = []
     for line in m3u_text.splitlines(keepends=True):
@@ -104,13 +98,18 @@ def update_m3u_lines(m3u_text, json_cache):
                         else:
                             line = line.replace(" group-title=", f' tvg-logo="{poster_url}" group-title=')
 
-                    # tvg-id yoksa ve JSON'da imdb_id varsa ekle
-                    if 'tvg-id="' not in line and imdb_id:
-                        line = line.replace("#EXTINF:", f'#EXTINF:-1 tvg-id="{imdb_id}" ', 1)
+                    # tvg-id yok veya boşsa ve JSON'da imdb_id varsa ekle
+                    if (not re.search(r'tvg-id="[^"]+"', line)) and imdb_id:
+                        if 'tvg-id="' in line:
+                            # Mevcut boş tvg-id varsa değiştir
+                            line = re.sub(r'tvg-id="[^"]*"', f'tvg-id="{imdb_id}"', line)
+                        else:
+                            # tvg-id hiç yoksa ekle
+                            line = line.replace("#EXTINF:", f'#EXTINF:-1 tvg-id="{imdb_id}" ', 1)
+
         updated_lines.append(line)
     return ''.join(updated_lines)
 
-# --- GitHub push ---
 def push_to_github(path_in_repo, content, commit_message):
     url = f"https://api.github.com/repos/{REPO}/contents/{path_in_repo}"
     headers = {"Authorization": f"Bearer {GH_TOKEN}"}
@@ -126,12 +125,10 @@ def push_to_github(path_in_repo, content, commit_message):
     r.raise_for_status()
     print(f"✅ GitHub'a push yapıldı: {path_in_repo}", flush=True)
 
-# --- Main ---
 def main():
     cache = load_cache()
     tasks = []
 
-    # --- IMDb ID ve posterleri paralel çek ---
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         for path in M3U_PATHS:
             print(f"[INFO] Taranıyor: {path}", flush=True)
@@ -139,9 +136,9 @@ def main():
             entries = parse_m3u(text)
 
             for group_title, tvg_id in entries:
-                # JSON'da varsa ve poster + imdb_id tamam ise skip
+                # JSON’da poster ve imdb_id varsa skip
                 if group_title in cache and cache[group_title].get("poster") and cache[group_title].get("imdb_id"):
-                    print(f"🗂️ JSON’dan poster alındı: {group_title}", flush=True)
+                    
                     continue
 
                 if group_title not in cache:
@@ -151,7 +148,6 @@ def main():
                 if not cache[group_title].get("imdb_id"):
                     tasks.append(executor.submit(search_imdb_by_name, group_title))
                 else:
-                    # IMDb ID var ise poster çek
                     tasks.append(executor.submit(get_imdb_poster, cache[group_title]["imdb_id"]))
 
         # Sonuçları bekle ve cache güncelle
@@ -159,22 +155,21 @@ def main():
             res = future.result()
             if isinstance(res, tuple):
                 key, value = res
-                # Poster sonucu
-                if key in cache and value and 'tt' in key:
-                    cache[key]["poster"] = value
-                    print(f"🖼️ {key} → Poster bulundu: {value}", flush=True)
-                # Arama sonucu
-                elif key in cache and value and 'tt' not in key:
-                    cache[key]["imdb_id"] = value
-                    print(f"✨ {key} [IMDb] → {value}", flush=True)
+                if key in cache and value:
+                    if 'tt' in value:  # Poster sonucu
+                        cache[key]["poster"] = value
+                        print(f"🖼️ {key} → Poster bulundu: {value}", flush=True)
+                    else:  # Arama sonucu
+                        cache[key]["imdb_id"] = value
+                        print(f"✨ {key} [IMDb] → {value}", flush=True)
 
-    # --- M3U güncelle ve push ---
+    # M3U güncelle ve push
     for path in M3U_PATHS:
         text = github_raw(path)
         updated_text = update_m3u_lines(text, cache)
         push_to_github(path, updated_text, f"Update posters & tvg-id for {path}")
 
-    # --- Cache kaydet ---
+    # Cache kaydet
     sorted_data = OrderedDict(
         sorted(cache.items(), key=lambda x: (0 if not x[1].get("imdb_id") else 1, x[0].lower()))
     )
