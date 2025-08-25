@@ -39,6 +39,7 @@ def get_imdb_poster(imdb_id, poster_cache):
     if imdb_id in poster_cache:
         return poster_cache[imdb_id]
 
+    print(f"🌐 IMDb posteri için istek atılıyor: {imdb_id}", flush=True)
     imdb_url = f"https://www.imdb.com/title/{imdb_id}/"
     try:
         res = requests.get(imdb_url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
@@ -57,6 +58,7 @@ def search_imdb_by_name(series_name):
     query = requests.utils.quote(series_name)
     url = f"https://www.imdb.com/find?q={query}&s=tt&ttype=tv"
     try:
+        print(f"🔎 IMDb araması yapılıyor: {series_name}", flush=True)
         res = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
         soup = BeautifulSoup(res.text, "html.parser")
         first_result = soup.select_one("li.find-result-item a")
@@ -83,7 +85,7 @@ def main():
     poster_cache = {}
 
     for path in M3U_PATHS:
-        print(f"[INFO] Taranıyor: {path}")
+        print(f"[INFO] Taranıyor: {path}", flush=True)
         text = github_raw(path)
         entries = parse_m3u(text)
 
@@ -93,6 +95,7 @@ def main():
 
             # Eğer JSON’da IMDb ID ve poster varsa -> skip
             if cache[series_name].get("imdb_id") and cache[series_name].get("poster"):
+                print(f"🗂️ JSON’dan poster alındı: {series_name}", flush=True)
                 continue  # Burada hiç web isteği yok
 
             # IMDb ID eksikse önce M3U’dan, sonra otomatik arama
@@ -119,7 +122,7 @@ def main():
     )
 
     save_cache(sorted_data)
-    print(f"✅ JSON kaydedildi: {CACHE_FILE}")
+    print(f"✅ JSON kaydedildi: {CACHE_FILE}", flush=True)
 
 if __name__ == "__main__":
     main()
