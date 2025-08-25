@@ -16,14 +16,14 @@ def get_current_domain():
     return None
 
 def print_full_page_html(page_url):
-    """Playwright ile sayfayı açıp tüm HTML'yi print eder"""
+    """Playwright ile sayfayı açıp tüm HTML'yi terminale print eder"""
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-        page.goto(page_url, timeout=60000)  # Sayfayı aç
-        page.wait_for_load_state("networkidle")  # Tüm network isteklerinin bitmesini bekle
-        html_content = page.content()  # Sayfanın full HTML içeriği
-        print(html_content)
+        page.goto(page_url, timeout=60000)
+        page.wait_for_load_state("networkidle")  # tüm network istekleri bitene kadar bekle
+        html_content = page.content()
+        print(html_content)  # bütün HTML'yi terminale bas
         browser.close()
 
 # --- Kullanım ---
