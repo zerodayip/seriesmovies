@@ -38,9 +38,9 @@ jobs:
           pip install requests
 
 #      - name: Run birleştirici / üretici scriptleri
- #       env:
-  #        GH_TOKEN1: ${{ secrets.GH_TOKEN1 }}
-   #       GH_TOKEN2: ${{ secrets.GH_TOKEN2 }}
+#        env:
+#          GH_TOKEN1: ${{ secrets.GH_TOKEN1 }}
+#          GH_TOKEN2: ${{ secrets.GH_TOKEN2 }}
 #        run: |
 #          python private_py/series/birlestirtoken.py
 
@@ -62,10 +62,9 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add *.m3u || echo "No M3U to add"
-          git commit -m "Tüm M3U dosyaları güncellendi [auto]" || echo "No changes to commit"
+          git diff --cached --quiet || git commit -m "Tüm M3U dosyaları güncellendi [auto]"
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN1 }}@github.com/zerodayip/m3u8file.git
           git push origin main
-
 
   run-imdb-updater:
     runs-on: ubuntu-latest
@@ -76,6 +75,9 @@ jobs:
       GH_TOKEN1: ${{ secrets.GH_TOKEN1 }}
 
     steps:
+      - name: Checkout public repo
+        uses: actions/checkout@v4
+
       - name: Checkout private_py repo
         uses: actions/checkout@v4
         with:
@@ -102,9 +104,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add xtream/*.json
-          git commit -m "Update imdb.json güncellendi [auto]" || echo "No changes"
-          git push
-          
+          git diff --cached --quiet || git commit -m "Update imdb.json güncellendi [auto]"
+          git push origin HEAD
 
   run-xtream-m3u:
     runs-on: ubuntu-latest
@@ -115,7 +116,7 @@ jobs:
 
     steps:
       - name: Checkout Public Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: main
@@ -147,7 +148,7 @@ jobs:
           git config user.email "actions@github.com"
           git pull --rebase origin main || echo "Pull yapılamadı"
           git add xtream/group_order.json || echo "group_order.json yok"
-          git commit -m "group_order.json güncellendi [auto]" || echo "No changes"
+          git diff --cached --quiet || git commit -m "group_order.json güncellendi [auto]"
           git push origin main
 
       - name: Clone Private m3u8file Repo
@@ -166,7 +167,7 @@ jobs:
           git config user.email "actions@github.com"
           git pull --rebase origin main || echo "Pull yapılamadı"
           git add xtream/*.m3u || echo "No M3U to add"
-          git commit -m "Xtream M3U dosyaları güncellendi [auto]" || echo "No changes"
+          git diff --cached --quiet || git commit -m "Xtream M3U dosyaları güncellendi [auto]"
           git push origin main
 
   run-xtream-json:
@@ -178,7 +179,7 @@ jobs:
 
     steps:
       - name: Checkout Public Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: main
@@ -205,7 +206,7 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add xtream/times.json || echo "No times.json"
-          git commit -m "times.json güncellendi [auto]" || echo "No changes"
+          git diff --cached --quiet || git commit -m "times.json güncellendi [auto]"
           git pull --rebase origin main || echo "No upstream changes"
           git push origin main || echo "No push needed"
 
@@ -224,6 +225,6 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add xtreamjson/*.json || echo "No JSON files to add"
-          git commit -m "Xtream JSON dosyaları xtreamjson klasörüne eklendi [auto]" || echo "No changes"
+          git diff --cached --quiet || git commit -m "Xtream JSON dosyaları xtreamjson klasörüne eklendi [auto]"
           git pull --rebase origin main || echo "No upstream changes"
           git push origin main || echo "No push needed"
