@@ -109,19 +109,24 @@ def process_m3u(path, cache, poster_cache):
         if series_name not in cache:
             cache[series_name] = {"imdb_id": imdb_id if imdb_id else None, "poster": None}
 
-        # IMDb ID yoksa M3U veya otomatik arama ile al
+        current_imdb_id = cache[series_name].get("imdb_id")
+        poster_url = cache[series_name].get("poster")
+
         printed = False
-        if not cache[series_name].get("imdb_id") and imdb_id:
+
+        # IMDb ID yoksa M3U veya otomatik arama ile al
+        if not current_imdb_id and imdb_id:
             cache[series_name]["imdb_id"] = imdb_id
+            current_imdb_id = imdb_id
             printed = True
-        elif not cache[series_name].get("imdb_id"):
+        elif not current_imdb_id:
             found_imdb = search_imdb_by_name(series_name)
             if found_imdb:
                 cache[series_name]["imdb_id"] = found_imdb
+                current_imdb_id = found_imdb
                 printed = True
 
-        current_imdb_id = cache[series_name].get("imdb_id", "")
-        poster_url = cache[series_name].get("poster")
+        # Poster yoksa IMDb’den çek
         if current_imdb_id and not poster_url:
             poster = get_imdb_poster(current_imdb_id, poster_cache)
             if poster:
