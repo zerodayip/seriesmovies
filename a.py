@@ -98,7 +98,7 @@ def update_m3u_lines(m3u_text, json_cache):
                         else:
                             line = line.replace(" group-title=", f' tvg-logo="{poster_url}" group-title=')
 
-                    # tvg-id yok veya boşsa ve JSON'da imdb_id varsa ekle
+                    # tvg-id ekle/güncelle
                     if imdb_id:
                         if 'tvg-id="' in line:
                             line = re.sub(r'tvg-id="[^"]*"', f'tvg-id="{imdb_id}"', line)
@@ -152,10 +152,10 @@ def main():
             if isinstance(res, tuple):
                 key, value = res
                 if key in cache and value:
-                    if 'tt' in value:  # Poster sonucu
+                    if value.startswith("http"):  # Poster sonucu
                         cache[key]["poster"] = value
                         print(f"🖼️ {key} → Poster bulundu: {value}", flush=True)
-                    else:  # Arama sonucu
+                    elif value.startswith("tt"):  # IMDb ID sonucu
                         cache[key]["imdb_id"] = value
                         print(f"✨ {key} [IMDb] → {value}", flush=True)
 
