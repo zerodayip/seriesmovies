@@ -53,6 +53,20 @@ def get_imdb_poster(imdb_id, poster_cache):
     poster_cache[imdb_id] = None
     return None
 
+def search_imdb_by_name(series_name):
+    query = requests.utils.quote(series_name)
+    url = f"https://www.imdb.com/find?q={query}&s=tt&ttype=tv"
+    try:
+        res = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
+        soup = BeautifulSoup(res.text, "html.parser")
+        first_result = soup.select_one("li.find-result-item a")
+        if first_result and 'href' in first_result.attrs:
+            imdb_id = first_result['href'].split("/")[2]  # /title/ttXXXXXX/
+            return imdb_id
+    except Exception as e:
+        print(f"[HATA] {series_name}: IMDb ID bulunamadı: {e}", flush=True)
+    return None
+
 def load_cache():
     if os.path.exists(CACHE_FILE):
         with open(CACHE_FILE, "r", encoding="utf-8") as f:
@@ -68,32 +82,33 @@ def main():
     cache = load_cache()
     poster_cache = {}
 
-    # Manuel IMDb eklenmiş ama poster boş olanları bildir
-    for series_name, info in cache.items():
-        if info.get("imdb_id") and not info.get("poster"):
-            print(f"[MANUEL IMDb] {series_name} eklendi, poster henüz yok")
-
     for path in M3U_PATHS:
         print(f"[INFO] Taranıyor: {path}")
         text = github_raw(path)
         entries = parse_m3u(text)
 
         for series_name, imdb_id in entries:
-            # JSON'da yoksa ekle
+            # JSON’da yoksa ekle
             if series_name not in cache:
-                cache[series_name] = {"imdb_id": imdb_id, "poster": None}
+                cache[series_name] = {"imdb_id": imdb_id if imdb_id else None, "poster": None}
 
-            # IMDb ID boşsa M3U'dan al
+            # IMDb ID boşsa M3U’dan veya otomatik arama ile al
             if not cache[series_name].get("imdb_id") and imdb_id:
                 cache[series_name]["imdb_id"] = imdb_id
+                print(f"🔹 {series_name} [MANUEL IMDb] → {imdb_id}", flush=True)
+            elif not cache[series_name].get("imdb_id"):
+                found_imdb = search_imdb_by_name(series_name)
+                if found_imdb:
+                    cache[series_name]["imdb_id"] = found_imdb
+                    print(f"✨ {series_name} [OTOMATİK IMDb] → {found_imdb}", flush=True)
 
-            # Poster yoksa IMDb'den çek
-            imdb_id = cache[series_name].get("imdb_id", "")
-            if imdb_id and not cache[series_name].get("poster"):
-                poster = get_imdb_poster(imdb_id, poster_cache)
+            # Poster yoksa IMDb’den çek
+            current_imdb_id = cache[series_name].get("imdb_id", "")
+            if current_imdb_id and not cache[series_name].get("poster"):
+                poster = get_imdb_poster(current_imdb_id, poster_cache)
                 if poster:
                     cache[series_name]["poster"] = poster
-                    print(f"[POSTER] {series_name} → {poster}")
+                    print(f"🖼️ {series_name} → Poster bulundu: {poster}", flush=True)
 
     # imdb_id boş olanlar en üstte, diğerleri alfabetik
     sorted_data = OrderedDict(
