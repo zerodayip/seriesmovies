@@ -88,11 +88,14 @@ def main():
         entries = parse_m3u(text)
 
         for series_name, imdb_id in entries:
-            # JSON’da yoksa ekle
             if series_name not in cache:
                 cache[series_name] = {"imdb_id": imdb_id if imdb_id else None, "poster": None}
 
-            # IMDb ID boşsa M3U’dan veya otomatik arama ile al
+            # Eğer JSON’da IMDb ID ve poster varsa -> skip
+            if cache[series_name].get("imdb_id") and cache[series_name].get("poster"):
+                continue  # Burada hiç web isteği yok
+
+            # IMDb ID eksikse önce M3U’dan, sonra otomatik arama
             if not cache[series_name].get("imdb_id") and imdb_id:
                 cache[series_name]["imdb_id"] = imdb_id
                 print(f"🔹 {series_name} [MANUEL IMDb] → {imdb_id}", flush=True)
@@ -102,7 +105,7 @@ def main():
                     cache[series_name]["imdb_id"] = found_imdb
                     print(f"✨ {series_name} [OTOMATİK IMDb] → {found_imdb}", flush=True)
 
-            # Poster yoksa IMDb’den çek
+            # Poster yoksa çek
             current_imdb_id = cache[series_name].get("imdb_id", "")
             if current_imdb_id and not cache[series_name].get("poster"):
                 poster = get_imdb_poster(current_imdb_id, poster_cache)
