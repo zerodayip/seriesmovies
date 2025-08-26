@@ -1,4 +1,828 @@
 {
+  "CINAYET ÇIKMAZI": {
+    "imdb_id": "tt2726552",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAwNDA1NjcwN15BMl5BanBnXkFtZTgwMDY0MDA2MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ÖLÜM OYUNU": {
+    "imdb_id": "tt3024324",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMwOTU0NjAzOV5BMl5BanBnXkFtZTgwNDQ5NzA3NTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "TONI ERDMANN": {
+    "imdb_id": "tt4048272",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODNiNmE5OWMtNDAxMy00YTQzLThjMGItMTAwOTNlNGM2ZDlhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "HAYALET AVCILARI": {
+    "imdb_id": "tt3711622",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3ODM1MzczN15BMl5BanBnXkFtZTgwNzI3MjM5NDE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "WONDER WOMAN": {
+    "imdb_id": "tt0451279",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzYmZkNjktODBmYi00NzNkLWIzMjItMjhkMWZiZTZlN2MwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "TRANSFORMERS 4: KAYIP ÇAĞ": {
+    "imdb_id": "tt2109248",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "EYVAH ANNEM DAĞITTI!": {
+    "imdb_id": "tt4651520",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTY0NWMwZTItYWU5NS00MTBiLWJkNzAtYjQ4MjYyZmUzNDFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "TRANSFORMERS 3: AY'IN KARANLIK YÜZÜ": {
+    "imdb_id": "tt1399103",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_FMjpg_UX1000_.jpg"
+  },
+  "TESTERE 7": {
+    "imdb_id": "tt1477076",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0NTEwNTgwNF5BMl5BanBnXkFtZTcwMDM5MTU5Mw@@._V1_FMjpg_UX1000_.jpg"
+  },
+  "TRANSFORMERS 2: YENILENLERIN İNTIKAMI": {
+    "imdb_id": "tt1055369",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_FMjpg_UX1000_.jpg"
+  },
+  "TESTERE 5": {
+    "imdb_id": "tt1132626",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWViYzg3YzItYzQxNS00MTE1LWJkNTMtMTM3OGI4ODAxOTMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "TESTERE 6": {
+    "imdb_id": "tt1233227",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDA3MTM4M15BMl5BanBnXkFtZTcwOTY4Njg3Mg@@._V1_FMjpg_UX1000_.jpg"
+  },
+  "TESTERE 2": {
+    "imdb_id": "tt0432348",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGVlNjk3MmItZmUzNy00MzcyLWIzOTktZjllYWU5MDAyMjM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "WE GO ON": {
+    "imdb_id": "tt3904278",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGUzOTQ5OTgtOGU4Ny00ZGQ4LWJlOTgtYzgxNWUwYjE4ZDk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ZODIAC UYANIYOR": {
+    "imdb_id": "tt6294892",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDcyNTNhZTgtNjc2MC00YjFkLTg3OTUtZWE1YzQ1YWQxYWI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "RESIDENT EVIL: VENDETTA": {
+    "imdb_id": "tt5776208",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTIxOTI3MDAtMmQ2OS00ODIwLThhMDMtZWExOTBiZGQxZGFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "12 FEET DEEP": {
+    "imdb_id": "tt5143226",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQzMTg0OTYtYjNlMi00OTJiLWFmNzctMTdjMWIzZjNlOTc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "31": {
+    "imdb_id": "tt3835080",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE0NTMzNjE0NV5BMl5BanBnXkFtZTgwMzM4NTM3OTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "UMUT BAHÇESI": {
+    "imdb_id": "tt1730768",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmM4YmY4ZDItZWQ3MC00MmMwLWI4MGUtMzlhMzE1YjE2NjgyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "İSTISNA": {
+    "imdb_id": "tt4721124",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTUxMzE0ZjQtMmRkYy00MmZmLWE1NTUtYzhhYzY3ODhlMjliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KONG: KAFATASI ADASI": {
+    "imdb_id": "tt3731562",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjMzMmU1MWItMmQ4YS00M2FjLTk2ZmUtNjFhNWM4MzNiZTAxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "DOLAŞIM": {
+    "imdb_id": "tt5702566",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjgxMmYyZjYtM2RjMi00MTRkLTg2ZmItZDMwNDJjMDA0ZTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "GERI ÇAĞIRMA": {
+    "imdb_id": "tt5669936",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjMyMmY0NmItM2Q2Ni00MzVlLWFlMDYtZDU1N2IyYTRiZGFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "AŞKIN GÖZÜ KÖRDÜR": {
+    "imdb_id": "tt4699388",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjEwNTllMzMtYmZlZS00OGVhLWJkZTUtZWMzYzk5MmMwNzgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "GALAKSININ KORUYUCULARI": {
+    "imdb_id": "tt2015381",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZmNjQ2MzAtNDlhNi00MmQyLWJhZDMtNmJiMjFlOWY4MzcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ŞEYTANIN OĞLU": {
+    "imdb_id": "tt3216348",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI4NDkxMTAxM15BMl5BanBnXkFtZTgwMzU1Mzk5OTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BÜYÜK SOYGUN": {
+    "imdb_id": "tt5351458",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWMxZDkxMDMtMjFkNC00MDJjLTgxYTQtZWJkNGI3NTdiZTk5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "DANGAL": {
+    "imdb_id": "tt5074352",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "POWER RANGERS": {
+    "imdb_id": "tt3717490",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA5MzU1NDI4NzBeQTJeQWpwZ15BbWU4MDUxMDQ0NDEy._V1_FMjpg_UX1000_.jpg"
+  },
+  "DERINDEKI YARATIK": {
+    "imdb_id": "tt4368098",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjVhMWE0MzctOGJjNy00MjA5LTgzOTItMzk5NmVhNjc4ZmZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "TEHLIKELI ARKADAŞLIK": {
+    "imdb_id": "tt4392770",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQ4NzA3MzcwNV5BMl5BanBnXkFtZTgwMjQ0MzczMDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "DUDAĞININ ALTINDA": {
+    "imdb_id": "tt5073620",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjFiNDM4MWQtNmM4Zi00YWU1LWE1YmYtYzZkYjRhNWExZDY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "OTOBAN": {
+    "imdb_id": "tt2126235",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzc3NmMzM2MtMDc1OC00ZTQ4LWE3NzItMzgwM2NmMzNhOTAzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KARATE KILL": {
+    "imdb_id": "tt4916744",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmE1YjBmNDktMTI1ZC00YTQ1LWIwZDAtNjA3Y2Q5MWQ5YzU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "OH, HELLO ON BROADWAY": {
+    "imdb_id": "tt6987652",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTk4ZDBjZTktNTBkMi00YTRkLWEwNDAtNDUzOWE0OGQxY2RhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "İYI COCUKLAR": {
+    "imdb_id": "tt2170427",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc1Njc3MTQxMV5BMl5BanBnXkFtZTgwNDIxNTAxMDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ZIHINDE YANGIN": {
+    "imdb_id": "tt3704700",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDcxZmVlM2ItNmViMS00YmEwLWFkNGQtMWEyODczZGRlNDNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "NEVESTA": {
+    "imdb_id": "tt6095090",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDVmNzUzM2YtYjc4MC00ZDJkLTg4NzUtZTIzZTBlMDQyOWIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "MASA 19": {
+    "imdb_id": "tt1412528",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzNzI3NzkzMl5BMl5BanBnXkFtZTgwMjA4MzczOTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KARA BULUT": {
+    "imdb_id": "tt5614612",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTk3NTdhZTAtMGI5ZC00NGM5LTg0ODYtZTVhZjVhMTNkZjllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ÖĞRENCI": {
+    "imdb_id": "tt4874206",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3NTM3NzgyNl5BMl5BanBnXkFtZTgwNzE1OTc1MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BEN KATIL DEĞILIM": {
+    "imdb_id": "tt4303340",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDBhMzEyNTYtZjk5Yy00ZTljLWFkNDEtM2ZiYjllN2Q1MTRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BERRAK GÖL": {
+    "imdb_id": "tt1386691",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTI0NjZiZTctNWQ2MC00Yjc0LTg5ZTMtNjNlNTllZjE4ZDZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "MUTLAK KADINLAR": {
+    "imdb_id": "tt4468634",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyOTY0MjcxMV5BMl5BanBnXkFtZTgwODgxMTE5OTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "HIPERSOMNIA": {
+    "imdb_id": "tt5786588",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk2YzkwMzktY2M1Yi00ZGE1LTlmOWMtNjVlZDc5MjA2YTBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "HIZLI VE ÖFKELI 8": {
+    "imdb_id": "tt4630562",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "200 DEGREES": {
+    "imdb_id": "tt4762592",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODkwYmYwZmQtMWI4Mi00ZTA5LTk4ZDQtYmE4NzU1ZTY3MjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "HAYAT": {
+    "imdb_id": "tt5442430",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2Q5NjU0NjctNGQ4Yy00OTQ2LWFkMDgtY2JiMDU1Mzg5OGU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ŞEYTANIN DOĞUŞU": {
+    "imdb_id": "tt4399590",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTllODdmZDctMzliNC00NGFhLWE0NDYtNDhiMGNmZjk2ZWUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "İNCIR REÇELI": {
+    "imdb_id": "tt1808197",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2VlMDc3OTktZDM1Yy00ZDYxLTkxYjAtN2E1YmI5Njc5YzdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ŞEYTANIN GELINI": {
+    "imdb_id": "tt4771956",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjllNmEwM2UtZTFmNC00ODQ4LWExMzUtOTJjYzU1ZWEzMGM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KURTLAR KAPIDA": {
+    "imdb_id": "tt4670016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI1NjIyNjMwN15BMl5BanBnXkFtZTgwMjgzNDEzMDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "SOUTHSIDE WITH YOU": {
+    "imdb_id": "tt4258698",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3MTQ3NzE5NV5BMl5BanBnXkFtZTgwMjgzOTMxOTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KURALLAR İZIN VERMIYOR": {
+    "imdb_id": "tt1974420",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MTk4MTI1M15BMl5BanBnXkFtZTgwOTIxMDQ0MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KUTSAL DAMACANA": {
+    "imdb_id": "tt1092011",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2Q1YzA5NGItYjgxNi00ZGM1LWEwMGUtZWNlZDE0MWNjYjVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KOLPAÇINO 2: BOMBA": {
+    "imdb_id": "tt1862472",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWE3ZTc2MzUtODY2MC00ZTdlLWE4YTAtMTZjNzFiODFjMGRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KOCA DÜNYA": {
+    "imdb_id": "tt6034940",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5ZDEyOWItZmY2NC00NDdiLThmNDUtNDhkYjllNTkzY2ZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "HAYATI YAKALA": {
+    "imdb_id": "tt0490204",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTYyMTExNTgwNF5BMl5BanBnXkFtZTcwMDY4MTEzMw@@._V1_FMjpg_UX1000_.jpg"
+  },
+  "SEVMEK": {
+    "imdb_id": "tt4669986",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NTI3NjIzOF5BMl5BanBnXkFtZTgwNjI0NTI5ODE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "7 CADILAR": {
+    "imdb_id": "tt4424722",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ2NTkzNDA4N15BMl5BanBnXkFtZTgwMDI2NjU4MTI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ATEŞ SERBEST": {
+    "imdb_id": "tt4158096",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTk5MzJhNjItZTRlOC00YWRlLTgyYmUtZmZhZjA0NmFmNjE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "SONSUZ İHTIRAS": {
+    "imdb_id": "tt4177498",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjk0NGYyNDktNGExNi00Yzk3LTgwZTItYmI4NzYzYzZmMDMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "HACIVAT KARAGÖZ NEDEN ÖLDÜRÜLDÜ?": {
+    "imdb_id": "tt0485510",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjE3NTAzZGMtODk3ZS00ZmFjLTlmMDMtZDVlZDg3ZDkxYTQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BERRAK RÜYA": {
+    "imdb_id": "tt6830780",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDgwNGJmYTUtNGVlYy00ZTE0LTg4MjYtYzg4Zjk2NjIyYmQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "SAÇ SAÇA BAŞ BAŞA": {
+    "imdb_id": "tt5294198",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTM4Nzg2MTI1NV5BMl5BanBnXkFtZTgwNjIwODcyMTI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "DEHA": {
+    "imdb_id": "tt4481414",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmJhMDc5NGItOTNiMS00YmMyLWE2ZTAtZWRjYjI5NTY2MWRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "İKI KATI YA DA HIÇ": {
+    "imdb_id": "tt3762912",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MTc3ODc3NF5BMl5BanBnXkFtZTgwMTQ5NDc0MTI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "NERUDA": {
+    "imdb_id": "tt4698584",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzM0NDI4Mjc5NV5BMl5BanBnXkFtZTgwMTM0NzQ0MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "DESTERE": {
+    "imdb_id": "tt1286142",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI2ZjgyMjMtOTg5NS00NzM5LWFlODUtYmM3Nzg4OTcxYzI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "AMOR.COM": {
+    "imdb_id": "tt5635808",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzU3MTA3YTItMDM5My00MmQ4LWFhOGItYjE5ZjFlNDAyMTdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "1 GECE": {
+    "imdb_id": "tt4126694",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGYzNWM4ODktNjIyZC00ZjY1LWJmZmItNTljODBjZjJmMDAxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "D@BBE 4: CIN ÇARPMASI": {
+    "imdb_id": "tt3069758",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxMTQ5MjY4Nl5BMl5BanBnXkFtZTcwMTY3NTQ5OQ@@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ÇARŞI PAZAR": {
+    "imdb_id": "tt4324242",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzQ5MDcyNjA4NF5BMl5BanBnXkFtZTgwODk4ODE0NDE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ÇANAKKALE 1915": {
+    "imdb_id": "tt2415964",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI0MjQwNzItZWYyZi00ZGI5LWJjYjgtNWFjZWNkYzMzNzM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "RECEP İVEDIK 4": {
+    "imdb_id": "tt3477064",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk1NTA1MjAyN15BMl5BanBnXkFtZTgwMjM2MDkzMTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "RECEP İVEDIK 3": {
+    "imdb_id": "tt1577061",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDcxNzAyZjMtMDZiMS00NmNiLTkxNmQtYzFhNjUxYmQzNDdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BEYNELMILEL": {
+    "imdb_id": "tt0893507",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAwNDczMTM3NV5BMl5BanBnXkFtZTcwMjM1NjI0MQ@@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BIR BABA HINDU": {
+    "imdb_id": "tt5608972",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYxODgzY2MtZTdjZS00MTM2LWE0N2UtMjY3MDZkM2VlNjc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BIRLESEN GÖNÜLLER": {
+    "imdb_id": "tt4148400",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDMyMTI4MDMwN15BMl5BanBnXkFtZTgwNzAxMTkxMzE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "RECEP İVEDIK": {
+    "imdb_id": "tt1193516",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzU0M2JkZTItNWEwYy00Y2ViLTg4YjMtNTEzMTcxYzA3NWU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "RECEP İVEDIK 2": {
+    "imdb_id": "tt1373215",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY0MzkzNjgtNDliYi00NWIzLWJhZDItNjdiMzc2OGY2MTFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "DELIBAL": {
+    "imdb_id": "tt5076214",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4MDk5NzcxMV5BMl5BanBnXkFtZTgwMTYyNTc1NzE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BERLIN KAPLANI": {
+    "imdb_id": "tt2142711",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmM1NGIwNjktZTcwNy00ZDRhLTgzY2MtYTMzNjZjODM4ODVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "AY LAV YU": {
+    "imdb_id": "tt1526284",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzJlYzNmNTItZGIzZi00YTVhLWEzMmItOTQxZTMyYWY5ZjYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "AV MEVSIMI": {
+    "imdb_id": "tt1668191",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMjkzODk4Nl5BMl5BanBnXkFtZTcwOTYzODQxNA@@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ANADOLU KARTALLARI": {
+    "imdb_id": "tt2069715",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY0YTJkYWYtMTA3Ni00NGRiLTk1ZTAtMjQ0NmExMmVhMjBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ALI BABA VE 7 CÜCELER": {
+    "imdb_id": "tt4728338",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAwNTQyMjA0NF5BMl5BanBnXkFtZTgwNjUyODMyNzE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ACI HASAT": {
+    "imdb_id": "tt3182620",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkwMTczNzUxNV5BMl5BanBnXkFtZTgwNzA4Mjc2MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KIRLANGIÇLAR VE AMAZONLAR": {
+    "imdb_id": "tt1227183",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMzNTc1MjA5OF5BMl5BanBnXkFtZTgwODIxMTAyOTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "RANGOON": {
+    "imdb_id": "tt4909752",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmUyZjQ0OTItOGJhYS00YjAwLWE5ZDEtODdmMDVjNDdlYTkxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "GOLDSTONE": {
+    "imdb_id": "tt4911996",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmQxYmViYTUtMjc2NS00MTA2LWFmYTEtYzNmOTEyYzdlODQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "YALANLAR BÜYÜCÜSÜ": {
+    "imdb_id": "tt1933667",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDIxOTMxNzc1Ml5BMl5BanBnXkFtZTgwMzgyOTUxMjI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "SIYAH KELEBEK": {
+    "imdb_id": "tt2090465",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDY3NGNiNzEtNTU5Zi00NzVjLWJiNDEtZDZiZmZiZDM0MWIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "YAŞAM KÜRÜ": {
+    "imdb_id": "tt4731136",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTcxY2E0NTMtOGY5Yi00NmY4LWIzZDItZjNhZWQxZmRlZmQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BERLIN SENDROMU": {
+    "imdb_id": "tt3335606",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2JiMGQ3Y2UtMTM4Mi00MTAzLWE1ZTMtYjUxOWU3MjA0ZjQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "SAVAŞ VADISI": {
+    "imdb_id": "tt2119532",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KANLI OYUN": {
+    "imdb_id": "tt4467626",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjIzZmE1NWUtNjIzYS00MjY5LWE0OTMtNGNiNDk1OGY4NTc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "MEAN DREAMS": {
+    "imdb_id": "tt5160928",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTlmZDJiZjItYzdkZS00ODI2LWE2ZGEtMGYxYjY3NTM4Mzk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "SAVAŞ MAKINESI": {
+    "imdb_id": "tt4758646",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzgwNDE1M15BMl5BanBnXkFtZTgwMDAzMDM0MjI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "İSIMSIZ KURBANLAR": {
+    "imdb_id": "tt6398054",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWUxZWQ3ZjktOWUwZC00YzhhLTg5NzUtZWRmNjhiODViNGNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ROMA TATILI": {
+    "imdb_id": "tt0046250",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTVjNWUwZTEtZmI3OS00ODhmLWFhNTEtY2I1OTdlMjg0YTEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KAZABLANKA": {
+    "imdb_id": "tt0034583",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "SAPIK": {
+    "imdb_id": "tt0054215",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "AMERIKAN GANGSTERI": {
+    "imdb_id": "tt0765429",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "GIZLI TEŞKILAT": {
+    "imdb_id": "tt0053125",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "MALTA ŞAHINI": {
+    "imdb_id": "tt0033870",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjJhOTcwNGYtZGM3ZS00ZTYzLWJlZDYtMzllYmRkMDI4MjBkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "OZ BÜYÜCÜSÜ": {
+    "imdb_id": "tt0032138",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "YIKINTI SARAY": {
+    "imdb_id": "tt0120620",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDM1NmViY2QtMWZlZC00OTVkLTg0ZjEtMzQzOGNlMDM3OGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "RÜZGAR GIBI GEÇTI": {
+    "imdb_id": "tt0031381",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmYxZTE3YzMtYmE2Yy00NmFlLTkzYTAtYTAzN2IzNDFkN2E0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "OPERADA BIR GECE": {
+    "imdb_id": "tt0026778",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNjgwMDg4NF5BMl5BanBnXkFtZTgwNTQ5MTM4MTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "T2 TRAINSPOTTING": {
+    "imdb_id": "tt2763304",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MTE1ODkzMl5BMl5BanBnXkFtZTgwMTQ1MTg5MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "LEGO BATMAN FILMI": {
+    "imdb_id": "tt4116284",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BARAKA": {
+    "imdb_id": "tt2872518",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3MDMxNzcxNl5BMl5BanBnXkFtZTgwODc4MzkwOTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KAABIL": {
+    "imdb_id": "tt5460276",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWRiNmVhYzctZTNlYS00NTdmLTkyMTAtMzViNmFiMGZlMGQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "AYI TEDDY 2": {
+    "imdb_id": "tt2637276",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYyNDEyZmQtMjAzOS00NzE1LWIxMjUtMzMyNDQ5ZmVkOTlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "AYI TEDDY": {
+    "imdb_id": "tt1637725",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ÖLÜM ANAHTARI": {
+    "imdb_id": "tt5464234",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzNkOGEyYjItZjA1OC00OTM4LThkMjctNWYyYmYyNWVlNjZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "CANAVARIN ÇAĞRISI": {
+    "imdb_id": "tt3416532",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmRlZDEzN2EtYzdhYS00MDIxLWFlZDEtYTIyMzBkMTY5Zjk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "NEŞELI DALGALAR 2: DALGAMANYA": {
+    "imdb_id": "tt5513260",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDUzNWFmMDUtZGFlZC00MTVlLWFlNDctY2E2NmRmYmFlN2EwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ANNE": {
+    "imdb_id": "tt1458169",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNDgyODEzOV5BMl5BanBnXkFtZTgwMTI4MTA2MjI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BLAME!": {
+    "imdb_id": "tt6574146",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNDI1NzgyNl5BMl5BanBnXkFtZTgwMTgzNTIzMjI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ŞEYTANIN AŞKI": {
+    "imdb_id": "tt4240406",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTVjYWJkYTgtNWZkMy00ZGMyLTg3NDctZTc2ZThlZDFmNjAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KOMÜN": {
+    "imdb_id": "tt3082854",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA4MDVkMmItYTNjMy00ODFhLTgyZDItZTk4MWY3MDMwY2U1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "PATRON BEBEK": {
+    "imdb_id": "tt3874544",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWI2NWE1NzUtNTUyOS00MTNhLTg2NjQtNWM1ZmE4OWQzYTE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "GÜZEL VE ÇIRKIN": {
+    "imdb_id": "tt2771200",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "DEMIR YUMRUK": {
+    "imdb_id": "tt1781827",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQxNzE4ODU1Nl5BMl5BanBnXkFtZTgwMDA4Njk0ODE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KELEBEĞIN RÜYASI": {
+    "imdb_id": "tt2608224",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzk4MDM3NmEtMTUzYi00ZTI2LWFhYTQtNTMzN2ViMGVlZTE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "UYKUSUZ": {
+    "imdb_id": "tt2072233",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjEwMDAyOTM4OV5BMl5BanBnXkFtZTgwMzc4MjMyMDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BIR YILDIZ DÖNÜYOR": {
+    "imdb_id": "tt2387692",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2UxMjZhYWEtNWJjMy00NWNiLWIwM2YtMmIzNWVkZDVlYTEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "MAX STEEL": {
+    "imdb_id": "tt1472584",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk2MTMwOTk3N15BMl5BanBnXkFtZTgwMDI5OTYxMDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KABUSTAN GELEN": {
+    "imdb_id": "tt3174376",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGNlOGFjZDItZTJjNC00MGNlLWFmOTktNDM4NGU0OWJhNTU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "S FIRTINASI": {
+    "imdb_id": "tt5998744",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTg0NzJlNTQtYTIwMy00MmRjLTgwMWItNmIxNGFiOWVhNWQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "İFTARLIK GAZOZ": {
+    "imdb_id": "tt5229228",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWRjN2RjMDctZjFmYS00MmZkLWI5YzctZWExMDU1NDEwYzM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "OLDU MU ŞIMDI?": {
+    "imdb_id": "tt6338036",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTU4Mjc1ZmQtMjg3Mi00MTY0LWI2M2QtOWNmMmMxOWQ3MjZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "SEN BENIM HER ŞEYIMSIN": {
+    "imdb_id": "tt5748380",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2VjYzIwMDAtN2VmOS00MmZkLTk4ZDktYzZjZGFkMzhhMjA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "PETE VE EJDERHASI": {
+    "imdb_id": "tt2788732",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjBiYTdjZDUtYjg3ZS00YTA0LTkzZGUtMzA2OWEyOGZiN2VhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "STAR TREK: SONSUZLUK": {
+    "imdb_id": "tt2660888",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2IyNTVkY2ItMTM4MS00YTU3LWI0ZGMtZDM1Zjg0NGE4NzQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "1 KEZBAN 1 MAHMUT ADANA YOLLARINDA": {
+    "imdb_id": "tt5775012",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmRiY2Q3Y2UtYTE2NS00M2JkLTkyMTYtZjAzYzViYTViMmMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ZOR BIRADERLER 2": {
+    "imdb_id": "tt2869728",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4ODAzMzcxOV5BMl5BanBnXkFtZTgwODkxMDI1NjE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "WARCRAFT: İKI DÜNYANIN İLK KARŞILAŞMASI": {
+    "imdb_id": "tt0803096",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2JmNDUyNTItMTBmZS00MWYxLWEzOTItNWI0OWY3YzlmNzk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "UYUMSUZ SERISI YANDAŞ BÖLÜM 1": {
+    "imdb_id": "tt3410834",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzZlYzZlNDktMDAxMS00OGZiLThkYzAtNWEzNDliYjAyZmM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "MINDHORN": {
+    "imdb_id": "tt4799064",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzRkZmIwZjItMGNmNS00YzZlLWJlZDYtY2Y0YjBjMjdkY2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "MERKEZI İSTIHBARAT": {
+    "imdb_id": "tt1489889",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2NzEzNjIwNl5BMl5BanBnXkFtZTgwNzgwMTEzNzE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KUSURSUZ SILAH": {
+    "imdb_id": "tt4616250",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDc4MTllYTktYWMyMy00M2FiLWEyNzUtYzFkMGRjMjAxZGQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KOD 999": {
+    "imdb_id": "tt1712261",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQyMjg2NDk0MV5BMl5BanBnXkFtZTgwNzU5Njc5NjE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "PARADOX": {
+    "imdb_id": "tt4540434",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk0MTc5MjgwM15BMl5BanBnXkFtZTgwNTQ4Mzc5NzE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KURTULUŞ GÜNÜ 2: YENI TEHDIT": {
+    "imdb_id": "tt1628841",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2FiNTk0NzYtMDJiYi00ZGMxLTg3MjItOWUzODY1MTFkNmEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "JADOTVILLE KUŞATMASI": {
+    "imdb_id": "tt3922798",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjJhZGY0NTUtOTI0Yi00NGY5LTk4ZWYtYmVmNGFiMTZiZTgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ASLA PES ETME 3": {
+    "imdb_id": "tt4790268",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU3Yzk5MWMtZmZlNi00MjFhLTliMmMtNzJkZmVhOWZhNjJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KEANU": {
+    "imdb_id": "tt4139124",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUwODA0NzQxMl5BMl5BanBnXkFtZTgwNzUyMjY3ODE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "DEADPOOL": {
+    "imdb_id": "tt1431045",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "AŞK VE GURUR VE ZOMBILER": {
+    "imdb_id": "tt1374989",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MzA3NzYxMl5BMl5BanBnXkFtZTgwMzQ0NDA5NzE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ANGRY BIRDS FILM": {
+    "imdb_id": "tt1985949",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjU0NDA0OF5BMl5BanBnXkFtZTgwNTc0MTU3OTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "SUIKAST": {
+    "imdb_id": "tt3522806",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjYwODExNzUwMV5BMl5BanBnXkFtZTgwNTgwNjUyOTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "YENIDEN DIRILIŞ": {
+    "imdb_id": "tt3231054",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAzNjQ1Mzk2MjNeQTJeQWpwZ15BbWU4MDU0MDk1Mjcx._V1_FMjpg_UX1000_.jpg"
+  },
+  "MUHTEŞEM YEDILI": {
+    "imdb_id": "tt2404435",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KOMŞUM BIR AJAN": {
+    "imdb_id": "tt2387499",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDU2OTU1NzE2Ml5BMl5BanBnXkFtZTgwMDQzMzgwMDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KARANLIK": {
+    "imdb_id": "tt1878841",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMTg2NjAyMV5BMl5BanBnXkFtZTgwNDE5ODIxODE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KARANLIKLAR ÜLKESI: KAN SAVAŞLARI": {
+    "imdb_id": "tt3717252",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGYzZTMyZGEtZTcyYy00YTUxLTkwZDMtNzYxMjVlOWFkZWI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BILGI TEKNOLOJISI": {
+    "imdb_id": "tt2679552",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzMzY3MzYzNF5BMl5BanBnXkFtZTgwNzgzMTA3OTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "FANTASTIK CANAVARLAR NELERDIR, NEREDE BULUNURLAR?": {
+    "imdb_id": "tt3183660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KARTAL EDDIE": {
+    "imdb_id": "tt1083452",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxOTc5MTU1NF5BMl5BanBnXkFtZTgwODYyNTA1NzE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "THE CHOSEN": {
+    "imdb_id": "tt4547514",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjNlYTc2MzEtM2RkZS00Y2UyLWIwN2EtNmEwYjRjMTE2YTQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "SEVGILI ZINDAGI": {
+    "imdb_id": "tt5946128",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGVhMjczOWYtNWYyOS00MTYwLTg3OWYtNmVjYWQ0OThlOThiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BATMAN V SUPERMAN: ADALETIN ŞAFAĞI": {
+    "imdb_id": "tt2975590",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "YENI BIR DERI": {
+    "imdb_id": "tt4034208",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTljMTI5ZWUtYTNkMi00ZWMwLTljYmEtMjZkNTJjZWI5MDBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "EMILY BLAIR'IN SIRLARI": {
+    "imdb_id": "tt4276206",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjdjMjg3OGMtOTQyOC00ZmI3LWEyMGItZWE1ZDFhYTIxMTg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "MOH MAYA MONEY": {
+    "imdb_id": "tt5343678",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MxYzk4ZmEtZTVmZS00YzRiLTk5YjktZjlkYjNlMWIzMTU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "GÜN BATIMI": {
+    "imdb_id": "tt2381213",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMDgyMDEzOF5BMl5BanBnXkFtZTgwODU1NzA2ODE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "SARI KUŞ": {
+    "imdb_id": "tt5709164",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGRmZDEwNDEtYjExMy00OTk3LTk2ODctMTM3YTM4ZjY3NzQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ULUSAL KUŞ": {
+    "imdb_id": "tt5525310",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MTMxMzIyMl5BMl5BanBnXkFtZTgwMDA0MTUzMDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "REYIS": {
+    "imdb_id": "tt3405236",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NTYwMTE1NV5BMl5BanBnXkFtZTgwODQ5MzAwMTI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "AVCI TOPLAYICI": {
+    "imdb_id": "tt3717316",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxODcyMjM5M15BMl5BanBnXkFtZTgwNjQ1Mzg0MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "HERKESE KARŞI": {
+    "imdb_id": "tt3708886",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWZmOGJmY2QtODE0NS00ZjhmLTk5OTAtODhkNDY2ODE5OTlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "V FOR VENDETTA": {
+    "imdb_id": "tt0434409",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_FMjpg_UX1000_.jpg"
+  },
+  "GÖRÜMCE": {
+    "imdb_id": "tt6215910",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWI5MjliNWYtMmU0ZS00MjU4LTlmNjYtMjRhZTZhNDY5ZjE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "VAMPIR CEHENNEMI: İSTILA": {
+    "imdb_id": "tt5843670",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2NzE2NDU0OF5BMl5BanBnXkFtZTgwOTk4MDY3MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "AVCI'NIN İNTIKAMI": {
+    "imdb_id": "tt2674358",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEzMzQ2NjU1MjVeQTJeQWpwZ15BbWU4MDQ2MjI1MjIy._V1_FMjpg_UX1000_.jpg"
+  },
+  "CESUR YÜREK": {
+    "imdb_id": "tt0112573",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU3MGVkMTYtZTY3OC00ZTVhLWI5N2ItZmIzM2JlZTMwZjBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "PASTORAL AMERIKA": {
+    "imdb_id": "tt0376479",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyMDc3MzUxNl5BMl5BanBnXkFtZTgwOTQ0NjIzMDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "LAVANTA": {
+    "imdb_id": "tt4680980",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjkyMzY3N2QtMzhiNS00MDhkLWI2YTEtNGNkYmFjYjYyZGI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "İKIMIZIN YERINE": {
+    "imdb_id": "tt5934922",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZkNDg4ZjAtOGM5YS00ODM5LTg0Y2QtOWFkZTg3YjFmMDg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KIRILMA": {
+    "imdb_id": "tt4578118",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQ1YTk3ZGQtODAyMS00ZGEwLTgyODMtZjlhOGRkZWM4MTJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "JULIETA": {
+    "imdb_id": "tt4326444",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYzMWE1YjYtYjQ0My00MWExLWEwZTYtZjcyMmY4YzUyNmU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ÇOBANLAR VE KASAPLAR": {
+    "imdb_id": "tt4627352",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDNiZGQ5MGYtMTJhYy00ZGZmLWJiMzYtODUzYzNmYWIzMjlhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "AY’IN KARANLIK YÜZÜ": {
+    "imdb_id": "tt1726252",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTNmNTUxYWUtNjhlZS00ODY5LTg5YTAtZTI3NjkwZTUzODdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "AŞIKLAR ŞEHRI": {
+    "imdb_id": "tt3783958",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BROTHER NATURE": {
+    "imdb_id": "tt4000956",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NDk0NDU5M15BMl5BanBnXkFtZTgwOTk5NDI2OTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ÇITLER": {
+    "imdb_id": "tt2671706",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "RÜZGARIN OĞLU": {
+    "imdb_id": "tt3499096",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MDM1MDU2NF5BMl5BanBnXkFtZTgwMzM3OTIzNzE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "PARÇALANMIŞ": {
+    "imdb_id": "tt4972582",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZjNmVjMzAtZjg2Mi00MWNmLTk5NTItOTExZDYwNTE2YmExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KARANLIĞIN ELLI TONU": {
+    "imdb_id": "tt4465564",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BAYAN SLOANE": {
+    "imdb_id": "tt4540710",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAyODY4Njc4MjBeQTJeQWpwZ15BbWU4MDI0NTIzMDAy._V1_FMjpg_UX1000_.jpg"
+  },
+  "ÇILGIN OFIS PARTISI": {
+    "imdb_id": "tt1711525",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDhiMjg4ODMtYjgyNi00YjZkLWE0ZGItNjU0NGVlMzViZjdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "CAN DOSTUM": {
+    "imdb_id": "tt1753383",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzMzA2NmQtODhhOS00ZjIyLThmYTQtZTVlYzI0MDc2NWFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "BOTTOM OF THE WORLD": {
+    "imdb_id": "tt2337841",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzI2MzY5NV5BMl5BanBnXkFtZTgwNDkwMTE5NzE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ERKEK ERKEĞE BALAYI": {
+    "imdb_id": "tt5243424",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA5NjAxNTAyNzJeQTJeQWpwZ15BbWU4MDAxMTMxODAy._V1_FMjpg_UX1000_.jpg"
+  },
+  "AY IŞIĞI": {
+    "imdb_id": "tt4975722",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  "HANDSOME: NETFLIX GIZEM FILMI": {
+    "imdb_id": "tt5809020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzIyMzA5MDU3M15BMl5BanBnXkFtZTgwNjk1MjA4MTI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "TÜYLÜ KAÇAK": {
+    "imdb_id": "tt5770430",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjkyNzlmNDctODBiMy00MDhmLTlmYTktZjI3MzZmNjYzODhmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "VEZIR PARMAĞI": {
+    "imdb_id": "tt6042446",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODMxOTc2Y2UtMzUzNi00MjMzLWFiZDUtN2YwNTFjOGRhZTU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "YENI NESIL AJAN: XANDER CAGE'IN DÖNÜŞÜ": {
+    "imdb_id": "tt1293847",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzcwMjkxMzQ3NV5BMl5BanBnXkFtZTgwMzgyNDA5MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  "HÜKÜMET KADIN": {
+    "imdb_id": "tt2645092",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5MjI5NDYwM15BMl5BanBnXkFtZTcwNzM3MTA2OQ@@._V1_FMjpg_UX1000_.jpg"
+  },
+  "DAĞ 2": {
+    "imdb_id": "tt5813916",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTkyMjMyZjAtODFkZi00Zjc1LTk3MDAtMTU4MjZlOWE0ZWI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KÖTÜ ÇOCUK": {
+    "imdb_id": "tt6289452",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWNiZDY0N2ItMWZhZS00YmIwLWIxOGYtZGY1MTYyOWEwZTZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "ÇOK FILIM HAREKETLER BUNLAR": {
+    "imdb_id": "tt1640202",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAwNjczNjIwNV5BMl5BanBnXkFtZTcwMzgyODY5Ng@@._V1_FMjpg_UX1000_.jpg"
+  },
   "100 DINGE": {
     "imdb_id": "tt8129794",
     "poster": "https://m.media-amazon.com/images/M/MV5BZjQ0NmU3YjUtYjhhZi00NmFjLTlmZTEtMjcxZjU5ODliZjAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
