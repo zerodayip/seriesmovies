@@ -6655,8 +6655,8 @@
   },
   "https://dizigom1.live/dizi-izle/upload/": {
     "group": "UPLOAD",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 4,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/eva-lasting/": {
@@ -26798,7 +26798,7 @@
   "https://dizigom1.live/dizi-izle/sakamoto-days/": {
     "group": "SAKAMOTO DAYS",
     "last_season": 1,
-    "last_episode": 15,
+    "last_episode": 18,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/the-crossing/": {
