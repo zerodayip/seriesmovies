@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta": {
+    "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?)",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/kijin-gentoushou": {
     "group": "KIJIN GENTOUSHOU",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "WITCH WATCH",
     "last_season": 1,
     "last_episode": 21,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/bad-girl": {
-    "group": "BAD GIRL",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }

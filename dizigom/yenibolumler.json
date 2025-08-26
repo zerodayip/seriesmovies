@@ -1,14 +1,8 @@
 {
-  "https://dizigom1.live/dizi-izle/necaxa/": {
-    "group": "NECAXA",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/hostage/": {
-    "group": "HOSTAGE",
-    "last_season": 1,
-    "last_episode": 5,
+  "https://dizigom1.live/dizi-izle/betty-la-fea-the-story-continues/": {
+    "group": "BETTY LA FEA, THE STORY CONTINUES",
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
@@ -17,16 +11,10 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/007-road-to-a-million/": {
-    "group": "007: ROAD TO A MILLION",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-winning-try/": {
-    "group": "THE WINNING TRY",
+  "https://dizigom1.live/dizi-izle/upload/": {
+    "group": "UPLOAD",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 0,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/long-story-short/": {
@@ -35,20 +23,26 @@
     "last_episode": 10,
     "start_episode": 1
   },
+  "https://dizigom1.live/dizi-izle/aema/": {
+    "group": "AEMA",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "https://dizigom1.live/dizi-izle/bon-appetit-your-majesty/": {
     "group": "BON APPÉTIT, YOUR MAJESTY",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/chief-of-war/": {
-    "group": "CHIEF OF WAR",
+  "https://dizigom1.live/dizi-izle/the-winning-try/": {
+    "group": "THE WINNING TRY",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 10,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/aema/": {
-    "group": "AEMA",
+  "https://dizigom1.live/dizi-izle/necaxa/": {
+    "group": "NECAXA",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
@@ -59,10 +53,16 @@
     "last_episode": 7,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/betty-la-fea-the-story-continues/": {
-    "group": "BETTY LA FEA, THE STORY CONTINUES",
+  "https://dizigom1.live/dizi-izle/sakamoto-days/": {
+    "group": "SAKAMOTO DAYS",
+    "last_season": 1,
+    "last_episode": 15,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/007-road-to-a-million/": {
+    "group": "007: ROAD TO A MILLION",
     "last_season": 2,
-    "last_episode": 4,
+    "last_episode": 8,
     "start_episode": 1
   }
 }
