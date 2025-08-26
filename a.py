@@ -36,7 +36,7 @@ def github_raw(path: str) -> str:
 
 
 def parse_m3u(text: str, is_series=True):
-    """Dizilerde group-title, filmlerde title kısmını temizle"""
+    """Dizilerde group-title, filmlerde title kısmını alır"""
     entries = OrderedDict()
     for line in text.splitlines():
         if line.startswith("#EXTINF"):
@@ -49,7 +49,6 @@ def parse_m3u(text: str, is_series=True):
                 name_match = re.search(r',(.+?)(?:\(|$)', line)
                 key = name_match.group(1).strip() if name_match else "Bilinmeyen"
 
-            # imdb_id M3U’dan alınabilir, poster asla alınmaz
             entries[key] = {
                 "imdb_id": tvg_id_match.group(1).strip() if tvg_id_match else None,
                 "poster": None
@@ -58,7 +57,7 @@ def parse_m3u(text: str, is_series=True):
 
 
 def search_imdb_exact(title, is_series=True):
-    """Tam isim eşleşmeli IMDb araması"""
+    """IMDb’de tam isim eşleşmeli arama yapar"""
     try:
         query = requests.utils.quote(title)
         ttype = "tv" if is_series else "ft"
@@ -76,7 +75,6 @@ def search_imdb_exact(title, is_series=True):
                 if name.lower() == title.lower():  # tam eşleşme
                     img_tag = li.select_one("img")
                     poster = img_tag['src'] if img_tag and 'src' in img_tag.attrs else None
-
                     return imdb_id, poster
     except Exception as e:
         print(f"[HATA] IMDb araması {title}: {e}", flush=True)
@@ -164,35 +162,40 @@ def process_files(paths, cache_file, is_series=True):
             imdb_id = cache[key].get("imdb_id")
             poster = cache[key].get("poster")
 
-            # Eğer M3U’da tvg-id varsa → imdb_id olarak kaydet
+            # M3U’dan gelen imdb_id yazılabilir
             if val["imdb_id"] and not imdb_id:
                 cache[key]["imdb_id"] = val["imdb_id"]
                 updated = True
+                print(f"➕ {key} → IMDb ID bulundu (M3U): {val['imdb_id']}", flush=True)
 
-            # Eğer poster yoksa → IMDb’den dene
-            if not poster:
+            # IMDb’ye sadece eksik veri varsa istek at
+            if not imdb_id or not poster:
                 new_imdb_id, new_poster = search_imdb_exact(key, is_series)
-                if new_poster:
-                    cache[key]["poster"] = new_poster
-                    updated = True
-                # imdb_id boşsa ve IMDb’den bulunduysa kaydet
-                if not cache[key]["imdb_id"] and new_imdb_id:
+
+                if new_imdb_id and not cache[key].get("imdb_id"):
                     cache[key]["imdb_id"] = new_imdb_id
                     updated = True
+                    print(f"🎬 {key} → Yeni IMDb ID bulundu: {new_imdb_id}", flush=True)
 
-    # Önce eksik veri olanlar üstte
-    sorted_cache = OrderedDict(
-        sorted(cache.items(), key=lambda x: (0 if not x[1].get("poster") else 1, x[0].lower()))
-    )
+                if new_poster and not cache[key].get("poster"):
+                    cache[key]["poster"] = new_poster
+                    updated = True
+                    print(f"🖼️ {key} → Yeni poster bulundu: {new_poster}", flush=True)
 
-    save_cache(sorted_cache, cache_file)
-    print(f"✅ JSON kaydedildi: {cache_file}", flush=True)
+    if updated:
+        sorted_cache = OrderedDict(
+            sorted(cache.items(), key=lambda x: (0 if not x[1].get("poster") else 1, x[0].lower()))
+        )
+        save_cache(sorted_cache, cache_file)
+        print(f"✅ JSON kaydedildi: {cache_file}", flush=True)
 
-    # M3U dosyalarını güncelle ve push
-    for path in paths:
-        text = github_raw(path)
-        updated_text = update_m3u_lines(text, sorted_cache, is_series=is_series)
-        push_to_github(path, updated_text, f"Update posters & tvg-id for {path}")
+        # M3U dosyalarını güncelle ve push
+        for path in paths:
+            text = github_raw(path)
+            updated_text = update_m3u_lines(text, sorted_cache, is_series=is_series)
+            push_to_github(path, updated_text, f"Update posters & tvg-id for {path}")
+    else:
+        print("ℹ️ Güncellenecek yeni veri bulunamadı.", flush=True)
 
 
 def main():
