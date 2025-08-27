@@ -1,4 +1,40 @@
 {
+  "https://anizm.com.tr/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season": {
+    "group": "JIDOU HANBAIKI NI UMAREKAWATTA ORE WA MEIKYUU WO SAMAYOU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season": {
+    "group": "TENSEI SHITARA DAINANA OUJI DATTA NODE, KIMAMA NI MAJUTSU WO KIWAMEMASU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/mikadono-sanshimai-wa-angai-choroi": {
+    "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/fermat-no-ryouri": {
+    "group": "FERMAT NO RYOURI",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha": {
+    "group": "CLEVATESS: MAJUU NO OU TO AKAGO TO SHIKABANE NO YUUSHA",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tate-no-yuusha-no-nariagari-season-4": {
+    "group": "TATE NO YUUSHA NO NARIAGARI SEASON 4",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/kanojo-okarishimasu-4th-season": {
     "group": "KANOJO, OKARISHIMASU 4TH SEASON",
     "last_season": 1,
@@ -67,36 +103,6 @@
   },
   "https://anizm.com.tr/busu-ni-hanataba-wo": {
     "group": "BUSU NI HANATABA WO.",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/koupen-chan": {
-    "group": "KOUPEN-CHAN",
-    "last_season": 1,
-    "last_episode": 21,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/one-piece": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1141,
-    "start_episode": 1100
-  },
-  "https://anizm.com.tr/kizu-darake-seijo-yori-houfuku-wo-komete": {
-    "group": "KIZU DARAKE SEIJO YORI HOUFUKU WO KOMETE",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/busamen-gachi-fighter": {
-    "group": "BUSAMEN GACHI FIGHTER",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/city-the-animation": {
-    "group": "CITY THE ANIMATION",
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
