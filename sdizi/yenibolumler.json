@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/the-rising-of-the-shield-hero.html": {
+    "group": "THE RISING OF THE SHIELD HERO",
+    "last_season": 4,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/the-twisted-tale-of-amanda-knox.html": {
     "group": "THE TWISTED TALE OF AMANDA KNOX",
     "last_season": 1,
@@ -80,12 +86,6 @@
   "https://sezonlukdizi6.com/diziler/the-fragrant-flower-blooms-with-dignity.html": {
     "group": "THE FRAGRANT FLOWER BLOOMS WITH DIGNITY",
     "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/rascal-does-not-dream-of-bunny-girl-senpai.html": {
-    "group": "RASCAL DOES NOT DREAM OF BUNNY GIRL SENPAI",
-    "last_season": 2,
     "last_episode": 8,
     "start_episode": 1
   }
