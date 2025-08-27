@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/kanojo-okarishimasu-4th-season": {
+    "group": "KANOJO, OKARISHIMASU 4TH SEASON",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/yuzuki-san-chi-no-yonkyoudai": {
+    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/bulletbullet": {
     "group": "BULLET/BULLET",
     "last_season": 1,
@@ -85,18 +97,6 @@
   },
   "https://anizm.com.tr/city-the-animation": {
     "group": "CITY THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/gachiakuta": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku": {
-    "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
