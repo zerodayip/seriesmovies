@@ -212,6 +212,7 @@ def push_to_github(path_in_repo: str, content: str, commit_message: str):
 def process_files(paths: list[str], cache_file: str, is_series: bool = True):
     cache = load_cache(cache_file)
     any_updated = False
+    group_cache = {} if is_series else None  # sadece diziler için ek cache
 
     for path in paths:
         print(f"[INFO] Taranıyor: {path}", flush=True)
@@ -219,6 +220,10 @@ def process_files(paths: list[str], cache_file: str, is_series: bool = True):
         entries = parse_m3u(text, is_series=is_series)
 
         for key, val in entries.items():
+            if is_series and key in group_cache:  # aynı dizinin bölümü daha önce işlendi
+                cache[key] = group_cache[key]
+                continue
+
             if key not in cache:
                 cache[key] = {"imdb_id": None, "poster": None}
 
@@ -227,6 +232,8 @@ def process_files(paths: list[str], cache_file: str, is_series: bool = True):
             updated_this = False
 
             if imdb_id and poster:
+                if is_series:
+                    group_cache[key] = cache[key]
                 continue
 
             if not imdb_id and val.get("imdb_id"):
@@ -264,6 +271,9 @@ def process_files(paths: list[str], cache_file: str, is_series: bool = True):
 
             if updated_this:
                 any_updated = True
+
+            if is_series:
+                group_cache[key] = cache[key]
 
     if any_updated:
         sorted_cache = OrderedDict(
