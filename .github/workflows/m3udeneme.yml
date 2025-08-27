@@ -234,15 +234,16 @@ jobs:
       - name: Run Setfilm Script
         run: python private_py/movies/setfilmizle/tümfilmlerfastplayembedsadece.py     
 
-      - name: Commit and push M3U files
+      - name: Sync Filmler outputs to private m3u8file repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privatte_m3u8file
-          cd privatte_m3u8file
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privatate_m3u8file
+          cp dizigomfilmler.m3u privatate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler.m3u bulunamadı"
+          cp xtream/setfilmizlefilmler.m3u privatate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler.m3u bulunamadı"
+          cd privaate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add dizigomfilmler.m3u setfilmizlefilmler.m3u || echo "No M3U to add"
-          git diff --cached --quiet || git commit -m "Dİzigom Filmler Güncellendi."
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
+          git add setfilmizlefilmler.m3u dizigomfilmler.m3u
+          git commit -m "Filmlerin çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
 
   part4:
