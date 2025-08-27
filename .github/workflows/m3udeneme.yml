@@ -1,4 +1,4 @@
-name: M3U MAKER
+name: M3U MAKER DENEME
 
 on:
   workflow_dispatch:
