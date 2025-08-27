@@ -1,4 +1,4 @@
-name: M3U MAKER DENEME
+name: M3U MAKER
 
 on:
   workflow_dispatch:
@@ -60,14 +60,14 @@ jobs:
           git push origin main
 
       # 2. Run All JSON
-#      - name: Run Dizigom JSON Script
-#        run: python private_py/series/dizigom/dizigomdizijson.py
+      - name: Run Dizigom JSON Script
+        run: python private_py/series/dizigom/dizigomdizijson.py
 
-#      - name: Run Sezonlukdizi JSON Script
-#        run: python private_py/series/sezonlukdizi/tumdizilerjson.py
+      - name: Run Sezonlukdizi JSON Script
+        run: python private_py/series/sezonlukdizi/tumdizilerjson.py
 
-#      - name: Run Anizm JSON Script
-#        run: python private_py/anime/anizm/anizimjson.py
+      - name: Run Anizm JSON Script
+        run: python private_py/anime/anizm/anizimjson.py
 
       - name: Commit and Push All JSONs to public repo
         run: |
@@ -110,8 +110,8 @@ jobs:
           playwright install
 
       # 3. Sezonlukdizi M3U Maker
-#      - name: Run SezonlukDizi yenibolumler.py
-#        run: python private_py/series/sezonlukdizi/yenibolumler.py
+      - name: Run SezonlukDizi yenibolumler.py
+        run: python private_py/series/sezonlukdizi/yenibolumler.py
 
       - name: Commit and Push SezonlukDizi JSON to public repo
         run: |
@@ -133,8 +133,8 @@ jobs:
           git push origin main
 
       # 4. Dizigom M3U Maker
-#      - name: Run Dizigom yenibolumler.py
-#        run: python private_py/series/dizigom/yenibolumler.py
+      - name: Run Dizigom yenibolumler.py
+        run: python private_py/series/dizigom/yenibolumler.py
 
       - name: Commit and Push Dizigom JSON to public repo
         run: |
@@ -156,8 +156,8 @@ jobs:
           git push origin main
 
       # 5. Anizm M3U Maker
-#      - name: Run Anizm yenibolumler.py
-#        run: python private_py/anime/anizm/yenibolumler.py
+      - name: Run Anizm yenibolumler.py
+        run: python private_py/anime/anizm/yenibolumler.py
 
       - name: Commit and Push Anizm JSON to public repo
         run: |
@@ -179,8 +179,8 @@ jobs:
           git push origin main
 
      #  7. RecTV Script (PASİF)
-#      - name: Run RecTV Script
-#        run: python private_py/rectv/rectv.py
+      - name: Run RecTV Script
+        run: python private_py/rectv/rectv.py
       
       - name: Sync RecTV outputs to private m3u8file repo
         run: |
