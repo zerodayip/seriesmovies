@@ -238,7 +238,7 @@ jobs:
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privatate_m3u8file
           cp dizigomfilmler.m3u privatate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler.m3u bulunamadı"
           cp xtream/setfilmizlefilmler.m3u privatate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler.m3u bulunamadı"
-          cd privaate_m3u8file
+          cd privatate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add setfilmizlefilmler.m3u dizigomfilmler.m3u
