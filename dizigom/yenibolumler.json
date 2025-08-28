@@ -1,14 +1,8 @@
 {
-  "https://dizigom1.live/dizi-izle/long-story-short/": {
-    "group": "LONG STORY SHORT",
+  "https://dizigom1.live/dizi-izle/katrina-come-hell-and-high-water/": {
+    "group": "KATRINA: COME HELL AND HIGH WATER",
     "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/with-love-meghan/": {
-    "group": "WITH LOVE, MEGHAN",
-    "last_season": 2,
-    "last_episode": 8,
+    "last_episode": 3,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/acapulco/": {
@@ -17,16 +11,10 @@
     "last_episode": 7,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-winning-try/": {
-    "group": "THE WINNING TRY",
+  "https://dizigom1.live/dizi-izle/the-terminal-list-dark-wolf/": {
+    "group": "THE TERMINAL LIST: DARK WOLF",
     "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/007-road-to-a-million/": {
-    "group": "007: ROAD TO A MILLION",
-    "last_season": 2,
-    "last_episode": 8,
+    "last_episode": 3,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/countdown/": {
@@ -35,34 +23,10 @@
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
-    "group": "BEYOND THE BAR",
+  "https://dizigom1.live/dizi-izle/alien-earth/": {
+    "group": "ALIEN: EARTH",
     "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/aema/": {
-    "group": "AEMA",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-terminal-list-dark-wolf/": {
-    "group": "THE TERMINAL LIST: DARK WOLF",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/platonic/": {
-    "group": "PLATONIC",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/katrina-come-hell-and-high-water/": {
-    "group": "KATRINA: COME HELL AND HIGH WATER",
-    "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/sakamoto-days/": {
@@ -71,22 +35,58 @@
     "last_episode": 18,
     "start_episode": 1
   },
+  "https://dizigom1.live/dizi-izle/upload/": {
+    "group": "UPLOAD",
+    "last_season": 4,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/with-love-meghan/": {
+    "group": "WITH LOVE, MEGHAN",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/platonic/": {
+    "group": "PLATONIC",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
+    "group": "BEYOND THE BAR",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/long-story-short/": {
+    "group": "LONG STORY SHORT",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/aema/": {
+    "group": "AEMA",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "https://dizigom1.live/dizi-izle/the-twisted-tale-of-amanda-knox/": {
     "group": "THE TWISTED TALE OF AMANDA KNOX",
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/alien-earth/": {
-    "group": "ALIEN: EARTH",
-    "last_season": 1,
-    "last_episode": 4,
+  "https://dizigom1.live/dizi-izle/007-road-to-a-million/": {
+    "group": "007: ROAD TO A MILLION",
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/upload/": {
-    "group": "UPLOAD",
-    "last_season": 4,
-    "last_episode": 4,
+  "https://dizigom1.live/dizi-izle/the-winning-try/": {
+    "group": "THE WINNING TRY",
+    "last_season": 1,
+    "last_episode": 10,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/bon-appetit-your-majesty/": {
