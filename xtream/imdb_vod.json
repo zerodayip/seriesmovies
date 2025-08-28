@@ -1,4 +1,14 @@
 {
+  "BEKÂRLAR GEZEGENI: YUNAN MACERASI": {
+    "imdb_id": null,
+    "poster": null,
+    "year": "2025"
+  },
+  "YAKTIN BIZI FANTEZI FUTBOL": {
+    "imdb_id": null,
+    "poster": null,
+    "year": "2025"
+  },
   "#ALIVE": {
     "imdb_id": "tt10620868",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTI3ZTExYzktMDcwNC00MzUwLTg2NDQtYzBkYjAxMDAyNzVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -156,7 +166,8 @@
   },
   "1917": {
     "imdb_id": "tt8579674",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
   },
   "1917: ONE YEAR, TWO REVOLUTIONS": {
     "imdb_id": "tt11139354",
@@ -4974,7 +4985,8 @@
   },
   "BIR ŞANS DAHA – LAST CHRISTMAS": {
     "imdb_id": "tt8623904",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2NlNTMwYzgtZjI2Ny00ZWExLWE2NDUtNzFlYTQyMmY1NjkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NlNTMwYzgtZjI2Ny00ZWExLWE2NDUtNzFlYTQyMmY1NjkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
   },
   "BIRAK ARTIK ŞU YALANLARINI": {
     "imdb_id": "tt18626656",
@@ -5020,6 +5032,11 @@
     "imdb_id": "tt12610390",
     "poster": "https://m.media-amazon.com/images/M/MV5BY2I0YmNiNmEtNWI2My00NDU5LWIwZWItNWNkNjFmYWJjNTMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2024"
+  },
+  "BIRLIKTE": {
+    "imdb_id": "tt31184028",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWI1Mzg0OWUtNDYxYy00Mzk3LTgxMjMtYWYxZjJhMjI4NDcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
   },
   "BIRTH/REBIRTH": {
     "imdb_id": "tt9048804",
@@ -9003,7 +9020,8 @@
   },
   "DOKTOR UYKU": {
     "imdb_id": "tt5606664",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjc4ZGUyNmUtZGU2ZS00NjJiLTg4YjUtN2UwYWZjYzIzMWNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjc4ZGUyNmUtZGU2ZS00NjJiLTg4YjUtN2UwYWZjYzIzMWNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
   },
   "DOKUNDUĞUM YÜREKLER": {
     "imdb_id": "tt36300902",
@@ -16185,6 +16203,11 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3Njk1MzAxOF5BMl5BanBnXkFtZTgwNzg2MTI4ODE@._V1_FMjpg_UX1000_.jpg",
     "year": "2013"
   },
+  "KAHVALTI KULÜBÜ": {
+    "imdb_id": "tt0088847",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTZiMGU1MWMtNjk0Yi00ZjNjLTljMDEtMDhkNGE2OWY3YzZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "1985"
+  },
   "KAITHI": {
     "imdb_id": "tt9900782",
     "poster": "https://m.media-amazon.com/images/M/MV5BZDk2NWQyMjQtODlkYi00YTJjLTkxMGItMGU0ZDExODI3OWIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -16394,6 +16417,11 @@
     "imdb_id": "tt14225838",
     "poster": "https://m.media-amazon.com/images/M/MV5BZGI1OTg3MGMtZTFhMy00ZjFkLTk5YmEtY2MzMDIzNTA3MzdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2023"
+  },
+  "KAPTAN PHILLIPS": {
+    "imdb_id": "tt1535109",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYyNjI3ZjEtNGE5ZS00MDgxLWIzNGEtZTgzNDVlZjZjYWU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2013"
   },
   "KAPTAN PORSUK KAYIP HAZINENIN PEŞINDE": {
     "imdb_id": "tt11306746",
@@ -22282,7 +22310,8 @@
   },
   "O BÖLÜM 2": {
     "imdb_id": "tt7349950",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWU4ZTk1NWUtZjYzMi00NjRkLThmNjgtMjIyMzQ1YTk1NmE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWU4ZTk1NWUtZjYzMi00NjRkLThmNjgtMjIyMzQ1YTk1NmE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
   },
   "O'DESSA": {
     "imdb_id": "tt26304178",
@@ -27461,7 +27490,8 @@
   },
   "SPENSER KANUNLARI": {
     "imdb_id": "tt8629748",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDFiNmViNGUtMWI2NC00OTI0LTg5NjMtZGYwOTlkM2JlZGRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFiNmViNGUtMWI2NC00OTI0LTg5NjMtZGYwOTlkM2JlZGRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2020"
   },
   "SPF-18": {
     "imdb_id": "tt7296862",
@@ -31680,7 +31710,8 @@
   },
   "THE REVENANT | DIRILIŞ": {
     "imdb_id": "tt34693640",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDNkMWY1NjEtMzcwZC00MjlmLWE1ZWMtODYyMzkyYWQxMDNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDNkMWY1NjEtMzcwZC00MjlmLWE1ZWMtODYyMzkyYWQxMDNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2015"
   },
   "THE RIDER": {
     "imdb_id": "tt6217608",
@@ -36229,7 +36260,8 @@
   },
   "ÇILGIN APTAL AŞK": {
     "imdb_id": "tt1570728",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_FMjpg_UX1000_.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_FMjpg_UX1000_.jpg",
+    "year": "2011"
   },
   "ÇILGIN DERSANE": {
     "imdb_id": "tt0929809",
