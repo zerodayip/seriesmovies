@@ -42,7 +42,7 @@ jobs:
           GH_TOKEN1: ${{ secrets.GH_TOKEN1 }}
           GH_TOKEN2: ${{ secrets.GH_TOKEN2 }}
         run: |
-          python private_py/series/birlestirtoken2.py
+          python private_py/series/birlestirtoken.py
 
       - name: Commit cache.json to Public Repo
         run: |
