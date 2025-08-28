@@ -198,7 +198,7 @@ jobs:
          git push origin main
 
   part3:
-    name: Step 7-8-9 Çalıştır
+    name: Step 8-9 Çalıştır
     runs-on: ubuntu-latest
     needs: part2
     env:
@@ -225,11 +225,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv
        
-      # 7. Dizizgom Filmler
+      # 8. Dizizgom Filmler
       - name: Run dizigomfilmler Script
         run: python private_py/movies/dizigom/dizigomfilmler.py
 
-      # 8. SetFilmİzle Filmler
+      # 9. SetFilmİzle Filmler
       - name: Run Setfilm Script
         run: python private_py/movies/setfilmizle/ajaxtümfilmlerfastplay.py    
 
