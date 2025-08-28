@@ -37,12 +37,12 @@ jobs:
           pip install --upgrade pip
           pip install requests
 
-#      - name: Run birleştirici / üretici scriptleri
-#        env:
-#          GH_TOKEN1: ${{ secrets.GH_TOKEN1 }}
-#          GH_TOKEN2: ${{ secrets.GH_TOKEN2 }}
-#        run: |
-#          python private_py/series/birlestirtoken.py
+      - name: Run birleştirici / üretici scriptleri
+        env:
+          GH_TOKEN1: ${{ secrets.GH_TOKEN1 }}
+          GH_TOKEN2: ${{ secrets.GH_TOKEN2 }}
+        run: |
+          python private_py/series/birlestirtoken.py
 
       - name: Checkout private m3u8file repo
         uses: actions/checkout@v4
