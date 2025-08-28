@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/new-panty--stocking-with-garterbelt": {
+    "group": "NEW PANTY & STOCKING WITH GARTERBELT",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tsuyokute-new-saga": {
+    "group": "TSUYOKUTE NEW SAGA",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season": {
     "group": "JIDOU HANBAIKI NI UMAREKAWATTA ORE WA MEIKYUU WO SAMAYOU 2ND SEASON",
     "last_season": 1,
@@ -93,18 +105,6 @@
     "group": "MUCHUU SA, KIMI NI.",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/hotel-inhumans": {
-    "group": "HOTEL INHUMANS",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/busu-ni-hanataba-wo": {
-    "group": "BUSU NI HANATABA WO.",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
