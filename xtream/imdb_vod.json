@@ -37400,7 +37400,12 @@
   },
   "PERŞEMBE GÜNÜ CINAYET KULÜBÜ": {
     "imdb_id": "tt12001534",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmQ4NWVjN2EtN2U3NC00YzZhLWIzYmMtNjQ0ZjNiN2MzNDI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
+  },
+  "EXODUS": {
+    "imdb_id": "tt21289612",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGEwOTE5MTctNWJlYi00MWZlLTgwZWMtY2I0NDVkM2YzMjg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2025"
   }
 }
