@@ -4,9 +4,8 @@ on:
   # Manuel başlatma
   workflow_dispatch:
 
-  # 5 saat 20 dakika arayla çalışacak zamanlama
   schedule:
-    - cron: '20 15 * * *' 
+    - cron: '0 */3 * * *' 
     
 jobs:
   cleanup:
