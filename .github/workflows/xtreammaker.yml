@@ -149,7 +149,7 @@ jobs:
         run: python private_py/xtream/film.py
 
       - name: Run Xtream Dizi Script
-        run: python private_py/xtream/series2.py
+        run: python private_py/xtream/series.py
 
       - name: Commit group_order.json to Public Repo
         run: |
