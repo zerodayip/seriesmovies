@@ -42,16 +42,6 @@ jobs:
         run: |
           python private_py/series/birlestirtoken2.py
 
-      - name: Commit cache.json to Public Repo
-        run: |
-          mkdir -p xtream
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git pull --rebase origin main || echo "Pull yapılamadı"
-          git add xtream/cache.json || echo "cache.json yok"
-          git diff --cached --quiet || git commit -m "cache.json güncellendi [auto]"
-          git push origin main
-
       - name: Checkout private m3u8file repo
         uses: actions/checkout@v4
         with:
@@ -195,8 +185,8 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git pull --rebase origin main || echo "Pull yapılamadı"
-          git add xtream/*.m3u || echo "No M3U to add"
-          git diff --cached --quiet || git commit -m "Xtream M3U dosyaları güncellendi [auto]"
+          git add dizigomdizi.m3u sezonlukdizi.m3u rec/recdizi.m3u dizigomfilmler.m3u setfilmizlefilmler.m3u rec/recfilm.m3u || echo "No M3U to add"
+          git diff --cached --quiet || git commit -m "Xtream M3U dosyaları IMDB ID ye göre güncellendi [auto]"
           git push origin main
 
   run-xtream-json:
