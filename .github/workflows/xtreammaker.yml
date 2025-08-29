@@ -63,73 +63,10 @@ jobs:
           git diff --cached --quiet || git commit -m "Tüm M3U dosyaları güncellendi [auto]"
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
           git push origin main
-
-  run-imdb-updater:
-   runs-on: ubuntu-latest
-   needs: push-m3u-to-root
-   env:
-    GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-   steps:
-    - name: Checkout public repo
-      uses: actions/checkout@v4
-
-    - name: Checkout private_py repo
-      uses: actions/checkout@v4
-      with:
-        repository: zerodayip/Py
-        token: ${{ secrets.GH_TOKEN }}
-        path: private_py
-        fetch-depth: 0
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-
-    - name: Install Python dependencies
-      run: |
-        pip install --upgrade pip
-        pip install requests beautifulsoup4
-
-    - name: Run Diziler IMDB alma
-      run: python private_py/imdb/imdb.py
-
-    - name: Commit updated JSON files
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add xtream/*.json
-        git diff --cached --quiet || git commit -m "Update imdb.json [auto]"
-        git push origin HEAD
-
-    - name: Checkout private M3U repo
-      uses: actions/checkout@v4
-      with:
-        repository: zerodayip/m3u8file
-        token: ${{ secrets.GH_TOKEN }}
-        path: private_m3u8file
-        fetch-depth: 0
-
-    - name: Copy M3U files to private repo (keep folder structure)
-      run: |
-        shopt -s globstar
-        mkdir -p private_m3u8file
-        cp --parents **/*.m3u private_m3u8file/ 2>/dev/null
-
-    - name: Commit and push M3U files to private repo
-      run: |
-        cd private_m3u8file
-        git config user.name "github-actions[bot]"
-        git config user.email "actions@github.com"
-        git add --all "*.m3u" || echo "No M3U files to add"
-        git diff --cached --quiet || git commit -m "Update M3U files [auto]"
-        git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
-        git push origin main
-      
+    
   run-xtream-m3u:
     runs-on: ubuntu-latest
-    needs: run-imdb-updater
+    needs: push-m3u-to-root
 
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
