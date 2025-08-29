@@ -118,7 +118,7 @@ jobs:
           cd privateee_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add *.m3u || echo "No M3U to add"
+          git add **/*.m3u || echo "No M3U to add"
           git diff --cached --quiet || git commit -m "Tüm M3U dosyaları güncellendi [auto]"
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
           git push origin main
