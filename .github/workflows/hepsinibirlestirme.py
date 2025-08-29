@@ -1,0 +1,63 @@
+name: Push All M3U Playlists to m3u8file Repo Root
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 */11 * * *'
+
+jobs:
+  push-m3u-to-root:
+    runs-on: ubuntu-latest
+
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      - name: Checkout this public repo
+        uses: actions/checkout@v4
+
+      - name: Checkout private Python repo (birlestirtoken.py)
+        uses: actions/checkout@v4
+        with:
+          repository: zerodayip/Py
+          token: ${{ secrets.GH_TOKEN }}
+          path: private_py
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run birleştirici / üretici scriptleri
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          python private_py/series/birlestirtoken.py
+
+      - name: Checkout private m3u8file repo
+        uses: actions/checkout@v4
+        with:
+          repository: zerodayip/m3u8file
+          token: ${{ secrets.GH_TOKEN }}
+          path: private_m3u8file
+          fetch-depth: 0
+
+      - name: Copy merged M3U files to m3u8file repo root
+        run: |
+          find private_py -type f -name "*.m3u" -exec cp {} private_m3u8file/ \;
+
+      - name: Commit and push merged M3U files
+        run: |
+          cd private_m3u8file
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add *.m3u || echo "No M3U to add"
+          git commit -m "Tüm M3U dosyaları güncellendi [auto]" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
+          git push origin main
