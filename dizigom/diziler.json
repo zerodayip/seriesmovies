@@ -27526,5 +27526,17 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/30-rock/": {
+    "group": "30 ROCK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/andhera/": {
+    "group": "ANDHERA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
