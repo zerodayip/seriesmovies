@@ -12,8 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      GH_TOKEN1: ${{ secrets.GH_TOKEN1 }}
-      GH_TOKEN2: ${{ secrets.GH_TOKEN2 }}
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     steps:
       - name: Checkout public repo (bu workflow'un olduğu repo)
@@ -23,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: zerodayip/Py
-          token: ${{ secrets.GH_TOKEN1 }}
+          token: ${{ secrets.GH_TOKEN }}
           path: private_py
           fetch-depth: 0
 
@@ -39,8 +38,7 @@ jobs:
 
       - name: Run birleştirici / üretici scriptleri
         env:
-          GH_TOKEN1: ${{ secrets.GH_TOKEN1 }}
-          GH_TOKEN2: ${{ secrets.GH_TOKEN2 }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           python private_py/series/birlestirtoken.py
 
@@ -58,7 +56,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: zerodayip/m3u8file
-          token: ${{ secrets.GH_TOKEN1 }}
+          token: ${{ secrets.GH_TOKEN }}
           path: private_m3u8file
           fetch-depth: 0
 
@@ -73,7 +71,7 @@ jobs:
           git config user.email "actions@github.com"
           git add *.m3u || echo "No M3U to add"
           git diff --cached --quiet || git commit -m "Tüm M3U dosyaları güncellendi [auto]"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN1 }}@github.com/zerodayip/m3u8file.git
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
           git push origin main
 
   run-imdb-updater:
@@ -82,7 +80,6 @@ jobs:
 
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GH_TOKEN1: ${{ secrets.GH_TOKEN1 }}
 
     steps:
       - name: Checkout public repo
@@ -92,7 +89,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: zerodayip/Py
-          token: ${{ secrets.GH_TOKEN1 }}
+          token: ${{ secrets.GH_TOKEN }}
           path: private_py
           fetch-depth: 0
 
