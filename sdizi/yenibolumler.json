@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/call-of-the-night.html": {
+    "group": "CALL OF THE NIGHT",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/peacemaker.html": {
     "group": "PEACEMAKER",
     "last_season": 2,
@@ -81,12 +87,6 @@
     "group": "ALIEN: EARTH",
     "last_season": 1,
     "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/grand-blue.html": {
-    "group": "GRAND BLUE",
-    "last_season": 2,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
