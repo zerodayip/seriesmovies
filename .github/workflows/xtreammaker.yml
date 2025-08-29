@@ -64,14 +64,15 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
           git push origin main
 
-run-imdb-updater:
-  runs-on: ubuntu-latest
-  needs: push-m3u-to-root
+ 
+  run-imdb-updater:
+   runs-on: ubuntu-latest
+   needs: push-m3u-to-root
 
-  env:
+   env:
     GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-  steps:
+   steps:
     - name: Checkout public repo
       uses: actions/checkout@v4
 
