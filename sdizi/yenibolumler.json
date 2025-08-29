@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/peacemaker.html": {
+    "group": "PEACEMAKER",
+    "last_season": 2,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/dexter-resurrection.html": {
     "group": "DEXTER: RESURRECTION",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "GRAND BLUE",
     "last_season": 2,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/sakamoto-days.html": {
-    "group": "SAKAMOTO DAYS",
-    "last_season": 1,
-    "last_episode": 19,
     "start_episode": 1
   }
 }
