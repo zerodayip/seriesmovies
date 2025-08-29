@@ -40,17 +40,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          python private_py/series/birlestirtoken.py
-
-      - name: Commit cache.json to Public Repo
-        run: |
-          mkdir -p xtream
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git pull --rebase origin main || echo "Pull yapılamadı"
-          git add xtream/cache.json || echo "cache.json yok"
-          git diff --cached --quiet || git commit -m "cache.json güncellendi [auto]"
-          git push origin main
+          python private_py/series/birlestirtoken2.py
 
       - name: Checkout private m3u8file repo
         uses: actions/checkout@v4
