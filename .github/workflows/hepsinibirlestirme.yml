@@ -39,25 +39,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           python private_py/series/birlestirtoken2.py
-
-      - name: Checkout private m3u8file repo
-        uses: actions/checkout@v4
-        with:
-          repository: zerodayip/m3u8file
-          token: ${{ secrets.GH_TOKEN }}
-          path: private_m3u8file
-          fetch-depth: 0
-
-      - name: Copy merged M3U files to m3u8file repo root
-        run: |
-          find private_py -type f -name "*.m3u" -exec cp {} private_m3u8file/ \;
-
-      - name: Commit and push merged M3U files
-        run: |
-          cd private_m3u8file
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add *.m3u || echo "No M3U to add"
-          git commit -m "Tüm M3U dosyaları güncellendi [auto]" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
-          git push origin main
