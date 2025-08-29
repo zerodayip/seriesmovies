@@ -111,21 +111,22 @@ jobs:
         path: private_m3u8file
         fetch-depth: 0
 
-    - name: Copy M3U files to private repo
+    - name: Copy M3U files to private repo (keep folder structure)
       run: |
-       shopt -s globstar
-       cp -- **/*.m3u private_m3u8file/ 2>/dev/null
+        shopt -s globstar
+        mkdir -p private_m3u8file
+        cp --parents **/*.m3u private_m3u8file/ 2>/dev/null
 
     - name: Commit and push M3U files to private repo
       run: |
-       cd private_m3u8file
-       git config user.name "github-actions[bot]"
-       git config user.email "actions@github.com"
-       git add --all "*.m3u" || echo "No M3U files to add"
-       git diff --cached --quiet || git commit -m "Update M3U files [auto]"
-       git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
-       git push origin main
-       
+        cd private_m3u8file
+        git config user.name "github-actions[bot]"
+        git config user.email "actions@github.com"
+        git add --all "*.m3u" || echo "No M3U files to add"
+        git diff --cached --quiet || git commit -m "Update M3U files [auto]"
+        git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
+        git push origin main
+      
   run-xtream-m3u:
     runs-on: ubuntu-latest
     needs: run-imdb-updater
