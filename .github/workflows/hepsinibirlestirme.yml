@@ -16,7 +16,7 @@ jobs:
       - name: Checkout this public repo
         uses: actions/checkout@v4
 
-      - name: Checkout private Python repo (birlestirtoken.py)
+      - name: Checkout private Python repo (birlestirtoken2.py)
         uses: actions/checkout@v4
         with:
           repository: zerodayip/Py
@@ -38,7 +38,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          python private_py/series/birlestirtoken.py
+          python private_py/series/birlestirtoken2.py
 
       - name: Checkout private m3u8file repo
         uses: actions/checkout@v4
