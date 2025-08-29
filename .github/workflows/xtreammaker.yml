@@ -105,32 +105,6 @@ jobs:
         git diff --cached --quiet || git commit -m "Update imdb.json güncellendi [auto]"
         git push origin HEAD
 
-    - name: Checkout private m3u8file repo
-      uses: actions/checkout@v4
-      with:
-        repository: zerodayip/m3u8file
-        token: ${{ secrets.GH_TOKEN }}
-        path: privateee_m3u8file
-        fetch-depth: 0
-
-    - name: Copy updated M3U files maintaining original paths
-      run: |
-        for file in dizigomdizi.m3u sezonlukdizi.m3u rec/recdizi.m3u dizigomfilmler.m3u setfilmizlefilmler.m3u rec/recfilm.m3u; do
-          dir=$(dirname "$file")
-          mkdir -p "privateee_m3u8file/$dir"
-          cp "$file" "privateee_m3u8file/$file"
-        done
-
-    - name: Commit and push M3U files
-      run: |
-        cd privateee_m3u8file
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
-        git add dizigomdizi.m3u sezonlukdizi.m3u rec/recdizi.m3u dizigomfilmler.m3u setfilmizlefilmler.m3u rec/recfilm.m3u
-        git diff --cached --quiet || git commit -m "Tüm M3U dosyaları IMDB ID ile birlikte güncellendi [auto]"
-        git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
-        git push origin main
-
 
   run-xtream-m3u:
     runs-on: ubuntu-latest
