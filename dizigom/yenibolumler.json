@@ -1,8 +1,8 @@
 {
-  "https://dizigom1.live/dizi-izle/foundation/": {
-    "group": "FOUNDATION",
-    "last_season": 3,
-    "last_episode": 8,
+  "https://dizigom1.live/dizi-izle/peacemaker/": {
+    "group": "PEACEMAKER",
+    "last_season": 2,
+    "last_episode": 2,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/countdown/": {
@@ -11,16 +11,10 @@
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/peacemaker/": {
-    "group": "PEACEMAKER",
-    "last_season": 2,
+  "https://dizigom1.live/dizi-izle/the-heritage/": {
+    "group": "THE HERITAGE (SCHEDA)",
+    "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/with-love-meghan/": {
-    "group": "WITH LOVE, MEGHAN",
-    "last_season": 2,
-    "last_episode": 8,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/chief-of-war/": {
@@ -29,20 +23,20 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-twisted-tale-of-amanda-knox/": {
-    "group": "THE TWISTED TALE OF AMANDA KNOX",
+  "https://dizigom1.live/dizi-izle/necaxa/": {
+    "group": "NECAXA",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 7,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-winning-try/": {
-    "group": "THE WINNING TRY",
-    "last_season": 1,
-    "last_episode": 11,
+  "https://dizigom1.live/dizi-izle/foundation/": {
+    "group": "FOUNDATION",
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/two-graves/": {
-    "group": "TWO GRAVES (DOS TUMBAS)",
+  "https://dizigom1.live/dizi-izle/katrina-come-hell-and-high-water/": {
+    "group": "KATRINA: COME HELL AND HIGH WATER",
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
@@ -59,26 +53,20 @@
     "last_episode": 10,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-heritage/": {
-    "group": "THE HERITAGE (SCHEDA)",
-    "last_season": 1,
-    "last_episode": 2,
+  "https://dizigom1.live/dizi-izle/with-love-meghan/": {
+    "group": "WITH LOVE, MEGHAN",
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-terminal-list-dark-wolf/": {
-    "group": "THE TERMINAL LIST: DARK WOLF",
+  "https://dizigom1.live/dizi-izle/two-graves/": {
+    "group": "TWO GRAVES (DOS TUMBAS)",
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/necaxa/": {
-    "group": "NECAXA",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/katrina-come-hell-and-high-water/": {
-    "group": "KATRINA: COME HELL AND HIGH WATER",
+  "https://dizigom1.live/dizi-izle/the-twisted-tale-of-amanda-knox/": {
+    "group": "THE TWISTED TALE OF AMANDA KNOX",
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
@@ -87,6 +75,18 @@
     "group": "BETTY LA FEA, THE STORY CONTINUES",
     "last_season": 2,
     "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-terminal-list-dark-wolf/": {
+    "group": "THE TERMINAL LIST: DARK WOLF",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-winning-try/": {
+    "group": "THE WINNING TRY",
+    "last_season": 1,
+    "last_episode": 11,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/kpopped/": {
