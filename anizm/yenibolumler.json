@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/yofukashi-no-uta-2nd-season": {
+    "group": "YOFUKASHI NO UTA 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru": {
     "group": "YUUSHA PARTY WO TSUIHOU SARETA SHIROMADOUSHI, S-RANK BOUKENSHA NI HIROWARERU: KONO SHIROMADOUSHI GA KIKAKUGAI SUGIRU",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "TENSEI SHITARA DAINANA OUJI DATTA NODE, KIMAMA NI MAJUTSU WO KIWAMEMASU 2ND SEASON",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/mikadono-sanshimai-wa-angai-choroi": {
-    "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
-    "last_season": 1,
-    "last_episode": 9,
     "start_episode": 1
   }
 }
