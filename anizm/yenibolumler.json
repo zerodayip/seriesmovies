@@ -1,4 +1,22 @@
 {
+  "https://anizm.com.tr/summer-pockets": {
+    "group": "SUMMER POCKETS",
+    "last_season": 1,
+    "last_episode": 20,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/kaijuu-8-gou-2nd-season": {
+    "group": "KAIJUU 8-GOU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/uma-musume-cinderella-gray": {
+    "group": "UMA MUSUME: CINDERELLA GRAY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/onmyou-kaiten-rebirth": {
     "group": "ONMYOU KAITEN RE:BIRTH",
     "last_season": 1,
@@ -81,24 +99,6 @@
     "group": "TURKEY!",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/new-panty--stocking-with-garterbelt": {
-    "group": "NEW PANTY & STOCKING WITH GARTERBELT",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tsuyokute-new-saga": {
-    "group": "TSUYOKUTE NEW SAGA",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season": {
-    "group": "JIDOU HANBAIKI NI UMAREKAWATTA ORE WA MEIKYUU WO SAMAYOU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 9,
     "start_episode": 1
   }
 }
