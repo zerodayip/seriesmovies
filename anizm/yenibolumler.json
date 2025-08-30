@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/onmyou-kaiten-rebirth": {
+    "group": "ONMYOU KAITEN RE:BIRTH",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/yofukashi-no-uta-2nd-season": {
     "group": "YOFUKASHI NO UTA 2ND SEASON",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "JIDOU HANBAIKI NI UMAREKAWATTA ORE WA MEIKYUU WO SAMAYOU 2ND SEASON",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season": {
-    "group": "TENSEI SHITARA DAINANA OUJI DATTA NODE, KIMAMA NI MAJUTSU WO KIWAMEMASU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
