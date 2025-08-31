@@ -198,9 +198,44 @@ jobs:
          git push origin main
 
   part3:
-    name: Step 8-9 Çalıştır
+    name: Step 6 Çalıştır
     runs-on: ubuntu-latest
     needs: part2
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      # 6. YeniJSON to AnaJSON
+      - name: Run yenibolumdenanajsona Script
+        run: python private_py/series/yenibolumdenanajsona.py
+
+      - name: Commit and Push Ana JSONs to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dizigom/*.json sdizi/*.json anizm/*.json || echo "No files"
+          git commit -m "All Ana JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+  part4:
+    name: Step 8-9 Çalıştır
+    runs-on: ubuntu-latest
+    needs: part3
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
@@ -243,39 +278,4 @@ jobs:
           git config user.email "actions@github.com"
           git add setfilmizlefilmler.m3u dizigomfilmler.m3u
           git commit -m "Filmlerin çıktısı güncellendi [auto]" || echo "No changes"
-          git push origin main
-
-  part4:
-    name: Step 6 Çalıştır
-    runs-on: ubuntu-latest
-    needs: part3
-    env:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-    steps:
-      - name: Checkout public repo (main)
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          ref: main
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Clone Private Py Repo
-        run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
-
-      # 6. YeniJSON to AnaJSON
-      - name: Run yenibolumdenanajsona Script
-        run: python private_py/series/yenibolumdenanajsona.py
-
-      - name: Commit and Push Ana JSONs to public repo
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add dizigom/*.json sdizi/*.json anizm/*.json || echo "No files"
-          git commit -m "All Ana JSON güncellendi [auto]" || echo "No changes"
           git push origin main
