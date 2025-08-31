@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/witch-watch": {
+    "group": "WITCH WATCH",
+    "last_season": 1,
+    "last_episode": 21,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru": {
+    "group": "YUUSHA PARTY WO TSUIHOU SARETA SHIROMADOUSHI, S-RANK BOUKENSHA NI HIROWARERU: KONO SHIROMADOUSHI GA KIKAKUGAI SUGIRU",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/bad-girl": {
     "group": "BAD GIRL",
     "last_season": 1,
@@ -65,12 +77,6 @@
     "last_episode": 9,
     "start_episode": 1
   },
-  "https://anizm.com.tr/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru": {
-    "group": "YUUSHA PARTY WO TSUIHOU SARETA SHIROMADOUSHI, S-RANK BOUKENSHA NI HIROWARERU: KONO SHIROMADOUSHI GA KIKAKUGAI SUGIRU",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
   "https://anizm.com.tr/silent-witch-chinmoku-no-majo-no-kakushigoto": {
     "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
     "last_season": 1,
@@ -93,18 +99,6 @@
     "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tougen-anki": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/futari-solo-camp": {
-    "group": "FUTARI SOLO CAMP",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
