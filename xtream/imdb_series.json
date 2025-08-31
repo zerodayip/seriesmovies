@@ -10146,5 +10146,21 @@
   "TWO GRAVES": {
     "imdb_id": "tt32146392",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzA3OTE0N2ItNzZjMS00OTI0LTkwNjUtMGMzOGU5ODQ2Y2ZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "KPOPPED": {
+    "imdb_id": "tt35670584",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTBhM2QxMTMtNTA1ZC00NWRmLWFlNTMtZTUwM2ZlNmE3YjIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "THE HERITAGE (SCHEDA)": {
+    "imdb_id": "tt37986748",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWIyOWVjMjUtZTA4MS00N2JmLWI4OTktMWZhOTE0MWE4ZDU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "TWO GRAVES (DOS TUMBAS)": {
+    "imdb_id": null,
+    "poster": null
+  },
+  "SNOWFALL": {
+    "imdb_id": "tt6439752",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI2MDliNDEtNzg3ZC00Y2RlLWI1YmItZTYyOWM0NzMwNGJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   }
 }
