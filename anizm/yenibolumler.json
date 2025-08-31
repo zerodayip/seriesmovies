@@ -1,4 +1,22 @@
 {
+  "https://anizm.com.tr/bad-girl": {
+    "group": "BAD GIRL",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/sono-bisque-doll-wa-koi-wo-suru-season-2": {
+    "group": "SONO BISQUE DOLL WA KOI WO SURU SEASON 2",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/ame-to-kimi-to": {
+    "group": "AME TO KIMI TO",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/kaoru-hana-wa-rin-to-saku": {
     "group": "KAORU HANA WA RIN TO SAKU",
     "last_season": 1,
@@ -85,24 +103,6 @@
   },
   "https://anizm.com.tr/futari-solo-camp": {
     "group": "FUTARI SOLO CAMP",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/mizu-zokusei-no-mahoutsukai": {
-    "group": "MIZU ZOKUSEI NO MAHOUTSUKAI",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tsuihousha-shokudou-e-youkoso": {
-    "group": "TSUIHOUSHA SHOKUDOU E YOUKOSO!",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/dr-stone-science-future-part-2": {
-    "group": "DR. STONE: SCIENCE FUTURE PART 2",
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
