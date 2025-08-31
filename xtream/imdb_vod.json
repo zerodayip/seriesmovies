@@ -1,4 +1,9 @@
 {
+  "FALL - DÜŞÜŞ": {
+    "imdb_id": null,
+    "poster": null,
+    "year": "2022"
+  },
   "#ALIVE": {
     "imdb_id": "tt10620868",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTI3ZTExYzktMDcwNC00MzUwLTg2NDQtYzBkYjAxMDAyNzVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -317,6 +322,11 @@
     "imdb_id": "tt13173736",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzFhYmFhN2QtMWQxZC00M2Y0LTlkOTItZDE1Y2Y5NjllNTBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2022"
+  },
+  "3 IDIOTS": {
+    "imdb_id": "tt1187043",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2009"
   },
   "3. GÜN": {
     "imdb_id": "tt31925259",
@@ -948,14 +958,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNWQ1YWQwNWItNTI0NC00Mjk4LWJmOWItNDJmYjIzNzA3OWQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2024"
   },
-  "ADALET BIRLIĞI: SONSUZ DÜNYALARDA KRIZ BÖLÜM İKI": {
-    "imdb_id": "tt30150907",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWIzNDFkMDAtMTcyZi00Yjc0LWI0MDAtZGM3NmU0YzkyMGU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
   "ADALET BIRLIĞI: SONSUZ DÜNYALARDA KRIZ BÖLÜM ÜÇ": {
     "imdb_id": "tt30150917",
     "poster": "https://m.media-amazon.com/images/M/MV5BMzZmODkzMGEtMzQ2OC00ZTY2LWFjNTUtMjBkZGFmMTU5ZmYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
+  },
+  "ADALET BIRLIĞI: SONSUZ DÜNYALARDA KRIZ BÖLÜM İKI": {
+    "imdb_id": "tt30150907",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIzNDFkMDAtMTcyZi00Yjc0LWI0MDAtZGM3NmU0YzkyMGU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2024"
   },
   "ADALETIN ELI": {
@@ -1678,11 +1688,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOGQxNmYyY2YtZGIyNy00ODgxLThhZWEtZGIyNjJhYzFlOTllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "1995"
   },
-  "ALTIN İŞI": {
-    "imdb_id": "tt0167404",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2018"
-  },
   "ALTIN KADEH": {
     "imdb_id": "tt14644048",
     "poster": "https://m.media-amazon.com/images/M/MV5BMmY4Nzg3OGYtYTQ4YS00NDBhLTg4NDctOWE0N2M0MzQxN2RjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -1692,6 +1697,11 @@
     "imdb_id": "tt10782876",
     "poster": "https://m.media-amazon.com/images/M/MV5BN2ZmNGRlOGQtM2U4Ni00YzBmLTkyNDctOGJhMWNmMmJlNDY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2020"
+  },
+  "ALTIN İŞI": {
+    "imdb_id": "tt0167404",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2018"
   },
   "ALTINA HÜCUM ÇETESI": {
     "imdb_id": "tt36711248",
@@ -3443,11 +3453,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BM2YxZDIyMWEtNzgzNS00Nzk1LTg2ZjUtNGRjYTJlMThmYjY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2025"
   },
-  "AŞKIN İZI": {
-    "imdb_id": "tt0338013",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_FMjpg_UX1000_.jpg",
-    "year": "2025"
-  },
   "AŞKIN KIYAMETI": {
     "imdb_id": "tt14369296",
     "poster": "https://m.media-amazon.com/images/M/MV5BMzI3OWEwNTQtYWM3Yy00NGJmLTgyMDgtMDY5MDIzZGIzN2JkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -3457,6 +3462,11 @@
     "imdb_id": "tt17310382",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NDk5YzktYWEyNy00NDhhLTgwY2EtMzU5MDc1MWUzMzA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2022"
+  },
+  "AŞKIN İZI": {
+    "imdb_id": "tt0338013",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
   },
   "AŞK²": {
     "imdb_id": "tt30050756",
@@ -4127,6 +4137,11 @@
     "imdb_id": "tt0277371",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjllYzVjNjItYjQ2Ni00OGU4LTlkYjItMDYxOTBlM2YzNDA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2001"
+  },
+  "BAŞKA BIR HAYATTA": {
+    "imdb_id": "tt13238346",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQyMTNhNjUtN2VmYy00NWRhLTkwOTctMGVmNTBmNDIxYjZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
   },
   "BAŞKA BIR SEN": {
     "imdb_id": "tt35948720",
@@ -4838,11 +4853,6 @@
     "poster": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo.png",
     "year": "2024"
   },
-  "BIR İPTE ÜÇ CAMBAZ": {
-    "imdb_id": "tt29319990",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzdkZTgzZWUtNGI4NS00MTJmLTllMjktMmE5YzA5YTU5MGRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
   "BIR KADIN ZAFERI": {
     "imdb_id": "tt6932818",
     "poster": "https://m.media-amazon.com/images/M/MV5BOTBjNjJjMTUtNzdhMS00MGEyLWIxYzUtNWMxNGEzMjFjNjlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -4977,6 +4987,11 @@
     "imdb_id": "tt35108470",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjZkY2UwZGYtZDhlZS00M2E5LWI2YTYtOGNlNTdhODAwOGQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2025"
+  },
+  "BIR İPTE ÜÇ CAMBAZ": {
+    "imdb_id": "tt29319990",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzdkZTgzZWUtNGI4NS00MTJmLTllMjktMmE5YzA5YTU5MGRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
   },
   "BIR ŞANS DAHA – LAST CHRISTMAS": {
     "imdb_id": "tt8623904",
@@ -5133,14 +5148,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzRjOWY1ZjEtMWUyZS00NzY2LWJmNzItNDA1MDhlYTg4NjNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2023"
   },
-  "BIZIM İÇIN ŞAMPIYON": {
-    "imdb_id": "tt9124428",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWYxMWVlZmEtMzdjNS00YWM4LWEyZDQtNTUwZjhiMGU1N2YzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2018"
-  },
   "BIZIM KÖYÜN ŞARKISI": {
     "imdb_id": "tt8107882",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1OTRiN2QtMTE2ZS00YjUwLWEwYzItMmE5ODZhZTNhYTZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2018"
+  },
+  "BIZIM İÇIN ŞAMPIYON": {
+    "imdb_id": "tt9124428",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWYxMWVlZmEtMzdjNS00YWM4LWEyZDQtNTUwZjhiMGU1N2YzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2018"
   },
   "BIZIMLE BAŞLADI BIZIMLE BITTI": {
@@ -6228,16 +6243,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "1995"
   },
-  "BÜYÜK İKRAMIYE!": {
-    "imdb_id": "tt0979434",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0ODA2NjcxM15BMl5BanBnXkFtZTcwNTA3NTI0Mw@@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
-  "BÜYÜK İSTANBUL DEPRESYONU": {
-    "imdb_id": "tt11110818",
-    "poster": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo.png",
-    "year": "2020"
-  },
   "BÜYÜK KUMAR": {
     "imdb_id": "tt33255330",
     "poster": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo.png",
@@ -6276,6 +6281,16 @@
   "BÜYÜK ÇIRKIN": {
     "imdb_id": "tt0053717",
     "poster": "https://m.media-amazon.com/images/M/MV5BMzRhYzNiYmEtOGI3Yy00YmMyLThlZTUtZjQxZTM3NTYxYjNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2020"
+  },
+  "BÜYÜK İKRAMIYE!": {
+    "imdb_id": "tt0979434",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0ODA2NjcxM15BMl5BanBnXkFtZTcwNTA3NTI0Mw@@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
+  },
+  "BÜYÜK İSTANBUL DEPRESYONU": {
+    "imdb_id": "tt11110818",
+    "poster": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo.png",
     "year": "2020"
   },
   "BÜYÜK ŞÜPHE": {
@@ -6517,6 +6532,11 @@
     "imdb_id": "tt28090490",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTM3MTVlYTQtNGI2Mi00MTUzLWJhNDktM2E5Njc4ZGQzM2IyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2023"
+  },
+  "CANAVARIN ÇAĞRISI": {
+    "imdb_id": "tt3416532",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1OTA5OTkyNV5BMl5BanBnXkFtZTgwODMwNDU5OTE@._V1_FMjpg_UX1000_.jpg",
+    "year": "2016"
   },
   "CANAVARLAR LIGI": {
     "imdb_id": "tt8337158",
@@ -6873,11 +6893,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjY4ZWM5MTYtZTBmNC00YTY0LWFmOTItMTM5MWRiMDE4YzhiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2024"
   },
-  "CESUR İTFAIYECI": {
-    "imdb_id": "tt8354218",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjY1ZDY1OGMtY2Q5Ni00YTg2LTg0YTYtMzIwMDA3ZjJmYjEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2022"
-  },
   "CESUR KANATLAR DOĞANIN SESI": {
     "imdb_id": "tt8434394",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjczODJhYzQtZDJkZS00NjEwLTk4NjEtMmFkZGE2MmU2NzNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -6897,6 +6912,11 @@
     "imdb_id": "tt0112573",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTU3MGVkMTYtZTY3OC00ZTVhLWI5N2ItZmIzM2JlZTMwZjBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "1995"
+  },
+  "CESUR İTFAIYECI": {
+    "imdb_id": "tt8354218",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjY1ZDY1OGMtY2Q5Ni00YTg2LTg0YTYtMzIwMDA3ZjJmYjEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2022"
   },
   "CEVHER": {
     "imdb_id": "tt17526714",
@@ -8057,6 +8077,11 @@
     "imdb_id": "tt2103281",
     "poster": "https://m.media-amazon.com/images/M/MV5BNWNjYzQ4ZGItZTg1My00NTM2LTg1NDUtYThjOTQwMTYyNjU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2014"
+  },
+  "DAY OF RECKONING": {
+    "imdb_id": "tt35317668",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGUxZmEtMTEyNi00OWMxLTgxMzQtNjUzYTk2ZjUyZjEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
   },
   "DAYI: BIR ADAMIN HIKAYESI": {
     "imdb_id": "tt11267076",
@@ -9468,11 +9493,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTA0Y2Q3OTEtMjU0Yy00MGFiLWFiMWUtNzc3MjQ2OGVjM2I3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2023"
   },
-  "DÜNYA İSTILASI: LOS ANGELES SAVAŞI": {
-    "imdb_id": "tt1217613",
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2JkOTgxOTMtMjQyMi00MTc2LWIwMjQtNDdlMDc0N2ViMjU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2011"
-  },
   "DÜNYA SAVAŞI Z": {
     "imdb_id": "tt0816711",
     "poster": "https://m.media-amazon.com/images/M/MV5BODg3ZTM2YWQtZDE5Ny00NGNiLTkzYjgtYWVlYjNkOTg5NDI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -9482,6 +9502,11 @@
     "imdb_id": "tt8914012",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzI2MTIwYTItZDdiOC00ZDVjLWFjOWItMjBiNDVkYzk4ZjY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2021"
+  },
+  "DÜNYA İSTILASI: LOS ANGELES SAVAŞI": {
+    "imdb_id": "tt1217613",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2JkOTgxOTMtMjQyMi00MTc2LWIwMjQtNDdlMDc0N2ViMjU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2011"
   },
   "DÜNYA'NIN KURTULUŞ GÜNÜ": {
     "imdb_id": "tt21025396",
@@ -9537,6 +9562,11 @@
     "imdb_id": "tt12121582",
     "poster": "https://m.media-amazon.com/images/M/MV5BN2IzZTQ4NzYtNmQ1MS00NzU0LWIyOTktNjEzOGY3ZTE1NzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2023"
+  },
+  "DÜPEDÜZ AŞK": {
+    "imdb_id": "tt33549683",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGRmYmQ0N2UtZTdlMS00Y2EyLTk4MjMtZGQ2OGQ1ZTMxZjEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
   },
   "DÜRÜST BIR HAYAT": {
     "imdb_id": "tt29383300",
@@ -10422,6 +10452,11 @@
     "imdb_id": "tt6745550",
     "poster": "https://m.media-amazon.com/images/M/MV5BMGM5OTQ5OWUtYzk2Yy00NTM2LTg5MDUtZjk4ODA5NTA0NWE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2019"
+  },
+  "EXODUS": {
+    "imdb_id": "tt21289612",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGEwOTE5MTctNWJlYi00MWZlLTgwZWMtY2I0NDVkM2YzMjg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
   },
   "EXODUS: GODS AND KINGS": {
     "imdb_id": "tt1528100",
@@ -11622,6 +11657,11 @@
     "imdb_id": "tt19704612",
     "poster": "https://m.media-amazon.com/images/M/MV5BOGIxNTc3ZDAtMjdhNi00YWYwLTg1MjgtNzM2NjhkNDhhMTljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2023"
+  },
+  "GANGUBAI KATHIAWADI": {
+    "imdb_id": "tt10083340",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjliYjA0MWUtMjVkNi00MDc0LTg1MDgtYWExNGM0OWQ1NjBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2022"
   },
   "GANTZ: O": {
     "imdb_id": "tt5923962",
@@ -13818,6 +13858,11 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYjMyYTUxNWMtYTc1Yi00ODlmLWFiYmUtMjFmOTc2Mjg2YzhkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2025"
   },
+  "HESAPLAŞMA GÜNÜ": {
+    "imdb_id": "tt35317668",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGUxZmEtMTEyNi00OWMxLTgxMzQtNjUzYTk2ZjUyZjEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
+  },
   "HEY! SINAMIKA": {
     "imdb_id": "tt11953194",
     "poster": "https://m.media-amazon.com/images/M/MV5BOTExOWE2NDYtMmRhYi00NTg1LWFlNTktM2E3NDc4OTdlYTM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -14097,6 +14142,11 @@
     "imdb_id": "tt14210720",
     "poster": "https://m.media-amazon.com/images/M/MV5BNGY5NTA3NGQtMjBkZC00ZmYxLTk3MjktZTViZjA1YzA4MzBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2022"
+  },
+  "HOLY NIGHT DEMON HUNTERS": {
+    "imdb_id": "tt15766876",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDZhYjUwMTUtNTcyZS00MWNkLWI3NGItMDZlZGNmMjQxYTQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
   },
   "HOMBRE NEGRO, PIEL BLANCA": {
     "imdb_id": "tt9853686",
@@ -15108,431 +15158,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOWRkZTllNzgtMWZjNy00MDkyLTliNGItNTRmNmY5ZjFhODM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2022"
   },
-  "İBLIS ŞEHRI": {
-    "imdb_id": "tt35111035",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzg3ZGY5MmUtNGViOC00ZjRkLTg4ZmYtMDI1NWZiZDQ0Zjc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2025"
-  },
-  "İBLIS: KARANLIĞIN SAHIBI": {
-    "imdb_id": "tt19357834",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTZmYWQ4M2ItZjZhNi00ODg5LWE4NzEtMzhkZTRjNTFmOGEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2022"
-  },
-  "İHLAL: YAŞAM KARŞITI": {
-    "imdb_id": "tt9820556",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjdlMmFlZWEtZjFhZC00NmRiLTkzYzYtMmYzYzQzMjRmZWE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2020"
-  },
-  "İHTIYAR DELIKANLI": {
-    "imdb_id": "tt0364569",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_FMjpg_UX1000_.jpg",
-    "year": "2003"
-  },
-  "İKI AŞIĞIN ÖLÜMÜ": {
-    "imdb_id": "tt10702148",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmUwOTYxZDUtOGFhNS00ZTE2LWE5OTEtOGQwMWNlOGYxMTZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2021"
-  },
-  "İKI KIŞILIK AILE": {
-    "imdb_id": "tt5078204",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWRhMWJiMWItNTFmYi00NzU3LWJlNWMtNTQ4MDMyMjFiMjg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2016"
-  },
-  "İKIKEZ YAŞA BIRKEZ SEV - VIVIR DOS VECES": {
-    "imdb_id": "tt9063902",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjgyZDgzZDgtMGRkNy00MzBhLWFiOWMtZTQ1NTJhYWYyMGY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2019"
-  },
-  "İKILI OYUN": {
-    "imdb_id": "tt0155267",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTEyMjkzYmYtMDJkNi00NjFiLTlmNDgtMWIzOTUyZDJkZmMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2020"
-  },
-  "İKIMIZIN YERINE": {
-    "imdb_id": "tt5934922",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWZkNDg4ZjAtOGM5YS00ODM5LTg0Y2QtOWFkZTg3YjFmMDg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2016"
-  },
-  "İKINCI GÖRÜŞTE AŞK": {
-    "imdb_id": "tt8265928",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2RiNTAwMDYtZTJhNi00NjJjLWE1NzQtYjY4MzE2ZGQ5MDJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2019"
-  },
-  "İKIZ": {
-    "imdb_id": "tt19356262",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDFmNzc4OGItNWRiZS00Mzc0LWE4MjgtNjMzZTEzN2ZjNWY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2022"
-  },
-  "İKIZLER  PROJESI": {
-    "imdb_id": "tt1025100",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWY2ZmM4ZGEtODJjMC00MzY5LTk4ZmYtNzA5NmRhYzA5Y2EzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2022"
-  },
-  "İKIZLER TAKIMI": {
-    "imdb_id": "tt8912936",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDU1NWU3MTItZTRjNi00NzViLWIxOTYtMmUxZTc3Njg5Y2FiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
-  "İLGI ALANI": {
-    "imdb_id": "tt7160372",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjk4MTQ3MGEtZmI4OS00N2NhLWI5ZjgtYWE5ZWVkZGExYTQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
-  "İLGI MANYAĞI": {
-    "imdb_id": "tt18816518",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDFjZDI5NzUtZGM0Yy00ZGMyLWIwMDMtM2ZiYzc1MWIxYzBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2022"
-  },
-  "İLK AŞK": {
-    "imdb_id": "tt0092890",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmIwZjA1NzUtNTA0OS00OWMyLWE5MzctM2RjOWYxZjQyZDdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2006"
-  },
-  "İLK GÜN": {
-    "imdb_id": "tt0139654",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjRlNjUwOGYtNGQxZS00ZjhkLTg0NDgtYjcwNzZlNDU2YjBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2001"
-  },
-  "İLK TANIŞTIĞIMIZDA": {
-    "imdb_id": "tt5783956",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzM1OTI4NDM4Nl5BMl5BanBnXkFtZTgwMDAwODg2NDM@._V1_FMjpg_UX1000_.jpg",
-    "year": "2018"
-  },
-  "İLK ÖPÜCÜKTE AŞK": {
-    "imdb_id": "tt14463514",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWZhMTJhZDktY2UyYi00M2ZiLTgxNzUtZTM4NjljYTNjYWQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
-  "İLLEGAL HAYATLAR": {
-    "imdb_id": "tt21385728",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmNzcxZTQtZDk5ZC00MmM0LThmZmUtOTM1NWQyM2VkYzg4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
-  "İLLEGAL HAYATLAR: MECLIS": {
-    "imdb_id": "tt32251194",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGU1ZjI3NWUtMjhkOC00ZjViLTkyZjAtY2M0MTg1ZjA2ZDhmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
-  "İNANILMAZ AILE": {
-    "imdb_id": "tt0317705",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UX1000_.jpg",
-    "year": "2004"
-  },
-  "İNANILMAZ HULK": {
-    "imdb_id": "tt8051894",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWU2Y2EwM2ItMTYxZS00OTk0LTgxMzMtOTFmYjBlOWMzN2YxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2008"
-  },
-  "İNANILMAZ NOEL": {
-    "imdb_id": "tt29961072",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGI4ZjllNGQtYTNlZC00YTFiLTg1NzYtYTRjNjJlYTFjMTEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
-  "İNANILMAZ ÖRÜMCEK ADAM": {
-    "imdb_id": "tt0948470",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_FMjpg_UX1000_.jpg",
-    "year": "2012"
-  },
-  "İNANILMAZ ÖRÜMCEK ADAM - THE AMAZING SPIDER-MAN": {
-    "imdb_id": "tt0948470",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_FMjpg_UX1000_.jpg",
-    "year": "2012"
-  },
-  "İNANILMAZ ÖRÜMCEK ADAM 2": {
-    "imdb_id": "tt0316654",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2014"
-  },
-  "İNANILMAZ ÖRÜMCEK ADAM 2 - THE AMAZING SPIDER-MAN 2": {
-    "imdb_id": "tt1872181",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_FMjpg_UX1000_.jpg",
-    "year": "2014"
-  },
-  "İNCIR REÇELI": {
-    "imdb_id": "tt1808197",
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2VlMDc3OTktZDM1Yy00ZDYxLTkxYjAtN2E1YmI5Njc5YzdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2011"
-  },
-  "İNCIR REÇELI 2": {
-    "imdb_id": "tt4003046",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzMxNjk3NDAtNTY4ZS00YjJiLThjODAtNDVhZGFkZjk0NTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2014"
-  },
-  "İNFAZCI": {
-    "imdb_id": "tt0330793",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5NjcwMTQxMV5BMl5BanBnXkFtZTcwODg5ODkwNQ@@._V1_FMjpg_UX1000_.jpg",
-    "year": "2022"
-  },
-  "İNSAN AVCISI": {
-    "imdb_id": "tt0091474",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTVlMDQ5MmYtYmFhMi00OTE1LThmNTEtZTgyMzg5Njk2OWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "1986"
-  },
-  "İNSAN SERMAYESI": {
-    "imdb_id": "tt2465578",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjM0MTExMTkxNl5BMl5BanBnXkFtZTgwMzgwNDI0MzE@._V1_FMjpg_UX1000_.jpg",
-    "year": "2014"
-  },
-  "İNSAN YIYENLER": {
-    "imdb_id": "tt6112524",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGE2MDVjOGUtMzlhMi00YTM5LTk1OTItMmIzYTA3M2RhODM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2019"
-  },
-  "İNSANCIL": {
-    "imdb_id": "tt16280912",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzc0OWI4NGItNzEwOC00MDBiLWI0NjAtMDBmZmY5Mzc2MzFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
-  "İNSANLAR İKIYE AYRILIR": {
-    "imdb_id": "tt12907978",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmEwMWFkNGYtNjE5NC00NmZhLWJjY2YtNmMzYzJiNTEyMDFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2021"
-  },
-  "İNSANLIK İŞLERI": {
-    "imdb_id": "tt0302664",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjEwMzIyNWQtZjIyMC00YTExLTkzOWMtNzRjMTYwNjJiYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2017"
-  },
-  "İNTIKAM": {
-    "imdb_id": "tt11083552",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2017"
-  },
-  "İNTIKAM - AVENGEMENT": {
-    "imdb_id": "tt8836988",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1ZWNlODctNmI0MC00NmUzLWE4NTYtZjUwYzFlODYzMTgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2019"
-  },
-  "İNTIKAM - MANYEO": {
-    "imdb_id": "tt0066984",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWRhZDMxZmMtMmU3ZS00ZjRiLTg4Y2YtNzU1MTNlNzMyM2MxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2018"
-  },
-  "İNTIKAM KANKAM": {
-    "imdb_id": "tt13327038",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTE3OGE3Y2EtNGQ5YS00NDY4LWJhZDMtYjYyZTAxNDE5MGNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2022"
-  },
-  "İNTIKAM KAPANI": {
-    "imdb_id": "tt1945084",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjEyNTU4NTE5NV5BMl5BanBnXkFtZTgwNzY4NzIxNDE@._V1_FMjpg_UX1000_.jpg",
-    "year": "2014"
-  },
-  "İNTIKAM MELEĞI": {
-    "imdb_id": "tt28056072",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODM2ZDE3YTMtODY2MS00MjA3LWFjZjItMzY3NGQ4MzRkOWY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2018"
-  },
-  "İNTIKAM UĞRUNA": {
-    "imdb_id": "tt0416861",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjA1MDRlNWMtMTU1ZC00NjhiLTgyN2EtZGFlMTZlN2I1NzcwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2004"
-  },
-  "İNTIKAM VAKTI": {
-    "imdb_id": "tt11083552",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2021"
-  },
-  "İRLANDALI": {
-    "imdb_id": "tt1302006",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2YThkNmQtOWJhYy00ZDc3LWEzOGEtMmQwNzM0YjFmZWIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2019"
-  },
-  "İRTIFA": {
-    "imdb_id": "tt0115895",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjNhODVmOWYtY2JmNS00NTk2LThlYjUtNDFmMjU5Y2FkZTMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2010"
-  },
-  "İSIMSIZ KATILLER": {
-    "imdb_id": "tt0029808",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGM4ZTA5MzgtNTI4Mi00MWViLTlkNDUtZTI2YzRkNDhiODVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2019"
-  },
-  "İSKOÇYA'NIN SON KRALI": {
-    "imdb_id": "tt0455590",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDg4NjA0YzctNWMzMi00NmY1LTkyMGYtZjI4ZjFmZjMzMGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2006"
-  },
-  "İSLAM'IN KILICI: ÇÖL ASLANI ÖMER MUHTAR": {
-    "imdb_id": "tt0081059",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjViYjBkMjgtNjg2Zi00ZmRkLWFhYjUtMDJhMzA3OGUzNGVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "1981"
-  },
-  "İSTANBUL İÇIN SON ÇAĞRI": {
-    "imdb_id": "tt23334616",
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjdmMDgtMTBhMi00NGUzLWFmNGItYWNiNGQ2YWM2YzA4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
-  "İSTANBUL KIRMIZISI": {
-    "imdb_id": "tt5927352",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzU1MDdlYjQtZTBjNi00Nzk2LTgwNDEtOWFkNmVjOTU0ZDU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2017"
-  },
-  "İSTASYON": {
-    "imdb_id": "tt0183122",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxMDk0NTAtNzM4Ny00ODlmLTg2MTctMjNkNmI0ZWQ5M2I3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2020"
-  },
-  "İSTILA ALTINDA – CAPTIVE STATE": {
-    "imdb_id": "tt5968394",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2FhNTRhYmYtOGIzNS00OTJjLWI4ODEtYzBlOWU0ZmI2Njc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2019"
-  },
-  "İSYAN - RIOT": {
-    "imdb_id": "tt11737466",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGY1ZDA4MWMtNmFjMS00YWQxLWEzODYtNTY2YzJiZWZlYmFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2015"
-  },
-  "İTALYAN İŞI": {
-    "imdb_id": "tt0317740",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjJjNzc5YjAtZjU2Ni00ZjVkLTkzYmItM2E2NDM0NWE1YmJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2003"
-  },
-  "İTALYANCA DERSLERI": {
-    "imdb_id": "tt9893084",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGNkYWY3YjMtM2VhZi00OTczLWJmY2EtOTA5MDEwZTA3YzQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2022"
-  },
-  "İTIRAFLAR KOKUHAKU": {
-    "imdb_id": "tt1590089",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q2MzNiNzctM2VjOC00YmU5LWI3YWYtYWUwNzFjYmViOTlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2010"
-  },
-  "İYI ADAMIN 10 GÜNÜ": {
-    "imdb_id": "tt23334464",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGI0YjAwZWUtZmVkYS00YzIwLWFlYTYtZjU2ZjcwNWI2YjgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
-  "İYI ADAMLAR": {
-    "imdb_id": "tt10676052",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWI2ODk5YzEtNTM1MC00OTk3LWE0ZWEtM2QzMDBjMjk2Y2YzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2016"
-  },
-  "İYI AILE ÇOCUĞU": {
-    "imdb_id": "tt0253151",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGQyZmEwMTEtZmVjNS00ZWMyLWFmZWMtZjg4ZmYyZjgwMmM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "1978"
-  },
-  "İYI KATILLER SEVGILIM": {
-    "imdb_id": "tt13109952",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzE0MzFkOWUtMDFhNC00YjQxLTk3NDQtNzkzOTU1NmRhZTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2021"
-  },
-  "İYI KI ALDATILMIŞIM": {
-    "imdb_id": "tt26787296",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGVmODcyMmQtN2FlYy00ZjhlLWIyMDEtNzkyZmZiNDk1YzRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
-  "İYI KI YAPMIŞIM": {
-    "imdb_id": "tt15139398",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmQzYTdiMGYtYWE5Ny00YzUxLWFlMTEtOTNmZjVjMGU3MWM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2020"
-  },
-  "İYI OLAN KAZANSIN": {
-    "imdb_id": "tt1596350",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTQ4MDE2MV5BMl5BanBnXkFtZTcwOTE0MTgwNw@@._V1_FMjpg_UX1000_.jpg",
-    "year": "2012"
-  },
-  "İYI OYUN": {
-    "imdb_id": "tt8510324",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjE2ZmZjMzAtYjAwOC00NDFkLTkxZWItMjg0NDc5OTZkMDcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2018"
-  },
-  "İYI ŞANSLAR CHUCK": {
-    "imdb_id": "tt0452625",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU1NzM1MTE1OV5BMl5BanBnXkFtZTYwNDQyMjU3._V1_FMjpg_UX1000_.jpg",
-    "year": "2007"
-  },
-  "İYI ŞANSLAR LEO GRANDE": {
-    "imdb_id": "tt13352968",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzA3ZDNjOTYtMWM3Ny00MTE0LThlNTAtNGFiNGU0NzhhODJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2022"
-  },
-  "İYI, KÖTÜ VE ÇIRKIN": {
-    "imdb_id": "tt0060196",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "1966"
-  },
-  "İYILIK VE KÖTÜLÜK OKULU": {
-    "imdb_id": "tt2935622",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWE0MmUzYjEtNzQ4MS00MjkzLWE3YTYtYjQwNmZlZTJkODRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2022"
-  },
-  "İÇ SAVAŞ": {
-    "imdb_id": "tt17279496",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTU5ZTk5NDktZmZmMy00NjlkLTkyODYtYjVmMjRmNmRhYTgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
-  "İÇ SAVAŞ - CIVIL WAR": {
-    "imdb_id": "tt17279496",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTU5ZTk5NDktZmZmMy00NjlkLTkyODYtYjVmMjRmNmRhYTgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
-  "İÇERIDE": {
-    "imdb_id": "tt21454134",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDY3MGVjYjItN2I1OC00ZGNkLWIwOGQtNTBiNWM1NmQ5NTZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
-  "İÇERIDE  - SHUT IN": {
-    "imdb_id": "tt33131160",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2JlMDkzY2MtYzZlNy00ZWQ0LWE0ZTgtNDBmNWFkM2ZjOGQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2016"
-  },
-  "İÇERIDEKI ADAM": {
-    "imdb_id": "tt0454848",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMDZkYjktMjYyOS00MTM2LTg2MmQtOTUwMzJjMDlhZDY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
-  "İÇERIDEKI ADAM 2": {
-    "imdb_id": "tt0454848",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMDZkYjktMjYyOS00MTM2LTg2MmQtOTUwMzJjMDlhZDY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2019"
-  },
-  "İÇIMDEKI CANAVAR": {
-    "imdb_id": "tt14539318",
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZkMGU0ZDUtMTU0MS00ODBiLTkwYjAtYTcxZTkyYjJjMjcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
-  "İÇIMDEKI HAYVAN": {
-    "imdb_id": "tt23572542",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGY0YzljZDQtNGJlYi00ZTNhLThjMTctYWMxNDMxNmVlN2Y5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
-  "İÇIMDEKI YANGIN": {
-    "imdb_id": "tt1255953",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2010"
-  },
-  "İÇINDE KIM VAR?": {
-    "imdb_id": "tt14577874",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDkxOTZmZTYtYTNmNS00MDk3LWE0MDAtMzY5M2Y5YmU1MmI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
-  "İÇINDEKI ATEŞ": {
-    "imdb_id": "tt6133444",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjI4YmU1MTAtOGVkZi00NWI5LTljMGItZjhlYWU2YzEzNzg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
-  "İŞGAL - THE ROUND UP": {
-    "imdb_id": "tt1382725",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNjMwNjU1NV5BMl5BanBnXkFtZTcwNTU0Njk5NQ@@._V1_FMjpg_UX1000_.jpg",
-    "year": "2011"
-  },
-  "İŞKENCE GECESI": {
-    "imdb_id": "tt3099498",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzdkNDUyY2QtY2U5Ny00NDM3LWFlMWEtY2Y1MDcxYWYzNGZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2014"
-  },
-  "İŞKENCE ODASI": {
-    "imdb_id": "tt1029234",
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2Q5MWQ0OWYtMTUzMC00ZmU3LWEyNDAtZjg1NjE2ZjVkM2I3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2015"
-  },
-  "İŞTE BÖYLE BIR OĞLAN": {
-    "imdb_id": "tt4590256",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTljZjk5OTYtZWEwZi00NTNmLWE5ZWMtYjg4YWJiYmFkNTM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2021"
-  },
   "I’LL BE RIGHT THERE": {
     "imdb_id": "tt24082864",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzU2ZGQ4MDgtY2ZhMi00OTc5LWIwNmQtODA5ZDg0ZDkwOGY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -15908,11 +15533,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDNiMTM0NjctZmQ1ZS00MzYyLWI2Y2QtMjU4NWVhNWM3NTkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2021"
   },
-  "JUNG_E": {
-    "imdb_id": "tt22352848",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTMyNGY3NjMtNTRkMS00OWMwLWExNWEtMWJiZmI3MDExOWZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
   "JUNGLE CRUISE": {
     "imdb_id": "tt0870154",
     "poster": "https://m.media-amazon.com/images/M/MV5BMWU5ZTBkMjQtMzg2Yi00ZmJlLTk4YWEtYTc0ZjU1YzE1NGNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -15927,6 +15547,11 @@
     "imdb_id": "tt8710596",
     "poster": "https://m.media-amazon.com/images/M/MV5BMGRiYmVjNjUtMDliZS00NzkyLWJlOTEtNWQ3MWY5ZDMxMmRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2020"
+  },
+  "JUNG_E": {
+    "imdb_id": "tt22352848",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMyNGY3NjMtNTRkMS00OWMwLWExNWEtMWJiZmI3MDExOWZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
   },
   "JUNIORS": {
     "imdb_id": "tt20455254",
@@ -16173,11 +15798,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODI2M2Q3ZmQtNGExMi00NWExLThhM2YtNDZlNTgzNWI1NDFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2021"
   },
-  "KAHRAMAN İKILI": {
-    "imdb_id": "tt1621039",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjE0NjIwMzAwOF5BMl5BanBnXkFtZTgwOTIyMzMzMDE@._V1_FMjpg_UX1000_.jpg",
-    "year": "2013"
-  },
   "KAHRAMAN KUYRUKLAR": {
     "imdb_id": "tt22360682",
     "poster": "https://m.media-amazon.com/images/M/MV5BNWUxZDYwNDQtOTQxMC00MDI2LTlhMGUtMTZlNTcxOTJjNmE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -16187,6 +15807,11 @@
     "imdb_id": "tt8417168",
     "poster": "https://m.media-amazon.com/images/M/MV5BZWRhMDJkNzYtNjM0MS00YjYyLTgwMjUtYzVlMzRkZTkzY2IzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2023"
+  },
+  "KAHRAMAN İKILI": {
+    "imdb_id": "tt1621039",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjE0NjIwMzAwOF5BMl5BanBnXkFtZTgwOTIyMzMzMDE@._V1_FMjpg_UX1000_.jpg",
+    "year": "2013"
   },
   "KAHRAMANCA KAYBEDENLER": {
     "imdb_id": "tt10384744",
@@ -16393,11 +16018,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZDIwMDAxM2ItY2RkZS00N2ZlLTg5NmItOGE3ODY2Yzk4MTA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2025"
   },
-  "KAPTAN AMERIKA: İLK YENILMEZ": {
-    "imdb_id": "tt0458339",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzUyM2YyY2MtNzNlMS00MWU5LTgxNjAtNzZlNmI2NjU2NDZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2011"
-  },
   "KAPTAN AMERIKA: KAHRAMANLARIN SAVAŞI": {
     "imdb_id": "tt3498820",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_FMjpg_UX1000_.jpg",
@@ -16407,6 +16027,11 @@
     "imdb_id": "tt1843866",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjE3ODI3OTEtZjIxMS00MmJmLTk0OTAtY2U5ZmEzNDViYTk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2014"
+  },
+  "KAPTAN AMERIKA: İLK YENILMEZ": {
+    "imdb_id": "tt0458339",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzUyM2YyY2MtNzNlMS00MWU5LTgxNjAtNzZlNmI2NjU2NDZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2011"
   },
   "KAPTAN BENIM": {
     "imdb_id": "tt14225838",
@@ -18378,11 +18003,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzE4ZjUwYjYtNTVhYy00NmU5LTg5YzUtMmM3Nzk3YjdhZWU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2011"
   },
-  "KUTSAL İNCIRIN TOHUMU": {
-    "imdb_id": "tt32178949",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmYxMTlmODQtZTUyOS00YWE3LWFjYTktOWU4ZjU3ZGYwZDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
   "KUTSAL MERYEM": {
     "imdb_id": "tt32084246",
     "poster": "https://m.media-amazon.com/images/M/MV5BMDM5YWJlNjgtYzUyNy00MTc4LWFkZTAtMTdlNDM2MDcwYTcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -18397,6 +18017,11 @@
     "imdb_id": "tt18550140",
     "poster": "https://m.media-amazon.com/images/M/MV5BNGU4ODE3OWUtODQyMC00Y2VjLWJjNjAtMzE1MTk5YTRiODljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2022"
+  },
+  "KUTSAL İNCIRIN TOHUMU": {
+    "imdb_id": "tt32178949",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmYxMTlmODQtZTUyOS00YWE3LWFjYTktOWU4ZjU3ZGYwZDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
   },
   "KUTUP KÖPEKLERI": {
     "imdb_id": "tt4426464",
@@ -18623,11 +18248,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZmU5NmFkYzQtMjY5OC00ZjMzLWJjOWUtNTM2NWFhYTNjNTRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2016"
   },
-  "KÜÇÜK İPUÇLARI - THE LITTLE THINGS": {
-    "imdb_id": "tt10016180",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmRjYmQ5Y2YtYTUyMy00OTg0LWE1YmEtZTI2NDYxYTBhYTYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2021"
-  },
   "KÜÇÜK JOE": {
     "imdb_id": "tt9204204",
     "poster": "https://m.media-amazon.com/images/M/MV5BYWM5M2E4MmMtMjVlZC00NTBiLTlkZGYtNDY1Y2IxZDhjN2JmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -18647,6 +18267,11 @@
     "imdb_id": "tt31022050",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTU3ODJmZGItNGI1OS00MTQ4LWJkZGQtMDQ0YzMxOTNhMjlhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2024"
+  },
+  "KÜÇÜK İPUÇLARI - THE LITTLE THINGS": {
+    "imdb_id": "tt10016180",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmRjYmQ5Y2YtYTUyMy00OTg0LWE1YmEtZTI2NDYxYTBhYTYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2021"
   },
   "L'AMOUR OUF": {
     "imdb_id": "tt27490099",
@@ -19483,6 +19108,11 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZDI1YjYwYzQtYzk4Ny00ZGRkLThmYTQtOWI0MGYwZGNkZDM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2019"
   },
+  "LOVE UNTANGLED": {
+    "imdb_id": "tt33549683",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGRmYmQ0N2UtZTdlMS00Y2EyLTk4MjMtZGQ2OGQ1ZTMxZjEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
+  },
   "LOVE WEDDING REPEAT": {
     "imdb_id": "tt5096470",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjBkMzYxY2MtOTU4YS00ZjRmLWEzZTItNjVhZWYxOWQ4YjczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -20118,15 +19748,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODY4MzkxODItNWE1My00ZmRkLThkNGUtZDhiYzI2Yjg1ZWE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2007"
   },
-  "MASKELI BEŞLER: İNTIKAM PEŞINDE": {
-    "imdb_id": "tt0486708",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGI0YjdiN2EtMDZlNi00ZGNkLTk0ODktMzc1NGFiOWQ0NWVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2005"
-  },
   "MASKELI BEŞLER: KIBRIS": {
     "imdb_id": "tt1189383",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjUyNThhZWQtZWVmZC00ZjJiLWFjZWQtYzcxNjVmM2RhNjJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2008"
+  },
+  "MASKELI BEŞLER: İNTIKAM PEŞINDE": {
+    "imdb_id": "tt0486708",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGI0YjdiN2EtMDZlNi00ZGNkLTk0ODktMzc1NGFiOWQ0NWVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2005"
   },
   "MASKELI SÜVARI": {
     "imdb_id": "tt0392419",
@@ -21413,6 +21043,11 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYWIwMmQwOWMtY2Y0ZS00ZWVlLTkxNTgtYzk2MGQ3MjQxMjU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2022"
   },
+  "MUSTANG": {
+    "imdb_id": "tt3966404",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkwODUzODA0OV5BMl5BanBnXkFtZTgwMTA3ODkxNzE@._V1_FMjpg_UX1000_.jpg",
+    "year": "2015"
+  },
   "MUSUL": {
     "imdb_id": "tt9252468",
     "poster": "https://m.media-amazon.com/images/M/MV5BOGM4N2E5NDAtMWZjNC00ZWNjLTk4YjgtYTU0OGVjM2JmZDc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -22438,6 +22073,11 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYjYwYmZmODEtYjVjZC00NGI3LWFhMjEtM2QxYWMyMDdiNjc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2024"
   },
+  "OH, HI!": {
+    "imdb_id": "tt33292655",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTlmNzJlODYtOTVkNC00NWQwLWE5MTUtMGIwMGViNmE1MmY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
+  },
   "OH, RAMONA!": {
     "imdb_id": "tt7200946",
     "poster": "https://m.media-amazon.com/images/M/MV5BMzE3MTM3OWItOGVjYi00OTRhLWIxN2EtOWI5NTViOTkxOWE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -23413,6 +23053,11 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZDZiNTQ1MGItZTk3ZC00OWIwLTg2YTgtOGU1NWM5ZjE1MDlhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2022"
   },
+  "PERŞEMBE GÜNÜ CINAYET KULÜBÜ": {
+    "imdb_id": "tt12001534",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmQ4NWVjN2EtN2U3NC00YzZhLWIzYmMtNjQ0ZjNiN2MzNDI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
+  },
   "PETE DAVIDSON: TURBO FONZARELLI": {
     "imdb_id": "tt30458756",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTFiZDJlYjgtYWM2Yi00ZjczLTkyMjQtNTFmOWUzZmFmOTI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -23442,6 +23087,11 @@
     "imdb_id": "tt8376234",
     "poster": "https://m.media-amazon.com/images/M/MV5BODA3ZTMwOTQtNDU1Ni00ZGVhLWE4MzItZWMwNWJkMGRhYjcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2021"
+  },
+  "PETTA": {
+    "imdb_id": "tt8959820",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTZiM2EyOTAtNjk2OC00NmQxLThlY2YtNTliYTg4ZDRlMzA4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
   },
   "PEŞIMDEKI ŞEYTAN": {
     "imdb_id": "tt3235888",
@@ -23882,6 +23532,11 @@
     "imdb_id": "tt11460976",
     "poster": "https://m.media-amazon.com/images/M/MV5BYWQyMWM2OTktODdkZC00MWI4LWIzMDYtNTUwMjQwNTBkZTIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2021"
+  },
+  "PRIMITIVE WAR": {
+    "imdb_id": "tt18312380",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTk4OTlmZDQtYjM2ZC00ZTg3LThlYzItNzk1YjVmYTlkNGUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
   },
   "PRINCESS MONONOKE": {
     "imdb_id": "tt0119698",
@@ -24716,6 +24371,11 @@
   "ROB PEACE": {
     "imdb_id": "tt10740926",
     "poster": "https://m.media-amazon.com/images/M/MV5BZDNjZDI4YTktNWIwMS00YzFmLWJjMmYtODNiM2QwNzFmZWFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
+  },
+  "ROBIN AND THE HOODS": {
+    "imdb_id": "tt21326904",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGM3MWIzZDQtNGI1My00MWQ0LWEyZDItYzc0NDU5NzczOWFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2024"
   },
   "ROBOT RIOT": {
@@ -25833,16 +25493,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDU1MTNkYWItMzFmMy00MWJhLWEwZDAtNmMyYzc4YzZkOWZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2021"
   },
-  "SEN İHTIMALI": {
-    "imdb_id": "tt9466114",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2RkZmZjYTQtOGExMS00YTljLWJmNzQtMzI0ZDU3YzFjNzJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
-  "SEN İNANDIR": {
-    "imdb_id": "tt21257152",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzMzNmVhNmItOTE1Yy00MjBmLWExOWEtOGEyNDdjZDU2MGY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
   "SEN KIMINLE DANS EDIYORSUN?": {
     "imdb_id": "tt7533878",
     "poster": "https://m.media-amazon.com/images/M/MV5BYjJjMGQ4Y2UtNzI3Ny00MzZlLThkNGYtOWI4ZjI3MTQ5Y2Y2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -25857,6 +25507,16 @@
     "imdb_id": "tt14898794",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjk2MjI3MDQtMzBhNC00Zjg2LThjY2QtMGNlNzZlYWRiYjM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2022"
+  },
+  "SEN İHTIMALI": {
+    "imdb_id": "tt9466114",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2RkZmZjYTQtOGExMS00YTljLWJmNzQtMzI0ZDU3YzFjNzJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
+  },
+  "SEN İNANDIR": {
+    "imdb_id": "tt21257152",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMzNmVhNmItOTE1Yy00MjBmLWExOWEtOGEyNDdjZDU2MGY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
   },
   "SEN, BEN, ONLAR VE BIZ": {
     "imdb_id": "tt15360916",
@@ -27403,11 +27063,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2009"
   },
-  "SOĞUK İNTIKAM": {
-    "imdb_id": "tt5719748",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ5OTk1OWMtYmY0MS00ZjFlLTk5MmYtMGRhZGRkZDI5ZGJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2019"
-  },
   "SOĞUK NEHIR": {
     "imdb_id": "tt2184390",
     "poster": "https://m.media-amazon.com/images/M/MV5BNDE0OWQ1YTctYTNlNy00ZjA0LTljZWItZDlmY2Y0OWY5YzBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -27427,6 +27082,11 @@
     "imdb_id": "tt1668212",
     "poster": "https://m.media-amazon.com/images/M/MV5BNDQxMzc1NjItZWM5YS00ZjQ2LTgzMGMtZTY0Y2NiMzEyYjQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2018"
+  },
+  "SOĞUK İNTIKAM": {
+    "imdb_id": "tt5719748",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ5OTk1OWMtYmY0MS00ZjFlLTk5MmYtMGRhZGRkZDI5ZGJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
   },
   "SPACE JAM": {
     "imdb_id": "tt0117705",
@@ -28168,6 +27828,11 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjliMTEyZGQtZGQ2Ni00ZTdjLWIyNGQtZTVkOTNjYWFlNWEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2015"
   },
+  "SUYUN SESI": {
+    "imdb_id": "tt5580390",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGFlMTM2MTgtZDdlMy00ZDZlLWFjOTUtZDMzMGEwNmNiMWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2017"
+  },
   "SUYUN ÜSTÜ": {
     "imdb_id": "tt29548549",
     "poster": "https://m.media-amazon.com/images/M/MV5BNGIwNzNlZDItZDkwNS00OWVhLTlmNmUtN2Q2N2Q3OWM5MzBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -28743,11 +28408,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYzY1NTQ5OWItNjRmNS00YjM2LWEwZGQtOTU2YTFjYTFlZjkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2024"
   },
-  "TEHLIKELI İLIŞKILER": {
-    "imdb_id": "tt0075860",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjM1NjE5NjQxN15BMl5BanBnXkFtZTgwMjYzMzQxMDE@._V1_FMjpg_UX1000_.jpg",
-    "year": "1988"
-  },
   "TEHLIKELI MIRAS 3": {
     "imdb_id": "tt23049322",
     "poster": "https://m.media-amazon.com/images/M/MV5BM2QzZWI2OTctMzQyNC00OTU0LThjOTMtMTRjZDZlZjg5MTg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -28767,6 +28427,11 @@
     "imdb_id": "tt0109534",
     "poster": "https://m.media-amazon.com/images/M/MV5BNmU4ODljYWItOWNlNC00Y2QxLTliNzMtNDMxNDQ2MTQ1NDM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2016"
+  },
+  "TEHLIKELI İLIŞKILER": {
+    "imdb_id": "tt0075860",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM1NjE5NjQxN15BMl5BanBnXkFtZTgwMjYzMzQxMDE@._V1_FMjpg_UX1000_.jpg",
+    "year": "1988"
   },
   "TEHLIKEYLE FLÖRT": {
     "imdb_id": "tt4675312",
@@ -30968,6 +30633,11 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODc1NTYyODEtNWFiZS00NDNjLWFiZTQtODU5MWM4NjJkYTRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2016"
   },
+  "THE MAID": {
+    "imdb_id": "tt1187044",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1YWEyYTEtMjVhYy00YmZkLTg3NjMtM2RmZDNhZDg5NjIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2020"
+  },
   "THE MAIN EVENT - SIHIRLI GÜREŞÇI": {
     "imdb_id": "tt10540242",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTYxYmFhMWQtMmM0NS00MmEwLWE5MWEtNWQ0MTIxZWIxMjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -32102,6 +31772,11 @@
     "imdb_id": "tt0318126",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMzIyNzg0NV5BMl5BanBnXkFtZTcwMjg2ODA0MQ@@._V1_FMjpg_UX1000_.jpg",
     "year": "2014"
+  },
+  "THE THUNDERMANS RETURN": {
+    "imdb_id": "tt26943420",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzg2ZTgxMzUtZDUzNy00M2Y0LWE2NzItZjdmNzE5NmZlY2NlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
   },
   "THE TIGER RISING": {
     "imdb_id": "tt1596557",
@@ -35493,15 +35168,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOWVjZWJmZjEtMjgzZC00N2ZkLTk3Y2ItM2FkOGY3MjhlNzBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2011"
   },
-  "YEŞIL FENER: İLK IŞIK": {
-    "imdb_id": "tt1384590",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODllOWMzZTgtMGQ4Mi00MDI5LWE1MjMtMDQyNTI0YjFkYTkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2009"
-  },
   "YEŞIL FENER: ZÜMRÜT ŞÖVALYELERI": {
     "imdb_id": "tt1683043",
     "poster": "https://m.media-amazon.com/images/M/MV5BY2QyZjVhM2EtNWM2NC00OTY1LTlhNTItYWZkNDFiYmJjYjljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2011"
+  },
+  "YEŞIL FENER: İLK IŞIK": {
+    "imdb_id": "tt1384590",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODllOWMzZTgtMGQ4Mi00MDI5LWE1MjMtMDQyNTI0YjFkYTkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2009"
   },
   "YEŞIL REHBER": {
     "imdb_id": "tt6966692",
@@ -35558,11 +35233,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODRhYzE5MjYtNDU1My00NzUwLWIzYjUtMWY4Y2RjOGFlNGQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2005"
   },
-  "YILDIZ SAVAŞLARI: İMPARATOR'UN DÖNÜŞÜ": {
-    "imdb_id": "tt0086190",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "1980"
-  },
   "YILDIZ SAVAŞLARI: JEDI'NIN DÖNÜŞÜ": {
     "imdb_id": "tt0086190",
     "poster": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -35577,6 +35247,11 @@
     "imdb_id": "tt0076759",
     "poster": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "1977"
+  },
+  "YILDIZ SAVAŞLARI: İMPARATOR'UN DÖNÜŞÜ": {
+    "imdb_id": "tt0086190",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "1980"
   },
   "YILDIZ UNICORN THELMA": {
     "imdb_id": "tt10442352",
@@ -35808,11 +35483,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2003"
   },
-  "YÜZÜKLERIN EFENDISI: İKI KULE": {
-    "imdb_id": "tt0167261",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2002"
-  },
   "YÜZÜKLERIN EFENDISI: KRALIN DÖNÜŞÜ": {
     "imdb_id": "tt0167260",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -35832,6 +35502,11 @@
     "imdb_id": "tt0120737",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2001"
+  },
+  "YÜZÜKLERIN EFENDISI: İKI KULE": {
+    "imdb_id": "tt0167261",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2002"
   },
   "ZABIJ MNIE, KOCHANIE": {
     "imdb_id": "tt30959158",
@@ -36328,16 +36003,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2024"
   },
-  "ÇILGIN İKILI": {
-    "imdb_id": "tt0112442",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWNjZWEwNDMtMWE1ZC00MTgwLTk2YzAtYmE0NTkwOWVhMDI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "1995"
-  },
-  "ÇILGIN İKILI 2": {
-    "imdb_id": "tt0172156",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTVkM2YxODItOGNlMy00NWExLWI2NTgtODEzMmM5NThiM2E2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2003"
-  },
   "ÇILGIN JOE": {
     "imdb_id": "tt1893256",
     "poster": "https://m.media-amazon.com/images/M/MV5BM2FlNzI3ODctMGM1NC00NzJlLWJkNmYtNWQ3OGEwZDI5ZDFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -36362,6 +36027,16 @@
     "imdb_id": "tt7734218",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTg4YjkyZTAtMmFmZi00ZTk2LWExMDgtMzE3ZTJjNjIwMWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2019"
+  },
+  "ÇILGIN İKILI": {
+    "imdb_id": "tt0112442",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWNjZWEwNDMtMWE1ZC00MTgwLTk2YzAtYmE0NTkwOWVhMDI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "1995"
+  },
+  "ÇILGIN İKILI 2": {
+    "imdb_id": "tt0172156",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVkM2YxODItOGNlMy00NWExLWI2NTgtODEzMmM5NThiM2E2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2003"
   },
   "ÇILGINLIK SPREE": {
     "imdb_id": "tt11394332",
@@ -37103,6 +36778,431 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BN2IwMzhkN2UtZTQwMC00MTBhLTg5ODQtM2M3NTMzODhlNmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2023"
   },
+  "İBLIS ŞEHRI": {
+    "imdb_id": "tt35111035",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzg3ZGY5MmUtNGViOC00ZjRkLTg4ZmYtMDI1NWZiZDQ0Zjc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
+  },
+  "İBLIS: KARANLIĞIN SAHIBI": {
+    "imdb_id": "tt19357834",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTZmYWQ4M2ItZjZhNi00ODg5LWE4NzEtMzhkZTRjNTFmOGEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2022"
+  },
+  "İHLAL: YAŞAM KARŞITI": {
+    "imdb_id": "tt9820556",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjdlMmFlZWEtZjFhZC00NmRiLTkzYzYtMmYzYzQzMjRmZWE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2020"
+  },
+  "İHTIYAR DELIKANLI": {
+    "imdb_id": "tt0364569",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_FMjpg_UX1000_.jpg",
+    "year": "2003"
+  },
+  "İKI AŞIĞIN ÖLÜMÜ": {
+    "imdb_id": "tt10702148",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmUwOTYxZDUtOGFhNS00ZTE2LWE5OTEtOGQwMWNlOGYxMTZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2021"
+  },
+  "İKI KIŞILIK AILE": {
+    "imdb_id": "tt5078204",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWRhMWJiMWItNTFmYi00NzU3LWJlNWMtNTQ4MDMyMjFiMjg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2016"
+  },
+  "İKIKEZ YAŞA BIRKEZ SEV - VIVIR DOS VECES": {
+    "imdb_id": "tt9063902",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjgyZDgzZDgtMGRkNy00MzBhLWFiOWMtZTQ1NTJhYWYyMGY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
+  },
+  "İKILI OYUN": {
+    "imdb_id": "tt0155267",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTEyMjkzYmYtMDJkNi00NjFiLTlmNDgtMWIzOTUyZDJkZmMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2020"
+  },
+  "İKIMIZIN YERINE": {
+    "imdb_id": "tt5934922",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZkNDg4ZjAtOGM5YS00ODM5LTg0Y2QtOWFkZTg3YjFmMDg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2016"
+  },
+  "İKINCI GÖRÜŞTE AŞK": {
+    "imdb_id": "tt8265928",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2RiNTAwMDYtZTJhNi00NjJjLWE1NzQtYjY4MzE2ZGQ5MDJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
+  },
+  "İKIZ": {
+    "imdb_id": "tt19356262",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDFmNzc4OGItNWRiZS00Mzc0LWE4MjgtNjMzZTEzN2ZjNWY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2022"
+  },
+  "İKIZLER  PROJESI": {
+    "imdb_id": "tt1025100",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWY2ZmM4ZGEtODJjMC00MzY5LTk4ZmYtNzA5NmRhYzA5Y2EzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2022"
+  },
+  "İKIZLER TAKIMI": {
+    "imdb_id": "tt8912936",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDU1NWU3MTItZTRjNi00NzViLWIxOTYtMmUxZTc3Njg5Y2FiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
+  },
+  "İLGI ALANI": {
+    "imdb_id": "tt7160372",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjk4MTQ3MGEtZmI4OS00N2NhLWI5ZjgtYWE5ZWVkZGExYTQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
+  },
+  "İLGI MANYAĞI": {
+    "imdb_id": "tt18816518",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFjZDI5NzUtZGM0Yy00ZGMyLWIwMDMtM2ZiYzc1MWIxYzBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2022"
+  },
+  "İLK AŞK": {
+    "imdb_id": "tt0092890",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmIwZjA1NzUtNTA0OS00OWMyLWE5MzctM2RjOWYxZjQyZDdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2006"
+  },
+  "İLK GÜN": {
+    "imdb_id": "tt0139654",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRlNjUwOGYtNGQxZS00ZjhkLTg0NDgtYjcwNzZlNDU2YjBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2001"
+  },
+  "İLK TANIŞTIĞIMIZDA": {
+    "imdb_id": "tt5783956",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzM1OTI4NDM4Nl5BMl5BanBnXkFtZTgwMDAwODg2NDM@._V1_FMjpg_UX1000_.jpg",
+    "year": "2018"
+  },
+  "İLK ÖPÜCÜKTE AŞK": {
+    "imdb_id": "tt14463514",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWZhMTJhZDktY2UyYi00M2ZiLTgxNzUtZTM4NjljYTNjYWQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
+  },
+  "İLLEGAL HAYATLAR": {
+    "imdb_id": "tt21385728",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmNzcxZTQtZDk5ZC00MmM0LThmZmUtOTM1NWQyM2VkYzg4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
+  },
+  "İLLEGAL HAYATLAR: MECLIS": {
+    "imdb_id": "tt32251194",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU1ZjI3NWUtMjhkOC00ZjViLTkyZjAtY2M0MTg1ZjA2ZDhmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
+  },
+  "İNANILMAZ AILE": {
+    "imdb_id": "tt0317705",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UX1000_.jpg",
+    "year": "2004"
+  },
+  "İNANILMAZ HULK": {
+    "imdb_id": "tt8051894",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWU2Y2EwM2ItMTYxZS00OTk0LTgxMzMtOTFmYjBlOWMzN2YxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2008"
+  },
+  "İNANILMAZ NOEL": {
+    "imdb_id": "tt29961072",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGI4ZjllNGQtYTNlZC00YTFiLTg1NzYtYTRjNjJlYTFjMTEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
+  },
+  "İNANILMAZ ÖRÜMCEK ADAM": {
+    "imdb_id": "tt0948470",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_FMjpg_UX1000_.jpg",
+    "year": "2012"
+  },
+  "İNANILMAZ ÖRÜMCEK ADAM - THE AMAZING SPIDER-MAN": {
+    "imdb_id": "tt0948470",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_FMjpg_UX1000_.jpg",
+    "year": "2012"
+  },
+  "İNANILMAZ ÖRÜMCEK ADAM 2": {
+    "imdb_id": "tt0316654",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2014"
+  },
+  "İNANILMAZ ÖRÜMCEK ADAM 2 - THE AMAZING SPIDER-MAN 2": {
+    "imdb_id": "tt1872181",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_FMjpg_UX1000_.jpg",
+    "year": "2014"
+  },
+  "İNCIR REÇELI": {
+    "imdb_id": "tt1808197",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2VlMDc3OTktZDM1Yy00ZDYxLTkxYjAtN2E1YmI5Njc5YzdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2011"
+  },
+  "İNCIR REÇELI 2": {
+    "imdb_id": "tt4003046",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzMxNjk3NDAtNTY4ZS00YjJiLThjODAtNDVhZGFkZjk0NTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2014"
+  },
+  "İNFAZCI": {
+    "imdb_id": "tt0330793",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5NjcwMTQxMV5BMl5BanBnXkFtZTcwODg5ODkwNQ@@._V1_FMjpg_UX1000_.jpg",
+    "year": "2022"
+  },
+  "İNSAN AVCISI": {
+    "imdb_id": "tt0091474",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVlMDQ5MmYtYmFhMi00OTE1LThmNTEtZTgyMzg5Njk2OWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "1986"
+  },
+  "İNSAN SERMAYESI": {
+    "imdb_id": "tt2465578",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM0MTExMTkxNl5BMl5BanBnXkFtZTgwMzgwNDI0MzE@._V1_FMjpg_UX1000_.jpg",
+    "year": "2014"
+  },
+  "İNSAN YIYENLER": {
+    "imdb_id": "tt6112524",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGE2MDVjOGUtMzlhMi00YTM5LTk1OTItMmIzYTA3M2RhODM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
+  },
+  "İNSANCIL": {
+    "imdb_id": "tt16280912",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzc0OWI4NGItNzEwOC00MDBiLWI0NjAtMDBmZmY5Mzc2MzFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
+  },
+  "İNSANLAR İKIYE AYRILIR": {
+    "imdb_id": "tt12907978",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmEwMWFkNGYtNjE5NC00NmZhLWJjY2YtNmMzYzJiNTEyMDFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2021"
+  },
+  "İNSANLIK İŞLERI": {
+    "imdb_id": "tt0302664",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjEwMzIyNWQtZjIyMC00YTExLTkzOWMtNzRjMTYwNjJiYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2017"
+  },
+  "İNTIKAM": {
+    "imdb_id": "tt11083552",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2017"
+  },
+  "İNTIKAM - AVENGEMENT": {
+    "imdb_id": "tt8836988",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1ZWNlODctNmI0MC00NmUzLWE4NTYtZjUwYzFlODYzMTgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
+  },
+  "İNTIKAM - MANYEO": {
+    "imdb_id": "tt0066984",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWRhZDMxZmMtMmU3ZS00ZjRiLTg4Y2YtNzU1MTNlNzMyM2MxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2018"
+  },
+  "İNTIKAM KANKAM": {
+    "imdb_id": "tt13327038",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTE3OGE3Y2EtNGQ5YS00NDY4LWJhZDMtYjYyZTAxNDE5MGNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2022"
+  },
+  "İNTIKAM KAPANI": {
+    "imdb_id": "tt1945084",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEyNTU4NTE5NV5BMl5BanBnXkFtZTgwNzY4NzIxNDE@._V1_FMjpg_UX1000_.jpg",
+    "year": "2014"
+  },
+  "İNTIKAM MELEĞI": {
+    "imdb_id": "tt28056072",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM2ZDE3YTMtODY2MS00MjA3LWFjZjItMzY3NGQ4MzRkOWY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2018"
+  },
+  "İNTIKAM UĞRUNA": {
+    "imdb_id": "tt0416861",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA1MDRlNWMtMTU1ZC00NjhiLTgyN2EtZGFlMTZlN2I1NzcwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2004"
+  },
+  "İNTIKAM VAKTI": {
+    "imdb_id": "tt11083552",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2021"
+  },
+  "İRLANDALI": {
+    "imdb_id": "tt1302006",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2YThkNmQtOWJhYy00ZDc3LWEzOGEtMmQwNzM0YjFmZWIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
+  },
+  "İRTIFA": {
+    "imdb_id": "tt0115895",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjNhODVmOWYtY2JmNS00NTk2LThlYjUtNDFmMjU5Y2FkZTMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2010"
+  },
+  "İSIMSIZ KATILLER": {
+    "imdb_id": "tt0029808",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGM4ZTA5MzgtNTI4Mi00MWViLTlkNDUtZTI2YzRkNDhiODVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
+  },
+  "İSKOÇYA'NIN SON KRALI": {
+    "imdb_id": "tt0455590",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDg4NjA0YzctNWMzMi00NmY1LTkyMGYtZjI4ZjFmZjMzMGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2006"
+  },
+  "İSLAM'IN KILICI: ÇÖL ASLANI ÖMER MUHTAR": {
+    "imdb_id": "tt0081059",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjViYjBkMjgtNjg2Zi00ZmRkLWFhYjUtMDJhMzA3OGUzNGVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "1981"
+  },
+  "İSTANBUL KIRMIZISI": {
+    "imdb_id": "tt5927352",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzU1MDdlYjQtZTBjNi00Nzk2LTgwNDEtOWFkNmVjOTU0ZDU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2017"
+  },
+  "İSTANBUL İÇIN SON ÇAĞRI": {
+    "imdb_id": "tt23334616",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjdmMDgtMTBhMi00NGUzLWFmNGItYWNiNGQ2YWM2YzA4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
+  },
+  "İSTASYON": {
+    "imdb_id": "tt0183122",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxMDk0NTAtNzM4Ny00ODlmLTg2MTctMjNkNmI0ZWQ5M2I3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2020"
+  },
+  "İSTILA ALTINDA – CAPTIVE STATE": {
+    "imdb_id": "tt5968394",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2FhNTRhYmYtOGIzNS00OTJjLWI4ODEtYzBlOWU0ZmI2Njc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
+  },
+  "İSYAN - RIOT": {
+    "imdb_id": "tt11737466",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGY1ZDA4MWMtNmFjMS00YWQxLWEzODYtNTY2YzJiZWZlYmFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2015"
+  },
+  "İTALYAN İŞI": {
+    "imdb_id": "tt0317740",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjJjNzc5YjAtZjU2Ni00ZjVkLTkzYmItM2E2NDM0NWE1YmJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2003"
+  },
+  "İTALYANCA DERSLERI": {
+    "imdb_id": "tt9893084",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGNkYWY3YjMtM2VhZi00OTczLWJmY2EtOTA5MDEwZTA3YzQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2022"
+  },
+  "İTIRAFLAR KOKUHAKU": {
+    "imdb_id": "tt1590089",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q2MzNiNzctM2VjOC00YmU5LWI3YWYtYWUwNzFjYmViOTlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2010"
+  },
+  "İYI ADAMIN 10 GÜNÜ": {
+    "imdb_id": "tt23334464",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGI0YjAwZWUtZmVkYS00YzIwLWFlYTYtZjU2ZjcwNWI2YjgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
+  },
+  "İYI ADAMLAR": {
+    "imdb_id": "tt10676052",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWI2ODk5YzEtNTM1MC00OTk3LWE0ZWEtM2QzMDBjMjk2Y2YzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2016"
+  },
+  "İYI AILE ÇOCUĞU": {
+    "imdb_id": "tt0253151",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGQyZmEwMTEtZmVjNS00ZWMyLWFmZWMtZjg4ZmYyZjgwMmM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "1978"
+  },
+  "İYI KATILLER SEVGILIM": {
+    "imdb_id": "tt13109952",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzE0MzFkOWUtMDFhNC00YjQxLTk3NDQtNzkzOTU1NmRhZTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2021"
+  },
+  "İYI KI ALDATILMIŞIM": {
+    "imdb_id": "tt26787296",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGVmODcyMmQtN2FlYy00ZjhlLWIyMDEtNzkyZmZiNDk1YzRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
+  },
+  "İYI KI YAPMIŞIM": {
+    "imdb_id": "tt15139398",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmQzYTdiMGYtYWE5Ny00YzUxLWFlMTEtOTNmZjVjMGU3MWM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2020"
+  },
+  "İYI OLAN KAZANSIN": {
+    "imdb_id": "tt1596350",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTQ4MDE2MV5BMl5BanBnXkFtZTcwOTE0MTgwNw@@._V1_FMjpg_UX1000_.jpg",
+    "year": "2012"
+  },
+  "İYI OYUN": {
+    "imdb_id": "tt8510324",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjE2ZmZjMzAtYjAwOC00NDFkLTkxZWItMjg0NDc5OTZkMDcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2018"
+  },
+  "İYI ŞANSLAR CHUCK": {
+    "imdb_id": "tt0452625",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU1NzM1MTE1OV5BMl5BanBnXkFtZTYwNDQyMjU3._V1_FMjpg_UX1000_.jpg",
+    "year": "2007"
+  },
+  "İYI ŞANSLAR LEO GRANDE": {
+    "imdb_id": "tt13352968",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA3ZDNjOTYtMWM3Ny00MTE0LThlNTAtNGFiNGU0NzhhODJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2022"
+  },
+  "İYI, KÖTÜ VE ÇIRKIN": {
+    "imdb_id": "tt0060196",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "1966"
+  },
+  "İYILIK VE KÖTÜLÜK OKULU": {
+    "imdb_id": "tt2935622",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWE0MmUzYjEtNzQ4MS00MjkzLWE3YTYtYjQwNmZlZTJkODRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2022"
+  },
+  "İÇ SAVAŞ": {
+    "imdb_id": "tt17279496",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTU5ZTk5NDktZmZmMy00NjlkLTkyODYtYjVmMjRmNmRhYTgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
+  },
+  "İÇ SAVAŞ - CIVIL WAR": {
+    "imdb_id": "tt17279496",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTU5ZTk5NDktZmZmMy00NjlkLTkyODYtYjVmMjRmNmRhYTgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
+  },
+  "İÇERIDE": {
+    "imdb_id": "tt21454134",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDY3MGVjYjItN2I1OC00ZGNkLWIwOGQtNTBiNWM1NmQ5NTZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
+  },
+  "İÇERIDE  - SHUT IN": {
+    "imdb_id": "tt33131160",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2JlMDkzY2MtYzZlNy00ZWQ0LWE0ZTgtNDBmNWFkM2ZjOGQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2016"
+  },
+  "İÇERIDEKI ADAM": {
+    "imdb_id": "tt0454848",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMDZkYjktMjYyOS00MTM2LTg2MmQtOTUwMzJjMDlhZDY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
+  },
+  "İÇERIDEKI ADAM 2": {
+    "imdb_id": "tt0454848",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMDZkYjktMjYyOS00MTM2LTg2MmQtOTUwMzJjMDlhZDY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2019"
+  },
+  "İÇIMDEKI CANAVAR": {
+    "imdb_id": "tt14539318",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZkMGU0ZDUtMTU0MS00ODBiLTkwYjAtYTcxZTkyYjJjMjcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
+  },
+  "İÇIMDEKI HAYVAN": {
+    "imdb_id": "tt23572542",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGY0YzljZDQtNGJlYi00ZTNhLThjMTctYWMxNDMxNmVlN2Y5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
+  },
+  "İÇIMDEKI YANGIN": {
+    "imdb_id": "tt1255953",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2010"
+  },
+  "İÇINDE KIM VAR?": {
+    "imdb_id": "tt14577874",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDkxOTZmZTYtYTNmNS00MDk3LWE0MDAtMzY5M2Y5YmU1MmI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
+  },
+  "İÇINDEKI ATEŞ": {
+    "imdb_id": "tt6133444",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjI4YmU1MTAtOGVkZi00NWI5LTljMGItZjhlYWU2YzEzNzg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2024"
+  },
+  "İŞGAL - THE ROUND UP": {
+    "imdb_id": "tt1382725",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNjMwNjU1NV5BMl5BanBnXkFtZTcwNTU0Njk5NQ@@._V1_FMjpg_UX1000_.jpg",
+    "year": "2011"
+  },
+  "İŞKENCE GECESI": {
+    "imdb_id": "tt3099498",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzdkNDUyY2QtY2U5Ny00NDM3LWFlMWEtY2Y1MDcxYWYzNGZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2014"
+  },
+  "İŞKENCE ODASI": {
+    "imdb_id": "tt1029234",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2Q5MWQ0OWYtMTUzMC00ZmU3LWEyNDAtZjg1NjE2ZjVkM2I3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2015"
+  },
+  "İŞTE BÖYLE BIR OĞLAN": {
+    "imdb_id": "tt4590256",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTljZjk5OTYtZWEwZi00NTNmLWE5ZWMtYjg4YWJiYmFkNTM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2021"
+  },
   "ŞAFAK SÖKERKEN": {
     "imdb_id": "tt21824548",
     "poster": "https://m.media-amazon.com/images/M/MV5BMmJlZjhlZTYtMGU5Mi00YmQ3LWFiNDAtYjMyOGU0ZTgzZGQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -37238,11 +37338,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTA2M2Y3NjQtM2QxMS00ZGJjLWE4YTQtNWM2ODg3NmFjNTk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2018"
   },
-  "ŞEYTANIN İNI": {
-    "imdb_id": "tt0873886",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNjMwMzA1MV5BMl5BanBnXkFtZTcwMzQyNDAxNg@@._V1_FMjpg_UX1000_.jpg",
-    "year": "2021"
-  },
   "ŞEYTANIN OTELI": {
     "imdb_id": "tt0808276",
     "poster": "https://m.media-amazon.com/images/M/MV5BMGUxOTY4MTAtZDViZC00N2Y5LWI1NTAtYmRkY2I2YTNhNjk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -37257,6 +37352,11 @@
     "imdb_id": "tt1464535",
     "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYzk5ZDgtOWZkZC00NTIwLTg5YzUtNjQ0ZTEzNDI1MGVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2010"
+  },
+  "ŞEYTANIN İNI": {
+    "imdb_id": "tt0873886",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNjMwMzA1MV5BMl5BanBnXkFtZTcwMzQyNDAxNg@@._V1_FMjpg_UX1000_.jpg",
+    "year": "2021"
   },
   "ŞEYTANLA ANLAŞMA": {
     "imdb_id": "tt0475944",
@@ -37288,15 +37388,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzViNTQ3MTgtMjEyMS00Y2JhLWIyMzMtNWExOWM0NWQxZTQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2020"
   },
-  "ŞIMDI İŞLER KARIŞTI": {
-    "imdb_id": "tt14227048",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjYwNWMyNzgtYzZiNS00MjA3LWJmYTQtZGFlN2I5NzBhZDM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
   "ŞIMDI YANDIK": {
     "imdb_id": "tt19394316",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzFjY2U4YWYtNTVhYy00YzU4LWExY2MtYTU1YzliYmJmMDIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2022"
+  },
+  "ŞIMDI İŞLER KARIŞTI": {
+    "imdb_id": "tt14227048",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjYwNWMyNzgtYzZiNS00MjA3LWJmYTQtZGFlN2I5NzBhZDM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
   },
   "ŞIMDIYE KADAR KI EN İYI NOEL GÖSTERISI": {
     "imdb_id": "tt2347285",
@@ -37317,6 +37417,11 @@
     "imdb_id": "tt2017020",
     "poster": "https://m.media-amazon.com/images/M/MV5BMzNiZDYyNjctOGNiZi00Y2ZjLWJkZmUtMjM1Mjc3ZmQzN2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2013"
+  },
+  "ŞIRINLER FILMI": {
+    "imdb_id": "tt18069420",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDMyNDViNTMtMmQwYy00ZWUzLThjODYtZWNiOTMzMWFjMzg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
   },
   "ŞIRINLER: KAYIP KÖY": {
     "imdb_id": "tt2398241",
@@ -37387,110 +37492,5 @@
     "imdb_id": "tt21364552",
     "poster": "https://m.media-amazon.com/images/M/MV5BMWRmZjhhMWMtNzdlMi00YWYzLTgzNzMtM2JlMmVhMjQyNDI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2023"
-  },
-  "PRIMITIVE WAR": {
-    "imdb_id": "tt18312380",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTk4OTlmZDQtYjM2ZC00ZTg3LThlYzItNzk1YjVmYTlkNGUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2025"
-  },
-  "ROBIN AND THE HOODS": {
-    "imdb_id": "tt21326904",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGM3MWIzZDQtNGI1My00MWQ0LWEyZDItYzc0NDU5NzczOWFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
-  "PERŞEMBE GÜNÜ CINAYET KULÜBÜ": {
-    "imdb_id": "tt12001534",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmQ4NWVjN2EtN2U3NC00YzZhLWIzYmMtNjQ0ZjNiN2MzNDI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2025"
-  },
-  "EXODUS": {
-    "imdb_id": "tt21289612",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGEwOTE5MTctNWJlYi00MWZlLTgwZWMtY2I0NDVkM2YzMjg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2025"
-  },
-  "DÜPEDÜZ AŞK": {
-    "imdb_id": "tt33549683",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGRmYmQ0N2UtZTdlMS00Y2EyLTk4MjMtZGQ2OGQ1ZTMxZjEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2025"
-  },
-  "ŞIRINLER FILMI": {
-    "imdb_id": "tt18069420",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDMyNDViNTMtMmQwYy00ZWUzLThjODYtZWNiOTMzMWFjMzg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2025"
-  },
-  "LOVE UNTANGLED": {
-    "imdb_id": "tt33549683",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGRmYmQ0N2UtZTdlMS00Y2EyLTk4MjMtZGQ2OGQ1ZTMxZjEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2025"
-  },
-  "PETTA": {
-    "imdb_id": "tt8959820",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTZiM2EyOTAtNjk2OC00NmQxLThlY2YtNTliYTg4ZDRlMzA4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2019"
-  },
-  "3 IDIOTS": {
-    "imdb_id": "tt1187043",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2009"
-  },
-  "OH, HI!": {
-    "imdb_id": "tt33292655",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTlmNzJlODYtOTVkNC00NWQwLWE5MTUtMGIwMGViNmE1MmY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2025"
-  },
-  "HESAPLAŞMA GÜNÜ": {
-    "imdb_id": "tt35317668",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGUxZmEtMTEyNi00OWMxLTgxMzQtNjUzYTk2ZjUyZjEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2025"
-  },
-  "SUYUN SESI": {
-    "imdb_id": "tt5580390",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGFlMTM2MTgtZDdlMy00ZDZlLWFjOTUtZDMzMGEwNmNiMWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2017"
-  },
-  "BAŞKA BIR HAYATTA": {
-    "imdb_id": "tt13238346",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjQyMTNhNjUtN2VmYy00NWRhLTkwOTctMGVmNTBmNDIxYjZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2023"
-  },
-  "CANAVARIN ÇAĞRISI": {
-    "imdb_id": "tt3416532",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1OTA5OTkyNV5BMl5BanBnXkFtZTgwODMwNDU5OTE@._V1_FMjpg_UX1000_.jpg",
-    "year": "2016"
-  },
-  "GANGUBAI KATHIAWADI": {
-    "imdb_id": "tt10083340",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjliYjA0MWUtMjVkNi00MDc0LTg1MDgtYWExNGM0OWQ1NjBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2022"
-  },
-  "DAY OF RECKONING": {
-    "imdb_id": "tt35317668",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGUxZmEtMTEyNi00OWMxLTgxMzQtNjUzYTk2ZjUyZjEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2025"
-  },
-  "MUSTANG": {
-    "imdb_id": "tt3966404",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkwODUzODA0OV5BMl5BanBnXkFtZTgwMTA3ODkxNzE@._V1_FMjpg_UX1000_.jpg",
-    "year": "2015"
-  },
-  "THE THUNDERMANS RETURN": {
-    "imdb_id": "tt26943420",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzg2ZTgxMzUtZDUzNy00M2Y0LWE2NzItZjdmNzE5NmZlY2NlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2024"
-  },
-  "HOLY NIGHT DEMON HUNTERS": {
-    "imdb_id": "tt15766876",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDZhYjUwMTUtNTcyZS00MWNkLWI3NGItMDZlZGNmMjQxYTQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2025"
-  },
-  "FALL - DÜŞÜŞ": {
-    "imdb_id": null,
-    "poster": null,
-    "year": "2022"
-  },
-  "THE MAID": {
-    "imdb_id": "tt1187044",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1YWEyYTEtMjVhYy00YmZkLTg3NjMtM2RmZDNhZDg5NjIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "2020"
   }
 }
