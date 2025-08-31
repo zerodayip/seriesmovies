@@ -161,8 +161,18 @@ def load_cache(path: str) -> dict:
 
 def save_cache(data: dict, path: str):
     os.makedirs(OUT_DIR, exist_ok=True)
+
+    # ❗ Eksik verileri (imdb_id veya poster null) en üste al
+    sorted_items = sorted(
+        data.items(),
+        key=lambda x: (x[1].get("imdb_id") is not None and x[1].get("poster") is not None, x[0])
+    )
+    sorted_data = {k: v for k, v in sorted_items}
+
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(sorted_data, f, ensure_ascii=False, indent=2)
+
+    print(f"✅ JSON kaydedildi: {path}", flush=True)
 
 
 def process_files(paths: list[str], cache_file: str, is_series: bool = True):
@@ -217,7 +227,6 @@ def process_files(paths: list[str], cache_file: str, is_series: bool = True):
                 group_cache[key] = cache[key]
 
     save_cache(cache, cache_file)
-    print(f"✅ JSON kaydedildi: {cache_file}", flush=True)
 
 
 def process_vod_files(paths: list[str], cache_file: str):
@@ -265,7 +274,6 @@ def process_vod_files(paths: list[str], cache_file: str):
                         print(f"🖼️ {key} → Poster bulundu: {poster_from_title}", flush=True)
 
     save_cache(cache, cache_file)
-    print(f"✅ JSON kaydedildi: {cache_file}", flush=True)
 
 
 def main():
