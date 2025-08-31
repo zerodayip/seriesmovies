@@ -1,26 +1,56 @@
 {
+  "https://anizm.com.tr/nyaight-of-the-living-cat": {
+    "group": "NYAIGHT OF THE LIVING CAT",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/to-be-hero-x": {
+    "group": "TO BE HERO X",
+    "last_season": 1,
+    "last_episode": 21,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/busamen-gachi-fighter": {
+    "group": "BUSAMEN GACHI FIGHTER",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/city-the-animation": {
+    "group": "CITY THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/gachiakuta": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku": {
     "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 8,
     "start_episode": 1
   },
   "https://anizm.com.tr/jibaku-shounen-hanako-kun-2-part-2": {
     "group": "JIBAKU SHOUNEN HANAKO-KUN 2 PART 2",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 8,
     "start_episode": 1
   },
   "https://anizm.com.tr/witch-watch": {
     "group": "WITCH WATCH",
     "last_season": 1,
-    "last_episode": 22,
+    "last_episode": 21,
     "start_episode": 1
   },
   "https://anizm.com.tr/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru": {
     "group": "YUUSHA PARTY WO TSUIHOU SARETA SHIROMADOUSHI, S-RANK BOUKENSHA NI HIROWARERU: KONO SHIROMADOUSHI GA KIKAKUGAI SUGIRU",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 8,
     "start_episode": 1
   },
   "https://anizm.com.tr/bad-girl": {
@@ -75,30 +105,6 @@
     "group": "UMA MUSUME: CINDERELLA GRAY",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/onmyou-kaiten-rebirth": {
-    "group": "ONMYOU KAITEN RE:BIRTH",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/yofukashi-no-uta-2nd-season": {
-    "group": "YOFUKASHI NO UTA 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/silent-witch-chinmoku-no-majo-no-kakushigoto": {
-    "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
-    "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
-    "last_season": 1,
-    "last_episode": 9,
     "start_episode": 1
   }
 }
