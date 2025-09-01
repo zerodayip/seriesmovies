@@ -27,7 +27,7 @@ jobs:
           pip install requests
 
       - name: Run M3U Update Script
-        run: python update_m3u.py
+        run: python a.py
 
       - name: Commit and Push Changes
         run: |
