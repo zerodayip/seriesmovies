@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/hotel-inhumans": {
+    "group": "HOTEL INHUMANS",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
+    "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/nyaight-of-the-living-cat": {
     "group": "NYAIGHT OF THE LIVING CAT",
     "last_season": 1,
@@ -93,18 +105,6 @@
     "group": "SUMMER POCKETS",
     "last_season": 1,
     "last_episode": 21,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kaijuu-8-gou-2nd-season": {
-    "group": "KAIJUU 8-GOU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/uma-musume-cinderella-gray": {
-    "group": "UMA MUSUME: CINDERELLA GRAY",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
