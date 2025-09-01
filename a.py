@@ -8,8 +8,7 @@ GH_TOKEN = os.getenv("GH_TOKEN")
 if not GH_TOKEN:
     raise Exception("❌ GH_TOKEN bulunamadı! Özel repo için zorunlu.")
 
-REPO = "zerodayip/m3u8file"
-
+REPO = "zerodayip/m3u8file"  # GitHub repo
 SERIES_PATHS = [
     "dizigomdizi.m3u",
     "sezonlukdizi.m3u",
@@ -26,7 +25,6 @@ CACHE_VOD = "xtream/imdb_vod.json"
 
 TIMEOUT = 15
 # ---------------------------
-
 
 def github_raw(path: str) -> str:
     """Repo içinden dosya içeriğini al"""
@@ -48,14 +46,12 @@ def load_json(path: str) -> dict:
 
 
 def normalize_title(s: str) -> str:
-    """İsimleri karşılaştırma için normalize et"""
     if not s:
         return ""
     return re.sub(r"[^A-Z0-9]+", " ", s.upper()).strip()
 
 
 def extract_year_from_group(line: str) -> str | None:
-    """group-title içinden yıl çıkar (örn: '2025 FİLMLERİ' → '2025')"""
     m = re.search(r'group-title="([^"]*)"', line)
     if not m:
         return None
@@ -65,7 +61,6 @@ def extract_year_from_group(line: str) -> str | None:
 
 
 def update_m3u(text: str, cache: dict, is_series=True) -> str:
-    """M3U içeriğini JSON cache'e göre güncelle"""
     new_lines = []
     for line in text.splitlines():
         if line.startswith("#EXTINF"):
@@ -73,12 +68,10 @@ def update_m3u(text: str, cache: dict, is_series=True) -> str:
             entry = None
 
             if is_series:
-                # Diziler: group-title bazlı eşleşme
                 group_match = re.search(r'group-title="([^"]*)"', line)
                 key = group_match.group(1).strip() if group_match else None
                 entry = cache.get(key)
             else:
-                # Filmler: ad + yıl ZORUNLU eşleşme
                 name_match = re.search(r',(.+?)(?:\(|$)', line)
                 film_name = name_match.group(1).strip() if name_match else None
                 film_year = extract_year_from_group(line)
@@ -90,6 +83,8 @@ def update_m3u(text: str, cache: dict, is_series=True) -> str:
                             entry = v
                             break
 
+            # tvg-id ve tvg-logo ekleme, :-1 olmadan
+            prefix = ""
             if entry:
                 imdb_id = entry.get("imdb_id")
                 poster = entry.get("poster")
@@ -98,13 +93,16 @@ def update_m3u(text: str, cache: dict, is_series=True) -> str:
                     if re.search(r'tvg-id="[^"]*"', updated_line):
                         updated_line = re.sub(r'tvg-id="[^"]*"', f'tvg-id="{imdb_id}"', updated_line)
                     else:
-                        updated_line = updated_line.replace("#EXTINF", f'#EXTINF tvg-id="{imdb_id}"', 1)
+                        prefix += f' tvg-id="{imdb_id}"'
 
                 if poster:
                     if re.search(r'tvg-logo="[^"]*"', updated_line):
                         updated_line = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{poster}"', updated_line)
                     else:
-                        updated_line = updated_line.replace("#EXTINF", f'#EXTINF tvg-logo="{poster}"', 1)
+                        prefix += f' tvg-logo="{poster}"'
+
+                if prefix:
+                    updated_line = updated_line.replace("#EXTINF", f"#EXTINF{prefix}", 1)
 
             new_lines.append(updated_line)
         else:
@@ -120,10 +118,8 @@ def process_files(paths: list[str], cache_file: str, is_series=True):
         text = github_raw(path)
         updated = update_m3u(text, cache, is_series=is_series)
 
-        # Alt dizinleri oluştur
+        # Dosyayı repo klasörüne kaydet
         os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
-
-        # Aynı isimle kaydet
         with open(path, "w", encoding="utf-8") as f:
             f.write(updated)
         print(f"✅ Kaydedildi: {path}", flush=True)
