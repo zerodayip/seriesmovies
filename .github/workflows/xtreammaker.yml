@@ -105,10 +105,72 @@ jobs:
           git add xtream/imdb_series.json xtream/imdb_vod.json || echo "IMDB JSON lar yok."
           git diff --cached --quiet || git commit -m "IMDB JSON'lar güncellendi [auto]"
           git push origin main
+
+
+  run-imdb-m3u-save:
+    runs-on: ubuntu-latest
+    needs: run-imdb-finder
+    
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      # Private Py repo checkout
+      - name: Checkout private_py repo
+        uses: actions/checkout@v4
+        with:
+          repository: zerodayip/Py
+          token: ${{ secrets.GH_TOKEN }}
+          path: private_py
+          fetch-depth: 0
+
+      # Private m3u8file repo checkout
+      - name: Checkout private m3u8file repo
+        uses: actions/checkout@v4
+        with:
+          repository: zerodayip/m3u8file
+          token: ${{ secrets.GH_TOKEN }}
+          path: private_m3u8file
+          fetch-depth: 0
+
+      # Python setup
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      # Install dependencies
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      # Run IMDB SAVE M3U script
+      - name: Run IMDB SAVE M3U script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          python private_py/imdb/imdb_m3u_kaydet.py
+
+      # Copy M3U files with directory structure
+      - name: Copy all M3U files with structure
+        run: |
+          find . -type f -name "*.m3u" -exec cp --parents {} private_m3u8file/ \;
+
+      # Commit & push to private m3u8file repo
+      - name: Commit and push M3U files (alt dizinler dahil)
+        run: |
+          cd private_m3u8file
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add **/*.m3u || echo "No M3U to add"
+          git diff --cached --quiet || git commit -m "Tüm M3U dosyaları IMDB ile birlikte güncellendi [auto]"
+          git push origin main
+
               
   run-xtream-m3u:
     runs-on: ubuntu-latest
-    needs: run-imdb-finder
+    needs: run-imdb-m3u-save
 
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
