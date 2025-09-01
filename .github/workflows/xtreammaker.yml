@@ -105,10 +105,75 @@ jobs:
           git add xtream/imdb_series.json xtream/imdb_vod.json || echo "IMDB JSON lar yok."
           git diff --cached --quiet || git commit -m "IMDB JSON'lar güncellendi [auto]"
           git push origin main
+
+  push-imdb-m3u-to-private:
+    runs-on: ubuntu-latest
+    needs: run-imdb-finder
+    
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      # 1️⃣ Public repo checkout (workflow tetikleme için)
+      - name: Checkout public repo
+        uses: actions/checkout@v4
+
+      # 2️⃣ Private script repo checkout
+      - name: Checkout private script repo
+        uses: actions/checkout@v4
+        with:
+          repository: zerodayip/Py  # Scriptin olduğu private repo
+          token: ${{ secrets.GH_TOKEN }}
+          path: private_py
+          fetch-depth: 0
+
+      # 3️⃣ Python kurulumu
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      # 4️⃣ Python bağımlılıkları
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # 5️⃣ M3U güncelleme scriptini çalıştır
+      - name: Run M3U update script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          python private_py/imdb/imdb_m3u_kaydet.py  # veya scriptin yolu
+
+      # 6️⃣ Private m3u8file repo checkout
+      - name: Checkout private m3u8file repo
+        uses: actions/checkout@v4
+        with:
+          repository: zerodayip/m3u8file
+          token: ${{ secrets.GH_TOKEN }}
+          path: private_m3u8file
+          fetch-depth: 0
+
+      # 7️⃣ Güncellenmiş M3U dosyalarını private repo’ya kopyala
+      - name: Copy all updated M3U files to private repo
+        run: |
+          find . -maxdepth 2 -type f -name "*.m3u" -exec cp {} private_m3u8file/ \;
+
+      # 8️⃣ Commit ve push işlemi
+      - name: Commit and push M3U files
+        run: |
+          cd private_m3u8file
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add *.m3u || echo "No M3U to add"
+          git diff --cached --quiet || git commit -m "Tüm M3U dosyaları IMDB ile güncellendi [auto]"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
+          git push origin main
              
   run-xtream-m3u:
     runs-on: ubuntu-latest
-    needs: run-imdb-finder
+    needs: push-imdb-m3u-to-private
 
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
