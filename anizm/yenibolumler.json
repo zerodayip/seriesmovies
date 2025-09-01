@@ -1,4 +1,22 @@
 {
+  "https://anizm.com.tr/nmeneko": {
+    "group": "NMENEKO",
+    "last_season": 1,
+    "last_episode": 17,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/jujutsu-kaisen-3rd-season": {
+    "group": "JUJUTSU KAISEN 3RD SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/yuzuki-san-chi-no-yonkyoudai": {
+    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/hotel-inhumans": {
     "group": "HOTEL INHUMANS",
     "last_season": 1,
@@ -87,24 +105,6 @@
     "group": "KAORU HANA WA RIN TO SAKU",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/anne-shirley": {
-    "group": "ANNE SHIRLEY",
-    "last_season": 1,
-    "last_episode": 20,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kizetsu-yuusha-to-ansatsu-hime": {
-    "group": "KIZETSU YUUSHA TO ANSATSU HIME",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/summer-pockets": {
-    "group": "SUMMER POCKETS",
-    "last_season": 1,
-    "last_episode": 21,
     "start_episode": 1
   }
 }
