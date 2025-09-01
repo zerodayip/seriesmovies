@@ -95,8 +95,7 @@ jobs:
       - name: Run IMDB Finder Script
         run: python private_py/imdb/imdb_al.py
 
-
-      - name: Commit group_order.json to Public Repo
+      - name: Commit IMDB JSON file to Public Repo
         run: |
           mkdir -p xtream
           git config user.name "GitHub Actions"
