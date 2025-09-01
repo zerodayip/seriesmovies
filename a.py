@@ -120,6 +120,9 @@ def process_files(paths: list[str], cache_file: str, is_series=True):
         text = github_raw(path)
         updated = update_m3u(text, cache, is_series=is_series)
 
+        # Alt dizinleri oluştur
+        os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+
         # Aynı isimle kaydet
         with open(path, "w", encoding="utf-8") as f:
             f.write(updated)
