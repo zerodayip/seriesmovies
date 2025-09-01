@@ -1,35 +1,50 @@
-name: Generate IMDb Series JSON
+name: Update M3U Files
 
 on:
-  workflow_dispatch:  # Manuel çalıştırma
+  workflow_dispatch:   # Manuel çalıştırma
+  schedule:
+    - cron: "0 2 * * *"  # Her gün 02:00'de çalışacak
 
 jobs:
-  build:
+  update-and-push:
     runs-on: ubuntu-latest
 
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
     steps:
-      - name: Checkout repo
+      # 1️⃣ Gizli repo'yu checkout et
+      - name: Checkout m3u8file repo
         uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          repository: zerodayip/m3u8file
+          token: ${{ secrets.GH_TOKEN }}
+          path: m3u8file   # local klasör adı
 
+      # 2️⃣ Python yükle
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      # 3️⃣ Gerekli paketleri yükle
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Run script
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      # 4️⃣ Python script’i çalıştır
+      - name: Run update script
         run: |
-          python a.py
+          cd m3u8file
+          python update_m3u.py
 
+      # 5️⃣ Değişiklikleri commit et ve push et
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add xtream/imdb_series.json xtream/imdb_vod.json
-          git commit -m "Update imdb_series.json [skip ci]" || echo "No changes"
-          git push
+          cd m3u8file
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "Update M3U files [ci skip]"
+          git push origin main
