@@ -108,7 +108,7 @@ jobs:
               
   run-xtream-m3u:
     runs-on: ubuntu-latest
-    needs: push-m3u-to-root
+    needs: run-imdb-finder
 
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
