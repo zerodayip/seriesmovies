@@ -1,7 +1,8 @@
 name: Update M3U Files
 
 on:
-  workflow_dispatch:   # Manuel çalıştırma
+  workflow_dispatch:
+    # Manuel çalıştırma
   schedule:
     - cron: "0 2 * * *"  # Her gün 02:00'de çalışacak
 
@@ -13,13 +14,13 @@ jobs:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     steps:
-      # 1️⃣ Gizli repo'yu checkout et
+      # 1️⃣ Repo’yu root’a checkout et
       - name: Checkout m3u8file repo
         uses: actions/checkout@v4
         with:
           repository: zerodayip/m3u8file
           token: ${{ secrets.GH_TOKEN }}
-          path: m3u8file   # local klasör adı
+          fetch-depth: 0
 
       # 2️⃣ Python yükle
       - name: Set up Python
@@ -36,12 +37,11 @@ jobs:
       # 4️⃣ Python script’i çalıştır
       - name: Run update script
         run: |
-           python a.py
+          python a.py
 
       # 5️⃣ Değişiklikleri commit et ve push et
       - name: Commit and push changes
         run: |
-          cd m3u8file
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
