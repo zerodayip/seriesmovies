@@ -1,4 +1,16 @@
 {
+  "https://sezonlukdizi6.com/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/sakamoto-days.html": {
+    "group": "SAKAMOTO DAYS",
+    "last_season": 1,
+    "last_episode": 19,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/gachiakuta.html": {
     "group": "GACHIAKUTA",
     "last_season": 1,
@@ -69,18 +81,6 @@
     "group": "INVASION",
     "last_season": 3,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/foundation.html": {
-    "group": "FOUNDATION",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/chief-of-war.html": {
-    "group": "CHIEF OF WAR",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
