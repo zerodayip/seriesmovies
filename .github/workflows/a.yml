@@ -36,8 +36,7 @@ jobs:
       # 4️⃣ Python script’i çalıştır
       - name: Run update script
         run: |
-          cd m3u8file
-          python update_m3u.py
+           python a.py
 
       # 5️⃣ Değişiklikleri commit et ve push et
       - name: Commit and push changes
