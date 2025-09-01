@@ -1,49 +1,38 @@
-name: Update M3U Files
+name: M3U Güncelle ve Push
 
 on:
   workflow_dispatch:
-    # Manuel çalıştırma
-  schedule:
-    - cron: "0 2 * * *"  # Her gün 02:00'de çalışacak
 
 jobs:
-  update-and-push:
+  update-m3u:
     runs-on: ubuntu-latest
 
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     steps:
-      # 1️⃣ Repo’yu root’a checkout et
-      - name: Checkout m3u8file repo
+      - name: Checkout Repo
         uses: actions/checkout@v4
         with:
-          repository: zerodayip/m3u8file
           token: ${{ secrets.GH_TOKEN }}
-          fetch-depth: 0
 
-      # 2️⃣ Python yükle
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
 
-      # 3️⃣ Gerekli paketleri yükle
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      # 4️⃣ Python script’i çalıştır
-      - name: Run update script
-        run: |
-          python a.py
+      - name: Run M3U Update Script
+        run: python update_m3u.py
 
-      # 5️⃣ Değişiklikleri commit et ve push et
-      - name: Commit and push changes
+      - name: Commit and Push Changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
           git add .
-          git diff --cached --quiet || git commit -m "Update M3U files [ci skip]"
+          git diff-index --quiet HEAD || git commit -m "M3U dosyaları güncellendi [Automatik]"
           git push origin main
