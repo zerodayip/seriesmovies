@@ -41,7 +41,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          python private_py/update_m3u.py  # veya scriptin yolu
+          python private_py/imdb/imdb_m3u_kaydet.py  # veya scriptin yolu
 
       # 6️⃣ Private m3u8file repo checkout
       - name: Checkout private m3u8file repo
