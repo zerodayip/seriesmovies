@@ -18,8 +18,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests playwright
-          playwright install
+          pip install requests
 
       - name: Run Python script
         run: python a.py
