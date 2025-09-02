@@ -1,21 +1,18 @@
-import requests
+from playwright.sync_api import sync_playwright
 
 url = "https://yabancidizi.io/"
 
-# Tarayıcı gibi görünmek için header ekleyelim
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/139.0.0.0 Safari/537.36",
-    "Referer": "https://yabancidizi.io/",
-    "Header" : "https://yabancidizi.io/" # İsteğe bağlı, bazı siteler için gerekli
-}
-
-# HTTP isteği gönder
-response = requests.get(url, headers=headers)
-
-# Yanıtı kontrol et
-if response.status_code == 200:
-    print(response.text)  # Sayfanın tüm HTML içeriği
-else:
-    print("Sayfa alınamadı. HTTP Durum Kodu:", response.status_code)
+with sync_playwright() as p:
+    # Chromium tarayıcısını başlat (headless modda)
+    browser = p.chromium.launch(headless=True)
+    page = browser.new_page()
+    
+    # Sayfayı aç
+    page.goto(url)
+    
+    # Sayfanın tüm HTML içeriğini al
+    html = page.content()
+    
+    print(html)
+    
+    browser.close()
