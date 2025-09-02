@@ -1,14 +1,14 @@
 import requests
 
-url = "https://dizilla.club/"
+url = "https://yabancidizi.io/"
 
 # Tarayıcı gibi görünmek için header ekleyelim
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
                   "Chrome/139.0.0.0 Safari/537.36",
-    "Referer": "https://dizilla.club/",
-    "Header" : "https://dizilla.club/" # İsteğe bağlı, bazı siteler için gerekli
+    "Referer": "https://yabancidizi.io/",
+    "Header" : "https://yabancidizi.io/" # İsteğe bağlı, bazı siteler için gerekli
 }
 
 # HTTP isteği gönder
