@@ -17,7 +17,8 @@ jobs:
           python-version: '3.11'
 
       - name: Install requests library
-        run: pip install requests
+        run: pip install requests playwright
+             playwright install
 
       - name: Run Python script
         run: python a.py
