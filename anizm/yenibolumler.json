@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/kakkou-no-iinazuke-season-2": {
+    "group": "KAKKOU NO IINAZUKE SEASON 2",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/mattaku-saikin-no-tantei-to-kitara": {
+    "group": "MATTAKU SAIKIN NO TANTEI TO KITARA",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/sakamoto-days-part-2": {
     "group": "SAKAMOTO DAYS PART 2",
     "last_season": 1,
@@ -93,18 +105,6 @@
     "group": "WITCH WATCH",
     "last_season": 1,
     "last_episode": 22,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru": {
-    "group": "YUUSHA PARTY WO TSUIHOU SARETA SHIROMADOUSHI, S-RANK BOUKENSHA NI HIROWARERU: KONO SHIROMADOUSHI GA KIKAKUGAI SUGIRU",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/bad-girl": {
-    "group": "BAD GIRL",
-    "last_season": 1,
-    "last_episode": 9,
     "start_episode": 1
   }
 }
