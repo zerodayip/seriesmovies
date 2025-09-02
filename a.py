@@ -2,12 +2,19 @@ import requests
 
 url = "https://dizilla.club/"
 
-# HTTP isteği gönder
-response = requests.get(url)
+# Tarayıcı gibi görünmek için header ekleyelim
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/139.0.0.0 Safari/537.36",
+    "Referer": "https://google.com/"  # İsteğe bağlı, bazı siteler için gerekli
+}
 
-# Başarılı bir yanıt alındıysa
+# HTTP isteği gönder
+response = requests.get(url, headers=headers)
+
+# Yanıtı kontrol et
 if response.status_code == 200:
-    # Sayfanın tüm HTML içeriğini yazdır
-    print(response.text)
+    print(response.text)  # Sayfanın tüm HTML içeriği
 else:
     print("Sayfa alınamadı. HTTP Durum Kodu:", response.status_code)
