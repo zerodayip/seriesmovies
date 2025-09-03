@@ -1,4 +1,40 @@
 {
+  "https://anizm.com.tr/tsuyokute-new-saga": {
+    "group": "TSUYOKUTE NEW SAGA",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/turkey": {
+    "group": "TURKEY!",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season": {
+    "group": "TENSEI SHITARA DAINANA OUJI DATTA NODE, KIMAMA NI MAJUTSU WO KIWAMEMASU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/mikadono-sanshimai-wa-angai-choroi": {
+    "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season": {
+    "group": "JIDOU HANBAIKI NI UMAREKAWATTA ORE WA MEIKYUU WO SAMAYOU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tate-no-yuusha-no-nariagari-season-4": {
+    "group": "TATE NO YUUSHA NO NARIAGARI SEASON 4",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha": {
     "group": "CLEVATESS: MAJUU NO OU TO AKAGO TO SHIKABANE NO YUUSHA",
     "last_season": 1,
@@ -69,42 +105,6 @@
     "group": "HOTEL INHUMANS",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
-    "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/nyaight-of-the-living-cat": {
-    "group": "NYAIGHT OF THE LIVING CAT",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/to-be-hero-x": {
-    "group": "TO BE HERO X",
-    "last_season": 1,
-    "last_episode": 22,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/busamen-gachi-fighter": {
-    "group": "BUSAMEN GACHI FIGHTER",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/city-the-animation": {
-    "group": "CITY THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/gachiakuta": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
