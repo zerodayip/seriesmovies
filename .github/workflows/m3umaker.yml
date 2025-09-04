@@ -60,7 +60,7 @@ jobs:
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add vavoo.m3u
+          git add vavoo.m3u kablo.m3u
           git commit -m "Vavoo & Kablo Turksat çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
 
