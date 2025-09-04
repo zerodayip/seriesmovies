@@ -48,15 +48,20 @@ jobs:
       - name: Run KENDIPROXYIM.py
         run: python private_py/vavoo/iptv/vavooiptvkendi.py
 
+      # 1. Kablo IPTV Scripts
+      - name: Run KABLO TURKSAT.py
+        run: python private_py/channels/kablo/kanal.py
+
       - name: Sync Vavoo outputs to private m3u8file repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8file
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
+          cp v/kablo.m3u privaate_m3u8file/kablo.m3u || echo "v/kablo.m3u bulunamadı"
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add vavoo.m3u
-          git commit -m "Vavoo çıktısı güncellendi [auto]" || echo "No changes"
+          git commit -m "Vavoo & Kablo Turksat çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
 
       # 2. Run All JSON
