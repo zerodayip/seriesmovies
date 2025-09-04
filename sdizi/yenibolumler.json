@@ -1,4 +1,16 @@
 {
+  "https://sezonlukdizi6.com/diziler/ninjago-dragons-rising.html": {
+    "group": "NINJAGO: DRAGONS RISING",
+    "last_season": 3,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/dandadan.html": {
+    "group": "DANDADAN",
+    "last_season": 2,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/dr-stone.html": {
     "group": "DR. STONE",
     "last_season": 4,
@@ -75,18 +87,6 @@
     "group": "GACHIAKUTA",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/beyond-the-bar.html": {
-    "group": "BEYOND THE BAR",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/two-graves.html": {
-    "group": "TWO GRAVES",
-    "last_season": 1,
-    "last_episode": 3,
     "start_episode": 1
   }
 }
