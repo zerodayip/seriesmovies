@@ -1,50 +1,8 @@
 {
-  "https://dizigom1.live/dizi-izle/my-life-with-the-walter-boys/": {
-    "group": "MY LIFE WITH THE WALTER BOYS",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/wednesday/": {
-    "group": "WEDNESDAY",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-terminal-list-dark-wolf/": {
-    "group": "THE TERMINAL LIST: DARK WOLF",
+  "https://dizigom1.live/dizi-izle/two-graves/": {
+    "group": "TWO GRAVES (DOS TUMBAS)",
     "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/betty-la-fea-the-story-continues/": {
-    "group": "BETTY LA FEA, THE STORY CONTINUES",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-runarounds/": {
-    "group": "THE RUNAROUNDS",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-twisted-tale-of-amanda-knox/": {
-    "group": "THE TWISTED TALE OF AMANDA KNOX",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/necaxa/": {
-    "group": "NECAXA",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-heritage/": {
-    "group": "THE HERITAGE (SCHEDA)",
-    "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/alien-earth/": {
@@ -53,28 +11,10 @@
     "last_episode": 5,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/platonic/": {
-    "group": "PLATONIC",
+  "https://dizigom1.live/dizi-izle/betty-la-fea-the-story-continues/": {
+    "group": "BETTY LA FEA, THE STORY CONTINUES",
     "last_season": 2,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/two-graves/": {
-    "group": "TWO GRAVES (DOS TUMBAS)",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
-    "group": "BEYOND THE BAR",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/foundation/": {
-    "group": "FOUNDATION",
-    "last_season": 3,
-    "last_episode": 8,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/acapulco/": {
@@ -83,10 +23,28 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-winning-try/": {
-    "group": "THE WINNING TRY",
+  "https://dizigom1.live/dizi-izle/bon-appetit-your-majesty/": {
+    "group": "BON APPÉTIT, YOUR MAJESTY",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-heritage/": {
+    "group": "THE HERITAGE (SCHEDA)",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-twisted-tale-of-amanda-knox/": {
+    "group": "THE TWISTED TALE OF AMANDA KNOX",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/my-life-with-the-walter-boys/": {
+    "group": "MY LIFE WITH THE WALTER BOYS",
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/chief-of-war/": {
@@ -95,16 +53,58 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/bon-appetit-your-majesty/": {
-    "group": "BON APPÉTIT, YOUR MAJESTY",
+  "https://dizigom1.live/dizi-izle/the-terminal-list-dark-wolf/": {
+    "group": "THE TERMINAL LIST: DARK WOLF",
     "last_season": 1,
     "last_episode": 4,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/platonic/": {
+    "group": "PLATONIC",
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/countdown/": {
     "group": "COUNTDOWN",
     "last_season": 1,
     "last_episode": 13,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/foundation/": {
+    "group": "FOUNDATION",
+    "last_season": 3,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/necaxa/": {
+    "group": "NECAXA",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-runarounds/": {
+    "group": "THE RUNAROUNDS",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
+    "group": "BEYOND THE BAR",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-winning-try/": {
+    "group": "THE WINNING TRY",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/wednesday/": {
+    "group": "WEDNESDAY",
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/kpopped/": {
