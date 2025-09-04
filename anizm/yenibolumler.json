@@ -1,4 +1,22 @@
 {
+  "https://anizm.com.tr/tsuihousha-shokudou-e-youkoso": {
+    "group": "TSUIHOUSHA SHOKUDOU E YOUKOSO!",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/onmyou-kaiten-rebirth": {
+    "group": "ONMYOU KAITEN RE:BIRTH",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/kizu-darake-seijo-yori-houfuku-wo-komete": {
+    "group": "KIZU DARAKE SEIJO YORI HOUFUKU WO KOMETE",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/lord-of-mysteries": {
     "group": "LORD OF MYSTERIES",
     "last_season": 1,
@@ -87,24 +105,6 @@
     "group": "SUGAR APPLE FAIRY TALE",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/nmeneko": {
-    "group": "NMENEKO",
-    "last_season": 1,
-    "last_episode": 18,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/jujutsu-kaisen-3rd-season": {
-    "group": "JUJUTSU KAISEN 3RD SEASON",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/yuzuki-san-chi-no-yonkyoudai": {
-    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }

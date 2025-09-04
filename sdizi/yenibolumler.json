@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/dr-stone.html": {
+    "group": "DR. STONE",
+    "last_season": 4,
+    "last_episode": 20,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/south-park.html": {
     "group": "SOUTH PARK",
     "last_season": 27,
@@ -81,12 +87,6 @@
     "group": "TWO GRAVES",
     "last_season": 1,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/to-be-hero-x.html": {
-    "group": "TO BE HERO X",
-    "last_season": 1,
-    "last_episode": 22,
     "start_episode": 1
   }
 }
