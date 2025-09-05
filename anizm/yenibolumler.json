@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/kizu-darake-seijo-yori-houfuku-wo-komete": {
+    "group": "KIZU DARAKE SEIJO YORI HOUFUKU WO KOMETE",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/futari-solo-camp": {
     "group": "FUTARI SOLO CAMP",
     "last_season": 1,
@@ -47,12 +53,6 @@
     "last_episode": 10,
     "start_episode": 1
   },
-  "https://anizm.com.tr/kizu-darake-seijo-yori-houfuku-wo-komete": {
-    "group": "KIZU DARAKE SEIJO YORI HOUFUKU WO KOMETE",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
   "https://anizm.com.tr/lord-of-mysteries": {
     "group": "LORD OF MYSTERIES",
     "last_season": 1,
@@ -97,12 +97,6 @@
   },
   "https://anizm.com.tr/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha": {
     "group": "CLEVATESS: MAJUU NO OU TO AKAGO TO SHIKABANE NO YUUSHA",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kanojo-okarishimasu-4th-season": {
-    "group": "KANOJO, OKARISHIMASU 4TH SEASON",
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1
