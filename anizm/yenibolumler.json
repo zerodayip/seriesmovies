@@ -1,4 +1,22 @@
 {
+  "https://anizm.com.tr/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
+    "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/watari-kun-no-xx-ga-houkai-sunzen": {
+    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tougen-anki": {
+    "group": "TOUGEN ANKI",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/yofukashi-no-uta-2nd-season": {
     "group": "YOFUKASHI NO UTA 2ND SEASON",
     "last_season": 1,
@@ -79,24 +97,6 @@
   },
   "https://anizm.com.tr/tsuyokute-new-saga": {
     "group": "TSUYOKUTE NEW SAGA",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/turkey": {
-    "group": "TURKEY!",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season": {
-    "group": "TENSEI SHITARA DAINANA OUJI DATTA NODE, KIMAMA NI MAJUTSU WO KIWAMEMASU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/mikadono-sanshimai-wa-angai-choroi": {
-    "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1
