@@ -496,5 +496,11 @@
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/chuan-shu-zijiu-zhinan": {
+    "group": "CHUAN SHU ZIJIU ZHINAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

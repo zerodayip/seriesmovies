@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/yofukashi-no-uta-2nd-season": {
+    "group": "YOFUKASHI NO UTA 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/chuan-shu-zijiu-zhinan": {
+    "group": "CHUAN SHU ZIJIU ZHINAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/busu-ni-hanataba-wo": {
     "group": "BUSU NI HANATABA WO.",
     "last_season": 1,
@@ -87,18 +99,6 @@
     "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season": {
-    "group": "JIDOU HANBAIKI NI UMAREKAWATTA ORE WA MEIKYUU WO SAMAYOU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tate-no-yuusha-no-nariagari-season-4": {
-    "group": "TATE NO YUUSHA NO NARIAGARI SEASON 4",
-    "last_season": 1,
-    "last_episode": 9,
     "start_episode": 1
   }
 }
