@@ -1,4 +1,22 @@
 {
+  "https://anizm.com.tr/shin-samurai-den-yaiba": {
+    "group": "SHIN SAMURAI-DEN YAIBA",
+    "last_season": 1,
+    "last_episode": 20,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/kanojo-okarishimasu-3rd-season": {
+    "group": "KANOJO, OKARISHIMASU 3RD SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/arknights-rise-from-ember": {
+    "group": "ARKNIGHTS: RISE FROM EMBER",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
     "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
     "last_season": 1,
@@ -79,24 +97,6 @@
   },
   "https://anizm.com.tr/tsuihousha-shokudou-e-youkoso": {
     "group": "TSUIHOUSHA SHOKUDOU E YOUKOSO!",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/onmyou-kaiten-rebirth": {
-    "group": "ONMYOU KAITEN RE:BIRTH",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/lord-of-mysteries": {
-    "group": "LORD OF MYSTERIES",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tsuyokute-new-saga": {
-    "group": "TSUYOKUTE NEW SAGA",
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1

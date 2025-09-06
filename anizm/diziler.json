@@ -502,5 +502,11 @@
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/kanojo-okarishimasu-3rd-season": {
+    "group": "KANOJO, OKARISHIMASU 3RD SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
