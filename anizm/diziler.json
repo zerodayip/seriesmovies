@@ -152,7 +152,7 @@
   "https://anizm.com.tr/arknights-rise-from-ember": {
     "group": "ARKNIGHTS: RISE FROM EMBER",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1
   },
   "https://anizm.com.tr/watari-kun-no-xx-ga-houkai-sunzen": {
@@ -182,7 +182,7 @@
   "https://anizm.com.tr/shin-samurai-den-yaiba": {
     "group": "SHIN SAMURAI-DEN YAIBA",
     "last_season": 1,
-    "last_episode": 20,
+    "last_episode": 21,
     "start_episode": 1
   },
   "https://anizm.com.tr/bad-girl": {
@@ -506,7 +506,7 @@
   "https://anizm.com.tr/kanojo-okarishimasu-3rd-season": {
     "group": "KANOJO, OKARISHIMASU 3RD SEASON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   }
 }
