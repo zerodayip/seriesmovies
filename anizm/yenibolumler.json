@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/kaijuu-8-gou-2nd-season": {
+    "group": "KAIJUU 8-GOU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/summer-pockets": {
+    "group": "SUMMER POCKETS",
+    "last_season": 1,
+    "last_episode": 21,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/shin-samurai-den-yaiba": {
     "group": "SHIN SAMURAI-DEN YAIBA",
     "last_season": 1,
@@ -87,18 +99,6 @@
     "group": "DR. STONE: SCIENCE FUTURE PART 2",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/dandadan-2nd-season": {
-    "group": "DANDADAN 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tsuihousha-shokudou-e-youkoso": {
-    "group": "TSUIHOUSHA SHOKUDOU E YOUKOSO!",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
