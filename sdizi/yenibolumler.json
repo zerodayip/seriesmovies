@@ -1,4 +1,22 @@
 {
+  "https://sezonlukdizi6.com/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1141,
+    "start_episode": 1120
+  },
+  "https://sezonlukdizi6.com/diziler/beyond-the-bar.html": {
+    "group": "BEYOND THE BAR",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/gachiakuta.html": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/confidence-queen.html": {
     "group": "CONFIDENCE QUEEN",
     "last_season": 1,
@@ -29,12 +47,6 @@
     "last_episode": 10,
     "start_episode": 1
   },
-  "https://sezonlukdizi6.com/diziler/beyond-the-bar.html": {
-    "group": "BEYOND THE BAR",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
   "https://sezonlukdizi6.com/diziler/kaiju-no-8.html": {
     "group": "KAIJU NO. 8",
     "last_season": 2,
@@ -63,24 +75,6 @@
     "group": "FOUNDATION",
     "last_season": 3,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/invasion.html": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/peacemaker.html": {
-    "group": "PEACEMAKER",
-    "last_season": 2,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/ninjago-dragons-rising.html": {
-    "group": "NINJAGO: DRAGONS RISING",
-    "last_season": 3,
-    "last_episode": 20,
     "start_episode": 1
   }
 }
