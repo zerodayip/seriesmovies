@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/confidence-queen.html": {
+    "group": "CONFIDENCE QUEEN",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/to-be-hero-x.html": {
     "group": "TO BE HERO X",
     "last_season": 1,
@@ -27,12 +33,6 @@
     "group": "BEYOND THE BAR",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/confidence-queen.html": {
-    "group": "CONFIDENCE QUEEN",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   },
   "https://sezonlukdizi6.com/diziler/kaiju-no-8.html": {
@@ -81,12 +81,6 @@
     "group": "NINJAGO: DRAGONS RISING",
     "last_season": 3,
     "last_episode": 20,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/dandadan.html": {
-    "group": "DANDADAN",
-    "last_season": 2,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
