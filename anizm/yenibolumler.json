@@ -11,12 +11,6 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "https://anizm.com.tr/gachiakuta": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
   "https://anizm.com.tr/nukitashi-the-animation": {
     "group": "NUKITASHI THE ANIMATION",
     "last_season": 1,
@@ -45,6 +39,12 @@
     "group": "BUSAMEN GACHI FIGHTER",
     "last_season": 1,
     "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/gachiakuta": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 9,
     "start_episode": 1
   },
   "https://anizm.com.tr/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku": {
@@ -93,6 +93,12 @@
     "group": "ANNE SHIRLEY",
     "last_season": 1,
     "last_episode": 21,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/kaoru-hana-wa-rin-to-saku": {
+    "group": "KAORU HANA WA RIN TO SAKU",
+    "last_season": 1,
+    "last_episode": 10,
     "start_episode": 1
   }
 }
