@@ -1,4 +1,16 @@
 {
+  "https://sezonlukdizi6.com/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "last_season": 2,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/sakamoto-days.html": {
+    "group": "SAKAMOTO DAYS",
+    "last_season": 1,
+    "last_episode": 20,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "last_season": 1,
@@ -63,18 +75,6 @@
     "group": "DEXTER: RESURRECTION",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/chief-of-war.html": {
-    "group": "CHIEF OF WAR",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/foundation.html": {
-    "group": "FOUNDATION",
-    "last_season": 3,
-    "last_episode": 9,
     "start_episode": 1
   }
 }

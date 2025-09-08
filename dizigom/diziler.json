@@ -27598,5 +27598,17 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/task/": {
+    "group": "TASK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/matlock-2024/": {
+    "group": "MATLOCK (2024)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

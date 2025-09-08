@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/zuoshou-shanglan": {
+    "group": "ZUOSHOU SHANGLAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/sakamoto-days-part-2": {
+    "group": "SAKAMOTO DAYS PART 2",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/bad-girl": {
     "group": "BAD GIRL",
     "last_season": 1,
@@ -85,18 +97,6 @@
   },
   "https://anizm.com.tr/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
     "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/anne-shirley": {
-    "group": "ANNE SHIRLEY",
-    "last_season": 1,
-    "last_episode": 21,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kaoru-hana-wa-rin-to-saku": {
-    "group": "KAORU HANA WA RIN TO SAKU",
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1
