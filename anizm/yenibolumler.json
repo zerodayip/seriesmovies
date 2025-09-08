@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/bad-girl": {
+    "group": "BAD GIRL",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/shiroi-suna-no-aquatope": {
     "group": "SHIROI SUNA NO AQUATOPE",
     "last_season": 1,
@@ -87,12 +93,6 @@
     "group": "ANNE SHIRLEY",
     "last_season": 1,
     "last_episode": 21,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kaoru-hana-wa-rin-to-saku": {
-    "group": "KAORU HANA WA RIN TO SAKU",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
