@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/grand-blue-season-2": {
+    "group": "GRAND BLUE SEASON 2",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/kanojo-okarishimasu-4th-season": {
+    "group": "KANOJO, OKARISHIMASU 4TH SEASON",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/mattaku-saikin-no-tantei-to-kitara": {
     "group": "MATTAKU SAIKIN NO TANTEI TO KITARA",
     "last_season": 1,
@@ -87,18 +99,6 @@
     "group": "CHAINSAW MAN RECAP",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/busu-ni-hanataba-wo": {
-    "group": "BUSU NI HANATABA WO.",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru": {
-    "group": "YUUSHA PARTY WO TSUIHOU SARETA SHIROMADOUSHI, S-RANK BOUKENSHA NI HIROWARERU: KONO SHIROMADOUSHI GA KIKAKUGAI SUGIRU",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
