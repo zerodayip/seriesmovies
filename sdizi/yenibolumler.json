@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/task.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "TASK",
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/grand-blue.html": {
     "group": "GRAND BLUE",
     "last_season": 2,
@@ -68,12 +74,6 @@
   "https://sezonlukdizi6.com/diziler/call-of-the-night.html": {
     "group": "CALL OF THE NIGHT",
     "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/dexter-resurrection.html": {
-    "group": "DEXTER: RESURRECTION",
-    "last_season": 1,
     "last_episode": 10,
     "start_episode": 1
   }
