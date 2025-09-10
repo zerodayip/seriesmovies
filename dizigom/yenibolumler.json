@@ -1,14 +1,8 @@
 {
-  "https://dizigom1.live/dizi-izle/the-twisted-tale-of-amanda-knox/": {
-    "group": "THE TWISTED TALE OF AMANDA KNOX",
+  "https://dizigom1.live/dizi-izle/kiss-or-die/": {
+    "group": "KISS OR DIE",
     "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/confidence-queen/": {
-    "group": "CONFIDENCE QUEEN",
-    "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/seen-heard-the-history-of-black-television/": {
@@ -17,10 +11,10 @@
     "last_episode": 1,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/betty-la-fea-the-story-continues/": {
-    "group": "BETTY LA FEA, THE STORY CONTINUES",
-    "last_season": 2,
-    "last_episode": 8,
+  "https://dizigom1.live/dizi-izle/aka-charlie-sheen/": {
+    "group": "AKA CHARLIE SHEEN",
+    "last_season": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/the-dead-girls/": {
@@ -29,10 +23,16 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/tempest/": {
-    "group": "TEMPEST",
+  "https://dizigom1.live/dizi-izle/the-twisted-tale-of-amanda-knox/": {
+    "group": "THE TWISTED TALE OF AMANDA KNOX",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/alien-earth/": {
+    "group": "ALIEN: EARTH",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
@@ -41,46 +41,16 @@
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/platonic/": {
-    "group": "PLATONIC",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/task/": {
-    "group": "TASK",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/acapulco/": {
-    "group": "ACAPULCO",
-    "last_season": 4,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/kiss-or-die/": {
-    "group": "KISS OR DIE",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/aka-charlie-sheen/": {
-    "group": "AKA CHARLIE SHEEN",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-girlfriend/": {
-    "group": "THE GIRLFRIEND",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
   "https://dizigom1.live/dizi-izle/the-terminal-list-dark-wolf/": {
     "group": "THE TERMINAL LIST: DARK WOLF",
     "last_season": 1,
     "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/tempest/": {
+    "group": "TEMPEST",
+    "last_season": 1,
+    "last_episode": 3,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/bon-appetit-your-majesty/": {
@@ -89,10 +59,40 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/alien-earth/": {
-    "group": "ALIEN: EARTH",
+  "https://dizigom1.live/dizi-izle/platonic/": {
+    "group": "PLATONIC",
+    "last_season": 2,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/confidence-queen/": {
+    "group": "CONFIDENCE QUEEN",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/betty-la-fea-the-story-continues/": {
+    "group": "BETTY LA FEA, THE STORY CONTINUES",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/acapulco/": {
+    "group": "ACAPULCO",
+    "last_season": 4,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-girlfriend/": {
+    "group": "THE GIRLFRIEND",
     "last_season": 1,
     "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/task/": {
+    "group": "TASK",
+    "last_season": 1,
+    "last_episode": 1,
     "start_episode": 1
   }
 }

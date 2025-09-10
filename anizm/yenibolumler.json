@@ -1,4 +1,46 @@
 {
+  "https://anizm.com.tr/new-panty--stocking-with-garterbelt": {
+    "group": "NEW PANTY & STOCKING WITH GARTERBELT",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta": {
+    "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?)",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/mikadono-sanshimai-wa-angai-choroi": {
+    "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season": {
+    "group": "TENSEI SHITARA DAINANA OUJI DATTA NODE, KIMAMA NI MAJUTSU WO KIWAMEMASU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season": {
+    "group": "JIDOU HANBAIKI NI UMAREKAWATTA ORE WA MEIKYUU WO SAMAYOU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tate-no-yuusha-no-nariagari-season-4": {
+    "group": "TATE NO YUUSHA NO NARIAGARI SEASON 4",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/yuzuki-san-chi-no-yonkyoudai": {
+    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/kijin-gentoushou": {
     "group": "KIJIN GENTOUSHOU",
     "last_season": 1,
@@ -51,54 +93,6 @@
     "group": "SAKAMOTO DAYS PART 2",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/bad-girl": {
-    "group": "BAD GIRL",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/shiroi-suna-no-aquatope": {
-    "group": "SHIROI SUNA NO AQUATOPE",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/nukitashi-the-animation": {
-    "group": "NUKITASHI THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/fermat-no-ryouri": {
-    "group": "FERMAT NO RYOURI",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/one-piece": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1142,
-    "start_episode": 1100
-  },
-  "https://anizm.com.tr/city-the-animation": {
-    "group": "CITY THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/busamen-gachi-fighter": {
-    "group": "BUSAMEN GACHI FIGHTER",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/gachiakuta": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 9,
     "start_episode": 1
   }
 }
