@@ -1,44 +1,8 @@
 {
-  "https://dizigom1.live/dizi-izle/peacemaker/": {
-    "group": "PEACEMAKER",
-    "last_season": 2,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
-    "group": "BEYOND THE BAR",
+  "https://dizigom1.live/dizi-izle/the-twisted-tale-of-amanda-knox/": {
+    "group": "THE TWISTED TALE OF AMANDA KNOX",
     "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/acapulco/": {
-    "group": "ACAPULCO",
-    "last_season": 4,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/bon-appetit-your-majesty/": {
-    "group": "BON APPÉTIT, YOUR MAJESTY",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/betty-la-fea-the-story-continues/": {
-    "group": "BETTY LA FEA, THE STORY CONTINUES",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/wednesday/": {
-    "group": "WEDNESDAY",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-heritage/": {
-    "group": "THE HERITAGE (SCHEDA)",
-    "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/confidence-queen/": {
@@ -47,40 +11,34 @@
     "last_episode": 2,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/task/": {
-    "group": "TASK",
+  "https://dizigom1.live/dizi-izle/seen-heard-the-history-of-black-television/": {
+    "group": "SEEN & HEARD: THE HISTORY OF BLACK TELEVISION",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/foundation/": {
-    "group": "FOUNDATION",
-    "last_season": 3,
-    "last_episode": 9,
+  "https://dizigom1.live/dizi-izle/betty-la-fea-the-story-continues/": {
+    "group": "BETTY LA FEA, THE STORY CONTINUES",
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/most-wanted-teen-hacker/": {
-    "group": "MOST WANTED: TEEN HACKER",
+  "https://dizigom1.live/dizi-izle/the-dead-girls/": {
+    "group": "THE DEAD GIRLS (LAS MUERTAS)",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-twisted-tale-of-amanda-knox/": {
-    "group": "THE TWISTED TALE OF AMANDA KNOX",
+  "https://dizigom1.live/dizi-izle/tempest/": {
+    "group": "TEMPEST",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/love-con-revenge/": {
-    "group": "LOVE CON REVENGE",
+  "https://dizigom1.live/dizi-izle/beyond-the-bar/": {
+    "group": "BEYOND THE BAR",
     "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/kiss-or-die/": {
-    "group": "KISS OR DIE",
-    "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 12,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/platonic/": {
@@ -89,34 +47,52 @@
     "last_episode": 6,
     "start_episode": 1
   },
+  "https://dizigom1.live/dizi-izle/task/": {
+    "group": "TASK",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/acapulco/": {
+    "group": "ACAPULCO",
+    "last_season": 4,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/kiss-or-die/": {
+    "group": "KISS OR DIE",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/aka-charlie-sheen/": {
+    "group": "AKA CHARLIE SHEEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-girlfriend/": {
+    "group": "THE GIRLFRIEND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://dizigom1.live/dizi-izle/the-terminal-list-dark-wolf/": {
     "group": "THE TERMINAL LIST: DARK WOLF",
     "last_season": 1,
     "last_episode": 4,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/chief-of-war/": {
-    "group": "CHIEF OF WAR",
+  "https://dizigom1.live/dizi-izle/bon-appetit-your-majesty/": {
+    "group": "BON APPÉTIT, YOUR MAJESTY",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/invasion/": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/necaxa/": {
-    "group": "NECAXA",
+  "https://dizigom1.live/dizi-izle/alien-earth/": {
+    "group": "ALIEN: EARTH",
     "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/countdown/": {
-    "group": "COUNTDOWN",
-    "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 5,
     "start_episode": 1
   }
 }

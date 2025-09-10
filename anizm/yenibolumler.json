@@ -1,4 +1,22 @@
 {
+  "https://anizm.com.tr/kijin-gentoushou": {
+    "group": "KIJIN GENTOUSHOU",
+    "last_season": 1,
+    "last_episode": 21,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/kakkou-no-iinazuke-season-2": {
+    "group": "KAKKOU NO IINAZUKE SEASON 2",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha": {
+    "group": "CLEVATESS: MAJUU NO OU TO AKAGO TO SHIKABANE NO YUUSHA",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/grand-blue-season-2": {
     "group": "GRAND BLUE SEASON 2",
     "last_season": 1,
@@ -81,24 +99,6 @@
     "group": "GACHIAKUTA",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku": {
-    "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/to-be-hero-x": {
-    "group": "TO BE HERO X",
-    "last_season": 1,
-    "last_episode": 23,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/chainsaw-man-recap": {
-    "group": "CHAINSAW MAN RECAP",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }

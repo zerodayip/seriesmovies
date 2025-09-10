@@ -27616,5 +27616,47 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/helluva-boss/": {
+    "group": "HELLUVA BOSS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/coach-snoop/": {
+    "group": "COACH SNOOP",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/seen-heard-the-history-of-black-television/": {
+    "group": "SEEN & HEARD: THE HISTORY OF BLACK TELEVISION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-girlfriend/": {
+    "group": "THE GIRLFRIEND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-dead-girls/": {
+    "group": "THE DEAD GIRLS (LAS MUERTAS)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/tempest/": {
+    "group": "TEMPEST",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/aka-charlie-sheen/": {
+    "group": "AKA CHARLIE SHEEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
