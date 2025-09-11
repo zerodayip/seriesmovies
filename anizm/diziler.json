@@ -538,5 +538,11 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/dekin-no-mogura": {
+    "group": "DEKIN NO MOGURA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

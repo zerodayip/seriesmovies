@@ -1,4 +1,34 @@
 {
+  "https://anizm.com.tr/mizu-zokusei-no-mahoutsukai": {
+    "group": "MIZU ZOKUSEI NO MAHOUTSUKAI",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/futari-solo-camp": {
+    "group": "FUTARI SOLO CAMP",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/dekin-no-mogura": {
+    "group": "DEKIN NO MOGURA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/dr-stone-science-future-part-2": {
+    "group": "DR. STONE: SCIENCE FUTURE PART 2",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/dandadan-2nd-season": {
+    "group": "DANDADAN 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/silent-witch-chinmoku-no-majo-no-kakushigoto---sennyuu-kiroku": {
     "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO - SENNYUU KIROKU",
     "last_season": 1,
@@ -69,30 +99,6 @@
     "group": "KIJIN GENTOUSHOU",
     "last_season": 1,
     "last_episode": 22,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kakkou-no-iinazuke-season-2": {
-    "group": "KAKKOU NO IINAZUKE SEASON 2",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha": {
-    "group": "CLEVATESS: MAJUU NO OU TO AKAGO TO SHIKABANE NO YUUSHA",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/grand-blue-season-2": {
-    "group": "GRAND BLUE SEASON 2",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kanojo-okarishimasu-4th-season": {
-    "group": "KANOJO, OKARISHIMASU 4TH SEASON",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }
