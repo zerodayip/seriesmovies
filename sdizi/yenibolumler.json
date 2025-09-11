@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi6.com/diziler/wolf-king.html": {
+    "group": "WOLF KING",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/the-girlfriend.html": {
     "group": "THE GIRLFRIEND",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "TO BE HERO X",
     "last_season": 1,
     "last_episode": 23,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/my-dress-up-darling.html": {
-    "group": "MY DRESS-UP DARLING",
-    "last_season": 2,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
