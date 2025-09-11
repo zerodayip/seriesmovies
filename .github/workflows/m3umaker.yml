@@ -7,7 +7,7 @@ on:
 
 jobs:
   part1:
-    name: Step 1-2 Çalıştır
+    name: Step 1-2-3 Çalıştır
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -52,18 +52,23 @@ jobs:
 #      - name: Run KABLO TURKSAT.py
 #        run: python private_py/channels/kablo/kanal.py
 
+      # 2. DiziFun Diziler Yerli Scripts
+      - name: Run dizifunyenibolumler.py
+        run: python private_py/series/dizifun/yenibolumler.py
+
       - name: Sync Vavoo outputs to private m3u8file repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8file
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
+          cp dizifundizi.m3u privaate_m3u8file/dizifundizi.m3u || echo "dizifundizi.m3u bulunamadı"
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add vavoo.m3u
-          git commit -m "Vavoo çıktısı güncellendi [auto]" || echo "No changes"
+          git add vavoo.m3u dizifundizi.m3u
+          git commit -m "Vavoo & DiziFunDizi çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # 2. Run All JSON
+      # 3. Run All JSON
       - name: Run Dizigom JSON Script
         run: python private_py/series/dizigom/dizigomdizijson.py
 
@@ -85,7 +90,7 @@ jobs:
           git push origin main
 
   part2:
-    name: Step 3-4-5-7 Çalıştır
+    name: Step 4-5-6-7 Çalıştır
     runs-on: ubuntu-latest
     needs: part1
     env:
@@ -113,7 +118,7 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv
           playwright install
 
-      # 3. Sezonlukdizi M3U Maker
+      # 4. Sezonlukdizi M3U Maker
       - name: Run SezonlukDizi yenibolumler.py
         run: python private_py/series/sezonlukdizi/yenibolumler.py
 
@@ -136,7 +141,7 @@ jobs:
           git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # 4. Dizigom M3U Maker
+      # 5. Dizigom M3U Maker
       - name: Run Dizigom yenibolumler.py
         run: python private_py/series/dizigom/yenibolumler.py
 
@@ -159,7 +164,7 @@ jobs:
           git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # 5. Anizm M3U Maker
+      # 6. Anizm M3U Maker
       - name: Run Anizm yenibolumler.py
         run: python private_py/anime/anizm/yenibolumler.py
 
@@ -202,7 +207,7 @@ jobs:
 #         git push origin main
 
   part3:
-    name: Step 6 Çalıştır
+    name: Step 8 Çalıştır
     runs-on: ubuntu-latest
     needs: part2
     env:
@@ -224,7 +229,7 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      # 6. YeniJSON to AnaJSON
+      # 8. YeniJSON to AnaJSON
       - name: Run yenibolumdenanajsona Script
         run: python private_py/series/yenibolumdenanajsona.py
 
@@ -237,7 +242,7 @@ jobs:
           git push origin main
 
   part4:
-    name: Step 8-9 Çalıştır
+    name: Step 9-10 Çalıştır
     runs-on: ubuntu-latest
     needs: part3
     env:
@@ -264,11 +269,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv
        
-      # 8. Dizizgom Filmler
+      # 9. Dizizgom Filmler
       - name: Run dizigomfilmler Script
         run: python private_py/movies/dizigom/dizigomfilmler.py
 
-      # 9. SetFilmİzle Filmler
+      # 10. SetFilmİzle Filmler
       - name: Run Setfilm Script
         run: python private_py/movies/setfilmizle/ajaxtümfilmlerfastplay.py    
 
