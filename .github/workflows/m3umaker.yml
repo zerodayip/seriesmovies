@@ -45,8 +45,12 @@ jobs:
           playwright install
 
       # 1. Vavoo IPTV Scripts
-      - name: Run KENDIPROXYIM.py
-        run: python private_py/vavoo/iptv/vavooiptvkendi.py
+#      - name: Run KENDI PROXY UZERINDEN YAYIN ALINIYOR.py
+#        run: python private_py/vavoo/iptv/vavooiptvkendi.py
+
+      # 1. Vavoo IPTV Scripts
+      - name: Run DIGER PROXY UZERINDEN YAYIN ALINMAKTADIR.py
+        run: python private_py/vavoo/iptv/vavooiptvgoldvod.py
 
       # 1. Kablo IPTV Scripts
 #      - name: Run KABLO TURKSAT.py
