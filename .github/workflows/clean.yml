@@ -27,19 +27,6 @@ jobs:
       - name: requests kütüphanesini yükle
         run: pip install requests
 
-      - name: Aktif Workflow'ları kontrol et
-        run: |
-          while true; do
-            active_runs=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" "https://api.github.com/repos/${{ github.repository_owner }}/${{ github.repository_name }}/actions/runs?status=in_progress" | jq '.workflow_runs | length')
-            if [ "$active_runs" -eq "0" ]; then
-              echo "✅ Aktif workflow bulunamadı, işlem başlatılıyor..."
-              break
-            else
-              echo "⚠️ Aktif workflow mevcut, bekleniyor..."
-              sleep 60  # 60 saniye bekle ve tekrar dene
-            fi
-          done
-
       - name: Workflow geçmişini sil
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
