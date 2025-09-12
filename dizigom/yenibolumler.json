@@ -1,20 +1,8 @@
 {
-  "https://dizigom1.live/dizi-izle/wolf-king/": {
-    "group": "WOLF KING",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-terminal-list-dark-wolf/": {
-    "group": "THE TERMINAL LIST: DARK WOLF",
+  "https://dizigom1.live/dizi-izle/the-dead-girls/": {
+    "group": "THE DEAD GIRLS (LAS MUERTAS)",
     "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://dizigom1.live/dizi-izle/the-twisted-tale-of-amanda-knox/": {
-    "group": "THE TWISTED TALE OF AMANDA KNOX",
-    "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/acapulco/": {
@@ -35,16 +23,16 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/tempest/": {
-    "group": "TEMPEST",
-    "last_season": 1,
-    "last_episode": 3,
+  "https://dizigom1.live/dizi-izle/wolf-king/": {
+    "group": "WOLF KING",
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/aka-charlie-sheen/": {
-    "group": "AKA CHARLIE SHEEN",
+  "https://dizigom1.live/dizi-izle/the-terminal-list-dark-wolf/": {
+    "group": "THE TERMINAL LIST: DARK WOLF",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 5,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/platonic/": {
@@ -53,8 +41,8 @@
     "last_episode": 7,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/the-dead-girls/": {
-    "group": "THE DEAD GIRLS (LAS MUERTAS)",
+  "https://dizigom1.live/dizi-izle/kiss-or-die/": {
+    "group": "KISS OR DIE",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
@@ -65,16 +53,28 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "https://dizigom1.live/dizi-izle/kiss-or-die/": {
-    "group": "KISS OR DIE",
+  "https://dizigom1.live/dizi-izle/tempest/": {
+    "group": "TEMPEST",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 3,
     "start_episode": 1
   },
   "https://dizigom1.live/dizi-izle/alien-earth/": {
     "group": "ALIEN: EARTH",
     "last_season": 1,
     "last_episode": 6,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/the-twisted-tale-of-amanda-knox/": {
+    "group": "THE TWISTED TALE OF AMANDA KNOX",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/aka-charlie-sheen/": {
+    "group": "AKA CHARLIE SHEEN",
+    "last_season": 1,
+    "last_episode": 2,
     "start_episode": 1
   }
 }

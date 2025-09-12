@@ -1,4 +1,28 @@
 {
+  "https://sezonlukdizi6.com/diziler/chief-of-war.html": {
+    "group": "CHIEF OF WAR",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/peacemaker.html": {
+    "group": "PEACEMAKER",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/foundation.html": {
+    "group": "FOUNDATION",
+    "last_season": 3,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/invasion.html": {
+    "group": "INVASION",
+    "last_season": 3,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/tempest.html": {
     "group": "TEMPEST",
     "last_season": 1,
@@ -63,30 +87,6 @@
     "group": "TASK",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/grand-blue.html": {
-    "group": "GRAND BLUE",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/sakamoto-days.html": {
-    "group": "SAKAMOTO DAYS",
-    "last_season": 1,
-    "last_episode": 21,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1142,
-    "start_episode": 1120
-  },
-  "https://sezonlukdizi6.com/diziler/beyond-the-bar.html": {
-    "group": "BEYOND THE BAR",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
