@@ -27658,5 +27658,41 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/suga/": {
+    "group": "SUGA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/diary-of-a-ditched-girl/": {
+    "group": "DIARY OF A DITCHED GIRL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/you-and-everything-else/": {
+    "group": "YOU AND EVERYTHING ELSE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/ratu-ratu-queens-the-series/": {
+    "group": "RATU RATU QUEENS: THE SERIES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/maledictions/": {
+    "group": "MALEDICTIONS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.live/dizi-izle/beauty-and-the-bester/": {
+    "group": "BEAUTY AND THE BESTER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

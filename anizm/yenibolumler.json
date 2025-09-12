@@ -1,4 +1,34 @@
 {
+  "https://anizm.com.tr/yofukashi-no-uta-2nd-season": {
+    "group": "YOFUKASHI NO UTA 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/dekin-no-mogura": {
+    "group": "DEKIN NO MOGURA",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/onmyou-kaiten-rebirth": {
+    "group": "ONMYOU KAITEN RE:BIRTH",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/game-center-shoujo-to-ibunka-kouryuu": {
+    "group": "GAME CENTER SHOUJO TO IBUNKA KOURYUU",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/koujo-denka-no-kateikyoushi": {
+    "group": "KOUJO DENKA NO KATEIKYOUSHI",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/mizu-zokusei-no-mahoutsukai": {
     "group": "MIZU ZOKUSEI NO MAHOUTSUKAI",
     "last_season": 1,
@@ -9,12 +39,6 @@
     "group": "FUTARI SOLO CAMP",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/dekin-no-mogura": {
-    "group": "DEKIN NO MOGURA",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   },
   "https://anizm.com.tr/dr-stone-science-future-part-2": {
@@ -75,30 +99,6 @@
     "group": "TENSEI SHITARA DAINANA OUJI DATTA NODE, KIMAMA NI MAJUTSU WO KIWAMEMASU 2ND SEASON",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season": {
-    "group": "JIDOU HANBAIKI NI UMAREKAWATTA ORE WA MEIKYUU WO SAMAYOU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tate-no-yuusha-no-nariagari-season-4": {
-    "group": "TATE NO YUUSHA NO NARIAGARI SEASON 4",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/yuzuki-san-chi-no-yonkyoudai": {
-    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kijin-gentoushou": {
-    "group": "KIJIN GENTOUSHOU",
-    "last_season": 1,
-    "last_episode": 22,
     "start_episode": 1
   }
 }
