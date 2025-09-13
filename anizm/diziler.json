@@ -550,5 +550,11 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/kimetsu-no-yaiba-movie-mugen-jou-hen": {
+    "group": "KIMETSU NO YAIBA MOVIE: MUGEN JOU-HEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
