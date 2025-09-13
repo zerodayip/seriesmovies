@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/silent-witch-chinmoku-no-majo-no-kakushigoto": {
+    "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
     "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "TSUIHOUSHA SHOKUDOU E YOUKOSO!",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/ruri-no-houseki": {
-    "group": "RURI NO HOUSEKI",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
