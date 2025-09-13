@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/tondemo-skill-de-isekai-hourou-meshi": {
+    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/silent-witch-chinmoku-no-majo-no-kakushigoto": {
     "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO - SENNYUU KIROKU",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/tsuihousha-shokudou-e-youkoso": {
-    "group": "TSUIHOUSHA SHOKUDOU E YOUKOSO!",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }
