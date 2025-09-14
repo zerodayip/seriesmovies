@@ -1,32 +1,8 @@
 {
-  "https://dizigom1.plus/dizi-izle/most-wanted-teen-hacker/": {
-    "group": "MOST WANTED: TEEN HACKER",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://dizigom1.plus/dizi-izle/maledictions/": {
-    "group": "MALEDICTIONS",
+  "https://dizigom1.plus/dizi-izle/confidence-queen/": {
+    "group": "CONFIDENCE QUEEN",
     "last_season": 1,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://dizigom1.plus/dizi-izle/bon-appetit-your-majesty/": {
-    "group": "BON APPÉTIT, YOUR MAJESTY",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "https://dizigom1.plus/dizi-izle/betty-la-fea-the-story-continues/": {
-    "group": "BETTY LA FEA, THE STORY CONTINUES",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://dizigom1.plus/dizi-izle/you-and-everything-else/": {
-    "group": "YOU AND EVERYTHING ELSE",
-    "last_season": 1,
-    "last_episode": 15,
     "start_episode": 1
   },
   "https://dizigom1.plus/dizi-izle/beauty-and-the-bester/": {
@@ -41,16 +17,40 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "https://dizigom1.plus/dizi-izle/confidence-queen/": {
-    "group": "CONFIDENCE QUEEN",
+  "https://dizigom1.plus/dizi-izle/maledictions/": {
+    "group": "MALEDICTIONS",
     "last_season": 1,
     "last_episode": 3,
+    "start_episode": 1
+  },
+  "https://dizigom1.plus/dizi-izle/bon-appetit-your-majesty/": {
+    "group": "BON APPÉTIT, YOUR MAJESTY",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "https://dizigom1.plus/dizi-izle/most-wanted-teen-hacker/": {
+    "group": "MOST WANTED: TEEN HACKER",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "https://dizigom1.plus/dizi-izle/betty-la-fea-the-story-continues/": {
+    "group": "BETTY LA FEA, THE STORY CONTINUES",
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "https://dizigom1.plus/dizi-izle/every-minute-counts/": {
     "group": "EVERY MINUTE COUNTS",
     "last_season": 2,
     "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://dizigom1.plus/dizi-izle/you-and-everything-else/": {
+    "group": "YOU AND EVERYTHING ELSE",
+    "last_season": 1,
+    "last_episode": 15,
     "start_episode": 1
   },
   "https://dizigom1.plus/dizi-izle/the-heritage/": {
