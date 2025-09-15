@@ -118,5 +118,11 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "https://animenosub.to/anime/one-piece-dub/": {
+    "group": "ONE PIECE DUB",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
