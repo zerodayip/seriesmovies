@@ -562,5 +562,11 @@
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
+  },
+  "https://anizm.com.tr/the-lord-of-the-rings-the-war-of-the-rohirrim": {
+    "group": "THE LORD OF THE RINGS: THE WAR OF THE ROHIRRIM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

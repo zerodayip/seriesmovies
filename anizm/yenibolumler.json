@@ -1,4 +1,22 @@
 {
+  "https://anizm.com.tr/muchuu-sa-kimi-ni": {
+    "group": "MUCHUU SA, KIMI NI.",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/nukitashi-the-animation": {
+    "group": "NUKITASHI THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/the-lord-of-the-rings-the-war-of-the-rohirrim": {
+    "group": "THE LORD OF THE RINGS: THE WAR OF THE ROHIRRIM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/ruri-no-houseki": {
     "group": "RURI NO HOUSEKI",
     "last_season": 1,
@@ -65,32 +83,8 @@
     "last_episode": 10,
     "start_episode": 1
   },
-  "https://anizm.com.tr/muchuu-sa-kimi-ni": {
-    "group": "MUCHUU SA, KIMI NI.",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
   "https://anizm.com.tr/ame-to-kimi-to": {
     "group": "AME TO KIMI TO",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/dekin-no-mogura": {
-    "group": "DEKIN NO MOGURA",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kaoru-hana-wa-rin-to-saku": {
-    "group": "KAORU HANA WA RIN TO SAKU",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/koujo-denka-no-kateikyoushi": {
-    "group": "KOUJO DENKA NO KATEIKYOUSHI",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
