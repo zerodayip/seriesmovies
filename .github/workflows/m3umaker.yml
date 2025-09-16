@@ -279,7 +279,9 @@ jobs:
 
       # 10. SetFilmİzle Filmler
       - name: Run Setfilm Script
-        run: python private_py/movies/setfilmizle/ajaxtümfilmlerfastplay.py    
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python private_py/movies/setfilmizle/ilksayfatümm3uolusturma.py    
 
       - name: Sync Filmler outputs to private m3u8file repo
         run: |
