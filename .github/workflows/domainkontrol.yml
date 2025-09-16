@@ -2,12 +2,18 @@ name: Domain Link Güncelleyici
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # her gün sabah 03:00'te
-  workflow_dispatch:       # manuel tetikleme
+    - cron: "0 */2 * * *"  # Her 2 saatte bir
+  workflow_dispatch:        # Manuel tetikleme
+
+concurrency:
+  group: domain-link-updater
+  cancel-in-progress: false  # Kendi paralel run'ları engeller, iptal etmez
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     steps:
       - name: Checkout repo
@@ -20,6 +26,28 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests
+
+      - name: Kontrol: Diğer workflow aktif mi?
+        run: |
+          import requests, os, sys
+          repo = os.getenv("GITHUB_REPOSITORY")
+          token = os.getenv("GH_TOKEN")
+          headers = {"Authorization": f"token {token}"}
+
+          workflows_to_check = ["M3U MAKER", "XTREAM MAKER"]
+
+          for wf in workflows_to_check:
+              # Workflow ID bul
+              url = f"https://api.github.com/repos/{repo}/actions/workflows"
+              r = requests.get(url, headers=headers).json()
+              workflow_id = next((w["id"] for w in r["workflows"] if w["name"] == wf), None)
+              if workflow_id:
+                  # Aktif run var mı kontrol et
+                  runs_url = f"https://api.github.com/repos/{repo}/actions/workflows/{workflow_id}/runs?status=in_progress"
+                  runs = requests.get(runs_url, headers=headers).json()
+                  if runs.get("total_count", 0) > 0:
+                      print(f"{wf} hâlâ çalışıyor. Domain Link Güncelleyici bekleyecek.")
+                      sys.exit(1)
 
       - name: Domain linklerini kontrol et ve güncelle
         id: updater
