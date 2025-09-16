@@ -7,7 +7,7 @@ on:
 
 concurrency:
   group: domain-link-updater
-  cancel-in-progress: false  # Kendi paralel run'ları engeller, iptal etmez
+  cancel-in-progress: false  # Kendi paralel run'ları engeller
 
 jobs:
   update:
@@ -41,16 +41,14 @@ jobs:
           workflows_to_check = ["M3U MAKER", "XTREAM MAKER"]
 
           for wf in workflows_to_check:
-              # Workflow ID bul
               url = "https://api.github.com/repos/{}/actions/workflows".format(repo)
               r = requests.get(url, headers=headers).json()
               workflow_id = next((w["id"] for w in r.get("workflows", []) if w["name"] == wf), None)
               if workflow_id:
-                  # Aktif run var mı kontrol et
                   runs_url = "https://api.github.com/repos/{}/actions/workflows/{}/runs?status=in_progress".format(repo, workflow_id)
                   runs = requests.get(runs_url, headers=headers).json()
                   if runs.get("total_count", 0) > 0:
-                      print("{} hâlâ çalışıyor. Domain Link Güncelleyici beklemeyecek, exit ediyor.".format(wf))
+                      print("{} hâlâ çalışıyor. Domain Link Güncelleyici beklemeyecek.".format(wf))
                       sys.exit(1)
 
       - name: Domain linklerini kontrol et ve güncelle
