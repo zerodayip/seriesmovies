@@ -73,8 +73,8 @@ jobs:
           git push origin main
 
       # 3. Run All JSON
-      - name: Run Dizigom JSON Script
-        run: python private_py/series/dizigom/dizigomdizijson.py
+#      - name: Run Dizigom JSON Script
+#        run: python private_py/series/dizigom/dizigomdizijson.py
 
       - name: Run Sezonlukdizi JSON Script
         run: python private_py/series/sezonlukdizi/tumdizilerjson.py
