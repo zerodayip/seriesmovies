@@ -7,7 +7,7 @@ on:
 
 concurrency:
   group: domain-link-updater
-  cancel-in-progress: false  # Kendi paralel run'ları engeller
+  cancel-in-progress: false  # Aynı workflow paralel çalışmaz
 
 jobs:
   update:
@@ -28,8 +28,8 @@ jobs:
         run: pip install requests
 
       - name: Kontrol: Diğer workflow aktif mi?
-        shell: python
         run: |
+          python - <<EOF
           import os
           import sys
           import requests
@@ -50,10 +50,11 @@ jobs:
                   if runs.get("total_count", 0) > 0:
                       print("{} hâlâ çalışıyor. Domain Link Güncelleyici beklemeyecek.".format(wf))
                       sys.exit(1)
+          EOF
 
       - name: Domain linklerini kontrol et ve güncelle
-        shell: python
         run: |
+          python - <<EOF
           import os, requests
 
           folder = "domain"
@@ -97,6 +98,7 @@ jobs:
           if changed_files:
               with open("changed_files.txt", "w") as f:
                   f.write("\n".join(changed_files))
+          EOF
 
       - name: Commit ve push değişen dosyalar
         if: hashFiles('changed_files.txt') != ''
