@@ -28,29 +28,33 @@ jobs:
         run: pip install requests
 
       - name: Kontrol: Diğer workflow aktif mi?
+        shell: python
         run: |
-          import requests, os, sys
+          import os
+          import sys
+          import requests
+
           repo = os.getenv("GITHUB_REPOSITORY")
           token = os.getenv("GH_TOKEN")
-          headers = {"Authorization": f"token {token}"}
+          headers = {"Authorization": "token {}".format(token)}
 
           workflows_to_check = ["M3U MAKER", "XTREAM MAKER"]
 
           for wf in workflows_to_check:
               # Workflow ID bul
-              url = f"https://api.github.com/repos/{repo}/actions/workflows"
+              url = "https://api.github.com/repos/{}/actions/workflows".format(repo)
               r = requests.get(url, headers=headers).json()
-              workflow_id = next((w["id"] for w in r["workflows"] if w["name"] == wf), None)
+              workflow_id = next((w["id"] for w in r.get("workflows", []) if w["name"] == wf), None)
               if workflow_id:
                   # Aktif run var mı kontrol et
-                  runs_url = f"https://api.github.com/repos/{repo}/actions/workflows/{workflow_id}/runs?status=in_progress"
+                  runs_url = "https://api.github.com/repos/{}/actions/workflows/{}/runs?status=in_progress".format(repo, workflow_id)
                   runs = requests.get(runs_url, headers=headers).json()
                   if runs.get("total_count", 0) > 0:
-                      print(f"{wf} hâlâ çalışıyor. Domain Link Güncelleyici bekleyecek.")
+                      print("{} hâlâ çalışıyor. Domain Link Güncelleyici beklemeyecek, exit ediyor.".format(wf))
                       sys.exit(1)
 
       - name: Domain linklerini kontrol et ve güncelle
-        id: updater
+        shell: python
         run: |
           import os, requests
 
@@ -95,7 +99,6 @@ jobs:
           if changed_files:
               with open("changed_files.txt", "w") as f:
                   f.write("\n".join(changed_files))
-        shell: python
 
       - name: Commit ve push değişen dosyalar
         if: hashFiles('changed_files.txt') != ''
