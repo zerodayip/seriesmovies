@@ -1,19 +1,19 @@
 {
   "https://sezonlukdizi6.com/diziler/futurama.html": {
     "group": "FUTURAMA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 13,
+    "last_episode": 10,
     "start_episode": 1
   },
   "https://sezonlukdizi6.com/diziler/only-murders-in-the-building.html": {
     "group": "ONLY MURDERS IN THE BUILDING",
     "last_season": 5,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "https://sezonlukdizi6.com/diziler/samurai-champloo.html": {
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 26,
     "group": "SAMURAI CHAMPLOO",
     "start_episode": 1
   },
