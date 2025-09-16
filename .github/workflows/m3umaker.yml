@@ -268,7 +268,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add dizigom/*.json sdizi/*.json anizm/*.json || echo "No files"
+          git add dizigom/*.json sdizi/*.json anizm/*.json animenosub/*.json || echo "No files"
           git commit -m "All Ana JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
