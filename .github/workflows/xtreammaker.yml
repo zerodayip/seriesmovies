@@ -40,7 +40,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          python private_py/series/birlestirtoken2.py
+          python private_py/xtream/hepsitekm3uyapma.py
 
       - name: Checkout private m3u8file repo
         uses: actions/checkout@v4
