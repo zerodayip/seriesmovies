@@ -2,8 +2,7 @@
  "https://dizifun5.com/dizi/17/var-bunlar-izle": {
     "group": "Var Bunlar",
     "tvg-id": "tt20603316",
-    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BYTQ1NThiMzMtNDRkMS00YmNkLTk0ZGEtOWJhZmU3NWQzNDhjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "Durum  Hakkında" : " EXXEN DIZILERI BURADA BASLAR"
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BYTQ1NThiMzMtNDRkMS00YmNkLTk0ZGEtOWJhZmU3NWQzNDhjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   "https://dizifun5.com/dizi/1787/cekic-ve-gul-bir-behzat-c-hikayesi-izle": {
     "group": "Çekiç ve Gül: Bir Behzat Ç. Hikayesi",
@@ -138,14 +137,12 @@
     "https://dizifun5.com/dizi/55/tertemiz": {
     "group": "Tertemiz",
     "tvg-id": "tt35113031",
-    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BMDI1NjZlMjctZGQ2Mi00ZjZmLTkxYzAtMzdkNTg2NWRjMmNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "Durum  Hakkında" : " EXXEN DIZILERI BURADA BITER"
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BMDI1NjZlMjctZGQ2Mi00ZjZmLTkxYzAtMzdkNTg2NWRjMmNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
     "https://dizifun5.com/dizi/1693/boru": {
     "group": "Börü",
     "tvg-id": "tt7146600",
-    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BNjVlNDcwYWYtYWFmYS00NzdlLWJkNTUtMWQ0NjY4M2Y2OWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "Durum  Hakkında" : " NETFLIX DIZILERI BURADA BASLAR"
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BNjVlNDcwYWYtYWFmYS00NzdlLWJkNTUtMWQ0NjY4M2Y2OWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
     "https://dizifun5.com/dizi/1757/gelecege-mektuplar-izle": {
     "group": "Geleceğe Mektuplar",
@@ -230,8 +227,37 @@
     "https://dizifun5.com/dizi/439/kus-ucusu": {
     "group": "Kuş Uçuşu",
     "tvg-id": "tt13323566",
-    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BN2U5NjI3MTgtOGViMS00YzhiLWJiZDctNDc0NWQzN2I2YTY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "Durum  Hakkında" : " NETFLIX DIZILERI BURADA BITER"
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BN2U5NjI3MTgtOGViMS00YzhiLWJiZDctNDc0NWQzN2I2YTY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+    "https://dizifun5.com/dizi/1680/aski-hatirla-dizi-izle": {
+    "group": "Aşkı Hatırla",
+    "tvg-id": "tt34995624",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BNjAyNTQ2YTgtOWJlYS00ZTliLTllOTYtOWYyYTdkNzY5OGNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+    "https://dizifun5.com/dizi/438/kacis": {
+    "group": "Kaçış",
+    "tvg-id": "tt15561916",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BYmI2Y2VkOTQtMzc3Ny00YjQxLWI0OTUtMGYyODQwNWRkNjU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+    "https://dizifun5.com/dizi/1827/kizilelma-bir-fetih-oykusu": {
+    "group": "Kızılelma: Bir Fetih Öyküsü",
+    "tvg-id": "",
+    "tvg-logo": ""
+  },
+    "https://dizifun5.com/dizi/1826/koyu-beyaz": {
+    "group": "Koyu Beyaz",
+    "tvg-id": "",
+    "tvg-logo": ""
+  },
+    "https://dizifun5.com/dizi/1824/sanzelize-dugun-salonu": {
+    "group": "Şanzelize Düğün Salonu",
+    "tvg-id": "",
+    "tvg-logo": ""
+  },
+    "https://dizifun5.com/dizi/1823/universdeli": {
+    "group": "Üniversdeli",
+    "tvg-id": "",
+    "tvg-logo": ""
   }
 }
   
