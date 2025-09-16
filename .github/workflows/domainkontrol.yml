@@ -28,77 +28,76 @@ jobs:
         run: pip install requests
 
       - name: Kontrol: Diğer workflow aktif mi?
-        run: |
-          python - <<EOF
-          import os
-          import sys
-          import requests
+        run: python - <<EOF
+import os
+import sys
+import requests
 
-          repo = os.getenv("GITHUB_REPOSITORY")
-          token = os.getenv("GH_TOKEN")
-          headers = {"Authorization": "token {}".format(token)}
+repo = os.getenv("GITHUB_REPOSITORY")
+token = os.getenv("GH_TOKEN")
+headers = {"Authorization": "token {}".format(token)}
 
-          workflows_to_check = ["M3U MAKER", "XTREAM MAKER"]
+workflows_to_check = ["M3U MAKER", "XTREAM MAKER"]
 
-          for wf in workflows_to_check:
-              url = "https://api.github.com/repos/{}/actions/workflows".format(repo)
-              r = requests.get(url, headers=headers).json()
-              workflow_id = next((w["id"] for w in r.get("workflows", []) if w["name"] == wf), None)
-              if workflow_id:
-                  runs_url = "https://api.github.com/repos/{}/actions/workflows/{}/runs?status=in_progress".format(repo, workflow_id)
-                  runs = requests.get(runs_url, headers=headers).json()
-                  if runs.get("total_count", 0) > 0:
-                      print("{} hâlâ çalışıyor. Domain Link Güncelleyici beklemeyecek.".format(wf))
-                      sys.exit(1)
-          EOF
+for wf in workflows_to_check:
+    url = "https://api.github.com/repos/{}/actions/workflows".format(repo)
+    r = requests.get(url, headers=headers).json()
+    workflow_id = next((w["id"] for w in r.get("workflows", []) if w["name"] == wf), None)
+    if workflow_id:
+        runs_url = "https://api.github.com/repos/{}/actions/workflows/{}/runs?status=in_progress".format(repo, workflow_id)
+        runs = requests.get(runs_url, headers=headers).json()
+        if runs.get("total_count", 0) > 0:
+            print("{} hâlâ çalışıyor. Domain Link Güncelleyici beklemeyecek.".format(wf))
+            sys.exit(1)
+EOF
 
       - name: Domain linklerini kontrol et ve güncelle
-        run: |
-          python - <<EOF
-          import os, requests
+        run: python - <<EOF
+import os
+import requests
 
-          folder = "domain"
-          changed_files = []
+folder = "domain"
+changed_files = []
 
-          def resolve_final_url(url):
-              try:
-                  r = requests.get(url, allow_redirects=True, timeout=10, stream=True)
-                  final = r.url
-                  r.close()
-                  return final
-              except requests.RequestException:
-                  return None
+def resolve_final_url(url):
+    try:
+        r = requests.get(url, allow_redirects=True, timeout=10, stream=True)
+        final = r.url
+        r.close()
+        return final
+    except requests.RequestException:
+        return None
 
-          for fname in os.listdir(folder):
-              if not fname.endswith(".txt"):
-                  continue
+for fname in os.listdir(folder):
+    if not fname.endswith(".txt"):
+        continue
 
-              path = os.path.join(folder, fname)
-              with open(path, "r", encoding="utf-8") as f:
-                  url = f.read().strip()
+    path = os.path.join(folder, fname)
+    with open(path, "r", encoding="utf-8") as f:
+        url = f.read().strip()
 
-              if not url:
-                  continue
+    if not url:
+        continue
 
-              final = resolve_final_url(url)
-              domain_name = os.path.splitext(fname)[0].capitalize()
+    final = resolve_final_url(url)
+    domain_name = os.path.splitext(fname)[0].capitalize()
 
-              if final is None:
-                  print(f"{domain_name}\n❌ Domain kapanmış olabilir, yönlendirme veya domaine erişim yok.\nKontrol edilmesi gerekiyor.\nURL: {url}\n")
-                  continue
+    if final is None:
+        print(f"{domain_name}\n❌ Domain kapanmış olabilir, yönlendirme veya domaine erişim yok.\nKontrol edilmesi gerekiyor.\nURL: {url}\n")
+        continue
 
-              if final.rstrip("/") != url.rstrip("/"):
-                  with open(path, "w", encoding="utf-8") as f:
-                      f.write(final + "\n")
-                  print(f"{domain_name}\n🔀 Domain yönlendirmesi bulundu.\nURL: {url} → {final} (txt dosyası güncellendi)\n")
-                  changed_files.append(fname)
-              else:
-                  print(f"{domain_name}\n✅ Domain hala geçerlidir.\nURL: {url}\n")
+    if final.rstrip("/") != url.rstrip("/"):
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(final + "\n")
+        print(f"{domain_name}\n🔀 Domain yönlendirmesi bulundu.\nURL: {url} → {final} (txt dosyası güncellendi)\n")
+        changed_files.append(fname)
+    else:
+        print(f"{domain_name}\n✅ Domain hala geçerlidir.\nURL: {url}\n")
 
-          if changed_files:
-              with open("changed_files.txt", "w") as f:
-                  f.write("\n".join(changed_files))
-          EOF
+if changed_files:
+    with open("changed_files.txt", "w") as f:
+        f.write("\n".join(changed_files))
+EOF
 
       - name: Commit ve push değişen dosyalar
         if: hashFiles('changed_files.txt') != ''
