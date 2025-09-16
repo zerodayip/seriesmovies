@@ -82,6 +82,9 @@ jobs:
       - name: Run Anizm JSON Script
         run: python private_py/anime/anizm/anizimjson.py
 
+      - name: Run AnimeNoSub JSON Script
+        run: python private_py/anime/ingilizce/animenosub/animenosubjson.py
+
       - name: Commit and Push All JSONs to public repo
         run: |
           git config user.name "GitHub Actions"
@@ -89,12 +92,12 @@ jobs:
           git add dizigom/*.json || echo "No dizigom files"
           git add sdizi/*.json || echo "No sezonlukdizi files"
           git add anizm/*.json || echo "No anizm files"
-          git add animeizlesene/*.json || echo "No animeizlesene files"
+          git add animenosub/*.json || echo "No animenosub files"
           git commit -m "All JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
   part2:
-    name: Step 4-5-6-7 Çalıştır
+    name: Step 4-5-6-7-8 Çalıştır
     runs-on: ubuntu-latest
     needs: part1
     env:
@@ -210,8 +213,32 @@ jobs:
 #         git commit -m "RecTV çıktıları güncellendi [auto]" || echo "No changes"
 #         git push origin main
 
+      # 8. AnimeNoSub M3U Maker
+      - name: Run AnimeNoSub yenibolumler.py
+        run: python private_py/anime/ingilizce/animenosub/yenibolumler.py
+
+      - name: Commit and Push AnimeNoSub JSON to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add animenosub/*.json || echo "No JSON files"
+          git commit -m "AnimeNoSub JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Sync Anizm output to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/animenosub.git private_animenosub
+          rsync -a animenosub/ private_animenosub/
+          cd private_animenosub
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "AnimeNoSub çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+
   part3:
-    name: Step 8 Çalıştır
+    name: Step 9 Çalıştır
     runs-on: ubuntu-latest
     needs: part2
     env:
@@ -233,7 +260,7 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      # 8. YeniJSON to AnaJSON
+      # 9. YeniJSON to AnaJSON
       - name: Run yenibolumdenanajsona Script
         run: python private_py/series/yenibolumdenanajsona.py
 
@@ -246,7 +273,7 @@ jobs:
           git push origin main
 
   part4:
-    name: Step 9-10 Çalıştır
+    name: Step 10-11 Çalıştır
     runs-on: ubuntu-latest
     needs: part3
     env:
@@ -273,11 +300,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv
        
-      # 9. Dizizgom Filmler
+      # 10. Dizizgom Filmler
       - name: Run dizigomfilmler Script
         run: python private_py/movies/dizigom/dizigomfilmler.py
 
-      # 10. SetFilmİzle Filmler
+      # 11. SetFilmİzle Filmler
       - name: Run Setfilm Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
