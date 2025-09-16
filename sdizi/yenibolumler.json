@@ -1,7 +1,19 @@
 {
+  "https://sezonlukdizi6.com/diziler/futurama.html": {
+    "group": "FUTURAMA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://sezonlukdizi6.com/diziler/only-murders-in-the-building.html": {
+    "group": "ONLY MURDERS IN THE BUILDING",
+    "last_season": 5,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "https://sezonlukdizi6.com/diziler/samurai-champloo.html": {
     "last_season": 1,
-    "last_episode": 26,
+    "last_episode": 0,
     "group": "SAMURAI CHAMPLOO",
     "start_episode": 1
   },
@@ -75,18 +87,6 @@
     "group": "RASCAL DOES NOT DREAM OF BUNNY GIRL SENPAI",
     "last_season": 2,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/the-fragrant-flower-blooms-with-dignity.html": {
-    "group": "THE FRAGRANT FLOWER BLOOMS WITH DIGNITY",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi6.com/diziler/kaiju-no-8.html": {
-    "group": "KAIJU NO. 8",
-    "last_season": 2,
-    "last_episode": 9,
     "start_episode": 1
   }
 }

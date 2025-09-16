@@ -1,4 +1,10 @@
 {
+  "https://anizm.com.tr/rilakkuma-to-kaoru-san": {
+    "group": "RILAKKUMA TO KAORU-SAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/uma-musume-cinderella-gray": {
     "group": "UMA MUSUME: CINDERELLA GRAY",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/to-be-hero-x": {
-    "group": "TO BE HERO X",
-    "last_season": 1,
-    "last_episode": 24,
     "start_episode": 1
   }
 }
