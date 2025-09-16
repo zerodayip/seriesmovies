@@ -1,4 +1,4 @@
-name: Workflow Geçmişini Temizle (Private Repo 'Py' ile)
+name: Zeminden Temizlik - Hepsini Sil
 
 on:
   # Manuel başlatma
