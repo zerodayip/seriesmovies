@@ -1,4 +1,22 @@
 {
+  "https://anizm.com.tr/dekin-no-mogura": {
+    "group": "DEKIN NO MOGURA",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/kanojo-okarishimasu-4th-season": {
+    "group": "KANOJO, OKARISHIMASU 4TH SEASON",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/mattaku-saikin-no-tantei-to-kitara": {
+    "group": "MATTAKU SAIKIN NO TANTEI TO KITARA",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/kakkou-no-iinazuke-season-2": {
     "group": "KAKKOU NO IINAZUKE SEASON 2",
     "last_season": 1,
@@ -76,29 +94,5 @@
     "last_season": 1,
     "last_episode": 1143,
     "start_episode": 1100
-  },
-  "https://anizm.com.tr/busamen-gachi-fighter": {
-    "group": "BUSAMEN GACHI FIGHTER",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/city-the-animation": {
-    "group": "CITY THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/seiken-gakuin-no-makentsukai": {
-    "group": "SEIKEN GAKUIN NO MAKENTSUKAI",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/gachiakuta": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
   }
 }

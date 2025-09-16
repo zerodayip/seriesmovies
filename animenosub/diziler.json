@@ -172,5 +172,17 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "https://animenosub.to/anime/turkey-time-to-strike/": {
+    "group": "TURKEY! TIME TO STRIKE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/mr-osomatsu-4th-season/": {
+    "group": "MR. OSOMATSU 4TH SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
