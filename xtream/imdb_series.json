@@ -1,8 +1,4 @@
 {
-  "TWO GRAVES (DOS TUMBAS)": {
-    "imdb_id": "tt32146392",
-    "poster": ""
-  },
   "#BRINGBACKALICE": {
     "imdb_id": "tt26732848",
     "poster": "https://m.media-amazon.com/images/M/MV5BM2RkYmM3MjMtYTVhNi00Yjc2LWJiZGItNThlYzJiZmJlODYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -6575,6 +6571,10 @@
     "imdb_id": "tt2487090",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTRiNTFmMWItOWI3Ni00YWYwLThhZjAtYWI3MTU5N2E3Y2EzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
+  "SAMURAI CHAMPLOO": {
+    "imdb_id": "tt0423731",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjBhZTY4NzMtOGU3OC00ZDllLWE2ZjUtMGFjYTU5OWI0YTQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
   "SAMURAI JACK": {
     "imdb_id": "tt0278238",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjU4ZmVhZGMtNTU4Yy00YmZhLTlmOGQtNGMwMTcwNTEyZjQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -9440,6 +9440,10 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDA1NDVjNGMtZjFiZS00YjNiLWEwNTUtNTcyMGIxMTE1ZGY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   "TWO GRAVES": {
+    "imdb_id": "tt32146392",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA3OTE0N2ItNzZjMS00OTI0LTkwNjUtMGMzOGU5ODQ2Y2ZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "TWO GRAVES (DOS TUMBAS)": {
     "imdb_id": "tt32146392",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzA3OTE0N2ItNzZjMS00OTI0LTkwNjUtMGMzOGU5ODQ2Y2ZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
