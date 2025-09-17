@@ -1,4 +1,46 @@
 {
+  "https://animenosub.to/anime/new-saga/": {
+    "group": "NEW SAGA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/onmyo-kaiten-rebirth-verse/": {
+    "group": "ONMYO KAITEN RE:BIRTH VERSE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/dealing-with-mikadono-sisters-is-a-breeze/": {
+    "group": "DEALING WITH MIKADONO SISTERS IS A BREEZE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/new-panty-stocking-with-garterbelt/": {
+    "group": "NEW PANTY & STOCKING WITH GARTERBELT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/me-and-the-alien-mumu/": {
+    "group": "ME AND THE ALIEN MUMU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/hell-teacher-jigoku-sensei-nube/": {
+    "group": "HELL TEACHER: JIGOKU SENSEI NUBE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-season-2/": {
+    "group": "I WAS REINCARNATED AS THE 7TH PRINCE SO I CAN TAKE MY TIME PERFECTING MY MAGICAL ABILITY SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://animenosub.to/anime/reborn-as-a-vending-machine-i-now-wander-the-dungeon-season-2/": {
     "group": "REBORN AS A VENDING MACHINE, I NOW WANDER THE DUNGEON SEASON 2",
     "last_season": 1,
@@ -75,48 +117,6 @@
     "group": "SUMMER POCKETS",
     "last_season": 1,
     "last_episode": 24,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/one-piece-dub/": {
-    "group": "ONE PIECE DUB",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1130
-  },
-  "https://animenosub.to/anime/one-piece/": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1143,
-    "start_episode": 1130
-  },
-  "https://animenosub.to/anime/hotel-inhumans/": {
-    "group": "HOTEL INHUMANS",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/city-the-animation/": {
-    "group": "CITY THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/gachiakuta/": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/cultural-exchange-with-a-game-centre-girl/": {
-    "group": "CULTURAL EXCHANGE WITH A GAME CENTRE GIRL",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/uglymug-epicfighter/": {
-    "group": "UGLYMUG, EPICFIGHTER",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }
