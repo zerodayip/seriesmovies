@@ -1,4 +1,28 @@
 {
+  "https://animenosub.to/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle/": {
+    "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/solo-camping-for-two/": {
+    "group": "SOLO CAMPING FOR TWO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle-dub/": {
+    "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE (DUB)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/dandadan-season-2-dub/": {
+    "group": "DANDADAN SEASON 2 (DUB)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://animenosub.to/anime/dandadan-season-2/": {
     "group": "DANDADAN SEASON 2",
     "last_season": 1,
@@ -93,30 +117,6 @@
     "group": "NECRONOMICO AND THE COSMIC HORROR SHOW",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/detectives-these-days-are-crazy/": {
-    "group": "DETECTIVES THESE DAYS ARE CRAZY!",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/a-couple-of-cuckoos-season-2/": {
-    "group": "A COUPLE OF CUCKOOS SEASON 2",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/rent-a-girlfriend-season-4/": {
-    "group": "RENT-A-GIRLFRIEND SEASON 4",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/theres-no-freaking-way-ill-be-your-lover-unless/": {
-    "group": "THERE’S NO FREAKING WAY I’LL BE YOUR LOVER! UNLESS…",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }

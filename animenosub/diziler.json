@@ -262,5 +262,23 @@
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
+  },
+  "https://animenosub.to/anime/solo-camping-for-two/": {
+    "group": "SOLO CAMPING FOR TWO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle-dub/": {
+    "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE (DUB)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/dandadan-season-2-dub/": {
+    "group": "DANDADAN SEASON 2 (DUB)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

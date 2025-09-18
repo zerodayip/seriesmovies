@@ -1,4 +1,10 @@
 {
+  "https://sezonlukdizi7.com/diziler/dandadan.html": {
+    "group": "DANDADAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://sezonlukdizi7.com/diziler/dr-stone.html": {
     "group": "DR. STONE",
     "last_season": 4,
@@ -81,12 +87,6 @@
     "group": "GRAND BLUE",
     "last_season": 2,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://sezonlukdizi7.com/diziler/sakamoto-days.html": {
-    "group": "SAKAMOTO DAYS",
-    "last_season": 1,
-    "last_episode": 22,
     "start_episode": 1
   }
 }
