@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
+    "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tsuyokute-new-saga": {
+    "group": "TSUYOKUTE NEW SAGA",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season": {
     "group": "JIDOU HANBAIKI NI UMAREKAWATTA ORE WA MEIKYUU WO SAMAYOU 2ND SEASON",
     "last_season": 1,
@@ -93,18 +105,6 @@
     "group": "SUMMER POCKETS",
     "last_season": 1,
     "last_episode": 24,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/muchuu-sa-kimi-ni": {
-    "group": "MUCHUU SA, KIMI NI.",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/nukitashi-the-animation": {
-    "group": "NUKITASHI THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
