@@ -286,5 +286,11 @@
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
+  },
+  "https://animenosub.to/anime/the-water-magician/": {
+    "group": "THE WATER MAGICIAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
