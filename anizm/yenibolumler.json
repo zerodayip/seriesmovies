@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/kamitsubaki-shi-kensetsuchuu": {
+    "group": "KAMITSUBAKI-SHI KENSETSUCHUU.",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/necronomico-no-cosmic-horror-show": {
+    "group": "NECRONOMICO NO COSMIC HORROR SHOW",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
     "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
     "last_season": 1,
@@ -93,18 +105,6 @@
     "group": "GRAND BLUE SEASON 2",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/sakamoto-days-part-2": {
-    "group": "SAKAMOTO DAYS PART 2",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/summer-pockets": {
-    "group": "SUMMER POCKETS",
-    "last_season": 1,
-    "last_episode": 24,
     "start_episode": 1
   }
 }
