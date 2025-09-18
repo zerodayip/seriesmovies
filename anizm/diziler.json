@@ -548,7 +548,7 @@
   "https://anizm.com.tr/kamitsubaki-shi-kensetsuchuu": {
     "group": "KAMITSUBAKI-SHI KENSETSUCHUU.",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "https://anizm.com.tr/kimetsu-no-yaiba-movie-mugen-jou-hen": {
@@ -572,13 +572,13 @@
   "https://anizm.com.tr/rilakkuma-to-kaoru-san": {
     "group": "RILAKKUMA TO KAORU-SAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "https://anizm.com.tr/necronomico-no-cosmic-horror-show": {
     "group": "NECRONOMICO NO COSMIC HORROR SHOW",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
