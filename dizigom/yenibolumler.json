@@ -1,60 +1,6 @@
 {
-  "https://dizigom1.de/dizi-izle/the-terminal-list-dark-wolf/": {
-    "group": "THE TERMINAL LIST: DARK WOLF",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://dizigom1.de/dizi-izle/platonic/": {
-    "group": "PLATONIC",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://dizigom1.de/dizi-izle/betty-la-fea-the-story-continues/": {
-    "group": "BETTY LA FEA, THE STORY CONTINUES",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://dizigom1.de/dizi-izle/the-morning-show/": {
-    "group": "THE MORNING SHOW",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://dizigom1.de/dizi-izle/bon-appetit-your-majesty/": {
-    "group": "BON APPÉTIT, YOUR MAJESTY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://dizigom1.de/dizi-izle/alien-earth/": {
-    "group": "ALIEN: EARTH",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://dizigom1.de/dizi-izle/1670/": {
-    "group": "1670",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://dizigom1.de/dizi-izle/acapulco/": {
-    "group": "ACAPULCO",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://dizigom1.de/dizi-izle/confidence-queen/": {
-    "group": "CONFIDENCE QUEEN",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "https://dizigom1.de/dizi-izle/you-and-everything-else/": {
-    "group": "YOU AND EVERYTHING ELSE",
+  "https://dizigom1.de/dizi-izle/task/": {
+    "group": "TASK",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
@@ -71,14 +17,68 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://dizigom1.de/dizi-izle/task/": {
-    "group": "TASK",
+  "https://dizigom1.de/dizi-izle/1670/": {
+    "group": "1670",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.de/dizi-izle/alien-earth/": {
+    "group": "ALIEN: EARTH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.de/dizi-izle/acapulco/": {
+    "group": "ACAPULCO",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
   "https://dizigom1.de/dizi-izle/the-twisted-tale-of-amanda-knox/": {
     "group": "THE TWISTED TALE OF AMANDA KNOX",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.de/dizi-izle/the-terminal-list-dark-wolf/": {
+    "group": "THE TERMINAL LIST: DARK WOLF",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.de/dizi-izle/bon-appetit-your-majesty/": {
+    "group": "BON APPÉTIT, YOUR MAJESTY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.de/dizi-izle/the-morning-show/": {
+    "group": "THE MORNING SHOW",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.de/dizi-izle/betty-la-fea-the-story-continues/": {
+    "group": "BETTY LA FEA, THE STORY CONTINUES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.de/dizi-izle/you-and-everything-else/": {
+    "group": "YOU AND EVERYTHING ELSE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.de/dizi-izle/confidence-queen/": {
+    "group": "CONFIDENCE QUEEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://dizigom1.de/dizi-izle/platonic/": {
+    "group": "PLATONIC",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1

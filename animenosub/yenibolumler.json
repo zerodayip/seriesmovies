@@ -1,4 +1,10 @@
 {
+  "https://animenosub.to/anime/dandadan-season-2/": {
+    "group": "DANDADAN SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://animenosub.to/anime/welcome-to-the-outcasts-restaurant/": {
     "group": "WELCOME TO THE OUTCAST’S RESTAURANT!",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "https://animenosub.to/anime/theres-no-freaking-way-ill-be-your-lover-unless/": {
     "group": "THERE’S NO FREAKING WAY I’LL BE YOUR LOVER! UNLESS…",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/grand-blue-dreaming-season-2/": {
-    "group": "GRAND BLUE DREAMING SEASON 2",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
