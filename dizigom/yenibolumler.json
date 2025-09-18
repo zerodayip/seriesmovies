@@ -1,14 +1,14 @@
 {
-  "https://dizigom1.plus/dizi-izle/acapulco/": {
-    "group": "ACAPULCO",
-    "last_season": 4,
-    "last_episode": 10,
+  "https://dizigom1.plus/dizi-izle/confidence-queen/": {
+    "group": "CONFIDENCE QUEEN",
+    "last_season": 1,
+    "last_episode": 4,
     "start_episode": 1
   },
-  "https://dizigom1.plus/dizi-izle/every-minute-counts/": {
-    "group": "EVERY MINUTE COUNTS",
-    "last_season": 2,
-    "last_episode": 10,
+  "https://dizigom1.plus/dizi-izle/the-terminal-list-dark-wolf/": {
+    "group": "THE TERMINAL LIST: DARK WOLF",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
   "https://dizigom1.plus/dizi-izle/betty-la-fea-the-story-continues/": {
@@ -17,8 +17,20 @@
     "last_episode": 10,
     "start_episode": 1
   },
-  "https://dizigom1.plus/dizi-izle/the-terminal-list-dark-wolf/": {
-    "group": "THE TERMINAL LIST: DARK WOLF",
+  "https://dizigom1.plus/dizi-izle/you-and-everything-else/": {
+    "group": "YOU AND EVERYTHING ELSE",
+    "last_season": 1,
+    "last_episode": 15,
+    "start_episode": 1
+  },
+  "https://dizigom1.plus/dizi-izle/platonic/": {
+    "group": "PLATONIC",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "https://dizigom1.plus/dizi-izle/the-twisted-tale-of-amanda-knox/": {
+    "group": "THE TWISTED TALE OF AMANDA KNOX",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
@@ -29,22 +41,10 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "https://dizigom1.plus/dizi-izle/task/": {
-    "group": "TASK",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "https://dizigom1.plus/dizi-izle/confidence-queen/": {
-    "group": "CONFIDENCE QUEEN",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "https://dizigom1.plus/dizi-izle/the-twisted-tale-of-amanda-knox/": {
-    "group": "THE TWISTED TALE OF AMANDA KNOX",
-    "last_season": 1,
-    "last_episode": 6,
+  "https://dizigom1.plus/dizi-izle/acapulco/": {
+    "group": "ACAPULCO",
+    "last_season": 4,
+    "last_episode": 10,
     "start_episode": 1
   },
   "https://dizigom1.plus/dizi-izle/alien-earth/": {
@@ -53,22 +53,16 @@
     "last_episode": 7,
     "start_episode": 1
   },
+  "https://dizigom1.plus/dizi-izle/every-minute-counts/": {
+    "group": "EVERY MINUTE COUNTS",
+    "last_season": 2,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "https://dizigom1.plus/dizi-izle/the-morning-show/": {
     "group": "THE MORNING SHOW",
     "last_season": 4,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "https://dizigom1.plus/dizi-izle/tempest/": {
-    "group": "TEMPEST",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "https://dizigom1.plus/dizi-izle/platonic/": {
-    "group": "PLATONIC",
-    "last_season": 2,
-    "last_episode": 8,
     "start_episode": 1
   },
   "https://dizigom1.plus/dizi-izle/bon-appetit-your-majesty/": {
@@ -77,10 +71,16 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "https://dizigom1.plus/dizi-izle/you-and-everything-else/": {
-    "group": "YOU AND EVERYTHING ELSE",
+  "https://dizigom1.plus/dizi-izle/tempest/": {
+    "group": "TEMPEST",
     "last_season": 1,
-    "last_episode": 15,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "https://dizigom1.plus/dizi-izle/task/": {
+    "group": "TASK",
+    "last_season": 1,
+    "last_episode": 2,
     "start_episode": 1
   }
 }
