@@ -1,4 +1,10 @@
 {
+  "https://animenosub.to/anime/kamitsubaki-city-under-production/": {
+    "group": "KAMITSUBAKI CITY UNDER PRODUCTION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://animenosub.to/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle/": {
     "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "MR. OSOMATSU 4TH SEASON",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/necronomico-and-the-cosmic-horror-show/": {
-    "group": "NECRONOMICO AND THE COSMIC HORROR SHOW",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
