@@ -1,4 +1,22 @@
 {
+  "https://anizm.com.tr/busu-ni-hanataba-wo": {
+    "group": "BUSU NI HANATABA WO.",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/mizu-zokusei-no-mahoutsukai": {
+    "group": "MIZU ZOKUSEI NO MAHOUTSUKAI",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/futari-solo-camp": {
+    "group": "FUTARI SOLO CAMP",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/dandadan-2nd-season": {
     "group": "DANDADAN 2ND SEASON",
     "last_season": 1,
@@ -87,24 +105,6 @@
     "group": "KANOJO, OKARISHIMASU 4TH SEASON",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/mattaku-saikin-no-tantei-to-kitara": {
-    "group": "MATTAKU SAIKIN NO TANTEI TO KITARA",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/kakkou-no-iinazuke-season-2": {
-    "group": "KAKKOU NO IINAZUKE SEASON 2",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/rilakkuma-to-kaoru-san": {
-    "group": "RILAKKUMA TO KAORU-SAN",
-    "last_season": 1,
-    "last_episode": 13,
     "start_episode": 1
   }
 }
