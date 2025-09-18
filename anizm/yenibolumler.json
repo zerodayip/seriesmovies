@@ -1,4 +1,16 @@
 {
+  "https://anizm.com.tr/dr-stone-science-future-part-2": {
+    "group": "DR. STONE: SCIENCE FUTURE PART 2",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "https://anizm.com.tr/tsuihousha-shokudou-e-youkoso": {
+    "group": "TSUIHOUSHA SHOKUDOU E YOUKOSO!",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "https://anizm.com.tr/kamitsubaki-shi-kensetsuchuu": {
     "group": "KAMITSUBAKI-SHI KENSETSUCHUU.",
     "last_season": 1,
@@ -93,18 +105,6 @@
     "group": "UMA MUSUME: CINDERELLA GRAY",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta": {
-    "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?)",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://anizm.com.tr/grand-blue-season-2": {
-    "group": "GRAND BLUE SEASON 2",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }

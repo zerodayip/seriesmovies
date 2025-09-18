@@ -1,4 +1,16 @@
 {
+  "https://animenosub.to/anime/welcome-to-the-outcasts-restaurant/": {
+    "group": "WELCOME TO THE OUTCAST’S RESTAURANT!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "https://animenosub.to/anime/dr-stone-science-future-part-2/": {
+    "group": "DR. STONE: SCIENCE FUTURE PART 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "https://animenosub.to/anime/new-saga/": {
     "group": "NEW SAGA",
     "last_season": 1,
@@ -105,18 +117,6 @@
     "group": "GRAND BLUE DREAMING SEASON 2",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/sakamoto-days-part-2/": {
-    "group": "SAKAMOTO DAYS PART 2",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "https://animenosub.to/anime/summer-pockets/": {
-    "group": "SUMMER POCKETS",
-    "last_season": 1,
-    "last_episode": 24,
     "start_episode": 1
   }
 }
