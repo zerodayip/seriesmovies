@@ -11,9 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GH_TOKEN1: ${{ secrets.GH_TOKEN1 }}
-      GH_TOKEN2: ${{ secrets.GH_TOKEN2 }}
-
+      
     steps:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
