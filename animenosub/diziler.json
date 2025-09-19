@@ -296,13 +296,13 @@
   "/anime/call-of-the-night-season-2/": {
     "group": "CALL OF THE NIGHT SEASON 2",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/anime/a-bouquet-for-an-ugly-girl/": {
     "group": "A BOUQUET FOR AN UGLY GIRL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   }
 }
