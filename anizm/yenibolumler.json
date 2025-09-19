@@ -1,4 +1,10 @@
 {
+  "/dekin-no-mogura": {
+    "group": "DEKIN NO MOGURA",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
   "/muchuu-sa-kimi-ni": {
     "group": "MUCHUU SA, KIMI NI.",
     "last_season": 1,
@@ -93,18 +99,6 @@
     "group": "KIZU DARAKE SEIJO YORI HOUFUKU WO KOMETE",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha": {
-    "group": "CLEVATESS: MAJUU NO OU TO AKAGO TO SHIKABANE NO YUUSHA",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dekin-no-mogura": {
-    "group": "DEKIN NO MOGURA",
-    "last_season": 1,
-    "last_episode": 4,
     "start_episode": 1
   }
 }

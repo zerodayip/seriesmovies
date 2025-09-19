@@ -1,4 +1,22 @@
 {
+  "/diziler/invasion.html": {
+    "group": "INVASION",
+    "last_season": 3,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/diziler/peacemaker.html": {
+    "group": "PEACEMAKER",
+    "last_season": 2,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/diziler/chief-of-war.html": {
+    "group": "CHIEF OF WAR",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/diziler/dandadan.html": {
     "group": "DANDADAN",
     "last_season": 2,
@@ -69,24 +87,6 @@
     "group": "ONLY MURDERS IN THE BUILDING",
     "last_season": 5,
     "last_episode": 4,
-    "start_episode": 1
-  },
-  "/diziler/samurai-champloo.html": {
-    "group": "SAMURAI CHAMPLOO",
-    "last_season": 1,
-    "last_episode": 26,
-    "start_episode": 1
-  },
-  "/diziler/black-mafia-family.html": {
-    "group": "BLACK MAFIA FAMILY",
-    "last_season": 4,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/grand-blue.html": {
-    "group": "GRAND BLUE",
-    "last_season": 2,
-    "last_episode": 11,
     "start_episode": 1
   }
 }
