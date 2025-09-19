@@ -1,4 +1,10 @@
 {
+  "/diziler/haunted-hotel.html": {
+    "group": "HAUNTED HOTEL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/invasion.html": {
     "group": "INVASION",
     "last_season": 3,
@@ -81,12 +87,6 @@
     "group": "FUTURAMA",
     "last_season": 13,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/only-murders-in-the-building.html": {
-    "group": "ONLY MURDERS IN THE BUILDING",
-    "last_season": 5,
-    "last_episode": 4,
     "start_episode": 1
   }
 }

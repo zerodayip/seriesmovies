@@ -1,4 +1,16 @@
 {
+  "/kizu-darake-seijo-yori-houfuku-wo-komete": {
+    "group": "KIZU DARAKE SEIJO YORI HOUFUKU WO KOMETE",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/karaoke-iko": {
+    "group": "KARAOKE IKO!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dekin-no-mogura": {
     "group": "DEKIN NO MOGURA",
     "last_season": 1,
@@ -87,18 +99,6 @@
     "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/tate-no-yuusha-no-nariagari-season-4": {
-    "group": "TATE NO YUUSHA NO NARIAGARI SEASON 4",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/kizu-darake-seijo-yori-houfuku-wo-komete": {
-    "group": "KIZU DARAKE SEIJO YORI HOUFUKU WO KOMETE",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }

@@ -580,5 +580,11 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/karaoke-iko": {
+    "group": "KARAOKE IKO!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
