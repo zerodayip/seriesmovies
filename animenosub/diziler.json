@@ -1,293 +1,293 @@
 {
-  "https://animenosub.to/anime/one-piece/": {
+  "/anime/one-piece/": {
     "group": "ONE PIECE",
     "last_season": 1,
     "last_episode": 1143,
     "start_episode": 1130
   },
-  "https://animenosub.to/anime/hotel-inhumans/": {
+  "/anime/hotel-inhumans/": {
     "group": "HOTEL INHUMANS",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/city-the-animation/": {
+  "/anime/city-the-animation/": {
     "group": "CITY THE ANIMATION",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/gachiakuta/": {
+  "/anime/gachiakuta/": {
     "group": "GACHIAKUTA",
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/cultural-exchange-with-a-game-centre-girl/": {
+  "/anime/cultural-exchange-with-a-game-centre-girl/": {
     "group": "CULTURAL EXCHANGE WITH A GAME CENTRE GIRL",
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/uglymug-epicfighter/": {
+  "/anime/uglymug-epicfighter/": {
     "group": "UGLYMUG, EPICFIGHTER",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/nyaight-of-the-living-cat/": {
+  "/anime/nyaight-of-the-living-cat/": {
     "group": "NYAIGHT OF THE LIVING CAT",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/apocalypse-bringer-mynoghra-world-conquest-starts-with-the-civilization-of-ruin/": {
+  "/anime/apocalypse-bringer-mynoghra-world-conquest-starts-with-the-civilization-of-ruin/": {
     "group": "APOCALYPSE BRINGER MYNOGHRA: WORLD CONQUEST STARTS WITH THE CIVILIZATION OF RUIN",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/ruri-rocks/": {
+  "/anime/ruri-rocks/": {
     "group": "RURI ROCKS",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/dekin-no-mogura-the-earthbound-mole/": {
+  "/anime/dekin-no-mogura-the-earthbound-mole/": {
     "group": "DEKIN NO MOGURA: THE EARTHBOUND MOLE",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/witch-watch/": {
+  "/anime/witch-watch/": {
     "group": "WITCH WATCH",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle/": {
+  "/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle/": {
     "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/to-be-hero-x/": {
+  "/anime/to-be-hero-x/": {
     "group": "TO BE HERO X",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/the-fragrant-flower-blooms-with-dignity/": {
+  "/anime/the-fragrant-flower-blooms-with-dignity/": {
     "group": "THE FRAGRANT FLOWER BLOOMS WITH DIGNITY",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/with-you-and-the-rain/": {
+  "/anime/with-you-and-the-rain/": {
     "group": "WITH YOU AND THE RAIN",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/the-summer-hikaru-died/": {
+  "/anime/the-summer-hikaru-died/": {
     "group": "THE SUMMER HIKARU DIED",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/private-tutor-to-the-dukes-daughter/": {
+  "/anime/private-tutor-to-the-dukes-daughter/": {
     "group": "PRIVATE TUTOR TO THE DUKE’S DAUGHTER",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/my-dress-up-darling-season-2/": {
+  "/anime/my-dress-up-darling-season-2/": {
     "group": "MY DRESS-UP DARLING SEASON 2",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/rascal-does-not-dream-of-santa-claus/": {
+  "/anime/rascal-does-not-dream-of-santa-claus/": {
     "group": "RASCAL DOES NOT DREAM OF SANTA CLAUS",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/bad-girl/": {
+  "/anime/bad-girl/": {
     "group": "BAD GIRL",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/one-piece-dub/": {
+  "/anime/one-piece-dub/": {
     "group": "ONE PIECE DUB",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1130
   },
-  "https://animenosub.to/anime/theres-no-freaking-way-ill-be-your-lover-unless/": {
+  "/anime/theres-no-freaking-way-ill-be-your-lover-unless/": {
     "group": "THERE’S NO FREAKING WAY I’LL BE YOUR LOVER! UNLESS…",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/grand-blue-dreaming-season-2/": {
+  "/anime/grand-blue-dreaming-season-2/": {
     "group": "GRAND BLUE DREAMING SEASON 2",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/sakamoto-days-part-2/": {
+  "/anime/sakamoto-days-part-2/": {
     "group": "SAKAMOTO DAYS PART 2",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/summer-pockets/": {
+  "/anime/summer-pockets/": {
     "group": "SUMMER POCKETS",
     "last_season": 1,
     "last_episode": 24,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/necronomico-and-the-cosmic-horror-show/": {
+  "/anime/necronomico-and-the-cosmic-horror-show/": {
     "group": "NECRONOMICO AND THE COSMIC HORROR SHOW",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/detectives-these-days-are-crazy/": {
+  "/anime/detectives-these-days-are-crazy/": {
     "group": "DETECTIVES THESE DAYS ARE CRAZY!",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/a-couple-of-cuckoos-season-2/": {
+  "/anime/a-couple-of-cuckoos-season-2/": {
     "group": "A COUPLE OF CUCKOOS SEASON 2",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/rent-a-girlfriend-season-4/": {
+  "/anime/rent-a-girlfriend-season-4/": {
     "group": "RENT-A-GIRLFRIEND SEASON 4",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/turkey-time-to-strike/": {
+  "/anime/turkey-time-to-strike/": {
     "group": "TURKEY! TIME TO STRIKE",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/mr-osomatsu-4th-season/": {
+  "/anime/mr-osomatsu-4th-season/": {
     "group": "MR. OSOMATSU 4TH SEASON",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/reborn-as-a-vending-machine-i-now-wander-the-dungeon-season-2/": {
+  "/anime/reborn-as-a-vending-machine-i-now-wander-the-dungeon-season-2/": {
     "group": "REBORN AS A VENDING MACHINE, I NOW WANDER THE DUNGEON SEASON 2",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/the-rising-of-the-shield-hero-season-4/": {
+  "/anime/the-rising-of-the-shield-hero-season-4/": {
     "group": "THE RISING OF THE SHIELD HERO SEASON 4",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/clevatess/": {
+  "/anime/clevatess/": {
     "group": "CLEVATESS",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/new-saga/": {
+  "/anime/new-saga/": {
     "group": "NEW SAGA",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/onmyo-kaiten-rebirth-verse/": {
+  "/anime/onmyo-kaiten-rebirth-verse/": {
     "group": "ONMYO KAITEN RE:BIRTH VERSE",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/dealing-with-mikadono-sisters-is-a-breeze/": {
+  "/anime/dealing-with-mikadono-sisters-is-a-breeze/": {
     "group": "DEALING WITH MIKADONO SISTERS IS A BREEZE",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/new-panty-stocking-with-garterbelt/": {
+  "/anime/new-panty-stocking-with-garterbelt/": {
     "group": "NEW PANTY & STOCKING WITH GARTERBELT",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/me-and-the-alien-mumu/": {
+  "/anime/me-and-the-alien-mumu/": {
     "group": "ME AND THE ALIEN MUMU",
     "last_season": 1,
     "last_episode": 24,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/hell-teacher-jigoku-sensei-nube/": {
+  "/anime/hell-teacher-jigoku-sensei-nube/": {
     "group": "HELL TEACHER: JIGOKU SENSEI NUBE",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-season-2/": {
+  "/anime/i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-season-2/": {
     "group": "I WAS REINCARNATED AS THE 7TH PRINCE SO I CAN TAKE MY TIME PERFECTING MY MAGICAL ABILITY SEASON 2",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/welcome-to-the-outcasts-restaurant/": {
+  "/anime/welcome-to-the-outcasts-restaurant/": {
     "group": "WELCOME TO THE OUTCAST’S RESTAURANT!",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/dr-stone-science-future-part-2/": {
+  "/anime/dr-stone-science-future-part-2/": {
     "group": "DR. STONE: SCIENCE FUTURE PART 2",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/dandadan-season-2/": {
+  "/anime/dandadan-season-2/": {
     "group": "DANDADAN SEASON 2",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/solo-camping-for-two/": {
+  "/anime/solo-camping-for-two/": {
     "group": "SOLO CAMPING FOR TWO",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle-dub/": {
+  "/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle-dub/": {
     "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE (DUB)",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/dandadan-season-2-dub/": {
+  "/anime/dandadan-season-2-dub/": {
     "group": "DANDADAN SEASON 2 (DUB)",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/kamitsubaki-city-under-production/": {
+  "/anime/kamitsubaki-city-under-production/": {
     "group": "KAMITSUBAKI CITY UNDER PRODUCTION",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
   },
-  "https://animenosub.to/anime/the-water-magician/": {
+  "/anime/the-water-magician/": {
     "group": "THE WATER MAGICIAN",
     "last_season": 1,
     "last_episode": 11,
