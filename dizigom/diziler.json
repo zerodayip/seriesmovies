@@ -27694,5 +27694,23 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/dizi-izle/gen-v": {
+    "group": "GEN V",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/only-murders-in-the-building": {
+    "group": "ONLY MURDERS IN THE BUILDING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/black-rabbit": {
+    "group": "BLACK RABBIT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
