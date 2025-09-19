@@ -1,4 +1,28 @@
 {
+  "/turkey": {
+    "group": "TURKEY!",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/watari-kun-no-xx-ga-houkai-sunzen": {
+    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/tougen-anki": {
+    "group": "TOUGEN ANKI",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/yofukashi-no-uta-2nd-season": {
+    "group": "YOFUKASHI NO UTA 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/kizu-darake-seijo-yori-houfuku-wo-komete": {
     "group": "KIZU DARAKE SEIJO YORI HOUFUKU WO KOMETE",
     "last_season": 1,
@@ -75,30 +99,6 @@
     "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "/tsuyokute-new-saga": {
-    "group": "TSUYOKUTE NEW SAGA",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season": {
-    "group": "JIDOU HANBAIKI NI UMAREKAWATTA ORE WA MEIKYUU WO SAMAYOU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season": {
-    "group": "TENSEI SHITARA DAINANA OUJI DATTA NODE, KIMAMA NI MAJUTSU WO KIWAMEMASU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/mikadono-sanshimai-wa-angai-choroi": {
-    "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }

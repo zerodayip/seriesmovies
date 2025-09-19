@@ -1,4 +1,16 @@
 {
+  "/diziler/billionaires-bunker.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "BILLIONAIRES' BUNKER",
+    "start_episode": 1
+  },
+  "/diziler/call-of-the-night.html": {
+    "group": "CALL OF THE NIGHT",
+    "last_season": 2,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/diziler/haunted-hotel.html": {
     "group": "HAUNTED HOTEL",
     "last_season": 1,
@@ -75,18 +87,6 @@
     "group": "THE MORNING SHOW",
     "last_season": 4,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/diziler/alien-earth.html": {
-    "group": "ALIEN: EARTH",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/futurama.html": {
-    "group": "FUTURAMA",
-    "last_season": 13,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
