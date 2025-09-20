@@ -586,5 +586,11 @@
     "last_season": 1,
     "last_episode": 4,
     "start_episode": 1
+  },
+  "/zuoshou-shanglan-2nd-season": {
+    "group": "ZUOSHOU SHANGLAN 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
