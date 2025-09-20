@@ -1,4 +1,10 @@
 {
+  "/silent-witch-chinmoku-no-majo-no-kakushigoto": {
+    "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
     "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "KAMITSUBAKI-SHI KENSETSUCHUU.",
     "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/necronomico-no-cosmic-horror-show": {
-    "group": "NECRONOMICO NO COSMIC HORROR SHOW",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }
