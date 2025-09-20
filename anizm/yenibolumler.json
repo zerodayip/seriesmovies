@@ -1,4 +1,52 @@
 {
+  "/hikaru-ga-shinda-natsu": {
+    "group": "HIKARU GA SHINDA NATSU",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru": {
+    "group": "YUUSHA PARTY WO TSUIHOU SARETA SHIROMADOUSHI, S-RANK BOUKENSHA NI HIROWARERU: KONO SHIROMADOUSHI GA KIKAKUGAI SUGIRU",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/kaoru-hana-wa-rin-to-saku": {
+    "group": "KAORU HANA WA RIN TO SAKU",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/fermat-no-ryouri": {
+    "group": "FERMAT NO RYOURI",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/koujo-denka-no-kateikyoushi": {
+    "group": "KOUJO DENKA NO KATEIKYOUSHI",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/sono-bisque-doll-wa-koi-wo-suru-season-2": {
+    "group": "SONO BISQUE DOLL WA KOI WO SURU SEASON 2",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anne-shirley": {
+    "group": "ANNE SHIRLEY",
+    "last_season": 1,
+    "last_episode": 22,
+    "start_episode": 1
+  },
+  "/kizetsu-yuusha-to-ansatsu-hime": {
+    "group": "KIZETSU YUUSHA TO ANSATSU HIME",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/kaijuu-8-gou-2nd-season": {
     "group": "KAIJUU 8-GOU 2ND SEASON",
     "last_season": 1,
@@ -55,42 +103,6 @@
   },
   "/tougen-anki": {
     "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/yofukashi-no-uta-2nd-season": {
-    "group": "YOFUKASHI NO UTA 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/kizu-darake-seijo-yori-houfuku-wo-komete": {
-    "group": "KIZU DARAKE SEIJO YORI HOUFUKU WO KOMETE",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/karaoke-iko": {
-    "group": "KARAOKE IKO!",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dekin-no-mogura": {
-    "group": "DEKIN NO MOGURA",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/muchuu-sa-kimi-ni": {
-    "group": "MUCHUU SA, KIMI NI.",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/mizu-zokusei-no-mahoutsukai": {
-    "group": "MIZU ZOKUSEI NO MAHOUTSUKAI",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
