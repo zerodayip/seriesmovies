@@ -1,4 +1,10 @@
 {
+  "/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
+    "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/turkey": {
     "group": "TURKEY!",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "NECRONOMICO NO COSMIC HORROR SHOW",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
-    "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }
