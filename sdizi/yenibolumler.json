@@ -1,4 +1,10 @@
 {
+  "/diziler/kaiju-no-8.html": {
+    "group": "KAIJU NO. 8",
+    "last_season": 2,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "/diziler/billionaires-bunker.html": {
     "group": "BILLIONAIRES' BUNKER",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "THE TERMINAL LIST: DARK WOLF",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/the-morning-show.html": {
-    "group": "THE MORNING SHOW",
-    "last_season": 4,
-    "last_episode": 1,
     "start_episode": 1
   }
 }
