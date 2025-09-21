@@ -1,4 +1,10 @@
 {
+  "/anime/witch-watch/": {
+    "group": "WITCH WATCH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/the-fragrant-flower-blooms-with-dignity/": {
     "group": "THE FRAGRANT FLOWER BLOOMS WITH DIGNITY",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "TOUGEN ANKI",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "/anime/call-of-the-night-season-2/": {
-    "group": "CALL OF THE NIGHT SEASON 2",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }

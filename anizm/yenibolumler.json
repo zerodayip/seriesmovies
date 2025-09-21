@@ -1,4 +1,10 @@
 {
+  "/witch-watch": {
+    "group": "WITCH WATCH",
+    "last_season": 1,
+    "last_episode": 23,
+    "start_episode": 1
+  },
   "/tondemo-skill-de-isekai-hourou-meshi": {
     "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/turkey": {
-    "group": "TURKEY!",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }
