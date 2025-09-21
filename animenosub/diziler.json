@@ -86,7 +86,7 @@
   "/anime/with-you-and-the-rain/": {
     "group": "WITH YOU AND THE RAIN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/anime/the-summer-hikaru-died/": {
@@ -98,7 +98,7 @@
   "/anime/private-tutor-to-the-dukes-daughter/": {
     "group": "PRIVATE TUTOR TO THE DUKE’S DAUGHTER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/anime/my-dress-up-darling-season-2/": {
@@ -110,7 +110,7 @@
   "/anime/rascal-does-not-dream-of-santa-claus/": {
     "group": "RASCAL DOES NOT DREAM OF SANTA CLAUS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/anime/bad-girl/": {
@@ -368,13 +368,13 @@
   "/anime/9-rulers-crown/": {
     "group": "9: RULER’S CROWN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/anime/fermat-kitchen/": {
     "group": "FERMAT KITCHEN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 11,
     "start_episode": 1
   }
 }
