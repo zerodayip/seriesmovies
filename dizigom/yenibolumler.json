@@ -1,26 +1,8 @@
 {
-  "/dizi-izle/invasion/": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 5,
-    "start_episode": 1
-  },
   "/dizi-izle/confidence-queen/": {
     "group": "CONFIDENCE QUEEN",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/next-gen-chef": {
-    "group": "NEXT GEN CHEF",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-twisted-tale-of-amanda-knox/": {
-    "group": "THE TWISTED TALE OF AMANDA KNOX",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/bon-appetit-your-majesty/": {
@@ -29,10 +11,34 @@
     "last_episode": 9,
     "start_episode": 1
   },
-  "/dizi-izle/the-heritage/": {
-    "group": "THE HERITAGE (SCHEDA)",
+  "/dizi-izle/black-rabbit": {
+    "group": "BLACK RABBIT",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/matchroom-the-greatest-showmen": {
+    "group": "MATCHROOM: THE GREATEST SHOWMEN",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/next-gen-chef": {
+    "group": "NEXT GEN CHEF",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/haunted-hotel": {
+    "group": "HAUNTED HOTEL",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-twisted-tale-of-amanda-knox/": {
+    "group": "THE TWISTED TALE OF AMANDA KNOX",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/necaxa/": {
@@ -41,10 +47,10 @@
     "last_episode": 10,
     "start_episode": 1
   },
-  "/dizi-izle/black-rabbit": {
-    "group": "BLACK RABBIT",
+  "/dizi-izle/the-terminal-list-dark-wolf/": {
+    "group": "THE TERMINAL LIST: DARK WOLF",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/peacemaker/": {
@@ -59,12 +65,6 @@
     "last_episode": 3,
     "start_episode": 1
   },
-  "/dizi-izle/chief-of-war/": {
-    "group": "CHIEF OF WAR",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
   "/dizi-izle/1670/": {
     "group": "1670",
     "last_season": 2,
@@ -77,16 +77,10 @@
     "last_episode": 2,
     "start_episode": 1
   },
-  "/dizi-izle/matchroom-the-greatest-showmen": {
-    "group": "MATCHROOM: THE GREATEST SHOWMEN",
+  "/dizi-izle/the-heritage/": {
+    "group": "THE HERITAGE (SCHEDA)",
     "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-terminal-list-dark-wolf/": {
-    "group": "THE TERMINAL LIST: DARK WOLF",
-    "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/suga/": {
@@ -95,10 +89,16 @@
     "last_episode": 5,
     "start_episode": 1
   },
-  "/dizi-izle/haunted-hotel": {
-    "group": "HAUNTED HOTEL",
+  "/dizi-izle/invasion/": {
+    "group": "INVASION",
+    "last_season": 3,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/chief-of-war/": {
+    "group": "CHIEF OF WAR",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi-izle/billionaires-bunker": {

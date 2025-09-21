@@ -1,4 +1,10 @@
 {
+  "/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku": {
+    "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/witch-watch": {
     "group": "WITCH WATCH",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
-    "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
