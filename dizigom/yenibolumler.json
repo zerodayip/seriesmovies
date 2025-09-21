@@ -1,20 +1,8 @@
 {
-  "/dizi-izle/billionaires'-bunker": {
-    "group": "BILLIONAIRES' BUNKER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-twisted-tale-of-amanda-knox/": {
-    "group": "THE TWISTED TALE OF AMANDA KNOX",
+  "/dizi-izle/the-terminal-list-dark-wolf/": {
+    "group": "THE TERMINAL LIST: DARK WOLF",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/next-gen-chef": {
-    "group": "NEXT GEN CHEF",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/the-heritage/": {
@@ -23,16 +11,46 @@
     "last_episode": 5,
     "start_episode": 1
   },
+  "/dizi-izle/bon-appetit-your-majesty/": {
+    "group": "BON APPÉTIT, YOUR MAJESTY",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/billionaires'-bunker": {
+    "group": "BILLIONAIRES' BUNKER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi-izle/reasonable-doubt/": {
     "group": "REASONABLE DOUBT",
     "last_season": 3,
     "last_episode": 2,
     "start_episode": 1
   },
-  "/dizi-izle/the-terminal-list-dark-wolf/": {
-    "group": "THE TERMINAL LIST: DARK WOLF",
+  "/dizi-izle/next-gen-chef": {
+    "group": "NEXT GEN CHEF",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-twisted-tale-of-amanda-knox/": {
+    "group": "THE TWISTED TALE OF AMANDA KNOX",
     "last_season": 1,
     "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/1670/": {
+    "group": "1670",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/black-rabbit": {
+    "group": "BLACK RABBIT",
+    "last_season": 1,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/suga/": {
@@ -41,9 +59,39 @@
     "last_episode": 5,
     "start_episode": 1
   },
+  "/dizi-izle/most-wanted-teen-hacker/": {
+    "group": "MOST WANTED: TEEN HACKER",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi-izle/haunted-hotel": {
+    "group": "HAUNTED HOTEL",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/matchroom:-the-greatest-showmen": {
+    "group": "MATCHROOM: THE GREATEST SHOWMEN",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/dizi-izle/confidence-queen/": {
     "group": "CONFIDENCE QUEEN",
     "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/chief-of-war/": {
+    "group": "CHIEF OF WAR",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/invasion/": {
+    "group": "INVASION",
+    "last_season": 3,
     "last_episode": 5,
     "start_episode": 1
   },
@@ -53,58 +101,10 @@
     "last_episode": 5,
     "start_episode": 1
   },
-  "/dizi-izle/invasion/": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/haunted-hotel": {
-    "group": "HAUNTED HOTEL",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi-izle/black-rabbit": {
-    "group": "BLACK RABBIT",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/most-wanted-teen-hacker/": {
-    "group": "MOST WANTED: TEEN HACKER",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi-izle/bon-appetit-your-majesty/": {
-    "group": "BON APPÉTIT, YOUR MAJESTY",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
   "/dizi-izle/necaxa/": {
     "group": "NECAXA",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi-izle/chief-of-war/": {
-    "group": "CHIEF OF WAR",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi-izle/matchroom:-the-greatest-showmen": {
-    "group": "MATCHROOM: THE GREATEST SHOWMEN",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/1670/": {
-    "group": "1670",
-    "last_season": 2,
-    "last_episode": 8,
     "start_episode": 1
   }
 }

@@ -364,5 +364,17 @@
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1
+  },
+  "/anime/9-rulers-crown/": {
+    "group": "9: RULER’S CROWN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/fermat-kitchen/": {
+    "group": "FERMAT KITCHEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
