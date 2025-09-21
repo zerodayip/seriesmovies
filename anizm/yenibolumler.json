@@ -1,4 +1,58 @@
 {
+  "/yuzuki-san-chi-no-yonkyoudai": {
+    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/onmyou-kaiten-rebirth": {
+    "group": "ONMYOU KAITEN RE:BIRTH",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/hotel-inhumans": {
+    "group": "HOTEL INHUMANS",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/dragon-raja-ii--the-mourners-eyes-": {
+    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/one-piece": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1143,
+    "start_episode": 1100
+  },
+  "/busamen-gachi-fighter": {
+    "group": "BUSAMEN GACHI FIGHTER",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/ruri-no-houseki": {
+    "group": "RURI NO HOUSEKI",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/city-the-animation": {
+    "group": "CITY THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/gachiakuta": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku": {
     "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
     "last_season": 1,
@@ -51,60 +105,6 @@
     "group": "KOUJO DENKA NO KATEIKYOUSHI",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/sono-bisque-doll-wa-koi-wo-suru-season-2": {
-    "group": "SONO BISQUE DOLL WA KOI WO SURU SEASON 2",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anne-shirley": {
-    "group": "ANNE SHIRLEY",
-    "last_season": 1,
-    "last_episode": 23,
-    "start_episode": 1
-  },
-  "/kizetsu-yuusha-to-ansatsu-hime": {
-    "group": "KIZETSU YUUSHA TO ANSATSU HIME",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/kaijuu-8-gou-2nd-season": {
-    "group": "KAIJUU 8-GOU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/nukitashi-the-animation": {
-    "group": "NUKITASHI THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/shin-samurai-den-yaiba": {
-    "group": "SHIN SAMURAI-DEN YAIBA",
-    "last_season": 1,
-    "last_episode": 23,
-    "start_episode": 1
-  },
-  "/busu-ni-hanataba-wo": {
-    "group": "BUSU NI HANATABA WO.",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/zuoshou-shanglan-2nd-season": {
-    "group": "ZUOSHOU SHANGLAN 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/silent-witch-chinmoku-no-majo-no-kakushigoto": {
-    "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }

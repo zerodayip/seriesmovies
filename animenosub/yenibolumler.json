@@ -1,9 +1,21 @@
 {
+  "/anime/hotel-inhumans/": {
+    "group": "HOTEL INHUMANS",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/anime/one-piece/": {
     "group": "ONE PIECE",
     "last_season": 1,
     "last_episode": 1143,
     "start_episode": 1130
+  },
+  "/anime/city-the-animation/": {
+    "group": "CITY THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
   },
   "/anime/gachiakuta/": {
     "group": "GACHIAKUTA",
@@ -103,18 +115,6 @@
   },
   "/anime/scooped-up-by-an-s-ranked-adventurer/": {
     "group": "SCOOPED UP BY AN S-RANKED ADVENTURER",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/the-shy-hero-and-the-assassin-princesses/": {
-    "group": "THE SHY HERO AND THE ASSASSIN PRINCESSES",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/bad-girl/": {
-    "group": "BAD GIRL",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1

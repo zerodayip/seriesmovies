@@ -1,4 +1,22 @@
 {
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1143,
+    "start_episode": 1120
+  },
+  "/diziler/confidence-queen.html": {
+    "group": "CONFIDENCE QUEEN",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/diziler/gachiakuta.html": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/diziler/my-dress-up-darling.html": {
     "group": "MY DRESS-UP DARLING",
     "last_season": 2,
@@ -15,12 +33,6 @@
     "group": "RASCAL DOES NOT DREAM OF BUNNY GIRL SENPAI",
     "last_season": 2,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/confidence-queen.html": {
-    "group": "CONFIDENCE QUEEN",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/star-trek-strange-new-worlds.html": {
@@ -69,24 +81,6 @@
     "group": "CHIEF OF WAR",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/dandadan.html": {
-    "group": "DANDADAN",
-    "last_season": 2,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/dr-stone.html": {
-    "group": "DR. STONE",
-    "last_season": 4,
-    "last_episode": 23,
-    "start_episode": 1
-  },
-  "/diziler/black-rabbit.html": {
-    "group": "BLACK RABBIT",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
