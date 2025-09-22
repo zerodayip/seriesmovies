@@ -376,5 +376,11 @@
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
+  },
+  "/anime/sword-of-the-demon-hunter-kijin-gentosho/": {
+    "group": "SWORD OF THE DEMON HUNTER: KIJIN GENTOSHO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

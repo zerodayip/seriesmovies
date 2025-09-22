@@ -1,4 +1,16 @@
 {
+  "/anime/sword-of-the-demon-hunter-kijin-gentosho/": {
+    "group": "SWORD OF THE DEMON HUNTER: KIJIN GENTOSHO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/summer-pockets/": {
+    "group": "SUMMER POCKETS",
+    "last_season": 1,
+    "last_episode": 24,
+    "start_episode": 1
+  },
   "/anime/hotel-inhumans/": {
     "group": "HOTEL INHUMANS",
     "last_season": 1,
@@ -103,18 +115,6 @@
   },
   "/anime/private-tutor-to-the-dukes-daughter/": {
     "group": "PRIVATE TUTOR TO THE DUKE’S DAUGHTER",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/rascal-does-not-dream-of-santa-claus/": {
-    "group": "RASCAL DOES NOT DREAM OF SANTA CLAUS",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/scooped-up-by-an-s-ranked-adventurer/": {
-    "group": "SCOOPED UP BY AN S-RANKED ADVENTURER",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
