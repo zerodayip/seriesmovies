@@ -1,4 +1,10 @@
 {
+  "/gyakuten-saiban-sono-shinjitsu-igi-ari": {
+    "group": "GYAKUTEN SAIBAN: SONO \"SHINJITSU\", IGI ARI!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/yuzuki-san-chi-no-yonkyoudai": {
     "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "FERMAT NO RYOURI",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "/koujo-denka-no-kateikyoushi": {
-    "group": "KOUJO DENKA NO KATEIKYOUSHI",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }

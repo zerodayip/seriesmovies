@@ -592,5 +592,11 @@
     "last_season": 1,
     "last_episode": 9,
     "start_episode": 1
+  },
+  "/gyakuten-saiban-sono-shinjitsu-igi-ari": {
+    "group": "GYAKUTEN SAIBAN: SONO \"SHINJITSU\", IGI ARI!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
