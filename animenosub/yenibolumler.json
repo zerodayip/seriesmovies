@@ -1,4 +1,16 @@
 {
+  "/anime/theres-no-freaking-way-ill-be-your-lover-unless/": {
+    "group": "THERE’S NO FREAKING WAY I’LL BE YOUR LOVER! UNLESS…",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anime/grand-blue-dreaming-season-2/": {
+    "group": "GRAND BLUE DREAMING SEASON 2",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/anime/sword-of-the-demon-hunter-kijin-gentosho/": {
     "group": "SWORD OF THE DEMON HUNTER: KIJIN GENTOSHO",
     "last_season": 1,
@@ -105,18 +117,6 @@
     "group": "FERMAT KITCHEN",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "/anime/with-you-and-the-rain/": {
-    "group": "WITH YOU AND THE RAIN",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/private-tutor-to-the-dukes-daughter/": {
-    "group": "PRIVATE TUTOR TO THE DUKE’S DAUGHTER",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }

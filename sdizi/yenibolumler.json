@@ -1,4 +1,10 @@
 {
+  "/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "last_season": 2,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/diziler/task.html": {
     "group": "TASK",
     "last_season": 1,
@@ -74,12 +80,6 @@
   "/diziler/invasion.html": {
     "group": "INVASION",
     "last_season": 3,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/peacemaker.html": {
-    "group": "PEACEMAKER",
-    "last_season": 2,
     "last_episode": 5,
     "start_episode": 1
   }
