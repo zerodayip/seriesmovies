@@ -1,4 +1,10 @@
 {
+  "/kakkou-no-iinazuke-season-2": {
+    "group": "KAKKOU NO IINAZUKE SEASON 2",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/dekin-no-mogura": {
     "group": "DEKIN NO MOGURA",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "GACHIAKUTA",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku": {
-    "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }

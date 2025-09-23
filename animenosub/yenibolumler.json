@@ -1,4 +1,16 @@
 {
+  "/anime/turkey-time-to-strike/": {
+    "group": "TURKEY! TIME TO STRIKE",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anime/mr-osomatsu-4th-season/": {
+    "group": "MR. OSOMATSU 4TH SEASON",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle-dub/": {
     "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE (DUB)",
     "last_season": 1,
@@ -106,17 +118,5 @@
     "last_season": 1,
     "last_episode": 1144,
     "start_episode": 1130
-  },
-  "/anime/city-the-animation/": {
-    "group": "CITY THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/gachiakuta/": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
   }
 }
