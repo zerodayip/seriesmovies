@@ -1,4 +1,10 @@
 {
+  "/dekin-no-mogura": {
+    "group": "DEKIN NO MOGURA",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta": {
     "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?)",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/witch-watch": {
-    "group": "WITCH WATCH",
-    "last_season": 1,
-    "last_episode": 24,
     "start_episode": 1
   }
 }

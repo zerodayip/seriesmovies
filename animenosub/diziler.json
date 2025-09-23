@@ -382,5 +382,41 @@
     "last_season": 1,
     "last_episode": 23,
     "start_episode": 1
+  },
+  "/anime/my-friends-little-sister-has-it-in-for-me/": {
+    "group": "MY FRIEND’S LITTLE SISTER HAS IT IN FOR ME!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/to-your-eternity-season-3/": {
+    "group": "TO YOUR ETERNITY SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
+    "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-hero-academia-final-season/": {
+    "group": "MY HERO ACADEMIA FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/spy-x-family-season-3/": {
+    "group": "SPY X FAMILY SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/one-punch-man-season-3/": {
+    "group": "ONE-PUNCH MAN SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

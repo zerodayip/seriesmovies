@@ -1,4 +1,40 @@
 {
+  "/anime/my-friends-little-sister-has-it-in-for-me/": {
+    "group": "MY FRIEND’S LITTLE SISTER HAS IT IN FOR ME!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/to-your-eternity-season-3/": {
+    "group": "TO YOUR ETERNITY SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
+    "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-hero-academia-final-season/": {
+    "group": "MY HERO ACADEMIA FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/spy-x-family-season-3/": {
+    "group": "SPY X FAMILY SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/one-punch-man-season-3/": {
+    "group": "ONE-PUNCH MAN SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/theres-no-freaking-way-ill-be-your-lover-unless/": {
     "group": "THERE’S NO FREAKING WAY I’LL BE YOUR LOVER! UNLESS…",
     "last_season": 1,
@@ -81,42 +117,6 @@
     "group": "DEKIN NO MOGURA: THE EARTHBOUND MOLE",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/witch-watch/": {
-    "group": "WITCH WATCH",
-    "last_season": 1,
-    "last_episode": 24,
-    "start_episode": 1
-  },
-  "/anime/the-fragrant-flower-blooms-with-dignity/": {
-    "group": "THE FRAGRANT FLOWER BLOOMS WITH DIGNITY",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/kaiju-no-8-season-2/": {
-    "group": "KAIJU NO. 8 SEASON 2",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/my-dress-up-darling-season-2/": {
-    "group": "MY DRESS-UP DARLING SEASON 2",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/9-rulers-crown/": {
-    "group": "9: RULER’S CROWN",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/anime/fermat-kitchen/": {
-    "group": "FERMAT KITCHEN",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }
