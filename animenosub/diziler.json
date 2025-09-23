@@ -418,5 +418,29 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/dusk-beyond-the-end-of-the-world/": {
+    "group": "DUSK BEYOND THE END OF THE WORLD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/dusk-beyond-the-end-of-the-world-episode-0/": {
+    "group": "DUSK BEYOND THE END OF THE WORLD EPISODE 0",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/hero-without-a-class-who-even-needs-skills/": {
+    "group": "HERO WITHOUT A CLASS: WHO EVEN NEEDS SKILLS?!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/campfire-cooking-in-another-world-with-my-absurd-skill-season-2/": {
+    "group": "CAMPFIRE COOKING IN ANOTHER WORLD WITH MY ABSURD SKILL SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
