@@ -2,37 +2,37 @@
   "/diziler/tempest.html": {
     "group": "TEMPEST",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/the-terminal-list-dark-wolf.html": {
     "group": "THE TERMINAL LIST: DARK WOLF",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/the-twisted-tale-of-amanda-knox.html": {
     "group": "THE TWISTED TALE OF AMANDA KNOX",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/slow-horses.html": {
     "group": "SLOW HORSES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/the-morning-show.html": {
     "group": "THE MORNING SHOW",
     "last_season": 4,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/diziler/alien-earth.html": {
     "group": "ALIEN: EARTH",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/only-murders-in-the-building.html": {
