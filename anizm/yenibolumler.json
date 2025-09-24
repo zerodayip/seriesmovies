@@ -1,4 +1,10 @@
 {
+  "/new-panty--stocking-with-garterbelt": {
+    "group": "NEW PANTY & STOCKING WITH GARTERBELT",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/kakkou-no-iinazuke-season-2": {
     "group": "KAKKOU NO IINAZUKE SEASON 2",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "CITY THE ANIMATION",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/gachiakuta": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }
