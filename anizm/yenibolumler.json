@@ -1,4 +1,16 @@
 {
+  "/jinkiextend-sorekara": {
+    "group": "JINKI:EXTEND - SOREKARA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/jinkiextend": {
+    "group": "JINKI:EXTEND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/new-panty--stocking-with-garterbelt": {
     "group": "NEW PANTY & STOCKING WITH GARTERBELT",
     "last_season": 1,
@@ -91,18 +103,6 @@
   },
   "/busamen-gachi-fighter": {
     "group": "BUSAMEN GACHI FIGHTER",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/ruri-no-houseki": {
-    "group": "RURI NO HOUSEKI",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/city-the-animation": {
-    "group": "CITY THE ANIMATION",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1

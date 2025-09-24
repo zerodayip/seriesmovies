@@ -1,4 +1,40 @@
 {
+  "/diziler/tempest.html": {
+    "group": "TEMPEST",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/diziler/the-terminal-list-dark-wolf.html": {
+    "group": "THE TERMINAL LIST: DARK WOLF",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/the-twisted-tale-of-amanda-knox.html": {
+    "group": "THE TWISTED TALE OF AMANDA KNOX",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/slow-horses.html": {
+    "group": "SLOW HORSES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/the-morning-show.html": {
+    "group": "THE MORNING SHOW",
+    "last_season": 4,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/diziler/alien-earth.html": {
+    "group": "ALIEN: EARTH",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "/diziler/only-murders-in-the-building.html": {
     "group": "ONLY MURDERS IN THE BUILDING",
     "last_season": 5,
@@ -51,36 +87,6 @@
     "group": "RASCAL DOES NOT DREAM OF BUNNY GIRL SENPAI",
     "last_season": 2,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/star-trek-strange-new-worlds.html": {
-    "group": "STAR TREK: STRANGE NEW WORLDS",
-    "last_season": 3,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/kaiju-no-8.html": {
-    "group": "KAIJU NO. 8",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/billionaires-bunker.html": {
-    "group": "BILLIONAIRES' BUNKER",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/call-of-the-night.html": {
-    "group": "CALL OF THE NIGHT",
-    "last_season": 2,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/haunted-hotel.html": {
-    "group": "HAUNTED HOTEL",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
