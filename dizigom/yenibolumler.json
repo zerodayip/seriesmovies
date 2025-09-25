@@ -38,7 +38,7 @@
   "/dizi-izle/platonic/": {
     "group": "PLATONIC",
     "last_season": 2,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi-izle/alien-earth/": {
@@ -55,14 +55,14 @@
   },
   "/dizi-izle/slow-horses/": {
     "group": "SLOW HORSES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/tempest/": {
     "group": "TEMPEST",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/the-heritage/": {
@@ -122,7 +122,7 @@
   "/dizi-izle/the-lowdown": {
     "group": "THE LOWDOWN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
