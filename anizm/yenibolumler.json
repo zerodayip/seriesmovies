@@ -1,4 +1,28 @@
 {
+  "/mizu-zokusei-no-mahoutsukai": {
+    "group": "MIZU ZOKUSEI NO MAHOUTSUKAI",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/kizu-darake-seijo-yori-houfuku-wo-komete": {
+    "group": "KIZU DARAKE SEIJO YORI HOUFUKU WO KOMETE",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/towa-no-yuugure-episode-0": {
+    "group": "TOWA NO YUUGURE EPISODE 0",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dr-stone-science-future-part-2": {
+    "group": "DR. STONE: SCIENCE FUTURE PART 2",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/urusei-yatsura": {
     "group": "URUSEI YATSURA",
     "last_season": 1,
@@ -75,30 +99,6 @@
     "group": "GRAND BLUE SEASON 2",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/kijin-gentoushou": {
-    "group": "KIJIN GENTOUSHOU",
-    "last_season": 1,
-    "last_episode": 23,
-    "start_episode": 1
-  },
-  "/summer-pockets": {
-    "group": "SUMMER POCKETS",
-    "last_season": 1,
-    "last_episode": 25,
-    "start_episode": 1
-  },
-  "/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
-    "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/gyakuten-saiban-sono-shinjitsu-igi-ari": {
-    "group": "GYAKUTEN SAIBAN: SONO \"SHINJITSU\", IGI ARI!",
-    "last_season": 1,
-    "last_episode": 24,
     "start_episode": 1
   }
 }

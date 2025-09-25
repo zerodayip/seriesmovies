@@ -622,5 +622,11 @@
     "last_season": 1,
     "last_episode": 60,
     "start_episode": 1
+  },
+  "/towa-no-yuugure-episode-0": {
+    "group": "TOWA NO YUUGURE EPISODE 0",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -442,5 +442,23 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/yano-kuns-ordinary-days/": {
+    "group": "YANO-KUN’S ORDINARY DAYS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/a-gatherers-adventure-in-isekai/": {
+    "group": "A GATHERER’S ADVENTURE IN ISEKAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/a-wild-last-boss-appeared/": {
+    "group": "A WILD LAST BOSS APPEARED!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

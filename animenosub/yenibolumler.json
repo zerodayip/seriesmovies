@@ -1,4 +1,46 @@
 {
+  "/anime/the-water-magician/": {
+    "group": "THE WATER MAGICIAN",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anime/kamitsubaki-city-under-production/": {
+    "group": "KAMITSUBAKI CITY UNDER PRODUCTION",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anime/solo-camping-for-two/": {
+    "group": "SOLO CAMPING FOR TWO",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anime/yano-kuns-ordinary-days/": {
+    "group": "YANO-KUN’S ORDINARY DAYS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/a-gatherers-adventure-in-isekai/": {
+    "group": "A GATHERER’S ADVENTURE IN ISEKAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/a-wild-last-boss-appeared/": {
+    "group": "A WILD LAST BOSS APPEARED!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/dusk-beyond-the-end-of-the-world-episode-0/": {
+    "group": "DUSK BEYOND THE END OF THE WORLD EPISODE 0",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/dr-stone-science-future-part-2/": {
     "group": "DR. STONE: SCIENCE FUTURE PART 2",
     "last_season": 1,
@@ -71,50 +113,8 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "/anime/dusk-beyond-the-end-of-the-world-episode-0/": {
-    "group": "DUSK BEYOND THE END OF THE WORLD EPISODE 0",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
   "/anime/campfire-cooking-in-another-world-with-my-absurd-skill-season-2/": {
     "group": "CAMPFIRE COOKING IN ANOTHER WORLD WITH MY ABSURD SKILL SEASON 2",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/my-friends-little-sister-has-it-in-for-me/": {
-    "group": "MY FRIEND’S LITTLE SISTER HAS IT IN FOR ME!",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/to-your-eternity-season-3/": {
-    "group": "TO YOUR ETERNITY SEASON 3",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
-    "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/my-hero-academia-final-season/": {
-    "group": "MY HERO ACADEMIA FINAL SEASON",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/spy-x-family-season-3/": {
-    "group": "SPY X FAMILY SEASON 3",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/one-punch-man-season-3/": {
-    "group": "ONE-PUNCH MAN SEASON 3",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
