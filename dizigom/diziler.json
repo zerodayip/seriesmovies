@@ -2089,8 +2089,8 @@
   },
   "/dizi-izle/slow-horses/": {
     "group": "SLOW HORSES",
-    "last_season": 4,
-    "last_episode": 6,
+    "last_season": 5,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi-izle/reservation-dogs/": {
@@ -2996,7 +2996,7 @@
   "/dizi-izle/the-morning-show/": {
     "group": "THE MORNING SHOW",
     "last_season": 4,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi-izle/undone/": {
@@ -27392,7 +27392,7 @@
   "/dizi-izle/alien-earth/": {
     "group": "ALIEN: EARTH",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/arabia-kadali/": {
