@@ -1,4 +1,10 @@
 {
+  "/urusei-yatsura": {
+    "group": "URUSEI YATSURA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season": {
     "group": "TENSEI SHITARA DAINANA OUJI DATTA NODE, KIMAMA NI MAJUTSU WO KIWAMEMASU 2ND SEASON",
     "last_season": 1,
@@ -93,18 +99,6 @@
     "group": "GYAKUTEN SAIBAN: SONO \"SHINJITSU\", IGI ARI!",
     "last_season": 1,
     "last_episode": 24,
-    "start_episode": 1
-  },
-  "/yuzuki-san-chi-no-yonkyoudai": {
-    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/onmyou-kaiten-rebirth": {
-    "group": "ONMYOU KAITEN RE:BIRTH",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }

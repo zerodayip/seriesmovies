@@ -1,4 +1,10 @@
 {
+  "/anime/dr-stone-science-future-part-2/": {
+    "group": "DR. STONE: SCIENCE FUTURE PART 2",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/anime/new-panty-stocking-with-garterbelt/": {
     "group": "NEW PANTY & STOCKING WITH GARTERBELT",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "ONE-PUNCH MAN SEASON 3",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/theres-no-freaking-way-ill-be-your-lover-unless/": {
-    "group": "THERE’S NO FREAKING WAY I’LL BE YOUR LOVER! UNLESS…",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
