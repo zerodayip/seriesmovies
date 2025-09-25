@@ -1,4 +1,16 @@
 {
+  "/diziler/alice-in-borderland.html": {
+    "group": "ALICE IN BORDERLAND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/south-park.html": {
+    "group": "SOUTH PARK",
+    "last_season": 27,
+    "last_episode": 4,
+    "start_episode": 1
+  },
   "/diziler/the-rising-of-the-shield-hero.html": {
     "group": "THE RISING OF THE SHIELD HERO",
     "last_season": 4,
@@ -75,18 +87,6 @@
     "group": "CONFIDENCE QUEEN",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/gachiakuta.html": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/diziler/my-dress-up-darling.html": {
-    "group": "MY DRESS-UP DARLING",
-    "last_season": 2,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
