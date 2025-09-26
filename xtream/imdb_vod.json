@@ -19713,6 +19713,11 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYzdhNmIyMjAtZmIzNy00MmJiLTk0NzgtZGMwMDc2YzI3ODZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2023"
   },
+  "MANTIS": {
+    "imdb_id": "tt33312131",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDQ2MmEwZmMtNzA4MC00MjljLWIyOWItZjhhMmI0NWJhNzJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
+  },
   "MANYETIK SESLER": {
     "imdb_id": "tt14068864",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjA4YTg3NDgtZTdlYi00YmRjLWE1NTgtYTBjNmY4NzQzZTU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -30742,6 +30747,11 @@
     "imdb_id": "tt12553046",
     "poster": "https://m.media-amazon.com/images/M/MV5BYmFmYjZiNWItMDNiMi00MGIzLWJiYjUtNmFkNGNlYTAxNDBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2022"
+  },
+  "THE LORD OF THE RINGS": {
+    "imdb_id": "tt0077869",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmI4ZmIxOGQtMGY2ZS00Y2Y5LTllMDItYzllOWFmMTNlMmY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "1978"
   },
   "THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING": {
     "imdb_id": "tt0120737",
