@@ -1,4 +1,10 @@
 {
+  "/catseye": {
+    "group": "CAT'S♥EYE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/futari-solo-camp": {
     "group": "FUTARI SOLO CAMP",
     "last_season": 1,
@@ -91,12 +97,6 @@
   },
   "/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta": {
     "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?)",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/tondemo-skill-de-isekai-hourou-meshi": {
-    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
