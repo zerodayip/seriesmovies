@@ -1419,6 +1419,10 @@
     "imdb_id": "tt13789092",
     "poster": "https://m.media-amazon.com/images/M/MV5BNDZhNGNlMWQtNDE2NC00N2U4LWEwMmQtNWEyZTFlZmUwMTFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
+  "CAT'S EYE": {
+    "imdb_id": "tt34710525",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmM4ODIyMzgtYzhjMi00NDQxLWE1Y2EtYzFiOWNmY2RmZGYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
   "CATALOG": {
     "imdb_id": "tt36517681",
     "poster": "https://m.media-amazon.com/images/M/MV5BNDIyZmE1NTEtMWRkNy00NWJlLTlmNjAtOTE3YjRiMDg1NmRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -3698,6 +3702,10 @@
   "HOUSE OF CARDS": {
     "imdb_id": "tt1856010",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDczNDYwNV5BMl5BanBnXkFtZTcwNjMwMDk5OA@@._V1_FMjpg_UX1000_.jpg"
+  },
+  "HOUSE OF GUINNESS": {
+    "imdb_id": "tt13542714",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2IzZDg0ODYtYWUyZi00YmJmLWE2N2MtMmRmNjAzMWRiYTAzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   "HOUSE OF NINJAS": {
     "imdb_id": "tt22012992",
