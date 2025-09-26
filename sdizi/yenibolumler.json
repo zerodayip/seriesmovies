@@ -1,25 +1,25 @@
 {
   "/diziler/cats-eye.html": {
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "group": "CAT'S EYE",
     "start_episode": 1
   },
   "/diziler/peacemaker.html": {
     "group": "PEACEMAKER",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/invasion.html": {
     "group": "INVASION",
     "last_season": 3,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/house-of-guinness.html": {
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "group": "HOUSE OF GUINNESS",
     "start_episode": 1
   },
