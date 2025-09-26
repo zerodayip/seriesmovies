@@ -2,13 +2,13 @@
   "/dizi-izle/invasion/": {
     "group": "INVASION",
     "last_season": 3,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/reasonable-doubt/": {
     "group": "REASONABLE DOUBT",
     "last_season": 3,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi-izle/the-twisted-tale-of-amanda-knox/": {
@@ -20,13 +20,13 @@
   "/dizi-izle/most-wanted-teen-hacker/": {
     "group": "MOST WANTED: TEEN HACKER",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi-izle/inside-usa": {
     "group": "INSIDE: USA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/tempest/": {
@@ -38,31 +38,31 @@
   "/dizi-izle/peacemaker/": {
     "group": "PEACEMAKER",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/house-of-guinness": {
     "group": "HOUSE OF GUINNESS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/alice-in-borderland/": {
     "group": "ALICE IN BORDERLAND",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/the-murky-stream": {
     "group": "THE MURKY STREAM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi-izle/wayward": {
     "group": "WAYWARD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/the-terminal-list-dark-wolf/": {
@@ -74,13 +74,13 @@
   "/dizi-izle/hotel-costiera": {
     "group": "HOTEL COSTIERA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/the-heritage/": {
     "group": "THE HERITAGE (SCHEDA)",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
