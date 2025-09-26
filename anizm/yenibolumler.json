@@ -1,4 +1,16 @@
 {
+  "/dekin-no-mogura": {
+    "group": "DEKIN NO MOGURA",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/lupin-iii-vs-cats-eye": {
+    "group": "LUPIN III VS. CAT'S EYE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/catseye": {
     "group": "CAT'S♥EYE",
     "last_season": 1,
@@ -85,18 +97,6 @@
   },
   "/kakkou-no-iinazuke-season-2": {
     "group": "KAKKOU NO IINAZUKE SEASON 2",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dekin-no-mogura": {
-    "group": "DEKIN NO MOGURA",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta": {
-    "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?)",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1

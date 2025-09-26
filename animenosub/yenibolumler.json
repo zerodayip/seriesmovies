@@ -1,4 +1,16 @@
 {
+  "/anime/secrets-of-the-silent-witch/": {
+    "group": "SECRETS OF THE SILENT WITCH",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anime/a-bouquet-for-an-ugly-girl/": {
+    "group": "A BOUQUET FOR AN UGLY GIRL",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/anime/cats-eye/": {
     "group": "CAT’S EYE",
     "last_season": 1,
@@ -103,18 +115,6 @@
   },
   "/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle-dub/": {
     "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE (DUB)",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/a-couple-of-cuckoos-season-2/": {
-    "group": "A COUPLE OF CUCKOOS SEASON 2",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/dusk-beyond-the-end-of-the-world/": {
-    "group": "DUSK BEYOND THE END OF THE WORLD",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1

@@ -15886,5 +15886,23 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/diziler/the-murky-stream.html": {
+    "group": "THE MURKY STREAM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/cats-eye.html": {
+    "group": "CAT'S EYE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/house-of-guinness.html": {
+    "group": "HOUSE OF GUINNESS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

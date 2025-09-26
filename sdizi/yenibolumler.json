@@ -1,8 +1,14 @@
 {
-  "/diziler/cats-eye.html": {
+  "/diziler/the-murky-stream.html": {
+    "group": "THE MURKY STREAM",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/cats-eye.html": {
     "group": "CAT'S EYE",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/diziler/peacemaker.html": {
@@ -18,9 +24,9 @@
     "start_episode": 1
   },
   "/diziler/house-of-guinness.html": {
-    "last_season": 1,
-    "last_episode": 8,
     "group": "HOUSE OF GUINNESS",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/diziler/wayward.html": {
@@ -81,12 +87,6 @@
     "group": "SLOW HORSES",
     "last_season": 5,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/diziler/the-morning-show.html": {
-    "group": "THE MORNING SHOW",
-    "last_season": 4,
-    "last_episode": 2,
     "start_episode": 1
   }
 }
