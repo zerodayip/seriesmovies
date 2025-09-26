@@ -27748,5 +27748,35 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi-izle/inside-usa": {
+    "group": "INSIDE: USA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/house-of-guinness": {
+    "group": "HOUSE OF GUINNESS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-murky-stream": {
+    "group": "THE MURKY STREAM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/wayward": {
+    "group": "WAYWARD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/hotel-costiera": {
+    "group": "HOTEL COSTIERA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

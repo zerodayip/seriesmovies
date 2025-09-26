@@ -1,4 +1,28 @@
 {
+  "/watari-kun-no-xx-ga-houkai-sunzen": {
+    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/karaoke-iko": {
+    "group": "KARAOKE IKO!",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/nmeneko": {
+    "group": "NMENEKO",
+    "last_season": 1,
+    "last_episode": 18,
+    "start_episode": 1
+  },
+  "/tougen-anki": {
+    "group": "TOUGEN ANKI",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/dekin-no-mogura": {
     "group": "DEKIN NO MOGURA",
     "last_season": 1,
@@ -67,36 +91,6 @@
   },
   "/tate-no-yuusha-no-nariagari-season-4": {
     "group": "TATE NO YUUSHA NO NARIAGARI SEASON 4",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/necronomico-no-cosmic-horror-show": {
-    "group": "NECRONOMICO NO COSMIC HORROR SHOW",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/jinkiextend-sorekara": {
-    "group": "JINKI:EXTEND - SOREKARA",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/jinkiextend": {
-    "group": "JINKI:EXTEND",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/new-panty--stocking-with-garterbelt": {
-    "group": "NEW PANTY & STOCKING WITH GARTERBELT",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/kakkou-no-iinazuke-season-2": {
-    "group": "KAKKOU NO IINAZUKE SEASON 2",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
