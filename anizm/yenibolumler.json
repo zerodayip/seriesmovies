@@ -1,4 +1,40 @@
 {
+  "/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
+    "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/kaoru-hana-wa-rin-to-saku": {
+    "group": "KAORU HANA WA RIN TO SAKU",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/hikaru-ga-shinda-natsu": {
+    "group": "HIKARU GA SHINDA NATSU",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/yasei-no-last-boss-ga-arawareta": {
+    "group": "YASEI NO LAST BOSS GA ARAWARETA!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anne-shirley": {
+    "group": "ANNE SHIRLEY",
+    "last_season": 1,
+    "last_episode": 23,
+    "start_episode": 1
+  },
+  "/kaijuu-8-gou-2nd-season": {
+    "group": "KAIJUU 8-GOU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/shin-samurai-den-yaiba": {
     "group": "SHIN SAMURAI-DEN YAIBA",
     "last_season": 1,
@@ -63,42 +99,6 @@
     "group": "DEKIN NO MOGURA",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/lupin-iii-vs-cats-eye": {
-    "group": "LUPIN III VS. CAT'S EYE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/catseye": {
-    "group": "CAT'S♥EYE",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/futari-solo-camp": {
-    "group": "FUTARI SOLO CAMP",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/mizu-zokusei-no-mahoutsukai": {
-    "group": "MIZU ZOKUSEI NO MAHOUTSUKAI",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/kizu-darake-seijo-yori-houfuku-wo-komete": {
-    "group": "KIZU DARAKE SEIJO YORI HOUFUKU WO KOMETE",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/towa-no-yuugure-episode-0": {
-    "group": "TOWA NO YUUGURE EPISODE 0",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }

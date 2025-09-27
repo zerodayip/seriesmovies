@@ -1,12 +1,18 @@
 {
+  "/anime/the-fragrant-flower-blooms-with-dignity/": {
+    "group": "THE FRAGRANT FLOWER BLOOMS WITH DIGNITY",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/anime/a-wild-last-boss-appeared/": {
     "group": "A WILD LAST BOSS APPEARED!",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
   },
-  "/anime/kaiju-no-8-season-2/": {
-    "group": "KAIJU NO. 8 SEASON 2",
+  "/anime/the-summer-hikaru-died/": {
+    "group": "THE SUMMER HIKARU DIED",
     "last_season": 1,
     "last_episode": 11,
     "start_episode": 1
@@ -21,6 +27,12 @@
     "group": "FERMAT KITCHEN",
     "last_season": 1,
     "last_episode": 12,
+    "start_episode": 1
+  },
+  "/anime/kaiju-no-8-season-2/": {
+    "group": "KAIJU NO. 8 SEASON 2",
+    "last_season": 1,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/anime/9-rulers-crown/": {
@@ -103,18 +115,6 @@
   },
   "/anime/the-water-magician/": {
     "group": "THE WATER MAGICIAN",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/kamitsubaki-city-under-production/": {
-    "group": "KAMITSUBAKI CITY UNDER PRODUCTION",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/solo-camping-for-two/": {
-    "group": "SOLO CAMPING FOR TWO",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
