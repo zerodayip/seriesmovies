@@ -1,4 +1,28 @@
 {
+  "/nukitashi-the-animation": {
+    "group": "NUKITASHI THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/turkey": {
+    "group": "TURKEY!",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/uma-musume-cinderella-gray": {
+    "group": "UMA MUSUME: CINDERELLA GRAY",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/silent-witch-chinmoku-no-majo-no-kakushigoto": {
+    "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/watari-kun-no-xx-ga-houkai-sunzen": {
     "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
     "last_season": 1,
@@ -75,24 +99,6 @@
     "group": "URUSEI YATSURA",
     "last_season": 1,
     "last_episode": 60,
-    "start_episode": 1
-  },
-  "/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season": {
-    "group": "TENSEI SHITARA DAINANA OUJI DATTA NODE, KIMAMA NI MAJUTSU WO KIWAMEMASU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
-    "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/tate-no-yuusha-no-nariagari-season-4": {
-    "group": "TATE NO YUUSHA NO NARIAGARI SEASON 4",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
