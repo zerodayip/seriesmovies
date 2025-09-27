@@ -1,4 +1,70 @@
 {
+  "/anime/a-wild-last-boss-appeared/": {
+    "group": "A WILD LAST BOSS APPEARED!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/kaiju-no-8-season-2/": {
+    "group": "KAIJU NO. 8 SEASON 2",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/anime/rascal-does-not-dream-of-santa-claus/": {
+    "group": "RASCAL DOES NOT DREAM OF SANTA CLAUS",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/anime/fermat-kitchen/": {
+    "group": "FERMAT KITCHEN",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anime/9-rulers-crown/": {
+    "group": "9: RULER’S CROWN",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/anime/anne-shirley/": {
+    "group": "ANNE SHIRLEY",
+    "last_season": 1,
+    "last_episode": 23,
+    "start_episode": 1
+  },
+  "/anime/chainsaw-man-the-movie-reze-arc/": {
+    "group": "CHAINSAW MAN THE MOVIE: REZE ARC",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/yaiba-samurai-legend/": {
+    "group": "YAIBA: SAMURAI LEGEND",
+    "last_season": 1,
+    "last_episode": 23,
+    "start_episode": 1
+  },
+  "/anime/this-monster-wants-to-eat-me/": {
+    "group": "THIS MONSTER WANTS TO EAT ME",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-awkward-senpai/": {
+    "group": "MY AWKWARD SENPAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/lets-play/": {
+    "group": "LET’S PLAY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/nukitashi-the-animation-uncensored/": {
     "group": "NUKITASHI THE ANIMATION (UNCENSORED)",
     "last_season": 1,
@@ -49,72 +115,6 @@
   },
   "/anime/solo-camping-for-two/": {
     "group": "SOLO CAMPING FOR TWO",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/yano-kuns-ordinary-days/": {
-    "group": "YANO-KUN’S ORDINARY DAYS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/a-gatherers-adventure-in-isekai/": {
-    "group": "A GATHERER’S ADVENTURE IN ISEKAI",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/a-wild-last-boss-appeared/": {
-    "group": "A WILD LAST BOSS APPEARED!",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/dusk-beyond-the-end-of-the-world-episode-0/": {
-    "group": "DUSK BEYOND THE END OF THE WORLD EPISODE 0",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/dr-stone-science-future-part-2/": {
-    "group": "DR. STONE: SCIENCE FUTURE PART 2",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/new-panty-stocking-with-garterbelt/": {
-    "group": "NEW PANTY & STOCKING WITH GARTERBELT",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/hell-teacher-jigoku-sensei-nube/": {
-    "group": "HELL TEACHER: JIGOKU SENSEI NUBE",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/9-rulers-crown/": {
-    "group": "9: RULER’S CROWN",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-season-2/": {
-    "group": "I WAS REINCARNATED AS THE 7TH PRINCE SO I CAN TAKE MY TIME PERFECTING MY MAGICAL ABILITY SEASON 2",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/hero-without-a-class-who-even-needs-skills/": {
-    "group": "HERO WITHOUT A CLASS: WHO EVEN NEEDS SKILLS?!",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/the-rising-of-the-shield-hero-season-4/": {
-    "group": "THE RISING OF THE SHIELD HERO SEASON 4",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1

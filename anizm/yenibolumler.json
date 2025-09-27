@@ -1,4 +1,10 @@
 {
+  "/shin-samurai-den-yaiba": {
+    "group": "SHIN SAMURAI-DEN YAIBA",
+    "last_season": 1,
+    "last_episode": 23,
+    "start_episode": 1
+  },
   "/busu-ni-hanataba-wo": {
     "group": "BUSU NI HANATABA WO.",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "TOWA NO YUUGURE EPISODE 0",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dr-stone-science-future-part-2": {
-    "group": "DR. STONE: SCIENCE FUTURE PART 2",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }

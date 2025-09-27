@@ -466,5 +466,29 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/anime/chainsaw-man-the-movie-reze-arc/": {
+    "group": "CHAINSAW MAN THE MOVIE: REZE ARC",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/this-monster-wants-to-eat-me/": {
+    "group": "THIS MONSTER WANTS TO EAT ME",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-awkward-senpai/": {
+    "group": "MY AWKWARD SENPAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/lets-play/": {
+    "group": "LET’S PLAY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
