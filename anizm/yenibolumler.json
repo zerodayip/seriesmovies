@@ -1,4 +1,10 @@
 {
+  "/busu-ni-hanataba-wo": {
+    "group": "BUSU NI HANATABA WO.",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/nukitashi-the-animation": {
     "group": "NUKITASHI THE ANIMATION",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "DR. STONE: SCIENCE FUTURE PART 2",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/urusei-yatsura": {
-    "group": "URUSEI YATSURA",
-    "last_season": 1,
-    "last_episode": 60,
     "start_episode": 1
   }
 }
