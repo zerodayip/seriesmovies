@@ -2,31 +2,31 @@
   "/anime/one-piece/": {
     "group": "ONE PIECE",
     "last_season": 1,
-    "last_episode": 1144,
+    "last_episode": 1145,
     "start_episode": 1130
   },
   "/anime/hotel-inhumans/": {
     "group": "HOTEL INHUMANS",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/anime/city-the-animation/": {
     "group": "CITY THE ANIMATION",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/anime/gachiakuta/": {
     "group": "GACHIAKUTA",
     "last_season": 1,
-    "last_episode": 11,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/anime/cultural-exchange-with-a-game-centre-girl/": {
     "group": "CULTURAL EXCHANGE WITH A GAME CENTRE GIRL",
     "last_season": 1,
-    "last_episode": 11,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/anime/uglymug-epicfighter/": {
@@ -44,13 +44,13 @@
   "/anime/apocalypse-bringer-mynoghra-world-conquest-starts-with-the-civilization-of-ruin/": {
     "group": "APOCALYPSE BRINGER MYNOGHRA: WORLD CONQUEST STARTS WITH THE CIVILIZATION OF RUIN",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/anime/ruri-rocks/": {
     "group": "RURI ROCKS",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/anime/dekin-no-mogura-the-earthbound-mole/": {
@@ -494,7 +494,7 @@
   "/anime/the-fated-magical-princess-who-made-me-a-princess/": {
     "group": "THE FATED MAGICAL PRINCESS: WHO MADE ME A PRINCESS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   }
 }
