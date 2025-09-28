@@ -1,4 +1,10 @@
 {
+  "/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku": {
+    "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
     "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "TOUGEN ANKI",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dekin-no-mogura": {
-    "group": "DEKIN NO MOGURA",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }

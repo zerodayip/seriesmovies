@@ -15910,5 +15910,17 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/diziler/bon-appetit-your-majesty.html": {
+    "group": "BON APPÉTIT, YOUR MAJESTY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/pretty-little-liars-original-sin.html": {
+    "group": "PRETTY LITTLE LIARS: ORIGINAL SIN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
