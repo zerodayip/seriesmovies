@@ -1,4 +1,28 @@
 {
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1144,
+    "start_episode": 1120
+  },
+  "/diziler/confidence-queen.html": {
+    "group": "CONFIDENCE QUEEN",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/diziler/bon-appetit-your-majesty.html": {
+    "group": "BON APPÉTIT, YOUR MAJESTY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/gachiakuta.html": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/diziler/pretty-little-liars-original-sin.html": {
     "group": "PRETTY LITTLE LIARS: ORIGINAL SIN",
     "last_season": 2,
@@ -15,12 +39,6 @@
     "group": "THE FRAGRANT FLOWER BLOOMS WITH DIGNITY",
     "last_season": 1,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "/diziler/confidence-queen.html": {
-    "group": "CONFIDENCE QUEEN",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/kaiju-no-8.html": {
@@ -63,30 +81,6 @@
     "group": "WAYWARD",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/dr-stone.html": {
-    "group": "DR. STONE",
-    "last_season": 4,
-    "last_episode": 24,
-    "start_episode": 1
-  },
-  "/diziler/alice-in-borderland.html": {
-    "group": "ALICE IN BORDERLAND",
-    "last_season": 3,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/south-park.html": {
-    "group": "SOUTH PARK",
-    "last_season": 27,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/the-rising-of-the-shield-hero.html": {
-    "group": "THE RISING OF THE SHIELD HERO",
-    "last_season": 4,
-    "last_episode": 12,
     "start_episode": 1
   }
 }

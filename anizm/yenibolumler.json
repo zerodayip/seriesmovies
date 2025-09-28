@@ -1,4 +1,46 @@
 {
+  "/fermat-no-ryouri": {
+    "group": "FERMAT NO RYOURI",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/mofa-gongzhu-de-xiao-fannao": {
+    "group": "MOFA GONGZHU DE XIAO FANNAO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/one-piece": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1144,
+    "start_episode": 1100
+  },
+  "/hotel-inhumans": {
+    "group": "HOTEL INHUMANS",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/ruri-no-houseki": {
+    "group": "RURI NO HOUSEKI",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/city-the-animation": {
+    "group": "CITY THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/gachiakuta": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku": {
     "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
     "last_season": 1,
@@ -61,42 +103,6 @@
   },
   "/turkey": {
     "group": "TURKEY!",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/uma-musume-cinderella-gray": {
-    "group": "UMA MUSUME: CINDERELLA GRAY",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/silent-witch-chinmoku-no-majo-no-kakushigoto": {
-    "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/watari-kun-no-xx-ga-houkai-sunzen": {
-    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/karaoke-iko": {
-    "group": "KARAOKE IKO!",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/nmeneko": {
-    "group": "NMENEKO",
-    "last_season": 1,
-    "last_episode": 20,
-    "start_episode": 1
-  },
-  "/tougen-anki": {
-    "group": "TOUGEN ANKI",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
