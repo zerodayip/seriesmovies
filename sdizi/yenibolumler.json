@@ -1,4 +1,10 @@
 {
+  "/diziler/pretty-little-liars-original-sin.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "PRETTY LITTLE LIARS: ORIGINAL SIN",
+    "start_episode": 1
+  },
   "/diziler/rascal-does-not-dream-of-bunny-girl-senpai.html": {
     "group": "RASCAL DOES NOT DREAM OF BUNNY GIRL SENPAI",
     "last_season": 2,
@@ -81,12 +87,6 @@
     "group": "THE RISING OF THE SHIELD HERO",
     "last_season": 4,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/marvel-zombies.html": {
-    "group": "MARVEL ZOMBIES",
-    "last_season": 1,
-    "last_episode": 4,
     "start_episode": 1
   }
 }
