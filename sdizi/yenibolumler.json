@@ -1,4 +1,10 @@
 {
+  "/diziler/task.html": {
+    "group": "TASK",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "last_season": 1,
@@ -73,12 +79,6 @@
   },
   "/diziler/house-of-guinness.html": {
     "group": "HOUSE OF GUINNESS",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/wayward.html": {
-    "group": "WAYWARD",
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1

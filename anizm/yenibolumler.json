@@ -1,4 +1,16 @@
 {
+  "/dekin-no-mogura": {
+    "group": "DEKIN NO MOGURA",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dragon-raja-ii--the-mourners-eyes-": {
+    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/mofa-gongzhu-de-xiao-fannao": {
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
@@ -81,18 +93,6 @@
     "group": "KAIJUU 8-GOU 2ND SEASON",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "/shin-samurai-den-yaiba": {
-    "group": "SHIN SAMURAI-DEN YAIBA",
-    "last_season": 1,
-    "last_episode": 24,
-    "start_episode": 1
-  },
-  "/busu-ni-hanataba-wo": {
-    "group": "BUSU NI HANATABA WO.",
-    "last_season": 1,
-    "last_episode": 13,
     "start_episode": 1
   }
 }
