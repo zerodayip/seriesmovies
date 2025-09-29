@@ -1,4 +1,10 @@
 {
+  "/anime/a-gatherers-adventure-in-isekai/": {
+    "group": "A GATHERER’S ADVENTURE IN ISEKAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/sword-of-the-demon-hunter-kijin-gentosho/": {
     "group": "SWORD OF THE DEMON HUNTER: KIJIN GENTOSHO",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "CHAINSAW MAN THE MOVIE: REZE ARC",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/yaiba-samurai-legend/": {
-    "group": "YAIBA: SAMURAI LEGEND",
-    "last_season": 1,
-    "last_episode": 24,
     "start_episode": 1
   }
 }

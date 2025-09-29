@@ -1,4 +1,28 @@
 {
+  "/fermat-no-ryouri": {
+    "group": "FERMAT NO RYOURI",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/kijin-gentoushou": {
+    "group": "KIJIN GENTOUSHOU",
+    "last_season": 1,
+    "last_episode": 23,
+    "start_episode": 1
+  },
+  "/sozai-saishuka-no-isekai-ryokouki": {
+    "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/summer-pockets": {
+    "group": "SUMMER POCKETS",
+    "last_season": 1,
+    "last_episode": 25,
+    "start_episode": 1
+  },
   "/dekin-no-mogura": {
     "group": "DEKIN NO MOGURA",
     "last_season": 1,
@@ -15,12 +39,6 @@
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/fermat-no-ryouri": {
-    "group": "FERMAT NO RYOURI",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   },
   "/one-piece": {
@@ -69,30 +87,6 @@
     "group": "KAORU HANA WA RIN TO SAKU",
     "last_season": 1,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "/hikaru-ga-shinda-natsu": {
-    "group": "HIKARU GA SHINDA NATSU",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/yasei-no-last-boss-ga-arawareta": {
-    "group": "YASEI NO LAST BOSS GA ARAWARETA!",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anne-shirley": {
-    "group": "ANNE SHIRLEY",
-    "last_season": 1,
-    "last_episode": 24,
-    "start_episode": 1
-  },
-  "/kaijuu-8-gou-2nd-season": {
-    "group": "KAIJUU 8-GOU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }

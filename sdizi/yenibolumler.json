@@ -1,4 +1,10 @@
 {
+  "/diziler/the-summer-hikaru-died.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "THE SUMMER HIKARU DIED",
+    "start_episode": 1
+  },
   "/diziler/task.html": {
     "group": "TASK",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "INVASION",
     "last_season": 3,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/house-of-guinness.html": {
-    "group": "HOUSE OF GUINNESS",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
