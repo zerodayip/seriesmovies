@@ -1,14 +1,14 @@
 {
-  "/fermat-no-ryouri": {
-    "group": "FERMAT NO RYOURI",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
   "/mofa-gongzhu-de-xiao-fannao": {
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
     "last_episode": 3,
+    "start_episode": 1
+  },
+  "/fermat-no-ryouri": {
+    "group": "FERMAT NO RYOURI",
+    "last_season": 1,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/one-piece": {
@@ -93,18 +93,6 @@
     "group": "BUSU NI HANATABA WO.",
     "last_season": 1,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "/nukitashi-the-animation": {
-    "group": "NUKITASHI THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/turkey": {
-    "group": "TURKEY!",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
