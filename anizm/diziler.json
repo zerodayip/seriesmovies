@@ -8,7 +8,7 @@
   "/fermat-no-ryouri": {
     "group": "FERMAT NO RYOURI",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/my-melody--kuromi": {
@@ -92,7 +92,7 @@
   "/kijin-gentoushou": {
     "group": "KIJIN GENTOUSHOU",
     "last_season": 1,
-    "last_episode": 23,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/dandadan-2nd-season": {
@@ -266,7 +266,7 @@
   "/summer-pockets": {
     "group": "SUMMER POCKETS",
     "last_season": 1,
-    "last_episode": 25,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/witch-watch": {
@@ -656,7 +656,7 @@
   "/sozai-saishuka-no-isekai-ryokouki": {
     "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
