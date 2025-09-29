@@ -1578,6 +1578,11 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZDU2ZjBlOTUtMTIzMC00OWI0LTg2OTAtZmUxYTE2MzdhNzZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2023"
   },
+  "ALL OF YOU": {
+    "imdb_id": "tt30852384",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjA3N2Q2Y2UtNzljMC00NDhhLWI3ODQtZGQ2ZmMxNTIwNTFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2025"
+  },
   "ALL QUIET ON THE WESTERN FRONT": {
     "imdb_id": "tt0020629",
     "poster": "https://m.media-amazon.com/images/M/MV5BNTc2NDE0YjEtYmY3Ni00ZDE4LWE2MzEtZWYwOGI4YTYwNjNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -30716,7 +30721,7 @@
   "THE LION KING": {
     "imdb_id": "tt0110357",
     "poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "year": "1994"
+    "year": "2019"
   },
   "THE LION KING - ASLAN KRAL": {
     "imdb_id": "tt0110357",
@@ -31142,6 +31147,11 @@
     "imdb_id": "tt0481369",
     "poster": "https://m.media-amazon.com/images/M/MV5BYWYwNmZlZWEtZmVmYy00NTU2LTk5MjUtY2I3ZmY4OGQ0OGVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": "2007"
+  },
+  "THE NUN II": {
+    "imdb_id": "tt10160976",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmJkYWIyYWYtNWVhZi00ZTkyLWExMTktZWUzNGE1MjNlNjQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": "2023"
   },
   "THE OCCUPANT": {
     "imdb_id": "tt7230422",
