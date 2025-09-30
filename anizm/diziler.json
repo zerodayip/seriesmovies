@@ -658,5 +658,11 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/jigokuraku-2nd-season": {
+    "group": "JIGOKURAKU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
