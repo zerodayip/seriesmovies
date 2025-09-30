@@ -1,4 +1,16 @@
 {
+  "/anime/yano-kuns-ordinary-days/": {
+    "group": "YANO-KUN’S ORDINARY DAYS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/nukitashi-the-animation-uncensored/": {
+    "group": "NUKITASHI THE ANIMATION (UNCENSORED)",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/anime/a-gatherers-adventure-in-isekai/": {
     "group": "A GATHERER’S ADVENTURE IN ISEKAI",
     "last_season": 1,
@@ -105,18 +117,6 @@
     "group": "9: RULER’S CROWN",
     "last_season": 1,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/anne-shirley/": {
-    "group": "ANNE SHIRLEY",
-    "last_season": 1,
-    "last_episode": 24,
-    "start_episode": 1
-  },
-  "/anime/chainsaw-man-the-movie-reze-arc/": {
-    "group": "CHAINSAW MAN THE MOVIE: REZE ARC",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }

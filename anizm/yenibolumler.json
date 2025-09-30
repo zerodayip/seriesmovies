@@ -1,4 +1,10 @@
 {
+  "/yano-kun-no-futsuu-no-hibi": {
+    "group": "YANO-KUN NO FUTSUU NO HIBI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/jigokuraku-2nd-season": {
     "group": "JIGOKURAKU 2ND SEASON",
     "last_season": 1,
@@ -79,12 +85,6 @@
   },
   "/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku": {
     "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
-    "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
     "last_season": 1,
     "last_episode": 13,
     "start_episode": 1
