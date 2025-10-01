@@ -1,4 +1,16 @@
 {
+  "/kakuriyo-no-yadomeshi-ni": {
+    "group": "KAKURIYO NO YADOMESHI NI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/lets-play-quest-darake-no-my-life": {
+    "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
     "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
     "last_season": 1,
@@ -73,18 +85,6 @@
   },
   "/hotel-inhumans": {
     "group": "HOTEL INHUMANS",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/ruri-no-houseki": {
-    "group": "RURI NO HOUSEKI",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/city-the-animation": {
-    "group": "CITY THE ANIMATION",
     "last_season": 1,
     "last_episode": 13,
     "start_episode": 1

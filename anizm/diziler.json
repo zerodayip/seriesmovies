@@ -670,5 +670,17 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/kakuriyo-no-yadomeshi-ni": {
+    "group": "KAKURIYO NO YADOMESHI NI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/lets-play-quest-darake-no-my-life": {
+    "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
