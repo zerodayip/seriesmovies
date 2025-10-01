@@ -27784,5 +27784,17 @@
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
+  },
+  "/dizi-izle/chad-powers": {
+    "group": "CHAD POWERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/nightmares-of-nature": {
+    "group": "NIGHTMARES OF NATURE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
