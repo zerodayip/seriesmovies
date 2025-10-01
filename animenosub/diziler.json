@@ -496,5 +496,11 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/anime/kakuriyo-bed-and-breakfast-for-spirits-season-2/": {
+    "group": "KAKURIYO: BED AND BREAKFAST FOR SPIRITS SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
