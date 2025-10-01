@@ -1,4 +1,22 @@
 {
+  "/diziler/tempest.html": {
+    "group": "TEMPEST",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/diziler/slow-horses.html": {
+    "group": "SLOW HORSES",
+    "last_season": 5,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/diziler/the-morning-show.html": {
+    "group": "THE MORNING SHOW",
+    "last_season": 4,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/diziler/chad-powers.html": {
     "group": "CHAD POWERS",
     "last_season": 1,
@@ -63,18 +81,6 @@
     "group": "THE FRAGRANT FLOWER BLOOMS WITH DIGNITY",
     "last_season": 1,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "/diziler/kaiju-no-8.html": {
-    "group": "KAIJU NO. 8",
-    "last_season": 2,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/diziler/the-murky-stream.html": {
-    "group": "THE MURKY STREAM",
-    "last_season": 1,
-    "last_episode": 3,
     "start_episode": 1
   }
 }
