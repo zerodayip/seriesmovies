@@ -24,7 +24,7 @@ jobs:
           repository: zerodayip/Py
           token: ${{ secrets.GH_TOKEN }}
           path: private_py
-          fetch-depth: 0
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -48,7 +48,7 @@ jobs:
           repository: zerodayip/m3u8file
           token: ${{ secrets.GH_TOKEN }}
           path: private_m3u8file
-          fetch-depth: 0
+          fetch-depth: 1
 
       - name: Copy all M3U files to root of m3u8file repo
         run: |
@@ -75,7 +75,7 @@ jobs:
       - name: Checkout Public Repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
           ref: main
 
       - name: Set up Python
@@ -124,7 +124,7 @@ jobs:
           repository: zerodayip/Py  # Scriptin olduğu private repo
           token: ${{ secrets.GH_TOKEN }}
           path: private_py
-          fetch-depth: 0
+          fetch-depth: 1
 
       # 3️⃣ Python kurulumu
       - name: Set up Python
@@ -152,7 +152,7 @@ jobs:
           repository: zerodayip/m3u8file
           token: ${{ secrets.GH_TOKEN }}
           path: private_m3u8file
-          fetch-depth: 0
+          fetch-depth: 1
 
       # 7️⃣ Güncellenmiş M3U dosyalarını private repo’ya kopyala
       - name: Copy all updated M3U files to private repo
@@ -181,7 +181,7 @@ jobs:
       - name: Checkout Public Repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
           ref: main
 
       - name: Set up Python
@@ -244,7 +244,7 @@ jobs:
       - name: Checkout Public Repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
           ref: main
 
       - name: Set up Python
