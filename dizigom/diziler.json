@@ -2090,7 +2090,7 @@
   "/dizi-izle/slow-horses/": {
     "group": "SLOW HORSES",
     "last_season": 5,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi-izle/reservation-dogs/": {
@@ -2996,7 +2996,7 @@
   "/dizi-izle/the-morning-show/": {
     "group": "THE MORNING SHOW",
     "last_season": 4,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi-izle/undone/": {
@@ -13304,7 +13304,7 @@
   "/dizi-izle/platonic/": {
     "group": "PLATONIC",
     "last_season": 2,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi-izle/shine-or-go-crazy/": {
@@ -27482,7 +27482,7 @@
   "/dizi-izle/the-twisted-tale-of-amanda-knox/": {
     "group": "THE TWISTED TALE OF AMANDA KNOX",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/rivers-of-fate/": {
@@ -27650,7 +27650,7 @@
   "/dizi-izle/tempest/": {
     "group": "TEMPEST",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi-izle/aka-charlie-sheen/": {
@@ -27800,7 +27800,7 @@
   "/dizi-izle/riv4lries": {
     "group": "RIV4LRIES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 14,
     "start_episode": 1
   }
 }

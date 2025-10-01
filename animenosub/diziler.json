@@ -488,7 +488,7 @@
   "/anime/lets-play/": {
     "group": "LET’S PLAY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/the-fated-magical-princess-who-made-me-a-princess/": {
@@ -500,7 +500,7 @@
   "/anime/kakuriyo-bed-and-breakfast-for-spirits-season-2/": {
     "group": "KAKURIYO: BED AND BREAKFAST FOR SPIRITS SEASON 2",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/pass-the-monster-meat-milady/": {
