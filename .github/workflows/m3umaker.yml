@@ -16,7 +16,7 @@ jobs:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
           ref: main
 
       - name: Cache pip
@@ -105,7 +105,7 @@ jobs:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
           ref: main
 
       - name: Set up Python
@@ -246,7 +246,7 @@ jobs:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
           ref: main
 
       - name: Set up Python
@@ -281,7 +281,7 @@ jobs:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
           ref: main
 
       - name: Set up Python
