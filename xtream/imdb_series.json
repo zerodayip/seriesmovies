@@ -2395,6 +2395,10 @@
     "imdb_id": "tt22071840",
     "poster": "https://m.media-amazon.com/images/M/MV5BOTk4NjBlMjQtN2QzNC00NjQ1LWIwM2YtYmJmNWZkYmFlNTc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
+  "DUDES": {
+    "imdb_id": "tt33034757",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdmODgwNDYtYTk4Ny00ZTYwLTg0NTgtNWJmMTkyZjI5MmY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
   "DUNE: PROPHECY": {
     "imdb_id": "tt10466872",
     "poster": "https://m.media-amazon.com/images/M/MV5BOTc2YTFiOTItZmRiNi00OWE5LThhOTEtMmZhMTkzYmRiNjIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -7282,6 +7286,10 @@
   "STAR WARS: ANDOR": {
     "imdb_id": "tt9253284",
     "poster": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "STAR WARS: CLONE WARS 2003": {
+    "imdb_id": "tt0361243",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJiYzkwZDEtMDJkYy00ZmJiLTg3M2QtYjU3MmU4MzBiZDc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   "STAR WARS: SKELETON CREW": {
     "imdb_id": "tt20600980",
