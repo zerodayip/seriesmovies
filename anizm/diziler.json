@@ -682,5 +682,11 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/luo-xiaohei-zhanji": {
+    "group": "LUO XIAOHEI ZHANJI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

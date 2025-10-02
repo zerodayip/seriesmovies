@@ -1,4 +1,10 @@
 {
+  "/luo-xiaohei-zhanji": {
+    "group": "LUO XIAOHEI ZHANJI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/kakuriyo-no-yadomeshi-ni": {
     "group": "KAKURIYO NO YADOMESHI NI",
     "last_season": 1,
@@ -82,11 +88,5 @@
     "last_season": 1,
     "last_episode": 1145,
     "start_episode": 1100
-  },
-  "/hotel-inhumans": {
-    "group": "HOTEL INHUMANS",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
   }
 }
