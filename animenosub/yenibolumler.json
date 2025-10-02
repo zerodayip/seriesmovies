@@ -1,4 +1,16 @@
 {
+  "/anime/this-monster-wants-to-eat-me/": {
+    "group": "THIS MONSTER WANTS TO EAT ME",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-awkward-senpai/": {
+    "group": "MY AWKWARD SENPAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/kakuriyo-bed-and-breakfast-for-spirits-season-2/": {
     "group": "KAKURIYO: BED AND BREAKFAST FOR SPIRITS SEASON 2",
     "last_season": 1,
@@ -105,18 +117,6 @@
     "group": "CULTURAL EXCHANGE WITH A GAME CENTRE GIRL",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/apocalypse-bringer-mynoghra-world-conquest-starts-with-the-civilization-of-ruin/": {
-    "group": "APOCALYPSE BRINGER MYNOGHRA: WORLD CONQUEST STARTS WITH THE CIVILIZATION OF RUIN",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/ruri-rocks/": {
-    "group": "RURI ROCKS",
-    "last_season": 1,
-    "last_episode": 13,
     "start_episode": 1
   }
 }
