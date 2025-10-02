@@ -1,0 +1,82 @@
+{
+    "/dizi/gassal": {
+    "group": "GASSAL",
+    "tvg-id": "tt35082593",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BMDU3MjIzZDctOTVlMC00MjI1LTllZjAtZmY3ZmY2NjcyZmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+    "/dizi/mahsun-j": {
+    "group": "MAHSUN J",
+    "tvg-id": "tt31027788",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BYzlmMzY5MzMtNGZmOS00YjU1LTk2ZDMtMDZkMzM4ZTE5MDVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+    "/dizi/prens": {
+    "group": "PRENS",
+    "tvg-id": "tt14533970",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BMzBmZDFkNWYtYWJiMy00NzRkLTlmYzktODEzOTE1ZDA1OTBkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+    "/dizi/kubra": {
+    "group": "KÜBRA",
+    "tvg-id": "tt26760483",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BNTIzMDc4MmYtZWVkNi00YjFjLWE5OGEtZTBhYWYxNzU1MDMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/yarin-yokmus-gibi": {
+    "group": "Yarın Yokmuş Gibi",
+    "tvg-id": "tt31123801",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BYWU4YjNjYzgtY2YwOC00N2Y3LTk5YzAtMTQzMzBkYWQ0MDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/dugum": {
+    "group": "DÜĞÜM",
+    "tvg-id": "tt14014078",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BN2EzOGFlZDQtMTEzNy00ZTM1LTk5YzUtNmEyYTcwM2IwZGQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/karsilasmalar": {
+    "group": "Karşılaşmalar",
+    "tvg-id": "tt33998293",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BMDczMjA3MDUtMTBlOS00MDliLTkxY2YtNjVlZjJhNWQ0NmY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/sorgu": {
+    "group": "Sorgu",
+    "tvg-id": "tt33377409",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BZDQyYzI3ODktNjIwMC00OTdiLThmNjUtMGViMTk4MTJlNTYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/esas-oglan": {
+    "group": "Esas Oğlan",
+    "tvg-id": "tt33036023",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BYWRkZGRlZTktZGRmZi00NWRjLTg2ZGQtNTE1MDNjYjIwYmEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/anonim": {
+    "group": "Anonim",
+    "tvg-id": "tt34819808",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BYzU4YTI4NTEtNTU5Ni00NDZkLWEyYmYtYWM4ZmI1YzVmY2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/kimler-geldi-kimler-gecti": {
+    "group": "Kimler Geldi Kimler Geçti",
+    "tvg-id": "tt28267514",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BYTRkMGJkYTgtMjVmYS00MDAxLWFkMjUtMjVjMzc4NjQ0MjMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/tertemiz": {
+    "group": "Tertemiz",
+    "tvg-id": "tt35113031",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BMDI1NjZlMjctZGQ2Mi00ZjZmLTkxYzAtMzdkNTg2NWRjMmNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/adsiz-asiklar": {
+    "group": "Adsız Aşıklar",
+    "tvg-id": "tt34692003",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BY2E2MzY2Y2ItMTljYS00MjlmLWIxMzYtNWVmNTY5MDY5ZTFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/istanbul-ansiklopedisi": {
+    "group": "istanbul Ansiklopedisi",
+    "tvg-id": "tt30965512",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BYTJlOTZiZDQtN2NiYi00MGFhLWEwM2EtZGI0OTdiNjM0NDkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/elin-sangu-ile-101": {
+    "group": "Elcin Sangu ile 101",
+    "tvg-id": "tt36912910",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BYzM4ODg0YWUtMjk4MC00ZGI5LTk1YmEtNTcxY2ViYzU5M2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/konusanlar": {
+    "group": "Konuşanlar",
+    "tvg-id": "tt13667230",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BZGE1YjA0ZmItOTA3Yi00YTNiLTg3ZmItZTc3ZTM2MDUwNGIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  }
+}
