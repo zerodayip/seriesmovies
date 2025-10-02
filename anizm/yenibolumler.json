@@ -20,31 +20,31 @@
   "/kakuriyo-no-yadomeshi-ni": {
     "group": "KAKURIYO NO YADOMESHI NI",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/lets-play-quest-darake-no-my-life": {
     "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
     "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/urusei-yatsura": {
     "group": "URUSEI YATSURA",
     "last_season": 1,
-    "last_episode": 70,
+    "last_episode": 70.0,
     "start_episode": 1
   },
   "/yano-kun-no-futsuu-no-hibi": {
     "group": "YANO-KUN NO FUTSUU NO HIBI",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/jigokuraku-2nd-season": {
@@ -56,25 +56,25 @@
   "/fermat-no-ryouri": {
     "group": "FERMAT NO RYOURI",
     "last_season": 1,
-    "last_episode": 11,
+    "last_episode": 11.0,
     "start_episode": 1
   },
   "/kijin-gentoushou": {
     "group": "KIJIN GENTOUSHOU",
     "last_season": 1,
-    "last_episode": 24,
+    "last_episode": 24.0,
     "start_episode": 1
   },
   "/sozai-saishuka-no-isekai-ryokouki": {
     "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/summer-pockets": {
     "group": "SUMMER POCKETS",
     "last_season": 1,
-    "last_episode": 26,
+    "last_episode": 26.0,
     "start_episode": 1
   }
 }
