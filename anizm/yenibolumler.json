@@ -1,4 +1,10 @@
 {
+  "/uma-musume-cinderella-gray": {
+    "group": "UMA MUSUME: CINDERELLA GRAY",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "/luo-xiaohei-zhanji": {
     "group": "LUO XIAOHEI ZHANJI",
     "last_season": 1,
@@ -70,23 +76,5 @@
     "last_season": 1,
     "last_episode": 9,
     "start_episode": 1
-  },
-  "/dragon-raja-ii--the-mourners-eyes-": {
-    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/mofa-gongzhu-de-xiao-fannao": {
-    "group": "MOFA GONGZHU DE XIAO FANNAO",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/one-piece": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1145,
-    "start_episode": 1100
   }
 }
