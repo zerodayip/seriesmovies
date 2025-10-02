@@ -476,7 +476,7 @@
   "/uma-musume-cinderella-gray": {
     "group": "UMA MUSUME: CINDERELLA GRAY",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 13.0,
     "start_episode": 1
   },
   "/jujutsu-kaisen-3rd-season": {
@@ -686,7 +686,7 @@
   "/luo-xiaohei-zhanji": {
     "group": "LUO XIAOHEI ZHANJI",
     "last_season": 1,
-    "last_episode": 85,
+    "last_episode": 8.5,
     "start_episode": 1
   }
 }
