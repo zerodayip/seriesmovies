@@ -27802,5 +27802,11 @@
     "last_season": 1,
     "last_episode": 14,
     "start_episode": 1
+  },
+  "/dizi-izle/dudes": {
+    "group": "DUDES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

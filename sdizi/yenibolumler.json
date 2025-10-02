@@ -1,4 +1,16 @@
 {
+  "/diziler/star-wars-clone-wars-2003.html": {
+    "group": "STAR WARS: CLONE WARS 2003",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/platonic.html": {
+    "group": "PLATONIC",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/the-twisted-tale-of-amanda-knox.html": {
     "group": "THE TWISTED TALE OF AMANDA KNOX",
     "last_season": 1,
@@ -69,18 +81,6 @@
     "group": "GACHIAKUTA",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/pretty-little-liars-original-sin.html": {
-    "group": "PRETTY LITTLE LIARS: ORIGINAL SIN",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/rascal-does-not-dream-of-bunny-girl-senpai.html": {
-    "group": "RASCAL DOES NOT DREAM OF BUNNY GIRL SENPAI",
-    "last_season": 2,
-    "last_episode": 13,
     "start_episode": 1
   }
 }
