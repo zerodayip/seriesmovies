@@ -1,4 +1,10 @@
 {
+  "/diziler/peacemaker.html": {
+    "group": "PEACEMAKER",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/diziler/star-wars-clone-wars-2003.html": {
     "group": "STAR WARS: CLONE WARS 2003",
     "last_season": 3,
@@ -73,12 +79,6 @@
   },
   "/diziler/bon-appetit-your-majesty.html": {
     "group": "BON APPÉTIT, YOUR MAJESTY",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/gachiakuta.html": {
-    "group": "GACHIAKUTA",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
