@@ -542,7 +542,7 @@
   "/dekin-no-mogura": {
     "group": "DEKIN NO MOGURA",
     "last_season": 1,
-    "last_episode": 10.0,
+    "last_episode": 11.0,
     "start_episode": 1
   },
   "/kamitsubaki-shi-kensetsuchuu": {
@@ -722,7 +722,7 @@
   "/watashi-wo-tabetai-hitodenashi": {
     "group": "WATASHI WO TABETAI, HITODENASHI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   }
 }
