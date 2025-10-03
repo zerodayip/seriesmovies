@@ -326,13 +326,13 @@
   "/anime/watari-kuns-is-about-to-collapse/": {
     "group": "WATARI-KUN’S ****** IS ABOUT TO COLLAPSE",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/anime/tougen-anki/": {
     "group": "TOUGEN ANKI",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/anime/scooped-up-by-an-s-ranked-adventurer/": {
@@ -530,19 +530,19 @@
   "/anime/shabake/": {
     "group": "SHABAKE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/sanda/": {
     "group": "SANDA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/may-i-ask-for-one-final-thing/": {
     "group": "MAY I ASK FOR ONE FINAL THING?",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   }
 }
