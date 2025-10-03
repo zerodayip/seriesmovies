@@ -532,5 +532,17 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/sanda/": {
+    "group": "SANDA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/may-i-ask-for-one-final-thing/": {
+    "group": "MAY I ASK FOR ONE FINAL THING?",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

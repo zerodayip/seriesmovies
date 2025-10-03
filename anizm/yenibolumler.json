@@ -1,4 +1,10 @@
 {
+  "/yuzuki-san-chi-no-yonkyoudai": {
+    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/catseye": {
     "group": "CAT'S♥EYE",
     "last_season": 1,
@@ -63,12 +69,6 @@
     "group": "UMA MUSUME: CINDERELLA GRAY",
     "last_season": 1,
     "last_episode": 13.0,
-    "start_episode": 1
-  },
-  "/luo-xiaohei-zhanji": {
-    "group": "LUO XIAOHEI ZHANJI",
-    "last_season": 1,
-    "last_episode": 8.5,
     "start_episode": 1
   }
 }
