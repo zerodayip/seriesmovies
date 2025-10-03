@@ -1,4 +1,22 @@
 {
+  "/anime/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge/": {
+    "group": "MY GIFT LVL 9999 UNLIMITED GACHA: BACKSTABBED IN A BACKWATER DUNGEON, I’M OUT FOR REVENGE!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/shabake/": {
+    "group": "SHABAKE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/cats-eye/": {
+    "group": "CAT’S EYE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/pass-the-monster-meat-milady/": {
     "group": "PASS THE MONSTER MEAT, MILADY!",
     "last_season": 1,
@@ -99,24 +117,6 @@
     "group": "THE FATED MAGICAL PRINCESS: WHO MADE ME A PRINCESS",
     "last_season": 1,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/anime/hotel-inhumans/": {
-    "group": "HOTEL INHUMANS",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/one-piece/": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1145,
-    "start_episode": 1130
-  },
-  "/anime/city-the-animation/": {
-    "group": "CITY THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 13,
     "start_episode": 1
   }
 }

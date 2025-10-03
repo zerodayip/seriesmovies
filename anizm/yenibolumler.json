@@ -1,4 +1,16 @@
 {
+  "/catseye": {
+    "group": "CAT'S♥EYE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/fermat-no-ryouri": {
+    "group": "FERMAT NO RYOURI",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/dekin-no-mogura": {
     "group": "DEKIN NO MOGURA",
     "last_season": 1,
@@ -57,18 +69,6 @@
     "group": "LUO XIAOHEI ZHANJI",
     "last_season": 1,
     "last_episode": 8.5,
-    "start_episode": 1
-  },
-  "/kakuriyo-no-yadomeshi-ni": {
-    "group": "KAKURIYO NO YADOMESHI NI",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/lets-play-quest-darake-no-my-life": {
-    "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }
