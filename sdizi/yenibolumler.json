@@ -1,4 +1,10 @@
 {
+  "/diziler/monster-the-ed-gein-story.html": {
+    "group": "MONSTER: THE ED GEIN STORY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/the-murky-stream.html": {
     "group": "THE MURKY STREAM",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "THE SUMMER HIKARU DIED",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/task.html": {
-    "group": "TASK",
-    "last_season": 1,
-    "last_episode": 4,
     "start_episode": 1
   }
 }

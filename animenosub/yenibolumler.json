@@ -1,4 +1,16 @@
 {
+  "/anime/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge/": {
+    "group": "MY GIFT LVL 9999 UNLIMITED GACHA: BACKSTABBED IN A BACKWATER DUNGEON, I’M OUT FOR REVENGE!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/potion-wagami-wo-tasukeru/": {
+    "group": "POTION, WAGAMI WO TASUKERU",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/sanda/": {
     "group": "SANDA",
     "last_season": 1,
@@ -7,12 +19,6 @@
   },
   "/anime/may-i-ask-for-one-final-thing/": {
     "group": "MAY I ASK FOR ONE FINAL THING?",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge/": {
-    "group": "MY GIFT LVL 9999 UNLIMITED GACHA: BACKSTABBED IN A BACKWATER DUNGEON, I’M OUT FOR REVENGE!",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
@@ -31,12 +37,6 @@
   },
   "/anime/pass-the-monster-meat-milady/": {
     "group": "PASS THE MONSTER MEAT, MILADY!",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/potion-wagami-wo-tasukeru/": {
-    "group": "POTION, WAGAMI WO TASUKERU",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
