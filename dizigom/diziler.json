@@ -2402,7 +2402,7 @@
   "/dizi-izle/peacemaker/": {
     "group": "PEACEMAKER",
     "last_season": 2,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/the-pacific/": {
@@ -20420,7 +20420,7 @@
   "/dizi-izle/reasonable-doubt/": {
     "group": "REASONABLE DOUBT",
     "last_season": 3,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi-izle/deputy/": {
@@ -23030,7 +23030,7 @@
   "/dizi-izle/invasion/": {
     "group": "INVASION",
     "last_season": 3,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/if-only/": {
@@ -27542,7 +27542,7 @@
   "/dizi-izle/the-heritage/": {
     "group": "THE HERITAGE (SCHEDA)",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/kpopped/": {
@@ -27764,7 +27764,7 @@
   "/dizi-izle/the-murky-stream": {
     "group": "THE MURKY STREAM",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/wayward": {
@@ -27812,7 +27812,7 @@
   "/dizi-izle/genie-make-a-wish": {
     "group": "GENIE, MAKE A WISH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   }
 }
