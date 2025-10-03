@@ -1,4 +1,16 @@
 {
+  "/dekin-no-mogura": {
+    "group": "DEKIN NO MOGURA",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/watashi-wo-tabetai-hitodenashi": {
+    "group": "WATASHI WO TABETAI, HITODENASHI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/potion-wagami-wo-tasukeru": {
     "group": "POTION, WAGAMI WO TASUKERU",
     "last_season": 1,
@@ -35,12 +47,6 @@
     "last_episode": 1.0,
     "start_episode": 1
   },
-  "/dekin-no-mogura": {
-    "group": "DEKIN NO MOGURA",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
   "/uma-musume-cinderella-gray": {
     "group": "UMA MUSUME: CINDERELLA GRAY",
     "last_season": 1,
@@ -56,25 +62,13 @@
   "/kakuriyo-no-yadomeshi-ni": {
     "group": "KAKURIYO NO YADOMESHI NI",
     "last_season": 1,
-    "last_episode": 1.0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/lets-play-quest-darake-no-my-life": {
     "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
     "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
-    "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/urusei-yatsura": {
-    "group": "URUSEI YATSURA",
-    "last_season": 1,
-    "last_episode": 70.0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
