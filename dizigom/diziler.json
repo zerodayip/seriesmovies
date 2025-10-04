@@ -27814,5 +27814,23 @@
     "last_season": 1,
     "last_episode": 13,
     "start_episode": 1
+  },
+  "/dizi-izle/old-dog-new-tricks": {
+    "group": "OLD DOG, NEW TRICKS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/monster-the-ed-gein-story": {
+    "group": "MONSTER: THE ED GEIN STORY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-new-force-skiftet": {
+    "group": "THE NEW FORCE (SKIFTET)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

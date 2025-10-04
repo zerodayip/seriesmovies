@@ -1,8 +1,8 @@
 {
-  "/dizi-izle/reasonable-doubt/": {
-    "group": "REASONABLE DOUBT",
-    "last_season": 3,
-    "last_episode": 4,
+  "/dizi-izle/genie-make-a-wish": {
+    "group": "GENIE, MAKE A WISH",
+    "last_season": 1,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/dizi-izle/dudes": {
@@ -11,22 +11,16 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/riv4lries": {
-    "group": "RIV4LRIES",
+  "/dizi-izle/the-murky-stream": {
+    "group": "THE MURKY STREAM",
     "last_season": 1,
-    "last_episode": 14,
+    "last_episode": 5,
     "start_episode": 1
   },
-  "/dizi-izle/invasion/": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-twisted-tale-of-amanda-knox/": {
-    "group": "THE TWISTED TALE OF AMANDA KNOX",
+  "/dizi-izle/old-dog-new-tricks": {
+    "group": "OLD DOG, NEW TRICKS",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/dizi-izle/the-heritage/": {
@@ -35,28 +29,16 @@
     "last_episode": 7,
     "start_episode": 1
   },
-  "/dizi-izle/genie-make-a-wish": {
-    "group": "GENIE, MAKE A WISH",
+  "/dizi-izle/monster-the-ed-gein-story": {
+    "group": "MONSTER: THE ED GEIN STORY",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi-izle/the-murky-stream": {
-    "group": "THE MURKY STREAM",
+  "/dizi-izle/the-new-force-skiftet": {
+    "group": "THE NEW FORCE (SKIFTET)",
     "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/peacemaker/": {
-    "group": "PEACEMAKER",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/tempest/": {
-    "group": "TEMPEST",
-    "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 0,
     "start_episode": 1
   }
 }

@@ -15946,5 +15946,11 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/diziler/genie-make-a-wish.html": {
+    "group": "GENIE, MAKE A WISH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
