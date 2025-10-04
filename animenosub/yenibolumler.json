@@ -1,4 +1,46 @@
 {
+  "/anime/my-hero-academia-final-season/": {
+    "group": "MY HERO ACADEMIA FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/tojima-wants-to-be-a-kamen-rider/": {
+    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/touring-after-the-apocalypse/": {
+    "group": "TOURING AFTER THE APOCALYPSE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/let-this-grieving-soul-retire-cour-2/": {
+    "group": "LET THIS GRIEVING SOUL RETIRE COUR 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/the-banished-court-magician-aims-to-become-the-strongest/": {
+    "group": "THE BANISHED COURT MAGICIAN AIMS TO BECOME THE STRONGEST",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/tales-of-wedding-rings-season-2/": {
+    "group": "TALES OF WEDDING RINGS SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/inexpressive-kashiwada-and-expressive-oota/": {
+    "group": "INEXPRESSIVE KASHIWADA AND EXPRESSIVE OOTA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/sanda/": {
     "group": "SANDA",
     "last_season": 1,
@@ -75,48 +117,6 @@
     "group": "THIS MONSTER WANTS TO EAT ME",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/my-awkward-senpai/": {
-    "group": "MY AWKWARD SENPAI",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/kakuriyo-bed-and-breakfast-for-spirits-season-2/": {
-    "group": "KAKURIYO: BED AND BREAKFAST FOR SPIRITS SEASON 2",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/lets-play/": {
-    "group": "LET’S PLAY",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/hero-without-a-class-who-even-needs-skills/": {
-    "group": "HERO WITHOUT A CLASS: WHO EVEN NEEDS SKILLS?!",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/mr-osomatsu-4th-season/": {
-    "group": "MR. OSOMATSU 4TH SEASON",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/yano-kuns-ordinary-days/": {
-    "group": "YANO-KUN’S ORDINARY DAYS",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/nukitashi-the-animation-uncensored/": {
-    "group": "NUKITASHI THE ANIMATION (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }

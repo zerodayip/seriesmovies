@@ -1,20 +1,8 @@
 {
-  "/dizi-izle/the-new-force-skiftet": {
-    "group": "THE NEW FORCE (SKIFTET)",
+  "/dizi-izle/the-murky-stream": {
+    "group": "THE MURKY STREAM",
     "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-heritage/": {
-    "group": "THE HERITAGE (SCHEDA)",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/genie-make-a-wish": {
-    "group": "GENIE, MAKE A WISH",
-    "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/monster-the-ed-gein-story": {
@@ -23,10 +11,22 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/the-murky-stream": {
-    "group": "THE MURKY STREAM",
+  "/dizi-izle/the-new-force-skiftet": {
+    "group": "THE NEW FORCE (SKIFTET)",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/genie-make-a-wish": {
+    "group": "GENIE, MAKE A WISH",
+    "last_season": 1,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/dizi-izle/dudes": {
+    "group": "DUDES",
+    "last_season": 1,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/old-dog-new-tricks": {
@@ -35,10 +35,10 @@
     "last_episode": 9,
     "start_episode": 1
   },
-  "/dizi-izle/dudes": {
-    "group": "DUDES",
+  "/dizi-izle/the-heritage/": {
+    "group": "THE HERITAGE (SCHEDA)",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 7,
     "start_episode": 1
   }
 }
