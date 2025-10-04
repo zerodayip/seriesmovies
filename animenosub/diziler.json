@@ -586,5 +586,17 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/anime/ranma-%c2%bd-2024-2nd-season/": {
+    "group": "RANMA ½ (2024) 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/kingdom-season-6/": {
+    "group": "KINGDOM: SEASON 6",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

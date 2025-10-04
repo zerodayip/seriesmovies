@@ -1,4 +1,34 @@
 {
+  "/fumetsu-no-anata-e-season-3": {
+    "group": "FUMETSU NO ANATA E SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/ranma--2024-2nd-season": {
+    "group": "RANMA ½ (2024) 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun": {
+    "group": "KAO NI DENAI KASHIWADA-SAN TO KAO NI DERU OOTA-KUN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/spy-x-family-season-3": {
+    "group": "SPY X FAMILY SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/yasei-no-last-boss-ga-arawareta": {
+    "group": "YASEI NO LAST BOSS GA ARAWARETA!",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/kekkon-yubiwa-monogatari-ii": {
     "group": "KEKKON YUBIWA MONOGATARI II",
     "last_season": 1,
@@ -67,36 +97,6 @@
   },
   "/watashi-wo-tabetai-hitodenashi": {
     "group": "WATASHI WO TABETAI, HITODENASHI",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/potion-wagami-wo-tasukeru": {
-    "group": "POTION, WAGAMI WO TASUKERU",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/futari-solo-camp": {
-    "group": "FUTARI SOLO CAMP",
-    "last_season": 1,
-    "last_episode": 13.0,
-    "start_episode": 1
-  },
-  "/akujiki-reijou-to-kyouketsu-koushaku": {
-    "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/towa-no-yuugure": {
-    "group": "TOWA NO YUUGURE",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/taiyou-yori-mo-mabushii-hoshi": {
-    "group": "TAIYOU YORI MO MABUSHII HOSHI",
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1

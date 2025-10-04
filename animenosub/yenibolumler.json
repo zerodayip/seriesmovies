@@ -1,8 +1,20 @@
 {
-  "/anime/the-banished-court-magician-aims-to-become-the-strongest/": {
-    "group": "THE BANISHED COURT MAGICIAN AIMS TO BECOME THE STRONGEST",
+  "/anime/my-friends-little-sister-has-it-in-for-me/": {
+    "group": "MY FRIEND’S LITTLE SISTER HAS IT IN FOR ME!",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/ranma-%c2%bd-2024-2nd-season/": {
+    "group": "RANMA ½ (2024) 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/tojima-wants-to-be-a-kamen-rider/": {
+    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/anime/secrets-of-the-silent-witch/": {
@@ -11,14 +23,32 @@
     "last_episode": 12,
     "start_episode": 1
   },
+  "/anime/kingdom-season-6/": {
+    "group": "KINGDOM: SEASON 6",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/touring-after-the-apocalypse/": {
     "group": "TOURING AFTER THE APOCALYPSE",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
+  "/anime/to-your-eternity-season-3/": {
+    "group": "TO YOUR ETERNITY SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/let-this-grieving-soul-retire-cour-2/": {
     "group": "LET THIS GRIEVING SOUL RETIRE COUR 2",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/the-banished-court-magician-aims-to-become-the-strongest/": {
+    "group": "THE BANISHED COURT MAGICIAN AIMS TO BECOME THE STRONGEST",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
@@ -51,12 +81,6 @@
     "group": "MY HERO ACADEMIA FINAL SEASON",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/tojima-wants-to-be-a-kamen-rider/": {
-    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   },
   "/anime/sanda/": {
@@ -93,30 +117,6 @@
     "group": "MY GIFT LVL 9999 UNLIMITED GACHA: BACKSTABBED IN A BACKWATER DUNGEON, I’M OUT FOR REVENGE!",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/potion-wagami-wo-tasukeru/": {
-    "group": "POTION, WAGAMI WO TASUKERU",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/cats-eye/": {
-    "group": "CAT’S EYE",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/pass-the-monster-meat-milady/": {
-    "group": "PASS THE MONSTER MEAT, MILADY!",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/solo-camping-for-two/": {
-    "group": "SOLO CAMPING FOR TWO",
-    "last_season": 1,
-    "last_episode": 13,
     "start_episode": 1
   }
 }
