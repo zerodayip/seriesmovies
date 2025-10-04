@@ -158,7 +158,7 @@
   "/watari-kun-no-xx-ga-houkai-sunzen": {
     "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 14.0,
     "start_episode": 1
   },
   "/yofukashi-no-uta-2nd-season": {
@@ -746,13 +746,13 @@
   "/kekkon-yubiwa-monogatari-ii": {
     "group": "KEKKON YUBIWA MONOGATARI II",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/boku-no-hero-academia-final-season": {
     "group": "BOKU NO HERO ACADEMIA: FINAL SEASON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   }
 }

@@ -410,7 +410,7 @@
   "/anime/spy-x-family-season-3/": {
     "group": "SPY X FAMILY SEASON 3",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/one-punch-man-season-3/": {
@@ -458,7 +458,7 @@
   "/anime/a-wild-last-boss-appeared/": {
     "group": "A WILD LAST BOSS APPEARED!",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/anime/cats-eye/": {
@@ -560,13 +560,13 @@
   "/anime/let-this-grieving-soul-retire-cour-2/": {
     "group": "LET THIS GRIEVING SOUL RETIRE COUR 2",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/the-banished-court-magician-aims-to-become-the-strongest/": {
     "group": "THE BANISHED COURT MAGICIAN AIMS TO BECOME THE STRONGEST",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/tales-of-wedding-rings-season-2/": {
@@ -578,13 +578,13 @@
   "/anime/inexpressive-kashiwada-and-expressive-oota/": {
     "group": "INEXPRESSIVE KASHIWADA AND EXPRESSIVE OOTA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/tales-of-wedding-rings-season-2-uncensored/": {
     "group": "TALES OF WEDDING RINGS SEASON 2 (UNCENSORED)",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
