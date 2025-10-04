@@ -1,14 +1,14 @@
 {
-  "/anime/my-hero-academia-final-season/": {
-    "group": "MY HERO ACADEMIA FINAL SEASON",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/tojima-wants-to-be-a-kamen-rider/": {
-    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
+  "/anime/the-banished-court-magician-aims-to-become-the-strongest/": {
+    "group": "THE BANISHED COURT MAGICIAN AIMS TO BECOME THE STRONGEST",
     "last_season": 1,
     "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/secrets-of-the-silent-witch/": {
+    "group": "SECRETS OF THE SILENT WITCH",
+    "last_season": 1,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/anime/touring-after-the-apocalypse/": {
@@ -23,20 +23,38 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "/anime/the-banished-court-magician-aims-to-become-the-strongest/": {
-    "group": "THE BANISHED COURT MAGICIAN AIMS TO BECOME THE STRONGEST",
+  "/anime/spy-x-family-season-3/": {
+    "group": "SPY X FAMILY SEASON 3",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/anime/tales-of-wedding-rings-season-2/": {
-    "group": "TALES OF WEDDING RINGS SEASON 2",
+  "/anime/a-wild-last-boss-appeared/": {
+    "group": "A WILD LAST BOSS APPEARED!",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/tales-of-wedding-rings-season-2-uncensored/": {
+    "group": "TALES OF WEDDING RINGS SEASON 2 (UNCENSORED)",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
   "/anime/inexpressive-kashiwada-and-expressive-oota/": {
     "group": "INEXPRESSIVE KASHIWADA AND EXPRESSIVE OOTA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-hero-academia-final-season/": {
+    "group": "MY HERO ACADEMIA FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/tojima-wants-to-be-a-kamen-rider/": {
+    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
@@ -99,24 +117,6 @@
     "group": "SOLO CAMPING FOR TWO",
     "last_season": 1,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/dusk-beyond-the-end-of-the-world/": {
-    "group": "DUSK BEYOND THE END OF THE WORLD",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/a-star-brighter-than-the-sun/": {
-    "group": "A STAR BRIGHTER THAN THE SUN",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/this-monster-wants-to-eat-me/": {
-    "group": "THIS MONSTER WANTS TO EAT ME",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

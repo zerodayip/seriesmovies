@@ -1,4 +1,22 @@
 {
+  "/kekkon-yubiwa-monogatari-ii": {
+    "group": "KEKKON YUBIWA MONOGATARI II",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/boku-no-hero-academia-final-season": {
+    "group": "BOKU NO HERO ACADEMIA: FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/watari-kun-no-xx-ga-houkai-sunzen": {
+    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
+    "last_season": 1,
+    "last_episode": 13,
+    "start_episode": 1
+  },
   "/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka": {
     "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
     "last_season": 1,
@@ -81,18 +99,6 @@
     "group": "TAIYOU YORI MO MABUSHII HOSHI",
     "last_season": 1,
     "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/bukiyou-na-senpai": {
-    "group": "BUKIYOU NA SENPAI.",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/uma-musume-cinderella-gray": {
-    "group": "UMA MUSUME: CINDERELLA GRAY",
-    "last_season": 1,
-    "last_episode": 13.0,
     "start_episode": 1
   }
 }
