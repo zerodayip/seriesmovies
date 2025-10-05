@@ -578,7 +578,7 @@
   "/necronomico-no-cosmic-horror-show": {
     "group": "NECRONOMICO NO COSMIC HORROR SHOW",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3.0,
     "start_episode": 1
   },
   "/karaoke-iko": {
@@ -806,7 +806,7 @@
   "/uma-musume-cinderella-gray-part-2": {
     "group": "UMA MUSUME: CINDERELLA GRAY PART 2",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   }
 }
