@@ -1,4 +1,58 @@
 {
+  "/anime/blue-orchestra-season-2/": {
+    "group": "BLUE ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/hands-off-sawaranaide-kotesashi-kun/": {
+    "group": "HANDS OFF: SAWARANAIDE KOTESASHI-KUN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator/": {
+    "group": "DAD IS A HERO, MOM IS A SPIRIT, I’M A REINCARNATOR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/alma-chan-wants-to-be-a-family/": {
+    "group": "ALMA-CHAN WANTS TO BE A FAMILY!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/mechanical-marie/": {
+    "group": "MECHANICAL MARIE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/witch-watch/": {
+    "group": "WITCH WATCH",
+    "last_season": 1,
+    "last_episode": 24,
+    "start_episode": 1
+  },
+  "/anime/umamusume-cinderella-gray-part-2/": {
+    "group": "UMAMUSUME: CINDERELLA GRAY PART 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/digimon-beatbreak/": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/kingdom-season-6/": {
+    "group": "KINGDOM: SEASON 6",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/my-friends-little-sister-has-it-in-for-me/": {
     "group": "MY FRIEND’S LITTLE SISTER HAS IT IN FOR ME!",
     "last_season": 1,
@@ -21,12 +75,6 @@
     "group": "SECRETS OF THE SILENT WITCH",
     "last_season": 1,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/kingdom-season-6/": {
-    "group": "KINGDOM: SEASON 6",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   },
   "/anime/touring-after-the-apocalypse/": {
@@ -67,54 +115,6 @@
   },
   "/anime/tales-of-wedding-rings-season-2-uncensored/": {
     "group": "TALES OF WEDDING RINGS SEASON 2 (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/inexpressive-kashiwada-and-expressive-oota/": {
-    "group": "INEXPRESSIVE KASHIWADA AND EXPRESSIVE OOTA",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/my-hero-academia-final-season/": {
-    "group": "MY HERO ACADEMIA FINAL SEASON",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/sanda/": {
-    "group": "SANDA",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/may-i-ask-for-one-final-thing/": {
-    "group": "MAY I ASK FOR ONE FINAL THING?",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/watari-kuns-is-about-to-collapse/": {
-    "group": "WATARI-KUN’S ****** IS ABOUT TO COLLAPSE",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "/anime/shabake/": {
-    "group": "SHABAKE",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/tougen-anki/": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge/": {
-    "group": "MY GIFT LVL 9999 UNLIMITED GACHA: BACKSTABBED IN A BACKWATER DUNGEON, I’M OUT FOR REVENGE!",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1

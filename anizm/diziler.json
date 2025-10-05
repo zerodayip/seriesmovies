@@ -790,5 +790,17 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/si-vis-the-sound-of-heroes": {
+    "group": "SI-VIS: THE SOUND OF HEROES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/nageki-no-bourei-wa-intai-shitai-part-2": {
+    "group": "NAGEKI NO BOUREI WA INTAI SHITAI PART 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

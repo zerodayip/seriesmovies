@@ -1,4 +1,22 @@
 {
+  "/si-vis-the-sound-of-heroes": {
+    "group": "SI-VIS: THE SOUND OF HEROES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/nageki-no-bourei-wa-intai-shitai-part-2": {
+    "group": "NAGEKI NO BOUREI WA INTAI SHITAI PART 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/witch-watch": {
+    "group": "WITCH WATCH",
+    "last_season": 1,
+    "last_episode": 24,
+    "start_episode": 1
+  },
   "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
     "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
     "last_season": 1,
@@ -81,24 +99,6 @@
     "group": "TOUGEN ANKI",
     "last_season": 1,
     "last_episode": 13.0,
-    "start_episode": 1
-  },
-  "/yuzuki-san-chi-no-yonkyoudai": {
-    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/catseye": {
-    "group": "CAT'S♥EYE",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/fermat-no-ryouri": {
-    "group": "FERMAT NO RYOURI",
-    "last_season": 1,
-    "last_episode": 12.0,
     "start_episode": 1
   }
 }

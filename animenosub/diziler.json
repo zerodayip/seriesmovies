@@ -598,5 +598,47 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/blue-orchestra-season-2/": {
+    "group": "BLUE ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/hands-off-sawaranaide-kotesashi-kun/": {
+    "group": "HANDS OFF: SAWARANAIDE KOTESASHI-KUN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator/": {
+    "group": "DAD IS A HERO, MOM IS A SPIRIT, I’M A REINCARNATOR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/alma-chan-wants-to-be-a-family/": {
+    "group": "ALMA-CHAN WANTS TO BE A FAMILY!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/mechanical-marie/": {
+    "group": "MECHANICAL MARIE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/umamusume-cinderella-gray-part-2/": {
+    "group": "UMAMUSUME: CINDERELLA GRAY PART 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/digimon-beatbreak/": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
