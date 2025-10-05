@@ -62,7 +62,7 @@
   "/anime/witch-watch/": {
     "group": "WITCH WATCH",
     "last_season": 1,
-    "last_episode": 24,
+    "last_episode": 25,
     "start_episode": 1
   },
   "/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle/": {
@@ -596,7 +596,7 @@
   "/anime/kingdom-season-6/": {
     "group": "KINGDOM: SEASON 6",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/blue-orchestra-season-2/": {
@@ -632,13 +632,13 @@
   "/anime/umamusume-cinderella-gray-part-2/": {
     "group": "UMAMUSUME: CINDERELLA GRAY PART 2",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/digimon-beatbreak/": {
     "group": "DIGIMON BEATBREAK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
