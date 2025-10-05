@@ -1,14 +1,20 @@
 {
-  "/diziler/to-your-eternity.html": {
-    "group": "TO YOUR ETERNITY",
-    "last_season": 3,
-    "last_episode": 1,
-    "start_episode": 1
-  },
   "/diziler/confidence-queen.html": {
     "group": "CONFIDENCE QUEEN",
     "last_season": 1,
     "last_episode": 9,
+    "start_episode": 1
+  },
+  "/diziler/gachiakuta.html": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/diziler/to-your-eternity.html": {
+    "group": "TO YOUR ETERNITY",
+    "last_season": 3,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/spy-x-family.html": {
@@ -75,18 +81,6 @@
     "group": "PLATONIC",
     "last_season": 2,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/the-twisted-tale-of-amanda-knox.html": {
-    "group": "THE TWISTED TALE OF AMANDA KNOX",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/tempest.html": {
-    "group": "TEMPEST",
-    "last_season": 1,
-    "last_episode": 9,
     "start_episode": 1
   }
 }
