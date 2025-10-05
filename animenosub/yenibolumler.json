@@ -1,14 +1,8 @@
 {
-  "/anime/blue-orchestra-season-2/": {
-    "group": "BLUE ORCHESTRA SEASON 2",
+  "/anime/gachiakuta/": {
+    "group": "GACHIAKUTA",
     "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/hands-off-sawaranaide-kotesashi-kun/": {
-    "group": "HANDS OFF: SAWARANAIDE KOTESASHI-KUN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/anime/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator/": {
@@ -29,16 +23,28 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "/anime/witch-watch/": {
-    "group": "WITCH WATCH",
-    "last_season": 1,
-    "last_episode": 25,
-    "start_episode": 1
-  },
   "/anime/umamusume-cinderella-gray-part-2/": {
     "group": "UMAMUSUME: CINDERELLA GRAY PART 2",
     "last_season": 1,
     "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/blue-orchestra-season-2/": {
+    "group": "BLUE ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/hands-off-sawaranaide-kotesashi-kun/": {
+    "group": "HANDS OFF: SAWARANAIDE KOTESASHI-KUN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/witch-watch/": {
+    "group": "WITCH WATCH",
+    "last_season": 1,
+    "last_episode": 25,
     "start_episode": 1
   },
   "/anime/digimon-beatbreak/": {
@@ -111,12 +117,6 @@
     "group": "A WILD LAST BOSS APPEARED!",
     "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/tales-of-wedding-rings-season-2-uncensored/": {
-    "group": "TALES OF WEDDING RINGS SEASON 2 (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

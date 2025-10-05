@@ -1,4 +1,16 @@
 {
+  "/uma-musume-cinderella-gray-part-2": {
+    "group": "UMA MUSUME: CINDERELLA GRAY PART 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/necronomico-no-cosmic-horror-show": {
+    "group": "NECRONOMICO NO COSMIC HORROR SHOW",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/si-vis-the-sound-of-heroes": {
     "group": "SI-VIS: THE SOUND OF HEROES",
     "last_season": 1,
@@ -87,18 +99,6 @@
     "group": "SANDA",
     "last_season": 1,
     "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu--zamaa-shimasu": {
-    "group": "SHINJITEITA NAKAMA-TACHI NI DUNGEON OKUCHI DE KOROSAREKAKETA GA GIFT \"MUGEN GACHA\" DE LEVEL 9999 NO NAKAMA-TACHI WO TE NI IRETE MOTO PARTY MEMBER TO SEKAI NI FUKUSHUU & \"ZAMAA!\" SHIMASU!",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/tougen-anki": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 13.0,
     "start_episode": 1
   }
 }

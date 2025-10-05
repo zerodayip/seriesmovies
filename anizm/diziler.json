@@ -802,5 +802,11 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/uma-musume-cinderella-gray-part-2": {
+    "group": "UMA MUSUME: CINDERELLA GRAY PART 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
