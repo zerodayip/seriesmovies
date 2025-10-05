@@ -314,7 +314,7 @@
   "/gachiakuta": {
     "group": "GACHIAKUTA",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 13.0,
     "start_episode": 1
   },
   "/city-the-animation": {
@@ -650,7 +650,7 @@
   "/mofa-gongzhu-de-xiao-fannao": {
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 4.0,
     "start_episode": 1
   },
   "/sozai-saishuka-no-isekai-ryokouki": {
@@ -812,13 +812,13 @@
   "/kikaijikake-no-marie": {
     "group": "KIKAIJIKAKE NO MARIE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/kingdom-6th-season": {
     "group": "KINGDOM 6TH SEASON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/one-punch-man-3": {
@@ -830,13 +830,13 @@
   "/digimon-beatbreak": {
     "group": "DIGIMON BEATBREAK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha": {
     "group": "CHICHI WA EIYUU, HAHA WA SEIREI, MUSUME NO WATASHI WA TENSEISHA.",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   }
 }
