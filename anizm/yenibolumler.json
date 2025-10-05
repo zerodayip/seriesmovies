@@ -1,4 +1,16 @@
 {
+  "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
+    "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu": {
+    "group": "MIKATA GA YOWASUGITE HOJO MAHOU NI TESSHITEITA KYUUTEI MAHOUSHI, TSUIHOU SARETE SAIKYOU WO MEZASHIMASU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/fumetsu-no-anata-e-season-3": {
     "group": "FUMETSU NO ANATA E SEASON 3",
     "last_season": 1,
@@ -87,18 +99,6 @@
     "group": "FERMAT NO RYOURI",
     "last_season": 1,
     "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/dekin-no-mogura": {
-    "group": "DEKIN NO MOGURA",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/watashi-wo-tabetai-hitodenashi": {
-    "group": "WATASHI WO TABETAI, HITODENASHI",
-    "last_season": 1,
-    "last_episode": 1.0,
     "start_episode": 1
   }
 }

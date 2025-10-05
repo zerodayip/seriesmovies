@@ -1,4 +1,10 @@
 {
+  "/diziler/to-your-eternity.html": {
+    "group": "TO YOUR ETERNITY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/confidence-queen.html": {
     "group": "CONFIDENCE QUEEN",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "TEMPEST",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/slow-horses.html": {
-    "group": "SLOW HORSES",
-    "last_season": 5,
-    "last_episode": 2,
     "start_episode": 1
   }
 }
