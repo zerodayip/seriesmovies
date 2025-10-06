@@ -1,4 +1,16 @@
 {
+  "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
+    "group": "ANSATSUSHA DE ARU ORE NO STATUS GA YUUSHA YORI MO AKIRAKA NI TSUYOI NO DA GA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/sozai-saishuka-no-isekai-ryokouki": {
+    "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/shuumatsu-touring": {
     "group": "SHUUMATSU TOURING",
     "last_season": 1,
@@ -91,18 +103,6 @@
   },
   "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
     "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu": {
-    "group": "MIKATA GA YOWASUGITE HOJO MAHOU NI TESSHITEITA KYUUTEI MAHOUSHI, TSUIHOU SARETE SAIKYOU WO MEZASHIMASU",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/fumetsu-no-anata-e-season-3": {
-    "group": "FUMETSU NO ANATA E SEASON 3",
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
