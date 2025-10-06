@@ -838,5 +838,11 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/sawaranaide-kotesashi-kun": {
+    "group": "SAWARANAIDE KOTESASHI-KUN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

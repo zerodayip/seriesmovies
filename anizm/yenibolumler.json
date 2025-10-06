@@ -1,4 +1,10 @@
 {
+  "/sawaranaide-kotesashi-kun": {
+    "group": "SAWARANAIDE KOTESASHI-KUN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/kikaijikake-no-marie": {
     "group": "KIKAIJIKAKE NO MARIE",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun": {
     "group": "KAO NI DENAI KASHIWADA-SAN TO KAO NI DERU OOTA-KUN",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/spy-x-family-season-3": {
-    "group": "SPY X FAMILY SEASON 3",
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
