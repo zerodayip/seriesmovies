@@ -15952,5 +15952,11 @@
     "last_season": 1,
     "last_episode": 13,
     "start_episode": 1
+  },
+  "/diziler/boston-legal.html": {
+    "group": "BOSTON LEGAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

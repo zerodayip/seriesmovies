@@ -850,5 +850,11 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/shuumatsu-touring": {
+    "group": "SHUUMATSU TOURING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

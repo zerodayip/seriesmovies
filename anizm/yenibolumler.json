@@ -1,4 +1,10 @@
 {
+  "/shuumatsu-touring": {
+    "group": "SHUUMATSU TOURING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/alma-chan-wa-kazoku-ni-naritai": {
     "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/fumetsu-no-anata-e-season-3": {
     "group": "FUMETSU NO ANATA E SEASON 3",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/ranma--2024-2nd-season": {
-    "group": "RANMA ½ (2024) 2ND SEASON",
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1

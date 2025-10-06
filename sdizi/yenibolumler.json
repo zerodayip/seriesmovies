@@ -1,4 +1,10 @@
 {
+  "/diziler/boston-legal.html": {
+    "group": "BOSTON LEGAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/task.html": {
     "group": "TASK",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "PEACEMAKER",
     "last_season": 2,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/star-wars-clone-wars-2003.html": {
-    "group": "STAR WARS: CLONE WARS 2003",
-    "last_season": 3,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
