@@ -6535,8 +6535,8 @@
   },
   "/diziler/smiling-friends.html": {
     "group": "SMILING FRIENDS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/the-amazing-world-of-gumball.html": {
@@ -7370,7 +7370,7 @@
   "/diziler/only-murders-in-the-building.html": {
     "group": "ONLY MURDERS IN THE BUILDING",
     "last_season": 5,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/our-zoo.html": {
@@ -15932,7 +15932,7 @@
   "/diziler/chad-powers.html": {
     "group": "CHAD POWERS",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/star-wars-clone-wars-2003.html": {
