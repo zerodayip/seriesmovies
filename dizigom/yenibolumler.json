@@ -5,18 +5,6 @@
     "last_episode": 7,
     "start_episode": 1
   },
-  "/dizi-izle/old-dog-new-tricks": {
-    "group": "OLD DOG, NEW TRICKS",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-new-force-skiftet": {
-    "group": "THE NEW FORCE (SKIFTET)",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
   "/dizi-izle/the-murky-stream": {
     "group": "THE MURKY STREAM",
     "last_season": 1,
@@ -29,16 +17,28 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/genie-make-a-wish": {
-    "group": "GENIE, MAKE A WISH",
+  "/dizi-izle/old-dog-new-tricks": {
+    "group": "OLD DOG, NEW TRICKS",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-new-force-skiftet": {
+    "group": "THE NEW FORCE (SKIFTET)",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/dizi-izle/confidence-queen/": {
     "group": "CONFIDENCE QUEEN",
     "last_season": 1,
     "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/genie-make-a-wish": {
+    "group": "GENIE, MAKE A WISH",
+    "last_season": 1,
+    "last_episode": 13,
     "start_episode": 1
   }
 }

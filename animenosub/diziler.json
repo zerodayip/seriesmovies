@@ -664,5 +664,17 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/anime/chitose-is-in-the-ramune-bottle/": {
+    "group": "CHITOSE IS IN THE RAMUNE BOTTLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/ninja-vs-gokudo/": {
+    "group": "NINJA VS. GOKUDO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

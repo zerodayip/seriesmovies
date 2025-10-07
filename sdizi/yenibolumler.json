@@ -1,4 +1,22 @@
 {
+  "/diziler/chad-powers.html": {
+    "group": "CHAD POWERS",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/diziler/only-murders-in-the-building.html": {
+    "group": "ONLY MURDERS IN THE BUILDING",
+    "last_season": 5,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/smiling-friends.html": {
+    "group": "SMILING FRIENDS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/boston-legal.html": {
     "group": "BOSTON LEGAL",
     "last_season": 5,
@@ -63,24 +81,6 @@
     "group": "THE MURKY STREAM",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/cats-eye.html": {
-    "group": "CAT'S EYE",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/invasion.html": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/peacemaker.html": {
-    "group": "PEACEMAKER",
-    "last_season": 2,
-    "last_episode": 7,
     "start_episode": 1
   }
 }

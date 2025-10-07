@@ -1,4 +1,16 @@
 {
+  "/anime/chitose-is-in-the-ramune-bottle/": {
+    "group": "CHITOSE IS IN THE RAMUNE BOTTLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/ninja-vs-gokudo/": {
+    "group": "NINJA VS. GOKUDO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
     "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
     "last_season": 1,
@@ -103,18 +115,6 @@
   },
   "/anime/my-friends-little-sister-has-it-in-for-me/": {
     "group": "MY FRIEND’S LITTLE SISTER HAS IT IN FOR ME!",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/ranma-%c2%bd-2024-2nd-season/": {
-    "group": "RANMA ½ (2024) 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/tojima-wants-to-be-a-kamen-rider/": {
-    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
