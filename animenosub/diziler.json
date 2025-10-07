@@ -440,13 +440,13 @@
   "/anime/campfire-cooking-in-another-world-with-my-absurd-skill-season-2/": {
     "group": "CAMPFIRE COOKING IN ANOTHER WORLD WITH MY ABSURD SKILL SEASON 2",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/yano-kuns-ordinary-days/": {
     "group": "YANO-KUN’S ORDINARY DAYS",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/anime/a-gatherers-adventure-in-isekai/": {
@@ -674,7 +674,7 @@
   "/anime/ninja-vs-gokudo/": {
     "group": "NINJA VS. GOKUDO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
