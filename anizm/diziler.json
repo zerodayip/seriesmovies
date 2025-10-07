@@ -868,5 +868,17 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/ninja-to-gokudou": {
+    "group": "NINJA TO GOKUDOU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/tondemo-skill-de-isekai-hourou-meshi-2": {
+    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
