@@ -862,5 +862,11 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/chitose-kun-wa-ramune-bin-no-naka": {
+    "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
