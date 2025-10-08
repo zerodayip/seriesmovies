@@ -1,4 +1,16 @@
 {
+  "/anime/hero-without-a-class-who-even-needs-skills/": {
+    "group": "HERO WITHOUT A CLASS: WHO EVEN NEEDS SKILLS?!",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/wandance/": {
+    "group": "WANDANCE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/yano-kuns-ordinary-days/": {
     "group": "YANO-KUN’S ORDINARY DAYS",
     "last_season": 1,
@@ -105,18 +117,6 @@
     "group": "BLUE ORCHESTRA SEASON 2",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/witch-watch/": {
-    "group": "WITCH WATCH",
-    "last_season": 1,
-    "last_episode": 25,
-    "start_episode": 1
-  },
-  "/anime/digimon-beatbreak/": {
-    "group": "DIGIMON BEATBREAK",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }
