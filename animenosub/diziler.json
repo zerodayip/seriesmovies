@@ -488,7 +488,7 @@
   "/anime/lets-play/": {
     "group": "LET’S PLAY",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/anime/the-fated-magical-princess-who-made-me-a-princess/": {
@@ -500,7 +500,7 @@
   "/anime/kakuriyo-bed-and-breakfast-for-spirits-season-2/": {
     "group": "KAKURIYO: BED AND BREAKFAST FOR SPIRITS SEASON 2",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/anime/pass-the-monster-meat-milady/": {
@@ -602,7 +602,7 @@
   "/anime/blue-orchestra-season-2/": {
     "group": "BLUE ORCHESTRA SEASON 2",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/hands-off-sawaranaide-kotesashi-kun/": {
@@ -686,7 +686,7 @@
   "/anime/the-dark-history-of-the-reincarnated-villainess/": {
     "group": "THE DARK HISTORY OF THE REINCARNATED VILLAINESS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }

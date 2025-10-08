@@ -680,7 +680,7 @@
   "/lets-play-quest-darake-no-my-life": {
     "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/luo-xiaohei-zhanji": {
@@ -884,13 +884,13 @@
   "/tensei-akujo-no-kuro-rekishi": {
     "group": "TENSEI AKUJO NO KURO REKISHI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/wandance": {
     "group": "WANDANCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   }
 }
