@@ -880,5 +880,17 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/tensei-akujo-no-kuro-rekishi": {
+    "group": "TENSEI AKUJO NO KURO REKISHI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/wandance": {
+    "group": "WANDANCE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

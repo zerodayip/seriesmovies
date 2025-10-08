@@ -1,8 +1,50 @@
 {
-  "/dizi-izle/the-murky-stream": {
-    "group": "THE MURKY STREAM",
+  "/dizi-izle/task/": {
+    "group": "TASK",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/old-dog-new-tricks": {
+    "group": "OLD DOG, NEW TRICKS",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/slow-horses/": {
+    "group": "SLOW HORSES",
+    "last_season": 5,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-morning-show/": {
+    "group": "THE MORNING SHOW",
+    "last_season": 4,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-heritage/": {
+    "group": "THE HERITAGE (SCHEDA)",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/chad-powers": {
+    "group": "CHAD POWERS",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi-izle/genie-make-a-wish": {
+    "group": "GENIE, MAKE A WISH",
+    "last_season": 1,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/dizi-izle/nro-the-assassin": {
+    "group": "NÉRO THE ASSASSIN",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/dizi-izle/monster-the-ed-gein-story": {
@@ -11,8 +53,20 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/the-new-force-skiftet": {
-    "group": "THE NEW FORCE (SKIFTET)",
+  "/dizi-izle/only-murders-in-the-building": {
+    "group": "ONLY MURDERS IN THE BUILDING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/true-haunting": {
+    "group": "TRUE HAUNTING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/gen-v": {
+    "group": "GEN V",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
@@ -23,22 +77,10 @@
     "last_episode": 10,
     "start_episode": 1
   },
-  "/dizi-izle/the-heritage/": {
-    "group": "THE HERITAGE (SCHEDA)",
+  "/dizi-izle/the-lost-station-girls": {
+    "group": "THE LOST STATION GIRLS",
     "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/old-dog-new-tricks": {
-    "group": "OLD DOG, NEW TRICKS",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi-izle/genie-make-a-wish": {
-    "group": "GENIE, MAKE A WISH",
-    "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 0,
     "start_episode": 1
   }
 }

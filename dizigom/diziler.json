@@ -27832,5 +27832,23 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi-izle/nro-the-assassin": {
+    "group": "NÉRO THE ASSASSIN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/true-haunting": {
+    "group": "TRUE HAUNTING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-lost-station-girls": {
+    "group": "THE LOST STATION GIRLS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
