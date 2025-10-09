@@ -1,4 +1,16 @@
 {
+  "/anime/this-monster-wants-to-eat-me/": {
+    "group": "THIS MONSTER WANTS TO EAT ME",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/my-awkward-senpai/": {
+    "group": "MY AWKWARD SENPAI",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/blue-orchestra-season-2/": {
     "group": "BLUE ORCHESTRA SEASON 2",
     "last_season": 1,
@@ -105,18 +117,6 @@
     "group": "ONE-PUNCH MAN SEASON 3",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/gachiakuta/": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator/": {
-    "group": "DAD IS A HERO, MOM IS A SPIRIT, I’M A REINCARNATOR",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

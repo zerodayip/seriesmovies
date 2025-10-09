@@ -1,4 +1,10 @@
 {
+  "/diziler/boots.html": {
+    "group": "BOOTS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/the-morning-show.html": {
     "group": "THE MORNING SHOW",
     "last_season": 4,
@@ -75,12 +81,6 @@
     "group": "POKEMON HORIZONS",
     "last_season": 2,
     "last_episode": 44,
-    "start_episode": 1
-  },
-  "/diziler/genie-make-a-wish.html": {
-    "group": "GENIE, MAKE A WISH",
-    "last_season": 1,
-    "last_episode": 13,
     "start_episode": 1
   }
 }

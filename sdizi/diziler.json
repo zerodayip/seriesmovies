@@ -15958,5 +15958,11 @@
     "last_season": 5,
     "last_episode": 13,
     "start_episode": 1
+  },
+  "/diziler/boots.html": {
+    "group": "BOOTS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
