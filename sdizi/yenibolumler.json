@@ -1,4 +1,10 @@
 {
+  "/diziler/high-potential.html": {
+    "group": "HIGH POTENTIAL",
+    "last_season": 1,
+    "last_episode": 13,
+    "start_episode": 1
+  },
   "/diziler/boots.html": {
     "group": "BOOTS",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "MY HERO ACADEMIA",
     "last_season": 8,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/diziler/pokemon-horizons.html": {
-    "group": "POKEMON HORIZONS",
-    "last_season": 2,
-    "last_episode": 44,
     "start_episode": 1
   }
 }
