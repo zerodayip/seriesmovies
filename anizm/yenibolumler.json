@@ -1,4 +1,10 @@
 {
+  "/ao-no-orchestra-season-2": {
+    "group": "AO NO ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/tensei-akujo-no-kuro-rekishi": {
     "group": "TENSEI AKUJO NO KURO REKISHI",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "KINGDOM 6TH SEASON",
     "last_season": 1,
     "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/one-punch-man-3": {
-    "group": "ONE PUNCH MAN 3",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }
