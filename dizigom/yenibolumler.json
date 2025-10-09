@@ -5,14 +5,14 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi-izle/confidence-queen/": {
-    "group": "CONFIDENCE QUEEN",
+  "/dizi-izle/old-dog-new-tricks": {
+    "group": "OLD DOG, NEW TRICKS",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 9,
     "start_episode": 1
   },
-  "/dizi-izle/gen-v": {
-    "group": "GEN V",
+  "/dizi-izle/only-murders-in-the-building": {
+    "group": "ONLY MURDERS IN THE BUILDING",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
@@ -23,22 +23,10 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/true-haunting": {
-    "group": "TRUE HAUNTING",
+  "/dizi-izle/chad-powers": {
+    "group": "CHAD POWERS",
     "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/slow-horses/": {
-    "group": "SLOW HORSES",
-    "last_season": 5,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-morning-show/": {
-    "group": "THE MORNING SHOW",
-    "last_season": 4,
-    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi-izle/the-lost-station-girls": {
@@ -47,8 +35,20 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi-izle/only-murders-in-the-building": {
-    "group": "ONLY MURDERS IN THE BUILDING",
+  "/dizi-izle/confidence-queen/": {
+    "group": "CONFIDENCE QUEEN",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/task/": {
+    "group": "TASK",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/gen-v": {
+    "group": "GEN V",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
@@ -59,28 +59,28 @@
     "last_episode": 13,
     "start_episode": 1
   },
-  "/dizi-izle/old-dog-new-tricks": {
-    "group": "OLD DOG, NEW TRICKS",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi-izle/chad-powers": {
-    "group": "CHAD POWERS",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi-izle/task/": {
-    "group": "TASK",
+  "/dizi-izle/true-haunting": {
+    "group": "TRUE HAUNTING",
     "last_season": 1,
     "last_episode": 5,
     "start_episode": 1
   },
-  "/dizi-izle/the-heritage/": {
-    "group": "THE HERITAGE (SCHEDA)",
+  "/dizi-izle/the-morning-show/": {
+    "group": "THE MORNING SHOW",
+    "last_season": 4,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/slow-horses/": {
+    "group": "SLOW HORSES",
+    "last_season": 5,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi-izle/crime-scene-zero": {
+    "group": "CRIME SCENE ZERO",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 4,
     "start_episode": 1
   }
 }
