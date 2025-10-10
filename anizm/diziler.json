@@ -542,7 +542,7 @@
   "/dekin-no-mogura": {
     "group": "DEKIN NO MOGURA",
     "last_season": 1,
-    "last_episode": 11.0,
+    "last_episode": 12.0,
     "start_episode": 1
   },
   "/kamitsubaki-shi-kensetsuchuu": {
@@ -632,7 +632,7 @@
   "/catseye": {
     "group": "CAT'S♥EYE",
     "last_season": 1,
-    "last_episode": 2.0,
+    "last_episode": 3.0,
     "start_episode": 1
   },
   "/lupin-iii-vs-cats-eye": {
@@ -914,13 +914,13 @@
   "/ganglion": {
     "group": "GANGLION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/heika-watashi-wo-wasurete-kudasai": {
     "group": "HEIKA WATASHI WO WASURETE KUDASAI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   }
 }
