@@ -910,5 +910,17 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/ganglion": {
+    "group": "GANGLION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/heika-watashi-wo-wasurete-kudasai": {
+    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
