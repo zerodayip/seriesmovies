@@ -27850,5 +27850,17 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi-izle/boots": {
+    "group": "BOOTS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-resurrected": {
+    "group": "THE RESURRECTED",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
