@@ -1,4 +1,10 @@
 {
+  "/akujiki-reijou-to-kyouketsu-koushaku": {
+    "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
   "/futari-solo-camp": {
     "group": "FUTARI SOLO CAMP",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/chitose-kun-wa-ramune-bin-no-naka": {
     "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
-    "group": "ANSATSUSHA DE ARU ORE NO STATUS GA YUUSHA YORI MO AKIRAKA NI TSUYOI NO DA GA",
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
