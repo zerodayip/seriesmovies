@@ -1,4 +1,16 @@
 {
+  "/anime/cats-eye/": {
+    "group": "CAT’S EYE",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/potion-wagami-wo-tasukeru/": {
+    "group": "POTION, WAGAMI WO TASUKERU",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/pass-the-monster-meat-milady/": {
     "group": "PASS THE MONSTER MEAT, MILADY!",
     "last_season": 1,
@@ -103,18 +115,6 @@
   },
   "/anime/gintama-mr-ginpachis-zany-class/": {
     "group": "GINTAMA – MR. GINPACHI’S ZANY CLASS",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/a-gatherers-adventure-in-isekai/": {
-    "group": "A GATHERER’S ADVENTURE IN ISEKAI",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/plus-sized-misadventures-in-love/": {
-    "group": "PLUS-SIZED MISADVENTURES IN LOVE!",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1

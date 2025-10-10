@@ -1,4 +1,22 @@
 {
+  "/diziler/the-murky-stream.html": {
+    "group": "THE MURKY STREAM",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/diziler/peacemaker.html": {
+    "group": "PEACEMAKER",
+    "last_season": 2,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/diziler/cats-eye.html": {
+    "group": "CAT'S EYE",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/diziler/invasion.html": {
     "group": "INVASION",
     "last_season": 3,
@@ -69,18 +87,6 @@
     "group": "GACHIAKUTA",
     "last_season": 1,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "/diziler/to-your-eternity.html": {
-    "group": "TO YOUR ETERNITY",
-    "last_season": 3,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/diziler/spy-x-family.html": {
-    "group": "SPY X FAMILY",
-    "last_season": 3,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

@@ -1,12 +1,6 @@
 {
-  "/dizi-izle/the-lost-station-girls": {
-    "group": "THE LOST STATION GIRLS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/gen-v": {
-    "group": "GEN V",
+  "/dizi-izle/only-murders-in-the-building": {
+    "group": "ONLY MURDERS IN THE BUILDING",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
@@ -15,6 +9,36 @@
     "group": "THE RESURRECTED",
     "last_season": 1,
     "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-morning-show/": {
+    "group": "THE MORNING SHOW",
+    "last_season": 4,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-lost-station-girls": {
+    "group": "THE LOST STATION GIRLS",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/nro-the-assassin": {
+    "group": "NÉRO THE ASSASSIN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/gen-v": {
+    "group": "GEN V",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/boots": {
+    "group": "BOOTS",
+    "last_season": 1,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/crime-scene-zero": {
@@ -29,34 +53,10 @@
     "last_episode": 5,
     "start_episode": 1
   },
-  "/dizi-izle/boots": {
-    "group": "BOOTS",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
   "/dizi-izle/slow-horses/": {
     "group": "SLOW HORSES",
     "last_season": 5,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-morning-show/": {
-    "group": "THE MORNING SHOW",
-    "last_season": 4,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/nro-the-assassin": {
-    "group": "NÉRO THE ASSASSIN",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi-izle/only-murders-in-the-building": {
-    "group": "ONLY MURDERS IN THE BUILDING",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }
