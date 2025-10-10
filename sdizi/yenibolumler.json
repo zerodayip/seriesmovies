@@ -1,4 +1,10 @@
 {
+  "/diziler/the-last-frontier.html": {
+    "group": "THE LAST FRONTIER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/the-murky-stream.html": {
     "group": "THE MURKY STREAM",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "CONFIDENCE QUEEN",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/gachiakuta.html": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 13,
     "start_episode": 1
   }
 }

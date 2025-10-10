@@ -922,5 +922,11 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/egao-no-taenai-shokuba-desu": {
+    "group": "EGAO NO TAENAI SHOKUBA DESU.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

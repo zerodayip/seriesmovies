@@ -1,4 +1,40 @@
 {
+  "/yuzuki-san-chi-no-yonkyoudai": {
+    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/sanda": {
+    "group": "SANDA",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/egao-no-taenai-shokuba-desu": {
+    "group": "EGAO NO TAENAI SHOKUBA DESU.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/watari-kun-no-xx-ga-houkai-sunzen": {
+    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
+    "last_season": 1,
+    "last_episode": 14.0,
+    "start_episode": 1
+  },
+  "/tougen-anki": {
+    "group": "TOUGEN ANKI",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu--zamaa-shimasu": {
+    "group": "SHINJITEITA NAKAMA-TACHI NI DUNGEON OKUCHI DE KOROSAREKAKETA GA GIFT \"MUGEN GACHA\" DE LEVEL 9999 NO NAKAMA-TACHI WO TE NI IRETE MOTO PARTY MEMBER TO SEKAI NI FUKUSHUU & \"ZAMAA!\" SHIMASU!",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
   "/dekin-no-mogura": {
     "group": "DEKIN NO MOGURA",
     "last_season": 1,
@@ -69,42 +105,6 @@
     "group": "SHABAKE",
     "last_season": 1,
     "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/kakuriyo-no-yadomeshi-ni": {
-    "group": "KAKURIYO NO YADOMESHI NI",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/ao-no-orchestra-season-2": {
-    "group": "AO NO ORCHESTRA SEASON 2",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/tensei-akujo-no-kuro-rekishi": {
-    "group": "TENSEI AKUJO NO KURO REKISHI",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/lets-play-quest-darake-no-my-life": {
-    "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/wandance": {
-    "group": "WANDANCE",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
-    "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }
