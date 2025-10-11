@@ -1,4 +1,10 @@
 {
+  "/diziler/my-hero-academia.html": {
+    "group": "MY HERO ACADEMIA",
+    "last_season": 8,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/diziler/the-last-frontier.html": {
     "group": "THE LAST FRONTIER",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "TASK",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/confidence-queen.html": {
-    "group": "CONFIDENCE QUEEN",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
