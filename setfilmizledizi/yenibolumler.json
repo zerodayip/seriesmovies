@@ -1,32 +1,32 @@
 {
   "/dizi/cobra-kai-izle/": {
     "group": "COBRA KAI",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 15,
     "start_episode": 1
   },
   "/dizi/the-last-frontier/": {
     "group": "THE LAST FRONTIER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/invasion-izle/": {
     "group": "INVASION",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/enfes-bir-aksam/": {
     "group": "ENFES BIR AKŞAM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/boots/": {
     "group": "BOOTS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   }
 }
