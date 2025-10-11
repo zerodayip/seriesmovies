@@ -133,8 +133,8 @@ jobs:
           playwright install
 
       # 4. Sezonlukdizi M3U Maker
-      - name: Run SezonlukDizi yenibolumler.py
-        run: python private_py/series/sezonlukdizi/yenibolumler.py
+ #     - name: Run SezonlukDizi yenibolumler.py
+ #       run: python private_py/series/sezonlukdizi/yenibolumler.py
 
       - name: Commit and Push SezonlukDizi JSON to public repo
         run: |
@@ -156,8 +156,8 @@ jobs:
           git push origin main
 
       # 5. Dizigom M3U Maker
-      - name: Run Dizigom yenibolumler.py
-        run: python private_py/series/dizigom/yenibolumler.py
+ #     - name: Run Dizigom yenibolumler.py
+ #       run: python private_py/series/dizigom/yenibolumler.py
 
       - name: Commit and Push Dizigom JSON to public repo
         run: |
@@ -179,8 +179,8 @@ jobs:
           git push origin main
 
       # 6. Anizm M3U Maker
-      - name: Run Anizm yenibolumler.py
-        run: python private_py/anime/anizm/yenibolumler.py
+ #     - name: Run Anizm yenibolumler.py
+ #       run: python private_py/anime/anizm/yenibolumler.py
 
       - name: Commit and Push Anizm JSON to public repo
         run: |
@@ -221,8 +221,8 @@ jobs:
 #         git push origin main
 
       # 8. AnimeNoSub M3U Maker
-      - name: Run AnimeNoSub yenibolumler.py
-        run: python private_py/anime/ingilizce/animenosub/yenibolumler.py
+ #     - name: Run AnimeNoSub yenibolumler.py
+  #      run: python private_py/anime/ingilizce/animenosub/yenibolumler.py
 
       - name: Commit and Push AnimeNoSub JSON to public repo
         run: |
