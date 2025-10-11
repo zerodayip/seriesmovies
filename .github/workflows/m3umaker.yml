@@ -257,9 +257,9 @@ jobs:
 
       - name: Sync setfilmizledizi output to private repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/setfilmizle.git private_setfilmizle
-          rsync -a setfilmizle/ private_setfilmizle/
-          cd private_setfilmizle
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/setfilmizledizi.git private_setfilmizledizi
+          rsync -a setfilmizledizi/ private_setfilmizledizi/
+          cd private_setfilmizledizi
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add . || echo "No files"
