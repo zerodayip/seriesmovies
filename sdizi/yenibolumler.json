@@ -1,4 +1,22 @@
 {
+  "/diziler/to-your-eternity.html": {
+    "group": "TO YOUR ETERNITY",
+    "last_season": 3,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/diziler/confidence-queen.html": {
+    "group": "CONFIDENCE QUEEN",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/diziler/typhoon-family.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "TYPHOON FAMILY",
+    "start_episode": 1
+  },
   "/diziler/spy-x-family.html": {
     "group": "SPY X FAMILY",
     "last_season": 3,
@@ -69,24 +87,6 @@
     "group": "CHAD POWERS",
     "last_season": 1,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/diziler/only-murders-in-the-building.html": {
-    "group": "ONLY MURDERS IN THE BUILDING",
-    "last_season": 5,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/smiling-friends.html": {
-    "group": "SMILING FRIENDS",
-    "last_season": 3,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/diziler/boston-legal.html": {
-    "group": "BOSTON LEGAL",
-    "last_season": 5,
-    "last_episode": 13,
     "start_episode": 1
   }
 }

@@ -1,14 +1,26 @@
 {
+  "/anime/my-friends-little-sister-has-it-in-for-me/": {
+    "group": "MY FRIEND’S LITTLE SISTER HAS IT IN FOR ME!",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/ranma-%c2%bd-2024-2nd-season/": {
+    "group": "RANMA ½ (2024) 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/tojima-wants-to-be-a-kamen-rider/": {
+    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/gnosia/": {
     "group": "GNOSIA",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/the-banished-court-magician-aims-to-become-the-strongest/": {
-    "group": "THE BANISHED COURT MAGICIAN AIMS TO BECOME THE STRONGEST",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/touring-after-the-apocalypse/": {
@@ -17,14 +29,26 @@
     "last_episode": 1,
     "start_episode": 1
   },
-  "/anime/spy-x-family-season-3/": {
-    "group": "SPY X FAMILY SEASON 3",
+  "/anime/to-your-eternity-season-3/": {
+    "group": "TO YOUR ETERNITY SEASON 3",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
   },
   "/anime/let-this-grieving-soul-retire-cour-2/": {
     "group": "LET THIS GRIEVING SOUL RETIRE COUR 2",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/the-banished-court-magician-aims-to-become-the-strongest/": {
+    "group": "THE BANISHED COURT MAGICIAN AIMS TO BECOME THE STRONGEST",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/spy-x-family-season-3/": {
+    "group": "SPY X FAMILY SEASON 3",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
@@ -93,30 +117,6 @@
     "group": "CAT’S EYE",
     "last_season": 1,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/anime/potion-wagami-wo-tasukeru/": {
-    "group": "POTION, WAGAMI WO TASUKERU",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/pass-the-monster-meat-milady/": {
-    "group": "PASS THE MONSTER MEAT, MILADY!",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/solo-camping-for-two/": {
-    "group": "SOLO CAMPING FOR TWO",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "/anime/dusk-beyond-the-end-of-the-world/": {
-    "group": "DUSK BEYOND THE END OF THE WORLD",
-    "last_season": 1,
-    "last_episode": 2,
     "start_episode": 1
   }
 }

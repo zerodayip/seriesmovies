@@ -1,4 +1,34 @@
 {
+  "/ranma--2024-2nd-season": {
+    "group": "RANMA ½ (2024) 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/gnosia": {
+    "group": "GNOSIA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu": {
+    "group": "MIKATA GA YOWASUGITE HOJO MAHOU NI TESSHITEITA KYUUTEI MAHOUSHI, TSUIHOU SARETE SAIKYOU WO MEZASHIMASU",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun": {
+    "group": "KAO NI DENAI KASHIWADA-SAN TO KAO NI DERU OOTA-KUN",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/spy-x-family-season-3": {
+    "group": "SPY X FAMILY SEASON 3",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
   "/yasei-no-last-boss-ga-arawareta": {
     "group": "YASEI NO LAST BOSS GA ARAWARETA!",
     "last_season": 1,
@@ -75,36 +105,6 @@
     "group": "DEKIN NO MOGURA",
     "last_season": 1,
     "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/ganglion": {
-    "group": "GANGLION",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/heika-watashi-wo-wasurete-kudasai": {
-    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/catseye": {
-    "group": "CAT'S♥EYE",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/3-nen-z-gumi-ginpachi-sensei": {
-    "group": "3-NEN Z-GUMI GINPACHI-SENSEI",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/akujiki-reijou-to-kyouketsu-koushaku": {
-    "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
-    "last_season": 1,
-    "last_episode": 2.0,
     "start_episode": 1
   }
 }
