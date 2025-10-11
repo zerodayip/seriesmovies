@@ -1,4 +1,22 @@
 {
+  "/anime/gnosia/": {
+    "group": "GNOSIA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/the-banished-court-magician-aims-to-become-the-strongest/": {
+    "group": "THE BANISHED COURT MAGICIAN AIMS TO BECOME THE STRONGEST",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/touring-after-the-apocalypse/": {
+    "group": "TOURING AFTER THE APOCALYPSE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/spy-x-family-season-3/": {
     "group": "SPY X FAMILY SEASON 3",
     "last_season": 1,
@@ -97,24 +115,6 @@
   },
   "/anime/dusk-beyond-the-end-of-the-world/": {
     "group": "DUSK BEYOND THE END OF THE WORLD",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/a-star-brighter-than-the-sun/": {
-    "group": "A STAR BRIGHTER THAN THE SUN",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/this-monster-wants-to-eat-me/": {
-    "group": "THIS MONSTER WANTS TO EAT ME",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/my-awkward-senpai/": {
-    "group": "MY AWKWARD SENPAI",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1

@@ -27868,5 +27868,17 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/dizi-izle/typhoon-family": {
+    "group": "TYPHOON FAMILY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/fate-la-suerte": {
+    "group": "FATE (LA SUERTE)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

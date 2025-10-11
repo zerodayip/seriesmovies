@@ -1,4 +1,10 @@
 {
+  "/diziler/spy-x-family.html": {
+    "group": "SPY X FAMILY",
+    "last_season": 3,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/diziler/my-hero-academia.html": {
     "group": "MY HERO ACADEMIA",
     "last_season": 8,
@@ -81,12 +87,6 @@
     "group": "BOSTON LEGAL",
     "last_season": 5,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "/diziler/task.html": {
-    "group": "TASK",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
