@@ -15976,5 +15976,17 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/diziler/the-road-trip.html": {
+    "group": "THE ROAD TRIP",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/helluva-boss.html": {
+    "group": "HELLUVA BOSS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

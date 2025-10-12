@@ -1,14 +1,44 @@
 {
-  "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
-    "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
+  "/chanto-suenai-kyuuketsuki-chan": {
+    "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
     "last_season": 1,
-    "last_episode": 2.0,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/ao-no-orchestra-season-2": {
+    "group": "AO NO ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/kingdom-6th-season": {
+    "group": "KINGDOM 6TH SEASON",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/shuumatsu-touring": {
+    "group": "SHUUMATSU TOURING",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/uma-musume-cinderella-gray-part-2": {
+    "group": "UMA MUSUME: CINDERELLA GRAY PART 2",
+    "last_season": 1,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/dragon-raja-ii--the-mourners-eyes-": {
     "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
     "last_season": 1,
     "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
+    "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
+    "last_season": 1,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/fumetsu-no-anata-e-season-3": {
@@ -45,60 +75,6 @@
     "group": "SPY X FAMILY SEASON 3",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/yasei-no-last-boss-ga-arawareta": {
-    "group": "YASEI NO LAST BOSS GA ARAWARETA!",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/kekkon-yubiwa-monogatari-ii": {
-    "group": "KEKKON YUBIWA MONOGATARI II",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/debu-to-love-to-ayamachi-to": {
-    "group": "DEBU TO LOVE TO AYAMACHI TO!",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
-    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/boku-no-hero-academia-final-season": {
-    "group": "BOKU NO HERO ACADEMIA: FINAL SEASON",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka": {
-    "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/yuzuki-san-chi-no-yonkyoudai": {
-    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/sanda": {
-    "group": "SANDA",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/egao-no-taenai-shokuba-desu": {
-    "group": "EGAO NO TAENAI SHOKUBA DESU.",
-    "last_season": 1,
-    "last_episode": 1.0,
     "start_episode": 1
   }
 }

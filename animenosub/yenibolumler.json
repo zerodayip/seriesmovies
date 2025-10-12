@@ -1,4 +1,16 @@
 {
+  "/anime/mechanical-marie/": {
+    "group": "MECHANICAL MARIE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/lil-miss-vampire-cant-suck-right/": {
+    "group": "LI’L MISS VAMPIRE CAN’T SUCK RIGHT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/blue-orchestra-season-2/": {
     "group": "BLUE ORCHESTRA SEASON 2",
     "last_season": 1,
@@ -105,18 +117,6 @@
     "group": "SANDA",
     "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/may-i-ask-for-one-final-thing/": {
-    "group": "MAY I ASK FOR ONE FINAL THING?",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/anime/watari-kuns-is-about-to-collapse/": {
-    "group": "WATARI-KUN’S ****** IS ABOUT TO COLLAPSE",
-    "last_season": 1,
-    "last_episode": 15,
     "start_episode": 1
   }
 }
