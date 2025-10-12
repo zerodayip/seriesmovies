@@ -1,4 +1,28 @@
 {
+  "/anime/gachiakuta/": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/anime/one-piece/": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1145,
+    "start_episode": 1130
+  },
+  "/anime/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator/": {
+    "group": "DAD IS A HERO, MOM IS A SPIRIT, I’M A REINCARNATOR",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/alma-chan-wants-to-be-a-family/": {
+    "group": "ALMA-CHAN WANTS TO BE A FAMILY!",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/mechanical-marie/": {
     "group": "MECHANICAL MARIE",
     "last_season": 1,
@@ -91,30 +115,6 @@
   },
   "/anime/a-wild-last-boss-appeared/": {
     "group": "A WILD LAST BOSS APPEARED!",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/tales-of-wedding-rings-season-2-uncensored/": {
-    "group": "TALES OF WEDDING RINGS SEASON 2 (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/inexpressive-kashiwada-and-expressive-oota/": {
-    "group": "INEXPRESSIVE KASHIWADA AND EXPRESSIVE OOTA",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/my-hero-academia-final-season/": {
-    "group": "MY HERO ACADEMIA FINAL SEASON",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/sanda/": {
-    "group": "SANDA",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
