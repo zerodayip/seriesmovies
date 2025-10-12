@@ -221,8 +221,8 @@ jobs:
 #         git push origin main
 
       # 8. AnimeNoSub M3U Maker
- #     - name: Run AnimeNoSub yenibolumler.py
-  #      run: python private_py/anime/ingilizce/animenosub/yenibolumler.py
+      - name: Run AnimeNoSub yenibolumler.py
+        run: python private_py/anime/ingilizce/animenosub/yenibolumler.py
 
       - name: Commit and Push AnimeNoSub JSON to public repo
         run: |
