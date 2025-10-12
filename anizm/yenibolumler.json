@@ -1,4 +1,22 @@
 {
+  "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
+    "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/dragon-raja-ii--the-mourners-eyes-": {
+    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/fumetsu-no-anata-e-season-3": {
+    "group": "FUMETSU NO ANATA E SEASON 3",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
   "/ranma--2024-2nd-season": {
     "group": "RANMA ½ (2024) 2ND SEASON",
     "last_season": 1,
@@ -81,30 +99,6 @@
     "group": "EGAO NO TAENAI SHOKUBA DESU.",
     "last_season": 1,
     "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/watari-kun-no-xx-ga-houkai-sunzen": {
-    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
-    "last_season": 1,
-    "last_episode": 15.0,
-    "start_episode": 1
-  },
-  "/tougen-anki": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 14.0,
-    "start_episode": 1
-  },
-  "/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu--zamaa-shimasu": {
-    "group": "SHINJITEITA NAKAMA-TACHI NI DUNGEON OKUCHI DE KOROSAREKAKETA GA GIFT \"MUGEN GACHA\" DE LEVEL 9999 NO NAKAMA-TACHI WO TE NI IRETE MOTO PARTY MEMBER TO SEKAI NI FUKUSHUU & \"ZAMAA!\" SHIMASU!",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/dekin-no-mogura": {
-    "group": "DEKIN NO MOGURA",
-    "last_season": 1,
-    "last_episode": 12.0,
     "start_episode": 1
   }
 }
