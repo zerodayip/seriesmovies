@@ -1,4 +1,10 @@
 {
+  "/diziler/helluva-boss.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "HELLUVA BOSS",
+    "start_episode": 1
+  },
   "/diziler/to-your-eternity.html": {
     "group": "TO YOUR ETERNITY",
     "last_season": 3,
@@ -80,12 +86,6 @@
   "/diziler/slow-horses.html": {
     "group": "SLOW HORSES",
     "last_season": 5,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/diziler/chad-powers.html": {
-    "group": "CHAD POWERS",
-    "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
   }
