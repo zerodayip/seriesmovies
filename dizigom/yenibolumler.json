@@ -1,12 +1,18 @@
 {
-  "/dizi-izle/boots": {
-    "group": "BOOTS",
+  "/dizi-izle/the-resurrected": {
+    "group": "THE RESURRECTED",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
-  "/dizi-izle/nro-the-assassin": {
-    "group": "NÉRO THE ASSASSIN",
+  "/dizi-izle/the-murky-stream": {
+    "group": "THE MURKY STREAM",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/gen-v": {
+    "group": "GEN V",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
@@ -17,27 +23,21 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi-izle/typhoon-family": {
-    "group": "TYPHOON FAMILY",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-resurrected": {
-    "group": "THE RESURRECTED",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
   "/dizi-izle/confidence-queen/": {
     "group": "CONFIDENCE QUEEN",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
   },
-  "/dizi-izle/invasion/": {
-    "group": "INVASION",
-    "last_season": 3,
+  "/dizi-izle/nro-the-assassin": {
+    "group": "NÉRO THE ASSASSIN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/peacemaker/": {
+    "group": "PEACEMAKER",
+    "last_season": 2,
     "last_episode": 8,
     "start_episode": 1
   },
@@ -53,16 +53,16 @@
     "last_episode": 2,
     "start_episode": 1
   },
-  "/dizi-izle/the-murky-stream": {
-    "group": "THE MURKY STREAM",
+  "/dizi-izle/typhoon-family": {
+    "group": "TYPHOON FAMILY",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 2,
     "start_episode": 1
   },
-  "/dizi-izle/gen-v": {
-    "group": "GEN V",
+  "/dizi-izle/boots": {
+    "group": "BOOTS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/reasonable-doubt/": {
@@ -71,9 +71,9 @@
     "last_episode": 5,
     "start_episode": 1
   },
-  "/dizi-izle/peacemaker/": {
-    "group": "PEACEMAKER",
-    "last_season": 2,
+  "/dizi-izle/invasion/": {
+    "group": "INVASION",
+    "last_season": 3,
     "last_episode": 8,
     "start_episode": 1
   }
