@@ -1,4 +1,28 @@
 {
+  "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
+    "group": "ANSATSUSHA DE ARU ORE NO STATUS GA YUUSHA YORI MO AKIRAKA NI TSUYOI NO DA GA",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/isekai-quartet-3": {
+    "group": "ISEKAI QUARTET 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/sozai-saishuka-no-isekai-ryokouki": {
+    "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/mousou-dairinin-paranoia-agent": {
+    "group": "MOUSOU DAIRININ (PARANOIA AGENT)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/ganglion": {
     "group": "GANGLION",
     "last_season": 1,
@@ -81,30 +105,6 @@
     "group": "AO NO ORCHESTRA SEASON 2",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/kingdom-6th-season": {
-    "group": "KINGDOM 6TH SEASON",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/shuumatsu-touring": {
-    "group": "SHUUMATSU TOURING",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/uma-musume-cinderella-gray-part-2": {
-    "group": "UMA MUSUME: CINDERELLA GRAY PART 2",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/dragon-raja-ii--the-mourners-eyes-": {
-    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
-    "last_season": 1,
-    "last_episode": 15.0,
     "start_episode": 1
   }
 }

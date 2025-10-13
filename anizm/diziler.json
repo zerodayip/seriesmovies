@@ -952,5 +952,17 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/isekai-quartet-3": {
+    "group": "ISEKAI QUARTET 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/mousou-dairinin-paranoia-agent": {
+    "group": "MOUSOU DAIRININ (PARANOIA AGENT)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
