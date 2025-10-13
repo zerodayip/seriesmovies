@@ -656,7 +656,7 @@
   "/sozai-saishuka-no-isekai-ryokouki": {
     "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
     "last_season": 1,
-    "last_episode": 2.0,
+    "last_episode": 3.0,
     "start_episode": 1
   },
   "/jigokuraku-2nd-season": {
@@ -860,7 +860,7 @@
   "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
     "group": "ANSATSUSHA DE ARU ORE NO STATUS GA YUUSHA YORI MO AKIRAKA NI TSUYOI NO DA GA",
     "last_season": 1,
-    "last_episode": 1.0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/chitose-kun-wa-ramune-bin-no-naka": {
@@ -956,13 +956,13 @@
   "/isekai-quartet-3": {
     "group": "ISEKAI QUARTET 3",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/mousou-dairinin-paranoia-agent": {
     "group": "MOUSOU DAIRININ (PARANOIA AGENT)",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13.0,
     "start_episode": 1
   }
 }
