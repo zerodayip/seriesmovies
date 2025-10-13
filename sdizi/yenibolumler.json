@@ -1,4 +1,10 @@
 {
+  "/diziler/task.html": {
+    "group": "TASK",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/diziler/confidence-queen.html": {
     "group": "CONFIDENCE QUEEN",
     "last_season": 1,
@@ -69,12 +75,6 @@
     "group": "PEACEMAKER",
     "last_season": 2,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/cats-eye.html": {
-    "group": "CAT'S EYE",
-    "last_season": 1,
-    "last_episode": 3,
     "start_episode": 1
   }
 }
