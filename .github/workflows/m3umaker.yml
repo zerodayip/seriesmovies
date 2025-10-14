@@ -66,18 +66,23 @@ jobs:
       - name: Run dizilifeyenibolumler.py
         run: python private_py/series/dizilife/yenibolumler.py
 
+      # 2. FilmHane Diziler Yerli Scripts
+      - name: Run filmhaneyenibolumler.py
+        run: python private_py/series/filmhane/yenibolumler.py
+
       - name: Sync Vavoo outputs to private m3u8file repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8file
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
           cp dizifundizi.m3u privaate_m3u8file/dizifundizi.m3u || echo "dizifundizi.m3u bulunamadı"
           cp dizilifedizi.m3u privaate_m3u8file/dizilifedizi.m3u || echo "dizilifedizi.m3u bulunamadı"
+          cp filmhanedizi.m3u privaate_m3u8file/filmhanedizi.m3u || echo "filmhanedizi.m3u bulunamadı"
           cp all_world_sports.m3u privaate_m3u8file/all_world_sports.m3u || echo "all_world_sports.m3u bulunamadı"
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add vavoo.m3u dizifundizi.m3u dizilifedizi.m3u all_world_sports.m3u
-          git commit -m "Vavoo & DiziFun & DiziLife & IstPlay çıktısı güncellendi [auto]" || echo "No changes"
+          git add vavoo.m3u dizifundizi.m3u dizilifedizi.m3u all_world_sports.m3u filmhanedizi.m3u
+          git commit -m "Vavoo & DiziFun & DiziLife & FilmHane & IstPlay çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
 
       # 3. Run All JSON
