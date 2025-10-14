@@ -5,6 +5,12 @@
     "last_episode": 0,
     "start_episode": 1
   },
+  "/anime/chitose-is-in-the-ramune-bottle/": {
+    "group": "CHITOSE IS IN THE RAMUNE BOTTLE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
     "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/kingdom-season-6/": {
     "group": "KINGDOM: SEASON 6",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/my-friends-little-sister-has-it-in-for-me/": {
-    "group": "MY FRIEND’S LITTLE SISTER HAS IT IN FOR ME!",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
