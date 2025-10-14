@@ -55,8 +55,8 @@ jobs:
 #        run: python private_py/channels/kablo/kanal.py
 
       # 1. IstPlay IPTV Scripts
-#      - name: Run IstPlay.py
-#        run: python private_py/channels/istplay/lives.py
+      - name: Run IstPlay.py
+        run: python private_py/channels/istplay/lives.py
 
       # 2. DiziFun Diziler Yerli Scripts
       - name: Run dizifunyenibolumler.py
