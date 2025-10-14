@@ -39,12 +39,12 @@ jobs:
       - name: Install Shared Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv zstandard
+          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv zstandard cloudscraper
           playwright install
 
       # 1. Vavoo IPTV Scripts
-      - name: Run KENDI PROXY UZERINDEN YAYIN ALINIYOR.py
-        run: python private_py/vavoo/iptv/vavooiptvkendi.py
+#      - name: Run KENDI PROXY UZERINDEN YAYIN ALINIYOR.py
+#        run: python private_py/vavoo/iptv/vavooiptvkendi.py
 
       # 1. Vavoo IPTV Scripts
 #      - name: Run DIGER PROXY UZERINDEN YAYIN ALINMAKTADIR.py
@@ -55,16 +55,16 @@ jobs:
 #        run: python private_py/channels/kablo/kanal.py
 
       # 1. IstPlay IPTV Scripts
-      - name: Run IstPlay.py
-        run: python private_py/channels/istplay/lives.py
+#      - name: Run IstPlay.py
+#        run: python private_py/channels/istplay/lives.py
 
       # 2. DiziFun Diziler Yerli Scripts
-      - name: Run dizifunyenibolumler.py
-        run: python private_py/series/dizifun/yenibolumler.py
+#      - name: Run dizifunyenibolumler.py
+#        run: python private_py/series/dizifun/yenibolumler.py
 
       # 2. DiziLife Diziler Yerli Scripts
-      - name: Run dizilifeyenibolumler.py
-        run: python private_py/series/dizilife/yenibolumler.py
+#      - name: Run dizilifeyenibolumler.py
+#        run: python private_py/series/dizilife/yenibolumler.py
 
       # 2. FilmHane Diziler Yerli Scripts
       - name: Run filmhaneyenibolumler.py
