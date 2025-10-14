@@ -39,7 +39,7 @@ jobs:
       - name: Install Shared Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv
+          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv zstandard
           playwright install
 
       # 1. Vavoo IPTV Scripts
@@ -53,6 +53,10 @@ jobs:
       # 1. Kablo IPTV Scripts
 #      - name: Run KABLO TURKSAT.py
 #        run: python private_py/channels/kablo/kanal.py
+
+      # 1. IstPlay IPTV Scripts
+#      - name: Run IstPlay.py
+#        run: python private_py/channels/istplay/lives.py
 
       # 2. DiziFun Diziler Yerli Scripts
       - name: Run dizifunyenibolumler.py
@@ -68,11 +72,12 @@ jobs:
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
           cp dizifundizi.m3u privaate_m3u8file/dizifundizi.m3u || echo "dizifundizi.m3u bulunamadı"
           cp dizilifedizi.m3u privaate_m3u8file/dizilifedizi.m3u || echo "dizilifedizi.m3u bulunamadı"
+          cp all_world_sports.m3u privaate_m3u8file/all_world_sports.m3u || echo "all_world_sports.m3u bulunamadı"
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add vavoo.m3u dizifundizi.m3u dizilifedizi.m3u
-          git commit -m "Vavoo & DiziFun & DiziLife çıktısı güncellendi [auto]" || echo "No changes"
+          git add vavoo.m3u dizifundizi.m3u dizilifedizi.m3u all_world_sports.m3u
+          git commit -m "Vavoo & DiziFun & DiziLife & IstPlay çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
 
       # 3. Run All JSON
