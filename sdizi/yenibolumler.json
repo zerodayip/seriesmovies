@@ -1,4 +1,10 @@
 {
+  "/diziler/splinter-cell-deathwatch.html": {
+    "group": "SPLINTER CELL: DEATHWATCH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/smiling-friends.html": {
     "group": "SMILING FRIENDS",
     "last_season": 3,
@@ -67,12 +73,6 @@
   },
   "/diziler/to-your-eternity.html": {
     "group": "TO YOUR ETERNITY",
-    "last_season": 3,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/spy-x-family.html": {
-    "group": "SPY X FAMILY",
     "last_season": 3,
     "last_episode": 2,
     "start_episode": 1

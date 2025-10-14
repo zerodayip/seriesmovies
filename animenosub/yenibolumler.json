@@ -1,4 +1,10 @@
 {
+  "/anime/with-you-our-love-will-make-it-through/": {
+    "group": "WITH YOU, OUR LOVE WILL MAKE IT THROUGH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
     "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/my-friends-little-sister-has-it-in-for-me/": {
     "group": "MY FRIEND’S LITTLE SISTER HAS IT IN FOR ME!",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/ranma-%c2%bd-2024-2nd-season/": {
-    "group": "RANMA ½ (2024) 2ND SEASON",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
