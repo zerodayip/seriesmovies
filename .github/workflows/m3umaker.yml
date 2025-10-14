@@ -43,32 +43,28 @@ jobs:
           playwright install
 
       # 1. Vavoo IPTV Scripts
-#      - name: Run KENDI PROXY UZERINDEN YAYIN ALINIYOR.py
-#        run: python private_py/vavoo/iptv/vavooiptvkendi.py
+      - name: Run KENDI PROXY UZERINDEN YAYIN ALINIYOR.py
+        run: python private_py/vavoo/iptv/vavooiptvkendi.py
 
       # 1. Vavoo IPTV Scripts
 #      - name: Run DIGER PROXY UZERINDEN YAYIN ALINMAKTADIR.py
 #        run: python private_py/vavoo/iptv/vavooiptvgoldvod.py
 
-      # 1. Kablo IPTV Scripts
-#      - name: Run KABLO TURKSAT.py
-#        run: python private_py/channels/kablo/kanal.py
-
       # 1. IstPlay IPTV Scripts
-#      - name: Run IstPlay.py
-#        run: python private_py/channels/istplay/lives.py
+      - name: Run IstPlay.py
+        run: python private_py/channels/istplay/lives.py
 
       # 2. DiziFun Diziler Yerli Scripts
 #      - name: Run dizifunyenibolumler.py
 #        run: python private_py/series/dizifun/yenibolumler.py
 
       # 2. DiziLife Diziler Yerli Scripts
-#      - name: Run dizilifeyenibolumler.py
-#        run: python private_py/series/dizilife/yenibolumler.py
+      - name: Run dizilifeyenibolumler.py
+        run: python private_py/series/dizilife/yenibolumler.py
 
-      # 2. FilmHane Diziler Yerli Scripts
-      - name: Run filmhaneyenibolumler.py
-        run: python private_py/series/filmhane/yenibolumler.py
+      # 2. FilmHane Diziler Yerli Scripts ( 403 hatası mevcut )
+#      - name: Run filmhaneyenibolumler.py
+#        run: python private_py/series/filmhane/yenibolumler.py
 
       - name: Sync Vavoo outputs to private m3u8file repo
         run: |
