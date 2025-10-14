@@ -63,8 +63,8 @@ jobs:
         run: python private_py/series/dizilife/yenibolumler.py
 
       # 2. FilmHane Diziler Yerli Scripts ( 403 hatası mevcut )
-#      - name: Run filmhaneyenibolumler.py
-#        run: python private_py/series/filmhane/yenibolumler.py
+      - name: Run filmhaneyenibolumler.py
+        run: python private_py/series/filmhane/yenibolumler.py
 
       - name: Sync Vavoo outputs to private m3u8file repo
         run: |
