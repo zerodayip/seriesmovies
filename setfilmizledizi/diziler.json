@@ -10084,5 +10084,11 @@
     "last_season": 6,
     "last_episode": 22,
     "start_episode": 1
+  },
+  "/dizi/confidence-queen/": {
+    "group": "CONFIDENCE QUEEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
