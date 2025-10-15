@@ -1,0 +1,187 @@
+name: XTREAM MAKER
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["M3U MAKER"]
+    types:
+      - completed
+
+jobs:
+  push-m3u-to-root:
+    runs-on: ubuntu-latest
+
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      - name: Checkout public repo (bu workflow'un olduğu repo)
+        uses: actions/checkout@v4
+
+      - name: Checkout private_py repo
+        uses: actions/checkout@v4
+        with:
+          repository: zerodayip/Py
+          token: ${{ secrets.GH_TOKEN }}
+          path: private_py
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run birleştirici / üretici scriptleri
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          python private_py/xtream/hepsitekm3uyapma.py
+
+      - name: Checkout private m3u8file repo
+        uses: actions/checkout@v4
+        with:
+          repository: zerodayip/m3u8file
+          token: ${{ secrets.GH_TOKEN }}
+          path: private_m3u8file
+          fetch-depth: 1
+
+      - name: Copy all M3U files to root of m3u8file repo
+        run: |
+          find . -maxdepth 2 -type f -name "*.m3u" -exec cp {} private_m3u8file/ \;
+
+      - name: Commit and push M3U files
+        run: |
+          cd private_m3u8file
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add *.m3u || echo "No M3U to add"
+          git diff --cached --quiet || git commit -m "Tüm M3U dosyaları güncellendi [auto]"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git
+          git push origin main
+             
+  run-xtream-m3u:
+    runs-on: ubuntu-latest
+    needs: push-imdb-m3u-to-private
+
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Python Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run Xtream Film Script
+        run: python private_py/xtream/film.py
+
+      - name: Run Xtream Dizi Script
+        run: python private_py/xtream/series.py
+
+      - name: Commit group_order.json to Public Repo
+        run: |
+          mkdir -p xtream
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git pull --rebase origin main || echo "Pull yapılamadı"
+          git add xtream/group_order.json || echo "group_order.json yok"
+          git diff --cached --quiet || git commit -m "group_order.json güncellendi [auto]"
+          git push origin main
+
+      - name: Clone Private m3u8file Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file
+
+      - name: Copy updated M3U files to private m3u8file repo
+        run: |
+          mkdir -p private_m3u8file/xtream
+          rsync -a xtream/ private_m3u8file/xtream/ --include="*.m3u" --exclude="*"
+
+      - name: Commit and Push to Private m3u8file Repo
+        run: |
+          cd private_m3u8file
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git pull --rebase origin main || echo "Pull yapılamadı"
+          git add xtream/*.m3u || echo "No M3U to add"
+          git diff --cached --quiet || git commit -m "Xtream M3U dosyaları güncellendi [auto]"
+          git push origin main
+
+  run-xtream-json:
+    runs-on: ubuntu-latest
+    needs: run-xtream-m3u
+
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Python Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run Xtream Script
+        run: python private_py/xtream/convert.py
+
+      - name: Commit and Push times.json to Public Repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtream/times.json || echo "No times.json"
+          git diff --cached --quiet || git commit -m "times.json güncellendi [auto]"
+          git pull --rebase origin main || echo "No upstream changes"
+          git push origin main || echo "No push needed"
+
+      - name: Clone m3u8file Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git m3u8file_repo
+
+      - name: Copy JSON files (excluding times.json) to xtreamjson
+        run: |
+          mkdir -p m3u8file_repo/xtreamjson
+          find xtream -name "*.json" ! -name "times.json" -exec cp {} m3u8file_repo/xtreamjson/ \;
+
+      - name: Commit and Push to xtreamjson
+        run: |
+          cd m3u8file_repo
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtreamjson/*.json || echo "No JSON files to add"
+          git diff --cached --quiet || git commit -m "Xtream JSON dosyaları xtreamjson klasörüne eklendi [auto]"
+          git pull --rebase origin main || echo "No upstream changes"
+          git push origin main || echo "No push needed"
