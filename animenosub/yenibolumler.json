@@ -1,6 +1,24 @@
 {
+  "/anime/lets-play/": {
+    "group": "LET’S PLAY",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/the-dark-history-of-the-reincarnated-villainess/": {
+    "group": "THE DARK HISTORY OF THE REINCARNATED VILLAINESS",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/wandance/": {
     "group": "WANDANCE",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/kakuriyo-bed-and-breakfast-for-spirits-season-2/": {
+    "group": "KAKURIYO: BED AND BREAKFAST FOR SPIRITS SEASON 2",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
@@ -99,24 +117,6 @@
     "group": "GACHIAKUTA",
     "last_season": 1,
     "last_episode": 14,
-    "start_episode": 1
-  },
-  "/anime/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator/": {
-    "group": "DAD IS A HERO, MOM IS A SPIRIT, I’M A REINCARNATOR",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/alma-chan-wants-to-be-a-family/": {
-    "group": "ALMA-CHAN WANTS TO BE A FAMILY!",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/mechanical-marie/": {
-    "group": "MECHANICAL MARIE",
-    "last_season": 1,
-    "last_episode": 2,
     "start_episode": 1
   }
 }

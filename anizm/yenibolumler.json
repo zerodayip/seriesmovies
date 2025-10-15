@@ -1,4 +1,16 @@
 {
+  "/lets-play-quest-darake-no-my-life": {
+    "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/tensei-akujo-no-kuro-rekishi": {
+    "group": "TENSEI AKUJO NO KURO REKISHI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
   "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
     "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
     "last_season": 1,
@@ -93,18 +105,6 @@
     "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
     "last_season": 1,
     "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/mousou-dairinin-paranoia-agent": {
-    "group": "MOUSOU DAIRININ (PARANOIA AGENT)",
-    "last_season": 1,
-    "last_episode": 13.0,
-    "start_episode": 1
-  },
-  "/ganglion": {
-    "group": "GANGLION",
-    "last_season": 1,
-    "last_episode": 2.0,
     "start_episode": 1
   }
 }
