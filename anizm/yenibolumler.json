@@ -1,4 +1,16 @@
 {
+  "/kimi-to-koete-koi-ni-naru": {
+    "group": "KIMI TO KOETE KOI NI NARU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/kanan-sama-wa-akumade-choroi": {
+    "group": "KANAN-SAMA WA AKUMADE CHOROI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/sakamoto-desu-ga": {
     "group": "SAKAMOTO DESU GA?",
     "last_season": 1,
@@ -91,18 +103,6 @@
   },
   "/sawaranaide-kotesashi-kun": {
     "group": "SAWARANAIDE KOTESASHI-KUN",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
-    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/alma-chan-wa-kazoku-ni-naritai": {
-    "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
