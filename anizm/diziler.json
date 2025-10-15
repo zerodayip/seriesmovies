@@ -964,5 +964,11 @@
     "last_season": 1,
     "last_episode": 13.0,
     "start_episode": 1
+  },
+  "/sakamoto-desu-ga": {
+    "group": "SAKAMOTO DESU GA?",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

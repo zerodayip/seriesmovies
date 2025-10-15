@@ -1,8 +1,8 @@
 {
-  "/dizi-izle/the-last-frontier": {
-    "group": "THE LAST FRONTIER",
-    "last_season": 1,
-    "last_episode": 2,
+  "/dizi-izle/reasonable-doubt/": {
+    "group": "REASONABLE DOUBT",
+    "last_season": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/peacemaker/": {
@@ -11,22 +11,10 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/fate-la-suerte": {
-    "group": "FATE (LA SUERTE)",
+  "/dizi-izle/confidence-queen/": {
+    "group": "CONFIDENCE QUEEN",
     "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-murky-stream": {
-    "group": "THE MURKY STREAM",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/invasion/": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 8,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/dizi-izle/the-lost-station-girls": {
@@ -35,22 +23,10 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi-izle/the-resurrected": {
-    "group": "THE RESURRECTED",
+  "/dizi-izle/the-murky-stream": {
+    "group": "THE MURKY STREAM",
     "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi-izle/reasonable-doubt/": {
-    "group": "REASONABLE DOUBT",
-    "last_season": 3,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/typhoon-family": {
-    "group": "TYPHOON FAMILY",
-    "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/gen-v": {
@@ -65,16 +41,40 @@
     "last_episode": 8,
     "start_episode": 1
   },
+  "/dizi-izle/the-resurrected": {
+    "group": "THE RESURRECTED",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/typhoon-family": {
+    "group": "TYPHOON FAMILY",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/dizi-izle/nro-the-assassin": {
     "group": "NÉRO THE ASSASSIN",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi-izle/confidence-queen/": {
-    "group": "CONFIDENCE QUEEN",
+  "/dizi-izle/fate-la-suerte": {
+    "group": "FATE (LA SUERTE)",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/invasion/": {
+    "group": "INVASION",
+    "last_season": 3,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-last-frontier": {
+    "group": "THE LAST FRONTIER",
+    "last_season": 1,
+    "last_episode": 2,
     "start_episode": 1
   }
 }

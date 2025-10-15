@@ -1,4 +1,10 @@
 {
+  "/sakamoto-desu-ga": {
+    "group": "SAKAMOTO DESU GA?",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/heika-watashi-wo-wasurete-kudasai": {
     "group": "HEIKA WATASHI WO WASURETE KUDASAI",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/alma-chan-wa-kazoku-ni-naritai": {
     "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/si-vis-the-sound-of-heroes": {
-    "group": "SI-VIS: THE SOUND OF HEROES",
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
