@@ -1,1 +1,1 @@
-# Dizi ve Filmler , çalışırsa 
+# Dizi ve Filmler
