@@ -351,7 +351,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/hdfilmsite/ilksayfayabancıfilmler.py
 
-      # 13. HDFilm Yerli Filmler
+      # 14. HDFilm Yerli Filmler
       - name: Run HDFilm Yerli Filmler Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
