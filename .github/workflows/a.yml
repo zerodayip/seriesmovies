@@ -39,10 +39,10 @@ jobs:
       - name: Push SetFilmİzle M3U to Repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file
-          cp hdfilmfilmler.m3u private_m3u8file/hdfilmfilmler.m3u
+          cp hdfilmsite.m3u private_m3u8file/hdfilmsite.m3u
           cd private_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add hdfilmfilmler.m3u
+          git add hdfilmsite.m3u
           git commit -m "Güncel HDFilm filmleri"
           git push
