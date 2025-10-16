@@ -1,4 +1,34 @@
 {
+  "/anime/potion-wagami-wo-tasukeru/": {
+    "group": "POTION, WAGAMI WO TASUKERU",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/pass-the-monster-meat-milady/": {
+    "group": "PASS THE MONSTER MEAT, MILADY!",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/solo-camping-for-two/": {
+    "group": "SOLO CAMPING FOR TWO",
+    "last_season": 1,
+    "last_episode": 14,
+    "start_episode": 1
+  },
+  "/anime/a-star-brighter-than-the-sun/": {
+    "group": "A STAR BRIGHTER THAN THE SUN",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/dusk-beyond-the-end-of-the-world/": {
+    "group": "DUSK BEYOND THE END OF THE WORLD",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/anime/this-monster-wants-to-eat-me/": {
     "group": "THIS MONSTER WANTS TO EAT ME",
     "last_season": 1,
@@ -88,35 +118,5 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
-  },
-  "/anime/a-gatherers-adventure-in-isekai/": {
-    "group": "A GATHERER’S ADVENTURE IN ISEKAI",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/anime/plus-sized-misadventures-in-love/": {
-    "group": "PLUS-SIZED MISADVENTURES IN LOVE!",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/hands-off-sawaranaide-kotesashi-kun-uncensored/": {
-    "group": "HANDS OFF: SAWARANAIDE KOTESASHI-KUN (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/the-fated-magical-princess-who-made-me-a-princess/": {
-    "group": "THE FATED MAGICAL PRINCESS: WHO MADE ME A PRINCESS",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/anime/one-piece/": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1145,
-    "start_episode": 1130
   }
 }

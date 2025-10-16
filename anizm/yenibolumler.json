@@ -1,4 +1,34 @@
 {
+  "/futari-solo-camp": {
+    "group": "FUTARI SOLO CAMP",
+    "last_season": 1,
+    "last_episode": 14.0,
+    "start_episode": 1
+  },
+  "/watashi-wo-tabetai-hitodenashi": {
+    "group": "WATASHI WO TABETAI, HITODENASHI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/potion-wagami-wo-tasukeru": {
+    "group": "POTION, WAGAMI WO TASUKERU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/towa-no-yuugure": {
+    "group": "TOWA NO YUUGURE",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/taiyou-yori-mo-mabushii-hoshi": {
+    "group": "TAIYOU YORI MO MABUSHII HOSHI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
   "/bukiyou-na-senpai": {
     "group": "BUKIYOU NA SENPAI.",
     "last_season": 1,
@@ -69,42 +99,6 @@
     "group": "YANO-KUN NO FUTSUU NO HIBI",
     "last_season": 1,
     "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/tondemo-skill-de-isekai-hourou-meshi-2": {
-    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/ninja-to-gokudou": {
-    "group": "NINJA TO GOKUDOU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/chitose-kun-wa-ramune-bin-no-naka": {
-    "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/egao-no-taenai-shokuba-desu": {
-    "group": "EGAO NO TAENAI SHOKUBA DESU.",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/3-nen-z-gumi-ginpachi-sensei": {
-    "group": "3-NEN Z-GUMI GINPACHI-SENSEI",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
-    "group": "ANSATSUSHA DE ARU ORE NO STATUS GA YUUSHA YORI MO AKIRAKA NI TSUYOI NO DA GA",
-    "last_season": 1,
-    "last_episode": 2.0,
     "start_episode": 1
   }
 }

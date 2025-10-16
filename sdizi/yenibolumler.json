@@ -1,4 +1,10 @@
 {
+  "/diziler/family-guy.html": {
+    "group": "FAMILY GUY",
+    "last_season": 23,
+    "last_episode": 18,
+    "start_episode": 1
+  },
   "/diziler/the-diplomat.html": {
     "group": "THE DIPLOMAT",
     "last_season": 3,
@@ -75,12 +81,6 @@
     "group": "TASK",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/confidence-queen.html": {
-    "group": "CONFIDENCE QUEEN",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
