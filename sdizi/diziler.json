@@ -3319,8 +3319,8 @@
   },
   "/diziler/the-diplomat.html": {
     "group": "THE DIPLOMAT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/black-mafia-family.html": {
@@ -13718,7 +13718,7 @@
   "/diziler/south-park.html": {
     "group": "SOUTH PARK",
     "last_season": 27,
-    "last_episode": 6,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/harley-and-the-davidsons.html": {
@@ -16004,7 +16004,7 @@
   "/diziler/murdaugh-death-in-the-family.html": {
     "group": "MURDAUGH: DEATH IN THE FAMILY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   }
 }
