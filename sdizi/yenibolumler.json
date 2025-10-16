@@ -1,7 +1,13 @@
 {
+  "/diziler/south-park.html": {
+    "group": "SOUTH PARK",
+    "last_season": 27,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/diziler/murdaugh-death-in-the-family.html": {
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 0,
     "group": "MURDAUGH: DEATH IN THE FAMILY",
     "start_episode": 1
   },
@@ -75,12 +81,6 @@
     "group": "ONE PUNCH MAN",
     "last_season": 3,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/diziler/gachiakuta.html": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 14,
     "start_episode": 1
   }
 }
