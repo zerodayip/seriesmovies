@@ -10102,5 +10102,11 @@
     "last_season": 1,
     "last_episode": 5,
     "start_episode": 1
+  },
+  "/dizi/gassal-2024-izle-7/": {
+    "group": "GASSAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -27880,5 +27880,23 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi-izle/splinter-cell-deathwatch": {
+    "group": "SPLINTER CELL: DEATHWATCH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/murdaugh-death-in-the-family": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-chair-company": {
+    "group": "THE CHAIR COMPANY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
