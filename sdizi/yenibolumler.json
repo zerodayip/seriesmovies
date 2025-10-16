@@ -1,4 +1,10 @@
 {
+  "/diziler/the-diplomat.html": {
+    "group": "THE DIPLOMAT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/south-park.html": {
     "group": "SOUTH PARK",
     "last_season": 27,
@@ -6,9 +12,9 @@
     "start_episode": 1
   },
   "/diziler/murdaugh-death-in-the-family.html": {
-    "last_season": 1,
-    "last_episode": 3,
     "group": "MURDAUGH: DEATH IN THE FAMILY",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/diziler/loot.html": {
@@ -75,12 +81,6 @@
     "group": "CONFIDENCE QUEEN",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/one-punch-man.html": {
-    "group": "ONE PUNCH MAN",
-    "last_season": 3,
-    "last_episode": 1,
     "start_episode": 1
   }
 }
