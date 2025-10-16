@@ -1,4 +1,10 @@
 {
+  "/kakuriyo-no-yadomeshi-ni": {
+    "group": "KAKURIYO NO YADOMESHI NI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/lets-play-quest-darake-no-my-life": {
     "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "ISEKAI QUARTET 3",
     "last_season": 1,
     "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/sozai-saishuka-no-isekai-ryokouki": {
-    "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }
