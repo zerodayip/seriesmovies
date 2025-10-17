@@ -10120,5 +10120,11 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/dizi/to-cook-a-bear/": {
+    "group": "TO COOK A BEAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
