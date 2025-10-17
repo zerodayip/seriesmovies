@@ -32,13 +32,13 @@
   "/dizi-izle/no-one-saw-us-leave": {
     "group": "NO ONE SAW US LEAVE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/to-cook-a-bear": {
     "group": "TO COOK A BEAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/chad-powers": {
@@ -50,7 +50,7 @@
   "/dizi-izle/romantics-anonymous": {
     "group": "ROMANTICS ANONYMOUS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/reasonable-doubt/": {
@@ -67,8 +67,8 @@
   },
   "/dizi-izle/the-diplomat/": {
     "group": "THE DIPLOMAT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   }
 }
