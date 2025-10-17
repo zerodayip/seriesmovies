@@ -1,4 +1,22 @@
 {
+  "/diziler/turn-of-the-tide.html": {
+    "group": "TURN OF THE TIDE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/stugo.html": {
+    "group": "STUGO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/to-cook-a-bear.html": {
+    "group": "TO COOK A BEAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/the-murky-stream.html": {
     "group": "THE MURKY STREAM",
     "last_season": 1,
@@ -63,24 +81,6 @@
     "group": "THE MORNING SHOW",
     "last_season": 4,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/high-potential.html": {
-    "group": "HIGH POTENTIAL",
-    "last_season": 2,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/splinter-cell-deathwatch.html": {
-    "group": "SPLINTER CELL: DEATHWATCH",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/smiling-friends.html": {
-    "group": "SMILING FRIENDS",
-    "last_season": 3,
-    "last_episode": 2,
     "start_episode": 1
   }
 }

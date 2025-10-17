@@ -16006,5 +16006,17 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/diziler/stugo.html": {
+    "group": "STUGO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/to-cook-a-bear.html": {
+    "group": "TO COOK A BEAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
