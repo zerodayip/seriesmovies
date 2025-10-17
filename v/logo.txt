@@ -6,5 +6,5 @@ BEIN SPORTS 5, BEIN SPORTS 5 FHD, BEIN SPORTS 5 HD=https://raw.githubusercontent
 BEIN SPORTS FEED=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/beinfeed.png
 BEIN SPORTS HABER, BEIN SPORTS HABER HD, BEIN SPORTS HABER RAW=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/beinhaber.png
 BEIN SPORTS MAX 1, BEIN SPORTS MAX 1 FHD, BEIN SPORTS MAX 1 HD=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/bein1max.png
-BEIN SPORTS MAX 2 FHD, BEIN SPORTS MAX 2 HD=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/bein2max.png
+BEIN SPORTS MAX 2, BEIN SPORTS MAX 2 FHD, BEIN SPORTS MAX 2 HD=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/bein2max.png
 FILBOX SPOR 1 MACZAMANI, FILBOX SPOR 2 MACZAMANI, FILBOX SPOR 3 MACZAMANI=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/filbox.png
