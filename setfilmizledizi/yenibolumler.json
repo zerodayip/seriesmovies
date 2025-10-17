@@ -1,32 +1,14 @@
 {
-  "/dizi/high-potential/": {
-    "group": "HIGH POTENTIAL",
-    "last_season": 2,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/dizi/no-one-saw-us-leave/": {
-    "group": "NO ONE SAW US LEAVE",
+  "/dizi/the-diplomat/": {
+    "group": "THE DIPLOMAT",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/gen-v-1-izle/": {
-    "group": "GEN V",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/confidence-queen/": {
-    "group": "CONFIDENCE QUEEN",
+  "/dizi/murdaugh-death-in-the-family/": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
     "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi/cobra-kai-izle/": {
-    "group": "COBRA KAI",
-    "last_season": 6,
-    "last_episode": 15,
+    "last_episode": 0,
     "start_episode": 1
   }
 }

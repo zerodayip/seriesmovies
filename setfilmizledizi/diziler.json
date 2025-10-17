@@ -10108,5 +10108,17 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi/the-diplomat/": {
+    "group": "THE DIPLOMAT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/murdaugh-death-in-the-family/": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
