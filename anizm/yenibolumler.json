@@ -1,4 +1,10 @@
 {
+  "/catseye": {
+    "group": "CAT'S♥EYE",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/shin-cutie-honey": {
     "group": "SHIN CUTIE HONEY",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "SAKAMOTO DESU GA?",
     "last_season": 1,
     "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/heika-watashi-wo-wasurete-kudasai": {
-    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
-    "last_season": 1,
-    "last_episode": 2.0,
     "start_episode": 1
   }
 }
