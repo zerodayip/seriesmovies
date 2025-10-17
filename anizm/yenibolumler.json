@@ -1,4 +1,16 @@
 {
+  "/shin-cutie-honey": {
+    "group": "SHIN CUTIE HONEY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/akujiki-reijou-to-kyouketsu-koushaku": {
+    "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/futari-solo-camp": {
     "group": "FUTARI SOLO CAMP",
     "last_season": 1,
@@ -87,18 +99,6 @@
     "group": "HEIKA WATASHI WO WASURETE KUDASAI",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/debu-to-love-to-ayamachi-to": {
-    "group": "DEBU TO LOVE TO AYAMACHI TO!",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/yano-kun-no-futsuu-no-hibi": {
-    "group": "YANO-KUN NO FUTSUU NO HIBI",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }
