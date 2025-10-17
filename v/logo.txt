@@ -1,1 +1,9 @@
-BEIN SPORTS 1, BEIN SPORTS 1 +, BEIN SPORTS 1 50 FPS, BEIN SPORTS 1 FEED, BEIN SPORTS 1 H265, BEIN SPORTS 1 HD, BEIN SPORTS 1 HD, BEIN SPORTS 1 [LIVE DURING EVENTS ONLY], BEIN SPORTS 720P FEED, BEIN SPORTS 8K FEED, BEIN SPORTS 4K FEED=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/bein1.png
+BEIN SPORTS 1, BEIN SPORTS 1 +, BEIN SPORTS 1 50 FPS, BEIN SPORTS 1 FEED, BEIN SPORTS 1 H265, BEIN SPORTS 1 HD, BEIN SPORTS 1 HD, BEIN SPORTS 1 [LIVE DURING EVENTS ONLY], BEIN SPORTS 720P FEED, BEIN SPORTS 8K FEED, BEIN SPORTS 4K FEED=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/bein.png
+BEIN SPORTS 2, BEIN SPORTS 2 HD, BEIN SPORTS 2 SD, BEIN SPORTS 2 UHD=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/bein2.png
+BEIN SPORTS 3, BEIN SPORTS 3 HD, BEIN SPORTS 3 SD, BEIN SPORTS 3 UHD=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/bein3.png
+BEIN SPORTS 4, BEIN SPORTS 4 HD, BEIN SPORTS 4 UHD=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/bein4.png
+BEIN SPORTS 5, BEIN SPORTS 5 FHD, BEIN SPORTS 5 HD=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/bein5.png
+BEIN SPORTS FEED=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/beinfeed.png
+BEIN SPORTS HABER, BEIN SPORTS HABER HD, BEIN SPORTS HABER RAW=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/beinhaber.png
+BEIN SPORTS MAX 1, BEIN SPORTS MAX 1 FHD, BEIN SPORTS MAX 1 HD=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/bein1max.png
+BEIN SPORTS MAX 2 FHD, BEIN SPORTS MAX 2 HD=https://raw.githubusercontent.com/MDuymaz/yedekhesap/master/kanallogolari/bein2max.png
