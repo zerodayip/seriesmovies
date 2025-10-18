@@ -1,4 +1,22 @@
 {
+  "/boku-no-hero-academia-final-season": {
+    "group": "BOKU NO HERO ACADEMIA: FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/a-girl": {
+    "group": "A-GIRL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/golgo-13-tv": {
+    "group": "GOLGO 13 (TV)",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
   "/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka": {
     "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
     "last_season": 1,
@@ -27,12 +45,6 @@
     "group": "SHINJITEITA NAKAMA-TACHI NI DUNGEON OKUCHI DE KOROSAREKAKETA GA GIFT \"MUGEN GACHA\" DE LEVEL 9999 NO NAKAMA-TACHI WO TE NI IRETE MOTO PARTY MEMBER TO SEKAI NI FUKUSHUU & \"ZAMAA!\" SHIMASU!",
     "last_season": 1,
     "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/golgo-13-tv": {
-    "group": "GOLGO 13 (TV)",
-    "last_season": 1,
-    "last_episode": 7.0,
     "start_episode": 1
   },
   "/megaton-kyuu-musashi": {
@@ -85,18 +97,6 @@
   },
   "/taiyou-yori-mo-mabushii-hoshi": {
     "group": "TAIYOU YORI MO MABUSHII HOSHI",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/bukiyou-na-senpai": {
-    "group": "BUKIYOU NA SENPAI.",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/kakuriyo-no-yadomeshi-ni": {
-    "group": "KAKURIYO NO YADOMESHI NI",
     "last_season": 1,
     "last_episode": 3.0,
     "start_episode": 1

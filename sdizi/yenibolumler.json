@@ -1,4 +1,10 @@
 {
+  "/diziler/my-hero-academia.html": {
+    "group": "MY HERO ACADEMIA",
+    "last_season": 8,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/diziler/turn-of-the-tide.html": {
     "group": "TURN OF THE TIDE",
     "last_season": 2,
@@ -75,12 +81,6 @@
     "group": "SLOW HORSES",
     "last_season": 5,
     "last_episode": 4,
-    "start_episode": 1
-  },
-  "/diziler/the-morning-show.html": {
-    "group": "THE MORNING SHOW",
-    "last_season": 4,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
