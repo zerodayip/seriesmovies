@@ -10126,5 +10126,17 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/carnivale/": {
+    "group": "CARNIVÀLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/true-detective-izle-2/": {
+    "group": "TRUE DETECTIVE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

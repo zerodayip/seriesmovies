@@ -27916,5 +27916,17 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/dizi-izle/mr-scorsese": {
+    "group": "MR. SCORSESE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/hollywood-hustler-glitz-glam-scam": {
+    "group": "HOLLYWOOD HUSTLER: GLITZ, GLAM, SCAM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
