@@ -1006,5 +1006,11 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/mermaids-scar": {
+    "group": "MERMAID`S SCAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
