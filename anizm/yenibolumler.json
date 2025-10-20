@@ -1,4 +1,28 @@
 {
+  "/hackroots": {
+    "group": ".HACK//ROOTS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/debu-to-love-to-ayamachi-to": {
+    "group": "DEBU TO LOVE TO AYAMACHI TO!",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
+    "group": "ANSATSUSHA DE ARU ORE NO STATUS GA YUUSHA YORI MO AKIRAKA NI TSUYOI NO DA GA",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/sozai-saishuka-no-isekai-ryokouki": {
+    "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/hackintermezzo": {
     "group": ".HACK//INTERMEZZO",
     "last_season": 1,
@@ -79,24 +103,6 @@
   },
   "/digimon-beatbreak": {
     "group": "DIGIMON BEATBREAK",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/kingdom-6th-season": {
-    "group": "KINGDOM 6TH SEASON",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/chanto-suenai-kyuuketsuki-chan": {
-    "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/fumetsu-no-anata-e-season-3": {
-    "group": "FUMETSU NO ANATA E SEASON 3",
     "last_season": 1,
     "last_episode": 3.0,
     "start_episode": 1
