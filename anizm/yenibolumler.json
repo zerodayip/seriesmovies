@@ -1,4 +1,10 @@
 {
+  "/golgo-13-tv": {
+    "group": "GOLGO 13 (TV)",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
   "/hackgu-trilogy": {
     "group": ".HACK//G.U. TRILOGY",
     "last_season": 1,
@@ -71,12 +77,6 @@
     "last_episode": 2.0,
     "start_episode": 1
   },
-  "/golgo-13-tv": {
-    "group": "GOLGO 13 (TV)",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
   "/fumetsu-no-anata-e-season-3": {
     "group": "FUMETSU NO ANATA E SEASON 3",
     "last_season": 1,
@@ -99,12 +99,6 @@
     "group": "MERMAID`S SCAR",
     "last_season": 1,
     "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/nageki-no-bourei-wa-intai-shitai-part-2": {
-    "group": "NAGEKI NO BOUREI WA INTAI SHITAI PART 2",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }

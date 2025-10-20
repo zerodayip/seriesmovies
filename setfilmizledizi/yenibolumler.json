@@ -1,4 +1,10 @@
 {
+  "/dizi/task/": {
+    "group": "TASK",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/dizi/carnivale/": {
     "group": "CARNIVÀLE",
     "last_season": 2,
