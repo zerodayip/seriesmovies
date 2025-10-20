@@ -1,4 +1,16 @@
 {
+  "/hackgu-trilogy": {
+    "group": ".HACK//G.U. TRILOGY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/hackgu-returner": {
+    "group": ".HACK//G.U. RETURNER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/mofa-gongzhu-de-xiao-fannao": {
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
@@ -91,18 +103,6 @@
   },
   "/nageki-no-bourei-wa-intai-shitai-part-2": {
     "group": "NAGEKI NO BOUREI WA INTAI SHITAI PART 2",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu": {
-    "group": "MIKATA GA YOWASUGITE HOJO MAHOU NI TESSHITEITA KYUUTEI MAHOUSHI, TSUIHOU SARETE SAIKYOU WO MEZASHIMASU",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/ranma--2024-2nd-season": {
-    "group": "RANMA ½ (2024) 2ND SEASON",
     "last_season": 1,
     "last_episode": 3.0,
     "start_episode": 1

@@ -1012,5 +1012,17 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/hackgu-trilogy": {
+    "group": ".HACK//G.U. TRILOGY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/hackgu-returner": {
+    "group": ".HACK//G.U. RETURNER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
