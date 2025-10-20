@@ -1,4 +1,16 @@
 {
+  "/anime/a-mangakas-weirdly-wonderful-workplace/": {
+    "group": "A MANGAKA’S WEIRDLY WONDERFUL WORKPLACE",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
+    "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/anime/hands-off-sawaranaide-kotesashi-kun-uncensored/": {
     "group": "HANDS OFF: SAWARANAIDE KOTESASHI-KUN (UNCENSORED)",
     "last_season": 1,
@@ -103,18 +115,6 @@
   },
   "/anime/touring-after-the-apocalypse/": {
     "group": "TOURING AFTER THE APOCALYPSE",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/anime/to-your-eternity-season-3/": {
-    "group": "TO YOUR ETERNITY SEASON 3",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/anime/let-this-grieving-soul-retire-cour-2/": {
-    "group": "LET THIS GRIEVING SOUL RETIRE COUR 2",
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1

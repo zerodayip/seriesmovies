@@ -1024,5 +1024,17 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/hackintermezzo": {
+    "group": ".HACK//INTERMEZZO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/mf-ghost": {
+    "group": "MF GHOST",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

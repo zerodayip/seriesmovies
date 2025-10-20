@@ -1,4 +1,22 @@
 {
+  "/hackintermezzo": {
+    "group": ".HACK//INTERMEZZO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/alma-chan-wa-kazoku-ni-naritai": {
+    "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/mf-ghost": {
+    "group": "MF GHOST",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/golgo-13-tv": {
     "group": "GOLGO 13 (TV)",
     "last_season": 1,
@@ -81,24 +99,6 @@
     "group": "FUMETSU NO ANATA E SEASON 3",
     "last_season": 1,
     "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
-    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun": {
-    "group": "KAO NI DENAI KASHIWADA-SAN TO KAO NI DERU OOTA-KUN",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/mermaids-scar": {
-    "group": "MERMAID`S SCAR",
-    "last_season": 1,
-    "last_episode": 1.0,
     "start_episode": 1
   }
 }
