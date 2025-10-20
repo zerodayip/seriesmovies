@@ -8,13 +8,13 @@
   "/hackgu-returner": {
     "group": ".HACK//G.U. RETURNER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/mofa-gongzhu-de-xiao-fannao": {
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
-    "last_episode": 5.0,
+    "last_episode": 6.0,
     "start_episode": 1
   },
   "/kikaijikake-no-marie": {
