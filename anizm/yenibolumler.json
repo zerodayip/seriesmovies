@@ -1,4 +1,10 @@
 {
+  "/dragon-raja-ii--the-mourners-eyes-": {
+    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
+    "last_season": 1,
+    "last_episode": 15.0,
+    "start_episode": 1
+  },
   "/golgo-13-tv": {
     "group": "GOLGO 13 (TV)",
     "last_season": 1,
@@ -91,12 +97,6 @@
   },
   "/kikaijikake-no-marie": {
     "group": "KIKAIJIKAKE NO MARIE",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/shuumatsu-touring": {
-    "group": "SHUUMATSU TOURING",
     "last_season": 1,
     "last_episode": 3.0,
     "start_episode": 1
