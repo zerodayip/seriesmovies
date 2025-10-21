@@ -1,4 +1,10 @@
 {
+  "/3-nen-z-gumi-ginpachi-sensei": {
+    "group": "3-NEN Z-GUMI GINPACHI-SENSEI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/009-recyborg": {
     "group": "009 RE:CYBORG",
     "last_season": 1,
@@ -100,11 +106,5 @@
     "last_season": 1,
     "last_episode": 3.0,
     "start_episode": 1
-  },
-  "/one-piece": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1146.0,
-    "start_episode": 1100
   }
 }
