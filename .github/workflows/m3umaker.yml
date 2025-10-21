@@ -62,9 +62,13 @@ jobs:
       - name: Run dizilifeyenibolumler.py
         run: python private_py/series/dizilife/yenibolumler.py
 
-      # 2. FilmHane Diziler Yerli Scripts ( 403 hatası mevcut )
+      # 2. FilmHane Diziler Yerli Scripts
       - name: Run filmhaneyenibolumler.py
         run: python private_py/series/filmhane/yenibolumler.py
+
+      # 2. Diziyiİzle Diziler Yerli Scripts
+      - name: Run diziyiizleyenibolumler.py
+        run: python private_py/series/diziyiizle/yenibolumler.py
 
       - name: Sync Vavoo outputs to private m3u8file repo
         run: |
@@ -74,11 +78,12 @@ jobs:
           cp dizilifedizi.m3u privaate_m3u8file/dizilifedizi.m3u || echo "dizilifedizi.m3u bulunamadı"
           cp filmhanedizi.m3u privaate_m3u8file/filmhanedizi.m3u || echo "filmhanedizi.m3u bulunamadı"
           cp gunluk_spor.m3u privaate_m3u8file/gunluk_spor.m3u || echo "gunluk_spor.m3u bulunamadı"
+          cp diziyiizledizi.m3u privaate_m3u8file/diziyiizledizi.m3u || echo "diziyiizledizi.m3u bulunamadı"
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add vavoo.m3u dizifundizi.m3u dizilifedizi.m3u gunluk_spor.m3u filmhanedizi.m3u
-          git commit -m "Vavoo & DiziFun & DiziLife & FilmHane & Gunluk Spor çıktısı güncellendi [auto]" || echo "No changes"
+          git add vavoo.m3u dizifundizi.m3u dizilifedizi.m3u gunluk_spor.m3u filmhanedizi.m3u diziyiizledizi.m3u
+          git commit -m "Canlı Kanal ve Otomatik Embed linklerin çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
 
       # 3. Run All JSON
