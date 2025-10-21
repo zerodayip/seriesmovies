@@ -1,4 +1,10 @@
 {
+  "/golgo-13-tv": {
+    "group": "GOLGO 13 (TV)",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
   "/3-nen-z-gumi-ginpachi-sensei": {
     "group": "3-NEN Z-GUMI GINPACHI-SENSEI",
     "last_season": 1,
@@ -65,12 +71,6 @@
     "last_episode": 6.0,
     "start_episode": 1
   },
-  "/golgo-13-tv": {
-    "group": "GOLGO 13 (TV)",
-    "last_season": 1,
-    "last_episode": 13.0,
-    "start_episode": 1
-  },
   "/hackgu-trilogy": {
     "group": ".HACK//G.U. TRILOGY",
     "last_season": 1,
@@ -97,12 +97,6 @@
   },
   "/shuumatsu-touring": {
     "group": "SHUUMATSU TOURING",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
-    "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
     "last_season": 1,
     "last_episode": 3.0,
     "start_episode": 1
