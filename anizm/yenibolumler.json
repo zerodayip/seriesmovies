@@ -1,4 +1,22 @@
 {
+  "/009-recyborg": {
+    "group": "009 RE:CYBORG",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/hackunison": {
+    "group": ".HACK//UNISON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/hacktasogare-no-udewa-densetsu": {
+    "group": ".HACK//TASOGARE NO UDEWA DENSETSU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/hackroots": {
     "group": ".HACK//ROOTS",
     "last_season": 1,
@@ -88,23 +106,5 @@
     "last_season": 1,
     "last_episode": 1146.0,
     "start_episode": 1100
-  },
-  "/gachiakuta": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 15.0,
-    "start_episode": 1
-  },
-  "/one-punch-man-3": {
-    "group": "ONE PUNCH MAN 3",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/digimon-beatbreak": {
-    "group": "DIGIMON BEATBREAK",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
   }
 }

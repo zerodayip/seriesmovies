@@ -1042,5 +1042,23 @@
     "last_season": 1,
     "last_episode": 26.0,
     "start_episode": 1
+  },
+  "/009-recyborg": {
+    "group": "009 RE:CYBORG",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/hackunison": {
+    "group": ".HACK//UNISON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/hacktasogare-no-udewa-densetsu": {
+    "group": ".HACK//TASOGARE NO UDEWA DENSETSU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
