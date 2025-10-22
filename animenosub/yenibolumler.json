@@ -1,4 +1,16 @@
 {
+  "/anime/wandance/": {
+    "group": "WANDANCE",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/monster-strike-deadverse-reloaded/": {
+    "group": "MONSTER STRIKE: DEADVERSE RELOADED",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/yano-kuns-ordinary-days/": {
     "group": "YANO-KUN’S ORDINARY DAYS",
     "last_season": 1,
@@ -105,18 +117,6 @@
     "group": "MECHANICAL MARIE",
     "last_season": 1,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/anime/lil-miss-vampire-cant-suck-right/": {
-    "group": "LI’L MISS VAMPIRE CAN’T SUCK RIGHT",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/blue-orchestra-season-2/": {
-    "group": "BLUE ORCHESTRA SEASON 2",
-    "last_season": 1,
-    "last_episode": 2,
     "start_episode": 1
   }
 }

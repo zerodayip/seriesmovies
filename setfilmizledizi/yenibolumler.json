@@ -1,4 +1,10 @@
 {
+  "/dizi/gen-v-1-izle/": {
+    "group": "GEN V",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/dizi/the-cage/": {
     "group": "THE CAGE",
     "last_season": 1,
