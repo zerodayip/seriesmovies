@@ -287,16 +287,16 @@ jobs:
 #        run: python private_py/series/dizipal/yenibolumler.py
 
       # Direkt m3ufile gizli reposuna push yapmaktadır.
-      - name: Sync Dizipal outputs to private m3u8file repo
-        run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8filex
-          cp dizipalyerlidizi.m3u privaate_m3u8filex/dizipalyerlidizi.m3u || echo "dizipalyerlidizi.m3u bulunamadı"
-          cd privaate_m3u8filex
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add dizipalyerlidizi.m3u
-          git commit -m "Dizipal linklerin çıktısı güncellendi [auto]" || echo "No changes"
-          git push origin main
+#      - name: Sync Dizipal outputs to private m3u8file repo
+#        run: |
+#          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8filex
+#          cp dizipalyerlidizi.m3u privaate_m3u8filex/dizipalyerlidizi.m3u || echo "dizipalyerlidizi.m3u bulunamadı"
+#          cd privaate_m3u8filex
+#          git config user.name "GitHub Actions"
+#          git config user.email "actions@github.com"
+#          git add dizipalyerlidizi.m3u
+#          git commit -m "Dizipal linklerin çıktısı güncellendi [auto]" || echo "No changes"
+#          git push origin main
           
   part3:
     name: Step 11 Çalıştır
