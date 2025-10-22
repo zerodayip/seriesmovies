@@ -1,4 +1,10 @@
 {
+  "/diziler/the-monster-of-florence.html": {
+    "group": "THE MONSTER OF FLORENCE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/murdaugh-death-in-the-family.html": {
     "group": "MURDAUGH: DEATH IN THE FAMILY",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "ONE PUNCH MAN",
     "last_season": 3,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/gachiakuta.html": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 15,
     "start_episode": 1
   }
 }
