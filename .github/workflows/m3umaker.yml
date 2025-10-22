@@ -43,32 +43,32 @@ jobs:
           playwright install
 
       # 1. Vavoo IPTV Scripts
-#      - name: Run KENDI PROXY UZERINDEN YAYIN ALINIYOR.py
-#        run: python private_py/vavoo/iptv/vavooiptvkendi.py
+      - name: Run KENDI PROXY UZERINDEN YAYIN ALINIYOR.py
+        run: python private_py/vavoo/iptv/vavooiptvkendi.py
 
       # 1. Vavoo IPTV Scripts
 #      - name: Run DIGER PROXY UZERINDEN YAYIN ALINMAKTADIR.py
 #        run: python private_py/vavoo/iptv/vavooiptvgoldvod.py
 
       # 1. Gunluk Spor Akısı
-#      - name: Run GunlukSporAkısı.py
-#        run: python private_py/channels/gunluksporakısı/sporekranı.py
+      - name: Run GunlukSporAkısı.py
+        run: python private_py/channels/gunluksporakısı/sporekranı.py
 
       # 2. DiziFun Diziler Yerli Scripts
 #      - name: Run dizifunyenibolumler.py
 #        run: python private_py/series/dizifun/yenibolumler.py
 
       # 2. DiziLife Diziler Yerli Scripts
-#      - name: Run dizilifeyenibolumler.py
-#        run: python private_py/series/dizilife/yenibolumler.py
+      - name: Run dizilifeyenibolumler.py
+        run: python private_py/series/dizilife/yenibolumler.py
 
       # 2. FilmHane Diziler Yerli Scripts
-#      - name: Run filmhaneyenibolumler.py
-#        run: python private_py/series/filmhane/yenibolumler.py
+      - name: Run filmhaneyenibolumler.py
+        run: python private_py/series/filmhane/yenibolumler.py
 
       # 2. Diziyiİzle Diziler Yerli Scripts
-#      - name: Run diziyiizleyenibolumler.py
-#        run: python private_py/series/diziyiizle/yenibolumler.py
+      - name: Run diziyiizleyenibolumler.py
+        run: python private_py/series/diziyiizle/yenibolumler.py
 
       - name: Sync Vavoo outputs to private m3u8file repo
         run: |
@@ -87,20 +87,20 @@ jobs:
           git push origin main
 
       # 3. Run All JSON
-#      - name: Run Dizigom JSON Script
-#        run: python private_py/series/dizigom/dizigomdizijson.py
+      - name: Run Dizigom JSON Script
+        run: python private_py/series/dizigom/dizigomdizijson.py
 
-#      - name: Run Sezonlukdizi JSON Script
-#        run: python private_py/series/sezonlukdizi/tumdizilerjson.py
+      - name: Run Sezonlukdizi JSON Script
+        run: python private_py/series/sezonlukdizi/tumdizilerjson.py
 
-#      - name: Run Anizm JSON Script
-#        run: python private_py/anime/anizm/anizimjson.py
+      - name: Run Anizm JSON Script
+        run: python private_py/anime/anizm/anizimjson.py
 
-#      - name: Run AnimeNoSub JSON Script
-#        run: python private_py/anime/ingilizce/animenosub/animenosubjson.py
+      - name: Run AnimeNoSub JSON Script
+        run: python private_py/anime/ingilizce/animenosub/animenosubjson.py
 
-#      - name: Run SetfilmİzleDizi JSON Script
-#        run: python private_py/series/setfilmizledizi/setfilmizledizijson.py
+      - name: Run SetfilmİzleDizi JSON Script
+        run: python private_py/series/setfilmizledizi/setfilmizledizijson.py
 
 #      - name: Run Dizipal JSON Script
 #        run: python private_py/series/dizipal/dizipaljson.py
@@ -148,8 +148,8 @@ jobs:
           playwright install
 
       # 4. Sezonlukdizi M3U Maker
-#      - name: Run SezonlukDizi yenibolumler.py
-#        run: python private_py/series/sezonlukdizi/yenibolumler.py
+      - name: Run SezonlukDizi yenibolumler.py
+        run: python private_py/series/sezonlukdizi/yenibolumler.py
 
       - name: Commit and Push SezonlukDizi JSON to public repo
         run: |
@@ -171,8 +171,8 @@ jobs:
           git push origin main
 
       # 5. Dizigom M3U Maker
-#      - name: Run Dizigom yenibolumler.py
-#        run: python private_py/series/dizigom/yenibolumler.py
+      - name: Run Dizigom yenibolumler.py
+        run: python private_py/series/dizigom/yenibolumler.py
 
       - name: Commit and Push Dizigom JSON to public repo
         run: |
@@ -194,8 +194,8 @@ jobs:
           git push origin main
 
       # 6. Anizm M3U Maker
-#      - name: Run Anizm yenibolumler.py
-#        run: python private_py/anime/anizm/yenibolumler.py
+      - name: Run Anizm yenibolumler.py
+        run: python private_py/anime/anizm/yenibolumler.py
 
       - name: Commit and Push Anizm JSON to public repo
         run: |
@@ -259,8 +259,8 @@ jobs:
           git push origin main
 
       # 9. SetFilmİzleDizi M3U Maker
-#      - name: Run SetFilmİzleDizi yenibolumler.py
-#        run: python private_py/series/setfilmizledizi/yenibolumler.py
+      - name: Run SetFilmİzleDizi yenibolumler.py
+        run: python private_py/series/setfilmizledizi/yenibolumler.py
 
       - name: Commit and Push SetFilmİzleDizi JSON to public repo
         run: |
@@ -283,8 +283,8 @@ jobs:
           git push origin main
 
       # 10. Dizipal M3U Maker
-      - name: Run Dizipal yenibolumler.py
-        run: python private_py/series/dizipal/yenibolumler.py
+#      - name: Run Dizipal yenibolumler.py
+#        run: python private_py/series/dizipal/yenibolumler.py
 
       # Direkt m3ufile gizli reposuna push yapmaktadır.
       - name: Sync Dizipal outputs to private m3u8file repo
