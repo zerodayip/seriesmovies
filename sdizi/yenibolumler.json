@@ -1,8 +1,14 @@
 {
-  "/diziler/harlan-cobens-lazarus.html": {
+  "/diziler/murdaugh-death-in-the-family.html": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/diziler/harlan-cobens-lazarus.html": {
     "group": "HARLAN COBEN'S LAZARUS",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/diziler/loot.html": {
@@ -81,12 +87,6 @@
     "group": "GACHIAKUTA",
     "last_season": 1,
     "last_episode": 15,
-    "start_episode": 1
-  },
-  "/diziler/to-your-eternity.html": {
-    "group": "TO YOUR ETERNITY",
-    "last_season": 3,
-    "last_episode": 3,
     "start_episode": 1
   }
 }
