@@ -1,14 +1,20 @@
 {
+  "/egao-no-taenai-shokuba-desu": {
+    "group": "EGAO NO TAENAI SHOKUBA DESU.",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/wandance": {
     "group": "WANDANCE",
     "last_season": 1,
-    "last_episode": 3.0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
     "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
     "last_season": 1,
-    "last_episode": 5.0,
+    "last_episode": 4.0,
     "start_episode": 1
   },
   "/kimi-to-koete-koi-ni-naru": {
@@ -99,12 +105,6 @@
     "group": ".HACK//ROOTS",
     "last_season": 1,
     "last_episode": 26.0,
-    "start_episode": 1
-  },
-  "/debu-to-love-to-ayamachi-to": {
-    "group": "DEBU TO LOVE TO AYAMACHI TO!",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }
