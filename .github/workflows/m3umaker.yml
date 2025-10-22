@@ -299,7 +299,7 @@ jobs:
           git push origin main
           
   part3:
-    name: Step 10 Çalıştır
+    name: Step 11 Çalıştır
     runs-on: ubuntu-latest
     needs: part2
     env:
@@ -321,7 +321,7 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      # 10. YeniJSON to AnaJSON
+      # 11. YeniJSON to AnaJSON
       - name: Run yenibolumdenanajsona Script
         run: python private_py/series/yenibolumdenanajsona.py
 
@@ -334,7 +334,7 @@ jobs:
           git push origin main
 
   part4:
-    name: Step 11-12-13-14 Çalıştır
+    name: Step 12-13-14-15-16 Çalıştır
     runs-on: ubuntu-latest
     needs: part3
     env:
@@ -361,27 +361,33 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv
        
-      # 11. Dizizgom Filmler
+      # 12. Dizizgom Filmler
       - name: Run dizigomfilmler Script
         run: python private_py/movies/dizigom/dizigomfilmler.py
 
-      # 12. SetFilmİzle Filmler
+      # 13. SetFilmİzle Filmler
       - name: Run Setfilm Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/setfilmizle/ilksayfatümm3uolusturma.py
 
-      # 13. HDFilm Yabancı Filmler
+      # 14. HDFilm Yabancı Filmler
       - name: Run HDFilm Yabancı Filmler Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/hdfilmsite/ilksayfayabancıfilmler.py
 
-      # 14. HDFilm Yerli Filmler
+      # 15. HDFilm Yerli Filmler
       - name: Run HDFilm Yerli Filmler Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/hdfilmsite/ilksayfayerlifilmler.py
+
+      # 15. Dizipal Yerli Filmler
+      - name: Run Dizipal Yerli Filmler Script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python private_py/movies/dizipal/yerlifilm.py
 
       - name: Sync Filmler outputs to private m3u8file repo
         run: |
@@ -390,9 +396,10 @@ jobs:
           cp xtream/setfilmizlefilmler.m3u privatate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler.m3u bulunamadı"
           cp hdfilmsite.m3u privatate_m3u8file/hdfilmsite.m3u || echo "hdfilmsite.m3u bulunamadı"
           cp hdfilmsiteyerli.m3u privatate_m3u8file/hdfilmsiteyerli.m3u || echo "hdfilmsiteyerli.m3u bulunamadı"
+          cp dizipalyerlifilm.m3u privatate_m3u8file/dizipalyerlifilm.m3u || echo "dizipalyerlifilm.m3u bulunamadı"
           cd privatate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add setfilmizlefilmler.m3u dizigomfilmler.m3u hdfilmsite.m3u hdfilmsiteyerli.m3u
+          git add setfilmizlefilmler.m3u dizigomfilmler.m3u hdfilmsite.m3u hdfilmsiteyerli.m3u dizipalyerlifilm.m3u
           git commit -m "Filmlerin çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
