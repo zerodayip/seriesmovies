@@ -102,6 +102,9 @@ jobs:
       - name: Run SetfilmİzleDizi JSON Script
         run: python private_py/series/setfilmizledizi/setfilmizledizijson.py
 
+      - name: Run Dizipal JSON Script
+        run: python private_py/series/dizipal/dizipaljson.py
+
       - name: Commit and Push All JSONs to public repo
         run: |
           git config user.name "GitHub Actions"
@@ -111,11 +114,12 @@ jobs:
           git add anizm/*.json || echo "No anizm files"
           git add animenosub/*.json || echo "No animenosub files"
           git add setfilmizledizi/*.json || echo "No setfilmizledizi files"
+          git add dizipal/*.json || echo "No dizipal files"
           git commit -m "All JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
   part2:
-    name: Step 4-5-6-7-8-9 Çalıştır
+    name: Step 4-5-6-7-8-9-10 Çalıştır
     runs-on: ubuntu-latest
     needs: part1
     env:
@@ -266,6 +270,7 @@ jobs:
           git commit -m "SetFilmİzleDizi JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
+      # Direkt kendi gizli reposuna push yapmaktadır.
       - name: Sync setfilmizledizi output to private repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/setfilmizledizi.git private_setfilmizledizi
@@ -277,6 +282,22 @@ jobs:
           git commit -m "SetFilmİzleDizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
+      # 10. Dizipal M3U Maker
+      - name: Run Dizipal yenibolumler.py
+        run: python private_py/series/dizipal/yenibolumler.py
+
+      # Direkt m3ufile gizli reposuna push yapmaktadır.
+      - name: Sync Dizipal outputs to private m3u8file repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8filex
+          cp dizipalyerlidizi.m3u privaate_m3u8filex/dizipalyerlidizi.m3u || echo "dizipalyerlidizi.m3u bulunamadı"
+          cd privaate_m3u8filex
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dizipalyerlidizi.m3u
+          git commit -m "Dizipal linklerin çıktısı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          
   part3:
     name: Step 10 Çalıştır
     runs-on: ubuntu-latest
