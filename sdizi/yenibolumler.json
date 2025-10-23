@@ -1,20 +1,20 @@
 {
   "/diziler/adventure-time-fionna-and-cake.html": {
     "group": "ADVENTURE TIME: FIONNA & CAKE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/nobody-wants-this.html": {
     "group": "NOBODY WANTS THIS",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/black-mafia-family.html": {
     "group": "BLACK MAFIA FAMILY",
     "last_season": 4,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-monster-of-florence.html": {
