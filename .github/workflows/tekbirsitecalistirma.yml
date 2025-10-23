@@ -4,54 +4,63 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-anizm:
+  run-tek-bir-site:
     runs-on: ubuntu-latest
 
     steps:
+      # 🔹 Public repo'yu (JSON ve M3U'ların tutulduğu) çekiyoruz
       - name: Checkout Public Repo
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
           ref: main
 
+      # 🔹 Python ortamını kur
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
+      # 🔹 Private Py repo'sunu (script'lerin olduğu) klonla
       - name: Clone Private Py Repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
+      # 🔹 Python bağımlılıklarını kur
       - name: Install Python Dependencies
         run: |
           pip install --upgrade pip
           pip install requests beautifulsoup4 lxml html5lib
 
+      # 🔹 Ana script'i çalıştır (JSON + M3U oluşturur)
       - name: Run Tek Site Script
         run: python private_py/series/diziyo/diziyojson.py
 
-      - name: Commit and Push JSON to Public Repo
+      # 🔹 JSON ve M3U dosyalarını public repoya commit et ve pushla
+      - name: Commit and Push JSON & M3U to Public Repo
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add diziyo/*.json || echo "No JSON files"
-          git commit -m "JSON güncellendi [auto]" || echo "No changes"
+          git add diziyo/*.json diziyo/*.m3u diziyo/**/*.m3u || echo "No JSON or M3U files"
+          git commit -m "JSON ve M3U güncellendi [auto]" || echo "No changes"
           git push origin main
 
+      # 🔹 Private diziyo repo'sunu klonla
       - name: Clone Private Tek Site Repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/diziyo.git private_diziyo
 
+      # 🔹 diziyo klasöründeki tüm çıktıları private repo'ya kopyala
       - name: Copy All to Private Tek Site Repo
         run: |
           rsync -a diziyo/ private_diziyo/
 
+      # 🔹 Private diziyo repo'suna commit et ve pushla
       - name: Commit and Push All Files to Private Tek Site Repo
         run: |
           cd private_diziyo
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add . || echo "No files"
-          git commit -m "Çıktı güncellendi [auto]" || echo "No changes"
+          git commit -m "Diziyo çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
