@@ -1,4 +1,10 @@
 {
+  "/bukiyou-na-senpai": {
+    "group": "BUKIYOU NA SENPAI.",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/megaton-kyuu-musashi": {
     "group": "MEGATON-KYUU MUSASHI",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "MF GHOST",
     "last_season": 1,
     "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/dragon-raja-ii--the-mourners-eyes-": {
-    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
-    "last_season": 1,
-    "last_episode": 16.0,
     "start_episode": 1
   }
 }

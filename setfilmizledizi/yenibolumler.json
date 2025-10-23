@@ -1,4 +1,10 @@
 {
+  "/dizi/nobody-wants-this/": {
+    "group": "NOBODY WANTS THIS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/the-monster-of-florence/": {
     "group": "THE MONSTER OF FLORENCE",
     "last_season": 1,
@@ -51,18 +57,6 @@
     "group": "THE CAGE",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/task/": {
-    "group": "TASK",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/carnivale/": {
-    "group": "CARNIVÀLE",
-    "last_season": 2,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
