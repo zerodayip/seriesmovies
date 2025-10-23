@@ -105,6 +105,9 @@ jobs:
 #      - name: Run Dizipal JSON Script
 #        run: python private_py/series/dizipal/dizipaljson.py
 
+      - name: Run DiziYo JSON Script
+        run: python private_py/series/diziyo/diziyojson.py
+
       - name: Commit and Push All JSONs to public repo
         run: |
           git config user.name "GitHub Actions"
@@ -115,11 +118,12 @@ jobs:
           git add animenosub/*.json || echo "No animenosub files"
           git add setfilmizledizi/*.json || echo "No setfilmizledizi files"
           git add dizipal/*.json || echo "No dizipal files"
+          git add diziyo/*.json || echo "No diziyo files"
           git commit -m "All JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
   part2:
-    name: Step 4-5-6-7-8-9-10 Çalıştır
+    name: Step 4-5-6-7-8-9-10-11 Çalıştır
     runs-on: ubuntu-latest
     needs: part1
     env:
@@ -297,9 +301,32 @@ jobs:
 #          git add dizipalyerlidizi.m3u
 #          git commit -m "Dizipal linklerin çıktısı güncellendi [auto]" || echo "No changes"
 #          git push origin main
+
+      # 11. Diziyo M3U Maker
+      - name: Run DiziYo yenibolumler.py
+        run: python private_py/series/diziyo/yenibolumler.py
+
+      - name: Commit and Push DiziYo JSON to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add diziyo/*.json || echo "No JSON files"
+          git commit -m "DiziYo JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Sync Diziyo output to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/diziyo.git private_diziyo
+          rsync -a diziyo/ private_diziyo/
+          cd private_diziyo
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "DiziYo çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
           
   part3:
-    name: Step 11 Çalıştır
+    name: Step 12 Çalıştır
     runs-on: ubuntu-latest
     needs: part2
     env:
@@ -321,7 +348,7 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      # 11. YeniJSON to AnaJSON
+      # 12. YeniJSON to AnaJSON
       - name: Run yenibolumdenanajsona Script
         run: python private_py/series/yenibolumdenanajsona.py
 
@@ -329,12 +356,12 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add dizigom/*.json sdizi/*.json anizm/*.json animenosub/*.json setfilmizledizi/*.json || echo "No files"
+          git add dizigom/*.json sdizi/*.json anizm/*.json animenosub/*.json setfilmizledizi/*.json diziyo/*.json || echo "No files"
           git commit -m "All Ana JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
   part4:
-    name: Step 12-13-14-15-16 Çalıştır
+    name: Step 12-14-15-16-17 Çalıştır
     runs-on: ubuntu-latest
     needs: part3
     env:
@@ -362,29 +389,29 @@ jobs:
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv playwright
           playwright install
        
-      # 12. Dizizgom Filmler
+      # 13. Dizizgom Filmler
       - name: Run dizigomfilmler Script
         run: python private_py/movies/dizigom/dizigomfilmler.py
 
-      # 13. SetFilmİzle Filmler
+      # 14. SetFilmİzle Filmler
       - name: Run Setfilm Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/setfilmizle/ilksayfatümm3uolusturma.py
 
-      # 14. HDFilm Yabancı Filmler
+      # 15. HDFilm Yabancı Filmler
       - name: Run HDFilm Yabancı Filmler Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/hdfilmsite/ilksayfayabancıfilmler.py
 
-      # 15. HDFilm Yerli Filmler
+      # 16. HDFilm Yerli Filmler
       - name: Run HDFilm Yerli Filmler Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/hdfilmsite/ilksayfayerlifilmler.py
 
-      # 15. Dizipal Yerli Filmler
+      # 17. Dizipal Yerli Filmler
       - name: Run Dizipal Yerli Filmler Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
