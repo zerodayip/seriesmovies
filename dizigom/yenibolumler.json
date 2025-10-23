@@ -1,66 +1,24 @@
 {
-  "/dizi-izle/reasonable-doubt/": {
-    "group": "REASONABLE DOUBT",
-    "last_season": 3,
-    "last_episode": 6,
-    "start_episode": 1
-  },
   "/dizi-izle/the-chair-company": {
     "group": "THE CHAIR COMPANY",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
   },
-  "/dizi-izle/invasion/": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 9,
+  "/dizi-izle/slow-horses/": {
+    "group": "SLOW HORSES",
+    "last_season": 5,
+    "last_episode": 4,
     "start_episode": 1
   },
-  "/dizi-izle/romantics-anonymous": {
-    "group": "ROMANTICS ANONYMOUS",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/mr-scorsese": {
-    "group": "MR. SCORSESE",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/only-murders-in-the-building": {
-    "group": "ONLY MURDERS IN THE BUILDING",
+  "/dizi-izle/mob-war-philadelphia-vs-the-mafia": {
+    "group": "MOB WAR: PHILADELPHIA VS. THE MAFIA",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi-izle/starting-5/": {
-    "group": "STARTING 5",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-diplomat/": {
-    "group": "THE DIPLOMAT",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/task/": {
-    "group": "TASK",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/typhoon-family": {
-    "group": "TYPHOON FAMILY",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-last-frontier": {
-    "group": "THE LAST FRONTIER",
+  "/dizi-izle/murdaugh-death-in-the-family": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
@@ -71,10 +29,88 @@
     "last_episode": 9,
     "start_episode": 1
   },
+  "/dizi-izle/harlan-cobens-lazarus": {
+    "group": "HARLAN COBEN'S LAZARUS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-diplomat/": {
+    "group": "THE DIPLOMAT",
+    "last_season": 3,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/baby-bandito/": {
+    "group": "BABY BANDITO",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/loot/": {
+    "group": "LOOT",
+    "last_season": 3,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi-izle/typhoon-family": {
+    "group": "TYPHOON FAMILY",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-monster-of-florence": {
+    "group": "THE MONSTER OF FLORENCE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi-izle/hollywood-hustler-glitz-glam-scam": {
     "group": "HOLLYWOOD HUSTLER: GLITZ, GLAM, SCAM",
     "last_season": 1,
     "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi-izle/starting-5/": {
+    "group": "STARTING 5",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/task/": {
+    "group": "TASK",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/invasion/": {
+    "group": "INVASION",
+    "last_season": 3,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-morning-show/": {
+    "group": "THE MORNING SHOW",
+    "last_season": 4,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/only-murders-in-the-building": {
+    "group": "ONLY MURDERS IN THE BUILDING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/romantics-anonymous": {
+    "group": "ROMANTICS ANONYMOUS",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/gen-v": {
+    "group": "GEN V",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   }
 }

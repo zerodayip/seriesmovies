@@ -27928,5 +27928,23 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/dizi-izle/mob-war-philadelphia-vs-the-mafia": {
+    "group": "MOB WAR: PHILADELPHIA VS. THE MAFIA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/harlan-cobens-lazarus": {
+    "group": "HARLAN COBEN'S LAZARUS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-monster-of-florence": {
+    "group": "THE MONSTER OF FLORENCE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
