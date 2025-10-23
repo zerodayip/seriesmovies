@@ -32,9 +32,12 @@ jobs:
           pip install --upgrade pip
           pip install requests beautifulsoup4 lxml html5lib
 
-      # 🔹 Ana script'i çalıştır (JSON + M3U oluşturur)
-      - name: Run Tek Site Script
+      # 🔹 Ana script'i çalıştır
+      - name: Run Tek Site Json Script
         run: python private_py/series/diziyo/diziyojson.py
+
+      - name: Run Tek Site M3u Script
+        run: python private_py/series/diziyo/yenibolumler.py
 
       # 🔹 JSON ve M3U dosyalarını public repoya commit et ve pushla
       - name: Commit and Push JSON & M3U to Public Repo
