@@ -1,168 +1,150 @@
 {
-  "/dizi/watson.html": {
-    "group": "WATSON",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi/universal-basic-guys.html": {
+  "/dizi/universal-basic-guys": {
     "group": "UNIVERSAL BASIC GUYS",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/tracker.html": {
+  "/dizi/tracker": {
     "group": "TRACKER",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/the-simpsons.html": {
-    "group": "THE SIMPSONS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi/the-ridge.html": {
+  "/dizi/the-ridge": {
     "group": "THE RIDGE",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/the-rainmaker.html": {
+  "/dizi/the-rainmaker": {
     "group": "THE RAINMAKER",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/the-forsytes.html": {
+  "/dizi/the-forsytes": {
     "group": "THE FORSYTES",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/talamasca-the-secret-order.html": {
+  "/dizi/talamasca-the-secret-order": {
     "group": "TALAMASCA: THE SECRET ORDER",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/sheriff-country.html": {
+  "/dizi/sheriff-country": {
     "group": "SHERIFF COUNTRY",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/u-ri-yeong-hwa-asya.html": {
+  "/dizi/u-ri-yeong-hwa-asya": {
     "group": "U-RI YEONG-HWA",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/ncis-sydney.html": {
+  "/dizi/ncis-sydney": {
     "group": "NCIS: SYDNEY",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/murder-before-evensong.html": {
+  "/dizi/murder-before-evensong": {
     "group": "MURDER BEFORE EVENSONG",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/krapopolis.html": {
+  "/dizi/krapopolis": {
     "group": "KRAPOPOLIS",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/house-of-david.html": {
+  "/dizi/house-of-david": {
     "group": "DAVUD HANEDANI",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/fire-country.html": {
+  "/dizi/fire-country": {
     "group": "FIRE COUNTRY",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/film-club.html": {
+  "/dizi/film-club": {
     "group": "FILM CLUB",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/fbi.html": {
-    "group": "FBI",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi/dmv.html": {
+  "/dizi/dmv": {
     "group": "DMV",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/brilliant-minds.html": {
+  "/dizi/brilliant-minds": {
     "group": "BRILLIANT MINDS",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/boston-blue.html": {
+  "/dizi/boston-blue": {
     "group": "BOSTON BLUE",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/billy-the-kid.html": {
+  "/dizi/billy-the-kid": {
     "group": "BILLY THE KID",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/the-chair-company.html": {
+  "/dizi/the-chair-company": {
     "group": "THE CHAIR COMPANY",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/les-sentinelles.html": {
+  "/dizi/les-sentinelles": {
     "group": "MUHAFIZLAR: GIZLI PROJE",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/task.html": {
+  "/dizi/task": {
     "group": "TASK",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/matlock.html": {
+  "/dizi/matlock": {
     "group": "MATLOCK",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/grey-s-anatomy.html": {
-    "group": "GREY'S ANATOMY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi/elsbeth.html": {
+  "/dizi/elsbeth": {
     "group": "ELSBETH",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/9-1-1-nashville.html": {
+  "/dizi/9-1-1-nashville": {
     "group": "9-1-1: NASHVILLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/watson": {
+    "group": "WATSON",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
