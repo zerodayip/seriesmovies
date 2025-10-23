@@ -1,4 +1,4 @@
-name: Run Anizm
+name: Run Tek Bir Site
 
 on:
   workflow_dispatch:
@@ -26,33 +26,32 @@ jobs:
       - name: Install Python Dependencies
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml playwright
-          playwright install
+          pip install requests beautifulsoup4 lxml html5lib
 
-      - name: Run Anizm Script
-        run: python private_py/anime/anizm/yenibolumler.py
+      - name: Run Tek Site Script
+        run: python private_py/series/diziyo/diziyojson.py
 
       - name: Commit and Push JSON to Public Repo
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add anizm/*.json || echo "No JSON files"
-          git commit -m "Anizm JSON güncellendi [auto]" || echo "No changes"
+          git add diziyo/*.json || echo "No JSON files"
+          git commit -m "JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      - name: Clone Private Anizm Repo
+      - name: Clone Private Tek Site Repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/anizm.git private_anizm
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/diziyo.git private_diziyo
 
-      - name: Copy All to Private Anizm Repo
+      - name: Copy All to Private Tek Site Repo
         run: |
-          rsync -a anizm/ private_anizm/
+          rsync -a diziyo/ private_diziyo/
 
-      - name: Commit and Push All Files to Private Anizm Repo
+      - name: Commit and Push All Files to Private Tek Site Repo
         run: |
-          cd private_anizm
+          cd private_diziyo
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add . || echo "No files"
-          git commit -m "Anizm çıktı güncellendi [auto]" || echo "No changes"
+          git commit -m "Çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
