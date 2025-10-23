@@ -19,7 +19,7 @@
   },
   "/dizi/the-simpsons": {
     "group": "THE SIMPSONS",
-    "last_season": 1,
+    "last_season": 37,
     "last_episode": 0,
     "start_episode": 1
   },
@@ -97,7 +97,7 @@
   },
   "/dizi/fbi": {
     "group": "FBI",
-    "last_season": 1,
+    "last_season": 8,
     "last_episode": 0,
     "start_episode": 1
   },
@@ -151,7 +151,7 @@
   },
   "/dizi/grey-s-anatomy": {
     "group": "GREY'S ANATOMY",
-    "last_season": 1,
+    "last_season": 22,
     "last_episode": 0,
     "start_episode": 1
   },
