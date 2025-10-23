@@ -1,4 +1,10 @@
 {
+  "/diziler/30-rock.html": {
+    "group": "30 ROCK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/adventure-time-fionna-and-cake.html": {
     "group": "ADVENTURE TIME: FIONNA & CAKE",
     "last_season": 2,
@@ -81,12 +87,6 @@
     "group": "THE CHAIR COMPANY",
     "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/task.html": {
-    "group": "TASK",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   }
 }

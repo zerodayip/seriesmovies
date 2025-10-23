@@ -1,4 +1,40 @@
 {
+  "/golgo-13-tv": {
+    "group": "GOLGO 13 (TV)",
+    "last_season": 1,
+    "last_episode": 17.0,
+    "start_episode": 1
+  },
+  "/watashi-wo-tabetai-hitodenashi": {
+    "group": "WATASHI WO TABETAI, HITODENASHI",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/potion-wagami-wo-tasukeru": {
+    "group": "POTION, WAGAMI WO TASUKERU",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/akujiki-reijou-to-kyouketsu-koushaku": {
+    "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/towa-no-yuugure": {
+    "group": "TOWA NO YUUGURE",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/taiyou-yori-mo-mabushii-hoshi": {
+    "group": "TAIYOU YORI MO MABUSHII HOSHI",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/bukiyou-na-senpai": {
     "group": "BUKIYOU NA SENPAI.",
     "last_season": 1,
@@ -15,12 +51,6 @@
     "group": "AO NO ORCHESTRA SEASON 2",
     "last_season": 1,
     "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/golgo-13-tv": {
-    "group": "GOLGO 13 (TV)",
-    "last_season": 1,
-    "last_episode": 17.0,
     "start_episode": 1
   },
   "/si-vis-the-sound-of-heroes": {
@@ -69,42 +99,6 @@
     "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
     "last_season": 1,
     "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/uma-musume-cinderella-gray-part-2": {
-    "group": "UMA MUSUME: CINDERELLA GRAY PART 2",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/yano-kun-no-futsuu-no-hibi": {
-    "group": "YANO-KUN NO FUTSUU NO HIBI",
-    "last_season": 1,
-    "last_episode": 4.0,
-    "start_episode": 1
-  },
-  "/ninja-to-gokudou": {
-    "group": "NINJA TO GOKUDOU",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/chitose-kun-wa-ramune-bin-no-naka": {
-    "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/heika-watashi-wo-wasurete-kudasai": {
-    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/mf-ghost": {
-    "group": "MF GHOST",
-    "last_season": 1,
-    "last_episode": 7.0,
     "start_episode": 1
   }
 }

@@ -16030,5 +16030,11 @@
     "last_season": 1,
     "last_episode": 4,
     "start_episode": 1
+  },
+  "/diziler/30-rock.html": {
+    "group": "30 ROCK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
