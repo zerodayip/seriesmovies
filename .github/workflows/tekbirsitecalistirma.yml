@@ -36,9 +36,6 @@ jobs:
       - name: Run Tek Site Json Script
         run: python private_py/series/diziyo/diziyojson.py
 
-      - name: Run Tek Site M3u Script
-        run: python private_py/series/diziyo/yenibolumler.py
-
       # 🔹 JSON ve M3U dosyalarını public repoya commit et ve pushla
       - name: Commit and Push JSON & M3U to Public Repo
         run: |
@@ -47,6 +44,10 @@ jobs:
           git add diziyo/*.json || echo "No JSON files"
           git commit -m "JSON güncellendi [auto]" || echo "No changes"
           git push origin main
+
+
+#      - name: Run Tek Site M3u Script
+#        run: python private_py/series/diziyo/yenibolumler.py
 
       # 🔹 Private diziyo repo'sunu klonla
       - name: Clone Private Tek Site Repo
