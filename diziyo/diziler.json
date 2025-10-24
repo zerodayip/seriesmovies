@@ -362,7 +362,7 @@
   "/dizi/passing-the-reins-asya": {
     "group": "PASSING THE REINS",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/loot": {
@@ -385,14 +385,14 @@
   },
   "/dizi/odwil": {
     "group": "ODWILŻ",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/kurukshetra-the-great-war-of-mahabharata": {
     "group": "KURUKŞETRA: BÜYÜK MAHABHARATA SAVAŞI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 18,
     "start_episode": 1
   }
 }
