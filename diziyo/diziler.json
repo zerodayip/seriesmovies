@@ -244,5 +244,143 @@
     "last_season": 5,
     "last_episode": 4,
     "start_episode": 1
+  },
+  "/dizi/watching-you": {
+    "group": "WATCHING YOU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/georgie-mandy-s-first-marriage": {
+    "group": "GEORGIE & MANDY'S FIRST MARRIAGE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/brassic": {
+    "group": "BRASSIC",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/all-creatures-great-small": {
+    "group": "BÜYÜK KÜÇÜK TÜM HAYVANLAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/9-1-1": {
+    "group": "9-1-1",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/entrepreneurs": {
+    "group": "ENTREPRENEURS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/nobody-wants-this": {
+    "group": "NOBODY WANTS THIS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-reluctant-traveler-with-eugene-levy": {
+    "group": "THE RELUCTANT TRAVELER WITH EUGENE LEVY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-last-frontier": {
+    "group": "THE LAST FRONTIER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/reasonable-doubt": {
+    "group": "REASONABLE DOUBT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/knife-edge-chasing-michelin-stars": {
+    "group": "KNIFE EDGE: CHASING MICHELIN STARS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/invasion-2021": {
+    "group": "INVASION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/vgly": {
+    "group": "VGLY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/il-mostro": {
+    "group": "FLORANSA CANAVARI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-golden-egg-asya": {
+    "group": "THE GOLDEN EGG",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/takryu-asya": {
+    "group": "BULANIK DERE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/tae-pung-sang-sa-asya": {
+    "group": "TAE-PUNG-SANG-SA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/sorgu-yerli": {
+    "group": "SORGU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/slow-horses": {
+    "group": "SLOW HORSES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/passing-the-reins-asya": {
+    "group": "PASSING THE REINS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/loot": {
+    "group": "LOOT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/harlan-coben-s-lazarus": {
+    "group": "HARLAN COBEN'DEN LAZARUS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/gen-v": {
+    "group": "GEN V",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

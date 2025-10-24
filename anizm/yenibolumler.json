@@ -1,4 +1,10 @@
 {
+  "/catseye": {
+    "group": "CAT'S♥EYE",
+    "last_season": 1,
+    "last_episode": 4.0,
+    "start_episode": 1
+  },
   "/futari-solo-camp": {
     "group": "FUTARI SOLO CAMP",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
     "last_season": 1,
     "last_episode": 5.0,
-    "start_episode": 1
-  },
-  "/kimi-to-koete-koi-ni-naru": {
-    "group": "KIMI TO KOETE KOI NI NARU",
-    "last_season": 1,
-    "last_episode": 2.0,
     "start_episode": 1
   }
 }
