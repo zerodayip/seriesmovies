@@ -1,4 +1,22 @@
 {
+  "/dizi/passing-the-reins-asya": {
+    "group": "PASSING THE REINS",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/odwil": {
+    "group": "ODWILŻ",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/kurukshetra-the-great-war-of-mahabharata": {
+    "group": "KURUKŞETRA: BÜYÜK MAHABHARATA SAVAŞI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/watching-you": {
     "group": "WATCHING YOU",
     "last_season": 1,
@@ -137,12 +155,6 @@
     "last_episode": 5,
     "start_episode": 1
   },
-  "/dizi/passing-the-reins-asya": {
-    "group": "PASSING THE REINS",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
   "/dizi/loot": {
     "group": "LOOT",
     "last_season": 3,
@@ -153,18 +165,6 @@
     "group": "MUHAFIZLAR: GIZLI PROJE",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/harlan-coben-s-lazarus": {
-    "group": "HARLAN COBEN'DEN LAZARUS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/gen-v": {
-    "group": "GEN V",
-    "last_season": 2,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
