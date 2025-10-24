@@ -1,4 +1,10 @@
 {
+  "/futari-solo-camp": {
+    "group": "FUTARI SOLO CAMP",
+    "last_season": 1,
+    "last_episode": 15.0,
+    "start_episode": 1
+  },
   "/golgo-13-tv": {
     "group": "GOLGO 13 (TV)",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "KIMI TO KOETE KOI NI NARU",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/tondemo-skill-de-isekai-hourou-meshi-2": {
-    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }
