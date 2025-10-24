@@ -176,73 +176,73 @@
   "/dizi/the-lowdown": {
     "group": "THE LOWDOWN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/shifting-gears": {
     "group": "SHIFTING GEARS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/ncis-tony-ziva": {
     "group": "NCIS: TONY & ZIVA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/ncis-origins": {
     "group": "NCIS: ORIGINS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/murder-in-a-small-town": {
     "group": "MURDER IN A SMALL TOWN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/hudson-rex": {
     "group": "HUDSON & REX",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 8,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/high-potential": {
     "group": "YÜKSEK POTANSIYEL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/doc": {
     "group": "DOC",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/chicago-p-d": {
     "group": "CHICAGO P.D.",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 13,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/chicago-med": {
     "group": "CHICAGO MED",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 11,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/chicago-fire": {
     "group": "CHICAGO FIRE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 14,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/abbott-elementary": {
     "group": "ABBOTT ELEMENTARY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 4,
     "start_episode": 1
   }
 }
