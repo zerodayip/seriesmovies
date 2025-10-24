@@ -1,4 +1,10 @@
 {
+  "/dizi/karsilasmalar-yerli": {
+    "group": "KARŞILAŞMALAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/watson": {
     "group": "WATSON",
     "last_season": 2,
@@ -158,12 +164,6 @@
   "/dizi/elsbeth": {
     "group": "ELSBETH",
     "last_season": 3,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/9-1-1-nashville": {
-    "group": "9-1-1: NASHVILLE",
-    "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
   }
