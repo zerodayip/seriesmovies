@@ -1,4 +1,10 @@
 {
+  "/diziler/to-your-eternity.html": {
+    "group": "TO YOUR ETERNITY",
+    "last_season": 3,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/diziler/typhoon-family.html": {
     "group": "TYPHOON FAMILY",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "LOOT",
     "last_season": 3,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/diziler/the-morning-show.html": {
-    "group": "THE MORNING SHOW",
-    "last_season": 4,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
