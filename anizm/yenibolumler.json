@@ -1,4 +1,16 @@
 {
+  "/yasei-no-last-boss-ga-arawareta": {
+    "group": "YASEI NO LAST BOSS GA ARAWARETA!",
+    "last_season": 1,
+    "last_episode": 4.0,
+    "start_episode": 1
+  },
+  "/kekkon-yubiwa-monogatari-ii": {
+    "group": "KEKKON YUBIWA MONOGATARI II",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/boku-no-hero-academia-final-season": {
     "group": "BOKU NO HERO ACADEMIA: FINAL SEASON",
     "last_season": 1,
@@ -85,18 +97,6 @@
   },
   "/akujiki-reijou-to-kyouketsu-koushaku": {
     "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
-    "last_season": 1,
-    "last_episode": 4.0,
-    "start_episode": 1
-  },
-  "/towa-no-yuugure": {
-    "group": "TOWA NO YUUGURE",
-    "last_season": 1,
-    "last_episode": 4.0,
-    "start_episode": 1
-  },
-  "/taiyou-yori-mo-mabushii-hoshi": {
-    "group": "TAIYOU YORI MO MABUSHII HOSHI",
     "last_season": 1,
     "last_episode": 4.0,
     "start_episode": 1
