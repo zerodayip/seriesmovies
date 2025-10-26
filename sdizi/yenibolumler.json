@@ -1,4 +1,10 @@
 {
+  "/diziler/baby-daddy.html": {
+    "group": "BABY DADDY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/to-your-eternity.html": {
     "group": "TO YOUR ETERNITY",
     "last_season": 3,
@@ -81,12 +87,6 @@
     "group": "HARLAN COBEN'S LAZARUS",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/loot.html": {
-    "group": "LOOT",
-    "last_season": 3,
-    "last_episode": 3,
     "start_episode": 1
   }
 }
