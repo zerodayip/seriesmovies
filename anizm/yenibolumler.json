@@ -1,4 +1,16 @@
 {
+  "/kingdom-6th-season": {
+    "group": "KINGDOM 6TH SEASON",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
+    "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/shuumatsu-touring": {
     "group": "SHUUMATSU TOURING",
     "last_season": 1,
@@ -93,12 +105,6 @@
     "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
     "last_season": 1,
     "last_episode": 5.0,
-    "start_episode": 1
-  },
-  "/golgo-13-tv": {
-    "group": "GOLGO 13 (TV)",
-    "last_season": 1,
-    "last_episode": 21.0,
     "start_episode": 1
   }
 }
