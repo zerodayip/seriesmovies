@@ -52,7 +52,7 @@ jobs:
 
       # 1. Gunluk Spor Akısı
       - name: Run GunlukSporAkısı.py
-        run: python private_py/channels/gunluksporakısı/sporekranı.py
+        run: python private_py/channels/gunluksporakısı/tvyayinakisi.py
 
       # 2. DiziFun Diziler Yerli Scripts
 #      - name: Run dizifunyenibolumler.py
