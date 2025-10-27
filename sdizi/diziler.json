@@ -16042,5 +16042,17 @@
     "last_season": 6,
     "last_episode": 11,
     "start_episode": 1
+  },
+  "/diziler/the-mick.html": {
+    "group": "THE MICK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/it-welcome-to-derry.html": {
+    "group": "IT: WELCOME TO DERRY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
