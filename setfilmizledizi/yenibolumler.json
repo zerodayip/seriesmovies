@@ -1,4 +1,10 @@
 {
+  "/dizi/legenden/": {
+    "group": "LEGENDEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/persona/": {
     "group": "PERSONA",
     "last_season": 1,
