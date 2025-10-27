@@ -14,7 +14,7 @@
   "/dizi/the-ridge": {
     "group": "THE RIDGE",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/the-rainmaker": {
@@ -38,7 +38,7 @@
   "/dizi/sheriff-country": {
     "group": "SHERIFF COUNTRY",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/u-ri-yeong-hwa-asya": {
@@ -73,8 +73,8 @@
   },
   "/dizi/fire-country": {
     "group": "FIRE COUNTRY",
-    "last_season": 3,
-    "last_episode": 20,
+    "last_season": 4,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/film-club": {
@@ -98,7 +98,7 @@
   "/dizi/boston-blue": {
     "group": "BOSTON BLUE",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/billy-the-kid": {
@@ -248,7 +248,7 @@
   "/dizi/watching-you": {
     "group": "WATCHING YOU",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/georgie-mandy-s-first-marriage": {
