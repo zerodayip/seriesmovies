@@ -224,14 +224,27 @@ jobs:
       - name: Copy JSON Updated files to xtreamjson
         run: |
           mkdir -p m3u8file_repoo/xtreamjson
-          find xtream -name "*.json"
+          cp *_updated.json m3u8file_repoo/xtreamjson/ || echo "⚠️ No updated JSON files found"
+          echo "📂 Kopyalanan dosyalar:"
+          ls -l m3u8file_repoo/xtreamjson || echo "Hiç dosya yok"
 
       - name: Commit and Push to xtreamjson
         run: |
           cd m3u8file_repoo
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add xtreamjson/*.json || echo "No JSON files to add"
-          git diff --cached --quiet || git commit -m "Xtream JSON dosyaları xtreamjson klasörüne isimleri güncellenerek eklendi [auto]"
-          git pull --rebase origin main || echo "No upstream changes"
-          git push origin main || echo "No push needed"
+
+          echo "🔄 Pulling latest changes..."
+          git pull --rebase origin main || echo "⚠️ No upstream changes"
+
+          echo "🧩 Staging updated JSON files..."
+          git add xtreamjson/*.json || echo "⚠️ No JSON files to add"
+
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit"
+          else
+            echo "💾 Committing and pushing changes..."
+            git commit -m "Xtream JSON dosyaları xtreamjson klasörüne isimleri güncellenerek eklendi [auto]"
+            git push origin main || echo "⚠️ Push failed"
+          fi
+
