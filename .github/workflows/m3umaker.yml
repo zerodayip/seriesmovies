@@ -188,9 +188,9 @@ jobs:
 
       - name: Sync Dizigom output to private repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizigom.git private_dizigom
-          rsync -a dizigom/ private_dizigom/
-          cd private_dizigom
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizigom2.git private_dizigom2
+          rsync -a dizigom/ private_dizigom2/
+          cd private_dizigom2
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add . || echo "No files"
