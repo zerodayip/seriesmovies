@@ -185,3 +185,53 @@ jobs:
           git diff --cached --quiet || git commit -m "Xtream JSON dosyaları xtreamjson klasörüne eklendi [auto]"
           git pull --rebase origin main || echo "No upstream changes"
           git push origin main || echo "No push needed"
+
+  run-xtream-name-updater:
+    runs-on: ubuntu-latest
+    needs: run-xtream-json
+
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Python Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run Xtream Script
+        run: python private_py/xtream/altyazıvedublajismigüncelleme.py
+
+      - name: Clone m3u8file Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git m3u8file_repoo
+
+      - name: Copy JSON Updated files to xtreamjson
+        run: |
+          mkdir -p m3u8file_repoo/xtreamjson
+          find xtream -name "*.json"
+
+      - name: Commit and Push to xtreamjson
+        run: |
+          cd m3u8file_repoo
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtreamjson/*.json || echo "No JSON files to add"
+          git diff --cached --quiet || git commit -m "Xtream JSON dosyaları xtreamjson klasörüne isimleri güncellenerek eklendi [auto]"
+          git pull --rebase origin main || echo "No upstream changes"
+          git push origin main || echo "No push needed"
