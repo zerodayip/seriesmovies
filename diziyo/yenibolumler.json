@@ -1,4 +1,28 @@
 {
+  "/dizi/it-welcome-to-derry": {
+    "group": "IT: WELCOME TO DERRY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/se-oul-ja-ga-e-dae-gi-eop-da-ni-neun-kim-bu-jang-i-ya-gi-asya": {
+    "group": "SE-OUL JA-GA-E DAE-GI-EOP DA-NI-NEUN KIM BU-JANG I-YA-GI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/tae-pung-sang-sa-asya": {
+    "group": "TAE-PUNG-SANG-SA",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi/the-golden-egg-asya": {
+    "group": "THE GOLDEN EGG",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/dizi/talamasca-the-secret-order": {
     "group": "TALAMASCA: THE SECRET ORDER",
     "last_season": 1,
@@ -129,42 +153,6 @@
     "group": "THE RELUCTANT TRAVELER WITH EUGENE LEVY",
     "last_season": 3,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/the-last-frontier": {
-    "group": "THE LAST FRONTIER",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi/reasonable-doubt": {
-    "group": "REASONABLE DOUBT",
-    "last_season": 3,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/knife-edge-chasing-michelin-stars": {
-    "group": "KNIFE EDGE: CHASING MICHELIN STARS",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi/invasion-2021": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/vgly": {
-    "group": "VGLY",
-    "last_season": 2,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/il-mostro": {
-    "group": "FLORANSA CANAVARI",
-    "last_season": 1,
-    "last_episode": 4,
     "start_episode": 1
   }
 }

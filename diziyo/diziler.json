@@ -394,5 +394,17 @@
     "last_season": 1,
     "last_episode": 18,
     "start_episode": 1
+  },
+  "/dizi/it-welcome-to-derry": {
+    "group": "IT: WELCOME TO DERRY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/se-oul-ja-ga-e-dae-gi-eop-da-ni-neun-kim-bu-jang-i-ya-gi-asya": {
+    "group": "SE-OUL JA-GA-E DAE-GI-EOP DA-NI-NEUN KIM BU-JANG I-YA-GI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

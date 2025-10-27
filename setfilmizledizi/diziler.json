@@ -10246,5 +10246,47 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/it-welcome-to-derry/": {
+    "group": "IT: WELCOME TO DERRY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/siyah-bere-2025-izle-8/": {
+    "group": "SIYAH BERE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/yuzde-iki-2025-izle-7/": {
+    "group": "YÜZDE İKI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/surgunler-2025-izle-7/": {
+    "group": "SÜRGÜNLER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/gassal-2024-izle-9/": {
+    "group": "GASSAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/marnali-izle-8/": {
+    "group": "MARNALI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/yanki-gorunmez-el-2025-izle-7/": {
+    "group": "YANKI: GÖRÜNMEZ EL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
