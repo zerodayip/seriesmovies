@@ -1,4 +1,10 @@
 {
+  "/golgo-13-tv": {
+    "group": "GOLGO 13 (TV)",
+    "last_season": 1,
+    "last_episode": 25.0,
+    "start_episode": 1
+  },
   "/mofa-gongzhu-de-xiao-fannao": {
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
@@ -33,12 +39,6 @@
     "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
     "last_season": 1,
     "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/golgo-13-tv": {
-    "group": "GOLGO 13 (TV)",
-    "last_season": 1,
-    "last_episode": 25.0,
     "start_episode": 1
   },
   "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
@@ -99,12 +99,6 @@
     "group": "GANGLION",
     "last_season": 1,
     "last_episode": 4.0,
-    "start_episode": 1
-  },
-  "/gnosia": {
-    "group": "GNOSIA",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }
