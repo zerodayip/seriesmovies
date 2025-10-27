@@ -63,8 +63,8 @@ jobs:
         run: python private_py/series/dizilife/yenibolumler.py
 
       # 2. FilmHane Diziler Yerli Scripts
-      - name: Run filmhaneyenibolumler.py
-        run: python private_py/series/filmhane/yenibolumler.py
+#      - name: Run filmhaneyenibolumler.py
+#        run: python private_py/series/filmhane/yenibolumler.py
 
       # 2. Diziyiİzle Diziler Yerli Scripts
       - name: Run diziyiizleyenibolumler.py
