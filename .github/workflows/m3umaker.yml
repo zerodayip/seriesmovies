@@ -412,10 +412,10 @@ jobs:
         run: python private_py/movies/hdfilmsite/ilksayfayerlifilmler.py
 
       # 17. Dizipal Yerli Filmler
-      - name: Run Dizipal Yerli Filmler Script
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python private_py/movies/dizipal/yerlifilm.py
+#      - name: Run Dizipal Yerli Filmler Script
+#        env:
+#          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#        run: python private_py/movies/dizipal/yerlifilm.py
 
       - name: Sync Filmler outputs to private m3u8file repo
         run: |
