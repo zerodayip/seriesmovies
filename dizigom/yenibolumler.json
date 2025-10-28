@@ -1,13 +1,13 @@
 {
-  "/dizi-izle/baby-bandito/": {
-    "group": "BABY BANDITO",
-    "last_season": 2,
-    "last_episode": 8,
+  "/dizi-izle/the-asset": {
+    "group": "THE ASSET (LEGENDEN)",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi-izle/invasion/": {
-    "group": "INVASION",
-    "last_season": 3,
+  "/dizi-izle/nobody-wants-this/": {
+    "group": "NOBODY WANTS THIS",
+    "last_season": 2,
     "last_episode": 10,
     "start_episode": 1
   },
@@ -17,40 +17,10 @@
     "last_episode": 7,
     "start_episode": 1
   },
-  "/dizi-izle/typhoon-family": {
-    "group": "TYPHOON FAMILY",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/harlan-cobens-lazarus": {
-    "group": "HARLAN COBEN'S LAZARUS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
   "/dizi-izle/gen-v": {
     "group": "GEN V",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-dream-life-of-mr-kim": {
-    "group": "THE DREAM LIFE OF MR. KIM",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-asset": {
-    "group": "THE ASSET (LEGENDEN)",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/entrepreneurs": {
-    "group": "ENTREPRENEURS",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi-izle/the-last-frontier": {
@@ -59,15 +29,45 @@
     "last_episode": 4,
     "start_episode": 1
   },
+  "/dizi-izle/harlan-cobens-lazarus": {
+    "group": "HARLAN COBEN'S LAZARUS",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/typhoon-family": {
+    "group": "TYPHOON FAMILY",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-dream-life-of-mr-kim": {
+    "group": "THE DREAM LIFE OF MR. KIM",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/dizi-izle/it-welcome-to-derry": {
     "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
   },
-  "/dizi-izle/nobody-wants-this/": {
-    "group": "NOBODY WANTS THIS",
+  "/dizi-izle/invasion/": {
+    "group": "INVASION",
+    "last_season": 3,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/baby-bandito/": {
+    "group": "BABY BANDITO",
     "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/entrepreneurs": {
+    "group": "ENTREPRENEURS",
+    "last_season": 1,
     "last_episode": 10,
     "start_episode": 1
   }

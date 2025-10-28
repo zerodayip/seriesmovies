@@ -1,4 +1,28 @@
 {
+  "/heika-watashi-wo-wasurete-kudasai": {
+    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/yano-kun-no-futsuu-no-hibi": {
+    "group": "YANO-KUN NO FUTSUU NO HIBI",
+    "last_season": 1,
+    "last_episode": 4.0,
+    "start_episode": 1
+  },
+  "/ninja-to-gokudou": {
+    "group": "NINJA TO GOKUDOU",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/chitose-kun-wa-ramune-bin-no-naka": {
+    "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/debu-to-love-to-ayamachi-to": {
     "group": "DEBU TO LOVE TO AYAMACHI TO!",
     "last_season": 1,
@@ -75,30 +99,6 @@
     "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
     "last_season": 1,
     "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
-    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
-    "last_season": 1,
-    "last_episode": 4.0,
-    "start_episode": 1
-  },
-  "/si-vis-the-sound-of-heroes": {
-    "group": "SI-VIS: THE SOUND OF HEROES",
-    "last_season": 1,
-    "last_episode": 4.0,
-    "start_episode": 1
-  },
-  "/kingdom-6th-season": {
-    "group": "KINGDOM 6TH SEASON",
-    "last_season": 1,
-    "last_episode": 4.0,
-    "start_episode": 1
-  },
-  "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
-    "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
-    "last_season": 1,
-    "last_episode": 4.0,
     "start_episode": 1
   }
 }
