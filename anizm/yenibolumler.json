@@ -1,4 +1,10 @@
 {
+  "/debu-to-love-to-ayamachi-to": {
+    "group": "DEBU TO LOVE TO AYAMACHI TO!",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/megaton-kyuu-musashi": {
     "group": "MEGATON-KYUU MUSASHI",
     "last_season": 1,
@@ -91,12 +97,6 @@
   },
   "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
     "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
-    "last_season": 1,
-    "last_episode": 4.0,
-    "start_episode": 1
-  },
-  "/shuumatsu-touring": {
-    "group": "SHUUMATSU TOURING",
     "last_season": 1,
     "last_episode": 4.0,
     "start_episode": 1
