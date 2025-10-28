@@ -1,4 +1,46 @@
 {
+  "/dizi/chosen-home-asya": {
+    "group": "CHOSEN HOME",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/19-banme-no-karte-asya": {
+    "group": "19 BANME NO KARTE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/universal-basic-guys": {
+    "group": "UNIVERSAL BASIC GUYS",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/tracker": {
+    "group": "TRACKER",
+    "last_season": 3,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/the-simpsons": {
+    "group": "THE SIMPSONS",
+    "last_season": 37,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/murder-before-evensong": {
+    "group": "MURDER BEFORE EVENSONG",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi/krapopolis": {
+    "group": "KRAPOPOLIS",
+    "last_season": 3,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/dizi/it-welcome-to-derry": {
     "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
@@ -105,54 +147,6 @@
     "group": "GEORGIE & MANDY'S FIRST MARRIAGE",
     "last_season": 2,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/elsbeth": {
-    "group": "ELSBETH",
-    "last_season": 3,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/brassic": {
-    "group": "BRASSIC",
-    "last_season": 7,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/all-creatures-great-small": {
-    "group": "BÜYÜK KÜÇÜK TÜM HAYVANLAR",
-    "last_season": 6,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/9-1-1-nashville": {
-    "group": "9-1-1: NASHVILLE",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/9-1-1": {
-    "group": "9-1-1",
-    "last_season": 9,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/entrepreneurs": {
-    "group": "ENTREPRENEURS",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/nobody-wants-this": {
-    "group": "NOBODY WANTS THIS",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/the-reluctant-traveler-with-eugene-levy": {
-    "group": "THE RELUCTANT TRAVELER WITH EUGENE LEVY",
-    "last_season": 3,
-    "last_episode": 7,
     "start_episode": 1
   }
 }

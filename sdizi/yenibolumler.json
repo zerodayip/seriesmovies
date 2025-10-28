@@ -1,4 +1,10 @@
 {
+  "/diziler/only-murders-in-the-building.html": {
+    "group": "ONLY MURDERS IN THE BUILDING",
+    "last_season": 5,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "/diziler/clean-with-passion-for-now.html": {
     "group": "CLEAN WITH PASSION FOR NOW",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "CAT'S EYE",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/invasion.html": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 10,
     "start_episode": 1
   }
 }

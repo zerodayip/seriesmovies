@@ -406,5 +406,17 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/dizi/chosen-home-asya": {
+    "group": "CHOSEN HOME",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/19-banme-no-karte-asya": {
+    "group": "19 BANME NO KARTE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
