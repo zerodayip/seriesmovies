@@ -27952,5 +27952,23 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/dizi-izle/it-welcome-to-derry": {
+    "group": "IT: WELCOME TO DERRY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-asset": {
+    "group": "THE ASSET (LEGENDEN)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/entrepreneurs": {
+    "group": "ENTREPRENEURS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

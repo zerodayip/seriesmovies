@@ -1,4 +1,22 @@
 {
+  "/dizi/the-morning-show-1a-izle/": {
+    "group": "THE MORNING SHOW",
+    "last_season": 4,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi/the-last-frontier/": {
+    "group": "THE LAST FRONTIER",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/invasion-izle/": {
+    "group": "INVASION",
+    "last_season": 3,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/dizi/it-welcome-to-derry/": {
     "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
@@ -21,12 +39,6 @@
     "group": "TYPHOON FAMILY",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/kurukshetra/": {
-    "group": "KURUKSHETRA",
-    "last_season": 1,
-    "last_episode": 18,
     "start_episode": 1
   }
 }
