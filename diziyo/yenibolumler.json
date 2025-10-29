@@ -2,31 +2,31 @@
   "/dizi/the-chair-company": {
     "group": "THE CHAIR COMPANY",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/only-murders-in-the-building": {
     "group": "ONLY MURDERS IN THE BUILDING",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/chad-powers": {
     "group": "CHAD POWERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/the-forsytes": {
     "group": "THE FORSYTES",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/dmv": {
     "group": "DMV",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/chosen-home-asya": {
