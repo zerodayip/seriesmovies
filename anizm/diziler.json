@@ -1066,5 +1066,11 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/star-wars-visions-volume-3": {
+    "group": "STAR WARS: VISIONS VOLUME 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
