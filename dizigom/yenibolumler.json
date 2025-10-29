@@ -1,14 +1,26 @@
 {
-  "/dizi-izle/the-asset": {
-    "group": "THE ASSET (LEGENDEN)",
+  "/dizi-izle/it-welcome-to-derry": {
+    "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 1,
     "start_episode": 1
   },
-  "/dizi-izle/nobody-wants-this/": {
-    "group": "NOBODY WANTS THIS",
-    "last_season": 2,
+  "/dizi-izle/entrepreneurs": {
+    "group": "ENTREPRENEURS",
+    "last_season": 1,
     "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/invasion/": {
+    "group": "INVASION",
+    "last_season": 3,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/typhoon-family": {
+    "group": "TYPHOON FAMILY",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/reasonable-doubt/": {
@@ -17,26 +29,32 @@
     "last_episode": 7,
     "start_episode": 1
   },
-  "/dizi-izle/gen-v": {
-    "group": "GEN V",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
   "/dizi-izle/the-last-frontier": {
     "group": "THE LAST FRONTIER",
     "last_season": 1,
     "last_episode": 4,
     "start_episode": 1
   },
-  "/dizi-izle/harlan-cobens-lazarus": {
-    "group": "HARLAN COBEN'S LAZARUS",
+  "/dizi-izle/chad-powers": {
+    "group": "CHAD POWERS",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 4,
     "start_episode": 1
   },
-  "/dizi-izle/typhoon-family": {
-    "group": "TYPHOON FAMILY",
+  "/dizi-izle/only-murders-in-the-building": {
+    "group": "ONLY MURDERS IN THE BUILDING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/physical-asia": {
+    "group": "PHYSICAL: ASIA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-asset": {
+    "group": "THE ASSET (LEGENDEN)",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
@@ -47,27 +65,9 @@
     "last_episode": 2,
     "start_episode": 1
   },
-  "/dizi-izle/it-welcome-to-derry": {
-    "group": "IT: WELCOME TO DERRY",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi-izle/invasion/": {
-    "group": "INVASION",
-    "last_season": 3,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi-izle/baby-bandito/": {
-    "group": "BABY BANDITO",
+  "/dizi-izle/nobody-wants-this/": {
+    "group": "NOBODY WANTS THIS",
     "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/entrepreneurs": {
-    "group": "ENTREPRENEURS",
-    "last_season": 1,
     "last_episode": 10,
     "start_episode": 1
   }
