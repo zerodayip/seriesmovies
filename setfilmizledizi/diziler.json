@@ -10294,5 +10294,17 @@
     "last_season": 2,
     "last_episode": 10,
     "start_episode": 1
+  },
+  "/dizi/down-cemetery-road/": {
+    "group": "DOWN CEMETERY ROAD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/el-presidente-izle-1/": {
+    "group": "EL PRESIDENTE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

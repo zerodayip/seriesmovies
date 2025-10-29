@@ -16060,5 +16060,11 @@
     "last_season": 1,
     "last_episode": 16,
     "start_episode": 1
+  },
+  "/diziler/the-asset.html": {
+    "group": "THE ASSET",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

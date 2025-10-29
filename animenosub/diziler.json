@@ -712,5 +712,11 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/disney-twisted-wonderland-the-animation/": {
+    "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
