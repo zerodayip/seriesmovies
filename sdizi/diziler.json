@@ -5162,7 +5162,7 @@
   "/diziler/loot.html": {
     "group": "LOOT",
     "last_season": 3,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/monsters-at-work.html": {
@@ -6230,7 +6230,7 @@
   "/diziler/slow-horses.html": {
     "group": "SLOW HORSES",
     "last_season": 5,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/little-witch-academia.html": {
@@ -10760,7 +10760,7 @@
   "/diziler/the-morning-show.html": {
     "group": "THE MORNING SHOW",
     "last_season": 4,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/see.html": {
@@ -16004,7 +16004,7 @@
   "/diziler/murdaugh-death-in-the-family.html": {
     "group": "MURDAUGH: DEATH IN THE FAMILY",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/stugo.html": {

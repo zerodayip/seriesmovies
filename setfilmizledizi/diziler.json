@@ -2095,7 +2095,7 @@
   },
   "/dizi/hazbin-hotel-1-izle/": {
     "group": "HAZBIN HOTEL",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 8,
     "start_episode": 1
   },
@@ -10213,8 +10213,8 @@
   },
   "/dizi/hazbin-hotel-1-izle-1/": {
     "group": "HAZBIN HOTEL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/outlander-aq-izle-5/": {
