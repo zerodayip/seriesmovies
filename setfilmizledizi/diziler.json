@@ -68,7 +68,7 @@
   "/dizi/chad-powers/": {
     "group": "CHAD POWERS",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/monster-the-ed-gein-story/": {
@@ -10232,7 +10232,7 @@
   "/dizi/typhoon-family/": {
     "group": "TYPHOON FAMILY",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/persona/": {
@@ -10291,8 +10291,8 @@
   },
   "/dizi/tell-me-lies/": {
     "group": "TELL ME LIES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   }
 }
