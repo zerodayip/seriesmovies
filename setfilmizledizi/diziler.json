@@ -187,7 +187,7 @@
   },
   "/dizi/the-witcher-izle/": {
     "group": "THE WITCHER",
-    "last_season": 3,
+    "last_season": 4,
     "last_episode": 8,
     "start_episode": 1
   },
@@ -10316,7 +10316,7 @@
   "/dizi/star-wars-visions/": {
     "group": "STAR WARS: VISIONS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   }
 }
