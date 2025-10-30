@@ -10306,5 +10306,11 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi/rulers-of-fortune/": {
+    "group": "RULERS OF FORTUNE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
