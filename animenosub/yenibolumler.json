@@ -1,4 +1,10 @@
 {
+  "/anime/blue-orchestra-season-2/": {
+    "group": "BLUE ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/anime/lets-play/": {
     "group": "LET’S PLAY",
     "last_season": 1,
@@ -112,11 +118,5 @@
     "last_season": 1,
     "last_episode": 1146,
     "start_episode": 1130
-  },
-  "/anime/one-punch-man-season-3/": {
-    "group": "ONE-PUNCH MAN SEASON 3",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
   }
 }

@@ -1,4 +1,10 @@
 {
+  "/diziler/the-witcher.html": {
+    "group": "THE WITCHER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/star-wars-visions-izle.html": {
     "group": "STAR WARS: VISIONS",
     "last_season": 3,
@@ -75,12 +81,6 @@
     "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/diziler/the-mick.html": {
-    "group": "THE MICK",
-    "last_season": 2,
-    "last_episode": 20,
     "start_episode": 1
   }
 }
