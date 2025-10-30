@@ -43,18 +43,14 @@ jobs:
           playwright install
 
       # 1. Vavoo IPTV Scripts
-      - name: Run KENDI PROXY UZERINDEN YAYIN ALINIYOR.py
+      - name: Run Vavoo Yayınları.py
         run: python private_py/vavoo/iptv/vavooiptvkendi.py
-
-      # 1. Vavoo IPTV Scripts
-#      - name: Run DIGER PROXY UZERINDEN YAYIN ALINMAKTADIR.py
-#        run: python private_py/vavoo/iptv/vavooiptvgoldvod.py
 
       # 1. Gunluk Spor Akısı
       - name: Run GunlukSporAkısı.py
         run: python private_py/channels/gunluksporakısı/tvyayinakisi.py
 
-      # 2. DiziFun Diziler Yerli Scripts
+      # 2. DiziFun Diziler Yerli Scripts ( site kapandı )
 #      - name: Run dizifunyenibolumler.py
 #        run: python private_py/series/dizifun/yenibolumler.py
 
@@ -62,7 +58,7 @@ jobs:
       - name: Run dizilifeyenibolumler.py
         run: python private_py/series/dizilife/yenibolumler.py
 
-      # 2. FilmHane Diziler Yerli Scripts
+      # 2. FilmHane Diziler Yerli Scripts ( ip kısıtlaması geldi )
 #      - name: Run filmhaneyenibolumler.py
 #        run: python private_py/series/filmhane/yenibolumler.py
 
@@ -102,7 +98,7 @@ jobs:
       - name: Run SetfilmİzleDizi JSON Script
         run: python private_py/series/setfilmizledizi/setfilmizledizijson.py
 
-#      - name: Run Dizipal JSON Script
+#      - name: Run Dizipal JSON Script ( cloudflare koruması mevcut )
 #        run: python private_py/series/dizipal/dizipaljson.py
 
       - name: Run DiziYo JSON Script
@@ -240,8 +236,8 @@ jobs:
 #         git push origin main
 
       # 8. AnimeNoSub M3U Maker
-#      - name: Run AnimeNoSub yenibolumler.py
-#        run: python private_py/anime/ingilizce/animenosub/yenibolumler.py
+      - name: Run AnimeNoSub yenibolumler.py
+        run: python private_py/anime/ingilizce/animenosub/yenibolumler.py
 
       - name: Commit and Push AnimeNoSub JSON to public repo
         run: |
@@ -286,7 +282,7 @@ jobs:
           git commit -m "SetFilmİzleDizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # 10. Dizipal M3U Maker
+      # 10. Dizipal M3U Maker ( cloudflare koruması mevcut )
 #      - name: Run Dizipal yenibolumler.py
 #        run: python private_py/series/dizipal/yenibolumler.py
 
@@ -411,7 +407,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/hdfilmsite/ilksayfayerlifilmler.py
 
-      # 17. Dizipal Yerli Filmler
+      # 17. Dizipal Yerli Filmler ( cloudflare koruması mevcut )
 #      - name: Run Dizipal Yerli Filmler Script
 #        env:
 #          GH_TOKEN: ${{ secrets.GH_TOKEN }}
