@@ -3,7 +3,8 @@ name: M3U MAKER
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */5 * * *'  # Her 5 saatte bir
+    - cron: '0 */5 * * *'    # Her 5 saatte bir tüm scriptler çalışır (DMAX hariç)
+    - cron: '0 22 * * *'     # Türkiye saati 01:00 -> 22:00 UTC (DMAX bu tetikte çalışacak)
 
 jobs:
   part1:
@@ -11,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      
+
     steps:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
@@ -42,37 +43,36 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv zstandard cloudscraper
           playwright install
 
-      # 1. Vavoo IPTV Scripts
+      # --- IPTV & Dizi Scriptleri ---
       - name: Run Vavoo Yayınları.py
         run: python private_py/vavoo/iptv/vavooiptvkendi.py
 
-      # 1. Gunluk Spor Akısı
       - name: Run GunlukSporAkısı.py
         run: python private_py/channels/gunluksporakısı/tvyayinakisi.py
 
       # 2. DiziFun Diziler Yerli Scripts ( site kapandı )
-#      - name: Run dizifunyenibolumler.py
-#        run: python private_py/series/dizifun/yenibolumler.py
+      # - name: Run dizifunyenibolumler.py
+      #   run: python private_py/series/dizifun/yenibolumler.py
 
-      # 2. DiziLife Diziler Yerli Scripts
       - name: Run dizilifeyenibolumler.py
         run: python private_py/series/dizilife/yenibolumler.py
 
       # 2. FilmHane Diziler Yerli Scripts ( ip kısıtlaması geldi )
-#      - name: Run filmhaneyenibolumler.py
-#        run: python private_py/series/filmhane/yenibolumler.py
+      # - name: Run filmhaneyenibolumler.py
+      #   run: python private_py/series/filmhane/yenibolumler.py
 
-      # 2. Diziyiİzle Diziler Yerli Scripts
       - name: Run diziyiizleyenibolumler.py
         run: python private_py/series/diziyiizle/yenibolumler.py
-        
-      # 2. Dmax Scripts
-      - name: Run dmax.py
+
+      # 2. DMAX sadece gece 01:00 TR çalışacak ---
+      - name: Run dmax.py (sadece Türkiye saati 01:00)
+        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 22') }}
         run: python private_py/series/dmax/yenibolumler.py
 
-      - name: Sync Vavoo outputs to private m3u8file repo
+      - name: Sync M3U outputs to private repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8file
+
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
           cp dizifundizi.m3u privaate_m3u8file/dizifundizi.m3u || echo "dizifundizi.m3u bulunamadı"
           cp dizilifedizi.m3u privaate_m3u8file/dizilifedizi.m3u || echo "dizilifedizi.m3u bulunamadı"
@@ -80,11 +80,12 @@ jobs:
           cp gunluk_spor.m3u privaate_m3u8file/gunluk_spor.m3u || echo "gunluk_spor.m3u bulunamadı"
           cp diziyiizledizi.m3u privaate_m3u8file/diziyiizledizi.m3u || echo "diziyiizledizi.m3u bulunamadı"
           cp dmax.m3u privaate_m3u8file/dmax.m3u || echo "dmax.m3u bulunamadı"
+
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add vavoo.m3u dizifundizi.m3u dizilifedizi.m3u gunluk_spor.m3u filmhanedizi.m3u diziyiizledizi.m3u dmax.m3u
-          git commit -m "Canlı Kanal ve Otomatik Embed linklerin çıktısı güncellendi [auto]" || echo "No changes"
+          git add .
+          git commit -m "Auto playlist update (includes DMAX only at 01:00 TRT)" || echo "No changes"
           git push origin main
 
       # 3. Run All JSON
