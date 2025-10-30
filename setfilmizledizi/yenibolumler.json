@@ -1,4 +1,10 @@
 {
+  "/dizi/gangs-of-london-izle/": {
+    "group": "GANGS OF LONDON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/star-wars-visions/": {
     "group": "STAR WARS: VISIONS",
     "last_season": 3,
