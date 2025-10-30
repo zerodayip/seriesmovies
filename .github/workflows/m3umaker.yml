@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */5 * * *'    # Her 5 saatte bir tüm scriptler çalışır (DMAX hariç)
-    - cron: '0 22 * * *'     # Türkiye saati 01:00 -> 22:00 UTC (DMAX bu tetikte çalışacak)
+    - cron: '0 23 * * *'     # Türkiye saati 02:00 -> 23:00 UTC (DMAX bu tetikte çalışacak)
 
 jobs:
   part1:
@@ -64,9 +64,9 @@ jobs:
       - name: Run diziyiizleyenibolumler.py
         run: python private_py/series/diziyiizle/yenibolumler.py
 
-      # 2. DMAX sadece gece 01:00 TR çalışacak ---
-      - name: Run dmax.py (sadece Türkiye saati 01:00)
-        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 22') }}
+      # 2. DMAX sadece gece 02:00 TR çalışacak ---
+      - name: Run dmax.py (sadece Türkiye saati 02:00)
+        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 23') }}
         run: python private_py/series/dmax/yenibolumler.py
 
       - name: Sync M3U outputs to private repo
