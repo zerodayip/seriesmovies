@@ -1,4 +1,10 @@
 {
+  "/dizi/star-wars-visions/": {
+    "group": "STAR WARS: VISIONS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/the-witcher-izle/": {
     "group": "THE WITCHER",
     "last_season": 3,
@@ -9,36 +15,6 @@
     "group": "RULERS OF FORTUNE",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/down-cemetery-road/": {
-    "group": "DOWN CEMETERY ROAD",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/hazbin-hotel-1-izle-1/": {
-    "group": "HAZBIN HOTEL",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/high-potential/": {
-    "group": "HIGH POTENTIAL",
-    "last_season": 2,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/dizi/typhoon-family/": {
-    "group": "TYPHOON FAMILY",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/only-murders-in-the-building/": {
-    "group": "ONLY MURDERS IN THE BUILDING",
-    "last_season": 5,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
