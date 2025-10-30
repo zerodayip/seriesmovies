@@ -430,5 +430,47 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/hazbin-hotel": {
+    "group": "HAZBIN HOTEL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/murdaugh-death-in-the-family": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/os-donos-do-jogo": {
+    "group": "GÜÇ OYUNLARI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/star-wars-visions": {
+    "group": "STAR WARS: VISIONS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/down-cemetery-road": {
+    "group": "DOWN CEMETERY ROAD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/frauds": {
+    "group": "FRAUDS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/pijikeol-asia": {
+    "group": "EN GÜÇLÜ: ASYA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
