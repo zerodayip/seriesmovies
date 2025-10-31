@@ -718,5 +718,17 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/anime/love-live-nijigasaki-high-school-idol-club-the-movie-finale/": {
+    "group": "LOVE LIVE! NIJIGASAKI HIGH SCHOOL IDOL CLUB THE MOVIE – FINALE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/chainsaw-man-the-movie-reze-arc-dub/": {
+    "group": "CHAINSAW MAN THE MOVIE: REZE ARC (DUB)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
