@@ -2,13 +2,13 @@
   "/dizi/it-welcome-to-derry/": {
     "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/a-discovery-of-witches/": {
     "group": "A DISCOVERY OF WITCHES",
-    "last_season": 1,
-    "last_episode": 8,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/gangs-of-london-izle/": {
