@@ -463,6 +463,11 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+          
       # 18. Günlük Epg Üretimi
       - name: Run Günlük Epg 
         run: python private_py/channels/epg/gunlukepg.py
