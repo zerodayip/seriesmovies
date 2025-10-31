@@ -1,8 +1,8 @@
 {
-  "/dizi-izle/vgly": {
-    "group": "VGLY",
-    "last_season": 2,
-    "last_episode": 4,
+  "/dizi-izle/star-wars-visions": {
+    "group": "STAR WARS: VISIONS",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/dizi-izle/reasonable-doubt/": {
@@ -11,40 +11,10 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/juan-gabriel-i-must-i-can-i-will": {
-    "group": "JUAN GABRIEL: I MUST, I CAN, I WILL",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/star-wars-visions": {
-    "group": "STAR WARS: VISIONS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi-izle/slow-horses/": {
-    "group": "SLOW HORSES",
-    "last_season": 5,
-    "last_episode": 6,
-    "start_episode": 1
-  },
   "/dizi-izle/rulers-of-fortune": {
     "group": "RULERS OF FORTUNE (OS DONOS DO JOGO)",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/amsterdam-empire": {
-    "group": "AMSTERDAM EMPIRE",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/murdaugh-death-in-the-family": {
-    "group": "MURDAUGH: DEATH IN THE FAMILY",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/son-of-a-donkey": {
@@ -57,6 +27,36 @@
     "group": "THE WITCHER",
     "last_season": 4,
     "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/murdaugh-death-in-the-family": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/vgly": {
+    "group": "VGLY",
+    "last_season": 2,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/slow-horses/": {
+    "group": "SLOW HORSES",
+    "last_season": 5,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/juan-gabriel-i-must-i-can-i-will": {
+    "group": "JUAN GABRIEL: I MUST, I CAN, I WILL",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/amsterdam-empire": {
+    "group": "AMSTERDAM EMPIRE",
+    "last_season": 1,
+    "last_episode": 7,
     "start_episode": 1
   }
 }
