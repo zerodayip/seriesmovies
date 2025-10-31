@@ -1,4 +1,64 @@
 {
+  "/dizi/cometierra": {
+    "group": "TOPRAKYIYEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/it-welcome-to-derry": {
+    "group": "IT: WELCOME TO DERRY",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/watching-you": {
+    "group": "WATCHING YOU",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi/matlock": {
+    "group": "MATLOCK",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/grey-s-anatomy": {
+    "group": "GREY'S ANATOMY",
+    "last_season": 22,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/georgie-mandy-s-first-marriage": {
+    "group": "GEORGIE & MANDY'S FIRST MARRIAGE",
+    "last_season": 2,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi/elsbeth": {
+    "group": "ELSBETH",
+    "last_season": 3,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/all-creatures-great-small": {
+    "group": "BÜYÜK KÜÇÜK TÜM HAYVANLAR",
+    "last_season": 6,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi/9-1-1-nashville": {
+    "group": "9-1-1: NASHVILLE",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/9-1-1": {
+    "group": "9-1-1",
+    "last_season": 9,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/dizi/dime-tu-nombre": {
     "group": "DIME TU NOMBRE",
     "last_season": 1,
@@ -99,60 +159,6 @@
     "group": "MUHAFIZLAR: GIZLI PROJE",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/murdaugh-death-in-the-family": {
-    "group": "MURDAUGH: DEATH IN THE FAMILY",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/os-donos-do-jogo": {
-    "group": "GÜÇ OYUNLARI",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/star-wars-visions": {
-    "group": "STAR WARS: VISIONS",
-    "last_season": 3,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi/slow-horses": {
-    "group": "SLOW HORSES",
-    "last_season": 5,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/loot": {
-    "group": "LOOT",
-    "last_season": 3,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi/down-cemetery-road": {
-    "group": "DOWN CEMETERY ROAD",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/frauds": {
-    "group": "FRAUDS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/watson": {
-    "group": "WATSON",
-    "last_season": 2,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/the-lowdown": {
-    "group": "THE LOWDOWN",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   }
 }
