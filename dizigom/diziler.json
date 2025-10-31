@@ -28000,5 +28000,29 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi-izle/amsterdam-empire": {
+    "group": "AMSTERDAM EMPIRE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/son-of-a-donkey": {
+    "group": "SON OF A DONKEY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/vgly": {
+    "group": "VGLY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/juan-gabriel-i-must-i-can-i-will": {
+    "group": "JUAN GABRIEL: I MUST, I CAN, I WILL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

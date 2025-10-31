@@ -1,4 +1,10 @@
 {
+  "/dizi/gupi-yerli": {
+    "group": "GUPI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/karsilasmalar-yerli": {
     "group": "KARŞILAŞMALAR",
     "last_season": 2,
@@ -147,12 +153,6 @@
     "group": "FBI",
     "last_season": 8,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/brilliant-minds": {
-    "group": "BRILLIANT MINDS",
-    "last_season": 2,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
