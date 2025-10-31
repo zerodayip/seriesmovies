@@ -1,4 +1,10 @@
 {
+  "/diziler/down-cemetery-road.html": {
+    "group": "DOWN CEMETERY ROAD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/it-welcome-to-derry.html": {
     "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
@@ -69,18 +75,6 @@
     "group": "LOOT",
     "last_season": 3,
     "last_episode": 4,
-    "start_episode": 1
-  },
-  "/diziler/high-potential.html": {
-    "group": "HIGH POTENTIAL",
-    "last_season": 2,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/diziler/chad-powers.html": {
-    "group": "CHAD POWERS",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
