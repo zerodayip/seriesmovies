@@ -439,3 +439,38 @@ jobs:
           git add setfilmizlefilmler.m3u dizigomfilmler.m3u hdfilmsite.m3u hdfilmsiteyerli.m3u dizipalyerlifilm.m3u
           git commit -m "Filmlerin çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
+
+  part5:
+    name: Step 18 Çalıştır
+    runs-on: ubuntu-latest
+    needs: part4
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      # 18. Günlük Epg Üretimi
+      - name: Run Günlük Epg 
+        run: python private_py/channels/epg/gunlukepg.py
+
+      - name: Commit and Push EPG to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtream/tum_kanallar.xml xtream/tum_kanallar.gz || echo "No files"
+          git commit -m "Günlük EPG güncellendi [auto]" || echo "No changes"
+          git push origin main
