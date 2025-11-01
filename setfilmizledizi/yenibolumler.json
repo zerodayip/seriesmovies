@@ -2,13 +2,13 @@
   "/dizi/konusanlar/": {
     "group": "KONUŞANLAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/respira/": {
     "group": "RESPIRA",
-    "last_season": 1,
-    "last_episode": 1,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/the-morning-show-1a-izle/": {
