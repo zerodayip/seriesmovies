@@ -1,4 +1,10 @@
 {
+  "/diziler/my-hero-academia.html": {
+    "group": "MY HERO ACADEMIA",
+    "last_season": 8,
+    "last_episode": 4,
+    "start_episode": 1
+  },
   "/diziler/down-cemetery-road.html": {
     "group": "DOWN CEMETERY ROAD",
     "last_season": 1,
@@ -69,12 +75,6 @@
     "group": "SLOW HORSES",
     "last_season": 5,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/loot.html": {
-    "group": "LOOT",
-    "last_season": 3,
-    "last_episode": 4,
     "start_episode": 1
   }
 }

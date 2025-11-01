@@ -1,4 +1,10 @@
 {
+  "/dizi/bahar-yerli": {
+    "group": "BAHAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/cometierra": {
     "group": "TOPRAKYIYEN",
     "last_season": 1,
@@ -153,12 +159,6 @@
     "group": "HAZBIN HOTEL",
     "last_season": 2,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/les-sentinelles": {
-    "group": "MUHAFIZLAR: GIZLI PROJE",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
