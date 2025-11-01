@@ -511,8 +511,8 @@
   },
   "/dizi/bahar-yerli": {
     "group": "BAHAR",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 56,
     "start_episode": 1
   }
 }
