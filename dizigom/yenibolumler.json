@@ -20,7 +20,7 @@
   "/dizi-izle/the-last-frontier": {
     "group": "THE LAST FRONTIER",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/vgly": {
@@ -32,13 +32,13 @@
   "/dizi-izle/unburied": {
     "group": "UNBURIED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/breathless": {
     "group": "BREATHLESS (RESPIRA)",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/the-witcher/": {
