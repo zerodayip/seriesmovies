@@ -1,14 +1,8 @@
 {
-  "/dizi-izle/vgly": {
-    "group": "VGLY",
-    "last_season": 2,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/star-wars-visions": {
-    "group": "STAR WARS: VISIONS",
-    "last_season": 1,
-    "last_episode": 0,
+  "/dizi-izle/reasonable-doubt/": {
+    "group": "REASONABLE DOUBT",
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/juan-gabriel-i-must-i-can-i-will": {
@@ -17,21 +11,39 @@
     "last_episode": 4,
     "start_episode": 1
   },
-  "/dizi-izle/the-witcher/": {
-    "group": "THE WITCHER",
-    "last_season": 4,
-    "last_episode": 8,
-    "start_episode": 1
-  },
   "/dizi-izle/amsterdam-empire": {
     "group": "AMSTERDAM EMPIRE",
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
   },
-  "/dizi-izle/reasonable-doubt/": {
-    "group": "REASONABLE DOUBT",
-    "last_season": 3,
+  "/dizi-izle/the-last-frontier": {
+    "group": "THE LAST FRONTIER",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/vgly": {
+    "group": "VGLY",
+    "last_season": 2,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/unburied": {
+    "group": "UNBURIED",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/breathless": {
+    "group": "BREATHLESS (RESPIRA)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-witcher/": {
+    "group": "THE WITCHER",
+    "last_season": 4,
     "last_episode": 8,
     "start_episode": 1
   },
@@ -39,12 +51,6 @@
     "group": "SON OF A DONKEY",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/rulers-of-fortune": {
-    "group": "RULERS OF FORTUNE (OS DONOS DO JOGO)",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
