@@ -1,4 +1,10 @@
 {
+  "/dizi/konusanlar/": {
+    "group": "KONUŞANLAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/respira/": {
     "group": "RESPIRA",
     "last_season": 1,
@@ -15,18 +21,6 @@
     "group": "THE LAST FRONTIER",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/slow-horses-izle/": {
-    "group": "SLOW HORSES",
-    "last_season": 5,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/cometierra/": {
-    "group": "COMETIERRA",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   }
 }
