@@ -1057,13 +1057,13 @@
   <programme start="20251101055500 +0000" stop="20251101073000 +0000" channel="TRT 1">
     <title>Kod Adı Kırlangıç</title>
   </programme>
-  <programme start="20251101073000 +0000" stop="20251101083000 +0000" channel="TRT 1">
+  <programme start="20251101073000 +0000" stop="20251101081000 +0000" channel="TRT 1">
     <title>Hayallerinin Peşinde</title>
   </programme>
-  <programme start="20251101083000 +0000" stop="20251101114500 +0000" channel="TRT 1">
+  <programme start="20251101081000 +0000" stop="20251101115000 +0000" channel="TRT 1">
     <title>Taşacak Bu Deniz</title>
   </programme>
-  <programme start="20251101114500 +0000" stop="20251101145000 +0000" channel="TRT 1">
+  <programme start="20251101115000 +0000" stop="20251101145000 +0000" channel="TRT 1">
     <title>Cennetin Çocukları</title>
   </programme>
   <programme start="20251101145000 +0000" stop="20251101160000 +0000" channel="TRT 1">
@@ -1094,13 +1094,13 @@
   <programme start="20251101055500 +0000" stop="20251101073000 +0000" channel="TRT 1 4K">
     <title>Kod Adı Kırlangıç</title>
   </programme>
-  <programme start="20251101073000 +0000" stop="20251101083000 +0000" channel="TRT 1 4K">
+  <programme start="20251101073000 +0000" stop="20251101081000 +0000" channel="TRT 1 4K">
     <title>Hayallerinin Peşinde</title>
   </programme>
-  <programme start="20251101083000 +0000" stop="20251101114500 +0000" channel="TRT 1 4K">
+  <programme start="20251101081000 +0000" stop="20251101115000 +0000" channel="TRT 1 4K">
     <title>Taşacak Bu Deniz</title>
   </programme>
-  <programme start="20251101114500 +0000" stop="20251101145000 +0000" channel="TRT 1 4K">
+  <programme start="20251101115000 +0000" stop="20251101145000 +0000" channel="TRT 1 4K">
     <title>Cennetin Çocukları</title>
   </programme>
   <programme start="20251101145000 +0000" stop="20251101160000 +0000" channel="TRT 1 4K">
@@ -1131,13 +1131,13 @@
   <programme start="20251101055500 +0000" stop="20251101073000 +0000" channel="TRT 1 HD">
     <title>Kod Adı Kırlangıç</title>
   </programme>
-  <programme start="20251101073000 +0000" stop="20251101083000 +0000" channel="TRT 1 HD">
+  <programme start="20251101073000 +0000" stop="20251101081000 +0000" channel="TRT 1 HD">
     <title>Hayallerinin Peşinde</title>
   </programme>
-  <programme start="20251101083000 +0000" stop="20251101114500 +0000" channel="TRT 1 HD">
+  <programme start="20251101081000 +0000" stop="20251101115000 +0000" channel="TRT 1 HD">
     <title>Taşacak Bu Deniz</title>
   </programme>
-  <programme start="20251101114500 +0000" stop="20251101145000 +0000" channel="TRT 1 HD">
+  <programme start="20251101115000 +0000" stop="20251101145000 +0000" channel="TRT 1 HD">
     <title>Cennetin Çocukları</title>
   </programme>
   <programme start="20251101145000 +0000" stop="20251101160000 +0000" channel="TRT 1 HD">
@@ -1168,13 +1168,13 @@
   <programme start="20251101055500 +0000" stop="20251101073000 +0000" channel="TRT 1 FHD">
     <title>Kod Adı Kırlangıç</title>
   </programme>
-  <programme start="20251101073000 +0000" stop="20251101083000 +0000" channel="TRT 1 FHD">
+  <programme start="20251101073000 +0000" stop="20251101081000 +0000" channel="TRT 1 FHD">
     <title>Hayallerinin Peşinde</title>
   </programme>
-  <programme start="20251101083000 +0000" stop="20251101114500 +0000" channel="TRT 1 FHD">
+  <programme start="20251101081000 +0000" stop="20251101115000 +0000" channel="TRT 1 FHD">
     <title>Taşacak Bu Deniz</title>
   </programme>
-  <programme start="20251101114500 +0000" stop="20251101145000 +0000" channel="TRT 1 FHD">
+  <programme start="20251101115000 +0000" stop="20251101145000 +0000" channel="TRT 1 FHD">
     <title>Cennetin Çocukları</title>
   </programme>
   <programme start="20251101145000 +0000" stop="20251101160000 +0000" channel="TRT 1 FHD">
@@ -1205,13 +1205,13 @@
   <programme start="20251101055500 +0000" stop="20251101073000 +0000" channel="TRT 1 HEVC">
     <title>Kod Adı Kırlangıç</title>
   </programme>
-  <programme start="20251101073000 +0000" stop="20251101083000 +0000" channel="TRT 1 HEVC">
+  <programme start="20251101073000 +0000" stop="20251101081000 +0000" channel="TRT 1 HEVC">
     <title>Hayallerinin Peşinde</title>
   </programme>
-  <programme start="20251101083000 +0000" stop="20251101114500 +0000" channel="TRT 1 HEVC">
+  <programme start="20251101081000 +0000" stop="20251101115000 +0000" channel="TRT 1 HEVC">
     <title>Taşacak Bu Deniz</title>
   </programme>
-  <programme start="20251101114500 +0000" stop="20251101145000 +0000" channel="TRT 1 HEVC">
+  <programme start="20251101115000 +0000" stop="20251101145000 +0000" channel="TRT 1 HEVC">
     <title>Cennetin Çocukları</title>
   </programme>
   <programme start="20251101145000 +0000" stop="20251101160000 +0000" channel="TRT 1 HEVC">
@@ -1242,13 +1242,13 @@
   <programme start="20251101055500 +0000" stop="20251101073000 +0000" channel="TRT 1 RAW">
     <title>Kod Adı Kırlangıç</title>
   </programme>
-  <programme start="20251101073000 +0000" stop="20251101083000 +0000" channel="TRT 1 RAW">
+  <programme start="20251101073000 +0000" stop="20251101081000 +0000" channel="TRT 1 RAW">
     <title>Hayallerinin Peşinde</title>
   </programme>
-  <programme start="20251101083000 +0000" stop="20251101114500 +0000" channel="TRT 1 RAW">
+  <programme start="20251101081000 +0000" stop="20251101115000 +0000" channel="TRT 1 RAW">
     <title>Taşacak Bu Deniz</title>
   </programme>
-  <programme start="20251101114500 +0000" stop="20251101145000 +0000" channel="TRT 1 RAW">
+  <programme start="20251101115000 +0000" stop="20251101145000 +0000" channel="TRT 1 RAW">
     <title>Cennetin Çocukları</title>
   </programme>
   <programme start="20251101145000 +0000" stop="20251101160000 +0000" channel="TRT 1 RAW">
@@ -1279,13 +1279,13 @@
   <programme start="20251101055500 +0000" stop="20251101073000 +0000" channel="TRT 1 SD">
     <title>Kod Adı Kırlangıç</title>
   </programme>
-  <programme start="20251101073000 +0000" stop="20251101083000 +0000" channel="TRT 1 SD">
+  <programme start="20251101073000 +0000" stop="20251101081000 +0000" channel="TRT 1 SD">
     <title>Hayallerinin Peşinde</title>
   </programme>
-  <programme start="20251101083000 +0000" stop="20251101114500 +0000" channel="TRT 1 SD">
+  <programme start="20251101081000 +0000" stop="20251101115000 +0000" channel="TRT 1 SD">
     <title>Taşacak Bu Deniz</title>
   </programme>
-  <programme start="20251101114500 +0000" stop="20251101145000 +0000" channel="TRT 1 SD">
+  <programme start="20251101115000 +0000" stop="20251101145000 +0000" channel="TRT 1 SD">
     <title>Cennetin Çocukları</title>
   </programme>
   <programme start="20251101145000 +0000" stop="20251101160000 +0000" channel="TRT 1 SD">
