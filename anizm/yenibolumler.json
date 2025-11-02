@@ -1,4 +1,10 @@
 {
+  "/dragon-raja-ii--the-mourners-eyes-": {
+    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
+    "last_season": 1,
+    "last_episode": 17.0,
+    "start_episode": 1
+  },
   "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
     "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
     "last_season": 1,
     "last_episode": 18.0,
-    "start_episode": 1
-  },
-  "/sanda": {
-    "group": "SANDA",
-    "last_season": 1,
-    "last_episode": 5.0,
     "start_episode": 1
   }
 }
