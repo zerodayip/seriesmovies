@@ -1,4 +1,9 @@
 {
+  "/dizi/yesilcam/": {
+    "group": "Yeşilcam - Alternatif Yayın",
+    "tvg-id": "tt13592218",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BZTBmNGY2N2YtNTMzZC00MTczLThkNDgtMzgzYjNjMjMzZGE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
   "/dizi/sorgu/": {
     "group": "Sorgu - Alternatif Yayın",
     "tvg-id": "tt33377409",
