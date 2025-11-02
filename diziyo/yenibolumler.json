@@ -2,43 +2,43 @@
   "/dizi/maigret": {
     "group": "MAIGRET",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/terapia-alternativa": {
     "group": "TERAPIA ALTERNATIVA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/south-park": {
     "group": "SOUTH PARK",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 28,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/sheriff-country": {
     "group": "SHERIFF COUNTRY",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/fire-country": {
     "group": "FIRE COUNTRY",
     "last_season": 4,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/brassic": {
     "group": "BRASSIC",
     "last_season": 7,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/boston-blue": {
     "group": "BOSTON BLUE",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/bahar-yerli": {
