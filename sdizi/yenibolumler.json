@@ -1,4 +1,22 @@
 {
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1147,
+    "start_episode": 1120
+  },
+  "/diziler/one-punch-man.html": {
+    "group": "ONE PUNCH MAN",
+    "last_season": 3,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/diziler/gachiakuta.html": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 16,
+    "start_episode": 1
+  },
   "/diziler/typhoon-family.html": {
     "group": "TYPHOON FAMILY",
     "last_season": 1,
@@ -57,24 +75,6 @@
     "group": "THE LAST FRONTIER",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/adventure-time-fionna-and-cake.html": {
-    "group": "ADVENTURE TIME: FIONNA & CAKE",
-    "last_season": 2,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/the-witcher.html": {
-    "group": "THE WITCHER",
-    "last_season": 4,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/star-wars-visions-izle.html": {
-    "group": "STAR WARS: VISIONS",
-    "last_season": 3,
-    "last_episode": 9,
     "start_episode": 1
   }
 }
