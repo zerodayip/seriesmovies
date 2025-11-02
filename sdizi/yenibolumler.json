@@ -76,11 +76,5 @@
     "last_season": 3,
     "last_episode": 9,
     "start_episode": 1
-  },
-  "/diziler/hazbin-hotel.html": {
-    "group": "HAZBIN HOTEL",
-    "last_season": 2,
-    "last_episode": 2,
-    "start_episode": 1
   }
 }
