@@ -3217,8 +3217,8 @@
   },
   "/dizi/loot-izle/": {
     "group": "LOOT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/krolowa-izle/": {
