@@ -1,6 +1,18 @@
 {
-  "/dizi-izle/the-dream-life-of-mr-kim": {
-    "group": "THE DREAM LIFE OF MR. KIM",
+  "/dizi-izle/unburied": {
+    "group": "UNBURIED",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-last-frontier": {
+    "group": "THE LAST FRONTIER",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/juan-gabriel-i-must-i-can-i-will": {
+    "group": "JUAN GABRIEL: I MUST, I CAN, I WILL",
     "last_season": 1,
     "last_episode": 4,
     "start_episode": 1
@@ -11,10 +23,28 @@
     "last_episode": 4,
     "start_episode": 1
   },
+  "/dizi-izle/breathless": {
+    "group": "BREATHLESS (RESPIRA)",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/dizi-izle/the-witcher/": {
     "group": "THE WITCHER",
     "last_season": 4,
     "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/amsterdam-empire": {
+    "group": "AMSTERDAM EMPIRE",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-dream-life-of-mr-kim": {
+    "group": "THE DREAM LIFE OF MR. KIM",
+    "last_season": 1,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi-izle/son-of-a-donkey": {
@@ -23,16 +53,10 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi-izle/unburied": {
-    "group": "UNBURIED",
+  "/dizi-izle/it-welcome-to-derry": {
+    "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/juan-gabriel-i-must-i-can-i-will": {
-    "group": "JUAN GABRIEL: I MUST, I CAN, I WILL",
-    "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi-izle/typhoon-family": {
@@ -45,30 +69,6 @@
     "group": "REASONABLE DOUBT",
     "last_season": 3,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-last-frontier": {
-    "group": "THE LAST FRONTIER",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/amsterdam-empire": {
-    "group": "AMSTERDAM EMPIRE",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/breathless": {
-    "group": "BREATHLESS (RESPIRA)",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/it-welcome-to-derry": {
-    "group": "IT: WELCOME TO DERRY",
-    "last_season": 1,
-    "last_episode": 2,
     "start_episode": 1
   }
 }
