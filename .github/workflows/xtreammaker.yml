@@ -164,8 +164,8 @@ jobs:
       - name: Run Xtream Premium Script
         run: python private_py/xtream/premium/convert.py
 
-      - name: Run Xtream Premium Script
-        run: python private_py/xtream/premium/convert.py
+      - name: Run Xtream Standard Script
+        run: python private_py/xtream/standard/convert.py
 
       - name: Commit and Push times.json to Public Repo
         run: |
