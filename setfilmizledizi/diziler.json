@@ -10354,5 +10354,23 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/siyah-bere-2025-izle-9/": {
+    "group": "SIYAH BERE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/surgunler-2025-izle-8/": {
+    "group": "SÜRGÜNLER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/gassal-2024-izle-10/": {
+    "group": "GASSAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
