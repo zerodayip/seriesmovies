@@ -92,11 +92,17 @@ jobs:
           pip install --upgrade pip
           pip install requests
 
-      - name: Run Xtream Film Script
-        run: python private_py/xtream/film.py
+      - name: Run Xtream Film Premium Script
+        run: python private_py/xtream/premium/film.py
 
-      - name: Run Xtream Dizi Script
-        run: python private_py/xtream/series.py
+      - name: Run Xtream Film Standard Script
+        run: python private_py/xtream/standard/film.py
+
+      - name: Run Xtream Dizi Premium Script
+        run: python private_py/xtream/premium/series.py
+
+      - name: Run Xtream Dizi Standard Script
+        run: python private_py/xtream/standard/series.py
 
       - name: Commit group_order.json to Public Repo
         run: |
@@ -104,7 +110,7 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git pull --rebase origin main || echo "Pull yapılamadı"
-          git add xtream/group_order.json || echo "group_order.json yok"
+          git add xtream/group_order_standard.json xtream/group_order_premium.json || echo "group_order.json yok"
           git diff --cached --quiet || git commit -m "group_order.json güncellendi [auto]"
           git push origin main
 
@@ -155,8 +161,11 @@ jobs:
           pip install --upgrade pip
           pip install requests
 
-      - name: Run Xtream Script
-        run: python private_py/xtream/convert.py
+      - name: Run Xtream Premium Script
+        run: python private_py/xtream/premium/convert.py
+
+      - name: Run Xtream Premium Script
+        run: python private_py/xtream/premium/convert.py
 
       - name: Commit and Push times.json to Public Repo
         run: |
