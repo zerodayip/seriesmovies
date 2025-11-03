@@ -1,4 +1,10 @@
 {
+  "/diziler/the-chair-company.html": {
+    "group": "THE CHAIR COMPANY",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "last_season": 1,
@@ -69,12 +75,6 @@
     "group": "CAT'S EYE",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/the-last-frontier.html": {
-    "group": "THE LAST FRONTIER",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
