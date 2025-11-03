@@ -223,9 +223,12 @@ jobs:
           pip install --upgrade pip
           pip install requests
 
-      - name: Run Xtream Script
-        run: python private_py/xtream/altyazıvedublajismigüncelleme.py
+      - name: Run Xtream Premium Script
+        run: python private_py/xtream/premium/altyazıvedublajismigüncelleme.py
 
+      - name: Run Xtream Standard Script
+        run: python private_py/xtream/standard/altyazıvedublajismigüncelleme.py
+        
       - name: Clone m3u8file Repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git m3u8file_repoo
