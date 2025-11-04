@@ -10402,5 +10402,47 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi/persona-izle-1/": {
+    "group": "PERSONA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/siyah-bere-2025-izle-10/": {
+    "group": "SIYAH BERE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/yuzde-iki-2025-izle-9/": {
+    "group": "YÜZDE İKI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/surgunler-2025-izle-9/": {
+    "group": "SÜRGÜNLER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/yanki-gorunmez-el-2025-izle-9/": {
+    "group": "YANKI: GÖRÜNMEZ EL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/marnali-izle-10/": {
+    "group": "MARNALI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/gassal-2024-izle-11/": {
+    "group": "GASSAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

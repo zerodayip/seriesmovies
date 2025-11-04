@@ -1,4 +1,16 @@
 {
+  "/diziler/high-potential.html": {
+    "group": "HIGH POTENTIAL",
+    "last_season": 2,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/diziler/nice-to-not-meet-you.html": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/diziler/squid-game-the-challenge.html": {
     "group": "SQUID GAME: THE CHALLENGE",
     "last_season": 2,
@@ -9,12 +21,6 @@
     "group": "SMILING FRIENDS",
     "last_season": 3,
     "last_episode": 4,
-    "start_episode": 1
-  },
-  "/diziler/nice-to-not-meet-you.html": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/the-chair-company.html": {
@@ -69,18 +75,6 @@
     "group": "BREEDERS",
     "last_season": 3,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/my-hero-academia.html": {
-    "group": "MY HERO ACADEMIA",
-    "last_season": 8,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/down-cemetery-road.html": {
-    "group": "DOWN CEMETERY ROAD",
-    "last_season": 1,
-    "last_episode": 2,
     "start_episode": 1
   }
 }

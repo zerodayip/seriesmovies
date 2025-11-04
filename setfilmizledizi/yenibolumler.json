@@ -1,4 +1,22 @@
 {
+  "/dizi/high-potential/": {
+    "group": "HIGH POTENTIAL",
+    "last_season": 2,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/bolum/alls-fair-1-sezon-3-bolum/": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "ALL'S FAIR",
+    "start_episode": 1
+  },
+  "/bolum/alls-fair-1-sezon-2-bolum/": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "ALL'S FAIR",
+    "start_episode": 1
+  },
   "/bolum/alls-fair-1-sezon-1-bolum/": {
     "last_season": 1,
     "last_episode": 0,

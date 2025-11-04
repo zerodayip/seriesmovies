@@ -1,4 +1,28 @@
 {
+  "/anime/yano-kuns-ordinary-days/": {
+    "group": "YANO-KUN’S ORDINARY DAYS",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/anime/ninja-vs-gokudo/": {
+    "group": "NINJA VS. GOKUDO",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/anime/chitose-is-in-the-ramune-bottle/": {
+    "group": "CHITOSE IS IN THE RAMUNE BOTTLE",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/anime/campfire-cooking-in-another-world-with-my-absurd-skill-season-2/": {
+    "group": "CAMPFIRE COOKING IN ANOTHER WORLD WITH MY ABSURD SKILL SEASON 2",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
   "/anime/with-you-our-love-will-make-it-through/": {
     "group": "WITH YOU, OUR LOVE WILL MAKE IT THROUGH",
     "last_season": 1,
@@ -93,30 +117,6 @@
     "group": "LI’L MISS VAMPIRE CAN’T SUCK RIGHT",
     "last_season": 1,
     "last_episode": 4,
-    "start_episode": 1
-  },
-  "/anime/blue-orchestra-season-2/": {
-    "group": "BLUE ORCHESTRA SEASON 2",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/anime/umamusume-cinderella-gray-part-2/": {
-    "group": "UMAMUSUME: CINDERELLA GRAY PART 2",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/anime/digimon-beatbreak/": {
-    "group": "DIGIMON BEATBREAK",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/anime/kingdom-season-6/": {
-    "group": "KINGDOM: SEASON 6",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }

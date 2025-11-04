@@ -538,5 +538,17 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/dizi/squid-game-the-challenge": {
+    "group": "SQUID GAME: THE CHALLENGE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/alls-fair": {
+    "group": "ALL'S FAIR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
