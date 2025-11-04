@@ -74,6 +74,11 @@ jobs:
         if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 23') }}
         run: python private_py/series/tlc/yenibolumler.py
 
+      # 2. TV Dizileri sadece gece 02:00 TR çalışacak ---
+      - name: Run yereldiziler.py (sadece Türkiye saati 02:00)
+        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 23') }}
+        run: python private_py/series/yereldiziler/yereldiziler.py
+
       # 2. Günlük Epg Üretimi
       - name: Run epg.py (sadece Türkiye saati 02:00)
         if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 23') }}
@@ -99,6 +104,7 @@ jobs:
           cp diziyiizledizi.m3u privaate_m3u8file/diziyiizledizi.m3u || echo "diziyiizledizi.m3u bulunamadı"
           cp dmax.m3u privaate_m3u8file/dmax.m3u || echo "dmax.m3u bulunamadı"
           cp tlc.m3u privaate_m3u8file/tlc.m3u || echo "tlc.m3u bulunamadı"
+          cp televizyondizileri.m3u privaate_m3u8file/televizyondizileri.m3u || echo "televizyondizileri.m3u bulunamadı"
 
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
