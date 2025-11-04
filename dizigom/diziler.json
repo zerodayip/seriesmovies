@@ -28040,19 +28040,19 @@
   "/dizi-izle/nice-to-not-meet-you": {
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi-izle/i-love-la": {
     "group": "I LOVE LA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi-izle/alls-fair": {
     "group": "ALL'S FAIR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
