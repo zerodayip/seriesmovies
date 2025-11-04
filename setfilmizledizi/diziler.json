@@ -10372,5 +10372,35 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi/alls-fair/": {
+    "group": "ALL’S FAIR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/nice-to-not-meet-you/": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/yuzde-iki-2025-izle-8/": {
+    "group": "YÜZDE İKI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/yanki-gorunmez-el-2025-izle-8/": {
+    "group": "YANKI: GÖRÜNMEZ EL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/marnali-izle-9/": {
+    "group": "MARNALI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -1,4 +1,16 @@
 {
+  "/diziler/squid-game-the-challenge.html": {
+    "group": "SQUID GAME: THE CHALLENGE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/smiling-friends.html": {
+    "group": "SMILING FRIENDS",
+    "last_season": 3,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/diziler/nice-to-not-meet-you.html": {
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
@@ -67,12 +79,6 @@
   },
   "/diziler/down-cemetery-road.html": {
     "group": "DOWN CEMETERY ROAD",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/it-welcome-to-derry.html": {
-    "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
