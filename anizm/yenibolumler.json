@@ -1,4 +1,10 @@
 {
+  "/3-nen-z-gumi-ginpachi-sensei": {
+    "group": "3-NEN Z-GUMI GINPACHI-SENSEI",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/mofa-gongzhu-de-xiao-fannao": {
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
@@ -81,18 +87,6 @@
     "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
     "last_season": 1,
     "last_episode": 4.0,
-    "start_episode": 1
-  },
-  "/kingdom-6th-season": {
-    "group": "KINGDOM 6TH SEASON",
-    "last_season": 1,
-    "last_episode": 5.0,
-    "start_episode": 1
-  },
-  "/spy-x-family-season-3": {
-    "group": "SPY X FAMILY SEASON 3",
-    "last_season": 1,
-    "last_episode": 5.0,
     "start_episode": 1
   }
 }
