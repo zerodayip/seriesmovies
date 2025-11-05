@@ -434,7 +434,7 @@
   "/dizi/hazbin-hotel": {
     "group": "HAZBIN HOTEL",
     "last_season": 2,
-    "last_episode": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/murdaugh-death-in-the-family": {
@@ -553,20 +553,20 @@
   },
   "/dizi/st-denis-medical": {
     "group": "ST. DENIS MEDICAL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/return-to-paradise": {
     "group": "RETURN TO PARADISE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/nails": {
     "group": "NAILS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   }
 }
