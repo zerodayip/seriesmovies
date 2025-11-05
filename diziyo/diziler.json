@@ -550,5 +550,23 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/dizi/st-denis-medical": {
+    "group": "ST. DENIS MEDICAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/return-to-paradise": {
+    "group": "RETURN TO PARADISE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/nails": {
+    "group": "NAILS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
