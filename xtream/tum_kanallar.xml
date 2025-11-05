@@ -12972,22 +12972,382 @@
     <display-name>4K TR: TRT SPOR HD</display-name>
   </channel>
 
+  <programme start="20251104213000 +0000" stop="20251104220000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI ÖZETLER</title>
+  </programme>
+  <programme start="20251104220000 +0000" stop="20251104233000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>AVRUPA STÜDYOSU</title>
+  </programme>
+  <programme start="20251104233000 +0000" stop="20251105011500 +0000" channel="4K TR: TRT SPOR HD">
+    <title>LIVERPOOL - REAL MADRID</title>
+  </programme>
+  <programme start="20251105011500 +0000" stop="20251105030000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>PSG - BAYERN MUNIH</title>
+  </programme>
+  <programme start="20251105030000 +0000" stop="20251105044300 +0000" channel="4K TR: TRT SPOR HD">
+    <title>JUVENTUS - SPORTING LIZBON</title>
+  </programme>
+  <programme start="20251105044300 +0000" stop="20251105044500 +0000" channel="4K TR: TRT SPOR HD">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20251105044500 +0000" stop="20251105050000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>TRENDYOL SÜPER LIG ÖZETLER</title>
+  </programme>
+  <programme start="20251105050000 +0000" stop="20251105070000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>İLK BASKI</title>
+  </programme>
+  <programme start="20251105070000 +0000" stop="20251105071500 +0000" channel="4K TR: TRT SPOR HD">
+    <title>İŞITME ENGELLILER SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105071500 +0000" stop="20251105072500 +0000" channel="4K TR: TRT SPOR HD">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251105072500 +0000" stop="20251105080000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105080000 +0000" stop="20251105090000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>SPOR MANŞET</title>
+  </programme>
+  <programme start="20251105090000 +0000" stop="20251105100000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>SPOR STÜDYOSU</title>
+  </programme>
+  <programme start="20251105100000 +0000" stop="20251105113000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>TÜRKIYE - TÜRKMENISTAN</title>
+  </programme>
+  <programme start="20251105113000 +0000" stop="20251105120000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105120000 +0000" stop="20251105140000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>AJAX YOUTH - GS YOUTH</title>
+  </programme>
+  <programme start="20251105140000 +0000" stop="20251105143000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>DÜNYADAN SPOR</title>
+  </programme>
+  <programme start="20251105143000 +0000" stop="20251105160000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>GÜNDEM FUTBOL</title>
+  </programme>
+  <programme start="20251105160000 +0000" stop="20251105163000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>SPOR AKŞAMI</title>
+  </programme>
+  <programme start="20251105163000 +0000" stop="20251105170000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>SPOR MERKEZI</title>
+  </programme>
+  <programme start="20251105170000 +0000" stop="20251105190000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>BAHÇEŞEHIR K. - H. JERUSALEM</title>
+  </programme>
+  <programme start="20251105190000 +0000" stop="20251105200000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>MAÇ ÖZEL</title>
+  </programme>
+  <programme start="20251105200000 +0000" stop="20251105204500 +0000" channel="4K TR: TRT SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI ÖZETLER</title>
+  </programme>
+  <programme start="20251105204500 +0000" stop="20251105210000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>MAÇ ÖZEL</title>
+  </programme>
   <channel id="TRT SPOR">
     <display-name>TRT SPOR</display-name>
   </channel>
 
+  <programme start="20251104213000 +0000" stop="20251104220000 +0000" channel="TRT SPOR">
+    <title>UEFA ŞAMPIYONLAR LIGI ÖZETLER</title>
+  </programme>
+  <programme start="20251104220000 +0000" stop="20251104233000 +0000" channel="TRT SPOR">
+    <title>AVRUPA STÜDYOSU</title>
+  </programme>
+  <programme start="20251104233000 +0000" stop="20251105011500 +0000" channel="TRT SPOR">
+    <title>LIVERPOOL - REAL MADRID</title>
+  </programme>
+  <programme start="20251105011500 +0000" stop="20251105030000 +0000" channel="TRT SPOR">
+    <title>PSG - BAYERN MUNIH</title>
+  </programme>
+  <programme start="20251105030000 +0000" stop="20251105044300 +0000" channel="TRT SPOR">
+    <title>JUVENTUS - SPORTING LIZBON</title>
+  </programme>
+  <programme start="20251105044300 +0000" stop="20251105044500 +0000" channel="TRT SPOR">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20251105044500 +0000" stop="20251105050000 +0000" channel="TRT SPOR">
+    <title>TRENDYOL SÜPER LIG ÖZETLER</title>
+  </programme>
+  <programme start="20251105050000 +0000" stop="20251105070000 +0000" channel="TRT SPOR">
+    <title>İLK BASKI</title>
+  </programme>
+  <programme start="20251105070000 +0000" stop="20251105071500 +0000" channel="TRT SPOR">
+    <title>İŞITME ENGELLILER SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105071500 +0000" stop="20251105072500 +0000" channel="TRT SPOR">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251105072500 +0000" stop="20251105080000 +0000" channel="TRT SPOR">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105080000 +0000" stop="20251105090000 +0000" channel="TRT SPOR">
+    <title>SPOR MANŞET</title>
+  </programme>
+  <programme start="20251105090000 +0000" stop="20251105100000 +0000" channel="TRT SPOR">
+    <title>SPOR STÜDYOSU</title>
+  </programme>
+  <programme start="20251105100000 +0000" stop="20251105113000 +0000" channel="TRT SPOR">
+    <title>TÜRKIYE - TÜRKMENISTAN</title>
+  </programme>
+  <programme start="20251105113000 +0000" stop="20251105120000 +0000" channel="TRT SPOR">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105120000 +0000" stop="20251105140000 +0000" channel="TRT SPOR">
+    <title>AJAX YOUTH - GS YOUTH</title>
+  </programme>
+  <programme start="20251105140000 +0000" stop="20251105143000 +0000" channel="TRT SPOR">
+    <title>DÜNYADAN SPOR</title>
+  </programme>
+  <programme start="20251105143000 +0000" stop="20251105160000 +0000" channel="TRT SPOR">
+    <title>GÜNDEM FUTBOL</title>
+  </programme>
+  <programme start="20251105160000 +0000" stop="20251105163000 +0000" channel="TRT SPOR">
+    <title>SPOR AKŞAMI</title>
+  </programme>
+  <programme start="20251105163000 +0000" stop="20251105170000 +0000" channel="TRT SPOR">
+    <title>SPOR MERKEZI</title>
+  </programme>
+  <programme start="20251105170000 +0000" stop="20251105190000 +0000" channel="TRT SPOR">
+    <title>BAHÇEŞEHIR K. - H. JERUSALEM</title>
+  </programme>
+  <programme start="20251105190000 +0000" stop="20251105200000 +0000" channel="TRT SPOR">
+    <title>MAÇ ÖZEL</title>
+  </programme>
+  <programme start="20251105200000 +0000" stop="20251105204500 +0000" channel="TRT SPOR">
+    <title>UEFA ŞAMPIYONLAR LIGI ÖZETLER</title>
+  </programme>
+  <programme start="20251105204500 +0000" stop="20251105210000 +0000" channel="TRT SPOR">
+    <title>MAÇ ÖZEL</title>
+  </programme>
   <channel id="TRT SPOR FHD">
     <display-name>TRT SPOR FHD</display-name>
   </channel>
 
+  <programme start="20251104213000 +0000" stop="20251104220000 +0000" channel="TRT SPOR FHD">
+    <title>UEFA ŞAMPIYONLAR LIGI ÖZETLER</title>
+  </programme>
+  <programme start="20251104220000 +0000" stop="20251104233000 +0000" channel="TRT SPOR FHD">
+    <title>AVRUPA STÜDYOSU</title>
+  </programme>
+  <programme start="20251104233000 +0000" stop="20251105011500 +0000" channel="TRT SPOR FHD">
+    <title>LIVERPOOL - REAL MADRID</title>
+  </programme>
+  <programme start="20251105011500 +0000" stop="20251105030000 +0000" channel="TRT SPOR FHD">
+    <title>PSG - BAYERN MUNIH</title>
+  </programme>
+  <programme start="20251105030000 +0000" stop="20251105044300 +0000" channel="TRT SPOR FHD">
+    <title>JUVENTUS - SPORTING LIZBON</title>
+  </programme>
+  <programme start="20251105044300 +0000" stop="20251105044500 +0000" channel="TRT SPOR FHD">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20251105044500 +0000" stop="20251105050000 +0000" channel="TRT SPOR FHD">
+    <title>TRENDYOL SÜPER LIG ÖZETLER</title>
+  </programme>
+  <programme start="20251105050000 +0000" stop="20251105070000 +0000" channel="TRT SPOR FHD">
+    <title>İLK BASKI</title>
+  </programme>
+  <programme start="20251105070000 +0000" stop="20251105071500 +0000" channel="TRT SPOR FHD">
+    <title>İŞITME ENGELLILER SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105071500 +0000" stop="20251105072500 +0000" channel="TRT SPOR FHD">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251105072500 +0000" stop="20251105080000 +0000" channel="TRT SPOR FHD">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105080000 +0000" stop="20251105090000 +0000" channel="TRT SPOR FHD">
+    <title>SPOR MANŞET</title>
+  </programme>
+  <programme start="20251105090000 +0000" stop="20251105100000 +0000" channel="TRT SPOR FHD">
+    <title>SPOR STÜDYOSU</title>
+  </programme>
+  <programme start="20251105100000 +0000" stop="20251105113000 +0000" channel="TRT SPOR FHD">
+    <title>TÜRKIYE - TÜRKMENISTAN</title>
+  </programme>
+  <programme start="20251105113000 +0000" stop="20251105120000 +0000" channel="TRT SPOR FHD">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105120000 +0000" stop="20251105140000 +0000" channel="TRT SPOR FHD">
+    <title>AJAX YOUTH - GS YOUTH</title>
+  </programme>
+  <programme start="20251105140000 +0000" stop="20251105143000 +0000" channel="TRT SPOR FHD">
+    <title>DÜNYADAN SPOR</title>
+  </programme>
+  <programme start="20251105143000 +0000" stop="20251105160000 +0000" channel="TRT SPOR FHD">
+    <title>GÜNDEM FUTBOL</title>
+  </programme>
+  <programme start="20251105160000 +0000" stop="20251105163000 +0000" channel="TRT SPOR FHD">
+    <title>SPOR AKŞAMI</title>
+  </programme>
+  <programme start="20251105163000 +0000" stop="20251105170000 +0000" channel="TRT SPOR FHD">
+    <title>SPOR MERKEZI</title>
+  </programme>
+  <programme start="20251105170000 +0000" stop="20251105190000 +0000" channel="TRT SPOR FHD">
+    <title>BAHÇEŞEHIR K. - H. JERUSALEM</title>
+  </programme>
+  <programme start="20251105190000 +0000" stop="20251105200000 +0000" channel="TRT SPOR FHD">
+    <title>MAÇ ÖZEL</title>
+  </programme>
+  <programme start="20251105200000 +0000" stop="20251105204500 +0000" channel="TRT SPOR FHD">
+    <title>UEFA ŞAMPIYONLAR LIGI ÖZETLER</title>
+  </programme>
+  <programme start="20251105204500 +0000" stop="20251105210000 +0000" channel="TRT SPOR FHD">
+    <title>MAÇ ÖZEL</title>
+  </programme>
   <channel id="TRT SPOR HD">
     <display-name>TRT SPOR HD</display-name>
   </channel>
 
+  <programme start="20251104213000 +0000" stop="20251104220000 +0000" channel="TRT SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI ÖZETLER</title>
+  </programme>
+  <programme start="20251104220000 +0000" stop="20251104233000 +0000" channel="TRT SPOR HD">
+    <title>AVRUPA STÜDYOSU</title>
+  </programme>
+  <programme start="20251104233000 +0000" stop="20251105011500 +0000" channel="TRT SPOR HD">
+    <title>LIVERPOOL - REAL MADRID</title>
+  </programme>
+  <programme start="20251105011500 +0000" stop="20251105030000 +0000" channel="TRT SPOR HD">
+    <title>PSG - BAYERN MUNIH</title>
+  </programme>
+  <programme start="20251105030000 +0000" stop="20251105044300 +0000" channel="TRT SPOR HD">
+    <title>JUVENTUS - SPORTING LIZBON</title>
+  </programme>
+  <programme start="20251105044300 +0000" stop="20251105044500 +0000" channel="TRT SPOR HD">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20251105044500 +0000" stop="20251105050000 +0000" channel="TRT SPOR HD">
+    <title>TRENDYOL SÜPER LIG ÖZETLER</title>
+  </programme>
+  <programme start="20251105050000 +0000" stop="20251105070000 +0000" channel="TRT SPOR HD">
+    <title>İLK BASKI</title>
+  </programme>
+  <programme start="20251105070000 +0000" stop="20251105071500 +0000" channel="TRT SPOR HD">
+    <title>İŞITME ENGELLILER SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105071500 +0000" stop="20251105072500 +0000" channel="TRT SPOR HD">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251105072500 +0000" stop="20251105080000 +0000" channel="TRT SPOR HD">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105080000 +0000" stop="20251105090000 +0000" channel="TRT SPOR HD">
+    <title>SPOR MANŞET</title>
+  </programme>
+  <programme start="20251105090000 +0000" stop="20251105100000 +0000" channel="TRT SPOR HD">
+    <title>SPOR STÜDYOSU</title>
+  </programme>
+  <programme start="20251105100000 +0000" stop="20251105113000 +0000" channel="TRT SPOR HD">
+    <title>TÜRKIYE - TÜRKMENISTAN</title>
+  </programme>
+  <programme start="20251105113000 +0000" stop="20251105120000 +0000" channel="TRT SPOR HD">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105120000 +0000" stop="20251105140000 +0000" channel="TRT SPOR HD">
+    <title>AJAX YOUTH - GS YOUTH</title>
+  </programme>
+  <programme start="20251105140000 +0000" stop="20251105143000 +0000" channel="TRT SPOR HD">
+    <title>DÜNYADAN SPOR</title>
+  </programme>
+  <programme start="20251105143000 +0000" stop="20251105160000 +0000" channel="TRT SPOR HD">
+    <title>GÜNDEM FUTBOL</title>
+  </programme>
+  <programme start="20251105160000 +0000" stop="20251105163000 +0000" channel="TRT SPOR HD">
+    <title>SPOR AKŞAMI</title>
+  </programme>
+  <programme start="20251105163000 +0000" stop="20251105170000 +0000" channel="TRT SPOR HD">
+    <title>SPOR MERKEZI</title>
+  </programme>
+  <programme start="20251105170000 +0000" stop="20251105190000 +0000" channel="TRT SPOR HD">
+    <title>BAHÇEŞEHIR K. - H. JERUSALEM</title>
+  </programme>
+  <programme start="20251105190000 +0000" stop="20251105200000 +0000" channel="TRT SPOR HD">
+    <title>MAÇ ÖZEL</title>
+  </programme>
+  <programme start="20251105200000 +0000" stop="20251105204500 +0000" channel="TRT SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI ÖZETLER</title>
+  </programme>
+  <programme start="20251105204500 +0000" stop="20251105210000 +0000" channel="TRT SPOR HD">
+    <title>MAÇ ÖZEL</title>
+  </programme>
   <channel id="TRT SPOR RAW">
     <display-name>TRT SPOR RAW</display-name>
   </channel>
 
+  <programme start="20251104213000 +0000" stop="20251104220000 +0000" channel="TRT SPOR RAW">
+    <title>UEFA ŞAMPIYONLAR LIGI ÖZETLER</title>
+  </programme>
+  <programme start="20251104220000 +0000" stop="20251104233000 +0000" channel="TRT SPOR RAW">
+    <title>AVRUPA STÜDYOSU</title>
+  </programme>
+  <programme start="20251104233000 +0000" stop="20251105011500 +0000" channel="TRT SPOR RAW">
+    <title>LIVERPOOL - REAL MADRID</title>
+  </programme>
+  <programme start="20251105011500 +0000" stop="20251105030000 +0000" channel="TRT SPOR RAW">
+    <title>PSG - BAYERN MUNIH</title>
+  </programme>
+  <programme start="20251105030000 +0000" stop="20251105044300 +0000" channel="TRT SPOR RAW">
+    <title>JUVENTUS - SPORTING LIZBON</title>
+  </programme>
+  <programme start="20251105044300 +0000" stop="20251105044500 +0000" channel="TRT SPOR RAW">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20251105044500 +0000" stop="20251105050000 +0000" channel="TRT SPOR RAW">
+    <title>TRENDYOL SÜPER LIG ÖZETLER</title>
+  </programme>
+  <programme start="20251105050000 +0000" stop="20251105070000 +0000" channel="TRT SPOR RAW">
+    <title>İLK BASKI</title>
+  </programme>
+  <programme start="20251105070000 +0000" stop="20251105071500 +0000" channel="TRT SPOR RAW">
+    <title>İŞITME ENGELLILER SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105071500 +0000" stop="20251105072500 +0000" channel="TRT SPOR RAW">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251105072500 +0000" stop="20251105080000 +0000" channel="TRT SPOR RAW">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105080000 +0000" stop="20251105090000 +0000" channel="TRT SPOR RAW">
+    <title>SPOR MANŞET</title>
+  </programme>
+  <programme start="20251105090000 +0000" stop="20251105100000 +0000" channel="TRT SPOR RAW">
+    <title>SPOR STÜDYOSU</title>
+  </programme>
+  <programme start="20251105100000 +0000" stop="20251105113000 +0000" channel="TRT SPOR RAW">
+    <title>TÜRKIYE - TÜRKMENISTAN</title>
+  </programme>
+  <programme start="20251105113000 +0000" stop="20251105120000 +0000" channel="TRT SPOR RAW">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251105120000 +0000" stop="20251105140000 +0000" channel="TRT SPOR RAW">
+    <title>AJAX YOUTH - GS YOUTH</title>
+  </programme>
+  <programme start="20251105140000 +0000" stop="20251105143000 +0000" channel="TRT SPOR RAW">
+    <title>DÜNYADAN SPOR</title>
+  </programme>
+  <programme start="20251105143000 +0000" stop="20251105160000 +0000" channel="TRT SPOR RAW">
+    <title>GÜNDEM FUTBOL</title>
+  </programme>
+  <programme start="20251105160000 +0000" stop="20251105163000 +0000" channel="TRT SPOR RAW">
+    <title>SPOR AKŞAMI</title>
+  </programme>
+  <programme start="20251105163000 +0000" stop="20251105170000 +0000" channel="TRT SPOR RAW">
+    <title>SPOR MERKEZI</title>
+  </programme>
+  <programme start="20251105170000 +0000" stop="20251105190000 +0000" channel="TRT SPOR RAW">
+    <title>BAHÇEŞEHIR K. - H. JERUSALEM</title>
+  </programme>
+  <programme start="20251105190000 +0000" stop="20251105200000 +0000" channel="TRT SPOR RAW">
+    <title>MAÇ ÖZEL</title>
+  </programme>
+  <programme start="20251105200000 +0000" stop="20251105204500 +0000" channel="TRT SPOR RAW">
+    <title>UEFA ŞAMPIYONLAR LIGI ÖZETLER</title>
+  </programme>
+  <programme start="20251105204500 +0000" stop="20251105210000 +0000" channel="TRT SPOR RAW">
+    <title>MAÇ ÖZEL</title>
+  </programme>
   <channel id="4K TR: TRT SPOR YILDIZ">
     <display-name>4K TR: TRT SPOR YILDIZ</display-name>
   </channel>
