@@ -2,7 +2,7 @@
   "/diziler/the-manipulated.html": {
     "group": "THE MANIPULATED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/murdaugh-death-in-the-family.html": {
@@ -13,8 +13,8 @@
   },
   "/diziler/hazbin-hotel.html": {
     "group": "HAZBIN HOTEL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/down-cemetery-road.html": {
@@ -25,20 +25,20 @@
   },
   "/diziler/loot.html": {
     "group": "LOOT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/the-morning-show.html": {
     "group": "THE MORNING SHOW",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/high-potential.html": {
     "group": "HIGH POTENTIAL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/nice-to-not-meet-you.html": {
@@ -49,14 +49,14 @@
   },
   "/diziler/squid-game-the-challenge.html": {
     "group": "SQUID GAME: THE CHALLENGE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/smiling-friends.html": {
     "group": "SMILING FRIENDS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/the-chair-company.html": {
@@ -68,13 +68,13 @@
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1148,
     "start_episode": 1130
   },
   "/diziler/one-punch-man.html": {
     "group": "ONE PUNCH MAN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 4,
     "start_episode": 1
   }
 }
