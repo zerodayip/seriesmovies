@@ -50,6 +50,10 @@ jobs:
       - name: Run GunlukSporAkısı.py
         run: python private_py/channels/gunluksporakısı/tvyayinakisi.py
 
+      # 2. Günlük Epg Üretimi
+      - name: Run epg.py
+        run: python private_py/channels/epg/gunlukepgsadecebirgün.py
+
       # 2. DiziFun Diziler Yerli Scripts ( site kapandı )
       # - name: Run dizifunyenibolumler.py
       #   run: python private_py/series/dizifun/yenibolumler.py
@@ -78,11 +82,6 @@ jobs:
       - name: Run yereldiziler.py (sadece Türkiye saati 02:00)
         if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 23') }}
         run: python private_py/series/yereldiziler/yereldiziler.py
-
-      # 2. Günlük Epg Üretimi
-      - name: Run epg.py (sadece Türkiye saati 02:00)
-        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 23') }}
-        run: python private_py/channels/epg/gunlukepg.py
 
       - name: Commit and Push EPG to public repo
         run: |
