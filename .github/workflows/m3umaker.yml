@@ -329,8 +329,8 @@ jobs:
 #          git push origin main
 
       # 11. Diziyo M3U Maker
-      - name: Run DiziYo yenibolumler.py
-        run: python private_py/series/diziyo/yenibolumler.py
+ #     - name: Run DiziYo yenibolumler.py
+ #       run: python private_py/series/diziyo/yenibolumler.py
 
       - name: Commit and Push DiziYo JSON to public repo
         run: |
