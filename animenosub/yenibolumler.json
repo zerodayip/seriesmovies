@@ -1,4 +1,22 @@
 {
+  "/anime/this-monster-wants-to-eat-me/": {
+    "group": "THIS MONSTER WANTS TO EAT ME",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/anime/pass-the-monster-meat-milady/": {
+    "group": "PASS THE MONSTER MEAT, MILADY!",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/anime/my-awkward-senpai/": {
+    "group": "MY AWKWARD SENPAI",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/anime/blue-orchestra-season-2/": {
     "group": "BLUE ORCHESTRA SEASON 2",
     "last_season": 1,
@@ -99,24 +117,6 @@
     "group": "PLUS-SIZED MISADVENTURES IN LOVE!",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/anime/a-mangakas-weirdly-wonderful-workplace/": {
-    "group": "A MANGAKA’S WEIRDLY WONDERFUL WORKPLACE",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/anime/hands-off-sawaranaide-kotesashi-kun-uncensored/": {
-    "group": "HANDS OFF: SAWARANAIDE KOTESASHI-KUN (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/anime/the-fated-magical-princess-who-made-me-a-princess/": {
-    "group": "THE FATED MAGICAL PRINCESS: WHO MADE ME A PRINCESS",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }

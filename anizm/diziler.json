@@ -1072,5 +1072,11 @@
     "last_season": 1,
     "last_episode": 9.0,
     "start_episode": 1
+  },
+  "/master-keaton-blood-and-bullets": {
+    "group": "MASTER KEATON: BLOOD AND BULLETS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
