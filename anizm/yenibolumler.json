@@ -1,4 +1,40 @@
 {
+  "/futari-solo-camp": {
+    "group": "FUTARI SOLO CAMP",
+    "last_season": 1,
+    "last_episode": 17.0,
+    "start_episode": 1
+  },
+  "/watashi-wo-tabetai-hitodenashi": {
+    "group": "WATASHI WO TABETAI, HITODENASHI",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
+  "/potion-wagami-wo-tasukeru": {
+    "group": "POTION, WAGAMI WO TASUKERU",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
+  "/taiyou-yori-mo-mabushii-hoshi": {
+    "group": "TAIYOU YORI MO MABUSHII HOSHI",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
+  "/akujiki-reijou-to-kyouketsu-koushaku": {
+    "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
+  "/towa-no-yuugure": {
+    "group": "TOWA NO YUUGURE",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
   "/master-keaton-blood-and-bullets": {
     "group": "MASTER KEATON: BLOOD AND BULLETS",
     "last_season": 1,
@@ -63,36 +99,6 @@
     "group": "NINJA TO GOKUDOU",
     "last_season": 1,
     "last_episode": 5.0,
-    "start_episode": 1
-  },
-  "/heika-watashi-wo-wasurete-kudasai": {
-    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
-    "last_season": 1,
-    "last_episode": 5.0,
-    "start_episode": 1
-  },
-  "/chitose-kun-wa-ramune-bin-no-naka": {
-    "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
-    "last_season": 1,
-    "last_episode": 5.0,
-    "start_episode": 1
-  },
-  "/debu-to-love-to-ayamachi-to": {
-    "group": "DEBU TO LOVE TO AYAMACHI TO!",
-    "last_season": 1,
-    "last_episode": 5.0,
-    "start_episode": 1
-  },
-  "/3-nen-z-gumi-ginpachi-sensei": {
-    "group": "3-NEN Z-GUMI GINPACHI-SENSEI",
-    "last_season": 1,
-    "last_episode": 5.0,
-    "start_episode": 1
-  },
-  "/mofa-gongzhu-de-xiao-fannao": {
-    "group": "MOFA GONGZHU DE XIAO FANNAO",
-    "last_season": 1,
-    "last_episode": 8.0,
     "start_episode": 1
   }
 }

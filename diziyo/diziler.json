@@ -610,5 +610,23 @@
     "last_season": 6,
     "last_episode": 13,
     "start_episode": 1
+  },
+  "/dizi/kim-demis-kotuyuz-diye-goreve-haziriz": {
+    "group": "KIM DEMIŞ KÖTÜYÜZ DIYE? - GÖREVE HAZIRIZ",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-vince-staples-show": {
+    "group": "THE VINCE STAPLES SHOW",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/death-by-lightning": {
+    "group": "DEATH BY LIGHTNING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
