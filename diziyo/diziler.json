@@ -568,5 +568,41 @@
     "last_season": 1,
     "last_episode": 5,
     "start_episode": 1
+  },
+  "/dizi/the-morning-show": {
+    "group": "THE MORNING SHOW",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/terrazza-sentimento": {
+    "group": "BIR ÇÖKÜŞ HIKÂYESI: MILYARDERLIKTEN MAHKUMLUĞA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/yalmiun-sarang-asya": {
+    "group": "MEMNUN OLDUM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/marvel-s-m-o-d-o-k": {
+    "group": "MARVEL'S M.O.D.O.K.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/i-love-la": {
+    "group": "I LOVE LA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/heweliusz": {
+    "group": "HEWELIUSZ",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
