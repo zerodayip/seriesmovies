@@ -2281,10 +2281,10 @@
   <programme start="20251107160000 +0000" stop="20251107170000 +0000" channel="4K TR: NOW HD">
     <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
   </programme>
-  <programme start="20251107170000 +0000" stop="20251107204500 +0000" channel="4K TR: NOW HD">
+  <programme start="20251107170000 +0000" stop="20251107201500 +0000" channel="4K TR: NOW HD">
     <title>BEN ONUN ANNESIYIM</title>
   </programme>
-  <programme start="20251107204500 +0000" stop="20251107233000 +0000" channel="4K TR: NOW HD">
+  <programme start="20251107201500 +0000" stop="20251107230000 +0000" channel="4K TR: NOW HD">
     <title>BEN LEMAN</title>
   </programme>
   <channel id="NOW TV FHD">
@@ -2324,10 +2324,10 @@
   <programme start="20251107160000 +0000" stop="20251107170000 +0000" channel="NOW TV FHD">
     <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
   </programme>
-  <programme start="20251107170000 +0000" stop="20251107204500 +0000" channel="NOW TV FHD">
+  <programme start="20251107170000 +0000" stop="20251107201500 +0000" channel="NOW TV FHD">
     <title>BEN ONUN ANNESIYIM</title>
   </programme>
-  <programme start="20251107204500 +0000" stop="20251107233000 +0000" channel="NOW TV FHD">
+  <programme start="20251107201500 +0000" stop="20251107230000 +0000" channel="NOW TV FHD">
     <title>BEN LEMAN</title>
   </programme>
   <channel id="NOW TV HD">
@@ -2367,10 +2367,10 @@
   <programme start="20251107160000 +0000" stop="20251107170000 +0000" channel="NOW TV HD">
     <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
   </programme>
-  <programme start="20251107170000 +0000" stop="20251107204500 +0000" channel="NOW TV HD">
+  <programme start="20251107170000 +0000" stop="20251107201500 +0000" channel="NOW TV HD">
     <title>BEN ONUN ANNESIYIM</title>
   </programme>
-  <programme start="20251107204500 +0000" stop="20251107233000 +0000" channel="NOW TV HD">
+  <programme start="20251107201500 +0000" stop="20251107230000 +0000" channel="NOW TV HD">
     <title>BEN LEMAN</title>
   </programme>
   <channel id="NOW TV">
@@ -2410,10 +2410,10 @@
   <programme start="20251107160000 +0000" stop="20251107170000 +0000" channel="NOW TV">
     <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
   </programme>
-  <programme start="20251107170000 +0000" stop="20251107204500 +0000" channel="NOW TV">
+  <programme start="20251107170000 +0000" stop="20251107201500 +0000" channel="NOW TV">
     <title>BEN ONUN ANNESIYIM</title>
   </programme>
-  <programme start="20251107204500 +0000" stop="20251107233000 +0000" channel="NOW TV">
+  <programme start="20251107201500 +0000" stop="20251107230000 +0000" channel="NOW TV">
     <title>BEN LEMAN</title>
   </programme>
   <channel id="4K TR: TV8 HD">
@@ -10358,7 +10358,7 @@
   <programme start="20251107160000 +0000" stop="20251107180000 +0000" channel="4K TR: HALK TV">
     <title>ECE ÜNER ILE HALK ANA HABER</title>
   </programme>
-  <programme start="20251107180000 +0000" stop="20251108060000 +0000" channel="4K TR: HALK TV">
+  <programme start="20251107180000 +0000" stop="20251108050000 +0000" channel="4K TR: HALK TV">
     <title>SINEM FISTIKOĞLU ILE SANSÜRSÜZ</title>
   </programme>
   <channel id="HALK TV">
@@ -10386,7 +10386,7 @@
   <programme start="20251107160000 +0000" stop="20251107180000 +0000" channel="HALK TV">
     <title>ECE ÜNER ILE HALK ANA HABER</title>
   </programme>
-  <programme start="20251107180000 +0000" stop="20251108060000 +0000" channel="HALK TV">
+  <programme start="20251107180000 +0000" stop="20251108050000 +0000" channel="HALK TV">
     <title>SINEM FISTIKOĞLU ILE SANSÜRSÜZ</title>
   </programme>
   <channel id="HALK TV HD">
@@ -10414,7 +10414,7 @@
   <programme start="20251107160000 +0000" stop="20251107180000 +0000" channel="HALK TV HD">
     <title>ECE ÜNER ILE HALK ANA HABER</title>
   </programme>
-  <programme start="20251107180000 +0000" stop="20251108060000 +0000" channel="HALK TV HD">
+  <programme start="20251107180000 +0000" stop="20251108050000 +0000" channel="HALK TV HD">
     <title>SINEM FISTIKOĞLU ILE SANSÜRSÜZ</title>
   </programme>
   <channel id="HALK TV SD">
@@ -10442,7 +10442,7 @@
   <programme start="20251107160000 +0000" stop="20251107180000 +0000" channel="HALK TV SD">
     <title>ECE ÜNER ILE HALK ANA HABER</title>
   </programme>
-  <programme start="20251107180000 +0000" stop="20251108060000 +0000" channel="HALK TV SD">
+  <programme start="20251107180000 +0000" stop="20251108050000 +0000" channel="HALK TV SD">
     <title>SINEM FISTIKOĞLU ILE SANSÜRSÜZ</title>
   </programme>
   <channel id="4K TR: TELE1">
@@ -12184,7 +12184,7 @@
   <programme start="20251107173000 +0000" stop="20251107200000 +0000" channel="ULUSAL KANAL">
     <title>YENI DÜNYA</title>
   </programme>
-  <programme start="20251107200000 +0000" stop="20251108060000 +0000" channel="ULUSAL KANAL">
+  <programme start="20251107200000 +0000" stop="20251108080000 +0000" channel="ULUSAL KANAL">
     <title>HABER TURU</title>
   </programme>
   <channel id="ULUSAL KANAL SD">
@@ -12215,7 +12215,7 @@
   <programme start="20251107173000 +0000" stop="20251107200000 +0000" channel="ULUSAL KANAL SD">
     <title>YENI DÜNYA</title>
   </programme>
-  <programme start="20251107200000 +0000" stop="20251108060000 +0000" channel="ULUSAL KANAL SD">
+  <programme start="20251107200000 +0000" stop="20251108080000 +0000" channel="ULUSAL KANAL SD">
     <title>HABER TURU</title>
   </programme>
   <channel id="4K TR: KRT TV">
@@ -14379,11 +14379,17 @@
   <programme start="20251107173000 +0000" stop="20251107183000 +0000" channel="4K TR: FB TV">
     <title>TEKNIK ANALIZ</title>
   </programme>
-  <programme start="20251107183000 +0000" stop="20251107203000 +0000" channel="4K TR: FB TV">
-    <title>FUTBOL: UEFA AVRUPA LIGI</title>
+  <programme start="20251107183000 +0000" stop="20251107200000 +0000" channel="4K TR: FB TV">
+    <title>BASKETBOL: EUROLEAGUE</title>
+  </programme>
+  <programme start="20251107200000 +0000" stop="20251107201500 +0000" channel="4K TR: FB TV">
+    <title>MAÇIN ÖYKÜSÜ</title>
+  </programme>
+  <programme start="20251107201500 +0000" stop="20251107203000 +0000" channel="4K TR: FB TV">
+    <title>POTANIN KRALIÇELERI</title>
   </programme>
   <programme start="20251107203000 +0000" stop="20251107204500 +0000" channel="4K TR: FB TV">
-    <title>MAÇIN ÖYKÜSÜ</title>
+    <title>FENERIUM SAATI</title>
   </programme>
   <programme start="20251107204500 +0000" stop="20251107210000 +0000" channel="4K TR: FB TV">
     <title>GECE HABERI</title>
@@ -14476,11 +14482,17 @@
   <programme start="20251107173000 +0000" stop="20251107183000 +0000" channel="FB TV">
     <title>TEKNIK ANALIZ</title>
   </programme>
-  <programme start="20251107183000 +0000" stop="20251107203000 +0000" channel="FB TV">
-    <title>FUTBOL: UEFA AVRUPA LIGI</title>
+  <programme start="20251107183000 +0000" stop="20251107200000 +0000" channel="FB TV">
+    <title>BASKETBOL: EUROLEAGUE</title>
+  </programme>
+  <programme start="20251107200000 +0000" stop="20251107201500 +0000" channel="FB TV">
+    <title>MAÇIN ÖYKÜSÜ</title>
+  </programme>
+  <programme start="20251107201500 +0000" stop="20251107203000 +0000" channel="FB TV">
+    <title>POTANIN KRALIÇELERI</title>
   </programme>
   <programme start="20251107203000 +0000" stop="20251107204500 +0000" channel="FB TV">
-    <title>MAÇIN ÖYKÜSÜ</title>
+    <title>FENERIUM SAATI</title>
   </programme>
   <programme start="20251107204500 +0000" stop="20251107210000 +0000" channel="FB TV">
     <title>GECE HABERI</title>
@@ -30529,7 +30541,7 @@
     <title>DW NEWS</title>
   </programme>
   <programme start="20251107183000 +0000" stop="20251107190000 +0000" channel="DEUTSCHE_WELLE_ENGLISH">
-    <title>BEST OF DW VODCASTS</title>
+    <title>FREAKS NO MORE!</title>
   </programme>
   <programme start="20251107190000 +0000" stop="20251107190200 +0000" channel="DEUTSCHE_WELLE_ENGLISH">
     <title>DW NEWS</title>
@@ -32199,10 +32211,10 @@
     <title>EN YENILER</title>
   </programme>
   <programme start="20251107190000 +0000" stop="20251107200000 +0000" channel="NUMBER1_TURK">
-    <title>HOT HITS</title>
+    <title>NR1 TÜRK TOP 20</title>
   </programme>
   <programme start="20251107200000 +0000" stop="20251107210000 +0000" channel="NUMBER1_TURK">
-    <title>NR1 TÜRK TOP 20</title>
+    <title>EN YENILER</title>
   </programme>
   <channel id="4K TR: POWER TURK HD">
     <display-name>4K TR: POWER TURK HD</display-name>
