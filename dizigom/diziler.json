@@ -640,5 +640,17 @@
     "last_season": 1,
     "last_episode": 19,
     "start_episode": 1
+  },
+  "/dizi-izle/death-by-lightning": {
+    "group": "DEATH BY LIGHTNING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-bad-guys-breaking-in": {
+    "group": "THE BAD GUYS: BREAKING IN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
