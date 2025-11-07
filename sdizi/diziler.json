@@ -2227,8 +2227,8 @@
   },
   "/diziler/maxton-hall-the-world-between-us.html": {
     "group": "MAXTON HALL: THE WORLD BETWEEN US",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/bodkin.html": {
@@ -16094,7 +16094,7 @@
   "/diziler/pluribus.html": {
     "group": "PLURIBUS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   }
 }
