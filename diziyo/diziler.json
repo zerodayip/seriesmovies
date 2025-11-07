@@ -676,5 +676,23 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/dizi/dangsini-jugyeossda-asya": {
+    "group": "DANGSINI JUGYEOSSDA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/fer-yerli": {
+    "group": "FER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/jo-gak-do-si-asya": {
+    "group": "JO-GAK-DO-SI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
