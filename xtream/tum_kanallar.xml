@@ -33113,49 +33113,58 @@
     <display-name>4K TR: MELTEM TV</display-name>
   </channel>
 
-  <programme start="20251107080000 +0000" stop="20251107133000 +0000" channel="4K TR: MELTEM TV">
+  <programme start="20251107080000 +0000" stop="20251107130000 +0000" channel="4K TR: MELTEM TV">
     <title>İSTANBUL KAZAN BIZ KEPÇE</title>
   </programme>
-  <programme start="20251107133000 +0000" stop="20251107150000 +0000" channel="4K TR: MELTEM TV">
-    <title>KENT VE YAŞAM</title>
+  <programme start="20251107130000 +0000" stop="20251107153000 +0000" channel="4K TR: MELTEM TV">
+    <title>PARANTEZ EKSTRA</title>
   </programme>
-  <programme start="20251107150000 +0000" stop="20251107193000 +0000" channel="4K TR: MELTEM TV">
-    <title>ANA HABER</title>
+  <programme start="20251107153000 +0000" stop="20251107170000 +0000" channel="4K TR: MELTEM TV">
+    <title>ÇIĞDEM AKDEMIR ILE ANA HABER</title>
+  </programme>
+  <programme start="20251107170000 +0000" stop="20251107193000 +0000" channel="4K TR: MELTEM TV">
+    <title>ÇAĞDAŞ BAYRAKTAR İLE ADINI KOYALIM</title>
   </programme>
   <programme start="20251107193000 +0000" stop="20251108110000 +0000" channel="4K TR: MELTEM TV">
-    <title>FUTBOL MAHKEMESI</title>
+    <title>BÜLENT TAPICI ILE PERDE ARKASI</title>
   </programme>
   <channel id="MELTEM">
     <display-name>MELTEM</display-name>
   </channel>
 
-  <programme start="20251107080000 +0000" stop="20251107133000 +0000" channel="MELTEM">
+  <programme start="20251107080000 +0000" stop="20251107130000 +0000" channel="MELTEM">
     <title>İSTANBUL KAZAN BIZ KEPÇE</title>
   </programme>
-  <programme start="20251107133000 +0000" stop="20251107150000 +0000" channel="MELTEM">
-    <title>KENT VE YAŞAM</title>
+  <programme start="20251107130000 +0000" stop="20251107153000 +0000" channel="MELTEM">
+    <title>PARANTEZ EKSTRA</title>
   </programme>
-  <programme start="20251107150000 +0000" stop="20251107193000 +0000" channel="MELTEM">
-    <title>ANA HABER</title>
+  <programme start="20251107153000 +0000" stop="20251107170000 +0000" channel="MELTEM">
+    <title>ÇIĞDEM AKDEMIR ILE ANA HABER</title>
+  </programme>
+  <programme start="20251107170000 +0000" stop="20251107193000 +0000" channel="MELTEM">
+    <title>ÇAĞDAŞ BAYRAKTAR İLE ADINI KOYALIM</title>
   </programme>
   <programme start="20251107193000 +0000" stop="20251108110000 +0000" channel="MELTEM">
-    <title>FUTBOL MAHKEMESI</title>
+    <title>BÜLENT TAPICI ILE PERDE ARKASI</title>
   </programme>
   <channel id="MELTEM TV">
     <display-name>MELTEM TV</display-name>
   </channel>
 
-  <programme start="20251107080000 +0000" stop="20251107133000 +0000" channel="MELTEM TV">
+  <programme start="20251107080000 +0000" stop="20251107130000 +0000" channel="MELTEM TV">
     <title>İSTANBUL KAZAN BIZ KEPÇE</title>
   </programme>
-  <programme start="20251107133000 +0000" stop="20251107150000 +0000" channel="MELTEM TV">
-    <title>KENT VE YAŞAM</title>
+  <programme start="20251107130000 +0000" stop="20251107153000 +0000" channel="MELTEM TV">
+    <title>PARANTEZ EKSTRA</title>
   </programme>
-  <programme start="20251107150000 +0000" stop="20251107193000 +0000" channel="MELTEM TV">
-    <title>ANA HABER</title>
+  <programme start="20251107153000 +0000" stop="20251107170000 +0000" channel="MELTEM TV">
+    <title>ÇIĞDEM AKDEMIR ILE ANA HABER</title>
+  </programme>
+  <programme start="20251107170000 +0000" stop="20251107193000 +0000" channel="MELTEM TV">
+    <title>ÇAĞDAŞ BAYRAKTAR İLE ADINI KOYALIM</title>
   </programme>
   <programme start="20251107193000 +0000" stop="20251108110000 +0000" channel="MELTEM TV">
-    <title>FUTBOL MAHKEMESI</title>
+    <title>BÜLENT TAPICI ILE PERDE ARKASI</title>
   </programme>
   <channel id="4K TR: TRT 3">
     <display-name>4K TR: TRT 3</display-name>
