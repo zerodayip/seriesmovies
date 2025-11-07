@@ -10186,7 +10186,7 @@
     <title>YATIRIM GÜNLÜĞÜ</title>
   </programme>
   <programme start="20251107105500 +0000" stop="20251107110000 +0000" channel="A PARA">
-    <title>HAVA DURUMU</title>
+    <title>TARIM DÜNYASI</title>
   </programme>
   <programme start="20251107110000 +0000" stop="20251107115500 +0000" channel="A PARA">
     <title>PIYASA GÜNDEMI</title>
@@ -10286,7 +10286,7 @@
     <title>YATIRIM GÜNLÜĞÜ</title>
   </programme>
   <programme start="20251107105500 +0000" stop="20251107110000 +0000" channel="A PARA RAW">
-    <title>HAVA DURUMU</title>
+    <title>TARIM DÜNYASI</title>
   </programme>
   <programme start="20251107110000 +0000" stop="20251107115500 +0000" channel="A PARA RAW">
     <title>PIYASA GÜNDEMI</title>
@@ -13301,43 +13301,46 @@
   <programme start="20251107134500 +0000" stop="20251107142500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20251107142500 +0000" stop="20251107145000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20251107145000 +0000" stop="20251107151500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>SATRANÇ DÜNYASI</title>
-  </programme>
-  <programme start="20251107151500 +0000" stop="20251107153000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251107153000 +0000" stop="20251107154000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251107154000 +0000" stop="20251107161000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>TENIS DÜNYASI</title>
-  </programme>
-  <programme start="20251107161000 +0000" stop="20251107161500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ÇARE SPOR</title>
-  </programme>
-  <programme start="20251107161500 +0000" stop="20251107170000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>NBA STÜDYOSU</title>
-  </programme>
-  <programme start="20251107170000 +0000" stop="20251107171000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251107142500 +0000" stop="20251107143500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>SPORCU GÜNLÜĞÜ</title>
   </programme>
-  <programme start="20251107171000 +0000" stop="20251107194500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251107143500 +0000" stop="20251107150000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20251107150000 +0000" stop="20251107151500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251107151500 +0000" stop="20251107154500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>TENIS DÜNYASI</title>
+  </programme>
+  <programme start="20251107154500 +0000" stop="20251107155500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251107155500 +0000" stop="20251107160000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ÇARE SPOR</title>
+  </programme>
+  <programme start="20251107160000 +0000" stop="20251107164500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>NBA STÜDYOSU</title>
+  </programme>
+  <programme start="20251107164500 +0000" stop="20251107165500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ÖZEL DOSYA</title>
+  </programme>
+  <programme start="20251107165500 +0000" stop="20251107193000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251107194500 +0000" stop="20251107200000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ULTRA</title>
+  <programme start="20251107193000 +0000" stop="20251107194000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ÖZEL DOSYA</title>
   </programme>
-  <programme start="20251107200000 +0000" stop="20251107204000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251107194000 +0000" stop="20251107202000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20251107204000 +0000" stop="20251107205000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251107202000 +0000" stop="20251107203500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20251107203500 +0000" stop="20251107204500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>SPOR HER YERDE</title>
   </programme>
-  <programme start="20251107205000 +0000" stop="20251107211500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251107204500 +0000" stop="20251107211000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>YENILMEZ</title>
   </programme>
   <channel id="TRT SPOR YILDIZ">
@@ -13443,43 +13446,46 @@
   <programme start="20251107134500 +0000" stop="20251107142500 +0000" channel="TRT SPOR YILDIZ">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20251107142500 +0000" stop="20251107145000 +0000" channel="TRT SPOR YILDIZ">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20251107145000 +0000" stop="20251107151500 +0000" channel="TRT SPOR YILDIZ">
-    <title>SATRANÇ DÜNYASI</title>
-  </programme>
-  <programme start="20251107151500 +0000" stop="20251107153000 +0000" channel="TRT SPOR YILDIZ">
-    <title>HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251107153000 +0000" stop="20251107154000 +0000" channel="TRT SPOR YILDIZ">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251107154000 +0000" stop="20251107161000 +0000" channel="TRT SPOR YILDIZ">
-    <title>TENIS DÜNYASI</title>
-  </programme>
-  <programme start="20251107161000 +0000" stop="20251107161500 +0000" channel="TRT SPOR YILDIZ">
-    <title>ÇARE SPOR</title>
-  </programme>
-  <programme start="20251107161500 +0000" stop="20251107170000 +0000" channel="TRT SPOR YILDIZ">
-    <title>NBA STÜDYOSU</title>
-  </programme>
-  <programme start="20251107170000 +0000" stop="20251107171000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251107142500 +0000" stop="20251107143500 +0000" channel="TRT SPOR YILDIZ">
     <title>SPORCU GÜNLÜĞÜ</title>
   </programme>
-  <programme start="20251107171000 +0000" stop="20251107194500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251107143500 +0000" stop="20251107150000 +0000" channel="TRT SPOR YILDIZ">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20251107150000 +0000" stop="20251107151500 +0000" channel="TRT SPOR YILDIZ">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251107151500 +0000" stop="20251107154500 +0000" channel="TRT SPOR YILDIZ">
+    <title>TENIS DÜNYASI</title>
+  </programme>
+  <programme start="20251107154500 +0000" stop="20251107155500 +0000" channel="TRT SPOR YILDIZ">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251107155500 +0000" stop="20251107160000 +0000" channel="TRT SPOR YILDIZ">
+    <title>ÇARE SPOR</title>
+  </programme>
+  <programme start="20251107160000 +0000" stop="20251107164500 +0000" channel="TRT SPOR YILDIZ">
+    <title>NBA STÜDYOSU</title>
+  </programme>
+  <programme start="20251107164500 +0000" stop="20251107165500 +0000" channel="TRT SPOR YILDIZ">
+    <title>ÖZEL DOSYA</title>
+  </programme>
+  <programme start="20251107165500 +0000" stop="20251107193000 +0000" channel="TRT SPOR YILDIZ">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251107194500 +0000" stop="20251107200000 +0000" channel="TRT SPOR YILDIZ">
-    <title>ULTRA</title>
+  <programme start="20251107193000 +0000" stop="20251107194000 +0000" channel="TRT SPOR YILDIZ">
+    <title>ÖZEL DOSYA</title>
   </programme>
-  <programme start="20251107200000 +0000" stop="20251107204000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251107194000 +0000" stop="20251107202000 +0000" channel="TRT SPOR YILDIZ">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20251107204000 +0000" stop="20251107205000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251107202000 +0000" stop="20251107203500 +0000" channel="TRT SPOR YILDIZ">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20251107203500 +0000" stop="20251107204500 +0000" channel="TRT SPOR YILDIZ">
     <title>SPOR HER YERDE</title>
   </programme>
-  <programme start="20251107205000 +0000" stop="20251107211500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251107204500 +0000" stop="20251107211000 +0000" channel="TRT SPOR YILDIZ">
     <title>YENILMEZ</title>
   </programme>
   <channel id="TRT SPOR YILDIZ HD">
@@ -13585,43 +13591,46 @@
   <programme start="20251107134500 +0000" stop="20251107142500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20251107142500 +0000" stop="20251107145000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20251107145000 +0000" stop="20251107151500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SATRANÇ DÜNYASI</title>
-  </programme>
-  <programme start="20251107151500 +0000" stop="20251107153000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251107153000 +0000" stop="20251107154000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251107154000 +0000" stop="20251107161000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>TENIS DÜNYASI</title>
-  </programme>
-  <programme start="20251107161000 +0000" stop="20251107161500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ÇARE SPOR</title>
-  </programme>
-  <programme start="20251107161500 +0000" stop="20251107170000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>NBA STÜDYOSU</title>
-  </programme>
-  <programme start="20251107170000 +0000" stop="20251107171000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251107142500 +0000" stop="20251107143500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>SPORCU GÜNLÜĞÜ</title>
   </programme>
-  <programme start="20251107171000 +0000" stop="20251107194500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251107143500 +0000" stop="20251107150000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20251107150000 +0000" stop="20251107151500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251107151500 +0000" stop="20251107154500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>TENIS DÜNYASI</title>
+  </programme>
+  <programme start="20251107154500 +0000" stop="20251107155500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251107155500 +0000" stop="20251107160000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ÇARE SPOR</title>
+  </programme>
+  <programme start="20251107160000 +0000" stop="20251107164500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>NBA STÜDYOSU</title>
+  </programme>
+  <programme start="20251107164500 +0000" stop="20251107165500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ÖZEL DOSYA</title>
+  </programme>
+  <programme start="20251107165500 +0000" stop="20251107193000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251107194500 +0000" stop="20251107200000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ULTRA</title>
+  <programme start="20251107193000 +0000" stop="20251107194000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ÖZEL DOSYA</title>
   </programme>
-  <programme start="20251107200000 +0000" stop="20251107204000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251107194000 +0000" stop="20251107202000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20251107204000 +0000" stop="20251107205000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251107202000 +0000" stop="20251107203500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20251107203500 +0000" stop="20251107204500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>SPOR HER YERDE</title>
   </programme>
-  <programme start="20251107205000 +0000" stop="20251107211500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251107204500 +0000" stop="20251107211000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>YENILMEZ</title>
   </programme>
   <channel id="TRT SPOR YILDIZ HEVC">
@@ -13727,43 +13736,46 @@
   <programme start="20251107134500 +0000" stop="20251107142500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20251107142500 +0000" stop="20251107145000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20251107145000 +0000" stop="20251107151500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SATRANÇ DÜNYASI</title>
-  </programme>
-  <programme start="20251107151500 +0000" stop="20251107153000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251107153000 +0000" stop="20251107154000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251107154000 +0000" stop="20251107161000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>TENIS DÜNYASI</title>
-  </programme>
-  <programme start="20251107161000 +0000" stop="20251107161500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ÇARE SPOR</title>
-  </programme>
-  <programme start="20251107161500 +0000" stop="20251107170000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>NBA STÜDYOSU</title>
-  </programme>
-  <programme start="20251107170000 +0000" stop="20251107171000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251107142500 +0000" stop="20251107143500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>SPORCU GÜNLÜĞÜ</title>
   </programme>
-  <programme start="20251107171000 +0000" stop="20251107194500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251107143500 +0000" stop="20251107150000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20251107150000 +0000" stop="20251107151500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251107151500 +0000" stop="20251107154500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>TENIS DÜNYASI</title>
+  </programme>
+  <programme start="20251107154500 +0000" stop="20251107155500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251107155500 +0000" stop="20251107160000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ÇARE SPOR</title>
+  </programme>
+  <programme start="20251107160000 +0000" stop="20251107164500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>NBA STÜDYOSU</title>
+  </programme>
+  <programme start="20251107164500 +0000" stop="20251107165500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ÖZEL DOSYA</title>
+  </programme>
+  <programme start="20251107165500 +0000" stop="20251107193000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251107194500 +0000" stop="20251107200000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ULTRA</title>
+  <programme start="20251107193000 +0000" stop="20251107194000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ÖZEL DOSYA</title>
   </programme>
-  <programme start="20251107200000 +0000" stop="20251107204000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251107194000 +0000" stop="20251107202000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20251107204000 +0000" stop="20251107205000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251107202000 +0000" stop="20251107203500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20251107203500 +0000" stop="20251107204500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>SPOR HER YERDE</title>
   </programme>
-  <programme start="20251107205000 +0000" stop="20251107211500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251107204500 +0000" stop="20251107211000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>YENILMEZ</title>
   </programme>
   <channel id="TRT SPOR YILDIZ RAW">
@@ -13869,43 +13881,46 @@
   <programme start="20251107134500 +0000" stop="20251107142500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20251107142500 +0000" stop="20251107145000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20251107145000 +0000" stop="20251107151500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SATRANÇ DÜNYASI</title>
-  </programme>
-  <programme start="20251107151500 +0000" stop="20251107153000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251107153000 +0000" stop="20251107154000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251107154000 +0000" stop="20251107161000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>TENIS DÜNYASI</title>
-  </programme>
-  <programme start="20251107161000 +0000" stop="20251107161500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ÇARE SPOR</title>
-  </programme>
-  <programme start="20251107161500 +0000" stop="20251107170000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>NBA STÜDYOSU</title>
-  </programme>
-  <programme start="20251107170000 +0000" stop="20251107171000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251107142500 +0000" stop="20251107143500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>SPORCU GÜNLÜĞÜ</title>
   </programme>
-  <programme start="20251107171000 +0000" stop="20251107194500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251107143500 +0000" stop="20251107150000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20251107150000 +0000" stop="20251107151500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251107151500 +0000" stop="20251107154500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>TENIS DÜNYASI</title>
+  </programme>
+  <programme start="20251107154500 +0000" stop="20251107155500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251107155500 +0000" stop="20251107160000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ÇARE SPOR</title>
+  </programme>
+  <programme start="20251107160000 +0000" stop="20251107164500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>NBA STÜDYOSU</title>
+  </programme>
+  <programme start="20251107164500 +0000" stop="20251107165500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ÖZEL DOSYA</title>
+  </programme>
+  <programme start="20251107165500 +0000" stop="20251107193000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251107194500 +0000" stop="20251107200000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ULTRA</title>
+  <programme start="20251107193000 +0000" stop="20251107194000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ÖZEL DOSYA</title>
   </programme>
-  <programme start="20251107200000 +0000" stop="20251107204000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251107194000 +0000" stop="20251107202000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20251107204000 +0000" stop="20251107205000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251107202000 +0000" stop="20251107203500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20251107203500 +0000" stop="20251107204500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>SPOR HER YERDE</title>
   </programme>
-  <programme start="20251107205000 +0000" stop="20251107211500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251107204500 +0000" stop="20251107211000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>YENILMEZ</title>
   </programme>
   <channel id="4K TR: A SPOR HD">
@@ -33106,7 +33121,7 @@
   <programme start="20251107190000 +0000" stop="20251107203000 +0000" channel="BI_KANAL">
     <title>HERKÜL YENIDEN DOĞUYOR</title>
   </programme>
-  <programme start="20251107203000 +0000" stop="20251107210000 +0000" channel="BI_KANAL">
+  <programme start="20251107203000 +0000" stop="20251107211500 +0000" channel="BI_KANAL">
     <title>LIG ÖZETLERI</title>
   </programme>
   <channel id="4K TR: MELTEM TV">
@@ -33125,7 +33140,7 @@
   <programme start="20251107170000 +0000" stop="20251107193000 +0000" channel="4K TR: MELTEM TV">
     <title>ÇAĞDAŞ BAYRAKTAR İLE ADINI KOYALIM</title>
   </programme>
-  <programme start="20251107193000 +0000" stop="20251108110000 +0000" channel="4K TR: MELTEM TV">
+  <programme start="20251107193000 +0000" stop="20251108093000 +0000" channel="4K TR: MELTEM TV">
     <title>BÜLENT TAPICI ILE PERDE ARKASI</title>
   </programme>
   <channel id="MELTEM">
@@ -33144,7 +33159,7 @@
   <programme start="20251107170000 +0000" stop="20251107193000 +0000" channel="MELTEM">
     <title>ÇAĞDAŞ BAYRAKTAR İLE ADINI KOYALIM</title>
   </programme>
-  <programme start="20251107193000 +0000" stop="20251108110000 +0000" channel="MELTEM">
+  <programme start="20251107193000 +0000" stop="20251108093000 +0000" channel="MELTEM">
     <title>BÜLENT TAPICI ILE PERDE ARKASI</title>
   </programme>
   <channel id="MELTEM TV">
@@ -33163,7 +33178,7 @@
   <programme start="20251107170000 +0000" stop="20251107193000 +0000" channel="MELTEM TV">
     <title>ÇAĞDAŞ BAYRAKTAR İLE ADINI KOYALIM</title>
   </programme>
-  <programme start="20251107193000 +0000" stop="20251108110000 +0000" channel="MELTEM TV">
+  <programme start="20251107193000 +0000" stop="20251108093000 +0000" channel="MELTEM TV">
     <title>BÜLENT TAPICI ILE PERDE ARKASI</title>
   </programme>
   <channel id="4K TR: TRT 3">
