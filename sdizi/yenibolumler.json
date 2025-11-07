@@ -1,4 +1,10 @@
 {
+  "/diziler/the-last-frontier.html": {
+    "group": "THE LAST FRONTIER",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/diziler/the-vince-staples-show.html": {
     "group": "THE VINCE STAPLES SHOW",
     "last_season": 2,
@@ -75,12 +81,6 @@
     "group": "THE MORNING SHOW",
     "last_season": 4,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/high-potential.html": {
-    "group": "HIGH POTENTIAL",
-    "last_season": 2,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
