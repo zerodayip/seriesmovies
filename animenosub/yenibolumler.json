@@ -1,14 +1,38 @@
 {
-  "/anime/tougen-anki/": {
-    "group": "TOUGEN ANKI",
+  "/anime/sanda/": {
+    "group": "SANDA",
     "last_season": 1,
-    "last_episode": 17,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/anime/tatsuki-fujimoto-17-26/": {
+    "group": "TATSUKI FUJIMOTO 17-26",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/may-i-ask-for-one-final-thing/": {
+    "group": "MAY I ASK FOR ONE FINAL THING?",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/anime/watari-kuns-is-about-to-collapse/": {
+    "group": "WATARI-KUN’S ****** IS ABOUT TO COLLAPSE",
+    "last_season": 1,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/anime/shabake/": {
     "group": "SHABAKE",
     "last_season": 1,
     "last_episode": 5,
+    "start_episode": 1
+  },
+  "/anime/tougen-anki/": {
+    "group": "TOUGEN ANKI",
+    "last_season": 1,
+    "last_episode": 17,
     "start_episode": 1
   },
   "/anime/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge/": {
@@ -93,30 +117,6 @@
     "group": "HERO WITHOUT A CLASS: WHO EVEN NEEDS SKILLS?!",
     "last_season": 1,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/anime/disney-twisted-wonderland-the-animation/": {
-    "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/yano-kuns-ordinary-days/": {
-    "group": "YANO-KUN’S ORDINARY DAYS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/anime/ninja-vs-gokudo/": {
-    "group": "NINJA VS. GOKUDO",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/anime/chitose-is-in-the-ramune-bottle/": {
-    "group": "CHITOSE IS IN THE RAMUNE BOTTLE",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }

@@ -652,5 +652,29 @@
     "last_season": 1,
     "last_episode": 9,
     "start_episode": 1
+  },
+  "/dizi-izle/maxton-hall-the-world-between-us": {
+    "group": "MAXTON HALL - THE WORLD BETWEEN US",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/as-you-stood-by": {
+    "group": "AS YOU STOOD BY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-vallecas-files": {
+    "group": "THE VALLECAS FILES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/pluribus": {
+    "group": "PLURIBUS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
