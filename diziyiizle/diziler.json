@@ -1,4 +1,24 @@
 {
+  "/dizi/karma-2/": {
+    "group": "Karma - Alternatif Yayın",
+    "tvg-id": "tt3874991xxx",
+    "tvg-logo": "https://pbs.twimg.com/media/G4mA4xQWsAAa2ol.jpg"
+  },
+  "/dizi/fer-1/": {
+    "group": "Fer - Alternatif Yayın",
+    "tvg-id": "tt38749915",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BNTFjYTQ4NjUtYTY3MC00ZjRjLTllMDMtZmI2NThkMDUzZWQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/yesil-deniz-milenyum-1/": {
+    "group": "Yeşil Deniz: Milenyum - Alternatif Yayın",
+    "tvg-id": "tt26625889",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BZTNlMDZlZTQtY2VmYi00ZjdhLTllNDItMjBhMjk4NWFlYjdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "/dizi/buyuk-tikinma/": {
+    "group": "Büyük Tıkınma - Alternatif Yayın",
+    "tvg-id": "tt16409704",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BOGY5YzJlNGUtODk5MS00NzAyLWJlYjktODg4YTU3MzNmYjE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
   "/dizi/yesilcam/": {
     "group": "Yeşilcam - Alternatif Yayın",
     "tvg-id": "tt13592218",
