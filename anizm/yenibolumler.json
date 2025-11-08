@@ -1,4 +1,34 @@
 {
+  "/yasei-no-last-boss-ga-arawareta": {
+    "group": "YASEI NO LAST BOSS GA ARAWARETA!",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/kekkon-yubiwa-monogatari-ii": {
+    "group": "KEKKON YUBIWA MONOGATARI II",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
+  "/ganglion": {
+    "group": "GANGLION",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
+  "/shabake": {
+    "group": "SHABAKE",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
+  "/honkai-star-rail-featured-videos": {
+    "group": "HONKAI: STAR RAIL FEATURED VIDEOS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/boku-no-hero-academia-final-season": {
     "group": "BOKU NO HERO ACADEMIA: FINAL SEASON",
     "last_season": 1,
@@ -73,30 +103,6 @@
   },
   "/towa-no-yuugure": {
     "group": "TOWA NO YUUGURE",
-    "last_season": 1,
-    "last_episode": 6.0,
-    "start_episode": 1
-  },
-  "/master-keaton-blood-and-bullets": {
-    "group": "MASTER KEATON: BLOOD AND BULLETS",
-    "last_season": 1,
-    "last_episode": 24.0,
-    "start_episode": 1
-  },
-  "/bukiyou-na-senpai": {
-    "group": "BUKIYOU NA SENPAI.",
-    "last_season": 1,
-    "last_episode": 6.0,
-    "start_episode": 1
-  },
-  "/ao-no-orchestra-season-2": {
-    "group": "AO NO ORCHESTRA SEASON 2",
-    "last_season": 1,
-    "last_episode": 5.0,
-    "start_episode": 1
-  },
-  "/lets-play-quest-darake-no-my-life": {
-    "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
     "last_season": 1,
     "last_episode": 6.0,
     "start_episode": 1
