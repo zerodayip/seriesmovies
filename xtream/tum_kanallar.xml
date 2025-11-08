@@ -25154,6 +25154,351 @@
     <display-name>MİNİKA ÇOCUK</display-name>
   </channel>
 
+  <programme start="20251107210000 +0000" stop="20251107213000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OSCAR'S OASIS</title>
+  </programme>
+  <programme start="20251107213000 +0000" stop="20251107214000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OGGY OGGY</title>
+  </programme>
+  <programme start="20251107214000 +0000" stop="20251107215000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OGGY OGGY</title>
+  </programme>
+  <programme start="20251107215000 +0000" stop="20251107220000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OGGY OGGY</title>
+  </programme>
+  <programme start="20251107220000 +0000" stop="20251107221000 +0000" channel="MİNİKA ÇOCUK">
+    <title>TINPO</title>
+  </programme>
+  <programme start="20251107221000 +0000" stop="20251107222000 +0000" channel="MİNİKA ÇOCUK">
+    <title>TINPO</title>
+  </programme>
+  <programme start="20251107222000 +0000" stop="20251107223000 +0000" channel="MİNİKA ÇOCUK">
+    <title>TINPO</title>
+  </programme>
+  <programme start="20251107223000 +0000" stop="20251107224500 +0000" channel="MİNİKA ÇOCUK">
+    <title>BRIKO</title>
+  </programme>
+  <programme start="20251107224500 +0000" stop="20251107230000 +0000" channel="MİNİKA ÇOCUK">
+    <title>BRIKO</title>
+  </programme>
+  <programme start="20251107230000 +0000" stop="20251107231500 +0000" channel="MİNİKA ÇOCUK">
+    <title>SERVIS</title>
+  </programme>
+  <programme start="20251107231500 +0000" stop="20251107233000 +0000" channel="MİNİKA ÇOCUK">
+    <title>SERVIS</title>
+  </programme>
+  <programme start="20251107233000 +0000" stop="20251107234500 +0000" channel="MİNİKA ÇOCUK">
+    <title>MACERACI YÜZGEÇLER</title>
+  </programme>
+  <programme start="20251107234500 +0000" stop="20251108000000 +0000" channel="MİNİKA ÇOCUK">
+    <title>MACERACI YÜZGEÇLER</title>
+  </programme>
+  <programme start="20251108000000 +0000" stop="20251108003000 +0000" channel="MİNİKA ÇOCUK">
+    <title>ŞARKI</title>
+  </programme>
+  <programme start="20251108003000 +0000" stop="20251108004500 +0000" channel="MİNİKA ÇOCUK">
+    <title>KUKULI</title>
+  </programme>
+  <programme start="20251108004500 +0000" stop="20251108010000 +0000" channel="MİNİKA ÇOCUK">
+    <title>KUKULI</title>
+  </programme>
+  <programme start="20251108010000 +0000" stop="20251108011500 +0000" channel="MİNİKA ÇOCUK">
+    <title>İSTANBUL MUHAFIZLARI</title>
+  </programme>
+  <programme start="20251108011500 +0000" stop="20251108013000 +0000" channel="MİNİKA ÇOCUK">
+    <title>İSTANBUL MUHAFIZLARI</title>
+  </programme>
+  <programme start="20251108013000 +0000" stop="20251108023000 +0000" channel="MİNİKA ÇOCUK">
+    <title>ŞARKI</title>
+  </programme>
+  <programme start="20251108023000 +0000" stop="20251108024500 +0000" channel="MİNİKA ÇOCUK">
+    <title>NEŞELI DÜNYAM</title>
+  </programme>
+  <programme start="20251108024500 +0000" stop="20251108030000 +0000" channel="MİNİKA ÇOCUK">
+    <title>NEŞELI DÜNYAM</title>
+  </programme>
+  <programme start="20251108030000 +0000" stop="20251108031000 +0000" channel="MİNİKA ÇOCUK">
+    <title>TINPO</title>
+  </programme>
+  <programme start="20251108031000 +0000" stop="20251108032000 +0000" channel="MİNİKA ÇOCUK">
+    <title>TINPO</title>
+  </programme>
+  <programme start="20251108032000 +0000" stop="20251108033000 +0000" channel="MİNİKA ÇOCUK">
+    <title>TINPO</title>
+  </programme>
+  <programme start="20251108033000 +0000" stop="20251108034000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OGGY OGGY</title>
+  </programme>
+  <programme start="20251108034000 +0000" stop="20251108035000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OGGY OGGY</title>
+  </programme>
+  <programme start="20251108035000 +0000" stop="20251108040000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OGGY OGGY</title>
+  </programme>
+  <programme start="20251108040000 +0000" stop="20251108041500 +0000" channel="MİNİKA ÇOCUK">
+    <title>KUKULI</title>
+  </programme>
+  <programme start="20251108041500 +0000" stop="20251108043000 +0000" channel="MİNİKA ÇOCUK">
+    <title>KUKULI</title>
+  </programme>
+  <programme start="20251108043000 +0000" stop="20251108044500 +0000" channel="MİNİKA ÇOCUK">
+    <title>BRIKO</title>
+  </programme>
+  <programme start="20251108044500 +0000" stop="20251108050000 +0000" channel="MİNİKA ÇOCUK">
+    <title>BRIKO</title>
+  </programme>
+  <programme start="20251108050000 +0000" stop="20251108051000 +0000" channel="MİNİKA ÇOCUK">
+    <title>ROBOT TRENLER</title>
+  </programme>
+  <programme start="20251108051000 +0000" stop="20251108051500 +0000" channel="MİNİKA ÇOCUK">
+    <title>OSCAR'S OASIS</title>
+  </programme>
+  <programme start="20251108051500 +0000" stop="20251108053000 +0000" channel="MİNİKA ÇOCUK">
+    <title>ROBOT TRENLER</title>
+  </programme>
+  <programme start="20251108053000 +0000" stop="20251108054500 +0000" channel="MİNİKA ÇOCUK">
+    <title>PETRONIX</title>
+  </programme>
+  <programme start="20251108054500 +0000" stop="20251108060000 +0000" channel="MİNİKA ÇOCUK">
+    <title>PETRONIX</title>
+  </programme>
+  <programme start="20251108060000 +0000" stop="20251108061000 +0000" channel="MİNİKA ÇOCUK">
+    <title>POCOYO</title>
+  </programme>
+  <programme start="20251108061000 +0000" stop="20251108062000 +0000" channel="MİNİKA ÇOCUK">
+    <title>POCOYO</title>
+  </programme>
+  <programme start="20251108062000 +0000" stop="20251108063000 +0000" channel="MİNİKA ÇOCUK">
+    <title>POCOYO</title>
+  </programme>
+  <programme start="20251108063000 +0000" stop="20251108064500 +0000" channel="MİNİKA ÇOCUK">
+    <title>DYLAN İLE OYUN ZAMANI</title>
+  </programme>
+  <programme start="20251108064500 +0000" stop="20251108070000 +0000" channel="MİNİKA ÇOCUK">
+    <title>DYLAN İLE OYUN ZAMANI</title>
+  </programme>
+  <programme start="20251108070000 +0000" stop="20251108070800 +0000" channel="MİNİKA ÇOCUK">
+    <title>CLEO - CUQUIN</title>
+  </programme>
+  <programme start="20251108070800 +0000" stop="20251108071600 +0000" channel="MİNİKA ÇOCUK">
+    <title>CLEO - CUQUIN</title>
+  </programme>
+  <programme start="20251108071600 +0000" stop="20251108072400 +0000" channel="MİNİKA ÇOCUK">
+    <title>CLEO - CUQUIN</title>
+  </programme>
+  <programme start="20251108072400 +0000" stop="20251108073000 +0000" channel="MİNİKA ÇOCUK">
+    <title>CLEO - CUQUIN</title>
+  </programme>
+  <programme start="20251108073000 +0000" stop="20251108074000 +0000" channel="MİNİKA ÇOCUK">
+    <title>PUFFIN ROCK</title>
+  </programme>
+  <programme start="20251108074000 +0000" stop="20251108075000 +0000" channel="MİNİKA ÇOCUK">
+    <title>PUFFIN ROCK</title>
+  </programme>
+  <programme start="20251108075000 +0000" stop="20251108080000 +0000" channel="MİNİKA ÇOCUK">
+    <title>PUFFIN ROCK</title>
+  </programme>
+  <programme start="20251108080000 +0000" stop="20251108081000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OGGY OGGY</title>
+  </programme>
+  <programme start="20251108081000 +0000" stop="20251108082000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OGGY OGGY</title>
+  </programme>
+  <programme start="20251108082000 +0000" stop="20251108083000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OGGY OGGY</title>
+  </programme>
+  <programme start="20251108083000 +0000" stop="20251108083800 +0000" channel="MİNİKA ÇOCUK">
+    <title>KUKULI</title>
+  </programme>
+  <programme start="20251108083800 +0000" stop="20251108084500 +0000" channel="MİNİKA ÇOCUK">
+    <title>KUKULI</title>
+  </programme>
+  <programme start="20251108084500 +0000" stop="20251108090000 +0000" channel="MİNİKA ÇOCUK">
+    <title>CRY BABIES</title>
+  </programme>
+  <programme start="20251108090000 +0000" stop="20251108090800 +0000" channel="MİNİKA ÇOCUK">
+    <title>KUZUGILLER</title>
+  </programme>
+  <programme start="20251108090800 +0000" stop="20251108091500 +0000" channel="MİNİKA ÇOCUK">
+    <title>KUZUGILLER</title>
+  </programme>
+  <programme start="20251108091500 +0000" stop="20251108092300 +0000" channel="MİNİKA ÇOCUK">
+    <title>MÖLANG</title>
+  </programme>
+  <programme start="20251108092300 +0000" stop="20251108093000 +0000" channel="MİNİKA ÇOCUK">
+    <title>MÖLANG</title>
+  </programme>
+  <programme start="20251108093000 +0000" stop="20251108094500 +0000" channel="MİNİKA ÇOCUK">
+    <title>PETRONIX</title>
+  </programme>
+  <programme start="20251108094500 +0000" stop="20251108100000 +0000" channel="MİNİKA ÇOCUK">
+    <title>ROBOCAR POLI</title>
+  </programme>
+  <programme start="20251108100000 +0000" stop="20251108100500 +0000" channel="MİNİKA ÇOCUK">
+    <title>PUFFIN ROCK</title>
+  </programme>
+  <programme start="20251108100500 +0000" stop="20251108101000 +0000" channel="MİNİKA ÇOCUK">
+    <title>PUFFIN ROCK</title>
+  </programme>
+  <programme start="20251108101000 +0000" stop="20251108101500 +0000" channel="MİNİKA ÇOCUK">
+    <title>PUFFIN ROCK</title>
+  </programme>
+  <programme start="20251108101500 +0000" stop="20251108103000 +0000" channel="MİNİKA ÇOCUK">
+    <title>BABY BORN</title>
+  </programme>
+  <programme start="20251108103000 +0000" stop="20251108104500 +0000" channel="MİNİKA ÇOCUK">
+    <title>DANIEL TIGER</title>
+  </programme>
+  <programme start="20251108104500 +0000" stop="20251108110000 +0000" channel="MİNİKA ÇOCUK">
+    <title>DYLAN İLE OYUN ZAMANI</title>
+  </programme>
+  <programme start="20251108110000 +0000" stop="20251108111500 +0000" channel="MİNİKA ÇOCUK">
+    <title>PETRONIX</title>
+  </programme>
+  <programme start="20251108111500 +0000" stop="20251108113000 +0000" channel="MİNİKA ÇOCUK">
+    <title>PETRONIX</title>
+  </programme>
+  <programme start="20251108113000 +0000" stop="20251108114500 +0000" channel="MİNİKA ÇOCUK">
+    <title>PETRONIX</title>
+  </programme>
+  <programme start="20251108114500 +0000" stop="20251108120000 +0000" channel="MİNİKA ÇOCUK">
+    <title>PETRONIX</title>
+  </programme>
+  <programme start="20251108120000 +0000" stop="20251108121500 +0000" channel="MİNİKA ÇOCUK">
+    <title>JONNY JETBOY</title>
+  </programme>
+  <programme start="20251108121500 +0000" stop="20251108123000 +0000" channel="MİNİKA ÇOCUK">
+    <title>JONNY JETBOY</title>
+  </programme>
+  <programme start="20251108123000 +0000" stop="20251108123800 +0000" channel="MİNİKA ÇOCUK">
+    <title>CLEO - CUQUIN</title>
+  </programme>
+  <programme start="20251108123800 +0000" stop="20251108124600 +0000" channel="MİNİKA ÇOCUK">
+    <title>CLEO - CUQUIN</title>
+  </programme>
+  <programme start="20251108124600 +0000" stop="20251108125400 +0000" channel="MİNİKA ÇOCUK">
+    <title>CLEO - CUQUIN</title>
+  </programme>
+  <programme start="20251108125400 +0000" stop="20251108130000 +0000" channel="MİNİKA ÇOCUK">
+    <title>CLEO - CUQUIN</title>
+  </programme>
+  <programme start="20251108130000 +0000" stop="20251108130800 +0000" channel="MİNİKA ÇOCUK">
+    <title>KUKULI</title>
+  </programme>
+  <programme start="20251108130800 +0000" stop="20251108131500 +0000" channel="MİNİKA ÇOCUK">
+    <title>KUKULI</title>
+  </programme>
+  <programme start="20251108131500 +0000" stop="20251108132000 +0000" channel="MİNİKA ÇOCUK">
+    <title>ROBOCAR POLI</title>
+  </programme>
+  <programme start="20251108132000 +0000" stop="20251108133000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OSCAR'S OASIS</title>
+  </programme>
+  <programme start="20251108133000 +0000" stop="20251108134500 +0000" channel="MİNİKA ÇOCUK">
+    <title>İSTANBUL MUHAFIZLARI</title>
+  </programme>
+  <programme start="20251108134500 +0000" stop="20251108140000 +0000" channel="MİNİKA ÇOCUK">
+    <title>İSTANBUL MUHAFIZLARI</title>
+  </programme>
+  <programme start="20251108140000 +0000" stop="20251108141500 +0000" channel="MİNİKA ÇOCUK">
+    <title>PETRONIX</title>
+  </programme>
+  <programme start="20251108141500 +0000" stop="20251108143000 +0000" channel="MİNİKA ÇOCUK">
+    <title>PETRONIX</title>
+  </programme>
+  <programme start="20251108143000 +0000" stop="20251108144500 +0000" channel="MİNİKA ÇOCUK">
+    <title>ROBOT TRENLER</title>
+  </programme>
+  <programme start="20251108144500 +0000" stop="20251108150000 +0000" channel="MİNİKA ÇOCUK">
+    <title>ROBOT TRENLER</title>
+  </programme>
+  <programme start="20251108150000 +0000" stop="20251108151500 +0000" channel="MİNİKA ÇOCUK">
+    <title>JONNY JETBOY</title>
+  </programme>
+  <programme start="20251108151500 +0000" stop="20251108153000 +0000" channel="MİNİKA ÇOCUK">
+    <title>ROBOCAR POLI</title>
+  </programme>
+  <programme start="20251108153000 +0000" stop="20251108153500 +0000" channel="MİNİKA ÇOCUK">
+    <title>OGGY OGGY</title>
+  </programme>
+  <programme start="20251108153500 +0000" stop="20251108154000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OGGY OGGY</title>
+  </programme>
+  <programme start="20251108154000 +0000" stop="20251108154500 +0000" channel="MİNİKA ÇOCUK">
+    <title>OGGY OGGY</title>
+  </programme>
+  <programme start="20251108154500 +0000" stop="20251108160000 +0000" channel="MİNİKA ÇOCUK">
+    <title>BABY BORN</title>
+  </programme>
+  <programme start="20251108160000 +0000" stop="20251108160300 +0000" channel="MİNİKA ÇOCUK">
+    <title>POCOYO</title>
+  </programme>
+  <programme start="20251108160300 +0000" stop="20251108160600 +0000" channel="MİNİKA ÇOCUK">
+    <title>POCOYO</title>
+  </programme>
+  <programme start="20251108160600 +0000" stop="20251108161000 +0000" channel="MİNİKA ÇOCUK">
+    <title>POCOYO</title>
+  </programme>
+  <programme start="20251108161000 +0000" stop="20251108163000 +0000" channel="MİNİKA ÇOCUK">
+    <title>CRY BABIES</title>
+  </programme>
+  <programme start="20251108163000 +0000" stop="20251108164000 +0000" channel="MİNİKA ÇOCUK">
+    <title>PUFFIN ROCK</title>
+  </programme>
+  <programme start="20251108164000 +0000" stop="20251108165000 +0000" channel="MİNİKA ÇOCUK">
+    <title>PUFFIN ROCK</title>
+  </programme>
+  <programme start="20251108165000 +0000" stop="20251108170000 +0000" channel="MİNİKA ÇOCUK">
+    <title>PUFFIN ROCK</title>
+  </programme>
+  <programme start="20251108170000 +0000" stop="20251108171500 +0000" channel="MİNİKA ÇOCUK">
+    <title>JONNY JETBOY</title>
+  </programme>
+  <programme start="20251108171500 +0000" stop="20251108173000 +0000" channel="MİNİKA ÇOCUK">
+    <title>JONNY JETBOY</title>
+  </programme>
+  <programme start="20251108173000 +0000" stop="20251108174500 +0000" channel="MİNİKA ÇOCUK">
+    <title>ROBOT TRENLER</title>
+  </programme>
+  <programme start="20251108174500 +0000" stop="20251108180000 +0000" channel="MİNİKA ÇOCUK">
+    <title>ROBOT TRENLER</title>
+  </programme>
+  <programme start="20251108180000 +0000" stop="20251108181500 +0000" channel="MİNİKA ÇOCUK">
+    <title>ROBOT TRENLER</title>
+  </programme>
+  <programme start="20251108181500 +0000" stop="20251108183000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OSCAR'S OASIS</title>
+  </programme>
+  <programme start="20251108183000 +0000" stop="20251108184500 +0000" channel="MİNİKA ÇOCUK">
+    <title>OSCAR'S OASIS</title>
+  </programme>
+  <programme start="20251108184500 +0000" stop="20251108190000 +0000" channel="MİNİKA ÇOCUK">
+    <title>OSCAR'S OASIS</title>
+  </programme>
+  <programme start="20251108190000 +0000" stop="20251108191500 +0000" channel="MİNİKA ÇOCUK">
+    <title>İSTANBUL MUHAFIZLARI</title>
+  </programme>
+  <programme start="20251108191500 +0000" stop="20251108193000 +0000" channel="MİNİKA ÇOCUK">
+    <title>İSTANBUL MUHAFIZLARI</title>
+  </programme>
+  <programme start="20251108193000 +0000" stop="20251108194500 +0000" channel="MİNİKA ÇOCUK">
+    <title>MACERACI YÜZGEÇLER</title>
+  </programme>
+  <programme start="20251108194500 +0000" stop="20251108200000 +0000" channel="MİNİKA ÇOCUK">
+    <title>MACERACI YÜZGEÇLER</title>
+  </programme>
+  <programme start="20251108200000 +0000" stop="20251108201500 +0000" channel="MİNİKA ÇOCUK">
+    <title>BI' ADADA BI' ARADA</title>
+  </programme>
+  <programme start="20251108201500 +0000" stop="20251108203000 +0000" channel="MİNİKA ÇOCUK">
+    <title>BI' ADADA BI' ARADA</title>
+  </programme>
+  <programme start="20251108203000 +0000" stop="20251108204500 +0000" channel="MİNİKA ÇOCUK">
+    <title>NEŞELI DÜNYAM</title>
+  </programme>
+  <programme start="20251108204500 +0000" stop="20251108210000 +0000" channel="MİNİKA ÇOCUK">
+    <title>NEŞELI DÜNYAM</title>
+  </programme>
   <channel id="MİNİKA GO">
     <display-name>MİNİKA GO</display-name>
   </channel>
