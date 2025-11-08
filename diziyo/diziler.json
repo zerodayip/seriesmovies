@@ -700,5 +700,11 @@
     "last_season": 3,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/happy-s-place": {
+    "group": "HAPPY'S PLACE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
