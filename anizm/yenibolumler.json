@@ -1,4 +1,10 @@
 {
+  "/boku-no-hero-academia-final-season": {
+    "group": "BOKU NO HERO ACADEMIA: FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
   "/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka": {
     "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
     "last_season": 1,
     "last_episode": 6.0,
-    "start_episode": 1
-  },
-  "/tensei-akujo-no-kuro-rekishi": {
-    "group": "TENSEI AKUJO NO KURO REKISHI",
-    "last_season": 1,
-    "last_episode": 5.0,
     "start_episode": 1
   }
 }
