@@ -11772,92 +11772,92 @@
     <display-name>4K TR: AK T TV HD</display-name>
   </channel>
 
-  <programme start="20251107213000 +0000" stop="20251108060000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251107213000 +0000" stop="20251108050000 +0000" channel="4K TR: AK T TV HD">
     <title>GECE AJANSI</title>
   </programme>
-  <programme start="20251108060000 +0000" stop="20251108083000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108050000 +0000" stop="20251108073000 +0000" channel="4K TR: AK T TV HD">
     <title>GÜN BAŞLIYOR</title>
   </programme>
-  <programme start="20251108083000 +0000" stop="20251108090000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108073000 +0000" stop="20251108080000 +0000" channel="4K TR: AK T TV HD">
     <title>SAĞLIK VAKTI</title>
   </programme>
-  <programme start="20251108090000 +0000" stop="20251108100000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108080000 +0000" stop="20251108090000 +0000" channel="4K TR: AK T TV HD">
     <title>EĞITIM ATLASI</title>
   </programme>
-  <programme start="20251108100000 +0000" stop="20251108110000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108090000 +0000" stop="20251108100000 +0000" channel="4K TR: AK T TV HD">
     <title>H. SONU BÜLTENI</title>
   </programme>
-  <programme start="20251108110000 +0000" stop="20251108114500 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108100000 +0000" stop="20251108104500 +0000" channel="4K TR: AK T TV HD">
     <title>H. SONU BÜLTENI</title>
   </programme>
-  <programme start="20251108114500 +0000" stop="20251108130000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108104500 +0000" stop="20251108120000 +0000" channel="4K TR: AK T TV HD">
     <title>SPOR AKTÜEL</title>
   </programme>
-  <programme start="20251108130000 +0000" stop="20251108133000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108120000 +0000" stop="20251108123000 +0000" channel="4K TR: AK T TV HD">
     <title>H. SONU BÜLTENI</title>
   </programme>
-  <programme start="20251108133000 +0000" stop="20251108150000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108123000 +0000" stop="20251108140000 +0000" channel="4K TR: AK T TV HD">
     <title>AILE VAKTI</title>
   </programme>
-  <programme start="20251108150000 +0000" stop="20251108160000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108140000 +0000" stop="20251108150000 +0000" channel="4K TR: AK T TV HD">
     <title>H. SONU BÜLTENI</title>
   </programme>
-  <programme start="20251108160000 +0000" stop="20251108170000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108150000 +0000" stop="20251108160000 +0000" channel="4K TR: AK T TV HD">
     <title>TEKNOLIFES</title>
   </programme>
-  <programme start="20251108170000 +0000" stop="20251108183000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108160000 +0000" stop="20251108173000 +0000" channel="4K TR: AK T TV HD">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20251108183000 +0000" stop="20251108203000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108173000 +0000" stop="20251108193000 +0000" channel="4K TR: AK T TV HD">
     <title>KIRMIZI MASA</title>
   </programme>
-  <programme start="20251108203000 +0000" stop="20251109060000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251108193000 +0000" stop="20251109050000 +0000" channel="4K TR: AK T TV HD">
     <title>BAŞKA AÇIDAN</title>
   </programme>
   <channel id="AKIT TV">
     <display-name>AKIT TV</display-name>
   </channel>
 
-  <programme start="20251107213000 +0000" stop="20251108060000 +0000" channel="AKIT TV">
+  <programme start="20251107213000 +0000" stop="20251108050000 +0000" channel="AKIT TV">
     <title>GECE AJANSI</title>
   </programme>
-  <programme start="20251108060000 +0000" stop="20251108083000 +0000" channel="AKIT TV">
+  <programme start="20251108050000 +0000" stop="20251108073000 +0000" channel="AKIT TV">
     <title>GÜN BAŞLIYOR</title>
   </programme>
-  <programme start="20251108083000 +0000" stop="20251108090000 +0000" channel="AKIT TV">
+  <programme start="20251108073000 +0000" stop="20251108080000 +0000" channel="AKIT TV">
     <title>SAĞLIK VAKTI</title>
   </programme>
-  <programme start="20251108090000 +0000" stop="20251108100000 +0000" channel="AKIT TV">
+  <programme start="20251108080000 +0000" stop="20251108090000 +0000" channel="AKIT TV">
     <title>EĞITIM ATLASI</title>
   </programme>
-  <programme start="20251108100000 +0000" stop="20251108110000 +0000" channel="AKIT TV">
+  <programme start="20251108090000 +0000" stop="20251108100000 +0000" channel="AKIT TV">
     <title>H. SONU BÜLTENI</title>
   </programme>
-  <programme start="20251108110000 +0000" stop="20251108114500 +0000" channel="AKIT TV">
+  <programme start="20251108100000 +0000" stop="20251108104500 +0000" channel="AKIT TV">
     <title>H. SONU BÜLTENI</title>
   </programme>
-  <programme start="20251108114500 +0000" stop="20251108130000 +0000" channel="AKIT TV">
+  <programme start="20251108104500 +0000" stop="20251108120000 +0000" channel="AKIT TV">
     <title>SPOR AKTÜEL</title>
   </programme>
-  <programme start="20251108130000 +0000" stop="20251108133000 +0000" channel="AKIT TV">
+  <programme start="20251108120000 +0000" stop="20251108123000 +0000" channel="AKIT TV">
     <title>H. SONU BÜLTENI</title>
   </programme>
-  <programme start="20251108133000 +0000" stop="20251108150000 +0000" channel="AKIT TV">
+  <programme start="20251108123000 +0000" stop="20251108140000 +0000" channel="AKIT TV">
     <title>AILE VAKTI</title>
   </programme>
-  <programme start="20251108150000 +0000" stop="20251108160000 +0000" channel="AKIT TV">
+  <programme start="20251108140000 +0000" stop="20251108150000 +0000" channel="AKIT TV">
     <title>H. SONU BÜLTENI</title>
   </programme>
-  <programme start="20251108160000 +0000" stop="20251108170000 +0000" channel="AKIT TV">
+  <programme start="20251108150000 +0000" stop="20251108160000 +0000" channel="AKIT TV">
     <title>TEKNOLIFES</title>
   </programme>
-  <programme start="20251108170000 +0000" stop="20251108183000 +0000" channel="AKIT TV">
+  <programme start="20251108160000 +0000" stop="20251108173000 +0000" channel="AKIT TV">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20251108183000 +0000" stop="20251108203000 +0000" channel="AKIT TV">
+  <programme start="20251108173000 +0000" stop="20251108193000 +0000" channel="AKIT TV">
     <title>KIRMIZI MASA</title>
   </programme>
-  <programme start="20251108203000 +0000" stop="20251109060000 +0000" channel="AKIT TV">
+  <programme start="20251108193000 +0000" stop="20251109050000 +0000" channel="AKIT TV">
     <title>BAŞKA AÇIDAN</title>
   </programme>
   <channel id="4K TR: BENG T RK">
