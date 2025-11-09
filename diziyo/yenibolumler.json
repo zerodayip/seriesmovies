@@ -1,4 +1,10 @@
 {
+  "/dizi/kucuk-dahi-ibn-i-sina": {
+    "group": "KÜÇÜK DAHI: İBN-I SINA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/sheriff-country": {
     "group": "SHERIFF COUNTRY",
     "last_season": 1,
@@ -125,21 +131,15 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi/se-oul-ja-ga-e-dae-gi-eop-da-ni-neun-kim-bu-jang-i-ya-gi-asya": {
-    "group": "SE-OUL JA-GA-E DAE-GI-EOP DA-NI-NEUN KIM BU-JANG I-YA-GI",
+  "/dizi/simplemente-alicia": {
+    "group": "YALNIZ ALICE",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 19,
     "start_episode": 1
   },
-  "/dizi/tae-pung-sang-sa-asya": {
-    "group": "TAE-PUNG-SANG-SA",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/the-golden-egg-asya": {
-    "group": "THE GOLDEN EGG",
-    "last_season": 1,
+  "/dizi/vgly": {
+    "group": "VGLY",
+    "last_season": 2,
     "last_episode": 5,
     "start_episode": 1
   }
