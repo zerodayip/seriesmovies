@@ -14031,22 +14031,22 @@
     <title>UEFA AVRUPA LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109071000 +0000" stop="20251109085000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'AJAX - GALATASARAY'</title>
+    <title>AJAX - GALATASARAY</title>
   </programme>
   <programme start="20251109085000 +0000" stop="20251109091000 +0000" channel="TABII SPOR 1 4K">
     <title>UEFA KONFERANS LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109091000 +0000" stop="20251109105000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'KIZILYILDIZ - LILLE'</title>
+    <title>KIZILYILDIZ - LILLE</title>
   </programme>
   <programme start="20251109105000 +0000" stop="20251109121000 +0000" channel="TABII SPOR 1 4K">
     <title>ŞAMPIYONLAR LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109121000 +0000" stop="20251109123500 +0000" channel="TABII SPOR 1 4K">
-    <title>SPORUN İKONLARI 11. BÖLÜM</title>
+    <title>SPORUN İKONLARI</title>
   </programme>
   <programme start="20251109123500 +0000" stop="20251109141500 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'STURM GRAZ - NOTTHINGHAM FOREST'</title>
+    <title>STURM GRAZ - NOTTHINGHAM FOREST</title>
   </programme>
   <programme start="20251109141500 +0000" stop="20251109144500 +0000" channel="TABII SPOR 1 4K">
     <title>DEPLASMAN LEZZETLERI BATMAN</title>
@@ -14054,23 +14054,17 @@
   <programme start="20251109144500 +0000" stop="20251109145500 +0000" channel="TABII SPOR 1 4K">
     <title>ONSUZ ASLA</title>
   </programme>
-  <programme start="20251109145500 +0000" stop="20251109154500 +0000" channel="TABII SPOR 1 4K">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
-  </programme>
-  <programme start="20251109154500 +0000" stop="20251109160000 +0000" channel="TABII SPOR 1 4K">
-    <title>DEVRE ARASI</title>
-  </programme>
-  <programme start="20251109160000 +0000" stop="20251109165000 +0000" channel="TABII SPOR 1 4K">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
+  <programme start="20251109145500 +0000" stop="20251109165000 +0000" channel="TABII SPOR 1 4K">
+    <title>DUNDEE - RANGERS</title>
   </programme>
   <programme start="20251109165000 +0000" stop="20251109174000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA AVRUPA LIGI MAGAZIN 2. BÖLÜM</title>
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
   </programme>
   <programme start="20251109174000 +0000" stop="20251109192000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - FCSB'</title>
+    <title>BASEL - FCSB</title>
   </programme>
   <programme start="20251109192000 +0000" stop="20251109210000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'NICE - FREIBURG'</title>
+    <title>NICE - FREIBURG</title>
   </programme>
   <channel id="TABII SPOR 1 720P">
     <display-name>TABII SPOR 1 720P</display-name>
@@ -14089,22 +14083,22 @@
     <title>UEFA AVRUPA LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109071000 +0000" stop="20251109085000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'AJAX - GALATASARAY'</title>
+    <title>AJAX - GALATASARAY</title>
   </programme>
   <programme start="20251109085000 +0000" stop="20251109091000 +0000" channel="TABII SPOR 1 720P">
     <title>UEFA KONFERANS LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109091000 +0000" stop="20251109105000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'KIZILYILDIZ - LILLE'</title>
+    <title>KIZILYILDIZ - LILLE</title>
   </programme>
   <programme start="20251109105000 +0000" stop="20251109121000 +0000" channel="TABII SPOR 1 720P">
     <title>ŞAMPIYONLAR LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109121000 +0000" stop="20251109123500 +0000" channel="TABII SPOR 1 720P">
-    <title>SPORUN İKONLARI 11. BÖLÜM</title>
+    <title>SPORUN İKONLARI</title>
   </programme>
   <programme start="20251109123500 +0000" stop="20251109141500 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'STURM GRAZ - NOTTHINGHAM FOREST'</title>
+    <title>STURM GRAZ - NOTTHINGHAM FOREST</title>
   </programme>
   <programme start="20251109141500 +0000" stop="20251109144500 +0000" channel="TABII SPOR 1 720P">
     <title>DEPLASMAN LEZZETLERI BATMAN</title>
@@ -14112,23 +14106,17 @@
   <programme start="20251109144500 +0000" stop="20251109145500 +0000" channel="TABII SPOR 1 720P">
     <title>ONSUZ ASLA</title>
   </programme>
-  <programme start="20251109145500 +0000" stop="20251109154500 +0000" channel="TABII SPOR 1 720P">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
-  </programme>
-  <programme start="20251109154500 +0000" stop="20251109160000 +0000" channel="TABII SPOR 1 720P">
-    <title>DEVRE ARASI</title>
-  </programme>
-  <programme start="20251109160000 +0000" stop="20251109165000 +0000" channel="TABII SPOR 1 720P">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
+  <programme start="20251109145500 +0000" stop="20251109165000 +0000" channel="TABII SPOR 1 720P">
+    <title>DUNDEE - RANGERS</title>
   </programme>
   <programme start="20251109165000 +0000" stop="20251109174000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA AVRUPA LIGI MAGAZIN 2. BÖLÜM</title>
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
   </programme>
   <programme start="20251109174000 +0000" stop="20251109192000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - FCSB'</title>
+    <title>BASEL - FCSB</title>
   </programme>
   <programme start="20251109192000 +0000" stop="20251109210000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'NICE - FREIBURG'</title>
+    <title>NICE - FREIBURG</title>
   </programme>
   <channel id="TABII SPOR 1 UHD">
     <display-name>TABII SPOR 1 UHD</display-name>
@@ -14147,22 +14135,22 @@
     <title>UEFA AVRUPA LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109071000 +0000" stop="20251109085000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'AJAX - GALATASARAY'</title>
+    <title>AJAX - GALATASARAY</title>
   </programme>
   <programme start="20251109085000 +0000" stop="20251109091000 +0000" channel="TABII SPOR 1 UHD">
     <title>UEFA KONFERANS LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109091000 +0000" stop="20251109105000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'KIZILYILDIZ - LILLE'</title>
+    <title>KIZILYILDIZ - LILLE</title>
   </programme>
   <programme start="20251109105000 +0000" stop="20251109121000 +0000" channel="TABII SPOR 1 UHD">
     <title>ŞAMPIYONLAR LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109121000 +0000" stop="20251109123500 +0000" channel="TABII SPOR 1 UHD">
-    <title>SPORUN İKONLARI 11. BÖLÜM</title>
+    <title>SPORUN İKONLARI</title>
   </programme>
   <programme start="20251109123500 +0000" stop="20251109141500 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'STURM GRAZ - NOTTHINGHAM FOREST'</title>
+    <title>STURM GRAZ - NOTTHINGHAM FOREST</title>
   </programme>
   <programme start="20251109141500 +0000" stop="20251109144500 +0000" channel="TABII SPOR 1 UHD">
     <title>DEPLASMAN LEZZETLERI BATMAN</title>
@@ -14170,23 +14158,17 @@
   <programme start="20251109144500 +0000" stop="20251109145500 +0000" channel="TABII SPOR 1 UHD">
     <title>ONSUZ ASLA</title>
   </programme>
-  <programme start="20251109145500 +0000" stop="20251109154500 +0000" channel="TABII SPOR 1 UHD">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
-  </programme>
-  <programme start="20251109154500 +0000" stop="20251109160000 +0000" channel="TABII SPOR 1 UHD">
-    <title>DEVRE ARASI</title>
-  </programme>
-  <programme start="20251109160000 +0000" stop="20251109165000 +0000" channel="TABII SPOR 1 UHD">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
+  <programme start="20251109145500 +0000" stop="20251109165000 +0000" channel="TABII SPOR 1 UHD">
+    <title>DUNDEE - RANGERS</title>
   </programme>
   <programme start="20251109165000 +0000" stop="20251109174000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA AVRUPA LIGI MAGAZIN 2. BÖLÜM</title>
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
   </programme>
   <programme start="20251109174000 +0000" stop="20251109192000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - FCSB'</title>
+    <title>BASEL - FCSB</title>
   </programme>
   <programme start="20251109192000 +0000" stop="20251109210000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'NICE - FREIBURG'</title>
+    <title>NICE - FREIBURG</title>
   </programme>
   <channel id="TABII SPOR HD">
     <display-name>TABII SPOR HD</display-name>
@@ -14205,22 +14187,22 @@
     <title>UEFA AVRUPA LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109071000 +0000" stop="20251109085000 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'AJAX - GALATASARAY'</title>
+    <title>AJAX - GALATASARAY</title>
   </programme>
   <programme start="20251109085000 +0000" stop="20251109091000 +0000" channel="TABII SPOR HD">
     <title>UEFA KONFERANS LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109091000 +0000" stop="20251109105000 +0000" channel="TABII SPOR HD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'KIZILYILDIZ - LILLE'</title>
+    <title>KIZILYILDIZ - LILLE</title>
   </programme>
   <programme start="20251109105000 +0000" stop="20251109121000 +0000" channel="TABII SPOR HD">
     <title>ŞAMPIYONLAR LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109121000 +0000" stop="20251109123500 +0000" channel="TABII SPOR HD">
-    <title>SPORUN İKONLARI 11. BÖLÜM</title>
+    <title>SPORUN İKONLARI</title>
   </programme>
   <programme start="20251109123500 +0000" stop="20251109141500 +0000" channel="TABII SPOR HD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'STURM GRAZ - NOTTHINGHAM FOREST'</title>
+    <title>STURM GRAZ - NOTTHINGHAM FOREST</title>
   </programme>
   <programme start="20251109141500 +0000" stop="20251109144500 +0000" channel="TABII SPOR HD">
     <title>DEPLASMAN LEZZETLERI BATMAN</title>
@@ -14228,23 +14210,17 @@
   <programme start="20251109144500 +0000" stop="20251109145500 +0000" channel="TABII SPOR HD">
     <title>ONSUZ ASLA</title>
   </programme>
-  <programme start="20251109145500 +0000" stop="20251109154500 +0000" channel="TABII SPOR HD">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
-  </programme>
-  <programme start="20251109154500 +0000" stop="20251109160000 +0000" channel="TABII SPOR HD">
-    <title>DEVRE ARASI</title>
-  </programme>
-  <programme start="20251109160000 +0000" stop="20251109165000 +0000" channel="TABII SPOR HD">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
+  <programme start="20251109145500 +0000" stop="20251109165000 +0000" channel="TABII SPOR HD">
+    <title>DUNDEE - RANGERS</title>
   </programme>
   <programme start="20251109165000 +0000" stop="20251109174000 +0000" channel="TABII SPOR HD">
-    <title>UEFA AVRUPA LIGI MAGAZIN 2. BÖLÜM</title>
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
   </programme>
   <programme start="20251109174000 +0000" stop="20251109192000 +0000" channel="TABII SPOR HD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - FCSB'</title>
+    <title>BASEL - FCSB</title>
   </programme>
   <programme start="20251109192000 +0000" stop="20251109210000 +0000" channel="TABII SPOR HD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'NICE - FREIBURG'</title>
+    <title>NICE - FREIBURG</title>
   </programme>
   <channel id="TABII SPOR SD">
     <display-name>TABII SPOR SD</display-name>
@@ -14263,22 +14239,22 @@
     <title>UEFA AVRUPA LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109071000 +0000" stop="20251109085000 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'AJAX - GALATASARAY'</title>
+    <title>AJAX - GALATASARAY</title>
   </programme>
   <programme start="20251109085000 +0000" stop="20251109091000 +0000" channel="TABII SPOR SD">
     <title>UEFA KONFERANS LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109091000 +0000" stop="20251109105000 +0000" channel="TABII SPOR SD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'KIZILYILDIZ - LILLE'</title>
+    <title>KIZILYILDIZ - LILLE</title>
   </programme>
   <programme start="20251109105000 +0000" stop="20251109121000 +0000" channel="TABII SPOR SD">
     <title>ŞAMPIYONLAR LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109121000 +0000" stop="20251109123500 +0000" channel="TABII SPOR SD">
-    <title>SPORUN İKONLARI 11. BÖLÜM</title>
+    <title>SPORUN İKONLARI</title>
   </programme>
   <programme start="20251109123500 +0000" stop="20251109141500 +0000" channel="TABII SPOR SD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'STURM GRAZ - NOTTHINGHAM FOREST'</title>
+    <title>STURM GRAZ - NOTTHINGHAM FOREST</title>
   </programme>
   <programme start="20251109141500 +0000" stop="20251109144500 +0000" channel="TABII SPOR SD">
     <title>DEPLASMAN LEZZETLERI BATMAN</title>
@@ -14286,23 +14262,17 @@
   <programme start="20251109144500 +0000" stop="20251109145500 +0000" channel="TABII SPOR SD">
     <title>ONSUZ ASLA</title>
   </programme>
-  <programme start="20251109145500 +0000" stop="20251109154500 +0000" channel="TABII SPOR SD">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
-  </programme>
-  <programme start="20251109154500 +0000" stop="20251109160000 +0000" channel="TABII SPOR SD">
-    <title>DEVRE ARASI</title>
-  </programme>
-  <programme start="20251109160000 +0000" stop="20251109165000 +0000" channel="TABII SPOR SD">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
+  <programme start="20251109145500 +0000" stop="20251109165000 +0000" channel="TABII SPOR SD">
+    <title>DUNDEE - RANGERS</title>
   </programme>
   <programme start="20251109165000 +0000" stop="20251109174000 +0000" channel="TABII SPOR SD">
-    <title>UEFA AVRUPA LIGI MAGAZIN 2. BÖLÜM</title>
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
   </programme>
   <programme start="20251109174000 +0000" stop="20251109192000 +0000" channel="TABII SPOR SD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - FCSB'</title>
+    <title>BASEL - FCSB</title>
   </programme>
   <programme start="20251109192000 +0000" stop="20251109210000 +0000" channel="TABII SPOR SD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'NICE - FREIBURG'</title>
+    <title>NICE - FREIBURG</title>
   </programme>
   <channel id="TABII SPOR">
     <display-name>TABII SPOR</display-name>
@@ -14321,22 +14291,22 @@
     <title>UEFA AVRUPA LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109071000 +0000" stop="20251109085000 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'AJAX - GALATASARAY'</title>
+    <title>AJAX - GALATASARAY</title>
   </programme>
   <programme start="20251109085000 +0000" stop="20251109091000 +0000" channel="TABII SPOR">
     <title>UEFA KONFERANS LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109091000 +0000" stop="20251109105000 +0000" channel="TABII SPOR">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'KIZILYILDIZ - LILLE'</title>
+    <title>KIZILYILDIZ - LILLE</title>
   </programme>
   <programme start="20251109105000 +0000" stop="20251109121000 +0000" channel="TABII SPOR">
     <title>ŞAMPIYONLAR LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109121000 +0000" stop="20251109123500 +0000" channel="TABII SPOR">
-    <title>SPORUN İKONLARI 11. BÖLÜM</title>
+    <title>SPORUN İKONLARI</title>
   </programme>
   <programme start="20251109123500 +0000" stop="20251109141500 +0000" channel="TABII SPOR">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'STURM GRAZ - NOTTHINGHAM FOREST'</title>
+    <title>STURM GRAZ - NOTTHINGHAM FOREST</title>
   </programme>
   <programme start="20251109141500 +0000" stop="20251109144500 +0000" channel="TABII SPOR">
     <title>DEPLASMAN LEZZETLERI BATMAN</title>
@@ -14344,23 +14314,17 @@
   <programme start="20251109144500 +0000" stop="20251109145500 +0000" channel="TABII SPOR">
     <title>ONSUZ ASLA</title>
   </programme>
-  <programme start="20251109145500 +0000" stop="20251109154500 +0000" channel="TABII SPOR">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
-  </programme>
-  <programme start="20251109154500 +0000" stop="20251109160000 +0000" channel="TABII SPOR">
-    <title>DEVRE ARASI</title>
-  </programme>
-  <programme start="20251109160000 +0000" stop="20251109165000 +0000" channel="TABII SPOR">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
+  <programme start="20251109145500 +0000" stop="20251109165000 +0000" channel="TABII SPOR">
+    <title>DUNDEE - RANGERS</title>
   </programme>
   <programme start="20251109165000 +0000" stop="20251109174000 +0000" channel="TABII SPOR">
-    <title>UEFA AVRUPA LIGI MAGAZIN 2. BÖLÜM</title>
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
   </programme>
   <programme start="20251109174000 +0000" stop="20251109192000 +0000" channel="TABII SPOR">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - FCSB'</title>
+    <title>BASEL - FCSB</title>
   </programme>
   <programme start="20251109192000 +0000" stop="20251109210000 +0000" channel="TABII SPOR">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'NICE - FREIBURG'</title>
+    <title>NICE - FREIBURG</title>
   </programme>
   <channel id="TABII SPOR 1">
     <display-name>TABII SPOR 1</display-name>
@@ -14379,22 +14343,22 @@
     <title>UEFA AVRUPA LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109071000 +0000" stop="20251109085000 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'AJAX - GALATASARAY'</title>
+    <title>AJAX - GALATASARAY</title>
   </programme>
   <programme start="20251109085000 +0000" stop="20251109091000 +0000" channel="TABII SPOR 1">
     <title>UEFA KONFERANS LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109091000 +0000" stop="20251109105000 +0000" channel="TABII SPOR 1">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'KIZILYILDIZ - LILLE'</title>
+    <title>KIZILYILDIZ - LILLE</title>
   </programme>
   <programme start="20251109105000 +0000" stop="20251109121000 +0000" channel="TABII SPOR 1">
     <title>ŞAMPIYONLAR LIGI 4. HAFTA ÖZETLER</title>
   </programme>
   <programme start="20251109121000 +0000" stop="20251109123500 +0000" channel="TABII SPOR 1">
-    <title>SPORUN İKONLARI 11. BÖLÜM</title>
+    <title>SPORUN İKONLARI</title>
   </programme>
   <programme start="20251109123500 +0000" stop="20251109141500 +0000" channel="TABII SPOR 1">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'STURM GRAZ - NOTTHINGHAM FOREST'</title>
+    <title>STURM GRAZ - NOTTHINGHAM FOREST</title>
   </programme>
   <programme start="20251109141500 +0000" stop="20251109144500 +0000" channel="TABII SPOR 1">
     <title>DEPLASMAN LEZZETLERI BATMAN</title>
@@ -14402,23 +14366,17 @@
   <programme start="20251109144500 +0000" stop="20251109145500 +0000" channel="TABII SPOR 1">
     <title>ONSUZ ASLA</title>
   </programme>
-  <programme start="20251109145500 +0000" stop="20251109154500 +0000" channel="TABII SPOR 1">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
-  </programme>
-  <programme start="20251109154500 +0000" stop="20251109160000 +0000" channel="TABII SPOR 1">
-    <title>DEVRE ARASI</title>
-  </programme>
-  <programme start="20251109160000 +0000" stop="20251109165000 +0000" channel="TABII SPOR 1">
-    <title>İSKOÇA PREMIER LIG FUTBOL KARŞILAŞMASI 'DUNDEE - RANGERS'</title>
+  <programme start="20251109145500 +0000" stop="20251109165000 +0000" channel="TABII SPOR 1">
+    <title>DUNDEE - RANGERS</title>
   </programme>
   <programme start="20251109165000 +0000" stop="20251109174000 +0000" channel="TABII SPOR 1">
-    <title>UEFA AVRUPA LIGI MAGAZIN 2. BÖLÜM</title>
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
   </programme>
   <programme start="20251109174000 +0000" stop="20251109192000 +0000" channel="TABII SPOR 1">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - FCSB'</title>
+    <title>BASEL - FCSB</title>
   </programme>
   <programme start="20251109192000 +0000" stop="20251109210000 +0000" channel="TABII SPOR 1">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'NICE - FREIBURG'</title>
+    <title>NICE - FREIBURG</title>
   </programme>
   <channel id="4K TR: S SPORT">
     <display-name>4K TR: S SPORT</display-name>
