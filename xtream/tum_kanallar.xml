@@ -5317,7 +5317,7 @@
   <programme start="20251110203900 +0000" stop="20251110205500 +0000" channel="GZT_TV">
     <title>BENTROPI</title>
   </programme>
-  <programme start="20251110205500 +0000" stop="20251110205900 +0000" channel="GZT_TV">
+  <programme start="20251110205500 +0000" stop="20251110210000 +0000" channel="GZT_TV">
     <title>HARICIYE</title>
   </programme>
   <channel id="VAV_TV">
@@ -6034,7 +6034,7 @@
     <title>HABER BÜLTENI</title>
   </programme>
   <programme start="20251110150000 +0000" stop="20251110160000 +0000" channel="TURKHABER">
-    <title>GÜNDEM ANALIZ</title>
+    <title>YENI BIR GÜN</title>
   </programme>
   <programme start="20251110160000 +0000" stop="20251110170000 +0000" channel="TURKHABER">
     <title>ANA HABER BÜLTENI</title>
@@ -25454,14 +25454,14 @@
   <programme start="20251110125400 +0000" stop="20251110130000 +0000" channel="MİNİKA ÇOCUK">
     <title>CLEO - CUQUIN</title>
   </programme>
-  <programme start="20251110130000 +0000" stop="20251110131500 +0000" channel="MİNİKA ÇOCUK">
+  <programme start="20251110130000 +0000" stop="20251110130800 +0000" channel="MİNİKA ÇOCUK">
     <title>KUKULI</title>
   </programme>
-  <programme start="20251110131500 +0000" stop="20251110132000 +0000" channel="MİNİKA ÇOCUK">
-    <title>ROBOCAR POLI</title>
+  <programme start="20251110130800 +0000" stop="20251110131500 +0000" channel="MİNİKA ÇOCUK">
+    <title>KUKULI</title>
   </programme>
-  <programme start="20251110132000 +0000" stop="20251110133000 +0000" channel="MİNİKA ÇOCUK">
-    <title>OSCAR'S OASIS</title>
+  <programme start="20251110131500 +0000" stop="20251110133000 +0000" channel="MİNİKA ÇOCUK">
+    <title>ROBOCAR POLI</title>
   </programme>
   <programme start="20251110133000 +0000" stop="20251110134500 +0000" channel="MİNİKA ÇOCUK">
     <title>İSTANBUL MUHAFIZLARI</title>
@@ -25479,13 +25479,13 @@
     <title>ROBOT TRENLER</title>
   </programme>
   <programme start="20251110144500 +0000" stop="20251110150000 +0000" channel="MİNİKA ÇOCUK">
-    <title>ROBOT TRENLER</title>
+    <title>ROBOCAR POLI</title>
   </programme>
   <programme start="20251110150000 +0000" stop="20251110151500 +0000" channel="MİNİKA ÇOCUK">
-    <title>JONNY JETBOY</title>
+    <title>GRISU</title>
   </programme>
   <programme start="20251110151500 +0000" stop="20251110153000 +0000" channel="MİNİKA ÇOCUK">
-    <title>ROBOCAR POLI</title>
+    <title>GRISU</title>
   </programme>
   <programme start="20251110153000 +0000" stop="20251110153500 +0000" channel="MİNİKA ÇOCUK">
     <title>OGGY OGGY</title>
@@ -25536,12 +25536,15 @@
     <title>ROBOT TRENLER</title>
   </programme>
   <programme start="20251110181500 +0000" stop="20251110183000 +0000" channel="MİNİKA ÇOCUK">
+    <title>GRISU</title>
+  </programme>
+  <programme start="20251110183000 +0000" stop="20251110184000 +0000" channel="MİNİKA ÇOCUK">
     <title>OSCAR'S OASIS</title>
   </programme>
-  <programme start="20251110183000 +0000" stop="20251110184500 +0000" channel="MİNİKA ÇOCUK">
+  <programme start="20251110184000 +0000" stop="20251110185000 +0000" channel="MİNİKA ÇOCUK">
     <title>OSCAR'S OASIS</title>
   </programme>
-  <programme start="20251110184500 +0000" stop="20251110190000 +0000" channel="MİNİKA ÇOCUK">
+  <programme start="20251110185000 +0000" stop="20251110190000 +0000" channel="MİNİKA ÇOCUK">
     <title>OSCAR'S OASIS</title>
   </programme>
   <programme start="20251110190000 +0000" stop="20251110191500 +0000" channel="MİNİKA ÇOCUK">
@@ -35066,9 +35069,6 @@
   <programme start="20251110044000 +0000" stop="20251110050000 +0000" channel="BRT_2">
     <title>SOKAKTAKI SES</title>
   </programme>
-  <programme start="20251110050000 +0000" stop="20251110053000 +0000" channel="BRT_2">
-    <title>ENDORFIN</title>
-  </programme>
   <programme start="20251110053000 +0000" stop="20251110060000 +0000" channel="BRT_2">
     <title>LISE BIYOGRAFISI</title>
   </programme>
@@ -35102,29 +35102,32 @@
   <programme start="20251110130500 +0000" stop="20251110140000 +0000" channel="BRT_2">
     <title>60+</title>
   </programme>
-  <programme start="20251110140000 +0000" stop="20251110150000 +0000" channel="BRT_2">
+  <programme start="20251110140000 +0000" stop="20251110143000 +0000" channel="BRT_2">
     <title>KONSER</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110160000 +0000" channel="BRT_2">
-    <title>SAĞLIKLI YAŞAM</title>
+  <programme start="20251110143000 +0000" stop="20251110150000 +0000" channel="BRT_2">
+    <title>ENDORFIN</title>
   </programme>
-  <programme start="20251110160000 +0000" stop="20251110163000 +0000" channel="BRT_2">
-    <title>ÇALIŞMA MASAM</title>
-  </programme>
-  <programme start="20251110163000 +0000" stop="20251110173000 +0000" channel="BRT_2">
-    <title>MOTOSIKLET KULÜBÜ</title>
-  </programme>
-  <programme start="20251110173000 +0000" stop="20251110180000 +0000" channel="BRT_2">
+  <programme start="20251110150000 +0000" stop="20251110153000 +0000" channel="BRT_2">
     <title>SESLER VE GÖRÜNTÜLER</title>
   </programme>
-  <programme start="20251110180000 +0000" stop="20251110190000 +0000" channel="BRT_2">
-    <title>SENI SEVIYORUM SESIN OLUYORUM</title>
+  <programme start="20251110153000 +0000" stop="20251110163000 +0000" channel="BRT_2">
+    <title>1001 KONU 1001 KONUK</title>
   </programme>
-  <programme start="20251110190000 +0000" stop="20251110194000 +0000" channel="BRT_2">
-    <title>UYUŞTURUCU İLE MÜCADELE SAVAŞÇILARI</title>
+  <programme start="20251110163000 +0000" stop="20251110173000 +0000" channel="BRT_2">
+    <title>ŞARKI SÖYLEMEK LAZIM</title>
   </programme>
-  <programme start="20251110194000 +0000" stop="20251110210000 +0000" channel="BRT_2">
+  <programme start="20251110173000 +0000" stop="20251110183000 +0000" channel="BRT_2">
+    <title>BILGININ GÜNDEMI</title>
+  </programme>
+  <programme start="20251110183000 +0000" stop="20251110193000 +0000" channel="BRT_2">
     <title>KONSER SAATI</title>
+  </programme>
+  <programme start="20251110193000 +0000" stop="20251110203000 +0000" channel="BRT_2">
+    <title>TURIZM MASASI</title>
+  </programme>
+  <programme start="20251110203000 +0000" stop="20251111040000 +0000" channel="BRT_2">
+    <title>TRAFIKOLOJI</title>
   </programme>
   <channel id="KIBRIS_GENC_TV">
     <display-name>KIBRIS_GENC_TV</display-name>
