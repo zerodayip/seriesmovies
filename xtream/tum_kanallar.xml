@@ -2064,11 +2064,11 @@
   <programme start="20251110154500 +0000" stop="20251110170000 +0000" channel="4K TR: SHOW TV HD">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251110170000 +0000" stop="20251110194500 +0000" channel="4K TR: SHOW TV HD">
-    <title>BEREKETLI TOPRAKLAR</title>
+  <programme start="20251110170000 +0000" stop="20251110193000 +0000" channel="4K TR: SHOW TV HD">
+    <title>ORGANIZE İŞLER 2: SAZAN SARMALI</title>
   </programme>
-  <programme start="20251110194500 +0000" stop="20251110224500 +0000" channel="4K TR: SHOW TV HD">
-    <title>YUSUF YUSUF</title>
+  <programme start="20251110193000 +0000" stop="20251110221500 +0000" channel="4K TR: SHOW TV HD">
+    <title>BEREKETLI TOPRAKLAR</title>
   </programme>
   <channel id="SHOW TV">
     <display-name>SHOW TV</display-name>
@@ -2098,11 +2098,11 @@
   <programme start="20251110154500 +0000" stop="20251110170000 +0000" channel="SHOW TV">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251110170000 +0000" stop="20251110194500 +0000" channel="SHOW TV">
-    <title>BEREKETLI TOPRAKLAR</title>
+  <programme start="20251110170000 +0000" stop="20251110193000 +0000" channel="SHOW TV">
+    <title>ORGANIZE İŞLER 2: SAZAN SARMALI</title>
   </programme>
-  <programme start="20251110194500 +0000" stop="20251110224500 +0000" channel="SHOW TV">
-    <title>YUSUF YUSUF</title>
+  <programme start="20251110193000 +0000" stop="20251110221500 +0000" channel="SHOW TV">
+    <title>BEREKETLI TOPRAKLAR</title>
   </programme>
   <channel id="SHOW TV FHD">
     <display-name>SHOW TV FHD</display-name>
@@ -2132,11 +2132,11 @@
   <programme start="20251110154500 +0000" stop="20251110170000 +0000" channel="SHOW TV FHD">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251110170000 +0000" stop="20251110194500 +0000" channel="SHOW TV FHD">
-    <title>BEREKETLI TOPRAKLAR</title>
+  <programme start="20251110170000 +0000" stop="20251110193000 +0000" channel="SHOW TV FHD">
+    <title>ORGANIZE İŞLER 2: SAZAN SARMALI</title>
   </programme>
-  <programme start="20251110194500 +0000" stop="20251110224500 +0000" channel="SHOW TV FHD">
-    <title>YUSUF YUSUF</title>
+  <programme start="20251110193000 +0000" stop="20251110221500 +0000" channel="SHOW TV FHD">
+    <title>BEREKETLI TOPRAKLAR</title>
   </programme>
   <channel id="SHOW TV HD">
     <display-name>SHOW TV HD</display-name>
@@ -2166,11 +2166,11 @@
   <programme start="20251110154500 +0000" stop="20251110170000 +0000" channel="SHOW TV HD">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251110170000 +0000" stop="20251110194500 +0000" channel="SHOW TV HD">
-    <title>BEREKETLI TOPRAKLAR</title>
+  <programme start="20251110170000 +0000" stop="20251110193000 +0000" channel="SHOW TV HD">
+    <title>ORGANIZE İŞLER 2: SAZAN SARMALI</title>
   </programme>
-  <programme start="20251110194500 +0000" stop="20251110224500 +0000" channel="SHOW TV HD">
-    <title>YUSUF YUSUF</title>
+  <programme start="20251110193000 +0000" stop="20251110221500 +0000" channel="SHOW TV HD">
+    <title>BEREKETLI TOPRAKLAR</title>
   </programme>
   <channel id="SHOW TV HEVC">
     <display-name>SHOW TV HEVC</display-name>
@@ -2200,11 +2200,11 @@
   <programme start="20251110154500 +0000" stop="20251110170000 +0000" channel="SHOW TV HEVC">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251110170000 +0000" stop="20251110194500 +0000" channel="SHOW TV HEVC">
-    <title>BEREKETLI TOPRAKLAR</title>
+  <programme start="20251110170000 +0000" stop="20251110193000 +0000" channel="SHOW TV HEVC">
+    <title>ORGANIZE İŞLER 2: SAZAN SARMALI</title>
   </programme>
-  <programme start="20251110194500 +0000" stop="20251110224500 +0000" channel="SHOW TV HEVC">
-    <title>YUSUF YUSUF</title>
+  <programme start="20251110193000 +0000" stop="20251110221500 +0000" channel="SHOW TV HEVC">
+    <title>BEREKETLI TOPRAKLAR</title>
   </programme>
   <channel id="SHOW TV RAW">
     <display-name>SHOW TV RAW</display-name>
@@ -2234,11 +2234,11 @@
   <programme start="20251110154500 +0000" stop="20251110170000 +0000" channel="SHOW TV RAW">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251110170000 +0000" stop="20251110194500 +0000" channel="SHOW TV RAW">
-    <title>BEREKETLI TOPRAKLAR</title>
+  <programme start="20251110170000 +0000" stop="20251110193000 +0000" channel="SHOW TV RAW">
+    <title>ORGANIZE İŞLER 2: SAZAN SARMALI</title>
   </programme>
-  <programme start="20251110194500 +0000" stop="20251110224500 +0000" channel="SHOW TV RAW">
-    <title>YUSUF YUSUF</title>
+  <programme start="20251110193000 +0000" stop="20251110221500 +0000" channel="SHOW TV RAW">
+    <title>BEREKETLI TOPRAKLAR</title>
   </programme>
   <channel id="SHOW TV SD">
     <display-name>SHOW TV SD</display-name>
@@ -2268,11 +2268,11 @@
   <programme start="20251110154500 +0000" stop="20251110170000 +0000" channel="SHOW TV SD">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251110170000 +0000" stop="20251110194500 +0000" channel="SHOW TV SD">
-    <title>BEREKETLI TOPRAKLAR</title>
+  <programme start="20251110170000 +0000" stop="20251110193000 +0000" channel="SHOW TV SD">
+    <title>ORGANIZE İŞLER 2: SAZAN SARMALI</title>
   </programme>
-  <programme start="20251110194500 +0000" stop="20251110224500 +0000" channel="SHOW TV SD">
-    <title>YUSUF YUSUF</title>
+  <programme start="20251110193000 +0000" stop="20251110221500 +0000" channel="SHOW TV SD">
+    <title>BEREKETLI TOPRAKLAR</title>
   </programme>
   <channel id="4K TR: NOW HD">
     <display-name>4K TR: NOW HD</display-name>
@@ -12858,16 +12858,16 @@
   <programme start="20251110143000 +0000" stop="20251110150000 +0000" channel="4K TR: TRT SPOR HD">
     <title>DÜNYADAN SPOR</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110173000 +0000" channel="4K TR: TRT SPOR HD">
+  <programme start="20251110150000 +0000" stop="20251110163000 +0000" channel="4K TR: TRT SPOR HD">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110173000 +0000" stop="20251110190000 +0000" channel="4K TR: TRT SPOR HD">
-    <title>ABDULLAH AVCI İLE ANALIZ</title>
+  <programme start="20251110163000 +0000" stop="20251110180000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>SPOR MERKEZI</title>
   </programme>
-  <programme start="20251110190000 +0000" stop="20251110203000 +0000" channel="4K TR: TRT SPOR HD">
+  <programme start="20251110180000 +0000" stop="20251110200000 +0000" channel="4K TR: TRT SPOR HD">
     <title>STADYUM</title>
   </programme>
-  <programme start="20251110203000 +0000" stop="20251110220000 +0000" channel="4K TR: TRT SPOR HD">
+  <programme start="20251110200000 +0000" stop="20251110220000 +0000" channel="4K TR: TRT SPOR HD">
     <title>TEKNIK ANALIZ</title>
   </programme>
   <channel id="TRT SPOR">
@@ -12919,16 +12919,16 @@
   <programme start="20251110143000 +0000" stop="20251110150000 +0000" channel="TRT SPOR">
     <title>DÜNYADAN SPOR</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110173000 +0000" channel="TRT SPOR">
+  <programme start="20251110150000 +0000" stop="20251110163000 +0000" channel="TRT SPOR">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110173000 +0000" stop="20251110190000 +0000" channel="TRT SPOR">
-    <title>ABDULLAH AVCI İLE ANALIZ</title>
+  <programme start="20251110163000 +0000" stop="20251110180000 +0000" channel="TRT SPOR">
+    <title>SPOR MERKEZI</title>
   </programme>
-  <programme start="20251110190000 +0000" stop="20251110203000 +0000" channel="TRT SPOR">
+  <programme start="20251110180000 +0000" stop="20251110200000 +0000" channel="TRT SPOR">
     <title>STADYUM</title>
   </programme>
-  <programme start="20251110203000 +0000" stop="20251110220000 +0000" channel="TRT SPOR">
+  <programme start="20251110200000 +0000" stop="20251110220000 +0000" channel="TRT SPOR">
     <title>TEKNIK ANALIZ</title>
   </programme>
   <channel id="TRT SPOR FHD">
@@ -12980,16 +12980,16 @@
   <programme start="20251110143000 +0000" stop="20251110150000 +0000" channel="TRT SPOR FHD">
     <title>DÜNYADAN SPOR</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110173000 +0000" channel="TRT SPOR FHD">
+  <programme start="20251110150000 +0000" stop="20251110163000 +0000" channel="TRT SPOR FHD">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110173000 +0000" stop="20251110190000 +0000" channel="TRT SPOR FHD">
-    <title>ABDULLAH AVCI İLE ANALIZ</title>
+  <programme start="20251110163000 +0000" stop="20251110180000 +0000" channel="TRT SPOR FHD">
+    <title>SPOR MERKEZI</title>
   </programme>
-  <programme start="20251110190000 +0000" stop="20251110203000 +0000" channel="TRT SPOR FHD">
+  <programme start="20251110180000 +0000" stop="20251110200000 +0000" channel="TRT SPOR FHD">
     <title>STADYUM</title>
   </programme>
-  <programme start="20251110203000 +0000" stop="20251110220000 +0000" channel="TRT SPOR FHD">
+  <programme start="20251110200000 +0000" stop="20251110220000 +0000" channel="TRT SPOR FHD">
     <title>TEKNIK ANALIZ</title>
   </programme>
   <channel id="TRT SPOR HD">
@@ -13041,16 +13041,16 @@
   <programme start="20251110143000 +0000" stop="20251110150000 +0000" channel="TRT SPOR HD">
     <title>DÜNYADAN SPOR</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110173000 +0000" channel="TRT SPOR HD">
+  <programme start="20251110150000 +0000" stop="20251110163000 +0000" channel="TRT SPOR HD">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110173000 +0000" stop="20251110190000 +0000" channel="TRT SPOR HD">
-    <title>ABDULLAH AVCI İLE ANALIZ</title>
+  <programme start="20251110163000 +0000" stop="20251110180000 +0000" channel="TRT SPOR HD">
+    <title>SPOR MERKEZI</title>
   </programme>
-  <programme start="20251110190000 +0000" stop="20251110203000 +0000" channel="TRT SPOR HD">
+  <programme start="20251110180000 +0000" stop="20251110200000 +0000" channel="TRT SPOR HD">
     <title>STADYUM</title>
   </programme>
-  <programme start="20251110203000 +0000" stop="20251110220000 +0000" channel="TRT SPOR HD">
+  <programme start="20251110200000 +0000" stop="20251110220000 +0000" channel="TRT SPOR HD">
     <title>TEKNIK ANALIZ</title>
   </programme>
   <channel id="TRT SPOR RAW">
@@ -13102,16 +13102,16 @@
   <programme start="20251110143000 +0000" stop="20251110150000 +0000" channel="TRT SPOR RAW">
     <title>DÜNYADAN SPOR</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110173000 +0000" channel="TRT SPOR RAW">
+  <programme start="20251110150000 +0000" stop="20251110163000 +0000" channel="TRT SPOR RAW">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110173000 +0000" stop="20251110190000 +0000" channel="TRT SPOR RAW">
-    <title>ABDULLAH AVCI İLE ANALIZ</title>
+  <programme start="20251110163000 +0000" stop="20251110180000 +0000" channel="TRT SPOR RAW">
+    <title>SPOR MERKEZI</title>
   </programme>
-  <programme start="20251110190000 +0000" stop="20251110203000 +0000" channel="TRT SPOR RAW">
+  <programme start="20251110180000 +0000" stop="20251110200000 +0000" channel="TRT SPOR RAW">
     <title>STADYUM</title>
   </programme>
-  <programme start="20251110203000 +0000" stop="20251110220000 +0000" channel="TRT SPOR RAW">
+  <programme start="20251110200000 +0000" stop="20251110220000 +0000" channel="TRT SPOR RAW">
     <title>TEKNIK ANALIZ</title>
   </programme>
   <channel id="4K TR: TRT SPOR YILDIZ">
@@ -32627,16 +32627,16 @@
   <programme start="20251110143000 +0000" stop="20251110150000 +0000" channel="4K TR: TRT 3">
     <title>DÜNYADAN SPOR</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110173000 +0000" channel="4K TR: TRT 3">
+  <programme start="20251110150000 +0000" stop="20251110163000 +0000" channel="4K TR: TRT 3">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110173000 +0000" stop="20251110190000 +0000" channel="4K TR: TRT 3">
-    <title>ABDULLAH AVCI İLE ANALIZ</title>
+  <programme start="20251110163000 +0000" stop="20251110180000 +0000" channel="4K TR: TRT 3">
+    <title>SPOR MERKEZI</title>
   </programme>
-  <programme start="20251110190000 +0000" stop="20251110203000 +0000" channel="4K TR: TRT 3">
+  <programme start="20251110180000 +0000" stop="20251110200000 +0000" channel="4K TR: TRT 3">
     <title>STADYUM</title>
   </programme>
-  <programme start="20251110203000 +0000" stop="20251110220000 +0000" channel="4K TR: TRT 3">
+  <programme start="20251110200000 +0000" stop="20251110220000 +0000" channel="4K TR: TRT 3">
     <title>TEKNIK ANALIZ</title>
   </programme>
   <channel id="4K TR: TRT T RK">
