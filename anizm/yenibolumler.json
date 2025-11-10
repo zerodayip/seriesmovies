@@ -1,4 +1,10 @@
 {
+  "/nyaight-of-the-living-cat": {
+    "group": "NYAIGHT OF THE LIVING CAT",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
   "/alma-chan-wa-kazoku-ni-naritai": {
     "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
     "last_season": 1,
@@ -91,12 +97,6 @@
   },
   "/kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun": {
     "group": "KAO NI DENAI KASHIWADA-SAN TO KAO NI DERU OOTA-KUN",
-    "last_season": 1,
-    "last_episode": 6.0,
-    "start_episode": 1
-  },
-  "/nageki-no-bourei-wa-intai-shitai-part-2": {
-    "group": "NAGEKI NO BOUREI WA INTAI SHITAI PART 2",
     "last_season": 1,
     "last_episode": 6.0,
     "start_episode": 1
