@@ -1,4 +1,10 @@
 {
+  "/alma-chan-wa-kazoku-ni-naritai": {
+    "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
   "/make-a-girl": {
     "group": "MAKE A GIRL",
     "last_season": 1,
@@ -91,12 +97,6 @@
   },
   "/nageki-no-bourei-wa-intai-shitai-part-2": {
     "group": "NAGEKI NO BOUREI WA INTAI SHITAI PART 2",
-    "last_season": 1,
-    "last_episode": 6.0,
-    "start_episode": 1
-  },
-  "/spy-x-family-season-3": {
-    "group": "SPY X FAMILY SEASON 3",
     "last_season": 1,
     "last_episode": 6.0,
     "start_episode": 1
