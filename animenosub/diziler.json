@@ -736,5 +736,11 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/anime/jujutsu-kaisen-the-culling-game-part-1/": {
+    "group": "JUJUTSU KAISEN: THE CULLING GAME PART 1",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
