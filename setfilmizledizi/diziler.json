@@ -2,13 +2,13 @@
   "/dizi/chosen-home/": {
     "group": "CHOSEN HOME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/as-you-stood-by/": {
     "group": "AS YOU STOOD BY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/pluribus/": {
@@ -128,7 +128,7 @@
   "/dizi/typhoon-family/": {
     "group": "TYPHOON FAMILY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/kurukshetra/": {
@@ -2047,8 +2047,8 @@
   },
   "/dizi/maxton-hall-die-welt-zwischen-uns/": {
     "group": "MAXTON HALL – DIE WELT ZWISCHEN UNS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/dark-matter/": {
@@ -8647,8 +8647,8 @@
   },
   "/dizi/killing-eve/": {
     "group": "KILLING EVE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/the-victim/": {
