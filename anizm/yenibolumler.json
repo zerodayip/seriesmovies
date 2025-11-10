@@ -1,4 +1,16 @@
 {
+  "/make-a-girl": {
+    "group": "MAKE A GIRL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dragon-raja-ii--the-mourners-eyes-": {
+    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
+    "last_season": 1,
+    "last_episode": 18.0,
+    "start_episode": 1
+  },
   "/mofa-gongzhu-de-xiao-fannao": {
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
@@ -87,18 +99,6 @@
     "group": "SPY X FAMILY SEASON 3",
     "last_season": 1,
     "last_episode": 6.0,
-    "start_episode": 1
-  },
-  "/ranma--2024-2nd-season": {
-    "group": "RANMA ½ (2024) 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 6.0,
-    "start_episode": 1
-  },
-  "/gnosia": {
-    "group": "GNOSIA",
-    "last_season": 1,
-    "last_episode": 5.0,
     "start_episode": 1
   }
 }
