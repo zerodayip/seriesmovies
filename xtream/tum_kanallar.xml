@@ -502,6 +502,45 @@
     <display-name>TABII TV</display-name>
   </channel>
 
+  <programme start="20251110074500 +0000" stop="20251110083300 +0000" channel="TABII TV">
+    <title>KUZENLERIM</title>
+  </programme>
+  <programme start="20251110083300 +0000" stop="20251110091400 +0000" channel="TABII TV">
+    <title>BIZIMKILER</title>
+  </programme>
+  <programme start="20251110091400 +0000" stop="20251110100200 +0000" channel="TABII TV">
+    <title>İBN-I SINA</title>
+  </programme>
+  <programme start="20251110100200 +0000" stop="20251110105500 +0000" channel="TABII TV">
+    <title>ÇIRAK</title>
+  </programme>
+  <programme start="20251110105500 +0000" stop="20251110132800 +0000" channel="TABII TV">
+    <title>MASUMLAR APARTMANI</title>
+  </programme>
+  <programme start="20251110132800 +0000" stop="20251110140900 +0000" channel="TABII TV">
+    <title>BIZIMKILER</title>
+  </programme>
+  <programme start="20251110140900 +0000" stop="20251110145800 +0000" channel="TABII TV">
+    <title>İBN-I SINA</title>
+  </programme>
+  <programme start="20251110145800 +0000" stop="20251110154600 +0000" channel="TABII TV">
+    <title>KUZENLERIM</title>
+  </programme>
+  <programme start="20251110154600 +0000" stop="20251110162700 +0000" channel="TABII TV">
+    <title>BIZIMKILER</title>
+  </programme>
+  <programme start="20251110162700 +0000" stop="20251110171500 +0000" channel="TABII TV">
+    <title>İBN-I SINA</title>
+  </programme>
+  <programme start="20251110171500 +0000" stop="20251110180800 +0000" channel="TABII TV">
+    <title>ÇIRAK</title>
+  </programme>
+  <programme start="20251110180800 +0000" stop="20251110204100 +0000" channel="TABII TV">
+    <title>MASUMLAR APARTMANI</title>
+  </programme>
+  <programme start="20251110204100 +0000" stop="20251110212800 +0000" channel="TABII TV">
+    <title>EN SON BABALAR DUYAR</title>
+  </programme>
   <channel id="4K TR: S NEMA YERL HD">
     <display-name>4K TR: S NEMA YERL HD</display-name>
   </channel>
@@ -6469,11 +6508,14 @@
   <programme start="20251110145500 +0000" stop="20251110150000 +0000" channel="4K TR: NTV HD">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110153500 +0000" channel="4K TR: NTV HD">
+  <programme start="20251110150000 +0000" stop="20251110150500 +0000" channel="4K TR: NTV HD">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20251110153500 +0000" stop="20251110154000 +0000" channel="4K TR: NTV HD">
+  <programme start="20251110150500 +0000" stop="20251110151000 +0000" channel="4K TR: NTV HD">
     <title>PIYASALAR</title>
+  </programme>
+  <programme start="20251110151000 +0000" stop="20251110154000 +0000" channel="4K TR: NTV HD">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110154000 +0000" stop="20251110154500 +0000" channel="4K TR: NTV HD">
     <title>UZMAN BAKIŞI</title>
@@ -6484,14 +6526,11 @@
   <programme start="20251110155500 +0000" stop="20251110160000 +0000" channel="4K TR: NTV HD">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110160000 +0000" stop="20251110161000 +0000" channel="4K TR: NTV HD">
+  <programme start="20251110160000 +0000" stop="20251110164500 +0000" channel="4K TR: NTV HD">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20251110161000 +0000" stop="20251110161500 +0000" channel="4K TR: NTV HD">
+  <programme start="20251110164500 +0000" stop="20251110165000 +0000" channel="4K TR: NTV HD">
     <title>PIYASALAR</title>
-  </programme>
-  <programme start="20251110161500 +0000" stop="20251110165000 +0000" channel="4K TR: NTV HD">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110165000 +0000" stop="20251110165500 +0000" channel="4K TR: NTV HD">
     <title>ANA HABER ÖZET</title>
@@ -6668,11 +6707,14 @@
   <programme start="20251110145500 +0000" stop="20251110150000 +0000" channel="NTV">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110153500 +0000" channel="NTV">
+  <programme start="20251110150000 +0000" stop="20251110150500 +0000" channel="NTV">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20251110153500 +0000" stop="20251110154000 +0000" channel="NTV">
+  <programme start="20251110150500 +0000" stop="20251110151000 +0000" channel="NTV">
     <title>PIYASALAR</title>
+  </programme>
+  <programme start="20251110151000 +0000" stop="20251110154000 +0000" channel="NTV">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110154000 +0000" stop="20251110154500 +0000" channel="NTV">
     <title>UZMAN BAKIŞI</title>
@@ -6683,14 +6725,11 @@
   <programme start="20251110155500 +0000" stop="20251110160000 +0000" channel="NTV">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110160000 +0000" stop="20251110161000 +0000" channel="NTV">
+  <programme start="20251110160000 +0000" stop="20251110164500 +0000" channel="NTV">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20251110161000 +0000" stop="20251110161500 +0000" channel="NTV">
+  <programme start="20251110164500 +0000" stop="20251110165000 +0000" channel="NTV">
     <title>PIYASALAR</title>
-  </programme>
-  <programme start="20251110161500 +0000" stop="20251110165000 +0000" channel="NTV">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110165000 +0000" stop="20251110165500 +0000" channel="NTV">
     <title>ANA HABER ÖZET</title>
@@ -6867,11 +6906,14 @@
   <programme start="20251110145500 +0000" stop="20251110150000 +0000" channel="NTV HABER">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110153500 +0000" channel="NTV HABER">
+  <programme start="20251110150000 +0000" stop="20251110150500 +0000" channel="NTV HABER">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20251110153500 +0000" stop="20251110154000 +0000" channel="NTV HABER">
+  <programme start="20251110150500 +0000" stop="20251110151000 +0000" channel="NTV HABER">
     <title>PIYASALAR</title>
+  </programme>
+  <programme start="20251110151000 +0000" stop="20251110154000 +0000" channel="NTV HABER">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110154000 +0000" stop="20251110154500 +0000" channel="NTV HABER">
     <title>UZMAN BAKIŞI</title>
@@ -6882,14 +6924,11 @@
   <programme start="20251110155500 +0000" stop="20251110160000 +0000" channel="NTV HABER">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110160000 +0000" stop="20251110161000 +0000" channel="NTV HABER">
+  <programme start="20251110160000 +0000" stop="20251110164500 +0000" channel="NTV HABER">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20251110161000 +0000" stop="20251110161500 +0000" channel="NTV HABER">
+  <programme start="20251110164500 +0000" stop="20251110165000 +0000" channel="NTV HABER">
     <title>PIYASALAR</title>
-  </programme>
-  <programme start="20251110161500 +0000" stop="20251110165000 +0000" channel="NTV HABER">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110165000 +0000" stop="20251110165500 +0000" channel="NTV HABER">
     <title>ANA HABER ÖZET</title>
@@ -7066,11 +7105,14 @@
   <programme start="20251110145500 +0000" stop="20251110150000 +0000" channel="NTV HABER HD">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110153500 +0000" channel="NTV HABER HD">
+  <programme start="20251110150000 +0000" stop="20251110150500 +0000" channel="NTV HABER HD">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20251110153500 +0000" stop="20251110154000 +0000" channel="NTV HABER HD">
+  <programme start="20251110150500 +0000" stop="20251110151000 +0000" channel="NTV HABER HD">
     <title>PIYASALAR</title>
+  </programme>
+  <programme start="20251110151000 +0000" stop="20251110154000 +0000" channel="NTV HABER HD">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110154000 +0000" stop="20251110154500 +0000" channel="NTV HABER HD">
     <title>UZMAN BAKIŞI</title>
@@ -7081,14 +7123,11 @@
   <programme start="20251110155500 +0000" stop="20251110160000 +0000" channel="NTV HABER HD">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110160000 +0000" stop="20251110161000 +0000" channel="NTV HABER HD">
+  <programme start="20251110160000 +0000" stop="20251110164500 +0000" channel="NTV HABER HD">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20251110161000 +0000" stop="20251110161500 +0000" channel="NTV HABER HD">
+  <programme start="20251110164500 +0000" stop="20251110165000 +0000" channel="NTV HABER HD">
     <title>PIYASALAR</title>
-  </programme>
-  <programme start="20251110161500 +0000" stop="20251110165000 +0000" channel="NTV HABER HD">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110165000 +0000" stop="20251110165500 +0000" channel="NTV HABER HD">
     <title>ANA HABER ÖZET</title>
@@ -7265,11 +7304,14 @@
   <programme start="20251110145500 +0000" stop="20251110150000 +0000" channel="NTV HABER HEVC">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110153500 +0000" channel="NTV HABER HEVC">
+  <programme start="20251110150000 +0000" stop="20251110150500 +0000" channel="NTV HABER HEVC">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20251110153500 +0000" stop="20251110154000 +0000" channel="NTV HABER HEVC">
+  <programme start="20251110150500 +0000" stop="20251110151000 +0000" channel="NTV HABER HEVC">
     <title>PIYASALAR</title>
+  </programme>
+  <programme start="20251110151000 +0000" stop="20251110154000 +0000" channel="NTV HABER HEVC">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110154000 +0000" stop="20251110154500 +0000" channel="NTV HABER HEVC">
     <title>UZMAN BAKIŞI</title>
@@ -7280,14 +7322,11 @@
   <programme start="20251110155500 +0000" stop="20251110160000 +0000" channel="NTV HABER HEVC">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110160000 +0000" stop="20251110161000 +0000" channel="NTV HABER HEVC">
+  <programme start="20251110160000 +0000" stop="20251110164500 +0000" channel="NTV HABER HEVC">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20251110161000 +0000" stop="20251110161500 +0000" channel="NTV HABER HEVC">
+  <programme start="20251110164500 +0000" stop="20251110165000 +0000" channel="NTV HABER HEVC">
     <title>PIYASALAR</title>
-  </programme>
-  <programme start="20251110161500 +0000" stop="20251110165000 +0000" channel="NTV HABER HEVC">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110165000 +0000" stop="20251110165500 +0000" channel="NTV HABER HEVC">
     <title>ANA HABER ÖZET</title>
@@ -7464,11 +7503,14 @@
   <programme start="20251110145500 +0000" stop="20251110150000 +0000" channel="NTV HD">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110153500 +0000" channel="NTV HD">
+  <programme start="20251110150000 +0000" stop="20251110150500 +0000" channel="NTV HD">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20251110153500 +0000" stop="20251110154000 +0000" channel="NTV HD">
+  <programme start="20251110150500 +0000" stop="20251110151000 +0000" channel="NTV HD">
     <title>PIYASALAR</title>
+  </programme>
+  <programme start="20251110151000 +0000" stop="20251110154000 +0000" channel="NTV HD">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110154000 +0000" stop="20251110154500 +0000" channel="NTV HD">
     <title>UZMAN BAKIŞI</title>
@@ -7479,14 +7521,11 @@
   <programme start="20251110155500 +0000" stop="20251110160000 +0000" channel="NTV HD">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110160000 +0000" stop="20251110161000 +0000" channel="NTV HD">
+  <programme start="20251110160000 +0000" stop="20251110164500 +0000" channel="NTV HD">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20251110161000 +0000" stop="20251110161500 +0000" channel="NTV HD">
+  <programme start="20251110164500 +0000" stop="20251110165000 +0000" channel="NTV HD">
     <title>PIYASALAR</title>
-  </programme>
-  <programme start="20251110161500 +0000" stop="20251110165000 +0000" channel="NTV HD">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110165000 +0000" stop="20251110165500 +0000" channel="NTV HD">
     <title>ANA HABER ÖZET</title>
@@ -7663,11 +7702,14 @@
   <programme start="20251110145500 +0000" stop="20251110150000 +0000" channel="NTV RAW">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110153500 +0000" channel="NTV RAW">
+  <programme start="20251110150000 +0000" stop="20251110150500 +0000" channel="NTV RAW">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20251110153500 +0000" stop="20251110154000 +0000" channel="NTV RAW">
+  <programme start="20251110150500 +0000" stop="20251110151000 +0000" channel="NTV RAW">
     <title>PIYASALAR</title>
+  </programme>
+  <programme start="20251110151000 +0000" stop="20251110154000 +0000" channel="NTV RAW">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110154000 +0000" stop="20251110154500 +0000" channel="NTV RAW">
     <title>UZMAN BAKIŞI</title>
@@ -7678,14 +7720,11 @@
   <programme start="20251110155500 +0000" stop="20251110160000 +0000" channel="NTV RAW">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110160000 +0000" stop="20251110161000 +0000" channel="NTV RAW">
+  <programme start="20251110160000 +0000" stop="20251110164500 +0000" channel="NTV RAW">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20251110161000 +0000" stop="20251110161500 +0000" channel="NTV RAW">
+  <programme start="20251110164500 +0000" stop="20251110165000 +0000" channel="NTV RAW">
     <title>PIYASALAR</title>
-  </programme>
-  <programme start="20251110161500 +0000" stop="20251110165000 +0000" channel="NTV RAW">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110165000 +0000" stop="20251110165500 +0000" channel="NTV RAW">
     <title>ANA HABER ÖZET</title>
@@ -7862,11 +7901,14 @@
   <programme start="20251110145500 +0000" stop="20251110150000 +0000" channel="NTV SD">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110150000 +0000" stop="20251110153500 +0000" channel="NTV SD">
+  <programme start="20251110150000 +0000" stop="20251110150500 +0000" channel="NTV SD">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20251110153500 +0000" stop="20251110154000 +0000" channel="NTV SD">
+  <programme start="20251110150500 +0000" stop="20251110151000 +0000" channel="NTV SD">
     <title>PIYASALAR</title>
+  </programme>
+  <programme start="20251110151000 +0000" stop="20251110154000 +0000" channel="NTV SD">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110154000 +0000" stop="20251110154500 +0000" channel="NTV SD">
     <title>UZMAN BAKIŞI</title>
@@ -7877,14 +7919,11 @@
   <programme start="20251110155500 +0000" stop="20251110160000 +0000" channel="NTV SD">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20251110160000 +0000" stop="20251110161000 +0000" channel="NTV SD">
+  <programme start="20251110160000 +0000" stop="20251110164500 +0000" channel="NTV SD">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20251110161000 +0000" stop="20251110161500 +0000" channel="NTV SD">
+  <programme start="20251110164500 +0000" stop="20251110165000 +0000" channel="NTV SD">
     <title>PIYASALAR</title>
-  </programme>
-  <programme start="20251110161500 +0000" stop="20251110165000 +0000" channel="NTV SD">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20251110165000 +0000" stop="20251110165500 +0000" channel="NTV SD">
     <title>ANA HABER ÖZET</title>
@@ -9505,14 +9544,20 @@
   <programme start="20251110080000 +0000" stop="20251110081500 +0000" channel="4K TR: BLOOMBERG HT HD">
     <title>GRAFIK DÜELLOSU</title>
   </programme>
-  <programme start="20251110081500 +0000" stop="20251110093000 +0000" channel="4K TR: BLOOMBERG HT HD">
+  <programme start="20251110081500 +0000" stop="20251110090000 +0000" channel="4K TR: BLOOMBERG HT HD">
     <title>FOKUS</title>
+  </programme>
+  <programme start="20251110090000 +0000" stop="20251110093000 +0000" channel="4K TR: BLOOMBERG HT HD">
+    <title>OTOMOTIV ZIRVESI</title>
   </programme>
   <programme start="20251110093000 +0000" stop="20251110100000 +0000" channel="4K TR: BLOOMBERG HT HD">
     <title>AILE EKONOMISI</title>
   </programme>
-  <programme start="20251110100000 +0000" stop="20251110110000 +0000" channel="4K TR: BLOOMBERG HT HD">
+  <programme start="20251110100000 +0000" stop="20251110103000 +0000" channel="4K TR: BLOOMBERG HT HD">
     <title>FON SAATI</title>
+  </programme>
+  <programme start="20251110103000 +0000" stop="20251110110000 +0000" channel="4K TR: BLOOMBERG HT HD">
+    <title>VARLIK YÖNETIMI</title>
   </programme>
   <programme start="20251110110000 +0000" stop="20251110114500 +0000" channel="4K TR: BLOOMBERG HT HD">
     <title>PIYASA HATTI</title>
@@ -9544,8 +9589,11 @@
   <programme start="20251110180000 +0000" stop="20251110190000 +0000" channel="4K TR: BLOOMBERG HT HD">
     <title>EKONOMIK GÖRÜNÜM</title>
   </programme>
-  <programme start="20251110190000 +0000" stop="20251110213000 +0000" channel="4K TR: BLOOMBERG HT HD">
+  <programme start="20251110190000 +0000" stop="20251110201000 +0000" channel="4K TR: BLOOMBERG HT HD">
     <title>KÜRESEL PIYASALAR</title>
+  </programme>
+  <programme start="20251110201000 +0000" stop="20251110213000 +0000" channel="4K TR: BLOOMBERG HT HD">
+    <title>SPOR KULÜBÜ</title>
   </programme>
   <channel id="BLOOMBERG HT">
     <display-name>BLOOMBERG HT</display-name>
@@ -9605,14 +9653,20 @@
   <programme start="20251110080000 +0000" stop="20251110081500 +0000" channel="BLOOMBERG HT">
     <title>GRAFIK DÜELLOSU</title>
   </programme>
-  <programme start="20251110081500 +0000" stop="20251110093000 +0000" channel="BLOOMBERG HT">
+  <programme start="20251110081500 +0000" stop="20251110090000 +0000" channel="BLOOMBERG HT">
     <title>FOKUS</title>
+  </programme>
+  <programme start="20251110090000 +0000" stop="20251110093000 +0000" channel="BLOOMBERG HT">
+    <title>OTOMOTIV ZIRVESI</title>
   </programme>
   <programme start="20251110093000 +0000" stop="20251110100000 +0000" channel="BLOOMBERG HT">
     <title>AILE EKONOMISI</title>
   </programme>
-  <programme start="20251110100000 +0000" stop="20251110110000 +0000" channel="BLOOMBERG HT">
+  <programme start="20251110100000 +0000" stop="20251110103000 +0000" channel="BLOOMBERG HT">
     <title>FON SAATI</title>
+  </programme>
+  <programme start="20251110103000 +0000" stop="20251110110000 +0000" channel="BLOOMBERG HT">
+    <title>VARLIK YÖNETIMI</title>
   </programme>
   <programme start="20251110110000 +0000" stop="20251110114500 +0000" channel="BLOOMBERG HT">
     <title>PIYASA HATTI</title>
@@ -9644,8 +9698,11 @@
   <programme start="20251110180000 +0000" stop="20251110190000 +0000" channel="BLOOMBERG HT">
     <title>EKONOMIK GÖRÜNÜM</title>
   </programme>
-  <programme start="20251110190000 +0000" stop="20251110213000 +0000" channel="BLOOMBERG HT">
+  <programme start="20251110190000 +0000" stop="20251110201000 +0000" channel="BLOOMBERG HT">
     <title>KÜRESEL PIYASALAR</title>
+  </programme>
+  <programme start="20251110201000 +0000" stop="20251110213000 +0000" channel="BLOOMBERG HT">
+    <title>SPOR KULÜBÜ</title>
   </programme>
   <channel id="BLOOMBERG HT HD">
     <display-name>BLOOMBERG HT HD</display-name>
@@ -9705,14 +9762,20 @@
   <programme start="20251110080000 +0000" stop="20251110081500 +0000" channel="BLOOMBERG HT HD">
     <title>GRAFIK DÜELLOSU</title>
   </programme>
-  <programme start="20251110081500 +0000" stop="20251110093000 +0000" channel="BLOOMBERG HT HD">
+  <programme start="20251110081500 +0000" stop="20251110090000 +0000" channel="BLOOMBERG HT HD">
     <title>FOKUS</title>
+  </programme>
+  <programme start="20251110090000 +0000" stop="20251110093000 +0000" channel="BLOOMBERG HT HD">
+    <title>OTOMOTIV ZIRVESI</title>
   </programme>
   <programme start="20251110093000 +0000" stop="20251110100000 +0000" channel="BLOOMBERG HT HD">
     <title>AILE EKONOMISI</title>
   </programme>
-  <programme start="20251110100000 +0000" stop="20251110110000 +0000" channel="BLOOMBERG HT HD">
+  <programme start="20251110100000 +0000" stop="20251110103000 +0000" channel="BLOOMBERG HT HD">
     <title>FON SAATI</title>
+  </programme>
+  <programme start="20251110103000 +0000" stop="20251110110000 +0000" channel="BLOOMBERG HT HD">
+    <title>VARLIK YÖNETIMI</title>
   </programme>
   <programme start="20251110110000 +0000" stop="20251110114500 +0000" channel="BLOOMBERG HT HD">
     <title>PIYASA HATTI</title>
@@ -9744,8 +9807,11 @@
   <programme start="20251110180000 +0000" stop="20251110190000 +0000" channel="BLOOMBERG HT HD">
     <title>EKONOMIK GÖRÜNÜM</title>
   </programme>
-  <programme start="20251110190000 +0000" stop="20251110213000 +0000" channel="BLOOMBERG HT HD">
+  <programme start="20251110190000 +0000" stop="20251110201000 +0000" channel="BLOOMBERG HT HD">
     <title>KÜRESEL PIYASALAR</title>
+  </programme>
+  <programme start="20251110201000 +0000" stop="20251110213000 +0000" channel="BLOOMBERG HT HD">
+    <title>SPOR KULÜBÜ</title>
   </programme>
   <channel id="BLOOMBERG HT HD+ SD">
     <display-name>BLOOMBERG HT HD+ SD</display-name>
@@ -9805,14 +9871,20 @@
   <programme start="20251110080000 +0000" stop="20251110081500 +0000" channel="BLOOMBERG HT HD+ SD">
     <title>GRAFIK DÜELLOSU</title>
   </programme>
-  <programme start="20251110081500 +0000" stop="20251110093000 +0000" channel="BLOOMBERG HT HD+ SD">
+  <programme start="20251110081500 +0000" stop="20251110090000 +0000" channel="BLOOMBERG HT HD+ SD">
     <title>FOKUS</title>
+  </programme>
+  <programme start="20251110090000 +0000" stop="20251110093000 +0000" channel="BLOOMBERG HT HD+ SD">
+    <title>OTOMOTIV ZIRVESI</title>
   </programme>
   <programme start="20251110093000 +0000" stop="20251110100000 +0000" channel="BLOOMBERG HT HD+ SD">
     <title>AILE EKONOMISI</title>
   </programme>
-  <programme start="20251110100000 +0000" stop="20251110110000 +0000" channel="BLOOMBERG HT HD+ SD">
+  <programme start="20251110100000 +0000" stop="20251110103000 +0000" channel="BLOOMBERG HT HD+ SD">
     <title>FON SAATI</title>
+  </programme>
+  <programme start="20251110103000 +0000" stop="20251110110000 +0000" channel="BLOOMBERG HT HD+ SD">
+    <title>VARLIK YÖNETIMI</title>
   </programme>
   <programme start="20251110110000 +0000" stop="20251110114500 +0000" channel="BLOOMBERG HT HD+ SD">
     <title>PIYASA HATTI</title>
@@ -9844,8 +9916,11 @@
   <programme start="20251110180000 +0000" stop="20251110190000 +0000" channel="BLOOMBERG HT HD+ SD">
     <title>EKONOMIK GÖRÜNÜM</title>
   </programme>
-  <programme start="20251110190000 +0000" stop="20251110213000 +0000" channel="BLOOMBERG HT HD+ SD">
+  <programme start="20251110190000 +0000" stop="20251110201000 +0000" channel="BLOOMBERG HT HD+ SD">
     <title>KÜRESEL PIYASALAR</title>
+  </programme>
+  <programme start="20251110201000 +0000" stop="20251110213000 +0000" channel="BLOOMBERG HT HD+ SD">
+    <title>SPOR KULÜBÜ</title>
   </programme>
   <channel id="BLOOMBERG">
     <display-name>BLOOMBERG</display-name>
@@ -9905,14 +9980,20 @@
   <programme start="20251110080000 +0000" stop="20251110081500 +0000" channel="BLOOMBERG">
     <title>GRAFIK DÜELLOSU</title>
   </programme>
-  <programme start="20251110081500 +0000" stop="20251110093000 +0000" channel="BLOOMBERG">
+  <programme start="20251110081500 +0000" stop="20251110090000 +0000" channel="BLOOMBERG">
     <title>FOKUS</title>
+  </programme>
+  <programme start="20251110090000 +0000" stop="20251110093000 +0000" channel="BLOOMBERG">
+    <title>OTOMOTIV ZIRVESI</title>
   </programme>
   <programme start="20251110093000 +0000" stop="20251110100000 +0000" channel="BLOOMBERG">
     <title>AILE EKONOMISI</title>
   </programme>
-  <programme start="20251110100000 +0000" stop="20251110110000 +0000" channel="BLOOMBERG">
+  <programme start="20251110100000 +0000" stop="20251110103000 +0000" channel="BLOOMBERG">
     <title>FON SAATI</title>
+  </programme>
+  <programme start="20251110103000 +0000" stop="20251110110000 +0000" channel="BLOOMBERG">
+    <title>VARLIK YÖNETIMI</title>
   </programme>
   <programme start="20251110110000 +0000" stop="20251110114500 +0000" channel="BLOOMBERG">
     <title>PIYASA HATTI</title>
@@ -9944,8 +10025,11 @@
   <programme start="20251110180000 +0000" stop="20251110190000 +0000" channel="BLOOMBERG">
     <title>EKONOMIK GÖRÜNÜM</title>
   </programme>
-  <programme start="20251110190000 +0000" stop="20251110213000 +0000" channel="BLOOMBERG">
+  <programme start="20251110190000 +0000" stop="20251110201000 +0000" channel="BLOOMBERG">
     <title>KÜRESEL PIYASALAR</title>
+  </programme>
+  <programme start="20251110201000 +0000" stop="20251110213000 +0000" channel="BLOOMBERG">
+    <title>SPOR KULÜBÜ</title>
   </programme>
   <channel id="A PARA">
     <display-name>A PARA</display-name>
@@ -13085,10 +13169,10 @@
   <programme start="20251110055500 +0000" stop="20251110100000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110100000 +0000" stop="20251110120000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>BINICILIK ATATÜRK'Ü ANMA KUPASI ENGEL ATLAMA YARIŞLARI</title>
+  <programme start="20251110105500 +0000" stop="20251110135500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110120000 +0000" stop="20251110190000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251110135500 +0000" stop="20251110190000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
   <programme start="20251110190000 +0000" stop="20251110191000 +0000" channel="4K TR: TRT SPOR YILDIZ">
@@ -13097,14 +13181,8 @@
   <programme start="20251110191000 +0000" stop="20251110192500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>OYUNU BAŞLATANLAR</title>
   </programme>
-  <programme start="20251110192500 +0000" stop="20251110195000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>YENILMEZ</title>
-  </programme>
-  <programme start="20251110195000 +0000" stop="20251110201500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>SPORUN İKONLARI</title>
-  </programme>
-  <programme start="20251110201500 +0000" stop="20251110210000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>41. DAKIKA</title>
+  <programme start="20251110192500 +0000" stop="20251110210500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ATATÜRK'Ü ANMA KUPASI ENGEL ATLAMA YARIŞLARI</title>
   </programme>
   <channel id="TRT SPOR YILDIZ">
     <display-name>TRT SPOR YILDIZ</display-name>
@@ -13161,10 +13239,10 @@
   <programme start="20251110055500 +0000" stop="20251110100000 +0000" channel="TRT SPOR YILDIZ">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110100000 +0000" stop="20251110120000 +0000" channel="TRT SPOR YILDIZ">
-    <title>BINICILIK ATATÜRK'Ü ANMA KUPASI ENGEL ATLAMA YARIŞLARI</title>
+  <programme start="20251110105500 +0000" stop="20251110135500 +0000" channel="TRT SPOR YILDIZ">
+    <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110120000 +0000" stop="20251110190000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251110135500 +0000" stop="20251110190000 +0000" channel="TRT SPOR YILDIZ">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
   <programme start="20251110190000 +0000" stop="20251110191000 +0000" channel="TRT SPOR YILDIZ">
@@ -13173,14 +13251,8 @@
   <programme start="20251110191000 +0000" stop="20251110192500 +0000" channel="TRT SPOR YILDIZ">
     <title>OYUNU BAŞLATANLAR</title>
   </programme>
-  <programme start="20251110192500 +0000" stop="20251110195000 +0000" channel="TRT SPOR YILDIZ">
-    <title>YENILMEZ</title>
-  </programme>
-  <programme start="20251110195000 +0000" stop="20251110201500 +0000" channel="TRT SPOR YILDIZ">
-    <title>SPORUN İKONLARI</title>
-  </programme>
-  <programme start="20251110201500 +0000" stop="20251110210000 +0000" channel="TRT SPOR YILDIZ">
-    <title>41. DAKIKA</title>
+  <programme start="20251110192500 +0000" stop="20251110210500 +0000" channel="TRT SPOR YILDIZ">
+    <title>ATATÜRK'Ü ANMA KUPASI ENGEL ATLAMA YARIŞLARI</title>
   </programme>
   <channel id="TRT SPOR YILDIZ HD">
     <display-name>TRT SPOR YILDIZ HD</display-name>
@@ -13237,10 +13309,10 @@
   <programme start="20251110055500 +0000" stop="20251110100000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110100000 +0000" stop="20251110120000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>BINICILIK ATATÜRK'Ü ANMA KUPASI ENGEL ATLAMA YARIŞLARI</title>
+  <programme start="20251110105500 +0000" stop="20251110135500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110120000 +0000" stop="20251110190000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251110135500 +0000" stop="20251110190000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
   <programme start="20251110190000 +0000" stop="20251110191000 +0000" channel="TRT SPOR YILDIZ HD">
@@ -13249,14 +13321,8 @@
   <programme start="20251110191000 +0000" stop="20251110192500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>OYUNU BAŞLATANLAR</title>
   </programme>
-  <programme start="20251110192500 +0000" stop="20251110195000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>YENILMEZ</title>
-  </programme>
-  <programme start="20251110195000 +0000" stop="20251110201500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SPORUN İKONLARI</title>
-  </programme>
-  <programme start="20251110201500 +0000" stop="20251110210000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>41. DAKIKA</title>
+  <programme start="20251110192500 +0000" stop="20251110210500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ATATÜRK'Ü ANMA KUPASI ENGEL ATLAMA YARIŞLARI</title>
   </programme>
   <channel id="TRT SPOR YILDIZ HEVC">
     <display-name>TRT SPOR YILDIZ HEVC</display-name>
@@ -13313,10 +13379,10 @@
   <programme start="20251110055500 +0000" stop="20251110100000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110100000 +0000" stop="20251110120000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>BINICILIK ATATÜRK'Ü ANMA KUPASI ENGEL ATLAMA YARIŞLARI</title>
+  <programme start="20251110105500 +0000" stop="20251110135500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110120000 +0000" stop="20251110190000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251110135500 +0000" stop="20251110190000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
   <programme start="20251110190000 +0000" stop="20251110191000 +0000" channel="TRT SPOR YILDIZ HEVC">
@@ -13325,14 +13391,8 @@
   <programme start="20251110191000 +0000" stop="20251110192500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>OYUNU BAŞLATANLAR</title>
   </programme>
-  <programme start="20251110192500 +0000" stop="20251110195000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>YENILMEZ</title>
-  </programme>
-  <programme start="20251110195000 +0000" stop="20251110201500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SPORUN İKONLARI</title>
-  </programme>
-  <programme start="20251110201500 +0000" stop="20251110210000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>41. DAKIKA</title>
+  <programme start="20251110192500 +0000" stop="20251110210500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ATATÜRK'Ü ANMA KUPASI ENGEL ATLAMA YARIŞLARI</title>
   </programme>
   <channel id="TRT SPOR YILDIZ RAW">
     <display-name>TRT SPOR YILDIZ RAW</display-name>
@@ -13389,10 +13449,10 @@
   <programme start="20251110055500 +0000" stop="20251110100000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110100000 +0000" stop="20251110120000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>BINICILIK ATATÜRK'Ü ANMA KUPASI ENGEL ATLAMA YARIŞLARI</title>
+  <programme start="20251110105500 +0000" stop="20251110135500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
-  <programme start="20251110120000 +0000" stop="20251110190000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251110135500 +0000" stop="20251110190000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>6. İSLAMI DAYANIŞMA OYUNLARI</title>
   </programme>
   <programme start="20251110190000 +0000" stop="20251110191000 +0000" channel="TRT SPOR YILDIZ RAW">
@@ -13401,14 +13461,8 @@
   <programme start="20251110191000 +0000" stop="20251110192500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>OYUNU BAŞLATANLAR</title>
   </programme>
-  <programme start="20251110192500 +0000" stop="20251110195000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>YENILMEZ</title>
-  </programme>
-  <programme start="20251110195000 +0000" stop="20251110201500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SPORUN İKONLARI</title>
-  </programme>
-  <programme start="20251110201500 +0000" stop="20251110210000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>41. DAKIKA</title>
+  <programme start="20251110192500 +0000" stop="20251110210500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ATATÜRK'Ü ANMA KUPASI ENGEL ATLAMA YARIŞLARI</title>
   </programme>
   <channel id="4K TR: A SPOR HD">
     <display-name>4K TR: A SPOR HD</display-name>
@@ -13699,10 +13753,10 @@
   <programme start="20251110080000 +0000" stop="20251110093000 +0000" channel="HT SPOR HD">
     <title>HT SPOR GÜNDEM</title>
   </programme>
-  <programme start="20251110093000 +0000" stop="20251110100000 +0000" channel="HT SPOR HD">
+  <programme start="20251110093000 +0000" stop="20251110103000 +0000" channel="HT SPOR HD">
     <title>KÜRSÜ</title>
   </programme>
-  <programme start="20251110100000 +0000" stop="20251110120000 +0000" channel="HT SPOR HD">
+  <programme start="20251110103000 +0000" stop="20251110120000 +0000" channel="HT SPOR HD">
     <title>BAKIŞ AÇISI</title>
   </programme>
   <programme start="20251110120000 +0000" stop="20251110150000 +0000" channel="HT SPOR HD">
@@ -13748,10 +13802,10 @@
   <programme start="20251110080000 +0000" stop="20251110093000 +0000" channel="HT SPOR">
     <title>HT SPOR GÜNDEM</title>
   </programme>
-  <programme start="20251110093000 +0000" stop="20251110100000 +0000" channel="HT SPOR">
+  <programme start="20251110093000 +0000" stop="20251110103000 +0000" channel="HT SPOR">
     <title>KÜRSÜ</title>
   </programme>
-  <programme start="20251110100000 +0000" stop="20251110120000 +0000" channel="HT SPOR">
+  <programme start="20251110103000 +0000" stop="20251110120000 +0000" channel="HT SPOR">
     <title>BAKIŞ AÇISI</title>
   </programme>
   <programme start="20251110120000 +0000" stop="20251110150000 +0000" channel="HT SPOR">
@@ -27034,7 +27088,7 @@
   <programme start="20251110204000 +0000" stop="20251110205000 +0000" channel="TRT DIYANET COCUK">
     <title>ZEKICE İŞLER</title>
   </programme>
-  <programme start="20251110205000 +0000" stop="20251110210500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251110205000 +0000" stop="20251110210000 +0000" channel="TRT DIYANET COCUK">
     <title>FÜLFÜL HAC YOLUNDA</title>
   </programme>
   <channel id="TRT DİYANET ÇOCUK">
@@ -27389,7 +27443,7 @@
   <programme start="20251110204000 +0000" stop="20251110205000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>ZEKICE İŞLER</title>
   </programme>
-  <programme start="20251110205000 +0000" stop="20251110210500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251110205000 +0000" stop="20251110210000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>FÜLFÜL HAC YOLUNDA</title>
   </programme>
   <channel id="TRT DIYANET COCUK">
@@ -27744,7 +27798,7 @@
   <programme start="20251110204000 +0000" stop="20251110205000 +0000" channel="TRT DIYANET COCUK">
     <title>ZEKICE İŞLER</title>
   </programme>
-  <programme start="20251110205000 +0000" stop="20251110210500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251110205000 +0000" stop="20251110210000 +0000" channel="TRT DIYANET COCUK">
     <title>FÜLFÜL HAC YOLUNDA</title>
   </programme>
   <channel id="TRTDIYANETCOCUK">
@@ -28099,7 +28153,7 @@
   <programme start="20251110204000 +0000" stop="20251110205000 +0000" channel="TRTDIYANETCOCUK">
     <title>ZEKICE İŞLER</title>
   </programme>
-  <programme start="20251110205000 +0000" stop="20251110210500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251110205000 +0000" stop="20251110210000 +0000" channel="TRTDIYANETCOCUK">
     <title>FÜLFÜL HAC YOLUNDA</title>
   </programme>
   <channel id="CNN_INTERNATIONAL">
@@ -32467,8 +32521,14 @@
   <programme start="20251110150000 +0000" stop="20251110160000 +0000" channel="BI_KANAL">
     <title>SEVDAYA ESIR</title>
   </programme>
-  <programme start="20251110160000 +0000" stop="20251110210000 +0000" channel="BI_KANAL">
-    <title>LEYLIFER</title>
+  <programme start="20251110160000 +0000" stop="20251110183000 +0000" channel="BI_KANAL">
+    <title>CAN BAĞI</title>
+  </programme>
+  <programme start="20251110183000 +0000" stop="20251110200000 +0000" channel="BI_KANAL">
+    <title>KUTUP FELAKETI</title>
+  </programme>
+  <programme start="20251110200000 +0000" stop="20251110210000 +0000" channel="BI_KANAL">
+    <title>LIG ÖZETLERI</title>
   </programme>
   <channel id="4K TR: MELTEM TV">
     <display-name>4K TR: MELTEM TV</display-name>
