@@ -458,7 +458,7 @@
   "/diziler/nice-to-not-meet-you.html": {
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/the-manipulated.html": {
@@ -16106,7 +16106,7 @@
   "/diziler/bat-fam.html": {
     "group": "BAT-FAM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   }
 }
