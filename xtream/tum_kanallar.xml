@@ -908,8 +908,8 @@
   <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="TRT 1">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251111160000 +0000" stop="20251111165500 +0000" channel="TRT 1">
     <title>ANA HABER</title>
@@ -957,8 +957,8 @@
   <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1 4K">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1 4K">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="TRT 1 4K">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251111160000 +0000" stop="20251111165500 +0000" channel="TRT 1 4K">
     <title>ANA HABER</title>
@@ -1006,8 +1006,8 @@
   <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1 HD">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1 HD">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="TRT 1 HD">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251111160000 +0000" stop="20251111165500 +0000" channel="TRT 1 HD">
     <title>ANA HABER</title>
@@ -1055,8 +1055,8 @@
   <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1 FHD">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1 FHD">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="TRT 1 FHD">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251111160000 +0000" stop="20251111165500 +0000" channel="TRT 1 FHD">
     <title>ANA HABER</title>
@@ -1104,8 +1104,8 @@
   <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1 HEVC">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1 HEVC">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="TRT 1 HEVC">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251111160000 +0000" stop="20251111165500 +0000" channel="TRT 1 HEVC">
     <title>ANA HABER</title>
@@ -1153,8 +1153,8 @@
   <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1 RAW">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1 RAW">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="TRT 1 RAW">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251111160000 +0000" stop="20251111165500 +0000" channel="TRT 1 RAW">
     <title>ANA HABER</title>
@@ -1202,8 +1202,8 @@
   <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1 SD">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1 SD">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="TRT 1 SD">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251111160000 +0000" stop="20251111165500 +0000" channel="TRT 1 SD">
     <title>ANA HABER</title>
@@ -1498,7 +1498,7 @@
   <programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="4K TR: STAR TV HD">
     <title>STAR HABER</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="4K TR: STAR TV HD">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="4K TR: STAR TV HD">
     <title>KRAL KAYBEDERSE</title>
   </programme>
   <channel id="STAR TV">
@@ -1526,7 +1526,7 @@
   <programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="STAR TV">
     <title>STAR HABER</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="STAR TV">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="STAR TV">
     <title>KRAL KAYBEDERSE</title>
   </programme>
   <channel id="STAR TV FHD">
@@ -1554,7 +1554,7 @@
   <programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="STAR TV FHD">
     <title>STAR HABER</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="STAR TV FHD">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="STAR TV FHD">
     <title>KRAL KAYBEDERSE</title>
   </programme>
   <channel id="STAR TV HD">
@@ -1582,7 +1582,7 @@
   <programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="STAR TV HD">
     <title>STAR HABER</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="STAR TV HD">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="STAR TV HD">
     <title>KRAL KAYBEDERSE</title>
   </programme>
   <channel id="STAR TV HEVC">
@@ -1610,7 +1610,7 @@
   <programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="STAR TV HEVC">
     <title>STAR HABER</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="STAR TV HEVC">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="STAR TV HEVC">
     <title>KRAL KAYBEDERSE</title>
   </programme>
   <channel id="STAR TV RAW">
@@ -1638,7 +1638,7 @@
   <programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="STAR TV RAW">
     <title>STAR HABER</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="STAR TV RAW">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="STAR TV RAW">
     <title>KRAL KAYBEDERSE</title>
   </programme>
   <channel id="4K TR: ATV HD">
@@ -2124,7 +2124,7 @@
     <title>KISKANMAK</title>
   </programme>
   <programme start="20251111203000 +0000" stop="20251111230000 +0000" channel="4K TR: NOW HD">
-    <title>BEN ONUN ANNESIYIM</title>
+    <title>SAHTEKARLAR</title>
   </programme>
   <channel id="NOW TV FHD">
     <display-name>NOW TV FHD</display-name>
@@ -2167,7 +2167,7 @@
     <title>KISKANMAK</title>
   </programme>
   <programme start="20251111203000 +0000" stop="20251111230000 +0000" channel="NOW TV FHD">
-    <title>BEN ONUN ANNESIYIM</title>
+    <title>SAHTEKARLAR</title>
   </programme>
   <channel id="NOW TV HD">
     <display-name>NOW TV HD</display-name>
@@ -2210,7 +2210,7 @@
     <title>KISKANMAK</title>
   </programme>
   <programme start="20251111203000 +0000" stop="20251111230000 +0000" channel="NOW TV HD">
-    <title>BEN ONUN ANNESIYIM</title>
+    <title>SAHTEKARLAR</title>
   </programme>
   <channel id="NOW TV">
     <display-name>NOW TV</display-name>
@@ -2253,7 +2253,7 @@
     <title>KISKANMAK</title>
   </programme>
   <programme start="20251111203000 +0000" stop="20251111230000 +0000" channel="NOW TV">
-    <title>BEN ONUN ANNESIYIM</title>
+    <title>SAHTEKARLAR</title>
   </programme>
   <channel id="4K TR: TV8 HD">
     <display-name>4K TR: TV8 HD</display-name>
@@ -32315,44 +32315,29 @@
   <programme start="20251111124500 +0000" stop="20251111134500 +0000" channel="TMB_TV">
     <title>FANUSTA NE VAR?</title>
   </programme>
-  <programme start="20251111134500 +0000" stop="20251111141500 +0000" channel="TMB_TV">
-    <title>MÜZIK KUTUSU</title>
-  </programme>
-  <programme start="20251111141500 +0000" stop="20251111143000 +0000" channel="TMB_TV">
-    <title>TMB BELGESEL</title>
-  </programme>
   <programme start="20251111143000 +0000" stop="20251111144500 +0000" channel="TMB_TV">
     <title>HAFTANIN ETKINLIĞI</title>
   </programme>
-  <programme start="20251111144500 +0000" stop="20251111150000 +0000" channel="TMB_TV">
-    <title>YÖRESEL MUTFAKLAR</title>
-  </programme>
-  <programme start="20251111150000 +0000" stop="20251111153000 +0000" channel="TMB_TV">
-    <title>AZERBAYCAN ZAFER BELGESELI</title>
-  </programme>
-  <programme start="20251111153000 +0000" stop="20251111160000 +0000" channel="TMB_TV">
-    <title>TÜRK TARIHININ ALTIN ÇAĞI</title>
-  </programme>
-  <programme start="20251111160000 +0000" stop="20251111161500 +0000" channel="TMB_TV">
-    <title>YAŞATILAN DEĞERLERIMIZ</title>
-  </programme>
-  <programme start="20251111161500 +0000" stop="20251111164500 +0000" channel="TMB_TV">
-    <title>BILEN SÖYLESIN</title>
-  </programme>
-  <programme start="20251111164500 +0000" stop="20251111170000 +0000" channel="TMB_TV">
+  <programme start="20251111144500 +0000" stop="20251111153000 +0000" channel="TMB_TV">
     <title>TMB BELGESEL</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111171500 +0000" channel="TMB_TV">
-    <title>BU AÇIDAN BAK</title>
+  <programme start="20251111153000 +0000" stop="20251111154500 +0000" channel="TMB_TV">
+    <title>AYNAYA BAK</title>
   </programme>
-  <programme start="20251111171500 +0000" stop="20251111180000 +0000" channel="TMB_TV">
-    <title>BIZE HER YER TÜRKIYE</title>
+  <programme start="20251111154500 +0000" stop="20251111161500 +0000" channel="TMB_TV">
+    <title>TÜRK DÜNYASININ İZ BIRAKANLAR</title>
   </programme>
-  <programme start="20251111180000 +0000" stop="20251111194500 +0000" channel="TMB_TV">
+  <programme start="20251111161500 +0000" stop="20251111173000 +0000" channel="TMB_TV">
+    <title>YAŞATILAN DEĞERLERIMIZ</title>
+  </programme>
+  <programme start="20251111173000 +0000" stop="20251111183000 +0000" channel="TMB_TV">
     <title>GEZI PLANI</title>
   </programme>
-  <programme start="20251111194500 +0000" stop="20251111224500 +0000" channel="TMB_TV">
-    <title>TÜRKVIZYON</title>
+  <programme start="20251111183000 +0000" stop="20251111190000 +0000" channel="TMB_TV">
+    <title>MÜZIK KUTUSU</title>
+  </programme>
+  <programme start="20251111190000 +0000" stop="20251111214500 +0000" channel="TMB_TV">
+    <title>KONSER</title>
   </programme>
   <channel id="TİVİ6">
     <display-name>TİVİ6</display-name>
