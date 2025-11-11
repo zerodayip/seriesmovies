@@ -1,4 +1,16 @@
 {
+  "/diziler/robin-hood-2025.html": {
+    "group": "ROBIN HOOD 2025",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/diziler/high-potential.html": {
+    "group": "HIGH POTENTIAL",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/diziler/nice-to-not-meet-you.html": {
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
@@ -69,12 +81,6 @@
     "group": "TYPHOON FAMILY",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/to-your-eternity.html": {
-    "group": "TO YOUR ETERNITY",
-    "last_season": 3,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
