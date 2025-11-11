@@ -682,5 +682,17 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/dizi-izle/bat-fam": {
+    "group": "BAT-FAM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/marines": {
+    "group": "MARINES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
