@@ -712,5 +712,17 @@
     "last_season": 3,
     "last_episode": 10,
     "start_episode": 1
+  },
+  "/dizi/bat-fam": {
+    "group": "YARASA AILESI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/marines": {
+    "group": "ABD DENIZ PIYADELERI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
