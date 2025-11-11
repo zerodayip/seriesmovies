@@ -383,8 +383,44 @@
   <programme start="20251111044600 +0000" stop="20251111053800 +0000" channel="TABII TV">
     <title>ÇIRAK</title>
   </programme>
-  <programme start="20251111053800 +0000" stop="20251111070000 +0000" channel="TABII TV">
+  <programme start="20251111053800 +0000" stop="20251111081400 +0000" channel="TABII TV">
     <title>ELIMI BIRAKMA</title>
+  </programme>
+  <programme start="20251111081400 +0000" stop="20251111090100 +0000" channel="TABII TV">
+    <title>EN SON BABALAR DUYAR</title>
+  </programme>
+  <programme start="20251111090100 +0000" stop="20251111094300 +0000" channel="TABII TV">
+    <title>YEDI NUMARA</title>
+  </programme>
+  <programme start="20251111094300 +0000" stop="20251111103200 +0000" channel="TABII TV">
+    <title>İBN-I SINA</title>
+  </programme>
+  <programme start="20251111103200 +0000" stop="20251111112500 +0000" channel="TABII TV">
+    <title>ÇIRAK</title>
+  </programme>
+  <programme start="20251111112500 +0000" stop="20251111140000 +0000" channel="TABII TV">
+    <title>ELIMI BIRAKMA</title>
+  </programme>
+  <programme start="20251111140000 +0000" stop="20251111145200 +0000" channel="TABII TV">
+    <title>ÇIRAK</title>
+  </programme>
+  <programme start="20251111145200 +0000" stop="20251111153900 +0000" channel="TABII TV">
+    <title>EN SON BABALAR DUYAR</title>
+  </programme>
+  <programme start="20251111153900 +0000" stop="20251111162100 +0000" channel="TABII TV">
+    <title>YEDI NUMARA</title>
+  </programme>
+  <programme start="20251111162100 +0000" stop="20251111171100 +0000" channel="TABII TV">
+    <title>İBN-I SINA</title>
+  </programme>
+  <programme start="20251111171100 +0000" stop="20251111180300 +0000" channel="TABII TV">
+    <title>ÇIRAK</title>
+  </programme>
+  <programme start="20251111180300 +0000" stop="20251111203800 +0000" channel="TABII TV">
+    <title>ELIMI BIRAKMA</title>
+  </programme>
+  <programme start="20251111203800 +0000" stop="20251111212700 +0000" channel="TABII TV">
+    <title>YEDITEPE İSTANBUL</title>
   </programme>
   <channel id="4K TR: S NEMA YERL HD">
     <display-name>4K TR: S NEMA YERL HD</display-name>
@@ -866,11 +902,11 @@
   <programme start="20251111073000 +0000" stop="20251111101500 +0000" channel="TRT 1">
     <title>ALIŞAN ILE HAYATA GÜLÜMSE</title>
   </programme>
-  <programme start="20251111101500 +0000" stop="20251111112500 +0000" channel="TRT 1">
-    <title>SEKSENLER</title>
+  <programme start="20251111101500 +0000" stop="20251111113000 +0000" channel="TRT 1">
+    <title>KOD ADI KIRLANGIÇ</title>
   </programme>
-  <programme start="20251111112500 +0000" stop="20251111144500 +0000" channel="TRT 1">
-    <title>TEŞKILAT</title>
+  <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1">
+    <title>TAŞACAK BU DENIZ</title>
   </programme>
   <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1">
     <title>LINGO TÜRKIYE</title>
@@ -881,7 +917,7 @@
   <programme start="20251111165500 +0000" stop="20251111170000 +0000" channel="TRT 1">
     <title>İDDIALARIN AKSINE</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="TRT 1">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="TRT 1">
     <title>MEHMED: FETIHLER SULTANI</title>
   </programme>
   <channel id="TRT 1 4K">
@@ -915,11 +951,11 @@
   <programme start="20251111073000 +0000" stop="20251111101500 +0000" channel="TRT 1 4K">
     <title>ALIŞAN ILE HAYATA GÜLÜMSE</title>
   </programme>
-  <programme start="20251111101500 +0000" stop="20251111112500 +0000" channel="TRT 1 4K">
-    <title>SEKSENLER</title>
+  <programme start="20251111101500 +0000" stop="20251111113000 +0000" channel="TRT 1 4K">
+    <title>KOD ADI KIRLANGIÇ</title>
   </programme>
-  <programme start="20251111112500 +0000" stop="20251111144500 +0000" channel="TRT 1 4K">
-    <title>TEŞKILAT</title>
+  <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1 4K">
+    <title>TAŞACAK BU DENIZ</title>
   </programme>
   <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1 4K">
     <title>LINGO TÜRKIYE</title>
@@ -930,7 +966,7 @@
   <programme start="20251111165500 +0000" stop="20251111170000 +0000" channel="TRT 1 4K">
     <title>İDDIALARIN AKSINE</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="TRT 1 4K">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="TRT 1 4K">
     <title>MEHMED: FETIHLER SULTANI</title>
   </programme>
   <channel id="TRT 1 HD">
@@ -964,11 +1000,11 @@
   <programme start="20251111073000 +0000" stop="20251111101500 +0000" channel="TRT 1 HD">
     <title>ALIŞAN ILE HAYATA GÜLÜMSE</title>
   </programme>
-  <programme start="20251111101500 +0000" stop="20251111112500 +0000" channel="TRT 1 HD">
-    <title>SEKSENLER</title>
+  <programme start="20251111101500 +0000" stop="20251111113000 +0000" channel="TRT 1 HD">
+    <title>KOD ADI KIRLANGIÇ</title>
   </programme>
-  <programme start="20251111112500 +0000" stop="20251111144500 +0000" channel="TRT 1 HD">
-    <title>TEŞKILAT</title>
+  <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1 HD">
+    <title>TAŞACAK BU DENIZ</title>
   </programme>
   <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1 HD">
     <title>LINGO TÜRKIYE</title>
@@ -979,7 +1015,7 @@
   <programme start="20251111165500 +0000" stop="20251111170000 +0000" channel="TRT 1 HD">
     <title>İDDIALARIN AKSINE</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="TRT 1 HD">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="TRT 1 HD">
     <title>MEHMED: FETIHLER SULTANI</title>
   </programme>
   <channel id="TRT 1 FHD">
@@ -1013,11 +1049,11 @@
   <programme start="20251111073000 +0000" stop="20251111101500 +0000" channel="TRT 1 FHD">
     <title>ALIŞAN ILE HAYATA GÜLÜMSE</title>
   </programme>
-  <programme start="20251111101500 +0000" stop="20251111112500 +0000" channel="TRT 1 FHD">
-    <title>SEKSENLER</title>
+  <programme start="20251111101500 +0000" stop="20251111113000 +0000" channel="TRT 1 FHD">
+    <title>KOD ADI KIRLANGIÇ</title>
   </programme>
-  <programme start="20251111112500 +0000" stop="20251111144500 +0000" channel="TRT 1 FHD">
-    <title>TEŞKILAT</title>
+  <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1 FHD">
+    <title>TAŞACAK BU DENIZ</title>
   </programme>
   <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1 FHD">
     <title>LINGO TÜRKIYE</title>
@@ -1028,7 +1064,7 @@
   <programme start="20251111165500 +0000" stop="20251111170000 +0000" channel="TRT 1 FHD">
     <title>İDDIALARIN AKSINE</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="TRT 1 FHD">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="TRT 1 FHD">
     <title>MEHMED: FETIHLER SULTANI</title>
   </programme>
   <channel id="TRT 1 HEVC">
@@ -1062,11 +1098,11 @@
   <programme start="20251111073000 +0000" stop="20251111101500 +0000" channel="TRT 1 HEVC">
     <title>ALIŞAN ILE HAYATA GÜLÜMSE</title>
   </programme>
-  <programme start="20251111101500 +0000" stop="20251111112500 +0000" channel="TRT 1 HEVC">
-    <title>SEKSENLER</title>
+  <programme start="20251111101500 +0000" stop="20251111113000 +0000" channel="TRT 1 HEVC">
+    <title>KOD ADI KIRLANGIÇ</title>
   </programme>
-  <programme start="20251111112500 +0000" stop="20251111144500 +0000" channel="TRT 1 HEVC">
-    <title>TEŞKILAT</title>
+  <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1 HEVC">
+    <title>TAŞACAK BU DENIZ</title>
   </programme>
   <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1 HEVC">
     <title>LINGO TÜRKIYE</title>
@@ -1077,7 +1113,7 @@
   <programme start="20251111165500 +0000" stop="20251111170000 +0000" channel="TRT 1 HEVC">
     <title>İDDIALARIN AKSINE</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="TRT 1 HEVC">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="TRT 1 HEVC">
     <title>MEHMED: FETIHLER SULTANI</title>
   </programme>
   <channel id="TRT 1 RAW">
@@ -1111,11 +1147,11 @@
   <programme start="20251111073000 +0000" stop="20251111101500 +0000" channel="TRT 1 RAW">
     <title>ALIŞAN ILE HAYATA GÜLÜMSE</title>
   </programme>
-  <programme start="20251111101500 +0000" stop="20251111112500 +0000" channel="TRT 1 RAW">
-    <title>SEKSENLER</title>
+  <programme start="20251111101500 +0000" stop="20251111113000 +0000" channel="TRT 1 RAW">
+    <title>KOD ADI KIRLANGIÇ</title>
   </programme>
-  <programme start="20251111112500 +0000" stop="20251111144500 +0000" channel="TRT 1 RAW">
-    <title>TEŞKILAT</title>
+  <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1 RAW">
+    <title>TAŞACAK BU DENIZ</title>
   </programme>
   <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1 RAW">
     <title>LINGO TÜRKIYE</title>
@@ -1126,7 +1162,7 @@
   <programme start="20251111165500 +0000" stop="20251111170000 +0000" channel="TRT 1 RAW">
     <title>İDDIALARIN AKSINE</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="TRT 1 RAW">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="TRT 1 RAW">
     <title>MEHMED: FETIHLER SULTANI</title>
   </programme>
   <channel id="TRT 1 SD">
@@ -1160,11 +1196,11 @@
   <programme start="20251111073000 +0000" stop="20251111101500 +0000" channel="TRT 1 SD">
     <title>ALIŞAN ILE HAYATA GÜLÜMSE</title>
   </programme>
-  <programme start="20251111101500 +0000" stop="20251111112500 +0000" channel="TRT 1 SD">
-    <title>SEKSENLER</title>
+  <programme start="20251111101500 +0000" stop="20251111113000 +0000" channel="TRT 1 SD">
+    <title>KOD ADI KIRLANGIÇ</title>
   </programme>
-  <programme start="20251111112500 +0000" stop="20251111144500 +0000" channel="TRT 1 SD">
-    <title>TEŞKILAT</title>
+  <programme start="20251111113000 +0000" stop="20251111144500 +0000" channel="TRT 1 SD">
+    <title>TAŞACAK BU DENIZ</title>
   </programme>
   <programme start="20251111144500 +0000" stop="20251111160000 +0000" channel="TRT 1 SD">
     <title>LINGO TÜRKIYE</title>
@@ -1175,7 +1211,7 @@
   <programme start="20251111165500 +0000" stop="20251111170000 +0000" channel="TRT 1 SD">
     <title>İDDIALARIN AKSINE</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111213000 +0000" channel="TRT 1 SD">
+  <programme start="20251111170000 +0000" stop="20251111211500 +0000" channel="TRT 1 SD">
     <title>MEHMED: FETIHLER SULTANI</title>
   </programme>
   <channel id="4K TR: KANAL D HD">
@@ -24745,7 +24781,7 @@
     <title>NASREDDIN HOCA ZAMAN YOLCUSU</title>
   </programme>
   <programme start="20251111182000 +0000" stop="20251111183000 +0000" channel="TRT COCUK">
-    <title>KAF DAĞI MASALLARI</title>
+    <title>KIZ KULESI MASALLARI</title>
   </programme>
   <programme start="20251111183000 +0000" stop="20251111184500 +0000" channel="TRT COCUK">
     <title>LAKLAKAN</title>
@@ -24956,7 +24992,7 @@
     <title>NASREDDIN HOCA ZAMAN YOLCUSU</title>
   </programme>
   <programme start="20251111182000 +0000" stop="20251111183000 +0000" channel="TRT COCUK RAW">
-    <title>KAF DAĞI MASALLARI</title>
+    <title>KIZ KULESI MASALLARI</title>
   </programme>
   <programme start="20251111183000 +0000" stop="20251111184500 +0000" channel="TRT COCUK RAW">
     <title>LAKLAKAN</title>
@@ -25167,7 +25203,7 @@
     <title>NASREDDIN HOCA ZAMAN YOLCUSU</title>
   </programme>
   <programme start="20251111182000 +0000" stop="20251111183000 +0000" channel="TRT ÇOCUK">
-    <title>KAF DAĞI MASALLARI</title>
+    <title>KIZ KULESI MASALLARI</title>
   </programme>
   <programme start="20251111183000 +0000" stop="20251111184500 +0000" channel="TRT ÇOCUK">
     <title>LAKLAKAN</title>
@@ -26894,7 +26930,7 @@
   <programme start="20251111065000 +0000" stop="20251111070500 +0000" channel="TRT DIYANET COCUK">
     <title>ASLAN PARÇASI CESUR</title>
   </programme>
-  <programme start="20251111070500 +0000" stop="20251111071500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111071000 +0000" stop="20251111071500 +0000" channel="TRT DIYANET COCUK">
     <title>KARA İLE KEÇE</title>
   </programme>
   <programme start="20251111071500 +0000" stop="20251111072500 +0000" channel="TRT DIYANET COCUK">
@@ -26906,11 +26942,11 @@
   <programme start="20251111074000 +0000" stop="20251111075500 +0000" channel="TRT DIYANET COCUK">
     <title>DIKKAT BALONU</title>
   </programme>
-  <programme start="20251111075500 +0000" stop="20251111080500 +0000" channel="TRT DIYANET COCUK">
-    <title>GUGULAR</title>
-  </programme>
-  <programme start="20251111080500 +0000" stop="20251111081000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111075500 +0000" stop="20251111080000 +0000" channel="TRT DIYANET COCUK">
     <title>TEMEL'DEN ÖĞRENIYORUM</title>
+  </programme>
+  <programme start="20251111080000 +0000" stop="20251111081000 +0000" channel="TRT DIYANET COCUK">
+    <title>GUGULAR</title>
   </programme>
   <programme start="20251111081000 +0000" stop="20251111082500 +0000" channel="TRT DIYANET COCUK">
     <title>CÜMBÜR CEMAAT ( KAMPTAYIZ )</title>
@@ -26937,10 +26973,10 @@
     <title>MERAKLI HAFIYE</title>
   </programme>
   <programme start="20251111095500 +0000" stop="20251111101000 +0000" channel="TRT DIYANET COCUK">
-    <title>KÜÇÜK HAFIZ EMIN</title>
+    <title>HAKLI KARINCA</title>
   </programme>
   <programme start="20251111101000 +0000" stop="20251111102500 +0000" channel="TRT DIYANET COCUK">
-    <title>HAKLI KARINCA</title>
+    <title>KÜÇÜK HAFIZ EMIN</title>
   </programme>
   <programme start="20251111102500 +0000" stop="20251111103000 +0000" channel="TRT DIYANET COCUK">
     <title>AYRI TELDEN</title>
@@ -26981,121 +27017,121 @@
   <programme start="20251111125000 +0000" stop="20251111130500 +0000" channel="TRT DIYANET COCUK">
     <title>ASLAN PARÇASI CESUR</title>
   </programme>
-  <programme start="20251111130500 +0000" stop="20251111131000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111130500 +0000" stop="20251111131500 +0000" channel="TRT DIYANET COCUK">
     <title>KARA İLE KEÇE</title>
   </programme>
-  <programme start="20251111131000 +0000" stop="20251111132500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111131500 +0000" stop="20251111133000 +0000" channel="TRT DIYANET COCUK">
     <title>7 KITADAN İYILIK HABERCILERI</title>
   </programme>
-  <programme start="20251111132500 +0000" stop="20251111133500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111133000 +0000" stop="20251111134000 +0000" channel="TRT DIYANET COCUK">
     <title>GALIP MÜLAYIM</title>
   </programme>
-  <programme start="20251111133500 +0000" stop="20251111135000 +0000" channel="TRT DIYANET COCUK">
-    <title>DIKKAT BALONU</title>
-  </programme>
-  <programme start="20251111135000 +0000" stop="20251111140000 +0000" channel="TRT DIYANET COCUK">
-    <title>GUGULAR</title>
-  </programme>
-  <programme start="20251111140000 +0000" stop="20251111140500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111134000 +0000" stop="20251111134500 +0000" channel="TRT DIYANET COCUK">
     <title>TEMEL'DEN ÖĞRENIYORUM</title>
   </programme>
-  <programme start="20251111140500 +0000" stop="20251111142000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111134500 +0000" stop="20251111140000 +0000" channel="TRT DIYANET COCUK">
+    <title>DIKKAT BALONU</title>
+  </programme>
+  <programme start="20251111140000 +0000" stop="20251111141000 +0000" channel="TRT DIYANET COCUK">
+    <title>GUGULAR</title>
+  </programme>
+  <programme start="20251111141000 +0000" stop="20251111142500 +0000" channel="TRT DIYANET COCUK">
     <title>CÜMBÜR CEMAAT ( KAMPTAYIZ )</title>
   </programme>
-  <programme start="20251111142000 +0000" stop="20251111143500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111142500 +0000" stop="20251111144000 +0000" channel="TRT DIYANET COCUK">
     <title>HEYBELI TIYATRO</title>
   </programme>
-  <programme start="20251111143500 +0000" stop="20251111144500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111144000 +0000" stop="20251111145000 +0000" channel="TRT DIYANET COCUK">
     <title>ZEKICE İŞLER</title>
   </programme>
-  <programme start="20251111144500 +0000" stop="20251111150000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111145000 +0000" stop="20251111150500 +0000" channel="TRT DIYANET COCUK">
     <title>FÜLFÜL HAC YOLUNDA</title>
   </programme>
-  <programme start="20251111150000 +0000" stop="20251111151500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111150500 +0000" stop="20251111152000 +0000" channel="TRT DIYANET COCUK">
     <title>GEZGIN ÇELEBI ( SEMAVI'NIN SIRRI )</title>
   </programme>
-  <programme start="20251111151500 +0000" stop="20251111153000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111152000 +0000" stop="20251111153500 +0000" channel="TRT DIYANET COCUK">
     <title>MERAKLI HAFIYE</title>
   </programme>
-  <programme start="20251111153000 +0000" stop="20251111154500 +0000" channel="TRT DIYANET COCUK">
-    <title>KÜÇÜK HAFIZ EMIN</title>
-  </programme>
-  <programme start="20251111154500 +0000" stop="20251111160000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111153500 +0000" stop="20251111155000 +0000" channel="TRT DIYANET COCUK">
     <title>HAKLI KARINCA</title>
   </programme>
-  <programme start="20251111160000 +0000" stop="20251111160500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111155000 +0000" stop="20251111160500 +0000" channel="TRT DIYANET COCUK">
+    <title>KÜÇÜK HAFIZ EMIN</title>
+  </programme>
+  <programme start="20251111160500 +0000" stop="20251111161000 +0000" channel="TRT DIYANET COCUK">
     <title>AYRI TELDEN</title>
   </programme>
-  <programme start="20251111160500 +0000" stop="20251111161500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111161000 +0000" stop="20251111162000 +0000" channel="TRT DIYANET COCUK">
     <title>SEVIMLI SABAHLAR</title>
   </programme>
-  <programme start="20251111161500 +0000" stop="20251111163000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111162000 +0000" stop="20251111163500 +0000" channel="TRT DIYANET COCUK">
     <title>MERCANYA</title>
   </programme>
-  <programme start="20251111163000 +0000" stop="20251111164500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111163500 +0000" stop="20251111165000 +0000" channel="TRT DIYANET COCUK">
     <title>AYLABERA</title>
   </programme>
-  <programme start="20251111164500 +0000" stop="20251111170000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111165000 +0000" stop="20251111170500 +0000" channel="TRT DIYANET COCUK">
     <title>HAY HAK</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111171500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111170500 +0000" stop="20251111172000 +0000" channel="TRT DIYANET COCUK">
     <title>YUMURCALI</title>
   </programme>
-  <programme start="20251111171500 +0000" stop="20251111172500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111172000 +0000" stop="20251111173000 +0000" channel="TRT DIYANET COCUK">
     <title>MIŞ MIŞ</title>
   </programme>
-  <programme start="20251111172500 +0000" stop="20251111173500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111173000 +0000" stop="20251111174000 +0000" channel="TRT DIYANET COCUK">
     <title>MIMIKOLAR</title>
   </programme>
-  <programme start="20251111173500 +0000" stop="20251111175000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111174000 +0000" stop="20251111175500 +0000" channel="TRT DIYANET COCUK">
     <title>ŞEF LINA</title>
   </programme>
-  <programme start="20251111175000 +0000" stop="20251111180000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111175500 +0000" stop="20251111180500 +0000" channel="TRT DIYANET COCUK">
     <title>DUYARLI TILKI</title>
   </programme>
-  <programme start="20251111180000 +0000" stop="20251111181000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111180500 +0000" stop="20251111181500 +0000" channel="TRT DIYANET COCUK">
     <title>BENIM ADIM MUCIZE</title>
   </programme>
-  <programme start="20251111181000 +0000" stop="20251111182000 +0000" channel="TRT DIYANET COCUK">
-    <title>ŞEKER HOCA</title>
-  </programme>
-  <programme start="20251111182000 +0000" stop="20251111183000 +0000" channel="TRT DIYANET COCUK">
-    <title>KARA İLE KEÇE</title>
+  <programme start="20251111181500 +0000" stop="20251111183000 +0000" channel="TRT DIYANET COCUK">
+    <title>GERI DÖN ÇUFI</title>
   </programme>
   <programme start="20251111183000 +0000" stop="20251111184000 +0000" channel="TRT DIYANET COCUK">
     <title>DÜŞ FIRÇASI</title>
   </programme>
   <programme start="20251111184000 +0000" stop="20251111185500 +0000" channel="TRT DIYANET COCUK">
-    <title>ASLAN PARÇASI CESUR</title>
+    <title>ŞEKER HOCA</title>
   </programme>
   <programme start="20251111185500 +0000" stop="20251111191000 +0000" channel="TRT DIYANET COCUK">
-    <title>GERI DÖN ÇUFI</title>
+    <title>ASLAN PARÇASI CESUR</title>
   </programme>
-  <programme start="20251111191000 +0000" stop="20251111192000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111191000 +0000" stop="20251111191500 +0000" channel="TRT DIYANET COCUK">
+    <title>KARA İLE KEÇE</title>
+  </programme>
+  <programme start="20251111191500 +0000" stop="20251111192500 +0000" channel="TRT DIYANET COCUK">
     <title>GALIP MÜLAYIM</title>
   </programme>
-  <programme start="20251111192000 +0000" stop="20251111193500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111192500 +0000" stop="20251111194000 +0000" channel="TRT DIYANET COCUK">
     <title>7 KITADAN İYILIK HABERCILERI</title>
   </programme>
-  <programme start="20251111193500 +0000" stop="20251111195000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111194000 +0000" stop="20251111195500 +0000" channel="TRT DIYANET COCUK">
     <title>DIKKAT BALONU</title>
   </programme>
-  <programme start="20251111195000 +0000" stop="20251111200000 +0000" channel="TRT DIYANET COCUK">
-    <title>GUGULAR</title>
-  </programme>
-  <programme start="20251111200000 +0000" stop="20251111200500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111195500 +0000" stop="20251111200000 +0000" channel="TRT DIYANET COCUK">
     <title>TEMEL'DEN ÖĞRENIYORUM</title>
   </programme>
-  <programme start="20251111200500 +0000" stop="20251111202000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111200000 +0000" stop="20251111201000 +0000" channel="TRT DIYANET COCUK">
+    <title>GUGULAR</title>
+  </programme>
+  <programme start="20251111201000 +0000" stop="20251111202500 +0000" channel="TRT DIYANET COCUK">
     <title>CÜMBÜR CEMAAT ( KAMPTAYIZ )</title>
   </programme>
-  <programme start="20251111202000 +0000" stop="20251111203500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111202500 +0000" stop="20251111204000 +0000" channel="TRT DIYANET COCUK">
     <title>HEYBELI TIYATRO</title>
   </programme>
-  <programme start="20251111203500 +0000" stop="20251111204500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111204000 +0000" stop="20251111205000 +0000" channel="TRT DIYANET COCUK">
     <title>ZEKICE İŞLER</title>
   </programme>
-  <programme start="20251111204500 +0000" stop="20251111210000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111205000 +0000" stop="20251111210500 +0000" channel="TRT DIYANET COCUK">
     <title>FÜLFÜL HAC YOLUNDA</title>
   </programme>
   <channel id="TRT DİYANET ÇOCUK">
@@ -27249,7 +27285,7 @@
   <programme start="20251111065000 +0000" stop="20251111070500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>ASLAN PARÇASI CESUR</title>
   </programme>
-  <programme start="20251111070500 +0000" stop="20251111071500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111071000 +0000" stop="20251111071500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>KARA İLE KEÇE</title>
   </programme>
   <programme start="20251111071500 +0000" stop="20251111072500 +0000" channel="TRT DİYANET ÇOCUK">
@@ -27261,11 +27297,11 @@
   <programme start="20251111074000 +0000" stop="20251111075500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>DIKKAT BALONU</title>
   </programme>
-  <programme start="20251111075500 +0000" stop="20251111080500 +0000" channel="TRT DİYANET ÇOCUK">
-    <title>GUGULAR</title>
-  </programme>
-  <programme start="20251111080500 +0000" stop="20251111081000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111075500 +0000" stop="20251111080000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>TEMEL'DEN ÖĞRENIYORUM</title>
+  </programme>
+  <programme start="20251111080000 +0000" stop="20251111081000 +0000" channel="TRT DİYANET ÇOCUK">
+    <title>GUGULAR</title>
   </programme>
   <programme start="20251111081000 +0000" stop="20251111082500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>CÜMBÜR CEMAAT ( KAMPTAYIZ )</title>
@@ -27292,10 +27328,10 @@
     <title>MERAKLI HAFIYE</title>
   </programme>
   <programme start="20251111095500 +0000" stop="20251111101000 +0000" channel="TRT DİYANET ÇOCUK">
-    <title>KÜÇÜK HAFIZ EMIN</title>
+    <title>HAKLI KARINCA</title>
   </programme>
   <programme start="20251111101000 +0000" stop="20251111102500 +0000" channel="TRT DİYANET ÇOCUK">
-    <title>HAKLI KARINCA</title>
+    <title>KÜÇÜK HAFIZ EMIN</title>
   </programme>
   <programme start="20251111102500 +0000" stop="20251111103000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>AYRI TELDEN</title>
@@ -27336,121 +27372,121 @@
   <programme start="20251111125000 +0000" stop="20251111130500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>ASLAN PARÇASI CESUR</title>
   </programme>
-  <programme start="20251111130500 +0000" stop="20251111131000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111130500 +0000" stop="20251111131500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>KARA İLE KEÇE</title>
   </programme>
-  <programme start="20251111131000 +0000" stop="20251111132500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111131500 +0000" stop="20251111133000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>7 KITADAN İYILIK HABERCILERI</title>
   </programme>
-  <programme start="20251111132500 +0000" stop="20251111133500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111133000 +0000" stop="20251111134000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>GALIP MÜLAYIM</title>
   </programme>
-  <programme start="20251111133500 +0000" stop="20251111135000 +0000" channel="TRT DİYANET ÇOCUK">
-    <title>DIKKAT BALONU</title>
-  </programme>
-  <programme start="20251111135000 +0000" stop="20251111140000 +0000" channel="TRT DİYANET ÇOCUK">
-    <title>GUGULAR</title>
-  </programme>
-  <programme start="20251111140000 +0000" stop="20251111140500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111134000 +0000" stop="20251111134500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>TEMEL'DEN ÖĞRENIYORUM</title>
   </programme>
-  <programme start="20251111140500 +0000" stop="20251111142000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111134500 +0000" stop="20251111140000 +0000" channel="TRT DİYANET ÇOCUK">
+    <title>DIKKAT BALONU</title>
+  </programme>
+  <programme start="20251111140000 +0000" stop="20251111141000 +0000" channel="TRT DİYANET ÇOCUK">
+    <title>GUGULAR</title>
+  </programme>
+  <programme start="20251111141000 +0000" stop="20251111142500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>CÜMBÜR CEMAAT ( KAMPTAYIZ )</title>
   </programme>
-  <programme start="20251111142000 +0000" stop="20251111143500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111142500 +0000" stop="20251111144000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>HEYBELI TIYATRO</title>
   </programme>
-  <programme start="20251111143500 +0000" stop="20251111144500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111144000 +0000" stop="20251111145000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>ZEKICE İŞLER</title>
   </programme>
-  <programme start="20251111144500 +0000" stop="20251111150000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111145000 +0000" stop="20251111150500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>FÜLFÜL HAC YOLUNDA</title>
   </programme>
-  <programme start="20251111150000 +0000" stop="20251111151500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111150500 +0000" stop="20251111152000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>GEZGIN ÇELEBI ( SEMAVI'NIN SIRRI )</title>
   </programme>
-  <programme start="20251111151500 +0000" stop="20251111153000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111152000 +0000" stop="20251111153500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>MERAKLI HAFIYE</title>
   </programme>
-  <programme start="20251111153000 +0000" stop="20251111154500 +0000" channel="TRT DİYANET ÇOCUK">
-    <title>KÜÇÜK HAFIZ EMIN</title>
-  </programme>
-  <programme start="20251111154500 +0000" stop="20251111160000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111153500 +0000" stop="20251111155000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>HAKLI KARINCA</title>
   </programme>
-  <programme start="20251111160000 +0000" stop="20251111160500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111155000 +0000" stop="20251111160500 +0000" channel="TRT DİYANET ÇOCUK">
+    <title>KÜÇÜK HAFIZ EMIN</title>
+  </programme>
+  <programme start="20251111160500 +0000" stop="20251111161000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>AYRI TELDEN</title>
   </programme>
-  <programme start="20251111160500 +0000" stop="20251111161500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111161000 +0000" stop="20251111162000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>SEVIMLI SABAHLAR</title>
   </programme>
-  <programme start="20251111161500 +0000" stop="20251111163000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111162000 +0000" stop="20251111163500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>MERCANYA</title>
   </programme>
-  <programme start="20251111163000 +0000" stop="20251111164500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111163500 +0000" stop="20251111165000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>AYLABERA</title>
   </programme>
-  <programme start="20251111164500 +0000" stop="20251111170000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111165000 +0000" stop="20251111170500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>HAY HAK</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111171500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111170500 +0000" stop="20251111172000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>YUMURCALI</title>
   </programme>
-  <programme start="20251111171500 +0000" stop="20251111172500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111172000 +0000" stop="20251111173000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>MIŞ MIŞ</title>
   </programme>
-  <programme start="20251111172500 +0000" stop="20251111173500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111173000 +0000" stop="20251111174000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>MIMIKOLAR</title>
   </programme>
-  <programme start="20251111173500 +0000" stop="20251111175000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111174000 +0000" stop="20251111175500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>ŞEF LINA</title>
   </programme>
-  <programme start="20251111175000 +0000" stop="20251111180000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111175500 +0000" stop="20251111180500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>DUYARLI TILKI</title>
   </programme>
-  <programme start="20251111180000 +0000" stop="20251111181000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111180500 +0000" stop="20251111181500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>BENIM ADIM MUCIZE</title>
   </programme>
-  <programme start="20251111181000 +0000" stop="20251111182000 +0000" channel="TRT DİYANET ÇOCUK">
-    <title>ŞEKER HOCA</title>
-  </programme>
-  <programme start="20251111182000 +0000" stop="20251111183000 +0000" channel="TRT DİYANET ÇOCUK">
-    <title>KARA İLE KEÇE</title>
+  <programme start="20251111181500 +0000" stop="20251111183000 +0000" channel="TRT DİYANET ÇOCUK">
+    <title>GERI DÖN ÇUFI</title>
   </programme>
   <programme start="20251111183000 +0000" stop="20251111184000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>DÜŞ FIRÇASI</title>
   </programme>
   <programme start="20251111184000 +0000" stop="20251111185500 +0000" channel="TRT DİYANET ÇOCUK">
-    <title>ASLAN PARÇASI CESUR</title>
+    <title>ŞEKER HOCA</title>
   </programme>
   <programme start="20251111185500 +0000" stop="20251111191000 +0000" channel="TRT DİYANET ÇOCUK">
-    <title>GERI DÖN ÇUFI</title>
+    <title>ASLAN PARÇASI CESUR</title>
   </programme>
-  <programme start="20251111191000 +0000" stop="20251111192000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111191000 +0000" stop="20251111191500 +0000" channel="TRT DİYANET ÇOCUK">
+    <title>KARA İLE KEÇE</title>
+  </programme>
+  <programme start="20251111191500 +0000" stop="20251111192500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>GALIP MÜLAYIM</title>
   </programme>
-  <programme start="20251111192000 +0000" stop="20251111193500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111192500 +0000" stop="20251111194000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>7 KITADAN İYILIK HABERCILERI</title>
   </programme>
-  <programme start="20251111193500 +0000" stop="20251111195000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111194000 +0000" stop="20251111195500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>DIKKAT BALONU</title>
   </programme>
-  <programme start="20251111195000 +0000" stop="20251111200000 +0000" channel="TRT DİYANET ÇOCUK">
-    <title>GUGULAR</title>
-  </programme>
-  <programme start="20251111200000 +0000" stop="20251111200500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111195500 +0000" stop="20251111200000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>TEMEL'DEN ÖĞRENIYORUM</title>
   </programme>
-  <programme start="20251111200500 +0000" stop="20251111202000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111200000 +0000" stop="20251111201000 +0000" channel="TRT DİYANET ÇOCUK">
+    <title>GUGULAR</title>
+  </programme>
+  <programme start="20251111201000 +0000" stop="20251111202500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>CÜMBÜR CEMAAT ( KAMPTAYIZ )</title>
   </programme>
-  <programme start="20251111202000 +0000" stop="20251111203500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111202500 +0000" stop="20251111204000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>HEYBELI TIYATRO</title>
   </programme>
-  <programme start="20251111203500 +0000" stop="20251111204500 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111204000 +0000" stop="20251111205000 +0000" channel="TRT DİYANET ÇOCUK">
     <title>ZEKICE İŞLER</title>
   </programme>
-  <programme start="20251111204500 +0000" stop="20251111210000 +0000" channel="TRT DİYANET ÇOCUK">
+  <programme start="20251111205000 +0000" stop="20251111210500 +0000" channel="TRT DİYANET ÇOCUK">
     <title>FÜLFÜL HAC YOLUNDA</title>
   </programme>
   <channel id="TRT DIYANET COCUK">
@@ -27604,7 +27640,7 @@
   <programme start="20251111065000 +0000" stop="20251111070500 +0000" channel="TRT DIYANET COCUK">
     <title>ASLAN PARÇASI CESUR</title>
   </programme>
-  <programme start="20251111070500 +0000" stop="20251111071500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111071000 +0000" stop="20251111071500 +0000" channel="TRT DIYANET COCUK">
     <title>KARA İLE KEÇE</title>
   </programme>
   <programme start="20251111071500 +0000" stop="20251111072500 +0000" channel="TRT DIYANET COCUK">
@@ -27616,11 +27652,11 @@
   <programme start="20251111074000 +0000" stop="20251111075500 +0000" channel="TRT DIYANET COCUK">
     <title>DIKKAT BALONU</title>
   </programme>
-  <programme start="20251111075500 +0000" stop="20251111080500 +0000" channel="TRT DIYANET COCUK">
-    <title>GUGULAR</title>
-  </programme>
-  <programme start="20251111080500 +0000" stop="20251111081000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111075500 +0000" stop="20251111080000 +0000" channel="TRT DIYANET COCUK">
     <title>TEMEL'DEN ÖĞRENIYORUM</title>
+  </programme>
+  <programme start="20251111080000 +0000" stop="20251111081000 +0000" channel="TRT DIYANET COCUK">
+    <title>GUGULAR</title>
   </programme>
   <programme start="20251111081000 +0000" stop="20251111082500 +0000" channel="TRT DIYANET COCUK">
     <title>CÜMBÜR CEMAAT ( KAMPTAYIZ )</title>
@@ -27647,10 +27683,10 @@
     <title>MERAKLI HAFIYE</title>
   </programme>
   <programme start="20251111095500 +0000" stop="20251111101000 +0000" channel="TRT DIYANET COCUK">
-    <title>KÜÇÜK HAFIZ EMIN</title>
+    <title>HAKLI KARINCA</title>
   </programme>
   <programme start="20251111101000 +0000" stop="20251111102500 +0000" channel="TRT DIYANET COCUK">
-    <title>HAKLI KARINCA</title>
+    <title>KÜÇÜK HAFIZ EMIN</title>
   </programme>
   <programme start="20251111102500 +0000" stop="20251111103000 +0000" channel="TRT DIYANET COCUK">
     <title>AYRI TELDEN</title>
@@ -27691,121 +27727,121 @@
   <programme start="20251111125000 +0000" stop="20251111130500 +0000" channel="TRT DIYANET COCUK">
     <title>ASLAN PARÇASI CESUR</title>
   </programme>
-  <programme start="20251111130500 +0000" stop="20251111131000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111130500 +0000" stop="20251111131500 +0000" channel="TRT DIYANET COCUK">
     <title>KARA İLE KEÇE</title>
   </programme>
-  <programme start="20251111131000 +0000" stop="20251111132500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111131500 +0000" stop="20251111133000 +0000" channel="TRT DIYANET COCUK">
     <title>7 KITADAN İYILIK HABERCILERI</title>
   </programme>
-  <programme start="20251111132500 +0000" stop="20251111133500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111133000 +0000" stop="20251111134000 +0000" channel="TRT DIYANET COCUK">
     <title>GALIP MÜLAYIM</title>
   </programme>
-  <programme start="20251111133500 +0000" stop="20251111135000 +0000" channel="TRT DIYANET COCUK">
-    <title>DIKKAT BALONU</title>
-  </programme>
-  <programme start="20251111135000 +0000" stop="20251111140000 +0000" channel="TRT DIYANET COCUK">
-    <title>GUGULAR</title>
-  </programme>
-  <programme start="20251111140000 +0000" stop="20251111140500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111134000 +0000" stop="20251111134500 +0000" channel="TRT DIYANET COCUK">
     <title>TEMEL'DEN ÖĞRENIYORUM</title>
   </programme>
-  <programme start="20251111140500 +0000" stop="20251111142000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111134500 +0000" stop="20251111140000 +0000" channel="TRT DIYANET COCUK">
+    <title>DIKKAT BALONU</title>
+  </programme>
+  <programme start="20251111140000 +0000" stop="20251111141000 +0000" channel="TRT DIYANET COCUK">
+    <title>GUGULAR</title>
+  </programme>
+  <programme start="20251111141000 +0000" stop="20251111142500 +0000" channel="TRT DIYANET COCUK">
     <title>CÜMBÜR CEMAAT ( KAMPTAYIZ )</title>
   </programme>
-  <programme start="20251111142000 +0000" stop="20251111143500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111142500 +0000" stop="20251111144000 +0000" channel="TRT DIYANET COCUK">
     <title>HEYBELI TIYATRO</title>
   </programme>
-  <programme start="20251111143500 +0000" stop="20251111144500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111144000 +0000" stop="20251111145000 +0000" channel="TRT DIYANET COCUK">
     <title>ZEKICE İŞLER</title>
   </programme>
-  <programme start="20251111144500 +0000" stop="20251111150000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111145000 +0000" stop="20251111150500 +0000" channel="TRT DIYANET COCUK">
     <title>FÜLFÜL HAC YOLUNDA</title>
   </programme>
-  <programme start="20251111150000 +0000" stop="20251111151500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111150500 +0000" stop="20251111152000 +0000" channel="TRT DIYANET COCUK">
     <title>GEZGIN ÇELEBI ( SEMAVI'NIN SIRRI )</title>
   </programme>
-  <programme start="20251111151500 +0000" stop="20251111153000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111152000 +0000" stop="20251111153500 +0000" channel="TRT DIYANET COCUK">
     <title>MERAKLI HAFIYE</title>
   </programme>
-  <programme start="20251111153000 +0000" stop="20251111154500 +0000" channel="TRT DIYANET COCUK">
-    <title>KÜÇÜK HAFIZ EMIN</title>
-  </programme>
-  <programme start="20251111154500 +0000" stop="20251111160000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111153500 +0000" stop="20251111155000 +0000" channel="TRT DIYANET COCUK">
     <title>HAKLI KARINCA</title>
   </programme>
-  <programme start="20251111160000 +0000" stop="20251111160500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111155000 +0000" stop="20251111160500 +0000" channel="TRT DIYANET COCUK">
+    <title>KÜÇÜK HAFIZ EMIN</title>
+  </programme>
+  <programme start="20251111160500 +0000" stop="20251111161000 +0000" channel="TRT DIYANET COCUK">
     <title>AYRI TELDEN</title>
   </programme>
-  <programme start="20251111160500 +0000" stop="20251111161500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111161000 +0000" stop="20251111162000 +0000" channel="TRT DIYANET COCUK">
     <title>SEVIMLI SABAHLAR</title>
   </programme>
-  <programme start="20251111161500 +0000" stop="20251111163000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111162000 +0000" stop="20251111163500 +0000" channel="TRT DIYANET COCUK">
     <title>MERCANYA</title>
   </programme>
-  <programme start="20251111163000 +0000" stop="20251111164500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111163500 +0000" stop="20251111165000 +0000" channel="TRT DIYANET COCUK">
     <title>AYLABERA</title>
   </programme>
-  <programme start="20251111164500 +0000" stop="20251111170000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111165000 +0000" stop="20251111170500 +0000" channel="TRT DIYANET COCUK">
     <title>HAY HAK</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111171500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111170500 +0000" stop="20251111172000 +0000" channel="TRT DIYANET COCUK">
     <title>YUMURCALI</title>
   </programme>
-  <programme start="20251111171500 +0000" stop="20251111172500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111172000 +0000" stop="20251111173000 +0000" channel="TRT DIYANET COCUK">
     <title>MIŞ MIŞ</title>
   </programme>
-  <programme start="20251111172500 +0000" stop="20251111173500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111173000 +0000" stop="20251111174000 +0000" channel="TRT DIYANET COCUK">
     <title>MIMIKOLAR</title>
   </programme>
-  <programme start="20251111173500 +0000" stop="20251111175000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111174000 +0000" stop="20251111175500 +0000" channel="TRT DIYANET COCUK">
     <title>ŞEF LINA</title>
   </programme>
-  <programme start="20251111175000 +0000" stop="20251111180000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111175500 +0000" stop="20251111180500 +0000" channel="TRT DIYANET COCUK">
     <title>DUYARLI TILKI</title>
   </programme>
-  <programme start="20251111180000 +0000" stop="20251111181000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111180500 +0000" stop="20251111181500 +0000" channel="TRT DIYANET COCUK">
     <title>BENIM ADIM MUCIZE</title>
   </programme>
-  <programme start="20251111181000 +0000" stop="20251111182000 +0000" channel="TRT DIYANET COCUK">
-    <title>ŞEKER HOCA</title>
-  </programme>
-  <programme start="20251111182000 +0000" stop="20251111183000 +0000" channel="TRT DIYANET COCUK">
-    <title>KARA İLE KEÇE</title>
+  <programme start="20251111181500 +0000" stop="20251111183000 +0000" channel="TRT DIYANET COCUK">
+    <title>GERI DÖN ÇUFI</title>
   </programme>
   <programme start="20251111183000 +0000" stop="20251111184000 +0000" channel="TRT DIYANET COCUK">
     <title>DÜŞ FIRÇASI</title>
   </programme>
   <programme start="20251111184000 +0000" stop="20251111185500 +0000" channel="TRT DIYANET COCUK">
-    <title>ASLAN PARÇASI CESUR</title>
+    <title>ŞEKER HOCA</title>
   </programme>
   <programme start="20251111185500 +0000" stop="20251111191000 +0000" channel="TRT DIYANET COCUK">
-    <title>GERI DÖN ÇUFI</title>
+    <title>ASLAN PARÇASI CESUR</title>
   </programme>
-  <programme start="20251111191000 +0000" stop="20251111192000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111191000 +0000" stop="20251111191500 +0000" channel="TRT DIYANET COCUK">
+    <title>KARA İLE KEÇE</title>
+  </programme>
+  <programme start="20251111191500 +0000" stop="20251111192500 +0000" channel="TRT DIYANET COCUK">
     <title>GALIP MÜLAYIM</title>
   </programme>
-  <programme start="20251111192000 +0000" stop="20251111193500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111192500 +0000" stop="20251111194000 +0000" channel="TRT DIYANET COCUK">
     <title>7 KITADAN İYILIK HABERCILERI</title>
   </programme>
-  <programme start="20251111193500 +0000" stop="20251111195000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111194000 +0000" stop="20251111195500 +0000" channel="TRT DIYANET COCUK">
     <title>DIKKAT BALONU</title>
   </programme>
-  <programme start="20251111195000 +0000" stop="20251111200000 +0000" channel="TRT DIYANET COCUK">
-    <title>GUGULAR</title>
-  </programme>
-  <programme start="20251111200000 +0000" stop="20251111200500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111195500 +0000" stop="20251111200000 +0000" channel="TRT DIYANET COCUK">
     <title>TEMEL'DEN ÖĞRENIYORUM</title>
   </programme>
-  <programme start="20251111200500 +0000" stop="20251111202000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111200000 +0000" stop="20251111201000 +0000" channel="TRT DIYANET COCUK">
+    <title>GUGULAR</title>
+  </programme>
+  <programme start="20251111201000 +0000" stop="20251111202500 +0000" channel="TRT DIYANET COCUK">
     <title>CÜMBÜR CEMAAT ( KAMPTAYIZ )</title>
   </programme>
-  <programme start="20251111202000 +0000" stop="20251111203500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111202500 +0000" stop="20251111204000 +0000" channel="TRT DIYANET COCUK">
     <title>HEYBELI TIYATRO</title>
   </programme>
-  <programme start="20251111203500 +0000" stop="20251111204500 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111204000 +0000" stop="20251111205000 +0000" channel="TRT DIYANET COCUK">
     <title>ZEKICE İŞLER</title>
   </programme>
-  <programme start="20251111204500 +0000" stop="20251111210000 +0000" channel="TRT DIYANET COCUK">
+  <programme start="20251111205000 +0000" stop="20251111210500 +0000" channel="TRT DIYANET COCUK">
     <title>FÜLFÜL HAC YOLUNDA</title>
   </programme>
   <channel id="TRTDIYANETCOCUK">
@@ -27959,7 +27995,7 @@
   <programme start="20251111065000 +0000" stop="20251111070500 +0000" channel="TRTDIYANETCOCUK">
     <title>ASLAN PARÇASI CESUR</title>
   </programme>
-  <programme start="20251111070500 +0000" stop="20251111071500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111071000 +0000" stop="20251111071500 +0000" channel="TRTDIYANETCOCUK">
     <title>KARA İLE KEÇE</title>
   </programme>
   <programme start="20251111071500 +0000" stop="20251111072500 +0000" channel="TRTDIYANETCOCUK">
@@ -27971,11 +28007,11 @@
   <programme start="20251111074000 +0000" stop="20251111075500 +0000" channel="TRTDIYANETCOCUK">
     <title>DIKKAT BALONU</title>
   </programme>
-  <programme start="20251111075500 +0000" stop="20251111080500 +0000" channel="TRTDIYANETCOCUK">
-    <title>GUGULAR</title>
-  </programme>
-  <programme start="20251111080500 +0000" stop="20251111081000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111075500 +0000" stop="20251111080000 +0000" channel="TRTDIYANETCOCUK">
     <title>TEMEL'DEN ÖĞRENIYORUM</title>
+  </programme>
+  <programme start="20251111080000 +0000" stop="20251111081000 +0000" channel="TRTDIYANETCOCUK">
+    <title>GUGULAR</title>
   </programme>
   <programme start="20251111081000 +0000" stop="20251111082500 +0000" channel="TRTDIYANETCOCUK">
     <title>CÜMBÜR CEMAAT ( KAMPTAYIZ )</title>
@@ -28002,10 +28038,10 @@
     <title>MERAKLI HAFIYE</title>
   </programme>
   <programme start="20251111095500 +0000" stop="20251111101000 +0000" channel="TRTDIYANETCOCUK">
-    <title>KÜÇÜK HAFIZ EMIN</title>
+    <title>HAKLI KARINCA</title>
   </programme>
   <programme start="20251111101000 +0000" stop="20251111102500 +0000" channel="TRTDIYANETCOCUK">
-    <title>HAKLI KARINCA</title>
+    <title>KÜÇÜK HAFIZ EMIN</title>
   </programme>
   <programme start="20251111102500 +0000" stop="20251111103000 +0000" channel="TRTDIYANETCOCUK">
     <title>AYRI TELDEN</title>
@@ -28046,121 +28082,121 @@
   <programme start="20251111125000 +0000" stop="20251111130500 +0000" channel="TRTDIYANETCOCUK">
     <title>ASLAN PARÇASI CESUR</title>
   </programme>
-  <programme start="20251111130500 +0000" stop="20251111131000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111130500 +0000" stop="20251111131500 +0000" channel="TRTDIYANETCOCUK">
     <title>KARA İLE KEÇE</title>
   </programme>
-  <programme start="20251111131000 +0000" stop="20251111132500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111131500 +0000" stop="20251111133000 +0000" channel="TRTDIYANETCOCUK">
     <title>7 KITADAN İYILIK HABERCILERI</title>
   </programme>
-  <programme start="20251111132500 +0000" stop="20251111133500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111133000 +0000" stop="20251111134000 +0000" channel="TRTDIYANETCOCUK">
     <title>GALIP MÜLAYIM</title>
   </programme>
-  <programme start="20251111133500 +0000" stop="20251111135000 +0000" channel="TRTDIYANETCOCUK">
-    <title>DIKKAT BALONU</title>
-  </programme>
-  <programme start="20251111135000 +0000" stop="20251111140000 +0000" channel="TRTDIYANETCOCUK">
-    <title>GUGULAR</title>
-  </programme>
-  <programme start="20251111140000 +0000" stop="20251111140500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111134000 +0000" stop="20251111134500 +0000" channel="TRTDIYANETCOCUK">
     <title>TEMEL'DEN ÖĞRENIYORUM</title>
   </programme>
-  <programme start="20251111140500 +0000" stop="20251111142000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111134500 +0000" stop="20251111140000 +0000" channel="TRTDIYANETCOCUK">
+    <title>DIKKAT BALONU</title>
+  </programme>
+  <programme start="20251111140000 +0000" stop="20251111141000 +0000" channel="TRTDIYANETCOCUK">
+    <title>GUGULAR</title>
+  </programme>
+  <programme start="20251111141000 +0000" stop="20251111142500 +0000" channel="TRTDIYANETCOCUK">
     <title>CÜMBÜR CEMAAT ( KAMPTAYIZ )</title>
   </programme>
-  <programme start="20251111142000 +0000" stop="20251111143500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111142500 +0000" stop="20251111144000 +0000" channel="TRTDIYANETCOCUK">
     <title>HEYBELI TIYATRO</title>
   </programme>
-  <programme start="20251111143500 +0000" stop="20251111144500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111144000 +0000" stop="20251111145000 +0000" channel="TRTDIYANETCOCUK">
     <title>ZEKICE İŞLER</title>
   </programme>
-  <programme start="20251111144500 +0000" stop="20251111150000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111145000 +0000" stop="20251111150500 +0000" channel="TRTDIYANETCOCUK">
     <title>FÜLFÜL HAC YOLUNDA</title>
   </programme>
-  <programme start="20251111150000 +0000" stop="20251111151500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111150500 +0000" stop="20251111152000 +0000" channel="TRTDIYANETCOCUK">
     <title>GEZGIN ÇELEBI ( SEMAVI'NIN SIRRI )</title>
   </programme>
-  <programme start="20251111151500 +0000" stop="20251111153000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111152000 +0000" stop="20251111153500 +0000" channel="TRTDIYANETCOCUK">
     <title>MERAKLI HAFIYE</title>
   </programme>
-  <programme start="20251111153000 +0000" stop="20251111154500 +0000" channel="TRTDIYANETCOCUK">
-    <title>KÜÇÜK HAFIZ EMIN</title>
-  </programme>
-  <programme start="20251111154500 +0000" stop="20251111160000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111153500 +0000" stop="20251111155000 +0000" channel="TRTDIYANETCOCUK">
     <title>HAKLI KARINCA</title>
   </programme>
-  <programme start="20251111160000 +0000" stop="20251111160500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111155000 +0000" stop="20251111160500 +0000" channel="TRTDIYANETCOCUK">
+    <title>KÜÇÜK HAFIZ EMIN</title>
+  </programme>
+  <programme start="20251111160500 +0000" stop="20251111161000 +0000" channel="TRTDIYANETCOCUK">
     <title>AYRI TELDEN</title>
   </programme>
-  <programme start="20251111160500 +0000" stop="20251111161500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111161000 +0000" stop="20251111162000 +0000" channel="TRTDIYANETCOCUK">
     <title>SEVIMLI SABAHLAR</title>
   </programme>
-  <programme start="20251111161500 +0000" stop="20251111163000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111162000 +0000" stop="20251111163500 +0000" channel="TRTDIYANETCOCUK">
     <title>MERCANYA</title>
   </programme>
-  <programme start="20251111163000 +0000" stop="20251111164500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111163500 +0000" stop="20251111165000 +0000" channel="TRTDIYANETCOCUK">
     <title>AYLABERA</title>
   </programme>
-  <programme start="20251111164500 +0000" stop="20251111170000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111165000 +0000" stop="20251111170500 +0000" channel="TRTDIYANETCOCUK">
     <title>HAY HAK</title>
   </programme>
-  <programme start="20251111170000 +0000" stop="20251111171500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111170500 +0000" stop="20251111172000 +0000" channel="TRTDIYANETCOCUK">
     <title>YUMURCALI</title>
   </programme>
-  <programme start="20251111171500 +0000" stop="20251111172500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111172000 +0000" stop="20251111173000 +0000" channel="TRTDIYANETCOCUK">
     <title>MIŞ MIŞ</title>
   </programme>
-  <programme start="20251111172500 +0000" stop="20251111173500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111173000 +0000" stop="20251111174000 +0000" channel="TRTDIYANETCOCUK">
     <title>MIMIKOLAR</title>
   </programme>
-  <programme start="20251111173500 +0000" stop="20251111175000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111174000 +0000" stop="20251111175500 +0000" channel="TRTDIYANETCOCUK">
     <title>ŞEF LINA</title>
   </programme>
-  <programme start="20251111175000 +0000" stop="20251111180000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111175500 +0000" stop="20251111180500 +0000" channel="TRTDIYANETCOCUK">
     <title>DUYARLI TILKI</title>
   </programme>
-  <programme start="20251111180000 +0000" stop="20251111181000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111180500 +0000" stop="20251111181500 +0000" channel="TRTDIYANETCOCUK">
     <title>BENIM ADIM MUCIZE</title>
   </programme>
-  <programme start="20251111181000 +0000" stop="20251111182000 +0000" channel="TRTDIYANETCOCUK">
-    <title>ŞEKER HOCA</title>
-  </programme>
-  <programme start="20251111182000 +0000" stop="20251111183000 +0000" channel="TRTDIYANETCOCUK">
-    <title>KARA İLE KEÇE</title>
+  <programme start="20251111181500 +0000" stop="20251111183000 +0000" channel="TRTDIYANETCOCUK">
+    <title>GERI DÖN ÇUFI</title>
   </programme>
   <programme start="20251111183000 +0000" stop="20251111184000 +0000" channel="TRTDIYANETCOCUK">
     <title>DÜŞ FIRÇASI</title>
   </programme>
   <programme start="20251111184000 +0000" stop="20251111185500 +0000" channel="TRTDIYANETCOCUK">
-    <title>ASLAN PARÇASI CESUR</title>
+    <title>ŞEKER HOCA</title>
   </programme>
   <programme start="20251111185500 +0000" stop="20251111191000 +0000" channel="TRTDIYANETCOCUK">
-    <title>GERI DÖN ÇUFI</title>
+    <title>ASLAN PARÇASI CESUR</title>
   </programme>
-  <programme start="20251111191000 +0000" stop="20251111192000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111191000 +0000" stop="20251111191500 +0000" channel="TRTDIYANETCOCUK">
+    <title>KARA İLE KEÇE</title>
+  </programme>
+  <programme start="20251111191500 +0000" stop="20251111192500 +0000" channel="TRTDIYANETCOCUK">
     <title>GALIP MÜLAYIM</title>
   </programme>
-  <programme start="20251111192000 +0000" stop="20251111193500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111192500 +0000" stop="20251111194000 +0000" channel="TRTDIYANETCOCUK">
     <title>7 KITADAN İYILIK HABERCILERI</title>
   </programme>
-  <programme start="20251111193500 +0000" stop="20251111195000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111194000 +0000" stop="20251111195500 +0000" channel="TRTDIYANETCOCUK">
     <title>DIKKAT BALONU</title>
   </programme>
-  <programme start="20251111195000 +0000" stop="20251111200000 +0000" channel="TRTDIYANETCOCUK">
-    <title>GUGULAR</title>
-  </programme>
-  <programme start="20251111200000 +0000" stop="20251111200500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111195500 +0000" stop="20251111200000 +0000" channel="TRTDIYANETCOCUK">
     <title>TEMEL'DEN ÖĞRENIYORUM</title>
   </programme>
-  <programme start="20251111200500 +0000" stop="20251111202000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111200000 +0000" stop="20251111201000 +0000" channel="TRTDIYANETCOCUK">
+    <title>GUGULAR</title>
+  </programme>
+  <programme start="20251111201000 +0000" stop="20251111202500 +0000" channel="TRTDIYANETCOCUK">
     <title>CÜMBÜR CEMAAT ( KAMPTAYIZ )</title>
   </programme>
-  <programme start="20251111202000 +0000" stop="20251111203500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111202500 +0000" stop="20251111204000 +0000" channel="TRTDIYANETCOCUK">
     <title>HEYBELI TIYATRO</title>
   </programme>
-  <programme start="20251111203500 +0000" stop="20251111204500 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111204000 +0000" stop="20251111205000 +0000" channel="TRTDIYANETCOCUK">
     <title>ZEKICE İŞLER</title>
   </programme>
-  <programme start="20251111204500 +0000" stop="20251111210000 +0000" channel="TRTDIYANETCOCUK">
+  <programme start="20251111205000 +0000" stop="20251111210500 +0000" channel="TRTDIYANETCOCUK">
     <title>FÜLFÜL HAC YOLUNDA</title>
   </programme>
   <channel id="CNN_INTERNATIONAL">
@@ -32340,38 +32376,29 @@
   <programme start="20251111070000 +0000" stop="20251111083000 +0000" channel="TİVİ6">
     <title>WESTERN KUŞAĞI</title>
   </programme>
-  <programme start="20251111083000 +0000" stop="20251111104000 +0000" channel="TİVİ6">
-    <title>YEŞILÇAM KUŞAĞI</title>
+  <programme start="20251111091000 +0000" stop="20251111100000 +0000" channel="TİVİ6">
+    <title>BILGI KORKUYU FETHETTIĞINDE</title>
   </programme>
-  <programme start="20251111104000 +0000" stop="20251111121500 +0000" channel="TİVİ6">
-    <title>YABANCI SINEMA</title>
+  <programme start="20251111100000 +0000" stop="20251111105500 +0000" channel="TİVİ6">
+    <title>BIZIMKILER</title>
   </programme>
-  <programme start="20251111121500 +0000" stop="20251111124500 +0000" channel="TİVİ6">
-    <title>BELGESEL</title>
+  <programme start="20251111105500 +0000" stop="20251111130500 +0000" channel="TİVİ6">
+    <title>SISLERIN İÇINDE</title>
   </programme>
-  <programme start="20251111124500 +0000" stop="20251111130000 +0000" channel="TİVİ6">
-    <title>ÜLKELER</title>
+  <programme start="20251111130500 +0000" stop="20251111144500 +0000" channel="TİVİ6">
+    <title>EFSANE AVCISI 2</title>
   </programme>
-  <programme start="20251111130000 +0000" stop="20251111140000 +0000" channel="TİVİ6">
-    <title>PROGRAM</title>
+  <programme start="20251111144500 +0000" stop="20251111163000 +0000" channel="TİVİ6">
+    <title>CEHENNEMI YAŞAMAK</title>
   </programme>
-  <programme start="20251111140000 +0000" stop="20251111150000 +0000" channel="TİVİ6">
-    <title>İHA HABER</title>
+  <programme start="20251111163000 +0000" stop="20251111173000 +0000" channel="TİVİ6">
+    <title>BIZIMKILER</title>
   </programme>
-  <programme start="20251111150000 +0000" stop="20251111163000 +0000" channel="TİVİ6">
-    <title>BELGESEL</title>
+  <programme start="20251111173000 +0000" stop="20251111193000 +0000" channel="TİVİ6">
+    <title>GEÇMIŞIN SIRRI</title>
   </programme>
-  <programme start="20251111163000 +0000" stop="20251111170000 +0000" channel="TİVİ6">
-    <title>BELGESEL</title>
-  </programme>
-  <programme start="20251111170000 +0000" stop="20251111183000 +0000" channel="TİVİ6">
-    <title>YEŞILÇAM KUŞAĞI</title>
-  </programme>
-  <programme start="20251111183000 +0000" stop="20251111194500 +0000" channel="TİVİ6">
-    <title>YABANCI SINEMA</title>
-  </programme>
-  <programme start="20251111194500 +0000" stop="20251111210000 +0000" channel="TİVİ6">
-    <title>YEŞILÇAM KUŞAĞI</title>
+  <programme start="20251111193000 +0000" stop="20251111210000 +0000" channel="TİVİ6">
+    <title>AMERIKA HAVASI</title>
   </programme>
   <channel id="TYT_TÜRK">
     <display-name>TYT_TÜRK</display-name>
