@@ -1,4 +1,10 @@
 {
+  "/dizi/nice-to-not-meet-you/": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/bat-fam/": {
     "group": "BAT-FAM",
     "last_season": 1,
