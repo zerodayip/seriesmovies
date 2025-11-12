@@ -446,7 +446,7 @@
   "/diziler/down-cemetery-road.html": {
     "group": "DOWN CEMETERY ROAD",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/breeders.html": {
@@ -2660,7 +2660,7 @@
   "/diziler/hazbin-hotel.html": {
     "group": "HAZBIN HOTEL",
     "last_season": 2,
-    "last_episode": 4,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/american-dragon-jake-long.html": {
@@ -5738,7 +5738,7 @@
   "/diziler/loot.html": {
     "group": "LOOT",
     "last_season": 3,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/monsters-at-work.html": {
@@ -11318,7 +11318,7 @@
   "/diziler/the-morning-show.html": {
     "group": "THE MORNING SHOW",
     "last_season": 4,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/see.html": {
