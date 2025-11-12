@@ -899,8 +899,8 @@
   <programme start="20251112113000 +0000" stop="20251112144500 +0000" channel="TRT 1">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251112144500 +0000" stop="20251112160000 +0000" channel="TRT 1">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251112150000 +0000" stop="20251112160000 +0000" channel="TRT 1">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251112160000 +0000" stop="20251112165500 +0000" channel="TRT 1">
     <title>ANA HABER</title>
@@ -945,8 +945,8 @@
   <programme start="20251112113000 +0000" stop="20251112144500 +0000" channel="TRT 1 4K">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251112144500 +0000" stop="20251112160000 +0000" channel="TRT 1 4K">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251112150000 +0000" stop="20251112160000 +0000" channel="TRT 1 4K">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251112160000 +0000" stop="20251112165500 +0000" channel="TRT 1 4K">
     <title>ANA HABER</title>
@@ -991,8 +991,8 @@
   <programme start="20251112113000 +0000" stop="20251112144500 +0000" channel="TRT 1 HD">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251112144500 +0000" stop="20251112160000 +0000" channel="TRT 1 HD">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251112150000 +0000" stop="20251112160000 +0000" channel="TRT 1 HD">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251112160000 +0000" stop="20251112165500 +0000" channel="TRT 1 HD">
     <title>ANA HABER</title>
@@ -1037,8 +1037,8 @@
   <programme start="20251112113000 +0000" stop="20251112144500 +0000" channel="TRT 1 FHD">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251112144500 +0000" stop="20251112160000 +0000" channel="TRT 1 FHD">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251112150000 +0000" stop="20251112160000 +0000" channel="TRT 1 FHD">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251112160000 +0000" stop="20251112165500 +0000" channel="TRT 1 FHD">
     <title>ANA HABER</title>
@@ -1083,8 +1083,8 @@
   <programme start="20251112113000 +0000" stop="20251112144500 +0000" channel="TRT 1 HEVC">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251112144500 +0000" stop="20251112160000 +0000" channel="TRT 1 HEVC">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251112150000 +0000" stop="20251112160000 +0000" channel="TRT 1 HEVC">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251112160000 +0000" stop="20251112165500 +0000" channel="TRT 1 HEVC">
     <title>ANA HABER</title>
@@ -1129,8 +1129,8 @@
   <programme start="20251112113000 +0000" stop="20251112144500 +0000" channel="TRT 1 RAW">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251112144500 +0000" stop="20251112160000 +0000" channel="TRT 1 RAW">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251112150000 +0000" stop="20251112160000 +0000" channel="TRT 1 RAW">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251112160000 +0000" stop="20251112165500 +0000" channel="TRT 1 RAW">
     <title>ANA HABER</title>
@@ -1175,8 +1175,8 @@
   <programme start="20251112113000 +0000" stop="20251112144500 +0000" channel="TRT 1 SD">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251112144500 +0000" stop="20251112160000 +0000" channel="TRT 1 SD">
-    <title>LINGO TÜRKIYE</title>
+  <programme start="20251112150000 +0000" stop="20251112160000 +0000" channel="TRT 1 SD">
+    <title>YURDA DÖNÜŞ</title>
   </programme>
   <programme start="20251112160000 +0000" stop="20251112165500 +0000" channel="TRT 1 SD">
     <title>ANA HABER</title>
@@ -34455,121 +34455,6 @@
   <programme start="20251112204500 +0000" stop="20251112210000 +0000" channel="TRT_EBA">
     <title>OLIMPIYAT YILDIZLARI</title>
   </programme>
-  <channel id="ON6">
-    <display-name>ON6</display-name>
-  </channel>
-
-  <programme start="20251111220000 +0000" stop="20251111220500 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251111220500 +0000" stop="20251111235000 +0000" channel="ON6">
-    <title>01 HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251111235000 +0000" stop="20251111235500 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251111235500 +0000" stop="20251112004000 +0000" channel="ON6">
-    <title>BELEDIYE PROGRAMLARI</title>
-  </programme>
-  <programme start="20251112004000 +0000" stop="20251112004500 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112004500 +0000" stop="20251112013000 +0000" channel="ON6">
-    <title>ÇOCUK VE YAŞAM</title>
-  </programme>
-  <programme start="20251112013000 +0000" stop="20251112013500 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112013500 +0000" stop="20251112015500 +0000" channel="ON6">
-    <title>TARIMDA KADIN ELI</title>
-  </programme>
-  <programme start="20251112015500 +0000" stop="20251112020000 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112020000 +0000" stop="20251112030000 +0000" channel="ON6">
-    <title>05 HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251112030000 +0000" stop="20251112030500 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112030500 +0000" stop="20251112035500 +0000" channel="ON6">
-    <title>BÜYÜKŞEHIR PROGRAM VEYA SPOTLARI</title>
-  </programme>
-  <programme start="20251112035500 +0000" stop="20251112040000 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112040000 +0000" stop="20251112051500 +0000" channel="ON6">
-    <title>ÇOCUK VE YAŞAM</title>
-  </programme>
-  <programme start="20251112051500 +0000" stop="20251112052000 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112052000 +0000" stop="20251112080000 +0000" channel="ON6">
-    <title>TARIMDA KADIN ELI</title>
-  </programme>
-  <programme start="20251112080000 +0000" stop="20251112080500 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112080500 +0000" stop="20251112095500 +0000" channel="ON6">
-    <title>BÜYÜKŞEHIR PROGRAM VEYA SPOTLARI</title>
-  </programme>
-  <programme start="20251112095500 +0000" stop="20251112100000 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112100000 +0000" stop="20251112102000 +0000" channel="ON6">
-    <title>13 HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251112102000 +0000" stop="20251112102500 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112102500 +0000" stop="20251112105500 +0000" channel="ON6">
-    <title>BELEDIYE PROGRAMLARI</title>
-  </programme>
-  <programme start="20251112105500 +0000" stop="20251112110000 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112110000 +0000" stop="20251112115500 +0000" channel="ON6">
-    <title>14 HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251112115500 +0000" stop="20251112120000 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112120000 +0000" stop="20251112135500 +0000" channel="ON6">
-    <title>BURSA TANITIMLARI - BURSANIN DEĞERLERI</title>
-  </programme>
-  <programme start="20251112135500 +0000" stop="20251112140000 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112140000 +0000" stop="20251112144500 +0000" channel="ON6">
-    <title>HABER SAATI</title>
-  </programme>
-  <programme start="20251112144500 +0000" stop="20251112145000 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112145000 +0000" stop="20251112155500 +0000" channel="ON6">
-    <title>BELEDIYE PROGRAMLARI</title>
-  </programme>
-  <programme start="20251112155500 +0000" stop="20251112160000 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112160000 +0000" stop="20251112165500 +0000" channel="ON6">
-    <title>ÇOCUK VE YAŞAM</title>
-  </programme>
-  <programme start="20251112165500 +0000" stop="20251112170000 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112170000 +0000" stop="20251112184500 +0000" channel="ON6">
-    <title>KAMU SPOTLARI VE TANITIMLAR</title>
-  </programme>
-  <programme start="20251112184500 +0000" stop="20251112185000 +0000" channel="ON6">
-    <title>REKLAM</title>
-  </programme>
-  <programme start="20251112185000 +0000" stop="20251112200000 +0000" channel="ON6">
-    <title>TARIMDA KADIN ELI</title>
-  </programme>
-  <programme start="20251112200000 +0000" stop="20251112220000 +0000" channel="ON6">
-    <title>BÜYÜKŞEHIR PROGRAM VEYA SPOTLARI</title>
-  </programme>
   <channel id="KADIRGA_TV">
     <display-name>KADIRGA_TV</display-name>
   </channel>
@@ -35028,6 +34913,121 @@
   </programme>
   <programme start="20251112203000 +0000" stop="20251113043000 +0000" channel="KANAL_33">
     <title>HABER SAATI</title>
+  </programme>
+  <channel id="ON6">
+    <display-name>ON6</display-name>
+  </channel>
+
+  <programme start="20251111220000 +0000" stop="20251111220500 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251111220500 +0000" stop="20251111235000 +0000" channel="ON6">
+    <title>01 HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251111235000 +0000" stop="20251111235500 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251111235500 +0000" stop="20251112004000 +0000" channel="ON6">
+    <title>BELEDIYE PROGRAMLARI</title>
+  </programme>
+  <programme start="20251112004000 +0000" stop="20251112004500 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112004500 +0000" stop="20251112013000 +0000" channel="ON6">
+    <title>ÇOCUK VE YAŞAM</title>
+  </programme>
+  <programme start="20251112013000 +0000" stop="20251112013500 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112013500 +0000" stop="20251112015500 +0000" channel="ON6">
+    <title>TARIMDA KADIN ELI</title>
+  </programme>
+  <programme start="20251112015500 +0000" stop="20251112020000 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112020000 +0000" stop="20251112030000 +0000" channel="ON6">
+    <title>05 HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251112030000 +0000" stop="20251112030500 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112030500 +0000" stop="20251112035500 +0000" channel="ON6">
+    <title>BÜYÜKŞEHIR PROGRAM VEYA SPOTLARI</title>
+  </programme>
+  <programme start="20251112035500 +0000" stop="20251112040000 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112040000 +0000" stop="20251112051500 +0000" channel="ON6">
+    <title>ÇOCUK VE YAŞAM</title>
+  </programme>
+  <programme start="20251112051500 +0000" stop="20251112052000 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112052000 +0000" stop="20251112080000 +0000" channel="ON6">
+    <title>TARIMDA KADIN ELI</title>
+  </programme>
+  <programme start="20251112080000 +0000" stop="20251112080500 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112080500 +0000" stop="20251112095500 +0000" channel="ON6">
+    <title>BÜYÜKŞEHIR PROGRAM VEYA SPOTLARI</title>
+  </programme>
+  <programme start="20251112095500 +0000" stop="20251112100000 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112100000 +0000" stop="20251112102000 +0000" channel="ON6">
+    <title>13 HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251112102000 +0000" stop="20251112102500 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112102500 +0000" stop="20251112105500 +0000" channel="ON6">
+    <title>BELEDIYE PROGRAMLARI</title>
+  </programme>
+  <programme start="20251112105500 +0000" stop="20251112110000 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112110000 +0000" stop="20251112115500 +0000" channel="ON6">
+    <title>14 HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251112115500 +0000" stop="20251112120000 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112120000 +0000" stop="20251112135500 +0000" channel="ON6">
+    <title>BURSA TANITIMLARI - BURSANIN DEĞERLERI</title>
+  </programme>
+  <programme start="20251112135500 +0000" stop="20251112140000 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112140000 +0000" stop="20251112144500 +0000" channel="ON6">
+    <title>HABER SAATI</title>
+  </programme>
+  <programme start="20251112144500 +0000" stop="20251112145000 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112145000 +0000" stop="20251112155500 +0000" channel="ON6">
+    <title>BELEDIYE PROGRAMLARI</title>
+  </programme>
+  <programme start="20251112155500 +0000" stop="20251112160000 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112160000 +0000" stop="20251112165500 +0000" channel="ON6">
+    <title>ÇOCUK VE YAŞAM</title>
+  </programme>
+  <programme start="20251112165500 +0000" stop="20251112170000 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112170000 +0000" stop="20251112184500 +0000" channel="ON6">
+    <title>KAMU SPOTLARI VE TANITIMLAR</title>
+  </programme>
+  <programme start="20251112184500 +0000" stop="20251112185000 +0000" channel="ON6">
+    <title>REKLAM</title>
+  </programme>
+  <programme start="20251112185000 +0000" stop="20251112200000 +0000" channel="ON6">
+    <title>TARIMDA KADIN ELI</title>
+  </programme>
+  <programme start="20251112200000 +0000" stop="20251112220000 +0000" channel="ON6">
+    <title>BÜYÜKŞEHIR PROGRAM VEYA SPOTLARI</title>
   </programme>
   <channel id="BRT_1">
     <display-name>BRT_1</display-name>
