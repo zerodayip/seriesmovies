@@ -1624,10 +1624,7 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="4K TR: ATV HD">
     <title>ATV ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112202000 +0000" channel="4K TR: ATV HD">
-    <title>KURULUŞ ORHAN</title>
-  </programme>
-  <programme start="20251112202000 +0000" stop="20251112230000 +0000" channel="4K TR: ATV HD">
+  <programme start="20251112170000 +0000" stop="20251112212000 +0000" channel="4K TR: ATV HD">
     <title>KURULUŞ ORHAN</title>
   </programme>
   <channel id="ATV">
@@ -1661,10 +1658,7 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="ATV">
     <title>ATV ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112202000 +0000" channel="ATV">
-    <title>KURULUŞ ORHAN</title>
-  </programme>
-  <programme start="20251112202000 +0000" stop="20251112230000 +0000" channel="ATV">
+  <programme start="20251112170000 +0000" stop="20251112212000 +0000" channel="ATV">
     <title>KURULUŞ ORHAN</title>
   </programme>
   <channel id="ATV HD">
@@ -1698,10 +1692,7 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="ATV HD">
     <title>ATV ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112202000 +0000" channel="ATV HD">
-    <title>KURULUŞ ORHAN</title>
-  </programme>
-  <programme start="20251112202000 +0000" stop="20251112230000 +0000" channel="ATV HD">
+  <programme start="20251112170000 +0000" stop="20251112212000 +0000" channel="ATV HD">
     <title>KURULUŞ ORHAN</title>
   </programme>
   <channel id="ATV HEVC">
@@ -1735,10 +1726,7 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="ATV HEVC">
     <title>ATV ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112202000 +0000" channel="ATV HEVC">
-    <title>KURULUŞ ORHAN</title>
-  </programme>
-  <programme start="20251112202000 +0000" stop="20251112230000 +0000" channel="ATV HEVC">
+  <programme start="20251112170000 +0000" stop="20251112212000 +0000" channel="ATV HEVC">
     <title>KURULUŞ ORHAN</title>
   </programme>
   <channel id="ATV RAW">
@@ -1772,10 +1760,7 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="ATV RAW">
     <title>ATV ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112202000 +0000" channel="ATV RAW">
-    <title>KURULUŞ ORHAN</title>
-  </programme>
-  <programme start="20251112202000 +0000" stop="20251112230000 +0000" channel="ATV RAW">
+  <programme start="20251112170000 +0000" stop="20251112212000 +0000" channel="ATV RAW">
     <title>KURULUŞ ORHAN</title>
   </programme>
   <channel id="ATV SD">
@@ -1809,10 +1794,7 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="ATV SD">
     <title>ATV ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112202000 +0000" channel="ATV SD">
-    <title>KURULUŞ ORHAN</title>
-  </programme>
-  <programme start="20251112202000 +0000" stop="20251112230000 +0000" channel="ATV SD">
+  <programme start="20251112170000 +0000" stop="20251112212000 +0000" channel="ATV SD">
     <title>KURULUŞ ORHAN</title>
   </programme>
   <channel id="4K TR: SHOW TV HD">
@@ -1846,8 +1828,11 @@
   <programme start="20251112154500 +0000" stop="20251112170000 +0000" channel="4K TR: SHOW TV HD">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="4K TR: SHOW TV HD">
-    <title>GÜLDÜR GÜLDÜR SHOW</title>
+  <programme start="20251112170000 +0000" stop="20251112194500 +0000" channel="4K TR: SHOW TV HD">
+    <title>BEREKETLI TOPRAKLAR</title>
+  </programme>
+  <programme start="20251112194500 +0000" stop="20251112223000 +0000" channel="4K TR: SHOW TV HD">
+    <title>EŞKIYA</title>
   </programme>
   <channel id="SHOW TV">
     <display-name>SHOW TV</display-name>
@@ -1880,8 +1865,11 @@
   <programme start="20251112154500 +0000" stop="20251112170000 +0000" channel="SHOW TV">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="SHOW TV">
-    <title>GÜLDÜR GÜLDÜR SHOW</title>
+  <programme start="20251112170000 +0000" stop="20251112194500 +0000" channel="SHOW TV">
+    <title>BEREKETLI TOPRAKLAR</title>
+  </programme>
+  <programme start="20251112194500 +0000" stop="20251112223000 +0000" channel="SHOW TV">
+    <title>EŞKIYA</title>
   </programme>
   <channel id="SHOW TV FHD">
     <display-name>SHOW TV FHD</display-name>
@@ -1914,8 +1902,11 @@
   <programme start="20251112154500 +0000" stop="20251112170000 +0000" channel="SHOW TV FHD">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="SHOW TV FHD">
-    <title>GÜLDÜR GÜLDÜR SHOW</title>
+  <programme start="20251112170000 +0000" stop="20251112194500 +0000" channel="SHOW TV FHD">
+    <title>BEREKETLI TOPRAKLAR</title>
+  </programme>
+  <programme start="20251112194500 +0000" stop="20251112223000 +0000" channel="SHOW TV FHD">
+    <title>EŞKIYA</title>
   </programme>
   <channel id="SHOW TV HD">
     <display-name>SHOW TV HD</display-name>
@@ -1948,8 +1939,11 @@
   <programme start="20251112154500 +0000" stop="20251112170000 +0000" channel="SHOW TV HD">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="SHOW TV HD">
-    <title>GÜLDÜR GÜLDÜR SHOW</title>
+  <programme start="20251112170000 +0000" stop="20251112194500 +0000" channel="SHOW TV HD">
+    <title>BEREKETLI TOPRAKLAR</title>
+  </programme>
+  <programme start="20251112194500 +0000" stop="20251112223000 +0000" channel="SHOW TV HD">
+    <title>EŞKIYA</title>
   </programme>
   <channel id="SHOW TV HEVC">
     <display-name>SHOW TV HEVC</display-name>
@@ -1982,8 +1976,11 @@
   <programme start="20251112154500 +0000" stop="20251112170000 +0000" channel="SHOW TV HEVC">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="SHOW TV HEVC">
-    <title>GÜLDÜR GÜLDÜR SHOW</title>
+  <programme start="20251112170000 +0000" stop="20251112194500 +0000" channel="SHOW TV HEVC">
+    <title>BEREKETLI TOPRAKLAR</title>
+  </programme>
+  <programme start="20251112194500 +0000" stop="20251112223000 +0000" channel="SHOW TV HEVC">
+    <title>EŞKIYA</title>
   </programme>
   <channel id="SHOW TV RAW">
     <display-name>SHOW TV RAW</display-name>
@@ -2016,8 +2013,11 @@
   <programme start="20251112154500 +0000" stop="20251112170000 +0000" channel="SHOW TV RAW">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="SHOW TV RAW">
-    <title>GÜLDÜR GÜLDÜR SHOW</title>
+  <programme start="20251112170000 +0000" stop="20251112194500 +0000" channel="SHOW TV RAW">
+    <title>BEREKETLI TOPRAKLAR</title>
+  </programme>
+  <programme start="20251112194500 +0000" stop="20251112223000 +0000" channel="SHOW TV RAW">
+    <title>EŞKIYA</title>
   </programme>
   <channel id="SHOW TV SD">
     <display-name>SHOW TV SD</display-name>
@@ -2050,8 +2050,11 @@
   <programme start="20251112154500 +0000" stop="20251112170000 +0000" channel="SHOW TV SD">
     <title>SHOW ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="SHOW TV SD">
-    <title>GÜLDÜR GÜLDÜR SHOW</title>
+  <programme start="20251112170000 +0000" stop="20251112194500 +0000" channel="SHOW TV SD">
+    <title>BEREKETLI TOPRAKLAR</title>
+  </programme>
+  <programme start="20251112194500 +0000" stop="20251112223000 +0000" channel="SHOW TV SD">
+    <title>EŞKIYA</title>
   </programme>
   <channel id="4K TR: NOW HD">
     <display-name>4K TR: NOW HD</display-name>
@@ -2091,7 +2094,7 @@
     <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
   </programme>
   <programme start="20251112170000 +0000" stop="20251112193000 +0000" channel="4K TR: NOW HD">
-    <title>BEN LEMAN</title>
+    <title>SAHTEKARLAR</title>
   </programme>
   <programme start="20251112193000 +0000" stop="20251112221500 +0000" channel="4K TR: NOW HD">
     <title>HALEF</title>
@@ -2134,7 +2137,7 @@
     <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
   </programme>
   <programme start="20251112170000 +0000" stop="20251112193000 +0000" channel="NOW TV FHD">
-    <title>BEN LEMAN</title>
+    <title>SAHTEKARLAR</title>
   </programme>
   <programme start="20251112193000 +0000" stop="20251112221500 +0000" channel="NOW TV FHD">
     <title>HALEF</title>
@@ -2177,7 +2180,7 @@
     <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
   </programme>
   <programme start="20251112170000 +0000" stop="20251112193000 +0000" channel="NOW TV HD">
-    <title>BEN LEMAN</title>
+    <title>SAHTEKARLAR</title>
   </programme>
   <programme start="20251112193000 +0000" stop="20251112221500 +0000" channel="NOW TV HD">
     <title>HALEF</title>
@@ -2220,7 +2223,7 @@
     <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
   </programme>
   <programme start="20251112170000 +0000" stop="20251112193000 +0000" channel="NOW TV">
-    <title>BEN LEMAN</title>
+    <title>SAHTEKARLAR</title>
   </programme>
   <programme start="20251112193000 +0000" stop="20251112221500 +0000" channel="NOW TV">
     <title>HALEF</title>
@@ -13080,20 +13083,23 @@
   <programme start="20251112174500 +0000" stop="20251112193500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>LIETKABELIS P. - TÜRK TELEKOM</title>
   </programme>
-  <programme start="20251112193500 +0000" stop="20251112194000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251112194000 +0000" stop="20251112195000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20251112195000 +0000" stop="20251112201500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251112193500 +0000" stop="20251112200000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>SATRANÇ DÜNYASI</title>
   </programme>
-  <programme start="20251112201500 +0000" stop="20251112204000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251112200000 +0000" stop="20251112202500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>YENILMEZ</title>
   </programme>
-  <programme start="20251112204000 +0000" stop="20251112223000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>THESSALONIKI B.-BAHÇEŞEHIR</title>
+  <programme start="20251112202500 +0000" stop="20251112203500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>SPOR ATLASI</title>
+  </programme>
+  <programme start="20251112203500 +0000" stop="20251112205000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>OYUNU BAŞLATANLAR</title>
+  </programme>
+  <programme start="20251112205000 +0000" stop="20251112205500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>KADRAJ</title>
+  </programme>
+  <programme start="20251112205500 +0000" stop="20251112210000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>6.ADAM</title>
   </programme>
   <channel id="TRT SPOR YILDIZ">
     <display-name>TRT SPOR YILDIZ</display-name>
@@ -13162,20 +13168,23 @@
   <programme start="20251112174500 +0000" stop="20251112193500 +0000" channel="TRT SPOR YILDIZ">
     <title>LIETKABELIS P. - TÜRK TELEKOM</title>
   </programme>
-  <programme start="20251112193500 +0000" stop="20251112194000 +0000" channel="TRT SPOR YILDIZ">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251112194000 +0000" stop="20251112195000 +0000" channel="TRT SPOR YILDIZ">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20251112195000 +0000" stop="20251112201500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251112193500 +0000" stop="20251112200000 +0000" channel="TRT SPOR YILDIZ">
     <title>SATRANÇ DÜNYASI</title>
   </programme>
-  <programme start="20251112201500 +0000" stop="20251112204000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251112200000 +0000" stop="20251112202500 +0000" channel="TRT SPOR YILDIZ">
     <title>YENILMEZ</title>
   </programme>
-  <programme start="20251112204000 +0000" stop="20251112223000 +0000" channel="TRT SPOR YILDIZ">
-    <title>THESSALONIKI B.-BAHÇEŞEHIR</title>
+  <programme start="20251112202500 +0000" stop="20251112203500 +0000" channel="TRT SPOR YILDIZ">
+    <title>SPOR ATLASI</title>
+  </programme>
+  <programme start="20251112203500 +0000" stop="20251112205000 +0000" channel="TRT SPOR YILDIZ">
+    <title>OYUNU BAŞLATANLAR</title>
+  </programme>
+  <programme start="20251112205000 +0000" stop="20251112205500 +0000" channel="TRT SPOR YILDIZ">
+    <title>KADRAJ</title>
+  </programme>
+  <programme start="20251112205500 +0000" stop="20251112210000 +0000" channel="TRT SPOR YILDIZ">
+    <title>6.ADAM</title>
   </programme>
   <channel id="TRT SPOR YILDIZ HD">
     <display-name>TRT SPOR YILDIZ HD</display-name>
@@ -13244,20 +13253,23 @@
   <programme start="20251112174500 +0000" stop="20251112193500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>LIETKABELIS P. - TÜRK TELEKOM</title>
   </programme>
-  <programme start="20251112193500 +0000" stop="20251112194000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251112194000 +0000" stop="20251112195000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20251112195000 +0000" stop="20251112201500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251112193500 +0000" stop="20251112200000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>SATRANÇ DÜNYASI</title>
   </programme>
-  <programme start="20251112201500 +0000" stop="20251112204000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251112200000 +0000" stop="20251112202500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>YENILMEZ</title>
   </programme>
-  <programme start="20251112204000 +0000" stop="20251112223000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>THESSALONIKI B.-BAHÇEŞEHIR</title>
+  <programme start="20251112202500 +0000" stop="20251112203500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>SPOR ATLASI</title>
+  </programme>
+  <programme start="20251112203500 +0000" stop="20251112205000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>OYUNU BAŞLATANLAR</title>
+  </programme>
+  <programme start="20251112205000 +0000" stop="20251112205500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>KADRAJ</title>
+  </programme>
+  <programme start="20251112205500 +0000" stop="20251112210000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>6.ADAM</title>
   </programme>
   <channel id="TRT SPOR YILDIZ HEVC">
     <display-name>TRT SPOR YILDIZ HEVC</display-name>
@@ -13326,20 +13338,23 @@
   <programme start="20251112174500 +0000" stop="20251112193500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>LIETKABELIS P. - TÜRK TELEKOM</title>
   </programme>
-  <programme start="20251112193500 +0000" stop="20251112194000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251112194000 +0000" stop="20251112195000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20251112195000 +0000" stop="20251112201500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251112193500 +0000" stop="20251112200000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>SATRANÇ DÜNYASI</title>
   </programme>
-  <programme start="20251112201500 +0000" stop="20251112204000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251112200000 +0000" stop="20251112202500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>YENILMEZ</title>
   </programme>
-  <programme start="20251112204000 +0000" stop="20251112223000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>THESSALONIKI B.-BAHÇEŞEHIR</title>
+  <programme start="20251112202500 +0000" stop="20251112203500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>SPOR ATLASI</title>
+  </programme>
+  <programme start="20251112203500 +0000" stop="20251112205000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>OYUNU BAŞLATANLAR</title>
+  </programme>
+  <programme start="20251112205000 +0000" stop="20251112205500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>KADRAJ</title>
+  </programme>
+  <programme start="20251112205500 +0000" stop="20251112210000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>6.ADAM</title>
   </programme>
   <channel id="TRT SPOR YILDIZ RAW">
     <display-name>TRT SPOR YILDIZ RAW</display-name>
@@ -13408,20 +13423,23 @@
   <programme start="20251112174500 +0000" stop="20251112193500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>LIETKABELIS P. - TÜRK TELEKOM</title>
   </programme>
-  <programme start="20251112193500 +0000" stop="20251112194000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251112194000 +0000" stop="20251112195000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20251112195000 +0000" stop="20251112201500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251112193500 +0000" stop="20251112200000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>SATRANÇ DÜNYASI</title>
   </programme>
-  <programme start="20251112201500 +0000" stop="20251112204000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251112200000 +0000" stop="20251112202500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>YENILMEZ</title>
   </programme>
-  <programme start="20251112204000 +0000" stop="20251112223000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>THESSALONIKI B.-BAHÇEŞEHIR</title>
+  <programme start="20251112202500 +0000" stop="20251112203500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>SPOR ATLASI</title>
+  </programme>
+  <programme start="20251112203500 +0000" stop="20251112205000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>OYUNU BAŞLATANLAR</title>
+  </programme>
+  <programme start="20251112205000 +0000" stop="20251112205500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>KADRAJ</title>
+  </programme>
+  <programme start="20251112205500 +0000" stop="20251112210000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>6.ADAM</title>
   </programme>
   <channel id="4K TR: A SPOR HD">
     <display-name>4K TR: A SPOR HD</display-name>
