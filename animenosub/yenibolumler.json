@@ -1,4 +1,10 @@
 {
+  "/anime/hero-without-a-class-who-even-needs-skills/": {
+    "group": "HERO WITHOUT A CLASS: WHO EVEN NEEDS SKILLS?!",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "/anime/disney-twisted-wonderland-the-animation/": {
     "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "MECHANICAL MARIE",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/anime/lil-miss-vampire-cant-suck-right/": {
-    "group": "LI’L MISS VAMPIRE CAN’T SUCK RIGHT",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }

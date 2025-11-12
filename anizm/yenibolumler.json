@@ -1,4 +1,10 @@
 {
+  "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
+    "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
   "/disney-twisted-wonderland-the-animation-episode-of-heartslabyul": {
     "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION: EPISODE OF HEARTSLABYUL",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/one-punch-man-3": {
     "group": "ONE PUNCH MAN 3",
-    "last_season": 1,
-    "last_episode": 5.0,
-    "start_episode": 1
-  },
-  "/chanto-suenai-kyuuketsuki-chan": {
-    "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
     "last_season": 1,
     "last_episode": 5.0,
     "start_episode": 1
