@@ -1,4 +1,16 @@
 {
+  "/diziler/the-manipulated.html": {
+    "group": "THE MANIPULATED",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/diziler/murdaugh-death-in-the-family.html": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/diziler/hazbin-hotel.html": {
     "group": "HAZBIN HOTEL",
     "last_season": 2,
@@ -63,18 +75,6 @@
     "group": "BIG CITY GREENS",
     "last_season": 4,
     "last_episode": 30,
-    "start_episode": 1
-  },
-  "/diziler/bat-fam.html": {
-    "group": "BAT-FAM",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/the-chair-company.html": {
-    "group": "THE CHAIR COMPANY",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
