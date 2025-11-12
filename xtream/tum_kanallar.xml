@@ -1218,8 +1218,11 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="4K TR: KANAL D HD">
     <title>KANAL D ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="4K TR: KANAL D HD">
+  <programme start="20251112170000 +0000" stop="20251112193000 +0000" channel="4K TR: KANAL D HD">
     <title>EŞREF RÜYA</title>
+  </programme>
+  <programme start="20251112193000 +0000" stop="20251112220000 +0000" channel="4K TR: KANAL D HD">
+    <title>UZAK ŞEHIR</title>
   </programme>
   <channel id="KANAL D">
     <display-name>KANAL D</display-name>
@@ -1249,8 +1252,11 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="KANAL D">
     <title>KANAL D ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="KANAL D">
+  <programme start="20251112170000 +0000" stop="20251112193000 +0000" channel="KANAL D">
     <title>EŞREF RÜYA</title>
+  </programme>
+  <programme start="20251112193000 +0000" stop="20251112220000 +0000" channel="KANAL D">
+    <title>UZAK ŞEHIR</title>
   </programme>
   <channel id="KANAL D FHD">
     <display-name>KANAL D FHD</display-name>
@@ -1280,8 +1286,11 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="KANAL D FHD">
     <title>KANAL D ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="KANAL D FHD">
+  <programme start="20251112170000 +0000" stop="20251112193000 +0000" channel="KANAL D FHD">
     <title>EŞREF RÜYA</title>
+  </programme>
+  <programme start="20251112193000 +0000" stop="20251112220000 +0000" channel="KANAL D FHD">
+    <title>UZAK ŞEHIR</title>
   </programme>
   <channel id="KANAL D HD">
     <display-name>KANAL D HD</display-name>
@@ -1311,8 +1320,11 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="KANAL D HD">
     <title>KANAL D ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="KANAL D HD">
+  <programme start="20251112170000 +0000" stop="20251112193000 +0000" channel="KANAL D HD">
     <title>EŞREF RÜYA</title>
+  </programme>
+  <programme start="20251112193000 +0000" stop="20251112220000 +0000" channel="KANAL D HD">
+    <title>UZAK ŞEHIR</title>
   </programme>
   <channel id="KANAL D HEVC">
     <display-name>KANAL D HEVC</display-name>
@@ -1342,8 +1354,11 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="KANAL D HEVC">
     <title>KANAL D ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="KANAL D HEVC">
+  <programme start="20251112170000 +0000" stop="20251112193000 +0000" channel="KANAL D HEVC">
     <title>EŞREF RÜYA</title>
+  </programme>
+  <programme start="20251112193000 +0000" stop="20251112220000 +0000" channel="KANAL D HEVC">
+    <title>UZAK ŞEHIR</title>
   </programme>
   <channel id="KANAL D RAW">
     <display-name>KANAL D RAW</display-name>
@@ -1373,8 +1388,11 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="KANAL D RAW">
     <title>KANAL D ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="KANAL D RAW">
+  <programme start="20251112170000 +0000" stop="20251112193000 +0000" channel="KANAL D RAW">
     <title>EŞREF RÜYA</title>
+  </programme>
+  <programme start="20251112193000 +0000" stop="20251112220000 +0000" channel="KANAL D RAW">
+    <title>UZAK ŞEHIR</title>
   </programme>
   <channel id="KANAL D SD">
     <display-name>KANAL D SD</display-name>
@@ -1404,8 +1422,11 @@
   <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="KANAL D SD">
     <title>KANAL D ANA HABER</title>
   </programme>
-  <programme start="20251112170000 +0000" stop="20251112211500 +0000" channel="KANAL D SD">
+  <programme start="20251112170000 +0000" stop="20251112193000 +0000" channel="KANAL D SD">
     <title>EŞREF RÜYA</title>
+  </programme>
+  <programme start="20251112193000 +0000" stop="20251112220000 +0000" channel="KANAL D SD">
+    <title>UZAK ŞEHIR</title>
   </programme>
   <channel id="4K TR: STAR TV HD">
     <display-name>4K TR: STAR TV HD</display-name>
@@ -11506,26 +11527,26 @@
   <programme start="20251112170000 +0000" stop="20251112173000 +0000" channel="4K TR: TVNET HD">
     <title>19. SAAT</title>
   </programme>
-  <programme start="20251112173000 +0000" stop="20251112174500 +0000" channel="4K TR: TVNET HD">
-    <title>EDITÖR ANLATIYOR</title>
+  <programme start="20251112173000 +0000" stop="20251112180000 +0000" channel="4K TR: TVNET HD">
+    <title>GÜNDEM ÖZEL</title>
   </programme>
-  <programme start="20251112174500 +0000" stop="20251112183000 +0000" channel="4K TR: TVNET HD">
-    <title>SIYASETEN</title>
+  <programme start="20251112180000 +0000" stop="20251112183000 +0000" channel="4K TR: TVNET HD">
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251112183000 +0000" stop="20251112190000 +0000" channel="4K TR: TVNET HD">
-    <title>SIYASETEN</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251112190000 +0000" stop="20251112193000 +0000" channel="4K TR: TVNET HD">
-    <title>SIYASETEN</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251112193000 +0000" stop="20251112200000 +0000" channel="4K TR: TVNET HD">
-    <title>SIYASETEN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251112200000 +0000" stop="20251112203000 +0000" channel="4K TR: TVNET HD">
-    <title>SIYASETEN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251112203000 +0000" stop="20251112210000 +0000" channel="4K TR: TVNET HD">
-    <title>GÜNÜN ARDINDAN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <channel id="TVNET">
     <display-name>TVNET</display-name>
@@ -11618,26 +11639,26 @@
   <programme start="20251112170000 +0000" stop="20251112173000 +0000" channel="TVNET">
     <title>19. SAAT</title>
   </programme>
-  <programme start="20251112173000 +0000" stop="20251112174500 +0000" channel="TVNET">
-    <title>EDITÖR ANLATIYOR</title>
+  <programme start="20251112173000 +0000" stop="20251112180000 +0000" channel="TVNET">
+    <title>GÜNDEM ÖZEL</title>
   </programme>
-  <programme start="20251112174500 +0000" stop="20251112183000 +0000" channel="TVNET">
-    <title>SIYASETEN</title>
+  <programme start="20251112180000 +0000" stop="20251112183000 +0000" channel="TVNET">
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251112183000 +0000" stop="20251112190000 +0000" channel="TVNET">
-    <title>SIYASETEN</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251112190000 +0000" stop="20251112193000 +0000" channel="TVNET">
-    <title>SIYASETEN</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251112193000 +0000" stop="20251112200000 +0000" channel="TVNET">
-    <title>SIYASETEN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251112200000 +0000" stop="20251112203000 +0000" channel="TVNET">
-    <title>SIYASETEN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251112203000 +0000" stop="20251112210000 +0000" channel="TVNET">
-    <title>GÜNÜN ARDINDAN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <channel id="TVNET HD">
     <display-name>TVNET HD</display-name>
@@ -11730,26 +11751,26 @@
   <programme start="20251112170000 +0000" stop="20251112173000 +0000" channel="TVNET HD">
     <title>19. SAAT</title>
   </programme>
-  <programme start="20251112173000 +0000" stop="20251112174500 +0000" channel="TVNET HD">
-    <title>EDITÖR ANLATIYOR</title>
+  <programme start="20251112173000 +0000" stop="20251112180000 +0000" channel="TVNET HD">
+    <title>GÜNDEM ÖZEL</title>
   </programme>
-  <programme start="20251112174500 +0000" stop="20251112183000 +0000" channel="TVNET HD">
-    <title>SIYASETEN</title>
+  <programme start="20251112180000 +0000" stop="20251112183000 +0000" channel="TVNET HD">
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251112183000 +0000" stop="20251112190000 +0000" channel="TVNET HD">
-    <title>SIYASETEN</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251112190000 +0000" stop="20251112193000 +0000" channel="TVNET HD">
-    <title>SIYASETEN</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251112193000 +0000" stop="20251112200000 +0000" channel="TVNET HD">
-    <title>SIYASETEN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251112200000 +0000" stop="20251112203000 +0000" channel="TVNET HD">
-    <title>SIYASETEN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251112203000 +0000" stop="20251112210000 +0000" channel="TVNET HD">
-    <title>GÜNÜN ARDINDAN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <channel id="4K TR: AK T TV HD">
     <display-name>4K TR: AK T TV HD</display-name>
@@ -13859,10 +13880,10 @@
     <title>ANA HABER</title>
   </programme>
   <programme start="20251112163000 +0000" stop="20251112171500 +0000" channel="4K TR: FB TV">
-    <title>YILDIZ TAKIMI</title>
+    <title>TARIH VE FENERBAHÇE</title>
   </programme>
   <programme start="20251112171500 +0000" stop="20251112174500 +0000" channel="4K TR: FB TV">
-    <title>ANALIZ FENERBAHÇE</title>
+    <title>EUROLEAGUE ANALIZ</title>
   </programme>
   <programme start="20251112174500 +0000" stop="20251112184500 +0000" channel="4K TR: FB TV">
     <title>YAŞA FENERBAHÇE</title>
@@ -13947,10 +13968,10 @@
     <title>ANA HABER</title>
   </programme>
   <programme start="20251112163000 +0000" stop="20251112171500 +0000" channel="FB TV">
-    <title>YILDIZ TAKIMI</title>
+    <title>TARIH VE FENERBAHÇE</title>
   </programme>
   <programme start="20251112171500 +0000" stop="20251112174500 +0000" channel="FB TV">
-    <title>ANALIZ FENERBAHÇE</title>
+    <title>EUROLEAGUE ANALIZ</title>
   </programme>
   <programme start="20251112174500 +0000" stop="20251112184500 +0000" channel="FB TV">
     <title>YAŞA FENERBAHÇE</title>
