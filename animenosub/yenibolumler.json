@@ -1,4 +1,10 @@
 {
+  "/anime/disney-twisted-wonderland-the-animation/": {
+    "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/anime/yano-kuns-ordinary-days/": {
     "group": "YANO-KUN’S ORDINARY DAYS",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/lil-miss-vampire-cant-suck-right/": {
     "group": "LI’L MISS VAMPIRE CAN’T SUCK RIGHT",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/anime/blue-orchestra-season-2/": {
-    "group": "BLUE ORCHESTRA SEASON 2",
     "last_season": 1,
     "last_episode": 5,
     "start_episode": 1
