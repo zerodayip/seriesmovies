@@ -1,4 +1,10 @@
 {
+  "/tondemo-skill-de-isekai-hourou-meshi-2": {
+    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
   "/mairimashita-iruma-kun-3rd-season": {
     "group": "MAIRIMASHITA! IRUMA-KUN 3RD SEASON",
     "last_season": 1,
@@ -53,12 +59,6 @@
     "last_episode": 6.0,
     "start_episode": 1
   },
-  "/tondemo-skill-de-isekai-hourou-meshi-2": {
-    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
-    "last_season": 1,
-    "last_episode": 5.0,
-    "start_episode": 1
-  },
   "/debu-to-love-to-ayamachi-to": {
     "group": "DEBU TO LOVE TO AYAMACHI TO!",
     "last_season": 1,
@@ -99,12 +99,6 @@
     "group": "MAKE A GIRL",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dragon-raja-ii--the-mourners-eyes-": {
-    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
-    "last_season": 1,
-    "last_episode": 19.0,
     "start_episode": 1
   }
 }

@@ -772,5 +772,17 @@
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
+  },
+  "/dizi/just-a-bit-espers-asya": {
+    "group": "JUST A BIT ESPERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/hollywood-vurgunu-isiklar-hayaller-yalanlar": {
+    "group": "HOLLYWOOD VURGUNU: IŞIKLAR, HAYALLER, YALANLAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
