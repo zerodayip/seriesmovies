@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */5 * * *'    # Her 5 saatte bir tüm scriptler çalışır (DMAX hariç)
-    - cron: '0 2 * * *'     # Türkiye saati 05:00 -> 02:00 UTC (DMAX - TLC - TV DİZİLERİ bu tetikte çalışacak)
+    - cron: '0 1 * * *'     # Türkiye saati 04:00 -> 01:00 UTC (DMAX - TLC - TV DİZİLERİ bu tetikte çalışacak)
 
 jobs:
   part1:
@@ -50,10 +50,6 @@ jobs:
       - name: Run GunlukSporAkısı.py
         run: python private_py/channels/gunluksporakısı/tvyayinakisi.py
 
-      # 2. Günlük Epg Üretimi
-      - name: Run epg.py
-        run: python private_py/channels/epg/gunlukepgsadecebirgün.py
-
       # 2. DiziFun Diziler Yerli Scripts ( site kapandı )
       # - name: Run dizifunyenibolumler.py
       #   run: python private_py/series/dizifun/yenibolumler.py
@@ -68,19 +64,24 @@ jobs:
       - name: Run diziyiizleyenibolumler.py
         run: python private_py/series/diziyiizle/yenibolumler.py
 
+      # 2. Günlük Epg Üretimi
+      - name: Run epg.py
+        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1') }}
+        run: python private_py/channels/epg/gunlukepgsadecebirgün.py
+
       # 2. DMAX sadece gece 02:00 TR çalışacak ---
       - name: Run dmax.py (sadece Türkiye saati 02:00)
-        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2') }}
+        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1') }}
         run: python private_py/series/dmax/yenibolumler.py
 
       # 2. TLC sadece gece 02:00 TR çalışacak ---
       - name: Run tlc.py (sadece Türkiye saati 02:00)
-        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2') }}
+        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1') }}
         run: python private_py/series/tlc/yenibolumler.py
 
       # 2. TV Dizileri sadece gece 02:00 TR çalışacak ---
       - name: Run yereldiziler.py (sadece Türkiye saati 02:00)
-        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2') }}
+        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1') }}
         run: python private_py/series/yereldiziler/yereldiziler.py
 
       - name: Commit and Push EPG to public repo
