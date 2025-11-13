@@ -1,4 +1,10 @@
 {
+  "/dizi/the-manipulated/": {
+    "group": "THE MANIPULATED",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/delhi-crime/": {
     "group": "DELHI CRIME",
     "last_season": 3,
@@ -57,12 +63,6 @@
     "group": "KONUŞANLAR",
     "last_season": 1,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/squid-game-the-challenge/": {
-    "group": "SQUID GAME: THE CHALLENGE",
-    "last_season": 2,
-    "last_episode": 10,
     "start_episode": 1
   }
 }

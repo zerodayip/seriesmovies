@@ -1,4 +1,10 @@
 {
+  "/bukiyou-na-senpai": {
+    "group": "BUKIYOU NA SENPAI.",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
   "/tondemo-skill-de-isekai-hourou-meshi-2": {
     "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
     "last_season": 1,
     "last_episode": 6.0,
-    "start_episode": 1
-  },
-  "/make-a-girl": {
-    "group": "MAKE A GIRL",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }

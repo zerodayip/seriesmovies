@@ -1,4 +1,10 @@
 {
+  "/dizi/sorgu-yerli": {
+    "group": "SORGU",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/dizi/tae-pung-sang-sa-asya": {
     "group": "TAE-PUNG-SANG-SA",
     "last_season": 1,
@@ -128,18 +134,6 @@
   "/dizi/universal-basic-guys": {
     "group": "UNIVERSAL BASIC GUYS",
     "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/tracker": {
-    "group": "TRACKER",
-    "last_season": 3,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi/the-simpsons": {
-    "group": "THE SIMPSONS",
-    "last_season": 37,
     "last_episode": 6,
     "start_episode": 1
   }
