@@ -730,5 +730,17 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi-izle/the-seduction": {
+    "group": "THE SEDUCTION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/malice": {
+    "group": "MALICE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

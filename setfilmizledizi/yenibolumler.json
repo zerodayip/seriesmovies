@@ -1,4 +1,10 @@
 {
+  "/dizi/malice/": {
+    "group": "MALICE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/wandavision/": {
     "group": "WANDAVISION",
     "last_season": 1,
@@ -15,12 +21,6 @@
     "group": "THE BEAST IN ME",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/murdaugh-death-in-the-family/": {
-    "group": "MURDAUGH: DEATH IN THE FAMILY",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   }
 }

@@ -802,5 +802,29 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/dizi/tremembe": {
+    "group": "TREMEMBÉ",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/smilla-s-sense-of-snow": {
+    "group": "SMILLAS SENSE OF SNOW",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/ikusagami-asya": {
+    "group": "IKUSAGAMI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-beast-in-me": {
+    "group": "THE BEAST IN ME",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

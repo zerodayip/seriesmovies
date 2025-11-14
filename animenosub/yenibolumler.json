@@ -1,4 +1,22 @@
 {
+  "/anime/jujutsu-kaisen-execution/": {
+    "group": "JUJUTSU KAISEN: EXECUTION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge/": {
+    "group": "MY GIFT LVL 9999 UNLIMITED GACHA: BACKSTABBED IN A BACKWATER DUNGEON, I’M OUT FOR REVENGE!",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/anime/shabake/": {
+    "group": "SHABAKE",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/anime/potion-wagami-wo-tasukeru/": {
     "group": "POTION, WAGAMI WO TASUKERU",
     "last_season": 1,
@@ -99,24 +117,6 @@
     "group": "WITH YOU, OUR LOVE WILL MAKE IT THROUGH",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/anime/jujutsu-kaisen-the-culling-game-part-1/": {
-    "group": "JUJUTSU KAISEN: THE CULLING GAME PART 1",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
-    "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/anime/a-gatherers-adventure-in-isekai/": {
-    "group": "A GATHERER’S ADVENTURE IN ISEKAI",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   }
 }
