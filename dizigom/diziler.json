@@ -712,5 +712,23 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi-izle/had-i-not-seen-the-sun": {
+    "group": "HAD I NOT SEEN THE SUN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-beast-in-me": {
+    "group": "THE BEAST IN ME",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/last-samurai-standing": {
+    "group": "LAST SAMURAI STANDING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
