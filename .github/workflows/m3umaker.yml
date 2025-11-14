@@ -66,22 +66,22 @@ jobs:
       
       # 2. EPG üretimi sadece gece 04:00 TR çalışacak ---
       - name: Run epg.py
-        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1') }}
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/channels/epg/gunlukepg.py
 
       # 2. DMAX sadece gece 04:00 TR çalışacak ---
       - name: Run dmax.py (sadece Türkiye saati 02:00)
-        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1') }}
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/series/dmax/yenibolumler.py
 
       # 2. TLC sadece gece 04:00 TR çalışacak ---
       - name: Run tlc.py (sadece Türkiye saati 02:00)
-        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1') }}
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/series/tlc/yenibolumler.py
 
       # 2. TV Dizileri sadece gece 04:00 TR çalışacak ---
       - name: Run yereldiziler.py (sadece Türkiye saati 02:00)
-        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1') }}
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/series/yereldiziler/yereldiziler.py
 
       - name: Commit and Push EPG to public repo
