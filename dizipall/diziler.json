@@ -1,4 +1,8 @@
  { 
+    "/dizi/antrenor": {
+    "group": "Antrenör",
+    "tvg-id": "tt38786066"
+ },
     "/dizi/final-gate": {
     "group": "Final Gate",
     "tvg-id": ""
