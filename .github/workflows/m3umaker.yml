@@ -71,12 +71,12 @@ jobs:
 
       # 2. DMAX sadece gece 04:00 TR çalışacak ---
       - name: Run dmax.py (sadece Türkiye saati 02:00)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1'))}}
         run: python private_py/series/dmax/yenibolumler.py
 
       # 2. TLC sadece gece 04:00 TR çalışacak ---
       - name: Run tlc.py (sadece Türkiye saati 02:00)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1'))}}
         run: python private_py/series/tlc/yenibolumler.py
 
       # 2. TV Dizileri sadece gece 04:00 TR çalışacak ---
