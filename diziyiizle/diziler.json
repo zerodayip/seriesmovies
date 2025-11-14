@@ -1,8 +1,18 @@
 {
+  "/dizi/final-gate/": {
+    "group": "Final Gate - Alternatif Yayın",
+    "tvg-id": "ttasdasdasdxxx",
+    "tvg-logo": "https://www.themoviedb.org/t/p/w500/36Kt2rXZmfGvs7T7heFuFKRDNDr.jpg"
+  },
+  "/dizi/antrenor/": {
+    "group": "Antrenör - Alternatif Yayın",
+    "tvg-id": "ttsadasdasdxxx",
+    "tvg-logo": "https://www.themoviedb.org/t/p/w500/36Kt2rXZmfGvs7T7heFuFKRDNDr.jpg"
+  },
   "/dizi/karma-2/": {
     "group": "Karma - Alternatif Yayın",
-    "tvg-id": "tt3874991xxx",
-    "tvg-logo": "https://pbs.twimg.com/media/G4mA4xQWsAAa2ol.jpg"
+    "tvg-id": "tt38896081",
+    "tvg-logo": "https://m.media-amazon.com/images/M/MV5BMWRjN2NkYWItMWYwNi00MDE2LTlkZTMtYjJjYzk2OWFjZjdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   "/dizi/fer-1/": {
     "group": "Fer - Alternatif Yayın",
