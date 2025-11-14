@@ -1,13 +1,7 @@
 {
-  "/dizi-izle/murdaugh-death-in-the-family": {
-    "group": "MURDAUGH: DEATH IN THE FAMILY",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/physical-asia": {
-    "group": "PHYSICAL: ASIA",
-    "last_season": 1,
+  "/dizi-izle/the-morning-show": {
+    "group": "THE MORNING SHOW",
+    "last_season": 4,
     "last_episode": 9,
     "start_episode": 1
   },
@@ -17,14 +11,38 @@
     "last_episode": 2,
     "start_episode": 1
   },
-  "/dizi-izle/the-morning-show": {
-    "group": "THE MORNING SHOW",
-    "last_season": 4,
+  "/dizi-izle/physical-asia": {
+    "group": "PHYSICAL: ASIA",
+    "last_season": 1,
     "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-manipulated": {
+    "group": "THE MANIPULATED",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/last-samurai-standing": {
+    "group": "LAST SAMURAI STANDING",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/vgly": {
+    "group": "VGLY",
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/mrs-playmen": {
     "group": "MRS PLAYMEN",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/murdaugh-death-in-the-family": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
@@ -39,24 +57,6 @@
     "group": "THE BEAST IN ME",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/vgly": {
-    "group": "VGLY",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-manipulated": {
-    "group": "THE MANIPULATED",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/last-samurai-standing": {
-    "group": "LAST SAMURAI STANDING",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
