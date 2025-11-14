@@ -67,7 +67,7 @@ jobs:
       # 2. EPG üretimi sadece gece 04:00 TR çalışacak ---
       - name: Run epg.py
         if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1') }}
-        run: python private_py/channels/epg/gunlukepgsadecebirgün.py
+        run: python private_py/channels/epg/gunlukepg.py
 
       # 2. DMAX sadece gece 04:00 TR çalışacak ---
       - name: Run dmax.py (sadece Türkiye saati 02:00)
