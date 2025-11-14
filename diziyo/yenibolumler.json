@@ -1,4 +1,40 @@
 {
+  "/dizi/the-last-frontier": {
+    "group": "THE LAST FRONTIER",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/pluribus": {
+    "group": "PLURIBUS",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi/antrenor-yerli": {
+    "group": "ANTRENÖR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/reasonable-doubt": {
+    "group": "REASONABLE DOUBT",
+    "last_season": 3,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi/ki-seu-neun-gwaen-hi-hae-seo-asya": {
+    "group": "KI-SEU-NEUN GWAEN-HI HAE-SEO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/50-segundos-el-caso-fernando-baez-sosa": {
+    "group": "50 SANIYE: FERNANDO BÁEZ SOSA VAKASI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/sorgu-yerli": {
     "group": "SORGU",
     "last_season": 2,
@@ -105,36 +141,6 @@
     "group": "FORTNITE X THE SIMPSONS",
     "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/the-chicken-sisters": {
-    "group": "THE CHICKEN SISTERS",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/crutch": {
-    "group": "CRUTCH",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/trespasses": {
-    "group": "TRESPASSES",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/watson": {
-    "group": "WATSON",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/universal-basic-guys": {
-    "group": "UNIVERSAL BASIC GUYS",
-    "last_season": 2,
-    "last_episode": 6,
     "start_episode": 1
   }
 }

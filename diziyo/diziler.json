@@ -784,5 +784,23 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/dizi/antrenor-yerli": {
+    "group": "ANTRENÖR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/ki-seu-neun-gwaen-hi-hae-seo-asya": {
+    "group": "KI-SEU-NEUN GWAEN-HI HAE-SEO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/50-segundos-el-caso-fernando-baez-sosa": {
+    "group": "50 SANIYE: FERNANDO BÁEZ SOSA VAKASI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

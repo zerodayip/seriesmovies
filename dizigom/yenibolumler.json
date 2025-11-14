@@ -5,10 +5,10 @@
     "last_episode": 9,
     "start_episode": 1
   },
-  "/dizi-izle/mrs-playmen": {
-    "group": "MRS PLAYMEN",
+  "/dizi-izle/the-beast-in-me": {
+    "group": "THE BEAST IN ME",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/vgly": {
@@ -17,10 +17,10 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi-izle/the-beast-in-me": {
-    "group": "THE BEAST IN ME",
+  "/dizi-izle/physical-asia": {
+    "group": "PHYSICAL: ASIA",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi-izle/the-manipulated": {
@@ -29,22 +29,16 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi-izle/dynamite-kiss": {
-    "group": "DYNAMITE KISS",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi-izle/murdaugh-death-in-the-family": {
-    "group": "MURDAUGH: DEATH IN THE FAMILY",
+  "/dizi-izle/mrs-playmen": {
+    "group": "MRS PLAYMEN",
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
   },
-  "/dizi-izle/last-samurai-standing": {
-    "group": "LAST SAMURAI STANDING",
+  "/dizi-izle/dynamite-kiss": {
+    "group": "DYNAMITE KISS",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi-izle/had-i-not-seen-the-sun": {
@@ -53,10 +47,16 @@
     "last_episode": 10,
     "start_episode": 1
   },
-  "/dizi-izle/physical-asia": {
-    "group": "PHYSICAL: ASIA",
+  "/dizi-izle/last-samurai-standing": {
+    "group": "LAST SAMURAI STANDING",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/murdaugh-death-in-the-family": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
+    "last_season": 1,
+    "last_episode": 7,
     "start_episode": 1
   }
 }
