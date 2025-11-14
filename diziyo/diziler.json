@@ -140,7 +140,7 @@
   "/dizi/9-1-1-nashville": {
     "group": "9-1-1: NASHVILLE",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/watson": {
@@ -164,7 +164,7 @@
   "/dizi/grey-s-anatomy": {
     "group": "GREY'S ANATOMY",
     "last_season": 22,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/karsilasmalar-yerli": {
@@ -230,13 +230,13 @@
   "/dizi/chicago-med": {
     "group": "CHICAGO MED",
     "last_season": 11,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/chicago-fire": {
     "group": "CHICAGO FIRE",
     "last_season": 14,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/abbott-elementary": {
@@ -644,7 +644,7 @@
   "/dizi/maxton-hall-die-welt-zwischen-uns": {
     "group": "MAXTON HALL - ARAMIZDAKI DÜNYA",
     "last_season": 2,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/meu-ayrton-por-adriane-galisteu": {
@@ -830,19 +830,19 @@
   "/dizi/el-cuco-de-cristal": {
     "group": "KRISTAL GUGUK KUŞU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/malice": {
     "group": "KÖTÜLÜK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/merteuil": {
     "group": "THE SEDUCTION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
