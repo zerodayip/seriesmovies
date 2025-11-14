@@ -1,4 +1,10 @@
 {
+  "/dizi/murdaugh-death-in-the-family/": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/the-last-frontier/": {
     "group": "THE LAST FRONTIER",
     "last_season": 1,
@@ -45,24 +51,6 @@
     "group": "MRS PLAYMEN",
     "last_season": 1,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/palm-royale/": {
-    "group": "PALM ROYALE",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/hazbin-hotel/": {
-    "group": "HAZBIN HOTEL",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/high-potential/": {
-    "group": "HIGH POTENTIAL",
-    "last_season": 2,
-    "last_episode": 13,
     "start_episode": 1
   }
 }
