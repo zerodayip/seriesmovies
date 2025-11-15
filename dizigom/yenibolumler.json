@@ -1,20 +1,20 @@
 {
-  "/dizi-izle/pluribus": {
-    "group": "PLURIBUS",
+  "/dizi-izle/the-manipulated": {
+    "group": "THE MANIPULATED",
     "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-seduction": {
-    "group": "THE SEDUCTION",
-    "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/last-samurai-standing": {
     "group": "LAST SAMURAI STANDING",
     "last_season": 1,
     "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-beast-in-me": {
+    "group": "THE BEAST IN ME",
+    "last_season": 1,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/mrs-playmen": {
@@ -29,22 +29,40 @@
     "last_episode": 7,
     "start_episode": 1
   },
-  "/dizi-izle/dynamite-kiss": {
-    "group": "DYNAMITE KISS",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
   "/dizi-izle/murdaugh-death-in-the-family": {
     "group": "MURDAUGH: DEATH IN THE FAMILY",
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
   },
+  "/dizi-izle/pluribus": {
+    "group": "PLURIBUS",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/dizi-izle/vgly": {
     "group": "VGLY",
     "last_season": 2,
     "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/had-i-not-seen-the-sun": {
+    "group": "HAD I NOT SEEN THE SUN",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/dynamite-kiss": {
+    "group": "DYNAMITE KISS",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-seduction": {
+    "group": "THE SEDUCTION",
+    "last_season": 1,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi-izle/reasonable-doubt": {
@@ -57,24 +75,6 @@
     "group": "MALICE",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-beast-in-me": {
-    "group": "THE BEAST IN ME",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-manipulated": {
-    "group": "THE MANIPULATED",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/had-i-not-seen-the-sun": {
-    "group": "HAD I NOT SEEN THE SUN",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }

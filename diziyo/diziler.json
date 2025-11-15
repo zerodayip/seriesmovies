@@ -844,5 +844,17 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/the-neighborhood": {
+    "group": "THE NEIGHBORHOOD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/ghosts-2021": {
+    "group": "GHOSTS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
