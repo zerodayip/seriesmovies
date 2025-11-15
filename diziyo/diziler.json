@@ -224,7 +224,7 @@
   "/dizi/chicago-p-d": {
     "group": "CHICAGO P.D.",
     "last_season": 13,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/chicago-med": {
@@ -272,7 +272,7 @@
   "/dizi/9-1-1": {
     "group": "9-1-1",
     "last_season": 9,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/entrepreneurs": {
@@ -632,7 +632,7 @@
   "/dizi/karma-yerli": {
     "group": "KARMA",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/pluribus": {
@@ -847,14 +847,14 @@
   },
   "/dizi/the-neighborhood": {
     "group": "THE NEIGHBORHOOD",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 8,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/ghosts-2021": {
     "group": "GHOSTS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
