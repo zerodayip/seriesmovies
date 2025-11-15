@@ -1,4 +1,10 @@
 {
+  "/fuuto-tantei-movie-kamen-rider-skull-no-shouzou": {
+    "group": "FUUTO TANTEI MOVIE: KAMEN RIDER SKULL NO SHOUZOU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
     "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/taiyou-yori-mo-mabushii-hoshi": {
     "group": "TAIYOU YORI MO MABUSHII HOSHI",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/bukiyou-na-senpai": {
-    "group": "BUKIYOU NA SENPAI.",
     "last_season": 1,
     "last_episode": 7.0,
     "start_episode": 1
