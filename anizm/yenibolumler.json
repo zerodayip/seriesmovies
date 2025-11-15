@@ -1,4 +1,10 @@
 {
+  "/shuumatsu-touring": {
+    "group": "SHUUMATSU TOURING",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
   "/ranma--2024-2nd-season": {
     "group": "RANMA ½ (2024) 2ND SEASON",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "GANGLION",
     "last_season": 1,
     "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/tougen-anki": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 18.0,
     "start_episode": 1
   }
 }
