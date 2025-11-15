@@ -1,4 +1,16 @@
 {
+  "/diziler/to-your-eternity.html": {
+    "group": "TO YOUR ETERNITY",
+    "last_season": 3,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/typhoon-family.html": {
+    "group": "TYPHOON FAMILY",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/diziler/spy-x-family.html": {
     "group": "SPY X FAMILY",
     "last_season": 3,
@@ -74,18 +86,6 @@
   "/diziler/the-manipulated.html": {
     "group": "THE MANIPULATED",
     "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/murdaugh-death-in-the-family.html": {
-    "group": "MURDAUGH: DEATH IN THE FAMILY",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/hazbin-hotel.html": {
-    "group": "HAZBIN HOTEL",
-    "last_season": 2,
     "last_episode": 6,
     "start_episode": 1
   }
