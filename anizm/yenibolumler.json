@@ -1,4 +1,10 @@
 {
+  "/kekkon-yubiwa-monogatari-ii": {
+    "group": "KEKKON YUBIWA MONOGATARI II",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
   "/boku-no-hero-academia-final-season": {
     "group": "BOKU NO HERO ACADEMIA: FINAL SEASON",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/watashi-wo-tabetai-hitodenashi": {
     "group": "WATASHI WO TABETAI, HITODENASHI",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/akujiki-reijou-to-kyouketsu-koushaku": {
-    "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
     "last_season": 1,
     "last_episode": 7.0,
     "start_episode": 1
