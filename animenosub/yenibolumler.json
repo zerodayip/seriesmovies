@@ -1,8 +1,14 @@
 {
-  "/anime/gachiakuta/": {
-    "group": "GACHIAKUTA",
+  "/anime/hands-off-sawaranaide-kotesashi-kun-uncensored/": {
+    "group": "HANDS OFF: SAWARANAIDE KOTESASHI-KUN (UNCENSORED)",
     "last_season": 1,
-    "last_episode": 19,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/anime/the-fated-magical-princess-who-made-me-a-princess/": {
+    "group": "THE FATED MAGICAL PRINCESS: WHO MADE ME A PRINCESS",
+    "last_season": 1,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/anime/one-piece/": {
@@ -10,6 +16,18 @@
     "last_season": 1,
     "last_episode": 1149,
     "start_episode": 1130
+  },
+  "/anime/one-punch-man-season-3/": {
+    "group": "ONE-PUNCH MAN SEASON 3",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/anime/gachiakuta/": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 19,
+    "start_episode": 1
   },
   "/anime/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator/": {
     "group": "DAD IS A HERO, MOM IS A SPIRIT, I’M A REINCARNATOR",
@@ -97,24 +115,6 @@
   },
   "/anime/let-this-grieving-soul-retire-cour-2/": {
     "group": "LET THIS GRIEVING SOUL RETIRE COUR 2",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/anime/spy-x-family-season-3/": {
-    "group": "SPY X FAMILY SEASON 3",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/anime/a-wild-last-boss-appeared/": {
-    "group": "A WILD LAST BOSS APPEARED!",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/anime/tales-of-wedding-rings-season-2-uncensored/": {
-    "group": "TALES OF WEDDING RINGS SEASON 2 (UNCENSORED)",
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
