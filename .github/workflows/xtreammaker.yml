@@ -180,6 +180,51 @@ jobs:
           git pull --rebase origin main || echo "No upstream changes"
           git push origin main || echo "No push needed"
 
+  run-xtream-name-updater:
+    runs-on: ubuntu-latest
+    needs: run-xtream-json
+
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run Premium Script
+        run: python private_py/xtream/premium/altyazıvedublajismigüncelleme.py
+
+      - name: Run Standard Script
+        run: python private_py/xtream/standard/altyazıvedublajismigüncelleme.py
+        
+      - name: Clone m3u8file Repo
+        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git m3u8file_repoo
+
+      - name: Copy Updated JSONs
+        run: |
+          mkdir -p m3u8file_repoo/xtreamjson
+          cp *_updated.json m3u8file_repoo/xtreamjson/ || echo "⚠️ No updated JSON files found"
+
+      - name: Commit Updated JSONs
+        run: |
+          cd m3u8file_repoo
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git pull --rebase origin main || echo "⚠️ No upstream changes"
+          git add xtreamjson/*.json || echo "⚠️ No JSON files to add"
+          git diff --cached --quiet || git commit -m "Xtream JSON updated & added [auto]"
+          git push origin main || echo "⚠️ Push failed"
+
       - name: Xtream Cache Clear
         run: |
           echo "🚀 Clearing Xtream cache..."
