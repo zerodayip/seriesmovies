@@ -1108,5 +1108,17 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/stand-by-me-doraemon-2": {
+    "group": "STAND BY ME DORAEMON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/stand-by-me-doraemon": {
+    "group": "STAND BY ME DORAEMON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

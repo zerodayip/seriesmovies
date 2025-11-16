@@ -1,4 +1,16 @@
 {
+  "/stand-by-me-doraemon-2": {
+    "group": "STAND BY ME DORAEMON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/stand-by-me-doraemon": {
+    "group": "STAND BY ME DORAEMON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/shuumatsu-touring": {
     "group": "SHUUMATSU TOURING",
     "last_season": 1,
@@ -91,18 +103,6 @@
   },
   "/sugar-apple-fairy-tale": {
     "group": "SUGAR APPLE FAIRY TALE",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/watari-kun-no-xx-ga-houkai-sunzen": {
-    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
-    "last_season": 1,
-    "last_episode": 20.0,
-    "start_episode": 1
-  },
-  "/ganglion": {
-    "group": "GANGLION",
     "last_season": 1,
     "last_episode": 7.0,
     "start_episode": 1
