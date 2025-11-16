@@ -1,4 +1,16 @@
 {
+  "/si-vis-the-sound-of-heroes": {
+    "group": "SI-VIS: THE SOUND OF HEROES",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/ao-no-orchestra-season-2": {
+    "group": "AO NO ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
   "/stand-by-me-doraemon-2": {
     "group": "STAND BY ME DORAEMON 2",
     "last_season": 1,
@@ -93,18 +105,6 @@
     "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
     "last_season": 1,
     "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/sanda": {
-    "group": "SANDA",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/sugar-apple-fairy-tale": {
-    "group": "SUGAR APPLE FAIRY TALE",
-    "last_season": 1,
-    "last_episode": 7.0,
     "start_episode": 1
   }
 }
