@@ -38,7 +38,7 @@
   "/dizi/sheriff-country": {
     "group": "SHERIFF COUNTRY",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/u-ri-yeong-hwa-asya": {
@@ -98,7 +98,7 @@
   "/dizi/boston-blue": {
     "group": "BOSTON BLUE",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/billy-the-kid": {
@@ -704,7 +704,7 @@
   "/dizi/happy-s-place": {
     "group": "HAPPY'S PLACE",
     "last_season": 2,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/kucuk-dahi-ibn-i-sina": {
@@ -866,7 +866,7 @@
   "/dizi/stumble": {
     "group": "STUMBLE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   }
 }
