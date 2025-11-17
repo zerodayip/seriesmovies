@@ -868,5 +868,11 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/dizi/the-iris-affair": {
+    "group": "THE IRIS AFFAIR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

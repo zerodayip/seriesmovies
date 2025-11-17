@@ -1,4 +1,16 @@
 {
+  "/dizi/loki/": {
+    "group": "LOKI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/bolum/hazbin-hotel-live-on-broadway-2-sezon-ozel-yayin/": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "HAZBIN HOTEL: LIVE ON BROADWAY",
+    "start_episode": 1
+  },
   "/dizi/konusanlar/": {
     "group": "KONUŞANLAR",
     "last_season": 1,
@@ -31,18 +43,6 @@
   },
   "/dizi/malice/": {
     "group": "MALICE",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/wandavision/": {
-    "group": "WANDAVISION",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi/last-samurai-standing/": {
-    "group": "LAST SAMURAI STANDING",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
