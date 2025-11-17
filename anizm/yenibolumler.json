@@ -1,4 +1,22 @@
 {
+  "/project-sekai-movie-kowareta-sekai-to-utaenai-miku": {
+    "group": "PROJECT SEKAI MOVIE: KOWARETA SEKAI TO UTAENAI MIKU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
+    "group": "ANSATSUSHA DE ARU ORE NO STATUS GA YUUSHA YORI MO AKIRAKA NI TSUYOI NO DA GA",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/sozai-saishuka-no-isekai-ryokouki": {
+    "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
   "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
     "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
     "last_season": 1,
@@ -85,24 +103,6 @@
   },
   "/ranma--2024-2nd-season": {
     "group": "RANMA ½ (2024) 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/gnosia": {
-    "group": "GNOSIA",
-    "last_season": 1,
-    "last_episode": 6.0,
-    "start_episode": 1
-  },
-  "/nageki-no-bourei-wa-intai-shitai-part-2": {
-    "group": "NAGEKI NO BOUREI WA INTAI SHITAI PART 2",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun": {
-    "group": "KAO NI DENAI KASHIWADA-SAN TO KAO NI DERU OOTA-KUN",
     "last_season": 1,
     "last_episode": 7.0,
     "start_episode": 1
