@@ -1,4 +1,10 @@
 {
+  "/anime/with-you-our-love-will-make-it-through/": {
+    "group": "WITH YOU, OUR LOVE WILL MAKE IT THROUGH",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
     "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/ranma-%c2%bd-2024-2nd-season/": {
     "group": "RANMA ½ (2024) 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/anime/tojima-wants-to-be-a-kamen-rider/": {
-    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
