@@ -880,5 +880,17 @@
     "last_season": 1,
     "last_episode": 16,
     "start_episode": 1
+  },
+  "/dizi/still-waters": {
+    "group": "STILL WATERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/mistletoe-murders": {
+    "group": "MISTLETOE MURDERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
