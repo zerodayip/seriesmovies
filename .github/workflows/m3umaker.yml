@@ -44,18 +44,18 @@ jobs:
           playwright install
 
       # --- IPTV & Dizi Scriptleri ---
-#      - name: Run Vavoo Yayınları.py
-#        run: python private_py/vavoo/iptv/vavooiptvkendi.py
+      - name: Run Vavoo Yayınları.py
+        run: python private_py/vavoo/iptv/vavooiptvkendi.py
 
-#      - name: Run GunlukSporAkısı.py
-#        run: python private_py/channels/gunluksporakısı/tvyayinakisi.py
+      - name: Run GunlukSporAkısı.py
+        run: python private_py/channels/gunluksporakısı/tvyayinakisi.py
 
       # 2. DiziFun Diziler Yerli Scripts ( site kapandı )
       # - name: Run dizifunyenibolumler.py
       #   run: python private_py/series/dizifun/yenibolumler.py
 
-#      - name: Run dizilifeyenibolumler.py
-#        run: python private_py/series/dizilife/yenibolumler.py
+      - name: Run dizilifeyenibolumler.py
+        run: python private_py/series/dizilife/yenibolumler.py
 
       # 2. FilmHane Diziler Yerli Scripts ( şimdilik kullanmaya gerek yok )
       # - name: Run filmhaneyenibolumler.py
@@ -65,9 +65,9 @@ jobs:
         run: python private_py/series/diziyiizle/yenibolumler.py
 
       # 2. EPG üretimi sadece gece 04:00 TR çalışacak ---
-#      - name: Run epg.py (sadece Türkiye saati 02:00 ve Manuel Çalıştırmada)
-#        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
-#        run: python private_py/channels/epg/gunlukepg.py
+      - name: Run epg.py (sadece Türkiye saati 02:00 ve Manuel Çalıştırmada)
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
+        run: python private_py/channels/epg/gunlukepg.py
 
       # 2. DMAX sadece gece 04:00 TR çalışacak ---
       - name: Run dmax.py (sadece Türkiye saati 02:00)
