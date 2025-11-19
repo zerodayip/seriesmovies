@@ -748,5 +748,23 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi-izle/hazbin-hotel": {
+    "group": "HAZBIN HOTEL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/envious": {
+    "group": "ENVIOUS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-mighty-nein": {
+    "group": "THE MIGHTY NEIN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
