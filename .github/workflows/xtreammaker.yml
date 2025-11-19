@@ -227,7 +227,7 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git pull --rebase origin main || echo "⚠️ No upstream changes"
-          git add xtreamjson/*.json || echo "⚠️ No JSON files to add"
+          git add xtreamjsonfinal/*.json || echo "⚠️ No JSON files to add"
           git diff --cached --quiet || git commit -m "Xtream JSON updated & added [auto]"
           git push origin main || echo "⚠️ Push failed"
 
