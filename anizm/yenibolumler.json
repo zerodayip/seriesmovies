@@ -1,4 +1,10 @@
 {
+  "/disney-twisted-wonderland-the-animation-episode-of-heartslabyul": {
+    "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION: EPISODE OF HEARTSLABYUL",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/kimi-to-koete-koi-ni-naru": {
     "group": "KIMI TO KOETE KOI NI NARU",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "GACHIAKUTA",
     "last_season": 1,
     "last_episode": 19.0,
-    "start_episode": 1
-  },
-  "/one-punch-man-3": {
-    "group": "ONE PUNCH MAN 3",
-    "last_season": 1,
-    "last_episode": 6.0,
     "start_episode": 1
   }
 }

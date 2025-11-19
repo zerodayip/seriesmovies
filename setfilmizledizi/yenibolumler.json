@@ -5,6 +5,18 @@
     "last_episode": 5,
     "start_episode": 1
   },
+  "/bolum/alls-fair-1-sezon-5-bolum/": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "ALL'S FAIR",
+    "start_episode": 1
+  },
+  "/dizi/hazbin-hotel/": {
+    "group": "HAZBIN HOTEL",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/dizi/loki/": {
     "group": "LOKI",
     "last_season": 2,
@@ -44,12 +56,6 @@
   "/dizi/maxton-hall-die-welt-zwischen-uns/": {
     "group": "MAXTON HALL – DIE WELT ZWISCHEN UNS",
     "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/malice/": {
-    "group": "MALICE",
-    "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
   }
