@@ -2,55 +2,55 @@
   "/dizi/universal-basic-guys": {
     "group": "UNIVERSAL BASIC GUYS",
     "last_season": 2,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/tracker": {
     "group": "TRACKER",
     "last_season": 3,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/the-simpsons": {
     "group": "THE SIMPSONS",
     "last_season": 37,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/still-waters": {
     "group": "STILL WATERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/mistletoe-murders": {
     "group": "MISTLETOE MURDERS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/krapopolis": {
     "group": "KRAPOPOLIS",
     "last_season": 3,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/house-of-david": {
     "group": "DAVUD HANEDANI",
     "last_season": 2,
-    "last_episode": 6,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/dmv": {
     "group": "DMV",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/billy-the-kid": {
     "group": "BILLY THE KID",
     "last_season": 3,
-    "last_episode": 5,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/pijikeol-asia": {
@@ -92,7 +92,7 @@
   "/dizi/tae-pung-sang-sa-asya": {
     "group": "TAE-PUNG-SANG-SA",
     "last_season": 1,
-    "last_episode": 11,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/dizi/passing-the-reins-asya": {
@@ -134,7 +134,7 @@
   "/dizi/sheriff-country": {
     "group": "SHERIFF COUNTRY",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/happy-s-place": {
