@@ -203,7 +203,16 @@ jobs:
 
       - name: Run Xtream Maker Final 
         run: python private_py/xtream/xtreammakingfinal.py
-        
+
+      - name: Commit group_id.json
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtream/group_id.json || echo "No group_id.json"
+          git diff --cached --quiet || git commit -m "group_id.json güncellendi [auto]"
+          git pull --rebase origin main || echo "No upstream changes"
+          git push origin main || echo "No push needed"
+          
       - name: Clone m3u8file Repo
         run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git m3u8file_repoo
 
