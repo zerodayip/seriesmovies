@@ -201,19 +201,16 @@ jobs:
           pip install --upgrade pip
           pip install requests
 
-      - name: Run Premium Script
-        run: python private_py/xtream/premium/altyazıvedublajismigüncelleme.py
-
-      - name: Run Standard Script
-        run: python private_py/xtream/standard/altyazıvedublajismigüncelleme.py
+      - name: Run Xtream Maker Final 
+        run: python private_py/xtream/xtreammakingfinal.py
         
       - name: Clone m3u8file Repo
         run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git m3u8file_repoo
 
       - name: Copy Updated JSONs
         run: |
-          mkdir -p m3u8file_repoo/xtreamjson
-          cp *_updated.json m3u8file_repoo/xtreamjson/ || echo "⚠️ No updated JSON files found"
+          mkdir -p m3u8file_repoo/xtreamjsonfinal
+          cp *_updated.json m3u8file_repoo/xtreamjsonfinal/ || echo "⚠️ No updated JSON files found"
 
       - name: Commit Updated JSONs
         run: |
