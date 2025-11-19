@@ -1,4 +1,22 @@
 {
+  "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
+    "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/heika-watashi-wo-wasurete-kudasai": {
+    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/debu-to-love-to-ayamachi-to": {
+    "group": "DEBU TO LOVE TO AYAMACHI TO!",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
   "/disney-twisted-wonderland-the-animation-episode-of-heartslabyul": {
     "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION: EPISODE OF HEARTSLABYUL",
     "last_season": 1,
@@ -81,24 +99,6 @@
     "group": "KINGDOM 6TH SEASON",
     "last_season": 1,
     "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/one-piece": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1150.0,
-    "start_episode": 1130
-  },
-  "/spy-x-family-season-3": {
-    "group": "SPY X FAMILY SEASON 3",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/gachiakuta": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 19.0,
     "start_episode": 1
   }
 }
