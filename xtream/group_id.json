@@ -4685,7 +4685,9 @@
     "5682": "BACAKLARIM OLSAYDI SANA TEKME ATARDIM(2025) (ALTYAZI)",
     "5683": "DAY OF A LION(2025) (ALTYAZI)",
     "5684": "TO KILL A WOLF(2024) (ALTYAZI)",
-    "5685": "ÖLÜM PENÇELERI(2015) (DUBLAJ & ALTYAZI)"
+    "5685": "ÖLÜM PENÇELERI(2015) (DUBLAJ & ALTYAZI)",
+    "5686": "BIN BABANIN OĞLU(2025) (TÜRKÇE ALTYAZI)",
+    "5687": "ŞAMPANYA YÜZÜNDEN(2025) (TÜRKÇE ALTYAZI)"
   },
   "series": {
     "1000": "İNGİLTERE MEZATÇILARI DMAX TÜRKİYE",
@@ -6605,7 +6607,9 @@
     "2914": "YEŞIL DENIZ: MILENYUM - ALTERNATIF YAYIN(2023) YERLİ DİZİ",
     "2915": "ANTRENÖR - ALTERNATIF YAYIN(2025) YERLİ DİZİ",
     "2916": "THE MIGHTY NEIN(2025) TÜRKÇE DUBLAJ",
-    "2917": "THE MIGHTY NEIN(2025) TÜRKÇE ALTYAZI"
+    "2917": "THE MIGHTY NEIN(2025) TÜRKÇE ALTYAZI",
+    "2918": "ENVIOUS(2024) TÜRKÇE ALTYAZI",
+    "2919": "THE MIGHTY NEIN(NONE) TÜRKÇE ALTYAZI"
   },
   "live": {
     "1000": {
@@ -44734,6 +44738,286 @@
     },
     "10531": {
       "name": "WWE CHANNEL",
+      "category_id": "32"
+    },
+    "10532": {
+      "name": "CLASSICA HD",
+      "category_id": "18"
+    },
+    "10533": {
+      "name": "DAZN 1 HD",
+      "category_id": "18"
+    },
+    "10534": {
+      "name": "DAZN 12 HD",
+      "category_id": "18"
+    },
+    "10535": {
+      "name": "DEUTSCHES MUSIK",
+      "category_id": "18"
+    },
+    "10536": {
+      "name": "HSE",
+      "category_id": "18"
+    },
+    "10537": {
+      "name": "JUNIOR HD",
+      "category_id": "18"
+    },
+    "10538": {
+      "name": "MOTORSPORT TV",
+      "category_id": "18"
+    },
+    "10539": {
+      "name": "STERN FILME 3",
+      "category_id": "18"
+    },
+    "10540": {
+      "name": "2M TNT",
+      "category_id": "19"
+    },
+    "10541": {
+      "name": "ABU DHABI SPORTS 1",
+      "category_id": "19"
+    },
+    "10542": {
+      "name": "AL FANN",
+      "category_id": "19"
+    },
+    "10543": {
+      "name": "AL SUMARIA TV",
+      "category_id": "19"
+    },
+    "10544": {
+      "name": "ALGERIA 4",
+      "category_id": "19"
+    },
+    "10545": {
+      "name": "ANTENA 91",
+      "category_id": "19"
+    },
+    "10546": {
+      "name": "BE SPORTS 7 HD",
+      "category_id": "19"
+    },
+    "10547": {
+      "name": "BEIN JUNIOR HD",
+      "category_id": "19"
+    },
+    "10548": {
+      "name": "BEIN SPORTS 2 FHD",
+      "category_id": "19"
+    },
+    "10549": {
+      "name": "BEIN SPORTS 4 FHD",
+      "category_id": "19"
+    },
+    "10550": {
+      "name": "CNA TV",
+      "category_id": "19"
+    },
+    "10551": {
+      "name": "DMC NEWS",
+      "category_id": "19"
+    },
+    "10552": {
+      "name": "MBC BOLLYWOOD  [GEO-BLOCKED]",
+      "category_id": "19"
+    },
+    "10553": {
+      "name": "NICKELODEON HD",
+      "category_id": "19"
+    },
+    "10554": {
+      "name": "NILE CINEMA",
+      "category_id": "19"
+    },
+    "10555": {
+      "name": "TEN TV  [NOT 24/7]",
+      "category_id": "19"
+    },
+    "10556": {
+      "name": "[KSA] KSA SSC 2",
+      "category_id": "19"
+    },
+    "10557": {
+      "name": "[KSA] KSA SSC 4",
+      "category_id": "19"
+    },
+    "10558": {
+      "name": "[KSA] KSA SSC 6",
+      "category_id": "19"
+    },
+    "10559": {
+      "name": "[KSA] KSA SSC 7",
+      "category_id": "19"
+    },
+    "10560": {
+      "name": "[SHM*] JORDAN AGHANI",
+      "category_id": "19"
+    },
+    "10561": {
+      "name": "[SPO] EMIRATES DUBAI RACING 2",
+      "category_id": "19"
+    },
+    "10562": {
+      "name": "[SPO] SAUDI SPORT KSA 2",
+      "category_id": "19"
+    },
+    "10563": {
+      "name": "D FILMA24 DRAME",
+      "category_id": "20"
+    },
+    "10564": {
+      "name": "D FILMA24 FRANCEZ",
+      "category_id": "20"
+    },
+    "10565": {
+      "name": "EXTREAM SPORTS CHANNEL",
+      "category_id": "20"
+    },
+    "10566": {
+      "name": "FIRST TV",
+      "category_id": "20"
+    },
+    "10567": {
+      "name": "KLAN NEWS",
+      "category_id": "20"
+    },
+    "10568": {
+      "name": "KS ACTION",
+      "category_id": "20"
+    },
+    "10569": {
+      "name": "KS COMEDY",
+      "category_id": "20"
+    },
+    "10570": {
+      "name": "PREMIERE 3",
+      "category_id": "20"
+    },
+    "10571": {
+      "name": "T CHANNEL",
+      "category_id": "20"
+    },
+    "10572": {
+      "name": "TEVE FANTASY",
+      "category_id": "20"
+    },
+    "10573": {
+      "name": "24 ESPAÑOL",
+      "category_id": "23"
+    },
+    "10574": {
+      "name": "AF: NOLLYWOOD",
+      "category_id": "23"
+    },
+    "10575": {
+      "name": "AMAZON PRIME 9 [LIVE DURING EVENTS ONLY]",
+      "category_id": "23"
+    },
+    "10576": {
+      "name": "BEIN SPORTS 1 FHD",
+      "category_id": "23"
+    },
+    "10577": {
+      "name": "CDIRECT",
+      "category_id": "23"
+    },
+    "10578": {
+      "name": "DISNEY CINEMAGIC",
+      "category_id": "23"
+    },
+    "10579": {
+      "name": "LEQUIPE",
+      "category_id": "23"
+    },
+    "10580": {
+      "name": "RAKUTEN SPOTLIGHT FRANCE",
+      "category_id": "23"
+    },
+    "10581": {
+      "name": "RAKUTEN TV TOP FILMS",
+      "category_id": "23"
+    },
+    "10582": {
+      "name": "RFM TV MUSIC",
+      "category_id": "23"
+    },
+    "10583": {
+      "name": "RMC SPORT 2 ACCESS HD",
+      "category_id": "23"
+    },
+    "10584": {
+      "name": "RMC SPORT 3 ACCESS HD",
+      "category_id": "23"
+    },
+    "10585": {
+      "name": "RMC SPORT 6",
+      "category_id": "23"
+    },
+    "10586": {
+      "name": "CINEMARATON",
+      "category_id": "27"
+    },
+    "10587": {
+      "name": "CINEMARATON HD",
+      "category_id": "27"
+    },
+    "10588": {
+      "name": "NAT GEO",
+      "category_id": "27"
+    },
+    "10589": {
+      "name": "PRO GOLD",
+      "category_id": "27"
+    },
+    "10590": {
+      "name": "TV5 MONDE",
+      "category_id": "27"
+    },
+    "10591": {
+      "name": "РОССИЯ 1",
+      "category_id": "28"
+    },
+    "10592": {
+      "name": "BT SPORT 3",
+      "category_id": "30"
+    },
+    "10593": {
+      "name": "BT SPORT 3 HD",
+      "category_id": "30"
+    },
+    "10594": {
+      "name": "NHK WORLD HD",
+      "category_id": "30"
+    },
+    "10595": {
+      "name": "NICK JR",
+      "category_id": "30"
+    },
+    "10596": {
+      "name": "NICK JR TOO",
+      "category_id": "30"
+    },
+    "10597": {
+      "name": "SKY CINEMA ACTION & ADVENTURE",
+      "category_id": "30"
+    },
+    "10598": {
+      "name": "24 HORAS",
+      "category_id": "31"
+    },
+    "10599": {
+      "name": "MOVISTAR DEPORTE 1 HD",
+      "category_id": "31"
+    },
+    "10600": {
+      "name": "XTRM FULL HD",
+      "category_id": "31"
+    },
+    "10601": {
+      "name": "DAZN",
       "category_id": "32"
     }
   }
