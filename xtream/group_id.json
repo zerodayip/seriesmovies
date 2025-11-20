@@ -4687,7 +4687,9 @@
     "5684": "TO KILL A WOLF(2024) (ALTYAZI)",
     "5685": "ÖLÜM PENÇELERI(2015) (DUBLAJ & ALTYAZI)",
     "5686": "BIN BABANIN OĞLU(2025) (TÜRKÇE ALTYAZI)",
-    "5687": "ŞAMPANYA YÜZÜNDEN(2025) (TÜRKÇE ALTYAZI)"
+    "5687": "ŞAMPANYA YÜZÜNDEN(2025) (TÜRKÇE ALTYAZI)",
+    "5688": "AVIN ARDINDAN(2025) (TÜRKÇE DUBLAJ)",
+    "5689": "AVIN ARDINDAN(2025) (TÜRKÇE ALTYAZI)"
   },
   "series": {
     "1000": "İNGİLTERE MEZATÇILARI DMAX TÜRKİYE",
@@ -45123,6 +45125,10 @@
     "10627": {
       "name": "DIRECT EQUIPE",
       "category_id": "23"
+    },
+    "10628": {
+      "name": "SKY CINEMA UNO",
+      "category_id": "32"
     }
   }
 }
