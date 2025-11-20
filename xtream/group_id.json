@@ -45111,6 +45111,18 @@
     "10624": {
       "name": "MIR 24",
       "category_id": "28"
+    },
+    "10625": {
+      "name": "DYN SPORT 8",
+      "category_id": "18"
+    },
+    "10626": {
+      "name": "HISTORY HD",
+      "category_id": "18"
+    },
+    "10627": {
+      "name": "DIRECT EQUIPE",
+      "category_id": "23"
     }
   }
 }
