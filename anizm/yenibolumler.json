@@ -1,4 +1,16 @@
 {
+  "/bukiyou-na-senpai": {
+    "group": "BUKIYOU NA SENPAI.",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/sousou-no-frieren-2nd-season": {
+    "group": "SOUSOU NO FRIEREN 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/kakuriyo-no-yadomeshi-ni": {
     "group": "KAKURIYO NO YADOMESHI NI",
     "last_season": 1,
@@ -85,18 +97,6 @@
   },
   "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
     "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/project-sekai-movie-kowareta-sekai-to-utaenai-miku": {
-    "group": "PROJECT SEKAI MOVIE: KOWARETA SEKAI TO UTAENAI MIKU",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
-    "group": "ANSATSUSHA DE ARU ORE NO STATUS GA YUUSHA YORI MO AKIRAKA NI TSUYOI NO DA GA",
     "last_season": 1,
     "last_episode": 7.0,
     "start_episode": 1

@@ -1,4 +1,10 @@
 {
+  "/dizi/she-hulk-attorney-at-law/": {
+    "group": "SHE-HULK: ATTORNEY AT LAW",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/down-cemetery-road/": {
     "group": "DOWN CEMETERY ROAD",
     "last_season": 1,
@@ -45,30 +51,6 @@
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/nice-to-not-meet-you/": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/bolum/alls-fair-1-sezon-5-bolum/": {
-    "last_season": 1,
-    "last_episode": 0,
-    "group": "ALL'S FAIR",
-    "start_episode": 1
-  },
-  "/dizi/hazbin-hotel/": {
-    "group": "HAZBIN HOTEL",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/loki/": {
-    "group": "LOKI",
-    "last_season": 2,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
