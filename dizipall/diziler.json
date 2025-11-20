@@ -1,4 +1,8 @@
- { 
+ {
+    "/dizi/sekizinci-aile": {
+    "group": "Sekizinci Aile",
+    "tvg-id": "tt38781098"
+ },
     "/dizi/antrenor": {
     "group": "Antrenör",
     "tvg-id": "tt38786066"
