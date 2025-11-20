@@ -45019,6 +45019,82 @@
     "10601": {
       "name": "DAZN",
       "category_id": "32"
+    },
+    "10602": {
+      "name": "DAZN 8  HD",
+      "category_id": "18"
+    },
+    "10603": {
+      "name": "BEIN SPORTS 1 PREMIUM 1080 LOCAL",
+      "category_id": "19"
+    },
+    "10604": {
+      "name": "EL BILAD TV",
+      "category_id": "19"
+    },
+    "10605": {
+      "name": "[GLF] OMAN 1 TV",
+      "category_id": "19"
+    },
+    "10606": {
+      "name": "[KSA] KSA SSC 3",
+      "category_id": "19"
+    },
+    "10607": {
+      "name": "[SHM*] JORDAN 7 STARS",
+      "category_id": "19"
+    },
+    "10608": {
+      "name": "[SHM*] JORDAN A1",
+      "category_id": "19"
+    },
+    "10609": {
+      "name": "[SHM*] JORDAN AL MAMLAKA",
+      "category_id": "19"
+    },
+    "10610": {
+      "name": "BIG BROTHER 2",
+      "category_id": "20"
+    },
+    "10611": {
+      "name": "KS ISLAM FILM",
+      "category_id": "20"
+    },
+    "10612": {
+      "name": "KS KIDS",
+      "category_id": "20"
+    },
+    "10613": {
+      "name": "BE: ELEVEN PRO LEAGUES 2 HD",
+      "category_id": "23"
+    },
+    "10614": {
+      "name": "CUISINES",
+      "category_id": "23"
+    },
+    "10615": {
+      "name": "MTV HITS HD",
+      "category_id": "23"
+    },
+    "10616": {
+      "name": "POLSAT SPORT NEWS",
+      "category_id": "25"
+    },
+    "10617": {
+      "name": "HBO",
+      "category_id": "27"
+    },
+    "10618": {
+      "name": "LA LIGA TV BAR HD",
+      "category_id": "31"
+    },
+    "10619": {
+      "name": "MOVISTAR SERIES HD",
+      "category_id": "31"
+    },
+    "10620": {
+      "name": "SKY CINEMA ROMANCE",
+      "category_id": "32"
     }
   }
 }
