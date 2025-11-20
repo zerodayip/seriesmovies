@@ -4689,7 +4689,11 @@
     "5686": "BIN BABANIN OĞLU(2025) (TÜRKÇE ALTYAZI)",
     "5687": "ŞAMPANYA YÜZÜNDEN(2025) (TÜRKÇE ALTYAZI)",
     "5688": "AVIN ARDINDAN(2025) (TÜRKÇE DUBLAJ)",
-    "5689": "AVIN ARDINDAN(2025) (TÜRKÇE ALTYAZI)"
+    "5689": "AVIN ARDINDAN(2025) (TÜRKÇE ALTYAZI)",
+    "5690": "KAYIP(2023) (DUBLAJ & ALTYAZI)",
+    "5691": "THOMAS VE ARKADAŞLARI: NOEL MEKTUBU(2024) (DUBLAJ & ALTYAZI)",
+    "5692": "ÇILGIN KÖPEK(2010) (DUBLAJ & ALTYAZI)",
+    "5693": "ÖLÜ MEVSIM(2024) (YERLI)"
   },
   "series": {
     "1000": "İNGİLTERE MEZATÇILARI DMAX TÜRKİYE",
@@ -6611,7 +6615,11 @@
     "2916": "THE MIGHTY NEIN(2025) TÜRKÇE DUBLAJ",
     "2917": "THE MIGHTY NEIN(2025) TÜRKÇE ALTYAZI",
     "2918": "ENVIOUS(2024) TÜRKÇE ALTYAZI",
-    "2919": "THE MIGHTY NEIN(NONE) TÜRKÇE ALTYAZI"
+    "2919": "THE MIGHTY NEIN(NONE) TÜRKÇE ALTYAZI",
+    "2920": "SHE-HULK: ATTORNEY AT LAW(2022) TÜRKÇE DUBLAJ",
+    "2921": "SHE-HULK: ATTORNEY AT LAW(2022) TÜRKÇE ALTYAZI",
+    "2922": "A MAN ON THE INSIDE(2024) TÜRKÇE ALTYAZI",
+    "2923": "A MAN ON THE INSIDE(2024) TÜRKÇE DUBLAJ"
   },
   "live": {
     "1000": {
@@ -45129,6 +45137,22 @@
     "10628": {
       "name": "SKY CINEMA UNO",
       "category_id": "32"
+    },
+    "10629": {
+      "name": "DYN SPORT 10",
+      "category_id": "18"
+    },
+    "10630": {
+      "name": "BEIN SPORTS ENGLISH HD3",
+      "category_id": "19"
+    },
+    "10631": {
+      "name": "CANAL+ SPORT 4",
+      "category_id": "25"
+    },
+    "10632": {
+      "name": "MOVISTAR LIGA DE CAMPEONES",
+      "category_id": "31"
     }
   }
 }
