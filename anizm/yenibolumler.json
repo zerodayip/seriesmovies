@@ -1,4 +1,52 @@
 {
+  "/ascendance-of-a-bookworm": {
+    "group": "ASCENDANCE OF A BOOKWORM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/tondemo-skill-de-isekai-hourou-meshi-2": {
+    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/futari-solo-camp": {
+    "group": "FUTARI SOLO CAMP",
+    "last_season": 1,
+    "last_episode": 19.0,
+    "start_episode": 1
+  },
+  "/ao-no-orchestra-season-2": {
+    "group": "AO NO ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/akujiki-reijou-to-kyouketsu-koushaku": {
+    "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/watashi-wo-tabetai-hitodenashi": {
+    "group": "WATASHI WO TABETAI, HITODENASHI",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/towa-no-yuugure": {
+    "group": "TOWA NO YUUGURE",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/taiyou-yori-mo-mabushii-hoshi": {
+    "group": "TAIYOU YORI MO MABUSHII HOSHI",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
   "/bukiyou-na-senpai": {
     "group": "BUKIYOU NA SENPAI.",
     "last_season": 1,
@@ -55,48 +103,6 @@
   },
   "/debu-to-love-to-ayamachi-to": {
     "group": "DEBU TO LOVE TO AYAMACHI TO!",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/disney-twisted-wonderland-the-animation-episode-of-heartslabyul": {
-    "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION: EPISODE OF HEARTSLABYUL",
-    "last_season": 1,
-    "last_episode": 4.0,
-    "start_episode": 1
-  },
-  "/kimi-to-koete-koi-ni-naru": {
-    "group": "KIMI TO KOETE KOI NI NARU",
-    "last_season": 1,
-    "last_episode": 6.0,
-    "start_episode": 1
-  },
-  "/yano-kun-no-futsuu-no-hibi": {
-    "group": "YANO-KUN NO FUTSUU NO HIBI",
-    "last_season": 1,
-    "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/ninja-to-gokudou": {
-    "group": "NINJA TO GOKUDOU",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/fumetsu-no-anata-e-season-3": {
-    "group": "FUMETSU NO ANATA E SEASON 3",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/sennen-joyuu": {
-    "group": "SENNEN JOYUU",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
-    "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
     "last_season": 1,
     "last_episode": 7.0,
     "start_episode": 1
