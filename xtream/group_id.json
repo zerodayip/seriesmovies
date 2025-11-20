@@ -45095,6 +45095,22 @@
     "10620": {
       "name": "SKY CINEMA ROMANCE",
       "category_id": "32"
+    },
+    "10621": {
+      "name": "DYN SPORT 5",
+      "category_id": "18"
+    },
+    "10622": {
+      "name": "ART SPORT 1 HD",
+      "category_id": "20"
+    },
+    "10623": {
+      "name": "ICARLY+",
+      "category_id": "23"
+    },
+    "10624": {
+      "name": "MIR 24",
+      "category_id": "28"
     }
   }
 }
