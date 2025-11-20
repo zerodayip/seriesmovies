@@ -1,32 +1,14 @@
 {
-  "/dizi-izle/loot": {
-    "group": "LOOT",
-    "last_season": 3,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/murdaugh-death-in-the-family": {
-    "group": "MURDAUGH: DEATH IN THE FAMILY",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/down-cemetery-road": {
-    "group": "DOWN CEMETERY ROAD",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-chair-company": {
-    "group": "THE CHAIR COMPANY",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
   "/dizi-izle/the-manipulated": {
     "group": "THE MANIPULATED",
     "last_season": 1,
     "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/nice-to-not-meet-you": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/hazbin-hotel": {
@@ -35,22 +17,16 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/the-dream-life-of-mr-kim": {
-    "group": "THE DREAM LIFE OF MR. KIM",
+  "/dizi-izle/typhoon-family": {
+    "group": "TYPHOON FAMILY",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 12,
     "start_episode": 1
   },
-  "/dizi-izle/i-love-la": {
-    "group": "I LOVE LA",
+  "/dizi-izle/malice": {
+    "group": "MALICE",
     "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi-izle/envious": {
-    "group": "ENVIOUS",
-    "last_season": 3,
-    "last_episode": 10,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/the-crystal-cuckoo": {
@@ -65,8 +41,20 @@
     "last_episode": 10,
     "start_episode": 1
   },
-  "/dizi-izle/malice": {
-    "group": "MALICE",
+  "/dizi-izle/the-dream-life-of-mr-kim": {
+    "group": "THE DREAM LIFE OF MR. KIM",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/loot": {
+    "group": "LOOT",
+    "last_season": 3,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-chair-company": {
+    "group": "THE CHAIR COMPANY",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
@@ -77,10 +65,10 @@
     "last_episode": 2,
     "start_episode": 1
   },
-  "/dizi-izle/the-mighty-nein": {
-    "group": "THE MIGHTY NEIN",
+  "/dizi-izle/down-cemetery-road": {
+    "group": "DOWN CEMETERY ROAD",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/physical-asia": {
@@ -89,10 +77,28 @@
     "last_episode": 12,
     "start_episode": 1
   },
-  "/dizi-izle/nice-to-not-meet-you": {
-    "group": "NICE TO NOT MEET YOU",
+  "/dizi-izle/i-love-la": {
+    "group": "I LOVE LA",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi-izle/murdaugh-death-in-the-family": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/envious": {
+    "group": "ENVIOUS",
+    "last_season": 3,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-mighty-nein": {
+    "group": "THE MIGHTY NEIN",
+    "last_season": 1,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi-izle/it-welcome-to-derry": {
@@ -105,12 +111,6 @@
     "group": "ALL'S FAIR",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/typhoon-family": {
-    "group": "TYPHOON FAMILY",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
