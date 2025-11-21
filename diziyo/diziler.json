@@ -218,7 +218,7 @@
   "/dizi/doc": {
     "group": "DOC",
     "last_season": 2,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/chicago-p-d": {
@@ -254,7 +254,7 @@
   "/dizi/georgie-mandy-s-first-marriage": {
     "group": "GEORGIE & MANDY'S FIRST MARRIAGE",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/brassic": {
@@ -932,19 +932,19 @@
   "/dizi/the-death-of-bunny-munro": {
     "group": "THE DEATH OF BUNNY MUNRO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/cooper-fry": {
     "group": "COOPER & FRY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/summerwater": {
     "group": "SUMMERWATER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
