@@ -766,5 +766,11 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/dizi-izle/just-a-bit-espers": {
+    "group": "JUST A BIT ESPERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

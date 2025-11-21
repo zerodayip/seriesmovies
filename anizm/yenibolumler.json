@@ -1,4 +1,10 @@
 {
+  "/potion-wagami-wo-tasukeru": {
+    "group": "POTION, WAGAMI WO TASUKERU",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
   "/ascendance-of-a-bookworm": {
     "group": "ASCENDANCE OF A BOOKWORM",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/heika-watashi-wo-wasurete-kudasai": {
     "group": "HEIKA WATASHI WO WASURETE KUDASAI",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/debu-to-love-to-ayamachi-to": {
-    "group": "DEBU TO LOVE TO AYAMACHI TO!",
     "last_season": 1,
     "last_episode": 7.0,
     "start_episode": 1
