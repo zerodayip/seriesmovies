@@ -910,5 +910,23 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi/feride-yerli": {
+    "group": "FERIDE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/jurassic-world-chaos-theory": {
+    "group": "J​​URASSIC WORLD: KAOS TEORISI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/a-man-on-the-inside": {
+    "group": "A MAN ON THE INSIDE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
