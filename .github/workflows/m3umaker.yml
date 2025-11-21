@@ -150,7 +150,7 @@ jobs:
           git push origin main
 
   part2:
-    name: Step 4-to-12 Çalıştır
+    name: Step 4-to-13 Çalıştır
     runs-on: ubuntu-latest
     needs: part1
     env:
@@ -366,6 +366,22 @@ jobs:
           git config user.email "actions@github.com"
           git add . || echo "No files"
           git commit -m "Dizipall Yerli Dizi çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      # 12. HDFilmsite Diziler sadece gece 04:00 TR çalışacak ---
+      - name: Run hdfilmsitedizi.py
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
+        run: python private_py/series/hdfilmsite/yenibolumler.py
+
+      - name: Sync HDFilmsite Diziler output to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/hdfilmsitedizi.git private_hdfilmsitedizi
+          rsync -a yereldiziler/ private_hdfilmsitedizi/
+          cd private_hdfilmsitedizi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "HDFilmsite Diziler çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
           
   part3:
