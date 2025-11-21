@@ -40,7 +40,7 @@ jobs:
       - name: Install Shared Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv zstandard cloudscraper
+          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv zstandard cloudscraper python-dateutil
           playwright install
 
       # --- IPTV & Dizi Scriptleri ---
@@ -65,22 +65,22 @@ jobs:
         run: python private_py/series/diziyiizle/yenibolumler.py
 
       # 2. EPG üretimi sadece gece 04:00 TR çalışacak ---
-      - name: Run epg.py (sadece Türkiye saati 02:00 ve Manuel Çalıştırmada)
+      - name: Run epg.py (sadece Türkiye saati 04:00 ve Manuel Çalıştırmada)
         if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/channels/epg/gunlukepg.py
 
       # 2. DMAX sadece gece 04:00 TR çalışacak ---
-      - name: Run dmax.py (sadece Türkiye saati 02:00)
+      - name: Run dmax.py (sadece Türkiye saati 04:00)
         if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1'))}}
         run: python private_py/series/dmax/yenibolumler.py
 
       # 2. TLC sadece gece 04:00 TR çalışacak ---
-      - name: Run tlc.py (sadece Türkiye saati 02:00)
+      - name: Run tlc.py (sadece Türkiye saati 04:00)
         if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1'))}}
         run: python private_py/series/tlc/yenibolumler.py
 
       # 2. TV Dizileri sadece gece 04:00 TR çalışacak ---
-      - name: Run yereldiziler.py (sadece Türkiye saati 02:00)
+      - name: Run yereldiziler.py (sadece Türkiye saati 04:00)
         if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/series/yereldiziler/yereldiziler.py
 
