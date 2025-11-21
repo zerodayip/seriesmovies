@@ -145,7 +145,7 @@ jobs:
         run: python private_py/xtream/convert_premium.py
 
       - name: Run Xtream Standard Script
-        run: python private_py/xtream/xtream/convert_standard.py
+        run: python private_py/xtream/convert_standard.py
 
       - name: Commit times.json
         run: |
