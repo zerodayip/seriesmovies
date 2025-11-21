@@ -928,5 +928,23 @@
     "last_season": 2,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/dizi/the-death-of-bunny-munro": {
+    "group": "THE DEATH OF BUNNY MUNRO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/cooper-fry": {
+    "group": "COOPER & FRY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/summerwater": {
+    "group": "SUMMERWATER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
