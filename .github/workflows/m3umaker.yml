@@ -80,7 +80,7 @@ jobs:
         run: python private_py/series/tlc/yenibolumler.py
 
       # 2. TV Dizileri sadece gece 04:00 TR çalışacak ---
-      - name: Run yereldiziler.py (sadece Türkiye saati 04:00)
+      - name: Run yereldiziler.py (sadece Türkiye saati 04:00 ve Manuel Çalıştırmada)
         if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/series/yereldiziler/yereldiziler.py
 
