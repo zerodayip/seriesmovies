@@ -45162,6 +45162,14 @@
     "10633": {
       "name": "RAI ITALIA",
       "category_id": "32"
+    },
+    "10634": {
+      "name": "GOL",
+      "category_id": "31"
+    },
+    "10635": {
+      "name": "SKY SPORT ARENA",
+      "category_id": "32"
     }
   }
 }
