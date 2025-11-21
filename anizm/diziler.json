@@ -1144,5 +1144,11 @@
     "last_season": 1,
     "last_episode": 14.5,
     "start_episode": 1
+  },
+  "/chuukan-kanriroku-tonegawa": {
+    "group": "CHUUKAN KANRIROKU TONEGAWA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
