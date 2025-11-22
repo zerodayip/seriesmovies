@@ -1,4 +1,16 @@
 {
+  "/diziler/my-hero-academia.html": {
+    "group": "MY HERO ACADEMIA",
+    "last_season": 8,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/diziler/state-of-affairs.html": {
+    "group": "STATE OF AFFAIRS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/maxton-hall-the-world-between-us.html": {
     "group": "MAXTON HALL: THE WORLD BETWEEN US",
     "last_season": 2,
@@ -69,18 +81,6 @@
     "group": "LOOT",
     "last_season": 3,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/down-cemetery-road.html": {
-    "group": "DOWN CEMETERY ROAD",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/the-morning-show.html": {
-    "group": "THE MORNING SHOW",
-    "last_season": 4,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
