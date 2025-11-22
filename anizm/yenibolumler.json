@@ -1,4 +1,46 @@
 {
+  "/nageki-no-bourei-wa-intai-shitai-part-2": {
+    "group": "NAGEKI NO BOUREI WA INTAI SHITAI PART 2",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/shabake": {
+    "group": "SHABAKE",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/spy-x-family-season-3": {
+    "group": "SPY X FAMILY SEASON 3",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/ranma--2024-2nd-season": {
+    "group": "RANMA ½ (2024) 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/gnosia": {
+    "group": "GNOSIA",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun": {
+    "group": "KAO NI DENAI KASHIWADA-SAN TO KAO NI DERU OOTA-KUN",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu": {
+    "group": "MIKATA GA YOWASUGITE HOJO MAHOU NI TESSHITEITA KYUUTEI MAHOUSHI, TSUIHOU SARETE SAIKYOU WO MEZASHIMASU",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
   "/yasei-no-last-boss-ga-arawareta": {
     "group": "YASEI NO LAST BOSS GA ARAWARETA!",
     "last_season": 1,
@@ -61,48 +103,6 @@
   },
   "/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu--zamaa-shimasu": {
     "group": "SHINJITEITA NAKAMA-TACHI NI DUNGEON OKUCHI DE KOROSAREKAKETA GA GIFT \"MUGEN GACHA\" DE LEVEL 9999 NO NAKAMA-TACHI WO TE NI IRETE MOTO PARTY MEMBER TO SEKAI NI FUKUSHUU & \"ZAMAA!\" SHIMASU!",
-    "last_season": 1,
-    "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/potion-wagami-wo-tasukeru": {
-    "group": "POTION, WAGAMI WO TASUKERU",
-    "last_season": 1,
-    "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/ascendance-of-a-bookworm": {
-    "group": "ASCENDANCE OF A BOOKWORM",
-    "last_season": 1,
-    "last_episode": 14.5,
-    "start_episode": 1
-  },
-  "/tondemo-skill-de-isekai-hourou-meshi-2": {
-    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/futari-solo-camp": {
-    "group": "FUTARI SOLO CAMP",
-    "last_season": 1,
-    "last_episode": 20.0,
-    "start_episode": 1
-  },
-  "/ao-no-orchestra-season-2": {
-    "group": "AO NO ORCHESTRA SEASON 2",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/akujiki-reijou-to-kyouketsu-koushaku": {
-    "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
-    "last_season": 1,
-    "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/watashi-wo-tabetai-hitodenashi": {
-    "group": "WATASHI WO TABETAI, HITODENASHI",
     "last_season": 1,
     "last_episode": 8.0,
     "start_episode": 1
