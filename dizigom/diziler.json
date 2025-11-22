@@ -793,8 +793,8 @@
   },
   "/dizi-izle/the-family-man": {
     "group": "THE FAMILY MAN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 7,
     "start_episode": 1
   }
 }
