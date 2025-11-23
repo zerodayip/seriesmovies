@@ -20,7 +20,7 @@
   "/dizi-izle/typhoon-family": {
     "group": "TYPHOON FAMILY",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/dizi-izle/a-man-on-the-inside": {
@@ -92,7 +92,7 @@
   "/dizi-izle/the-dream-life-of-mr-kim": {
     "group": "THE DREAM LIFE OF MR. KIM",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1
   }
 }
