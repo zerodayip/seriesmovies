@@ -1,4 +1,22 @@
 {
+  "/sawaranaide-kotesashi-kun": {
+    "group": "SAWARANAIDE KOTESASHI-KUN",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/si-vis-the-sound-of-heroes": {
+    "group": "SI-VIS: THE SOUND OF HEROES",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/hanebado": {
+    "group": "HANEBADO!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/fumetsu-no-anata-e-season-3": {
     "group": "FUMETSU NO ANATA E SEASON 3",
     "last_season": 1,
@@ -81,24 +99,6 @@
     "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
     "last_season": 1,
     "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/ganglion": {
-    "group": "GANGLION",
-    "last_season": 1,
-    "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/sanda": {
-    "group": "SANDA",
-    "last_season": 1,
-    "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/chuukan-kanriroku-tonegawa": {
-    "group": "CHUUKAN KANRIROKU TONEGAWA",
-    "last_season": 1,
-    "last_episode": 24.0,
     "start_episode": 1
   }
 }

@@ -1150,5 +1150,11 @@
     "last_season": 1,
     "last_episode": 24.0,
     "start_episode": 1
+  },
+  "/hanebado": {
+    "group": "HANEBADO!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
