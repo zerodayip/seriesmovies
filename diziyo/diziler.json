@@ -38,7 +38,7 @@
   "/dizi/sheriff-country": {
     "group": "SHERIFF COUNTRY",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/u-ri-yeong-hwa-asya": {
@@ -74,7 +74,7 @@
   "/dizi/fire-country": {
     "group": "FIRE COUNTRY",
     "last_season": 4,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/film-club": {
@@ -98,7 +98,7 @@
   "/dizi/boston-blue": {
     "group": "BOSTON BLUE",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/billy-the-kid": {
@@ -134,7 +134,7 @@
   "/dizi/elsbeth": {
     "group": "ELSBETH",
     "last_season": 3,
-    "last_episode": 5,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/9-1-1-nashville": {
@@ -644,7 +644,7 @@
   "/dizi/maxton-hall-die-welt-zwischen-uns": {
     "group": "MAXTON HALL - ARAMIZDAKI DÜNYA",
     "last_season": 2,
-    "last_episode": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/meu-ayrton-por-adriane-galisteu": {
@@ -698,13 +698,13 @@
   "/dizi/power-book-iv-force": {
     "group": "POWER BOOK IV: FORCE",
     "last_season": 3,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/happy-s-place": {
     "group": "HAPPY'S PLACE",
     "last_season": 2,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/kucuk-dahi-ibn-i-sina": {
@@ -866,7 +866,7 @@
   "/dizi/stumble": {
     "group": "STUMBLE",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/the-iris-affair": {
