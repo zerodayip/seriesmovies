@@ -1,4 +1,22 @@
 {
+  "/diziler/one-punch-man.html": {
+    "group": "ONE PUNCH MAN",
+    "last_season": 3,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/typhoon-family.html": {
+    "group": "TYPHOON FAMILY",
+    "last_season": 1,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/diziler/gachiakuta.html": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 19,
+    "start_episode": 1
+  },
   "/diziler/key-and-peele.html": {
     "group": "KEY AND PEELE",
     "last_season": 4,
@@ -9,12 +27,6 @@
     "group": "TO YOUR ETERNITY",
     "last_season": 3,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/typhoon-family.html": {
-    "group": "TYPHOON FAMILY",
-    "last_season": 1,
-    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/spy-x-family.html": {
@@ -68,24 +80,6 @@
   "/diziler/a-man-on-the-inside.html": {
     "group": "A MAN ON THE INSIDE",
     "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/the-mighty-nein.html": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/diziler/murdaugh-death-in-the-family.html": {
-    "group": "MURDAUGH: DEATH IN THE FAMILY",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/the-manipulated.html": {
-    "group": "THE MANIPULATED",
-    "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
   }
