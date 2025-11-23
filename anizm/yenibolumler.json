@@ -1,4 +1,10 @@
 {
+  "/kikaijikake-no-marie": {
+    "group": "KIKAIJIKAKE NO MARIE",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
   "/nageki-no-bourei-wa-intai-shitai-part-2": {
     "group": "NAGEKI NO BOUREI WA INTAI SHITAI PART 2",
     "last_season": 1,
@@ -93,18 +99,6 @@
     "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
     "last_season": 1,
     "last_episode": 21.0,
-    "start_episode": 1
-  },
-  "/tougen-anki": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 19.0,
-    "start_episode": 1
-  },
-  "/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu--zamaa-shimasu": {
-    "group": "SHINJITEITA NAKAMA-TACHI NI DUNGEON OKUCHI DE KOROSAREKAKETA GA GIFT \"MUGEN GACHA\" DE LEVEL 9999 NO NAKAMA-TACHI WO TE NI IRETE MOTO PARTY MEMBER TO SEKAI NI FUKUSHUU & \"ZAMAA!\" SHIMASU!",
-    "last_season": 1,
-    "last_episode": 8.0,
     "start_episode": 1
   }
 }
