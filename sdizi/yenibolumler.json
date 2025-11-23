@@ -1,4 +1,10 @@
 {
+  "/diziler/key-and-peele.html": {
+    "group": "KEY AND PEELE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/to-your-eternity.html": {
     "group": "TO YOUR ETERNITY",
     "last_season": 3,
@@ -81,12 +87,6 @@
     "group": "THE MANIPULATED",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/squid-game-the-challenge.html": {
-    "group": "SQUID GAME: THE CHALLENGE",
-    "last_season": 2,
-    "last_episode": 9,
     "start_episode": 1
   }
 }
