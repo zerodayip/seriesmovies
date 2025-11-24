@@ -1,8 +1,14 @@
 {
+  "/diziler/nice-to-not-meet-you.html": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/diziler/my-wife-and-kids.html": {
-    "last_season": 5,
-    "last_episode": 26,
     "group": "MY WIFE AND KIDS",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/diziler/robin-hood-2025.html": {
@@ -75,12 +81,6 @@
     "group": "MAXTON HALL: THE WORLD BETWEEN US",
     "last_season": 2,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/the-last-frontier.html": {
-    "group": "THE LAST FRONTIER",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
