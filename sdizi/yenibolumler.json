@@ -1,4 +1,10 @@
 {
+  "/diziler/my-wife-and-kids.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "MY WIFE AND KIDS",
+    "start_episode": 1
+  },
   "/diziler/robin-hood-2025.html": {
     "group": "ROBIN HOOD 2025",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "THE LAST FRONTIER",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/pluribus.html": {
-    "group": "PLURIBUS",
-    "last_season": 1,
-    "last_episode": 4,
     "start_episode": 1
   }
 }
