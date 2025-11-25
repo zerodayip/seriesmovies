@@ -9,8 +9,11 @@ on:
         default: 'all'
   schedule:
     - cron: '0 */5 * * *'    # Her 5 saatte bir tüm scriptler çalışır (DMAX hariç)
-    - cron: '0 1 * * *'      # Türkiye saati 04:00 -> 01:00 UTC (DMAX - TLC - TV DİZİLERİ bu tetikte çalışacak)
+    - cron: '0 1 * * *'       # Türkiye saati 04:00 -> 01:00 UTC (DMAX - TLC - TV DİZİLERİ bu tetikte çalışacak)
 
+#######################
+# PART 1
+#######################
 jobs:
   part1:
     if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && (github.event.inputs.part == '1' || github.event.inputs.part == 'all')) }}
@@ -24,14 +27,6 @@ jobs:
         with:
           fetch-depth: 1
           ref: main
-
-      - name: Cache pip
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-cache-${{ runner.os }}-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            pip-cache-${{ runner.os }}-
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -48,33 +43,45 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv zstandard cloudscraper python-dateutil
           playwright install
 
-      # --- IPTV & Dizi Scriptleri ---
+      # 1. --- IPTV & Dizi Scriptleri ---
       - name: Run Vavoo Yayınları.py
         run: python private_py/vavoo/iptv/vavooiptvkendi.py
 
       - name: Run GunlukSporAkısı.py
         run: python private_py/channels/gunluksporakısı/tvyayinakisi.py
 
+      # 2. DiziFun Diziler Yerli Scripts ( site kapandı )
+      # - name: Run dizifunyenibolumler.py
+      #   run: python private_py/series/dizifun/yenibolumler.py
+
       - name: Run dizilifeyenibolumler.py
         run: python private_py/series/dizilife/yenibolumler.py
+
+      # 2. FilmHane Diziler Yerli Scripts ( şimdilik kullanmaya gerek yok )
+      # - name: Run filmhaneyenibolumler.py
+      #   run: python private_py/series/filmhane/yenibolumler.py
 
       - name: Run diziyiizleyenibolumler.py
         run: python private_py/series/diziyiizle/yenibolumler.py
 
+      # 2. EPG üretimi sadece gece 04:00 TR çalışacak ---
       - name: Run epg.py (sadece Türkiye saati 04:00 ve Manuel Çalıştırmada)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || (github.event_name == 'workflow_dispatch') }}
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/channels/epg/gunlukepg.py
 
+      # 2. DMAX sadece gece 04:00 TR çalışacak ---
       - name: Run dmax.py (sadece Türkiye saati 04:00)
-        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1') }}
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1'))}}
         run: python private_py/series/dmax/yenibolumler.py
 
+      # 2. TLC sadece gece 04:00 TR çalışacak ---
       - name: Run tlc.py (sadece Türkiye saati 04:00)
-        if: ${{ github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1') }}
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1'))}}
         run: python private_py/series/tlc/yenibolumler.py
 
+      # 2. TV Dizileri sadece gece 04:00 TR çalışacak ---
       - name: Run yereldiziler.py (sadece Türkiye saati 04:00 ve Manuel Çalıştırmada)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || (github.event_name == 'workflow_dispatch') }}
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/series/yereldiziler/yereldiziler.py
 
       - name: Commit and Push EPG to public repo
@@ -88,6 +95,7 @@ jobs:
       - name: Sync M3U outputs to private repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8file
+
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
           cp dizifundizi.m3u privaate_m3u8file/dizifundizi.m3u || echo "dizifundizi.m3u bulunamadı"
           cp dizilifedizi.m3u privaate_m3u8file/dizilifedizi.m3u || echo "dizilifedizi.m3u bulunamadı"
@@ -97,6 +105,7 @@ jobs:
           cp dmax.m3u privaate_m3u8file/dmax.m3u || echo "dmax.m3u bulunamadı"
           cp tlc.m3u privaate_m3u8file/tlc.m3u || echo "tlc.m3u bulunamadı"
           cp televizyondizileri.m3u privaate_m3u8file/televizyondizileri.m3u || echo "televizyondizileri.m3u bulunamadı"
+
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
@@ -104,7 +113,7 @@ jobs:
           git commit -m "Auto playlist update" || echo "No changes"
           git push origin main
 
-      # JSON scriptler
+      # 3. Run All JSON
       - name: Run Dizigom JSON Script
         run: python private_py/series/dizigom/dizigomdizijson.py
 
@@ -120,6 +129,9 @@ jobs:
       - name: Run SetfilmİzleDizi JSON Script
         run: python private_py/series/setfilmizledizi/setfilmizledizijson.py
 
+      #- name: Run Dizipal JSON Script ( cloudflare koruması mevcut )
+       # run: python private_py/series/dizipal/dizipaljson.py
+
       - name: Run DiziYo JSON Script
         run: python private_py/series/diziyo/diziyojson.py
 
@@ -132,18 +144,21 @@ jobs:
           git add anizm/*.json || echo "No anizm files"
           git add animenosub/*.json || echo "No animenosub files"
           git add setfilmizledizi/*.json || echo "No setfilmizledizi files"
+          git add dizipal/*.json || echo "No dizipal files"
           git add diziyo/*.json || echo "No diziyo files"
           git commit -m "All JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
+#######################
+# PART 2
+#######################
   part2:
     if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && (github.event.inputs.part == '2' || github.event.inputs.part == 'all')) }}
     name: Step 4-to-13 Çalıştır
     runs-on: ubuntu-latest
-    needs: ${{ github.event_name == 'schedule' && 'part1' || '' }}
+    needs: ${{ github.event_name == 'schedule' && 'part1' || '' }} # schedule tetiklemelerinde zincirleme
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
     steps:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
@@ -372,6 +387,9 @@ jobs:
           git commit -m "HDFilmsite Diziler çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
+#######################
+# PART 3
+#######################
   part3:
     if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && (github.event.inputs.part == '3' || github.event.inputs.part == 'all')) }}
     name: Step 13 Çalıştır
@@ -379,7 +397,6 @@ jobs:
     needs: ${{ github.event_name == 'schedule' && 'part2' || '' }}
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
     steps:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
@@ -408,6 +425,9 @@ jobs:
           git commit -m "All Ana JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
+#######################
+# PART 4
+#######################
   part4:
     if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && (github.event.inputs.part == '4' || github.event.inputs.part == 'all')) }}
     name: Step 14-to-18 Çalıştır
@@ -415,7 +435,6 @@ jobs:
     needs: ${{ github.event_name == 'schedule' && 'part3' || '' }}
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
     steps:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
@@ -437,7 +456,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv playwright
           playwright install
-       
+
       # 14. Dizizgom Filmler
       - name: Run dizigomfilmler Script
         run: python private_py/movies/dizigom/dizigomfilmler.py
