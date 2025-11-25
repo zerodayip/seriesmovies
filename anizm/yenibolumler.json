@@ -1,4 +1,28 @@
 {
+  "/tondemo-skill-de-isekai-hourou-meshi-2": {
+    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/yano-kun-no-futsuu-no-hibi": {
+    "group": "YANO-KUN NO FUTSUU NO HIBI",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/ninja-to-gokudou": {
+    "group": "NINJA TO GOKUDOU",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/golgo-13-tv": {
+    "group": "GOLGO 13 (TV)",
+    "last_season": 1,
+    "last_episode": 35.0,
+    "start_episode": 1
+  },
   "/debu-to-love-to-ayamachi-to": {
     "group": "DEBU TO LOVE TO AYAMACHI TO!",
     "last_season": 1,
@@ -81,24 +105,6 @@
     "group": "SHUUMATSU TOURING",
     "last_season": 1,
     "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/digimon-beatbreak": {
-    "group": "DIGIMON BEATBREAK",
-    "last_season": 1,
-    "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/si-vis-the-sound-of-heroes": {
-    "group": "SI-VIS: THE SOUND OF HEROES",
-    "last_season": 1,
-    "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/hanebado": {
-    "group": "HANEBADO!",
-    "last_season": 1,
-    "last_episode": 13.0,
     "start_episode": 1
   }
 }
