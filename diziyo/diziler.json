@@ -946,5 +946,17 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/the-family-man": {
+    "group": "AILE BABASI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/with-love": {
+    "group": "AŞKLA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
