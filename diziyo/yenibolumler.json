@@ -1,4 +1,10 @@
 {
+  "/dizi/landman": {
+    "group": "LANDMAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/i-love-la": {
     "group": "I LOVE LA",
     "last_season": 1,
@@ -159,12 +165,6 @@
     "group": "KNIFE EDGE: CHASING MICHELIN STARS",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/i-am": {
-    "group": "I AM...",
-    "last_season": 1,
-    "last_episode": 3,
     "start_episode": 1
   }
 }
