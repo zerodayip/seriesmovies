@@ -9,7 +9,7 @@ on:
         default: 'all'
   schedule:
     - cron: '0 */5 * * *'    # Her 5 saatte bir tüm scriptler çalışır (DMAX hariç)
-    - cron: '0 1 * * *'     # Türkiye saati 04:00 -> 01:00 UTC (DMAX - TLC - TV DİZİLERİ bu tetikte çalışacak)
+    - cron: '0 1 * * *'      # Türkiye saati 04:00 -> 01:00 UTC (DMAX - TLC - TV DİZİLERİ bu tetikte çalışacak)
 
 jobs:
   part1:
@@ -18,7 +18,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
     steps:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
@@ -63,7 +62,7 @@ jobs:
         run: python private_py/series/diziyiizle/yenibolumler.py
 
       - name: Run epg.py (sadece Türkiye saati 04:00 ve Manuel Çalıştırmada)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || (github.event_name == 'workflow_dispatch') }}
         run: python private_py/channels/epg/gunlukepg.py
 
       - name: Run dmax.py (sadece Türkiye saati 04:00)
@@ -75,7 +74,7 @@ jobs:
         run: python private_py/series/tlc/yenibolumler.py
 
       - name: Run yereldiziler.py (sadece Türkiye saati 04:00 ve Manuel Çalıştırmada)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || github.event_name == 'workflow_dispatch' }}
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 1')) || (github.event_name == 'workflow_dispatch') }}
         run: python private_py/series/yereldiziler/yereldiziler.py
 
       - name: Commit and Push EPG to public repo
@@ -89,7 +88,6 @@ jobs:
       - name: Sync M3U outputs to private repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8file
-
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
           cp dizifundizi.m3u privaate_m3u8file/dizifundizi.m3u || echo "dizifundizi.m3u bulunamadı"
           cp dizilifedizi.m3u privaate_m3u8file/dizilifedizi.m3u || echo "dizilifedizi.m3u bulunamadı"
@@ -99,7 +97,6 @@ jobs:
           cp dmax.m3u privaate_m3u8file/dmax.m3u || echo "dmax.m3u bulunamadı"
           cp tlc.m3u privaate_m3u8file/tlc.m3u || echo "tlc.m3u bulunamadı"
           cp televizyondizileri.m3u privaate_m3u8file/televizyondizileri.m3u || echo "televizyondizileri.m3u bulunamadı"
-
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
@@ -107,7 +104,7 @@ jobs:
           git commit -m "Auto playlist update" || echo "No changes"
           git push origin main
 
-      # 3. Run All JSON
+      # JSON scriptler
       - name: Run Dizigom JSON Script
         run: python private_py/series/dizigom/dizigomdizijson.py
 
@@ -130,7 +127,12 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add dizigom/*.json sdizi/*.json anizm/*.json animenosub/*.json setfilmizledizi/*.json diziyo/*.json || echo "No files"
+          git add dizigom/*.json || echo "No dizigom files"
+          git add sdizi/*.json || echo "No sezonlukdizi files"
+          git add anizm/*.json || echo "No anizm files"
+          git add animenosub/*.json || echo "No animenosub files"
+          git add setfilmizledizi/*.json || echo "No setfilmizledizi files"
+          git add diziyo/*.json || echo "No diziyo files"
           git commit -m "All JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
