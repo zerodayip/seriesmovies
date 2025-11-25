@@ -2,31 +2,31 @@ name: M3U MAKER
 
 on:
   workflow_dispatch:
-    inputs:
-      part:
-        description: 'Hangi partı çalıştırmak istiyorsunuz? (1,2,3,4 veya all)'
-        required: true
-        default: 'all'
   schedule:
     - cron: '0 */5 * * *'    # Her 5 saatte bir tüm scriptler çalışır (DMAX hariç)
-    - cron: '0 1 * * *'       # Türkiye saati 04:00 -> 01:00 UTC (DMAX - TLC - TV DİZİLERİ bu tetikte çalışacak)
+    - cron: '0 1 * * *'     # Türkiye saati 04:00 -> 01:00 UTC (DMAX - TLC - TV DİZİLERİ bu tetikte çalışacak)
 
-#######################
-# PART 1
-#######################
 jobs:
   part1:
-    if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && (github.event.inputs.part == '1' || github.event.inputs.part == 'all')) }}
     name: Step 1-2-3 Çalıştır
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
     steps:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
           ref: main
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-cache-${{ runner.os }}-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            pip-cache-${{ runner.os }}-
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -43,7 +43,7 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv zstandard cloudscraper python-dateutil
           playwright install
 
-      # 1. --- IPTV & Dizi Scriptleri ---
+      # --- IPTV & Dizi Scriptleri ---
       - name: Run Vavoo Yayınları.py
         run: python private_py/vavoo/iptv/vavooiptvkendi.py
 
@@ -149,16 +149,13 @@ jobs:
           git commit -m "All JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
-#######################
-# PART 2
-#######################
   part2:
-    if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && (github.event.inputs.part == '2' || github.event.inputs.part == 'all')) }}
     name: Step 4-to-13 Çalıştır
     runs-on: ubuntu-latest
-    needs: ${{ github.event_name == 'schedule' && 'part1' || '' }} # schedule tetiklemelerinde zincirleme
+    needs: part1
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
     steps:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
@@ -386,17 +383,14 @@ jobs:
           git add . || echo "No files"
           git commit -m "HDFilmsite Diziler çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
-
-#######################
-# PART 3
-#######################
+          
   part3:
-    if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && (github.event.inputs.part == '3' || github.event.inputs.part == 'all')) }}
     name: Step 13 Çalıştır
     runs-on: ubuntu-latest
-    needs: ${{ github.event_name == 'schedule' && 'part2' || '' }}
+    needs: part2
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
     steps:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
@@ -425,16 +419,13 @@ jobs:
           git commit -m "All Ana JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
-#######################
-# PART 4
-#######################
   part4:
-    if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && (github.event.inputs.part == '4' || github.event.inputs.part == 'all')) }}
     name: Step 14-to-18 Çalıştır
     runs-on: ubuntu-latest
-    needs: ${{ github.event_name == 'schedule' && 'part3' || '' }}
+    needs: part3
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
     steps:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
@@ -456,7 +447,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv playwright
           playwright install
-
+       
       # 14. Dizizgom Filmler
       - name: Run dizigomfilmler Script
         run: python private_py/movies/dizigom/dizigomfilmler.py
