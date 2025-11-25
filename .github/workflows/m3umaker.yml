@@ -458,17 +458,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/setfilmizle/ilksayfatümm3uolusturma.py
 
-      # 16. HDFilm Yabancı Filmler
-      - name: Run HDFilm Yabancı Filmler Script
+      # 16. HDFilm Yabancı ve Yerli Filmler
+      - name: Run HDFilm Yabancı ve Yerli Filmler Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python private_py/movies/hdfilmsite/ilksayfayabancıfilmler.py
-
-      # 17. HDFilm Yerli Filmler
-      - name: Run HDFilm Yerli Filmler Script
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python private_py/movies/hdfilmsite/ilksayfayerlifilmler.py
+        run: python private_py/movies/hdfilmsite/hemyabancihemdeyerli.py
 
       # 18. Dizipal Yerli Filmler ( cloudflare koruması mevcut )
 #      - name: Run Dizipal Yerli Filmler Script
@@ -482,7 +476,6 @@ jobs:
           cp dizigomfilmler.m3u privatate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler.m3u bulunamadı"
           cp xtream/setfilmizlefilmler.m3u privatate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler.m3u bulunamadı"
           cp hdfilmsite.m3u privatate_m3u8file/hdfilmsite.m3u || echo "hdfilmsite.m3u bulunamadı"
-          cp hdfilmsiteyerli.m3u privatate_m3u8file/hdfilmsiteyerli.m3u || echo "hdfilmsiteyerli.m3u bulunamadı"
           cp dizipalyerlifilm.m3u privatate_m3u8file/dizipalyerlifilm.m3u || echo "dizipalyerlifilm.m3u bulunamadı"
           cd privatate_m3u8file
           git config user.name "GitHub Actions"
