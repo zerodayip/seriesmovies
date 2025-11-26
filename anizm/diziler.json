@@ -1162,5 +1162,11 @@
     "last_season": 1,
     "last_episode": 13.0,
     "start_episode": 1
+  },
+  "/the-animatrix": {
+    "group": "THE ANIMATRIX",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
