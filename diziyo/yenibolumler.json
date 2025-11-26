@@ -1,4 +1,40 @@
 {
+  "/dizi/wondla": {
+    "group": "WONDLA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/prehistoric-planet": {
+    "group": "PREHISTORIC PLANET",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-last-frontier": {
+    "group": "THE LAST FRONTIER",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi/pluribus": {
+    "group": "PLURIBUS",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi/palm-royale": {
+    "group": "PALM ROYALE",
+    "last_season": 2,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi/down-cemetery-road": {
+    "group": "DOWN CEMETERY ROAD",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/dizi/yalmiun-sarang-asya": {
     "group": "MEMNUN OLDUM",
     "last_season": 1,
@@ -39,6 +75,12 @@
     "group": "CHOSEN HOME",
     "last_season": 1,
     "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/loot": {
+    "group": "LOOT",
+    "last_season": 3,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/watson": {
@@ -113,51 +155,9 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi/the-chair-company": {
-    "group": "THE CHAIR COMPANY",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
   "/dizi/the-family-man": {
     "group": "AILE BABASI",
     "last_season": 3,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/with-love": {
-    "group": "AŞKLA",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/i-love-la": {
-    "group": "I LOVE LA",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi/fortnite-x-the-simpsons": {
-    "group": "FORTNITE X THE SIMPSONS",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi/robin-hood": {
-    "group": "ROBIN HOOD",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/it-welcome-to-derry": {
-    "group": "IT: WELCOME TO DERRY",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/vgly": {
-    "group": "VGLY",
-    "last_season": 2,
     "last_episode": 7,
     "start_episode": 1
   }

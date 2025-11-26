@@ -958,5 +958,17 @@
     "last_season": 2,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/wondla": {
+    "group": "WONDLA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/prehistoric-planet": {
+    "group": "PREHISTORIC PLANET",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
