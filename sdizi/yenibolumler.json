@@ -1,4 +1,10 @@
 {
+  "/diziler/prehistoric-planet.html": {
+    "group": "PREHISTORIC PLANET",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/the-mighty-nein.html": {
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "THE CHAIR COMPANY",
     "last_season": 1,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/it-welcome-to-derry.html": {
-    "group": "IT: WELCOME TO DERRY",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
