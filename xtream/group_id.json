@@ -6757,7 +6757,9 @@
     "3025": "AILE BABASI(2019) TÜRKÇE ALTYAZI",
     "3026": "AŞKLA(2021) TÜRKÇE ALTYAZI",
     "3027": "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION(2024) TÜRKÇE ALTYAZI",
-    "3028": "MISSING: DEAD OR ALIVE?(2023) TÜRKÇE ALTYAZI"
+    "3028": "MISSING: DEAD OR ALIVE?(2023) TÜRKÇE ALTYAZI",
+    "3029": "NICE TO MEET YOU(2025) DUBLAJ & ALTYAZI",
+    "3030": "SWEETPEA(2024) DUBLAJ & ALTYAZI"
   },
   "live": {
     "1000": {
@@ -63162,6 +63164,110 @@
     },
     "15100": {
       "name": "SKY CINEMA UNO",
+      "category_id": "30"
+    },
+    "15101": {
+      "name": "ELRODI",
+      "category_id": "19"
+    },
+    "15102": {
+      "name": "AMAZON PRIME 1 [LIVE DURING EVENTS ONLY]",
+      "category_id": "22"
+    },
+    "15103": {
+      "name": "BE: ELEVEN PRO LEAGUES 2 HD",
+      "category_id": "22"
+    },
+    "15104": {
+      "name": "BEIN SPORTS 1 FHD",
+      "category_id": "22"
+    },
+    "15105": {
+      "name": "BERBERE TELEVISION",
+      "category_id": "22"
+    },
+    "15106": {
+      "name": "CANAL+ F1 FHD",
+      "category_id": "22"
+    },
+    "15107": {
+      "name": "DIRECT EQUIPE",
+      "category_id": "22"
+    },
+    "15108": {
+      "name": "FRANCE 2",
+      "category_id": "22"
+    },
+    "15109": {
+      "name": "HISTOIRE",
+      "category_id": "22"
+    },
+    "15110": {
+      "name": "MTV CLUB",
+      "category_id": "22"
+    },
+    "15111": {
+      "name": "RAKUTEN TV ROMANCE",
+      "category_id": "22"
+    },
+    "15112": {
+      "name": "RAKUTEN TV ROMANCE 2",
+      "category_id": "22"
+    },
+    "15113": {
+      "name": "VIAOCCITANIE",
+      "category_id": "22"
+    },
+    "15114": {
+      "name": "CANAL SPORT 3 HD",
+      "category_id": "23"
+    },
+    "15115": {
+      "name": "CANAL SPORT 4 HD",
+      "category_id": "23"
+    },
+    "15116": {
+      "name": "TVN 7 HD",
+      "category_id": "23"
+    },
+    "15117": {
+      "name": "TVP 3 WROCLAW",
+      "category_id": "23"
+    },
+    "15118": {
+      "name": "NEWS NOW",
+      "category_id": "24"
+    },
+    "15119": {
+      "name": "CINEMARATON",
+      "category_id": "25"
+    },
+    "15120": {
+      "name": "PRO GOLD",
+      "category_id": "25"
+    },
+    "15121": {
+      "name": "TV5 MONDE",
+      "category_id": "25"
+    },
+    "15122": {
+      "name": "MIR 24",
+      "category_id": "26"
+    },
+    "15123": {
+      "name": "TIJI",
+      "category_id": "26"
+    },
+    "15124": {
+      "name": "VIASAT 1000 ACTION",
+      "category_id": "26"
+    },
+    "15125": {
+      "name": "DAZN",
+      "category_id": "30"
+    },
+    "15126": {
+      "name": "SKY SPORT ARENA",
       "category_id": "30"
     }
   }
