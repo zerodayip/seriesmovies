@@ -1,4 +1,22 @@
 {
+  "/dizi/yalmiun-sarang-asya": {
+    "group": "MEMNUN OLDUM",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/murdaugh-death-in-the-family": {
+    "group": "MURDAUGH: DEATH IN THE FAMILY",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/alls-fair": {
+    "group": "ALL'S FAIR",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/dizi/tae-pung-sang-sa-asya": {
     "group": "TAE-PUNG-SANG-SA",
     "last_season": 1,
@@ -95,15 +113,15 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi/the-family-man": {
-    "group": "AILE BABASI",
-    "last_season": 3,
-    "last_episode": 7,
-    "start_episode": 1
-  },
   "/dizi/the-chair-company": {
     "group": "THE CHAIR COMPANY",
     "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/the-family-man": {
+    "group": "AILE BABASI",
+    "last_season": 3,
     "last_episode": 7,
     "start_episode": 1
   },
@@ -141,30 +159,6 @@
     "group": "VGLY",
     "last_season": 2,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/seventeen-our-chapter-asya": {
-    "group": "SEVENTEEN: OUR CHAPTER",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/odwil": {
-    "group": "ODWILŻ",
-    "last_season": 3,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/stumble": {
-    "group": "STUMBLE",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/sheriff-country": {
-    "group": "SHERIFF COUNTRY",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
