@@ -1,38 +1,38 @@
 {
   "/dizi/wondla": {
     "group": "WONDLA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/prehistoric-planet": {
     "group": "PREHISTORIC PLANET",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/the-last-frontier": {
     "group": "THE LAST FRONTIER",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/pluribus": {
     "group": "PLURIBUS",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/palm-royale": {
     "group": "PALM ROYALE",
     "last_season": 2,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/down-cemetery-road": {
     "group": "DOWN CEMETERY ROAD",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/yalmiun-sarang-asya": {
@@ -80,7 +80,7 @@
   "/dizi/loot": {
     "group": "LOOT",
     "last_season": 3,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/watson": {
