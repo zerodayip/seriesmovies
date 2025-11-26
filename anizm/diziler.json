@@ -1156,5 +1156,11 @@
     "last_season": 1,
     "last_episode": 13.0,
     "start_episode": 1
+  },
+  "/dead-dead-demons-dededede-destruction": {
+    "group": "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

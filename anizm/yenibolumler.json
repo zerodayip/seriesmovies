@@ -1,4 +1,10 @@
 {
+  "/dead-dead-demons-dededede-destruction": {
+    "group": "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/tondemo-skill-de-isekai-hourou-meshi-2": {
     "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
     "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
-    "last_season": 1,
-    "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/shuumatsu-touring": {
-    "group": "SHUUMATSU TOURING",
     "last_season": 1,
     "last_episode": 8.0,
     "start_episode": 1
