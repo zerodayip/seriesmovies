@@ -344,7 +344,7 @@
   "/diziler/the-last-frontier.html": {
     "group": "THE LAST FRONTIER",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/typhoon-family.html": {
@@ -446,7 +446,7 @@
   "/diziler/down-cemetery-road.html": {
     "group": "DOWN CEMETERY ROAD",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/breeders.html": {
@@ -464,7 +464,7 @@
   "/diziler/the-manipulated.html": {
     "group": "THE MANIPULATED",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/ballard.html": {
@@ -1945,8 +1945,8 @@
   },
   "/diziler/wondla.html": {
     "group": "WONDLA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/supacell.html": {
@@ -5738,7 +5738,7 @@
   "/diziler/loot.html": {
     "group": "LOOT",
     "last_season": 3,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/monsters-at-work.html": {
@@ -16142,7 +16142,7 @@
   "/diziler/the-mighty-nein.html": {
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/state-of-affairs.html": {
