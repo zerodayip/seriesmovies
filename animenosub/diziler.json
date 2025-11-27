@@ -68,7 +68,7 @@
   "/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle/": {
     "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/to-be-hero-x/": {
@@ -122,7 +122,7 @@
   "/anime/one-piece-dub/": {
     "group": "ONE PIECE DUB",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1130
   },
   "/anime/theres-no-freaking-way-ill-be-your-lover-unless/": {
@@ -242,7 +242,7 @@
   "/anime/i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-season-2/": {
     "group": "I WAS REINCARNATED AS THE 7TH PRINCE SO I CAN TAKE MY TIME PERFECTING MY MAGICAL ABILITY SEASON 2",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/welcome-to-the-outcasts-restaurant/": {
@@ -272,13 +272,13 @@
   "/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle-dub/": {
     "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE (DUB)",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/dandadan-season-2-dub/": {
     "group": "DANDADAN SEASON 2 (DUB)",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/kamitsubaki-city-under-production/": {
@@ -368,7 +368,7 @@
   "/anime/9-rulers-crown/": {
     "group": "9: RULER’S CROWN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/anime/fermat-kitchen/": {
@@ -428,7 +428,7 @@
   "/anime/dusk-beyond-the-end-of-the-world-episode-0/": {
     "group": "DUSK BEYOND THE END OF THE WORLD EPISODE 0",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/hero-without-a-class-who-even-needs-skills/": {
@@ -470,7 +470,7 @@
   "/anime/chainsaw-man-the-movie-reze-arc/": {
     "group": "CHAINSAW MAN THE MOVIE: REZE ARC",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/this-monster-wants-to-eat-me/": {
@@ -572,7 +572,7 @@
   "/anime/tales-of-wedding-rings-season-2/": {
     "group": "TALES OF WEDDING RINGS SEASON 2",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/anime/inexpressive-kashiwada-and-expressive-oota/": {
@@ -608,7 +608,7 @@
   "/anime/hands-off-sawaranaide-kotesashi-kun/": {
     "group": "HANDS OFF: SAWARANAIDE KOTESASHI-KUN",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/anime/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator/": {
@@ -710,7 +710,7 @@
   "/anime/monster-strike-deadverse-reloaded/": {
     "group": "MONSTER STRIKE: DEADVERSE RELOADED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/disney-twisted-wonderland-the-animation/": {
@@ -722,13 +722,13 @@
   "/anime/love-live-nijigasaki-high-school-idol-club-the-movie-finale/": {
     "group": "LOVE LIVE! NIJIGASAKI HIGH SCHOOL IDOL CLUB THE MOVIE – FINALE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/chainsaw-man-the-movie-reze-arc-dub/": {
     "group": "CHAINSAW MAN THE MOVIE: REZE ARC (DUB)",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/tatsuki-fujimoto-17-26/": {
@@ -746,19 +746,19 @@
   "/anime/jujutsu-kaisen-execution/": {
     "group": "JUJUTSU KAISEN: EXECUTION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/jujutsu-kaisen-execution-shibuya-incident-x-the-culling-game-begins/": {
     "group": "JUJUTSU KAISEN: EXECUTION -SHIBUYA INCIDENT X THE CULLING GAME BEGINS-",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/the-mighty-nein/": {
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
