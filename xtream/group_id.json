@@ -4730,7 +4730,8 @@
     "5727": "NOEL SOYGUNU(2025) (TÜRKÇE DUBLAJ)",
     "5728": "NOEL SOYGUNU(2025) (TÜRKÇE ALTYAZI)",
     "5729": "POLLY MCCLUSKY’NIN ZOR EĞITIMI(2025) (TÜRKÇE DUBLAJ)",
-    "5730": "POLLY MCCLUSKY’NIN ZOR EĞITIMI(2025) (TÜRKÇE ALTYAZI)"
+    "5730": "POLLY MCCLUSKY’NIN ZOR EĞITIMI(2025) (TÜRKÇE ALTYAZI)",
+    "5731": "NOEL SOYGUNU(2025) (DUBLAJ & ALTYAZI)"
   },
   "series": {
     "1000": "İNGİLTERE MEZATÇILARI DMAX TÜRKİYE",
@@ -63292,6 +63293,178 @@
     },
     "15126": {
       "name": "SKY SPORT ARENA",
+      "category_id": "30"
+    },
+    "15127": {
+      "name": "BLUETV THRILLER 1 ʜᴅ",
+      "category_id": "17"
+    },
+    "15128": {
+      "name": "DISCOVERY CHANNEL",
+      "category_id": "17"
+    },
+    "15129": {
+      "name": "DISNEY XD",
+      "category_id": "17"
+    },
+    "15130": {
+      "name": "DOKUMENTATION",
+      "category_id": "17"
+    },
+    "15131": {
+      "name": "GAME OF THRONES CHANNEL",
+      "category_id": "17"
+    },
+    "15132": {
+      "name": "HSE 24 EXTRA",
+      "category_id": "17"
+    },
+    "15133": {
+      "name": "HSE 24 TREND",
+      "category_id": "17"
+    },
+    "15134": {
+      "name": "KINDER SENDER",
+      "category_id": "17"
+    },
+    "15135": {
+      "name": "MAGENTA FUSSBALL 10 HD",
+      "category_id": "17"
+    },
+    "15136": {
+      "name": "MORE THAN SPORTS TV FHD",
+      "category_id": "17"
+    },
+    "15137": {
+      "name": "MORE THAN SPORTS TV HD",
+      "category_id": "17"
+    },
+    "15138": {
+      "name": "MOTORSPORT TV",
+      "category_id": "17"
+    },
+    "15139": {
+      "name": "MUENCHEN",
+      "category_id": "17"
+    },
+    "15140": {
+      "name": "NACHRICHTEN",
+      "category_id": "17"
+    },
+    "15141": {
+      "name": "NOA 4 NORDERSTEDT",
+      "category_id": "17"
+    },
+    "15142": {
+      "name": "OE24.TV",
+      "category_id": "17"
+    },
+    "15143": {
+      "name": "OK KAISERSLAUTERN",
+      "category_id": "17"
+    },
+    "15144": {
+      "name": "OK KASSEL",
+      "category_id": "17"
+    },
+    "15145": {
+      "name": "OK LUDWIGSHAFEN",
+      "category_id": "17"
+    },
+    "15146": {
+      "name": "OK SUEDWESTPFALZ",
+      "category_id": "17"
+    },
+    "15147": {
+      "name": "PARAMOUNT NETWORK",
+      "category_id": "17"
+    },
+    "15148": {
+      "name": "QVC 2 HD",
+      "category_id": "17"
+    },
+    "15149": {
+      "name": "S. SPORT 11 FHD",
+      "category_id": "17"
+    },
+    "15150": {
+      "name": "SKY BUNDESLIGA 10 HD",
+      "category_id": "17"
+    },
+    "15151": {
+      "name": "SKY BUNDESLIGA 8 HD",
+      "category_id": "17"
+    },
+    "15152": {
+      "name": "SKY CINEMA PREMIEREN 24",
+      "category_id": "17"
+    },
+    "15153": {
+      "name": "SKY CINEMA PREMIEREN HD+",
+      "category_id": "17"
+    },
+    "15154": {
+      "name": "SKY COMEDY",
+      "category_id": "17"
+    },
+    "15155": {
+      "name": "SPONGEBOB HD",
+      "category_id": "17"
+    },
+    "15156": {
+      "name": "SPORT DIGITAL FHD",
+      "category_id": "17"
+    },
+    "15157": {
+      "name": "SPORT1 FHD",
+      "category_id": "17"
+    },
+    "15158": {
+      "name": "TASTEMADE",
+      "category_id": "17"
+    },
+    "15159": {
+      "name": "TNT COMEDY HD+",
+      "category_id": "17"
+    },
+    "15160": {
+      "name": "TOM AND JERRY",
+      "category_id": "17"
+    },
+    "15161": {
+      "name": "UNIVERSAL TV HD+",
+      "category_id": "17"
+    },
+    "15162": {
+      "name": "BEIN SPORTS 1 PREMIUM 1080 LOCAL",
+      "category_id": "18"
+    },
+    "15163": {
+      "name": "BEIN SPORTS 6 SD",
+      "category_id": "18"
+    },
+    "15164": {
+      "name": "BEIN SPORTS 7 SD",
+      "category_id": "18"
+    },
+    "15165": {
+      "name": "KS ISLAM FILM",
+      "category_id": "19"
+    },
+    "15166": {
+      "name": "DAZN LIGUE 1 LIVE 1 SD",
+      "category_id": "22"
+    },
+    "15167": {
+      "name": "CANAL+ SPORT 4",
+      "category_id": "24"
+    },
+    "15168": {
+      "name": "MIR 24",
+      "category_id": "27"
+    },
+    "15169": {
+      "name": "HISTORY",
       "category_id": "30"
     }
   }
