@@ -1,4 +1,16 @@
 {
+  "/diziler/adventure-time-fionna-and-cake.html": {
+    "group": "ADVENTURE TIME: FIONNA & CAKE",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/diziler/south-park.html": {
+    "group": "SOUTH PARK",
+    "last_season": 28,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/diziler/stranger-things.html": {
     "group": "STRANGER THINGS",
     "last_season": 5,
@@ -69,18 +81,6 @@
     "group": "SMILING FRIENDS",
     "last_season": 3,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/my-wife-and-kids.html": {
-    "group": "MY WIFE AND KIDS",
-    "last_season": 5,
-    "last_episode": 26,
-    "start_episode": 1
-  },
-  "/diziler/robin-hood-2025.html": {
-    "group": "ROBIN HOOD 2025",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
