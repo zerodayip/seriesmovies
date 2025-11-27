@@ -1,4 +1,10 @@
 {
+  "/diziler/stranger-things.html": {
+    "group": "STRANGER THINGS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/prehistoric-planet.html": {
     "group": "PREHISTORIC PLANET",
     "last_season": 3,
@@ -75,12 +81,6 @@
     "group": "ROBIN HOOD 2025",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/the-chair-company.html": {
-    "group": "THE CHAIR COMPANY",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   }
 }
