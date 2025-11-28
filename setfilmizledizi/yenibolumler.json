@@ -2,7 +2,7 @@
   "/dizi/the-last-frontier/": {
     "group": "THE LAST FRONTIER",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/down-cemetery-road/": {
@@ -25,8 +25,8 @@
   },
   "/dizi/wondla/": {
     "group": "WONDLA",
-    "last_season": 1,
-    "last_episode": 1,
+    "last_season": 3,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/pluribus/": {
@@ -37,7 +37,7 @@
   },
   "/dizi/stranger-things/": {
     "group": "STRANGER THINGS",
-    "last_season": 4,
+    "last_season": 5,
     "last_episode": 9,
     "start_episode": 1
   },
