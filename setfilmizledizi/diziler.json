@@ -10336,5 +10336,17 @@
     "last_season": 1,
     "last_episode": 9,
     "start_episode": 1
+  },
+  "/dizi/sthlm-blackout/": {
+    "group": "STHLM BLACKOUT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-night-manager/": {
+    "group": "THE NIGHT MANAGER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

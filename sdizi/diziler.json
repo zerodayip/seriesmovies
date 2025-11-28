@@ -16156,5 +16156,11 @@
     "last_season": 5,
     "last_episode": 26,
     "start_episode": 1
+  },
+  "/diziler/apples-never-fall.html": {
+    "group": "APPLES NEVER FALL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
