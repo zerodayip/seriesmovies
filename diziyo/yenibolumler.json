@@ -1,4 +1,58 @@
 {
+  "/dizi/south-park": {
+    "group": "SOUTH PARK",
+    "last_season": 28,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/return-to-paradise": {
+    "group": "RETURN TO PARADISE",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/murder-in-a-small-town": {
+    "group": "MURDER IN A SMALL TOWN",
+    "last_season": 2,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/hudson-rex": {
+    "group": "HUDSON & REX",
+    "last_season": 8,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/cooper-fry": {
+    "group": "COOPER & FRY",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/karma-yerli": {
+    "group": "KARMA",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/the-mighty-nein": {
+    "group": "THE MIGHTY NEIN",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/ki-seu-neun-gwaen-hi-hae-seo-asya": {
+    "group": "KI-SEU-NEUN GWAEN-HI HAE-SEO",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/jo-gak-do-si-asya": {
+    "group": "JO-GAK-DO-SI",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/dizi/stranger-things": {
     "group": "STRANGER THINGS",
     "last_season": 1,
@@ -85,60 +139,6 @@
   },
   "/dizi/loot": {
     "group": "LOOT",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/watson": {
-    "group": "WATSON",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/universal-basic-guys": {
-    "group": "UNIVERSAL BASIC GUYS",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/tracker": {
-    "group": "TRACKER",
-    "last_season": 3,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/the-simpsons": {
-    "group": "THE SIMPSONS",
-    "last_season": 37,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/the-forsytes": {
-    "group": "THE FORSYTES",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/st-denis-medical": {
-    "group": "ST. DENIS MEDICAL",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/return-to-paradise": {
-    "group": "RETURN TO PARADISE",
-    "last_season": 2,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/mistletoe-murders": {
-    "group": "MISTLETOE MURDERS",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/krapopolis": {
-    "group": "KRAPOPOLIS",
     "last_season": 3,
     "last_episode": 8,
     "start_episode": 1
