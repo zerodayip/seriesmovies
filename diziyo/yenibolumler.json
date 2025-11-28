@@ -1,4 +1,16 @@
 {
+  "/dizi/power-book-iv-force": {
+    "group": "POWER BOOK IV: FORCE",
+    "last_season": 3,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/seventeen-our-chapter-asya": {
+    "group": "SEVENTEEN: OUR CHAPTER",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/dizi/three-idiots-in-kenya": {
     "group": "ÜÇ KAFADAR KENYADA",
     "last_season": 1,
@@ -129,18 +141,6 @@
     "group": "MURDAUGH: DEATH IN THE FAMILY",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/alls-fair": {
-    "group": "ALL'S FAIR",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/tae-pung-sang-sa-asya": {
-    "group": "TAE-PUNG-SANG-SA",
-    "last_season": 1,
-    "last_episode": 14,
     "start_episode": 1
   }
 }

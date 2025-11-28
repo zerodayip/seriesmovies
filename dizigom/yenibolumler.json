@@ -1,7 +1,85 @@
 {
-  "/dizi-izle/it-welcome-to-derry": {
-    "group": "IT: WELCOME TO DERRY",
+  "/dizi-izle/missing-dead-or-alive": {
+    "group": "MISSING: DEAD OR ALIVE?",
+    "last_season": 2,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-manipulated": {
+    "group": "THE MANIPULATED",
     "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-family-man": {
+    "group": "THE FAMILY MAN",
+    "last_season": 3,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-chair-company": {
+    "group": "THE CHAIR COMPANY",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/maxton-hall-the-world-between-us": {
+    "group": "MAXTON HALL - THE WORLD BETWEEN US",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-dream-life-of-mr-kim": {
+    "group": "THE DREAM LIFE OF MR. KIM",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-vallecas-files": {
+    "group": "THE VALLECAS FILES",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi-izle/dynamite-kiss": {
+    "group": "DYNAMITE KISS",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-mighty-nein": {
+    "group": "THE MIGHTY NEIN",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/down-cemetery-road": {
+    "group": "DOWN CEMETERY ROAD",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/vgly": {
+    "group": "VGLY",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/disney-twisted-wonderland-the-animation": {
+    "group": "DISNEY TWISTED-WONDERLAND: THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-last-frontier": {
+    "group": "THE LAST FRONTIER",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/prehistoric-planet": {
+    "group": "PREHISTORIC PLANET",
+    "last_season": 3,
     "last_episode": 5,
     "start_episode": 1
   },
@@ -11,40 +89,10 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/missing-dead-or-alive": {
-    "group": "MISSING: DEAD OR ALIVE?",
-    "last_season": 2,
+  "/dizi-izle/i-love-la": {
+    "group": "I LOVE LA",
+    "last_season": 1,
     "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/typhoon-family": {
-    "group": "TYPHOON FAMILY",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "/dizi-izle/nice-to-not-meet-you": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/down-cemetery-road": {
-    "group": "DOWN CEMETERY ROAD",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/prehistoric-planet": {
-    "group": "PREHISTORIC PLANET",
-    "last_season": 3,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-family-man": {
-    "group": "THE FAMILY MAN",
-    "last_season": 3,
-    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/palm-royale": {
@@ -53,28 +101,10 @@
     "last_episode": 3,
     "start_episode": 1
   },
-  "/dizi-izle/the-last-frontier": {
-    "group": "THE LAST FRONTIER",
+  "/dizi-izle/typhoon-family": {
+    "group": "TYPHOON FAMILY",
     "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi-izle/seventeen-our-chapter": {
-    "group": "SEVENTEEN: OUR CHAPTER",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-chair-company": {
-    "group": "THE CHAIR COMPANY",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-dream-life-of-mr-kim": {
-    "group": "THE DREAM LIFE OF MR. KIM",
-    "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/dizi-izle/pluribus": {
@@ -83,58 +113,22 @@
     "last_episode": 5,
     "start_episode": 1
   },
-  "/dizi-izle/dynamite-kiss": {
-    "group": "DYNAMITE KISS",
+  "/dizi-izle/stranger-things": {
+    "group": "STRANGER THINGS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/nice-to-not-meet-you": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/it-welcome-to-derry": {
+    "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/disney-twisted-wonderland-the-animation": {
-    "group": "DISNEY TWISTED-WONDERLAND: THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/maxton-hall-the-world-between-us": {
-    "group": "MAXTON HALL - THE WORLD BETWEEN US",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/i-love-la": {
-    "group": "I LOVE LA",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-vallecas-files": {
-    "group": "THE VALLECAS FILES",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-mighty-nein": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-seduction": {
-    "group": "THE SEDUCTION",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi-izle/jurassic-world-chaos-theory": {
-    "group": "JURASSIC WORLD: CHAOS THEORY",
-    "last_season": 4,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-manipulated": {
-    "group": "THE MANIPULATED",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
