@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */5 * * *'    # Her 5 saatte bir tüm scriptler çalışır (DMAX hariç)
-    - cron: '0 3 * * *'     # Türkiye saati 06:00 -> 03:00 UTC (DMAX - TLC - TV DİZİLERİ bu tetikte çalışacak)
+    - cron: '0 2 * * *'     # Türkiye saati 05:00 -> 02:00 UTC (DMAX - TLC - TV DİZİLERİ bu tetikte çalışacak)
 
 jobs:
   part1:
-    name: Step 1-2-3 Çalıştır
+    name: Step 1-3 Çalıştır
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -64,24 +64,24 @@ jobs:
       - name: Run diziyiizleyenibolumler.py
         run: python private_py/series/diziyiizle/yenibolumler.py
 
-      # 2. EPG üretimi sadece gece 04:00 TR çalışacak ---
-      - name: Run epg.py (sadece Türkiye saati 04:00 ve Manuel Çalıştırmada)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 3')) || github.event_name == 'workflow_dispatch' }}
+      # 2. EPG üretimi sadece gece 05:00 TR çalışacak ---
+      - name: Run epg.py (sadece Türkiye saati 05:00 ve Manuel Çalıştırmada)
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/channels/epg/gunlukepg.py
 
       # 2. DMAX sadece gece 04:00 TR çalışacak ---
-      - name: Run dmax.py (sadece Türkiye saati 04:00)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 3'))}}
+      - name: Run dmax.py (sadece Türkiye saati 05:00)
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2'))}}
         run: python private_py/series/dmax/yenibolumler.py
 
       # 2. TLC sadece gece 04:00 TR çalışacak ---
-      - name: Run tlc.py (sadece Türkiye saati 04:00)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 3'))}}
+      - name: Run tlc.py (sadece Türkiye saati 05:00)
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2'))}}
         run: python private_py/series/tlc/yenibolumler.py
 
-      # 2. TV Dizileri sadece gece 04:00 TR çalışacak ---
-      - name: Run yereldiziler.py (sadece Türkiye saati 04:00 ve Manuel Çalıştırmada)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 3')) || github.event_name == 'workflow_dispatch' }}
+      # 2. TV Dizileri sadece gece 05:00 TR çalışacak ---
+      - name: Run yereldiziler.py (sadece Türkiye saati 05:00 ve Manuel Çalıştırmada)
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/series/yereldiziler/yereldiziler.py
 
       - name: Commit and Push EPG to public repo
@@ -352,9 +352,9 @@ jobs:
           git commit -m "DiziYo çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # 12. Dizipall Yerli Dizi sadece gece 04:00 TR çalışacak ---
-      - name: Run dizipallyerlidizi.py
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 3')) || github.event_name == 'workflow_dispatch' }}
+      # 12. Dizipall Yerli Dizi sadece gece 05:00 TR çalışacak ---
+      - name: Run dizipallyerlidizi.py (sadece Türkiye saati 05:00 ve Manuel Çalıştırmada)
+        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/series/dizipall/yenibolumler.py
 
       - name: Sync DiziPall Yerli Dizi output to private repo
@@ -368,9 +368,8 @@ jobs:
           git commit -m "Dizipall Yerli Dizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # 12. HDFilmsite Diziler sadece gece 04:00 TR çalışacak ---
+      # 13. HDFilmsite Diziler 
       - name: Run hdfilmsitedizi.py
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 3')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/series/hdfilmsite/yenibolumler.py
 
       - name: Sync HDFilmsite Diziler output to private repo
@@ -385,7 +384,7 @@ jobs:
           git push origin main
           
   part3:
-    name: Step 13 Çalıştır
+    name: Step 14 Çalıştır
     runs-on: ubuntu-latest
     needs: part2
     env:
@@ -407,7 +406,7 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      # 13. YeniJSON to AnaJSON
+      # 14. YeniJSON to AnaJSON
       - name: Run yenibolumdenanajsona Script
         run: python private_py/series/yenibolumdenanajsona.py
 
@@ -420,7 +419,7 @@ jobs:
           git push origin main
 
   part4:
-    name: Step 14-to-18 Çalıştır
+    name: Step 15-to-19 Çalıştır
     runs-on: ubuntu-latest
     needs: part3
     env:
