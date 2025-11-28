@@ -1,4 +1,22 @@
 {
+  "/dizi/three-idiots-in-kenya": {
+    "group": "ÜÇ KAFADAR KENYADA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/merteuil": {
+    "group": "THE SEDUCTION",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi/maxton-hall-die-welt-zwischen-uns": {
+    "group": "MAXTON HALL - ARAMIZDAKI DÜNYA",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/dizi/south-park": {
     "group": "SOUTH PARK",
     "last_season": 28,
@@ -51,6 +69,12 @@
     "group": "JO-GAK-DO-SI",
     "last_season": 1,
     "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi/vgly": {
+    "group": "VGLY",
+    "last_season": 2,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/stranger-things": {
@@ -117,30 +141,6 @@
     "group": "TAE-PUNG-SANG-SA",
     "last_season": 1,
     "last_episode": 14,
-    "start_episode": 1
-  },
-  "/dizi/se-oul-ja-ga-e-dae-gi-eop-da-ni-neun-kim-bu-jang-i-ya-gi-asya": {
-    "group": "SE-OUL JA-GA-E DAE-GI-EOP DA-NI-NEUN KIM BU-JANG I-YA-GI",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/just-a-bit-espers-asya": {
-    "group": "JUST A BIT ESPERS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/chosen-home-asya": {
-    "group": "CHOSEN HOME",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/loot": {
-    "group": "LOOT",
-    "last_season": 3,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
