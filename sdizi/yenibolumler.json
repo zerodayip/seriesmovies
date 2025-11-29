@@ -1,4 +1,10 @@
 {
+  "/diziler/spy-x-family.html": {
+    "group": "SPY X FAMILY",
+    "last_season": 3,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/diziler/my-hero-academia.html": {
     "group": "MY HERO ACADEMIA",
     "last_season": 8,
@@ -81,12 +87,6 @@
     "group": "PLURIBUS",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/nice-to-not-meet-you.html": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }

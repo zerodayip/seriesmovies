@@ -1,4 +1,10 @@
 {
+  "/dizi/it-s-florida-man": {
+    "group": "IT'S FLORIDA, MAN.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/power-book-iv-force": {
     "group": "POWER BOOK IV: FORCE",
     "last_season": 3,
@@ -133,12 +139,6 @@
   },
   "/dizi/yalmiun-sarang-asya": {
     "group": "MEMNUN OLDUM",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/murdaugh-death-in-the-family": {
-    "group": "MURDAUGH: DEATH IN THE FAMILY",
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
