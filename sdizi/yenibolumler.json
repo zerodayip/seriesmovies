@@ -1,4 +1,16 @@
 {
+  "/diziler/to-your-eternity.html": {
+    "group": "TO YOUR ETERNITY",
+    "last_season": 3,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/typhoon-family.html": {
+    "group": "TYPHOON FAMILY",
+    "last_season": 1,
+    "last_episode": 14,
+    "start_episode": 1
+  },
   "/diziler/spy-x-family.html": {
     "group": "SPY X FAMILY",
     "last_season": 3,
@@ -75,18 +87,6 @@
     "group": "LOOT",
     "last_season": 3,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/down-cemetery-road.html": {
-    "group": "DOWN CEMETERY ROAD",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/pluribus.html": {
-    "group": "PLURIBUS",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
