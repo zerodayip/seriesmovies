@@ -1,4 +1,34 @@
 {
+  "/chanto-suenai-kyuuketsuki-chan": {
+    "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/digimon-beatbreak": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/kingdom-6th-season": {
+    "group": "KINGDOM 6TH SEASON",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/ganglion": {
+    "group": "GANGLION",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/spy-x-family-season-3": {
+    "group": "SPY X FAMILY SEASON 3",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
   "/si-vis-the-sound-of-heroes": {
     "group": "SI-VIS: THE SOUND OF HEROES",
     "last_season": 1,
@@ -75,36 +105,6 @@
     "group": "KEKKON YUBIWA MONOGATARI II",
     "last_season": 1,
     "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/boku-no-hero-academia-final-season": {
-    "group": "BOKU NO HERO ACADEMIA: FINAL SEASON",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka": {
-    "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/sanda": {
-    "group": "SANDA",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/watari-kun-no-xx-ga-houkai-sunzen": {
-    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
-    "last_season": 1,
-    "last_episode": 22.0,
-    "start_episode": 1
-  },
-  "/dragon-raja-ii--the-mourners-eyes-": {
-    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
-    "last_season": 1,
-    "last_episode": 22.0,
     "start_episode": 1
   }
 }
