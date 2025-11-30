@@ -1,4 +1,10 @@
 {
+  "/anime/kingdom-season-6/": {
+    "group": "KINGDOM: SEASON 6",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/anime/my-friends-little-sister-has-it-in-for-me/": {
     "group": "MY FRIEND’S LITTLE SISTER HAS IT IN FOR ME!",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge/": {
     "group": "MY GIFT LVL 9999 UNLIMITED GACHA: BACKSTABBED IN A BACKWATER DUNGEON, I’M OUT FOR REVENGE!",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/anime/pass-the-monster-meat-milady/": {
-    "group": "PASS THE MONSTER MEAT, MILADY!",
     "last_season": 1,
     "last_episode": 9,
     "start_episode": 1
