@@ -1,4 +1,28 @@
 {
+  "/si-vis-the-sound-of-heroes": {
+    "group": "SI-VIS: THE SOUND OF HEROES",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/enen-no-shouboutai-san-no-shou-part-2": {
+    "group": "ENEN NO SHOUBOUTAI: SAN NO SHOU PART 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/kakuriyo-no-yadomeshi-ni": {
+    "group": "KAKURIYO NO YADOMESHI NI",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/shuumatsu-touring": {
+    "group": "SHUUMATSU TOURING",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
   "/nageki-no-bourei-wa-intai-shitai-part-2": {
     "group": "NAGEKI NO BOUREI WA INTAI SHITAI PART 2",
     "last_season": 1,
@@ -81,30 +105,6 @@
     "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
     "last_season": 1,
     "last_episode": 22.0,
-    "start_episode": 1
-  },
-  "/tougen-anki": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 20.0,
-    "start_episode": 1
-  },
-  "/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu--zamaa-shimasu": {
-    "group": "SHINJITEITA NAKAMA-TACHI NI DUNGEON OKUCHI DE KOROSAREKAKETA GA GIFT \"MUGEN GACHA\" DE LEVEL 9999 NO NAKAMA-TACHI WO TE NI IRETE MOTO PARTY MEMBER TO SEKAI NI FUKUSHUU & \"ZAMAA!\" SHIMASU!",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/futari-solo-camp": {
-    "group": "FUTARI SOLO CAMP",
-    "last_season": 1,
-    "last_episode": 21.0,
-    "start_episode": 1
-  },
-  "/watashi-wo-tabetai-hitodenashi": {
-    "group": "WATASHI WO TABETAI, HITODENASHI",
-    "last_season": 1,
-    "last_episode": 9.0,
     "start_episode": 1
   }
 }
