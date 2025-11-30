@@ -814,5 +814,17 @@
     "last_season": 5,
     "last_episode": 4,
     "start_episode": 1
+  },
+  "/dizi-izle/angela-diniz-murdered-and-convicted": {
+    "group": "ÂNGELA DINIZ: MURDERED AND CONVICTED",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/three-idiots-in-kenya": {
+    "group": "THREE IDIOTS IN KENYA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

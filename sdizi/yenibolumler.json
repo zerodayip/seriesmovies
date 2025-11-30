@@ -1,4 +1,28 @@
 {
+  "/diziler/typhoon-family.html": {
+    "group": "TYPHOON FAMILY",
+    "last_season": 1,
+    "last_episode": 15,
+    "start_episode": 1
+  },
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1150,
+    "start_episode": 1130
+  },
+  "/diziler/one-punch-man.html": {
+    "group": "ONE PUNCH MAN",
+    "last_season": 3,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/diziler/gachiakuta.html": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 20,
+    "start_episode": 1
+  },
   "/diziler/key-and-peele.html": {
     "group": "KEY AND PEELE",
     "last_season": 5,
@@ -9,12 +33,6 @@
     "group": "TO YOUR ETERNITY",
     "last_season": 3,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/typhoon-family.html": {
-    "group": "TYPHOON FAMILY",
-    "last_season": 1,
-    "last_episode": 15,
     "start_episode": 1
   },
   "/diziler/spy-x-family.html": {
@@ -63,30 +81,6 @@
     "group": "PREHISTORIC PLANET",
     "last_season": 3,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/the-mighty-nein.html": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/diziler/the-manipulated.html": {
-    "group": "THE MANIPULATED",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/the-last-frontier.html": {
-    "group": "THE LAST FRONTIER",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/wondla.html": {
-    "group": "WONDLA",
-    "last_season": 3,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
