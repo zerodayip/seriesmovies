@@ -1,4 +1,10 @@
 {
+  "/dizi/it-welcome-to-derry/": {
+    "group": "IT: WELCOME TO DERRY",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/dizi/the-legend-of-vox-machina/": {
     "group": "THE LEGEND OF VOX MACHINA",
     "last_season": 3,
