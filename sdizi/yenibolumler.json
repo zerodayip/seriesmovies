@@ -1,4 +1,28 @@
 {
+  "/diziler/robin-hood-2025.html": {
+    "group": "ROBIN HOOD 2025",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/diziler/twinkling-watermelon.html": {
+    "group": "TWINKLING WATERMELON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/the-chair-company.html": {
+    "group": "THE CHAIR COMPANY",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/diziler/it-welcome-to-derry.html": {
+    "group": "IT: WELCOME TO DERRY",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/diziler/typhoon-family.html": {
     "group": "TYPHOON FAMILY",
     "last_season": 1,
@@ -57,30 +81,6 @@
     "group": "MAXTON HALL: THE WORLD BETWEEN US",
     "last_season": 2,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/adventure-time-fionna-and-cake.html": {
-    "group": "ADVENTURE TIME: FIONNA & CAKE",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/south-park.html": {
-    "group": "SOUTH PARK",
-    "last_season": 28,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/diziler/stranger-things.html": {
-    "group": "STRANGER THINGS",
-    "last_season": 5,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/diziler/prehistoric-planet.html": {
-    "group": "PREHISTORIC PLANET",
-    "last_season": 3,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
