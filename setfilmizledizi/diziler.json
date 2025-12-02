@@ -50,7 +50,7 @@
   "/dizi/nice-to-not-meet-you/": {
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/konusanlar/": {
@@ -110,7 +110,7 @@
   "/dizi/it-welcome-to-derry/": {
     "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/legenden/": {
@@ -10358,13 +10358,13 @@
   "/dizi/sandokan-the-pirate-prince/": {
     "group": "SANDOKAN: THE PIRATE PRINCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/merteuil/": {
     "group": "MERTEUIL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   }
 }
