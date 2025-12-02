@@ -994,5 +994,17 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi/shetland": {
+    "group": "SHETLAND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/bel-air": {
+    "group": "BEL-AIR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
