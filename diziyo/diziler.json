@@ -1006,5 +1006,35 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi/athletes-to-watch-milano-cortina-2026": {
+    "group": "ATHLETES TO WATCH MILANO CORTINA 2026",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/control-de-fronteras-europa": {
+    "group": "AVRUPA SINIR KONTROLÜ",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/gumruk-muhafaza-turkiye": {
+    "group": "GÜMRÜK MUHAFAZA TÜRKIYE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/hestepigen-fra-helvede": {
+    "group": "HORSES & HANGMEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-friday-the-13th-murders": {
+    "group": "THE FRIDAY THE 13TH MURDERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

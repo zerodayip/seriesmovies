@@ -1,4 +1,34 @@
 {
+  "/dizi/athletes-to-watch-milano-cortina-2026": {
+    "group": "ATHLETES TO WATCH MILANO CORTINA 2026",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/control-de-fronteras-europa": {
+    "group": "AVRUPA SINIR KONTROLÜ",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/gumruk-muhafaza-turkiye": {
+    "group": "GÜMRÜK MUHAFAZA TÜRKIYE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/hestepigen-fra-helvede": {
+    "group": "HORSES & HANGMEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-friday-the-13th-murders": {
+    "group": "THE FRIDAY THE 13TH MURDERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/universal-basic-guys": {
     "group": "UNIVERSAL BASIC GUYS",
     "last_season": 2,
@@ -135,36 +165,6 @@
     "group": "MURDER IN A SMALL TOWN",
     "last_season": 2,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/hudson-rex": {
-    "group": "HUDSON & REX",
-    "last_season": 8,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/cooper-fry": {
-    "group": "COOPER & FRY",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/karma-yerli": {
-    "group": "KARMA",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/the-mighty-nein": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/ki-seu-neun-gwaen-hi-hae-seo-asya": {
-    "group": "KI-SEU-NEUN GWAEN-HI HAE-SEO",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

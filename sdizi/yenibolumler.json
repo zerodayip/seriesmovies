@@ -1,4 +1,10 @@
 {
+  "/diziler/nice-to-not-meet-you.html": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "/diziler/once-upon-a-time-in-wonderland.html": {
     "group": "ONCE UPON A TIME IN WONDERLAND",
     "last_season": 1,
@@ -15,12 +21,6 @@
     "group": "SMILING FRIENDS",
     "last_season": 3,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/nice-to-not-meet-you.html": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/robin-hood-2025.html": {

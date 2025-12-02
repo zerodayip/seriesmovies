@@ -1,4 +1,10 @@
 {
+  "/dizi/siren/": {
+    "group": "SIREN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/sandokan-the-pirate-prince/": {
     "group": "SANDOKAN: THE PIRATE PRINCE",
     "last_season": 1,
@@ -15,18 +21,6 @@
     "group": "MERTEUIL",
     "last_season": 1,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/it-welcome-to-derry/": {
-    "group": "IT: WELCOME TO DERRY",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/the-legend-of-vox-machina/": {
-    "group": "THE LEGEND OF VOX MACHINA",
-    "last_season": 3,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
