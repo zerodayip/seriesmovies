@@ -1,4 +1,16 @@
 {
+  "/diziler/once-upon-a-time-in-wonderland.html": {
+    "group": "ONCE UPON A TIME IN WONDERLAND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/alls-fair.html": {
+    "group": "ALL'S FAIR",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/diziler/smiling-friends.html": {
     "group": "SMILING FRIENDS",
     "last_season": 3,
@@ -68,18 +80,6 @@
   "/diziler/to-your-eternity.html": {
     "group": "TO YOUR ETERNITY",
     "last_season": 3,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/spy-x-family.html": {
-    "group": "SPY X FAMILY",
-    "last_season": 3,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/my-hero-academia.html": {
-    "group": "MY HERO ACADEMIA",
-    "last_season": 8,
     "last_episode": 9,
     "start_episode": 1
   }
