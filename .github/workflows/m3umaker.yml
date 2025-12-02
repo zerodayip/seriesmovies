@@ -61,8 +61,8 @@ jobs:
       # - name: Run filmhaneyenibolumler.py
       #   run: python private_py/series/filmhane/yenibolumler.py
 
-      - name: Run diziyiizleyenibolumler.py
-        run: python private_py/series/diziyiizle/yenibolumler.py
+  #    - name: Run diziyiizleyenibolumler.py
+  #      run: python private_py/series/diziyiizle/yenibolumler.py
 
       # 2. EPG üretimi sadece gece 05:00 TR çalışacak ---
       - name: Run epg.py (sadece Türkiye saati 05:00 ve Manuel Çalıştırmada)
