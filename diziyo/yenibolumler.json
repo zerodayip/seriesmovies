@@ -1,4 +1,10 @@
 {
+  "/dizi/robin-hood": {
+    "group": "ROBIN HOOD",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/dizi/the-chair-company": {
     "group": "THE CHAIR COMPANY",
     "last_season": 1,
