@@ -614,7 +614,7 @@
   "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
     "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
     "last_season": 1,
-    "last_episode": 10.0,
+    "last_episode": 11.0,
     "start_episode": 1
   },
   "/urusei-yatsura": {
@@ -908,7 +908,7 @@
   "/3-nen-z-gumi-ginpachi-sensei": {
     "group": "3-NEN Z-GUMI GINPACHI-SENSEI",
     "last_season": 1,
-    "last_episode": 7.0,
+    "last_episode": 8.0,
     "start_episode": 1
   },
   "/ganglion": {
@@ -920,7 +920,7 @@
   "/heika-watashi-wo-wasurete-kudasai": {
     "group": "HEIKA WATASHI WO WASURETE KUDASAI",
     "last_season": 1,
-    "last_episode": 8.0,
+    "last_episode": 9.0,
     "start_episode": 1
   },
   "/egao-no-taenai-shokuba-desu": {
@@ -1178,7 +1178,7 @@
   "/ugoku-neko-mukashibanashi": {
     "group": "UGOKU! NEKO MUKASHIBANASHI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8.0,
     "start_episode": 1
   }
 }
