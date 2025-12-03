@@ -1,26 +1,14 @@
 {
-  "/dizi/siren/": {
-    "group": "SIREN",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/sandokan-the-pirate-prince/": {
-    "group": "SANDOKAN: THE PIRATE PRINCE",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
   "/dizi/nice-to-not-meet-you/": {
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
     "last_episode": 9,
     "start_episode": 1
   },
-  "/dizi/merteuil/": {
-    "group": "MERTEUIL",
-    "last_season": 1,
-    "last_episode": 3,
+  "/dizi/siren/": {
+    "group": "SIREN",
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   }
 }
