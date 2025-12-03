@@ -1,4 +1,28 @@
 {
+  "/ao-no-orchestra-season-2": {
+    "group": "AO NO ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/tensei-akujo-no-kuro-rekishi": {
+    "group": "TENSEI AKUJO NO KURO REKISHI",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/lets-play-quest-darake-no-my-life": {
+    "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
+  "/wandance": {
+    "group": "WANDANCE",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
   "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
     "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
     "last_season": 1,
@@ -82,29 +106,5 @@
     "last_season": 1,
     "last_episode": 9.0,
     "start_episode": 1
-  },
-  "/fumetsu-no-anata-e-season-3": {
-    "group": "FUMETSU NO ANATA E SEASON 3",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/alma-chan-wa-kazoku-ni-naritai": {
-    "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/kikaijikake-no-marie": {
-    "group": "KIKAIJIKAKE NO MARIE",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/one-piece": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1151.0,
-    "start_episode": 1130
   }
 }
