@@ -1,4 +1,28 @@
 {
+  "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
+    "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/3-nen-z-gumi-ginpachi-sensei": {
+    "group": "3-NEN Z-GUMI GINPACHI-SENSEI",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/ugoku-neko-mukashibanashi": {
+    "group": "UGOKU! NEKO MUKASHIBANASHI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/heika-watashi-wo-wasurete-kudasai": {
+    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
   "/disney-twisted-wonderland-the-animation-episode-of-heartslabyul": {
     "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION: EPISODE OF HEARTSLABYUL",
     "last_season": 1,
@@ -82,29 +106,5 @@
     "last_season": 1,
     "last_episode": 1151.0,
     "start_episode": 1130
-  },
-  "/sawaranaide-kotesashi-kun": {
-    "group": "SAWARANAIDE KOTESASHI-KUN",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/gachiakuta": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 21.0,
-    "start_episode": 1
-  },
-  "/one-punch-man-3": {
-    "group": "ONE PUNCH MAN 3",
-    "last_season": 1,
-    "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/chanto-suenai-kyuuketsuki-chan": {
-    "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
-    "last_season": 1,
-    "last_episode": 8.0,
-    "start_episode": 1
   }
 }
