@@ -1,4 +1,22 @@
 {
+  "/diziler/ghosts.html": {
+    "group": "GHOSTS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/the-abandons.html": {
+    "group": "THE ABANDONS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/criminal-minds.html": {
+    "group": "CRIMINAL MINDS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/adventure-time-fionna-and-cake.html": {
     "group": "ADVENTURE TIME: FIONNA & CAKE",
     "last_season": 2,
@@ -61,24 +79,6 @@
   },
   "/diziler/robin-hood-2025.html": {
     "group": "ROBIN HOOD 2025",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/twinkling-watermelon.html": {
-    "group": "TWINKLING WATERMELON",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "/diziler/the-chair-company.html": {
-    "group": "THE CHAIR COMPANY",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/it-welcome-to-derry.html": {
-    "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
