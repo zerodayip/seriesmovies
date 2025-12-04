@@ -1,4 +1,10 @@
 {
+  "/diziler/adventure-time-fionna-and-cake.html": {
+    "group": "ADVENTURE TIME: FIONNA & CAKE",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/diziler/the-mighty-nein.html": {
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/typhoon-family.html": {
-    "group": "TYPHOON FAMILY",
-    "last_season": 1,
-    "last_episode": 16,
     "start_episode": 1
   }
 }
