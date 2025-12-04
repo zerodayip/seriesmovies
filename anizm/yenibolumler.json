@@ -2,31 +2,31 @@
   "/kyochuu-rettou": {
     "group": "KYOCHUU RETTOU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/ao-no-orchestra-season-2": {
     "group": "AO NO ORCHESTRA SEASON 2",
     "last_season": 1,
-    "last_episode": 8.0,
+    "last_episode": 9.0,
     "start_episode": 1
   },
   "/tensei-akujo-no-kuro-rekishi": {
     "group": "TENSEI AKUJO NO KURO REKISHI",
     "last_season": 1,
-    "last_episode": 8.0,
+    "last_episode": 9.0,
     "start_episode": 1
   },
   "/lets-play-quest-darake-no-my-life": {
     "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
     "last_season": 1,
-    "last_episode": 9.0,
+    "last_episode": 10.0,
     "start_episode": 1
   },
   "/wandance": {
     "group": "WANDANCE",
     "last_season": 1,
-    "last_episode": 8.0,
+    "last_episode": 9.0,
     "start_episode": 1
   },
   "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
@@ -56,7 +56,7 @@
   "/disney-twisted-wonderland-the-animation-episode-of-heartslabyul": {
     "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION: EPISODE OF HEARTSLABYUL",
     "last_season": 1,
-    "last_episode": 1.0,
+    "last_episode": 6.0,
     "start_episode": 1
   },
   "/mofa-gongzhu-de-xiao-fannao": {
@@ -80,7 +80,7 @@
   "/chitose-kun-wa-ramune-bin-no-naka": {
     "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
     "last_season": 1,
-    "last_episode": 5.0,
+    "last_episode": 6.0,
     "start_episode": 1
   },
   "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
