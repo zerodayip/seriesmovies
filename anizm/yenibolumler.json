@@ -1,4 +1,10 @@
 {
+  "/debu-to-love-to-ayamachi-to": {
+    "group": "DEBU TO LOVE TO AYAMACHI TO!",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
   "/kyochuu-rettou": {
     "group": "KYOCHUU RETTOU",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
     "last_season": 1,
     "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/kakuriyo-no-yadomeshi-ni": {
-    "group": "KAKURIYO NO YADOMESHI NI",
-    "last_season": 1,
-    "last_episode": 8.0,
     "start_episode": 1
   }
 }
