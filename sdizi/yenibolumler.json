@@ -1,20 +1,20 @@
 {
   "/diziler/ghosts.html": {
     "group": "GHOSTS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/diziler/the-abandons.html": {
     "group": "THE ABANDONS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/criminal-minds.html": {
     "group": "CRIMINAL MINDS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 18,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/adventure-time-fionna-and-cake.html": {
