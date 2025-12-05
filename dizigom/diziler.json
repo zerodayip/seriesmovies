@@ -710,7 +710,7 @@
   "/dizi-izle/dynamite-kiss": {
     "group": "DYNAMITE KISS",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/had-i-not-seen-the-sun": {
@@ -848,13 +848,13 @@
   "/dizi-izle/the-abandons": {
     "group": "THE ABANDONS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/the-believers": {
     "group": "THE BELIEVERS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   }
 }
