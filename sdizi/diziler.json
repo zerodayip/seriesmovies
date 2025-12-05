@@ -344,7 +344,7 @@
   "/diziler/the-last-frontier.html": {
     "group": "THE LAST FRONTIER",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/typhoon-family.html": {
@@ -817,8 +817,8 @@
   },
   "/diziler/elsbeth.html": {
     "group": "ELSBETH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/and-just-like-that.html": {
@@ -16094,7 +16094,7 @@
   "/diziler/pluribus.html": {
     "group": "PLURIBUS",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/as-you-stood-by.html": {
