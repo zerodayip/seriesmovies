@@ -865,14 +865,14 @@
   },
   "/dizi-izle/owning-manhattan": {
     "group": "OWNING MANHATTAN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/spartacus-house-of-ashur": {
     "group": "SPARTACUS: HOUSE OF ASHUR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   }
 }
