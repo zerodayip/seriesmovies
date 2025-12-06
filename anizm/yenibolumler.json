@@ -1,4 +1,16 @@
 {
+  "/boku-no-hero-academia-final-season": {
+    "group": "BOKU NO HERO ACADEMIA: FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
+  "/kimi-to-koete-koi-ni-naru": {
+    "group": "KIMI TO KOETE KOI NI NARU",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
   "/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka": {
     "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
     "last_season": 1,
@@ -85,24 +97,6 @@
   },
   "/debu-to-love-to-ayamachi-to": {
     "group": "DEBU TO LOVE TO AYAMACHI TO!",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/kyochuu-rettou": {
-    "group": "KYOCHUU RETTOU",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/ao-no-orchestra-season-2": {
-    "group": "AO NO ORCHESTRA SEASON 2",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/tensei-akujo-no-kuro-rekishi": {
-    "group": "TENSEI AKUJO NO KURO REKISHI",
     "last_season": 1,
     "last_episode": 9.0,
     "start_episode": 1

@@ -1,4 +1,22 @@
 {
+  "/diziler/my-hero-academia.html": {
+    "group": "MY HERO ACADEMIA",
+    "last_season": 8,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/diziler/daddy-issues.html": {
+    "group": "DADDY ISSUES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/ghosts.html": {
+    "group": "GHOSTS",
+    "last_season": 5,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/diziler/the-price-of-confession.html": {
     "group": "THE PRICE OF CONFESSION",
     "last_season": 1,
@@ -21,12 +39,6 @@
     "group": "ELSBETH",
     "last_season": 3,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/ghosts.html": {
-    "group": "GHOSTS",
-    "last_season": 5,
-    "last_episode": 2,
     "start_episode": 1
   },
   "/diziler/the-abandons.html": {
@@ -75,18 +87,6 @@
     "group": "LOOT",
     "last_season": 3,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/nice-to-not-meet-you.html": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/once-upon-a-time-in-wonderland.html": {
-    "group": "ONCE UPON A TIME IN WONDERLAND",
-    "last_season": 1,
-    "last_episode": 13,
     "start_episode": 1
   }
 }
