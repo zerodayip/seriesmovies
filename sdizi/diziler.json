@@ -16186,5 +16186,11 @@
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1
+  },
+  "/diziler/little-disasters.html": {
+    "group": "LITTLE DISASTERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
