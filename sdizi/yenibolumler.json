@@ -1,4 +1,10 @@
 {
+  "/diziler/surely-tomorrow.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "SURELY TOMORROW",
+    "start_episode": 1
+  },
   "/diziler/little-disasters.html": {
     "group": "LITTLE DISASTERS",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/the-manipulated.html": {
-    "group": "THE MANIPULATED",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }

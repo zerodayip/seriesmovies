@@ -1,4 +1,22 @@
 {
+  "/digimon-beatbreak": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
+  "/kingdom-6th-season": {
+    "group": "KINGDOM 6TH SEASON",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
+  "/chanto-suenai-kyuuketsuki-chan": {
+    "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
   "/shuumatsu-touring": {
     "group": "SHUUMATSU TOURING",
     "last_season": 1,
@@ -81,24 +99,6 @@
     "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
     "last_season": 1,
     "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/sanda": {
-    "group": "SANDA",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/watari-kun-no-xx-ga-houkai-sunzen": {
-    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
-    "last_season": 1,
-    "last_episode": 23.0,
-    "start_episode": 1
-  },
-  "/tougen-anki": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 21.0,
     "start_episode": 1
   }
 }

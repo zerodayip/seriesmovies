@@ -1066,5 +1066,17 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi/jabaekui-daega-asya": {
+    "group": "THE PRICE OF CONFESSION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/twelve-dates-til-christmas": {
+    "group": "TWELVE DATES 'TIL CHRISTMAS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
