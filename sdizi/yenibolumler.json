@@ -1,8 +1,26 @@
 {
-  "/diziler/surely-tomorrow.html": {
+  "/diziler/one-punch-man.html": {
+    "group": "ONE PUNCH MAN",
+    "last_season": 3,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 1151,
+    "start_episode": 1130
+  },
+  "/diziler/surely-tomorrow.html": {
     "group": "SURELY TOMORROW",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/gachiakuta.html": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 21,
     "start_episode": 1
   },
   "/diziler/little-disasters.html": {
@@ -62,30 +80,6 @@
   "/diziler/elsbeth.html": {
     "group": "ELSBETH",
     "last_season": 3,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/the-abandons.html": {
-    "group": "THE ABANDONS",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/criminal-minds.html": {
-    "group": "CRIMINAL MINDS",
-    "last_season": 18,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/adventure-time-fionna-and-cake.html": {
-    "group": "ADVENTURE TIME: FIONNA & CAKE",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/the-mighty-nein.html": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
     "last_episode": 5,
     "start_episode": 1
   }
