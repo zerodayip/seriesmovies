@@ -129,6 +129,9 @@ jobs:
       - name: Run SetfilmİzleDizi JSON Script
         run: python private_py/series/setfilmizledizi/setfilmizledizijson.py
 
+      - name: Run Dizipall JSON Script
+        run: python private_py/series/dizipall/jsonyonlendirmeguncelleme.py
+
       #- name: Run Dizipal JSON Script ( cloudflare koruması mevcut )
        # run: python private_py/series/dizipal/dizipaljson.py
 
@@ -146,6 +149,7 @@ jobs:
           git add setfilmizledizi/*.json || echo "No setfilmizledizi files"
           git add dizipal/*.json || echo "No dizipal files"
           git add diziyo/*.json || echo "No diziyo files"
+          git add dizipall/diziler.json || echo "No diziyo files"
           git commit -m "All JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
