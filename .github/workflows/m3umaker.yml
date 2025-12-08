@@ -3,7 +3,7 @@ name: M3U MAKER
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */5 * * *'    # Her 5 saatte bir tüm scriptler çalışır (DMAX hariç)
+    - cron: '0 */6 * * *'    # Her 6 saatte bir tüm scriptler çalışır
     - cron: '0 2 * * *'     # Türkiye saati 05:00 -> 02:00 UTC (DMAX - TLC - TV DİZİLERİ bu tetikte çalışacak)
 
 jobs:
