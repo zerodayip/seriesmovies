@@ -1,4 +1,16 @@
 {
+  "/anime/chainsaw-man-the-movie-reze-arc/": {
+    "group": "CHAINSAW MAN THE MOVIE: REZE ARC",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/chainsaw-man-the-movie-reze-arc-dub/": {
+    "group": "CHAINSAW MAN THE MOVIE: REZE ARC (DUB)",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/one-punch-man-season-3/": {
     "group": "ONE-PUNCH MAN SEASON 3",
     "last_season": 1,
@@ -103,18 +115,6 @@
   },
   "/anime/touring-after-the-apocalypse/": {
     "group": "TOURING AFTER THE APOCALYPSE",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/to-your-eternity-season-3/": {
-    "group": "TO YOUR ETERNITY SEASON 3",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/let-this-grieving-soul-retire-cour-2/": {
-    "group": "LET THIS GRIEVING SOUL RETIRE COUR 2",
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1

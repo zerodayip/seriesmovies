@@ -1,4 +1,16 @@
 {
+  "/mofa-gongzhu-de-xiao-fannao": {
+    "group": "MOFA GONGZHU DE XIAO FANNAO",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
+    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
   "/one-punch-man-3": {
     "group": "ONE PUNCH MAN 3",
     "last_season": 1,
@@ -91,18 +103,6 @@
   },
   "/mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu": {
     "group": "MIKATA GA YOWASUGITE HOJO MAHOU NI TESSHITEITA KYUUTEI MAHOUSHI, TSUIHOU SARETE SAIKYOU WO MEZASHIMASU",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/yasei-no-last-boss-ga-arawareta": {
-    "group": "YASEI NO LAST BOSS GA ARAWARETA!",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/kekkon-yubiwa-monogatari-ii": {
-    "group": "KEKKON YUBIWA MONOGATARI II",
     "last_season": 1,
     "last_episode": 10.0,
     "start_episode": 1
