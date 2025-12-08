@@ -2142,7 +2142,8 @@
     {"name": "MONSTER THE ED GEIN STORY", "year": "2025"},
     {"name": "GENIE MAKE A WISH", "year": "2025"},
     {"name": "SPLINTER CELL DEATHWATCH", "year": "2025"},
-    {"name": "THE BAD GUYS BREAKING IN", "year": "2025"}
+    {"name": "THE BAD GUYS BREAKING IN", "year": "2025"},
+    {"name": "THE PRICE OF CONFESSION", "year": "2025"}
   ],
   "PARAMOUNT+ DİZİLERİ": [
     {"name": "DEXTER: RESURRECTION", "year": "2025"},
@@ -2179,7 +2180,8 @@
     {"name": "THE NEIGHBORHOOD", "year": "2018"},
     {"name": "LANDMAN", "year": "2024"},
     {"name": "DON'T PICK UP THE PHONE", "year": "2022"},
-    {"name": "DEXTER RESURRECTION", "year": "2025"}
+    {"name": "DEXTER RESURRECTION", "year": "2025"},
+    {"name": "LITTLE DISASTERS", "year": "2025"}
   ],
   "ITV DİZİLERİ": [
     {"name": "THE WORLD AT WAR", "year": "1973"},
@@ -3796,7 +3798,8 @@
     {"name": "MY AYRTON BY ADRIANE GALISTEU", "year": "2025"},
     {"name": "I AM", "year": "2019"},
     {"name": "LOVE DEATH", "year": "2023"},
-    {"name": "PRETTY LITTLE LIARS ORIGINAL SIN", "year": "2022"}
+    {"name": "PRETTY LITTLE LIARS ORIGINAL SIN", "year": "2022"},
+    {"name": "ANGELA DINIZ MURDERED AND CONVICTED", "year": "2025"}
   ],
   "TELETAMA DİZİLERİ": [
     {"name": "STEINS;GATE", "year": "2011"},
@@ -3855,7 +3858,7 @@
   ],
   "HULU DİZİLERİ": [
     {"name": "DOPESICK", "year": "2021"},
-    {"name": "THE HANDMAID’S TALE", "year": "2017"},    
+    {"name": "THE HANDMAID’S TALE", "year": "2017"},
     {"name": "LES DISPARUES DE LA GARE", "year": "2025"},
     {"name": "THE WONDERFULLY WEIRD WORLD OF GUMBALL", "year": "2025"},
     {"name": "FUTURAMA", "year": "1999"},
@@ -4654,7 +4657,8 @@
     {"name": "SWEET MUNCHIES", "year": "2020"},
     {"name": "THE THIRD CHARM", "year": "2018"},
     {"name": "THE DREAM LIFE OF MR. KIM", "year": "2025"},
-    {"name": "SE-OUL JA-GA-E DAE-GI-EOP DA-NI-NEUN KIM BU-JANG I-YA-GI", "year": "2025"}
+    {"name": "SE-OUL JA-GA-E DAE-GI-EOP DA-NI-NEUN KIM BU-JANG I-YA-GI", "year": "2025"},
+    {"name": "SURELY TOMORROW", "year": ""}
   ],
   "CARACOL TV DİZİLERİ": [
     {"name": "PABLO ESCOBAR: EL PATR�N DEL MAL", "year": "2012"},
@@ -6541,7 +6545,8 @@
     {"name": "WHAT HAPPENED LAST NIGHT", "year": "2008"}
   ],
   "STARZ APPLE TV CHANNEL DİZİLERİ": [
-    {"name": "POWER BOOK IV FORCE", "year": "2022"}
+    {"name": "POWER BOOK IV FORCE", "year": "2022"},
+    {"name": "SPARTACUS HOUSE OF ASHUR", "year": "2025"}
   ],
   "TV+ DİZİLERİ": [
     {"name": "KUCUK DAHI IBNI SINA", "year": "2023"},
@@ -6555,5 +6560,11 @@
   ],
   "GOOGLE PLAY MOVIES DİZİLERİ": [
     {"name": "FERIDE", "year": "2020"}
+  ],
+  "AMAZON PRIME VIDEO DİZİLERİ": [
+    {"name": "THE TWELVE DATES OF CHRISTMAS", "year": "2025"}
+  ],
+  "EXTRA DİZİLER": [
+    {"name": "DOMISILADORE", "year": "2003"}
   ]
 }
