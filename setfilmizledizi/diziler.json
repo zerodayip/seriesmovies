@@ -10396,5 +10396,17 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/dizi/the-crystal-cuckoo/": {
+    "group": "THE CRYSTAL CUCKOO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/accidente/": {
+    "group": "ACCIDENTE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
