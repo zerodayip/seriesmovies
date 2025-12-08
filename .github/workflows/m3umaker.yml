@@ -185,7 +185,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add series_category.json || echo "No files"
+          git add xtream/series_category.json || echo "No files"
           git commit -m "Series Category JSON güncellendi [auto]" || echo "No changes"
           git push origin main
           
