@@ -1,758 +1,758 @@
- {
-    "/dizi/feride": {
-    "group": "Feride",
-    "tvg-id": "tt36585483"
- },
+{
+    "/dizi/feride-a6": {
+        "group": "Feride",
+        "tvg-id": "tt36585483"
+    },
     "/dizi/sekizinci-aile": {
-    "group": "Sekizinci Aile",
-    "tvg-id": "tt38781098"
- },
-    "/dizi/antrenor": {
-    "group": "Antrenör",
-    "tvg-id": "tt38786066"
- },
+        "group": "Sekizinci Aile",
+        "tvg-id": "tt38781098"
+    },
+    "/dizi/antrenor-a9": {
+        "group": "Antrenör",
+        "tvg-id": "tt38786066"
+    },
     "/dizi/final-gate": {
-    "group": "Final Gate",
-    "tvg-id": ""
- },
-     "/dizi/buyuk-tikinma": {
-    "group": "Büyük Tıkınma",
-    "tvg-id": "tt16409704"
- },
-     "/dizi/fer-c31": {
-    "group": "Fer",
-    "tvg-id": "tt38749915"
- },
-     "/dizi/karma2": {
-    "group": "Karma",
-    "tvg-id": "tt38896081"
- },
-     "/dizi/gupi": {
-    "group": "Gupi",
-    "tvg-id": "tt34691876"
- },
-     "/dizi/persona-d31": {
-    "group": "Persona",
-    "tvg-id": "tt38752891"
- },
-     "/dizi/sergen-deveci-ile-kutu": {
-    "group": "Sergen Deveci İle Kutu",
-    "tvg-id": ""
- },
-     "/dizi/enfes-bir-aksam-c31": {
-    "group": "Enfes Bir Akşam",
-    "tvg-id": "tt34692051"
- },
-     "/dizi/platonik-c19": {
-    "group": "Platonik",
-    "tvg-id": "tt34692112"
- },
-     "/dizi/konusanlar-yeni": {
-    "group": "Konuşanlar(Disney+)",
-    "tvg-id": "tt13667230"
- },
-     "/dizi/modern-kadin-c19": {
-    "group": "Modern Kadın",
-    "tvg-id": "tt37172523"
- },
-     "/dizi/aski-hatirla-c34": {
-    "group": "Aşkı Hatırla",
-    "tvg-id": "tt34995624"
- },
-     "/dizi/dogu-c26": {
-    "group": "Doğu",
-    "tvg-id": "tt14183052"
- },
-     "/dizi/konusanlar-a01": {
-    "group": "Konuşanlar",
-    "tvg-id": "tt13667230"
- },
-     "/dizi/gibi-d24": {
-    "group": "Gibi",
-    "tvg-id": "tt13675832"
-
- },    "/dizi/hukumsuz": {
-    "group": "Hükümsüz",
-    "tvg-id": "tt13437388"
- },
-     "/dizi/seref-bey": {
-    "group": "Şeref Bey",
-    "tvg-id": "tt13247296"
- },
-     "/dizi/tolgshow-filtresiz": {
-    "group": "Tolghow Filtresiz",
-    "tvg-id": "tt7827112"
- },
-     "/dizi/vahsi-seyler": {
-    "group": "Vahşi Şeyler",
-    "tvg-id": "tt12779734"
- },
-     "/dizi/yetis-zeynep": {
-    "group": "Yetiş Zeynep",
-    "tvg-id": "tt13691420"
- },
-     "/dizi/katarsis": {
-    "group": "Katarsis",
-    "tvg-id": "tt13696920"
- },
-     "/dizi/enisarikan": {
-    "group": "@EnisArıkan",
-    "tvg-id": "tt13685582"
- },
-     "/dizi/akil-oyunlari": {
-    "group": "Akıl Oyunları",
-    "tvg-id": "tt13690458"
- },
-     "/dizi/astrolojik-sifreler": {
-    "group": "Astrolojik Şifreler",
-    "tvg-id": "tt13707530"
- },
-     "/dizi/o-adam-oldun-mu": {
-    "group": "O Adam Oldun Mu?",
-    "tvg-id": "tt13704300"
- },
-     "/dizi/surprizimiz-var": {
-    "group": "Sürprizimiz Var",
-    "tvg-id": "tt13712168"
- },
-     "/dizi/garaj": {
-    "group": "Garaj",
-    "tvg-id": "tt13685426"
- },
+        "group": "Final Gate",
+        "tvg-id": ""
+    },
+    "/dizi/buyuk-tikinma": {
+        "group": "Büyük Tıkınma",
+        "tvg-id": "tt16409704"
+    },
+    "/dizi/fer-c31": {
+        "group": "Fer",
+        "tvg-id": "tt38749915"
+    },
+    "/dizi/karma2-a1": {
+        "group": "Karma",
+        "tvg-id": "tt38896081"
+    },
+    "/dizi/gupi": {
+        "group": "Gupi",
+        "tvg-id": "tt34691876"
+    },
+    "/dizi/persona-d38d39": {
+        "group": "Persona",
+        "tvg-id": "tt38752891"
+    },
+    "/dizi/sergen-deveci-ile-kutu": {
+        "group": "Sergen Deveci İle Kutu",
+        "tvg-id": ""
+    },
+    "/dizi/enfes-bir-aksam-c31": {
+        "group": "Enfes Bir Akşam",
+        "tvg-id": "tt34692051"
+    },
+    "/dizi/platonik-c19": {
+        "group": "Platonik",
+        "tvg-id": "tt34692112"
+    },
+    "/dizi/konusanlar-yeni": {
+        "group": "Konuşanlar(Disney+)",
+        "tvg-id": "tt13667230"
+    },
+    "/dizi/modern-kadin-c26": {
+        "group": "Modern Kadın",
+        "tvg-id": "tt37172523"
+    },
+    "/dizi/aski-hatirla-c34": {
+        "group": "Aşkı Hatırla",
+        "tvg-id": "tt34995624"
+    },
+    "/dizi/dogu-c26": {
+        "group": "Doğu",
+        "tvg-id": "tt14183052"
+    },
+    "/dizi/konusanlar-a2": {
+        "group": "Konuşanlar",
+        "tvg-id": "tt13667230"
+    },
+    "/dizi/gibi-d24": {
+        "group": "Gibi",
+        "tvg-id": "tt13675832"
+    },
+    "/dizi/hukumsuz": {
+        "group": "Hükümsüz",
+        "tvg-id": "tt13437388"
+    },
+    "/dizi/seref-bey": {
+        "group": "Şeref Bey",
+        "tvg-id": "tt13247296"
+    },
+    "/dizi/tolgshow-filtresiz": {
+        "group": "Tolghow Filtresiz",
+        "tvg-id": "tt7827112"
+    },
+    "/dizi/vahsi-seyler": {
+        "group": "Vahşi Şeyler",
+        "tvg-id": "tt12779734"
+    },
+    "/dizi/yetis-zeynep": {
+        "group": "Yetiş Zeynep",
+        "tvg-id": "tt13691420"
+    },
+    "/dizi/katarsis": {
+        "group": "Katarsis",
+        "tvg-id": "tt13696920"
+    },
+    "/dizi/enisarikan": {
+        "group": "@EnisArıkan",
+        "tvg-id": "tt13685582"
+    },
+    "/dizi/akil-oyunlari": {
+        "group": "Akıl Oyunları",
+        "tvg-id": "tt13690458"
+    },
+    "/dizi/astrolojik-sifreler": {
+        "group": "Astrolojik Şifreler",
+        "tvg-id": "tt13707530"
+    },
+    "/dizi/o-adam-oldun-mu": {
+        "group": "O Adam Oldun Mu?",
+        "tvg-id": "tt13704300"
+    },
+    "/dizi/surprizimiz-var": {
+        "group": "Sürprizimiz Var",
+        "tvg-id": "tt13712168"
+    },
+    "/dizi/garaj": {
+        "group": "Garaj",
+        "tvg-id": "tt13685426"
+    },
     "/dizi/kirli-camarlar": {
-    "group": "Kirli Çamasirlar",
-    "tvg-id": "tt13685530"
- },
+        "group": "Kirli Çamasirlar",
+        "tvg-id": "tt13685530"
+    },
     "/dizi/kesin-yasanmistir": {
-    "group": "Kesin Yaşanmıştır",
-    "tvg-id": "tt13736352"
- },
-     "/dizi/ayak-tenis": {
-    "group": "Ayak Tenis",
-    "tvg-id": "tt13704270"
- },
-     "/dizi/buralarin-yabancisiyiz": {
-    "group": "Buraların Yabancısıyız",
-    "tvg-id": "tt13712772"
- },
-     "/dizi/cadde-cadde-istanbul": {
-    "group": "Cadde Cadde İstanbul",
-    "tvg-id": "tt13745606"
- },
+        "group": "Kesin Yaşanmıştır",
+        "tvg-id": "tt13736352"
+    },
+    "/dizi/ayak-tenis": {
+        "group": "Ayak Tenis",
+        "tvg-id": "tt13704270"
+    },
+    "/dizi/buralarin-yabancisiyiz": {
+        "group": "Buraların Yabancısıyız",
+        "tvg-id": "tt13712772"
+    },
+    "/dizi/cadde-cadde-istanbul": {
+        "group": "Cadde Cadde İstanbul",
+        "tvg-id": "tt13745606"
+    },
     "/dizi/survivor-exxen-cup": {
-    "group": "Survivor Exxen Cup",
-    "tvg-id": "tt13751478"
- },
-    "/dizi/bonkis-c30": {
-    "group": "Bonkis",
-    "tvg-id": "tt13793502"
- },
+        "group": "Survivor Exxen Cup",
+        "tvg-id": "tt13751478"
+    },
+    "/dizi/bonkis-c34": {
+        "group": "Bonkis",
+        "tvg-id": "tt13793502"
+    },
     "/dizi/ogrenci-evi": {
-    "group": "Öğrenci Evi",
-    "tvg-id": "tt13528822"
- },
+        "group": "Öğrenci Evi",
+        "tvg-id": "tt13528822"
+    },
     "/dizi/byk-deiim": {
-    "group": "Büyük Değisim",
-    "tvg-id": "tt13977720"
- },
-     "/dizi/grj-dans": {
-    "group": "Grj Dans",
-    "tvg-id": "tt13766822"
- },
-     "/dizi/46-yok-olan": {
-    "group": "46: Yok Olan",
-    "tvg-id": "tt5606154"
- },
-     "/dizi/7yz": {
-    "group": "7Yüz",
-    "tvg-id": "tt7404870"
- },
+        "group": "Büyük Değisim",
+        "tvg-id": "tt13977720"
+    },
+    "/dizi/grj-dans": {
+        "group": "Grj Dans",
+        "tvg-id": "tt13766822"
+    },
+    "/dizi/46-yok-olan": {
+        "group": "46: Yok Olan",
+        "tvg-id": "tt5606154"
+    },
+    "/dizi/7yz": {
+        "group": "7Yüz",
+        "tvg-id": "tt7404870"
+    },
     "/dizi/ak-101": {
-    "group": "Aşk 101",
-    "tvg-id": "tt10516352"
- },
-    "/dizi/behzat-bir-ankara-polisiyesi-c20": {
-    "group": "Behzat Ç: Bir Ankara Polisiyesi",
-    "tvg-id": "tt1795096"
- },
-    "/dizi/ciplak-c30": {
-    "group": "Çıplak",
-    "tvg-id": "tt12393976"
- },
-    "/dizi/alef-c30": {
-    "group": "Alef",
-    "tvg-id": "tt11232670"
- },
+        "group": "Aşk 101",
+        "tvg-id": "tt10516352"
+    },
+    "/dizi/behzat-bir-ankara-polisiyesi-c27": {
+        "group": "Behzat Ç: Bir Ankara Polisiyesi",
+        "tvg-id": "tt1795096"
+    },
+    "/dizi/ciplak-c42": {
+        "group": "Çıplak",
+        "tvg-id": "tt12393976"
+    },
+    "/dizi/alef-c33": {
+        "group": "Alef",
+        "tvg-id": "tt11232670"
+    },
     "/dizi/bize-gezmek-olsun": {
-    "group": "Bize Gezmek Olsun",
-    "tvg-id": "tt7993982"
- },
-     "/dizi/br": {
-    "group": "Börü",
-    "tvg-id": "tt7146600"
- },
-     "/dizi/alnm-hayatlar": {
-    "group": "Çalınmış Hayatlar",
-    "tvg-id": "tt8179226"
- },
-     "/dizi/atiye": {
-    "group": "Atiye",
-    "tvg-id": "tt10075318"
- },
-    "/dizi/aynen-aynen-c31": {
-    "group": "Aynen Aynen",
-    "tvg-id": "tt10841904"
- },
+        "group": "Bize Gezmek Olsun",
+        "tvg-id": "tt7993982"
+    },
+    "/dizi/br": {
+        "group": "Börü",
+        "tvg-id": "tt7146600"
+    },
+    "/dizi/alnm-hayatlar": {
+        "group": "Çalınmış Hayatlar",
+        "tvg-id": "tt8179226"
+    },
+    "/dizi/atiye": {
+        "group": "Atiye",
+        "tvg-id": "tt10075318"
+    },
+    "/dizi/aynen-aynen-c39": {
+        "group": "Aynen Aynen",
+        "tvg-id": "tt10841904"
+    },
     "/dizi/bartu-ben": {
-    "group": "Bartu Ben",
-    "tvg-id": "tt9111010"
- },
+        "group": "Bartu Ben",
+        "tvg-id": "tt9111010"
+    },
     "/dizi/dudullu-postas": {
-    "group": "Dudullu Postası",
-    "tvg-id": "tt7929954"
- },
+        "group": "Dudullu Postası",
+        "tvg-id": "tt7929954"
+    },
     "/dizi/hakan-muhafz": {
-    "group": "Hakan: Muhafız",
-    "tvg-id": "tt7668518"
- },
+        "group": "Hakan: Muhafız",
+        "tvg-id": "tt7668518"
+    },
     "/dizi/masum": {
-    "group": "Masum",
-    "tvg-id": "tt6478318"
- },
-    "/dizi/pavyon-c30": {
-    "group": "Pavyon",
-    "tvg-id": "tt10583308"
- },
+        "group": "Masum",
+        "tvg-id": "tt6478318"
+    },
+    "/dizi/pavyon-c33": {
+        "group": "Pavyon",
+        "tvg-id": "tt10583308"
+    },
     "/dizi/sifir-bir-bir-zamanlar-adanada-c20": {
-    "group": "Sıfır Bir: Bir Zamanlar Adanada",
-    "tvg-id": "tt6543986"
- },
-     "/dizi/yaamayanlar": {
-    "group": "Yaşamayanlar",
-    "tvg-id": "tt8063174"
- },
-     "/dizi/bir-bakadr": {
-    "group": "Bir Başkadır",
-    "tvg-id": "tt11301642"
- },
-     "/dizi/saygi-c21": {
-    "group": "Saygı",
-    "tvg-id": "tt11450050"
- },
+        "group": "Sıfır Bir: Bir Zamanlar Adanada",
+        "tvg-id": "tt6543986"
+    },
+    "/dizi/yaamayanlar": {
+        "group": "Yaşamayanlar",
+        "tvg-id": "tt8063174"
+    },
+    "/dizi/bir-bakadr": {
+        "group": "Bir Başkadır",
+        "tvg-id": "tt11301642"
+    },
+    "/dizi/saygi-c35": {
+        "group": "Saygı",
+        "tvg-id": "tt11450050"
+    },
     "/dizi/dijital-flrtleme": {
-    "group": "Dijital Flörtleşme",
-    "tvg-id": "tt11839550"
- },
+        "group": "Dijital Flörtleşme",
+        "tvg-id": "tt11839550"
+    },
     "/dizi/50m2": {
-    "group": "50M2",
-    "tvg-id": "tt11617848"
- },
-    "/dizi/hic-c21": {
-    "group": "Hiç",
-    "tvg-id": "tt14024714"
- },
-     "/dizi/ankara-havas": {
-    "group": "Ankara Havası",
-    "tvg-id": "tt11790044"
- },
-     "/dizi/ganyan": {
-    "group": "Ganyan",
-    "tvg-id": "tt11848766"
- },
-     "/dizi/zcan-show": {
-    "group": "Özcan Show",
-    "tvg-id": "tt13745588"
- },
+        "group": "50M2",
+        "tvg-id": "tt11617848"
+    },
+    "/dizi/hic-c28": {
+        "group": "Hiç",
+        "tvg-id": "tt14024714"
+    },
+    "/dizi/ankara-havas": {
+        "group": "Ankara Havası",
+        "tvg-id": "tt11790044"
+    },
+    "/dizi/ganyan": {
+        "group": "Ganyan",
+        "tvg-id": "tt11848766"
+    },
+    "/dizi/zcan-show": {
+        "group": "Özcan Show",
+        "tvg-id": "tt13745588"
+    },
     "/dizi/grkan-ef-ile-ate-oyunlar": {
-    "group": "Gürkan Şef Ile Ates Oyunları",
-    "tvg-id": "tt14160244"
- },
+        "group": "Gürkan Şef Ile Ates Oyunları",
+        "tvg-id": "tt14160244"
+    },
     "/dizi/bir-yeralt-sit-comu": {
-    "group": "Bir Yeraltı Sit-Com'u",
-    "tvg-id": "tt13923096"
- },
+        "group": "Bir Yeraltı Sit-Com'u",
+        "tvg-id": "tt13923096"
+    },
     "/dizi/boom-by-ibrahim-selim": {
-    "group": "Boom by İbrahim Selim",
-    "tvg-id": "tt13667204"
- },
+        "group": "Boom by İbrahim Selim",
+        "tvg-id": "tt13667204"
+    },
     "/dizi/metot": {
-    "group": "Metot",
-    "tvg-id": "tt14193896"
- },
+        "group": "Metot",
+        "tvg-id": "tt14193896"
+    },
     "/dizi/senkron": {
-    "group": "Senkron",
-    "tvg-id": "tt13503990"
- },
+        "group": "Senkron",
+        "tvg-id": "tt13503990"
+    },
     "/dizi/benim-iin-yap": {
-    "group": "Benim İçin Yap",
-    "tvg-id": "tt14431178"
- },
+        "group": "Benim İçin Yap",
+        "tvg-id": "tt14431178"
+    },
     "/dizi/ilgin-baz-olaylar": {
-    "group": "İlginç Bazi Olaylar",
-    "tvg-id": "tt13748376"
- },
-     "/dizi/yesilcam-c20": {
-    "group": "Yesilçam",
-    "tvg-id": "tt13592218"
- },
-     "/dizi/bizi-ayran-izgi": {
-    "group": "Bizi Ayıran Çizgi",
-    "tvg-id": "tt13923144"
- },
-     "/dizi/fatma": {
-    "group": "Fatma",
-    "tvg-id": "tt11961378"
- },
+        "group": "İlginç Bazi Olaylar",
+        "tvg-id": "tt13748376"
+    },
+    "/dizi/yesilcam-c21": {
+        "group": "Yesilçam",
+        "tvg-id": "tt13592218"
+    },
+    "/dizi/bizi-ayran-izgi": {
+        "group": "Bizi Ayıran Çizgi",
+        "tvg-id": "tt13923144"
+    },
+    "/dizi/fatma": {
+        "group": "Fatma",
+        "tvg-id": "tt11961378"
+    },
     "/dizi/masal-atosu-peri-hrsz": {
-    "group": "Masal Şatosu: Peri Hırsızı",
-    "tvg-id": "tt14368816"
- },
+        "group": "Masal Şatosu: Peri Hırsızı",
+        "tvg-id": "tt14368816"
+    },
     "/dizi/dn-dndr": {
-    "group": "Dün Dündür",
-    "tvg-id": "tt14588142"
- },
+        "group": "Dün Dündür",
+        "tvg-id": "tt14588142"
+    },
     "/dizi/okopop-yeilam-101": {
-    "group": "Şokopop: Yesilçam 101",
-    "tvg-id": "tt14563530"
- },
-     "/dizi/lm-zaman": {
-    "group": "Ölüm Zamanı",
-    "tvg-id": "tt13856804"
- },
-     "/dizi/olaan-pheliler": {
-    "group": "Olağan Şüpheliler",
-    "tvg-id": "tt0114814"
- },
-     "/dizi/adm-ba-kafe": {
-    "group": "Adım Başı Kafe",
-    "tvg-id": "tt14342244"
- },
+        "group": "Şokopop: Yesilçam 101",
+        "tvg-id": "tt14563530"
+    },
+    "/dizi/lm-zaman": {
+        "group": "Ölüm Zamanı",
+        "tvg-id": "tt13856804"
+    },
+    "/dizi/olaan-pheliler": {
+        "group": "Olağan Şüpheliler",
+        "tvg-id": "tt0114814"
+    },
+    "/dizi/adm-ba-kafe": {
+        "group": "Adım Başı Kafe",
+        "tvg-id": "tt14342244"
+    },
     "/dizi/okopop-portreler-megastar-tarkan": {
-    "group": "Şokopop Portreler: Megastar Tarkan",
-    "tvg-id": "tt14842088"
- },
+        "group": "Şokopop Portreler: Megastar Tarkan",
+        "tvg-id": "tt14842088"
+    },
     "/dizi/paray-vuranlar": {
-    "group": "Parayı Vuranlar",
-    "tvg-id": "tt8482474"
- },
-    "/dizi/yarim-kalan-asklar-c20": {
-    "group": "Yarım Kalan Aşklar",
-    "tvg-id": "tt12466076"
- },
-     "/dizi/20-dakika": {
-    "group": "20 Dakika",
-    "tvg-id": "tt2544148"
- },
-     "/dizi/fi": {
-    "group": "Fi",
-    "tvg-id": "tt6724368"
- },
-     "/dizi/asl-gibidir": {
-    "group": "Aslı Gibidir",
-    "tvg-id": "tt14993408"
- },
+        "group": "Parayı Vuranlar",
+        "tvg-id": "tt8482474"
+    },
+    "/dizi/yarim-kalan-asklar-c22": {
+        "group": "Yarım Kalan Aşklar",
+        "tvg-id": "tt12466076"
+    },
+    "/dizi/20-dakika": {
+        "group": "20 Dakika",
+        "tvg-id": "tt2544148"
+    },
+    "/dizi/fi": {
+        "group": "Fi",
+        "tvg-id": "tt6724368"
+    },
+    "/dizi/asl-gibidir": {
+        "group": "Aslı Gibidir",
+        "tvg-id": "tt14993408"
+    },
     "/dizi/renkli-ryalar-oteli": {
-    "group": "Renkli Rüyalar Oteli",
-    "tvg-id": "tt13708538"
- },
+        "group": "Renkli Rüyalar Oteli",
+        "tvg-id": "tt13708538"
+    },
     "/dizi/bunu-bi-dnn": {
-    "group": "Bunu Bi Düsünün",
-    "tvg-id": "tt15255084"
- },
+        "group": "Bunu Bi Düsünün",
+        "tvg-id": "tt15255084"
+    },
     "/dizi/103-gol": {
-    "group": "103 Gol",
-    "tvg-id": "tt15404372"
- },
+        "group": "103 Gol",
+        "tvg-id": "tt15404372"
+    },
     "/dizi/orta-kafa-ak": {
-    "group": "Orta Kafa Aşk",
-    "tvg-id": "tt15404360"
- },
+        "group": "Orta Kafa Aşk",
+        "tvg-id": "tt15404360"
+    },
     "/dizi/aile-irketi": {
-    "group": "Aile Şirketi",
-    "tvg-id": "tt12531662"
- },
+        "group": "Aile Şirketi",
+        "tvg-id": "tt12531662"
+    },
     "/dizi/beyaz-yaka": {
-    "group": "Beyaz Yaka",
-    "tvg-id": "tt15017814"
- },
+        "group": "Beyaz Yaka",
+        "tvg-id": "tt15017814"
+    },
     "/dizi/karsunun-odas": {
-    "group": "Karsu'nun Odası",
-    "tvg-id": "tt15815954"
- },
-     "/dizi/terapist": {
-    "group": "Terapist",
-    "tvg-id": "tt13728634"
- },
-     "/dizi/oyunlar-holding": {
-    "group": "Oyunlar Holding",
-    "tvg-id": "tt13734874"
- },
-     "/dizi/hamlet": {
-    "group": "Hamlet",
-    "tvg-id": "tt14032126"
- },
+        "group": "Karsu'nun Odası",
+        "tvg-id": "tt15815954"
+    },
+    "/dizi/terapist": {
+        "group": "Terapist",
+        "tvg-id": "tt13728634"
+    },
+    "/dizi/oyunlar-holding": {
+        "group": "Oyunlar Holding",
+        "tvg-id": "tt13734874"
+    },
+    "/dizi/hamlet": {
+        "group": "Hamlet",
+        "tvg-id": "tt14032126"
+    },
     "/dizi/ex-akm": {
-    "group": "Ex Aşkım",
-    "tvg-id": "tt13856832"
- },
+        "group": "Ex Aşkım",
+        "tvg-id": "tt13856832"
+    },
     "/dizi/yazg": {
-    "group": "Yazgı",
-    "tvg-id": "tt21766660"
- },
-     "/dizi/trkiyedeki-seri-katiller": {
-    "group": "Türkiye'deki Seri Katiller",
-    "tvg-id": "tt15747068"
- },
+        "group": "Yazgı",
+        "tvg-id": "tt21766660"
+    },
+    "/dizi/trkiyedeki-seri-katiller": {
+        "group": "Türkiye'deki Seri Katiller",
+        "tvg-id": "tt15747068"
+    },
     "/dizi/a-yangn": {
-    "group": "Çağ Yangını",
-    "tvg-id": "tt28972362"
- },
+        "group": "Çağ Yangını",
+        "tvg-id": "tt28972362"
+    },
     "/dizi/deli-dolu-masa": {
-    "group": "Deli Dolu Masa",
-    "tvg-id": "tt17939800"
- },
+        "group": "Deli Dolu Masa",
+        "tvg-id": "tt17939800"
+    },
     "/dizi/amann-yolunda": {
-    "group": "Şamanın Yolunda",
-    "tvg-id": "tt15740774"
- },
-     "/dizi/500t": {
-    "group": "500t",
-    "tvg-id": "tt16022170"
- },
-     "/dizi/sakli-c20": {
-    "group": "Saklı",
-    "tvg-id": "tt14433846"
- },
-     "/dizi/electro-monolog": {
-    "group": "Electro Monolog",
-    "tvg-id": "tt13805668"
- },
+        "group": "Şamanın Yolunda",
+        "tvg-id": "tt15740774"
+    },
+    "/dizi/500t": {
+        "group": "500t",
+        "tvg-id": "tt16022170"
+    },
+    "/dizi/sakli-c25": {
+        "group": "Saklı",
+        "tvg-id": "tt14433846"
+    },
+    "/dizi/electro-monolog": {
+        "group": "Electro Monolog",
+        "tvg-id": "tt13805668"
+    },
     "/dizi/ite-kadnlar": {
-    "group": "İşte Kadınlar",
-    "tvg-id": "tt16538710"
- },
+        "group": "İşte Kadınlar",
+        "tvg-id": "tt16538710"
+    },
     "/dizi/duran": {
-    "group": "Duran",
-    "tvg-id": "tt15299654"
- },
+        "group": "Duran",
+        "tvg-id": "tt15299654"
+    },
     "/dizi/operasyon": {
-    "group": "Operasyon",
-    "tvg-id": "tt28022624"
- },
-    "/dizi/erkek-severse-c21": {
-    "group": "Erkek Severse",
-    "tvg-id": "tt15715130"
- },
+        "group": "Operasyon",
+        "tvg-id": "tt28022624"
+    },
+    "/dizi/erkek-severse-c25": {
+        "group": "Erkek Severse",
+        "tvg-id": "tt15715130"
+    },
     "/dizi/ak-mikrofon": {
-    "group": "Açık Mikrofon",
-    "tvg-id": "tt15661012"
- },
+        "group": "Açık Mikrofon",
+        "tvg-id": "tt15661012"
+    },
     "/dizi/arabeskin-ak-kadnlar": {
-    "group": "Arabeskin Aşık Kadınları",
-    "tvg-id": "tt16457404"
- },
-    "/dizi/bizden-olur-mu-c19": {
-    "group": "Bizden Olur Mu?",
-    "tvg-id": "tt17422182"
- },
-     "/dizi/ak-kumardr": {
-    "group": "Aşk Kumardır",
-    "tvg-id": "tt16711824"
- },
-     "/dizi/hayaller-ve-hayatlar-c21": {
-    "group": "Hayaller Ve Hayatlar",
-    "tvg-id": "tt16162676"
- },
-     "/dizi/uysallar": {
-    "group": "Uysallar",
-    "tvg-id": "tt13317478"
- },
+        "group": "Arabeskin Aşık Kadınları",
+        "tvg-id": "tt16457404"
+    },
+    "/dizi/bizden-olur-mu-c24": {
+        "group": "Bizden Olur Mu?",
+        "tvg-id": "tt17422182"
+    },
+    "/dizi/ak-kumardr": {
+        "group": "Aşk Kumardır",
+        "tvg-id": "tt16711824"
+    },
+    "/dizi/hayaller-ve-hayatlar-c27": {
+        "group": "Hayaller Ve Hayatlar",
+        "tvg-id": "tt16162676"
+    },
+    "/dizi/uysallar": {
+        "group": "Uysallar",
+        "tvg-id": "tt13317478"
+    },
     "/dizi/yakamoz-s-245": {
-    "group": "Yakamoz S-245",
-    "tvg-id": "tt13317454"
- },
+        "group": "Yakamoz S-245",
+        "tvg-id": "tt13317454"
+    },
     "/dizi/eran-kuneri": {
-    "group": "Erşan Kuneri",
-    "tvg-id": "tt13238304"
- },
+        "group": "Erşan Kuneri",
+        "tvg-id": "tt13238304"
+    },
     "/dizi/ku-uuu": {
-    "group": "Kuş Uçuşu",
-    "tvg-id": "tt13323566"
- },
+        "group": "Kuş Uçuşu",
+        "tvg-id": "tt13323566"
+    },
     "/dizi/aslnda-zgrsn": {
-    "group": "Aslında Özgürsün",
-    "tvg-id": "tt18644688"
- },
+        "group": "Aslında Özgürsün",
+        "tvg-id": "tt18644688"
+    },
     "/dizi/ka": {
-    "group": "Kaçış",
-    "tvg-id": "tt15561916"
- },
-     "/dizi/zeytin-aac": {
-    "group": "Zeytin Ağacı",
-    "tvg-id": "tt14899624"
- },
-     "/dizi/terim": {
-    "group": "Terim",
-    "tvg-id": "tt14650054"
- },
-     "/dizi/hayaller-bizim-iki-gzm": {
-    "group": "Hayaller Bizim İki Gözüm",
-    "tvg-id": "tt12230000"
- },
-    "/dizi/mahsun-j-d37": {
-    "group": "Mahsun J",
-    "tvg-id": "tt31027788"
- },
+        "group": "Kaçış",
+        "tvg-id": "tt15561916"
+    },
+    "/dizi/zeytin-aac": {
+        "group": "Zeytin Ağacı",
+        "tvg-id": "tt14899624"
+    },
+    "/dizi/terim": {
+        "group": "Terim",
+        "tvg-id": "tt14650054"
+    },
+    "/dizi/hayaller-bizim-iki-gzm": {
+        "group": "Hayaller Bizim İki Gözüm",
+        "tvg-id": "tt12230000"
+    },
+    "/dizi/mahsun-j-c46": {
+        "group": "Mahsun J",
+        "tvg-id": "tt31027788"
+    },
     "/dizi/prens-d36": {
-    "group": "Prens",
-    "tvg-id": "tt14533970"
- },
-    "/dizi/yuzde-iki-c31": {
-    "group": "Yüzde İki",
-    "tvg-id": "tt36966608"
- },
+        "group": "Prens",
+        "tvg-id": "tt14533970"
+    },
+    "/dizi/yuzde-iki-c47c48": {
+        "group": "Yüzde İki",
+        "tvg-id": "tt36966608"
+    },
     "/dizi/istanbul-ansiklopedisi": {
-    "group": "İstanbul Ansiklopedisi",
-    "tvg-id": "tt30965512"
- },
-    "/dizi/surgunler-c31": {
-    "group": "Sürgünler",
-    "tvg-id": "tt36284523"
- },
+        "group": "İstanbul Ansiklopedisi",
+        "tvg-id": "tt30965512"
+    },
+    "/dizi/surgunler-c46c47": {
+        "group": "Sürgünler",
+        "tvg-id": "tt36284523"
+    },
     "/dizi/bir-ihtimal-daha-var": {
-    "group": "Bir İhtimal Daha Var",
-    "tvg-id": "tt34691842"
- },
-    "/dizi/yanki-gorunmez-el-c31": {
-    "group": "Yankı: Görünmez El",
-    "tvg-id": "tt33029246"
- },
-     "/dizi/kara-kenan": {
-    "group": "Kara Kenan",
-    "tvg-id": "tt36163026"
- },
-     "/dizi/tolgshow-lgn-sezon": {
-    "group": "Tolgshow Çılgın Sezon",
-    "tvg-id": "tt32857277"
- },
-     "/dizi/tertemiz-c19": {
-    "group": "Tertemiz",
-    "tvg-id": "tt35113031"
- },
+        "group": "Bir İhtimal Daha Var",
+        "tvg-id": "tt34691842"
+    },
+    "/dizi/yanki-gorunmez-el-c46c47": {
+        "group": "Yankı: Görünmez El",
+        "tvg-id": "tt33029246"
+    },
+    "/dizi/kara-kenan": {
+        "group": "Kara Kenan",
+        "tvg-id": "tt36163026"
+    },
+    "/dizi/tolgshow-lgn-sezon": {
+        "group": "Tolgshow Çılgın Sezon",
+        "tvg-id": "tt32857277"
+    },
+    "/dizi/tertemiz-c19": {
+        "group": "Tertemiz",
+        "tvg-id": "tt35113031"
+    },
     "/dizi/adsz-aklar": {
-    "group": "Adsız Aşıklar",
-    "tvg-id": "tt34692003"
- },
-    "/dizi/esas-oglan-c31": {
-    "group": "Esas Oğlan",
-    "tvg-id": "tt33036023"
- },
-     "/dizi/gassal-c25": {
-    "group": "Gassal",
-    "tvg-id": "tt35082593"
- },
-     "/dizi/anonim-b1": {
-    "group": "Anonim",
-    "tvg-id": "tt34819808"
- },
-     "/dizi/ilk-ve-son-c20": {
-    "group": "İlk Ve Son",
-    "tvg-id": "tt14753620"
- },
+        "group": "Adsız Aşıklar",
+        "tvg-id": "tt34692003"
+    },
+    "/dizi/esas-oglan-c32": {
+        "group": "Esas Oğlan",
+        "tvg-id": "tt33036023"
+    },
+    "/dizi/gassal-c36": {
+        "group": "Gassal",
+        "tvg-id": "tt35082593"
+    },
+    "/dizi/anonim-b1": {
+        "group": "Anonim",
+        "tvg-id": "tt34819808"
+    },
+    "/dizi/ilk-ve-son-c23": {
+        "group": "İlk Ve Son",
+        "tvg-id": "tt14753620"
+    },
     "/dizi/asaf": {
-    "group": "Asaf",
-    "tvg-id": "tt23480510"
- },
-    "/dizi/cirak-c31": {
-    "group": "Çırak",
-    "tvg-id": "tt33255423"
- },
+        "group": "Asaf",
+        "tvg-id": "tt23480510"
+    },
+    "/dizi/cirak-c46": {
+        "group": "Çırak",
+        "tvg-id": "tt33255423"
+    },
     "/dizi/karlamalar-b1": {
-    "group": "Karşılaşmalar",
-    "tvg-id": "tt33998293"
- },
-    "/dizi/sorgu-c21": {
-    "group": "Sorgu",
-    "tvg-id": "tt33377409"
- },
+        "group": "Karşılaşmalar",
+        "tvg-id": "tt33998293"
+    },
+    "/dizi/sorgu-c27": {
+        "group": "Sorgu",
+        "tvg-id": "tt33377409"
+    },
     "/dizi/ayak-isleri-c20": {
-    "group": "Ayak İşleri",
-    "tvg-id": "tt14344266"
- },
-    "/dizi/yalnzm-mesut-bey-c19": {
-    "group": "Yalnızım Mesut Bey",
-    "tvg-id": "tt17040736"
- },
-    "/dizi/marnali-c31": {
-    "group": "Marnalı",
-    "tvg-id": "tt32028219"
- },
-     "/dizi/kiyma-c30": {
-    "group": "Kıyma",
-    "tvg-id": "tt19852660"
- },
-     "/dizi/zamanin-kapilari-c20": {
-    "group": "Zamanin Kapıları",
-    "tvg-id": "tt32421779"
- },
-     "/dizi/ru-c22": {
-    "group": "Ru",
-    "tvg-id": "tt21308746"
- },
+        "group": "Ayak İşleri",
+        "tvg-id": "tt14344266"
+    },
+    "/dizi/yalnzm-mesut-bey-c22": {
+        "group": "Yalnızım Mesut Bey",
+        "tvg-id": "tt17040736"
+    },
+    "/dizi/marnali-c46": {
+        "group": "Marnalı",
+        "tvg-id": "tt32028219"
+    },
+    "/dizi/kiyma-c34": {
+        "group": "Kıyma",
+        "tvg-id": "tt19852660"
+    },
+    "/dizi/zamanin-kapilari-c27": {
+        "group": "Zamanin Kapıları",
+        "tvg-id": "tt32421779"
+    },
+    "/dizi/ru-c22": {
+        "group": "Ru",
+        "tvg-id": "tt21308746"
+    },
     "/dizi/dengeler-biri-olmak-c23": {
-    "group": "Dengeler: Biri Olmak",
-    "tvg-id": "tt31435998"
- },
+        "group": "Dengeler: Biri Olmak",
+        "tvg-id": "tt31435998"
+    },
     "/dizi/arjen-azap-yolu": {
-    "group": "Arjen Azap Yolu",
-    "tvg-id": "tt31704015"
- },
+        "group": "Arjen Azap Yolu",
+        "tvg-id": "tt31704015"
+    },
     "/dizi/kimler-geldi-kimler-geti-hd1": {
-    "group": "Kimler Geldi Kimler Geçti",
-    "tvg-id": "tt28267514"
- },
+        "group": "Kimler Geldi Kimler Geçti",
+        "tvg-id": "tt28267514"
+    },
     "/dizi/adil-yldrm-ile-kutu": {
-    "group": "Adil Yıldırım İle Kutu",
-    "tvg-id": "tt35047839"
- },
+        "group": "Adil Yıldırım İle Kutu",
+        "tvg-id": "tt35047839"
+    },
     "/dizi/dm": {
-    "group": "Dügüm",
-    "tvg-id": "tt14014078"
- },
+        "group": "Dügüm",
+        "tvg-id": "tt14014078"
+    },
     "/dizi/sokagin-cocuklari-c30": {
-    "group": "Sokağın Çocukları",
-    "tvg-id": "tt10476258"
- },
+        "group": "Sokağın Çocukları",
+        "tvg-id": "tt10476258"
+    },
     "/dizi/kuvvetli-bir-alk": {
-    "group": "Kuvvetli Bir Alkış",
-    "tvg-id": "tt31049778"
- },
+        "group": "Kuvvetli Bir Alkış",
+        "tvg-id": "tt31049778"
+    },
     "/dizi/deprem": {
-    "group": "Deprem",
-    "tvg-id": "tt31358564"
- },
-    "/dizi/yarin-yokmus-gibi-c20": {
-    "group": "Yarın Yokmuş Gibi",
-    "tvg-id": "tt31123801"
- },
-     "/dizi/kurtulu-lisesi": {
-    "group": "Kurtuluş Lisesi",
-    "tvg-id": "tt30825199"
- },
-     "/dizi/kbra": {
-    "group": "Kübra",
-    "tvg-id": "tt26760483"
- },
-     "/dizi/cekic-ve-gul-bir-behzat-hikayesi-c31": {
-    "group": "Çekiç ve Gül: Bir Behzat Ç Hikayesi",
-    "tvg-id": "tt21095396"
- },
-    "/dizi/sahsiyet-c31": {
-    "group": "Şahsiyet",
-    "tvg-id": "tt7920978"
- },
-    "/dizi/sarmasik-zamani-c21": {
-    "group": "Sarmaşık Zamanı",
-    "tvg-id": "tt23396714"
- },
-     "/dizi/deneme-cekimi-c19": {
-    "group": "Deneme Çekimi",
-    "tvg-id": "tt27796339"
- },
+        "group": "Deprem",
+        "tvg-id": "tt31358564"
+    },
+    "/dizi/yarin-yokmus-gibi-c24c25": {
+        "group": "Yarın Yokmuş Gibi",
+        "tvg-id": "tt31123801"
+    },
+    "/dizi/kurtulu-lisesi": {
+        "group": "Kurtuluş Lisesi",
+        "tvg-id": "tt30825199"
+    },
+    "/dizi/kbra": {
+        "group": "Kübra",
+        "tvg-id": "tt26760483"
+    },
+    "/dizi/cekic-ve-gul-bir-behzat-hikayesi-c31": {
+        "group": "Çekiç ve Gül: Bir Behzat Ç Hikayesi",
+        "tvg-id": "tt21095396"
+    },
+    "/dizi/sahsiyet-c44": {
+        "group": "Şahsiyet",
+        "tvg-id": "tt7920978"
+    },
+    "/dizi/sarmasik-zamani-c27": {
+        "group": "Sarmaşık Zamanı",
+        "tvg-id": "tt23396714"
+    },
+    "/dizi/deneme-cekimi-c36": {
+        "group": "Deneme Çekimi",
+        "tvg-id": "tt27796339"
+    },
     "/dizi/yaratlan": {
-    "group": "Yaratılan",
-    "tvg-id": "tt17553374"
- },
+        "group": "Yaratılan",
+        "tvg-id": "tt17553374"
+    },
     "/dizi/kulp": {
-    "group": "Kulüp",
-    "tvg-id": "tt13317582"
- },
+        "group": "Kulüp",
+        "tvg-id": "tt13317582"
+    },
     "/dizi/aray-hd1": {
-    "group": "Arayış",
-    "tvg-id": "tt21308714"
- },
+        "group": "Arayış",
+        "tvg-id": "tt21308714"
+    },
     "/dizi/aktris-hd1": {
-    "group": "Aktris",
-    "tvg-id": "tt14107656"
- },
+        "group": "Aktris",
+        "tvg-id": "tt14107656"
+    },
     "/dizi/dnya-bu": {
-    "group": "Dünya Bu",
-    "tvg-id": "tt26547403"
- },
+        "group": "Dünya Bu",
+        "tvg-id": "tt26547403"
+    },
     "/dizi/terzi": {
-    "group": "Terzi",
-    "tvg-id": "tt15473010"
- },
-    "/dizi/bozkir-c19": {
-    "group": "Bozkır",
-    "tvg-id": "tt9278408"
- },
+        "group": "Terzi",
+        "tvg-id": "tt15473010"
+    },
+    "/dizi/bozkir-c22": {
+        "group": "Bozkır",
+        "tvg-id": "tt9278408"
+    },
     "/dizi/biz-kimden-kayorduk-anne": {
-    "group": "Biz Kimden Kaçıyorduk Anne?",
-    "tvg-id": "tt16163746"
- },
+        "group": "Biz Kimden Kaçıyorduk Anne?",
+        "tvg-id": "tt16163746"
+    },
     "/dizi/ben-bu-boluu-nasl": {
-    "group": "Ben Bu Bosluğu Nasıl?",
-    "tvg-id": "tt24022460"
- },
-     "/dizi/sen-ben-o": {
-    "group": "Sen Ben O",
-    "tvg-id": "tt27204916"
- },
-     "/dizi/day-ov": {
-    "group": "Dayı Şov",
-    "tvg-id": "tt15404408"
- },
-     "/dizi/tuzbiber": {
-    "group": "Tuz Biber",
-    "tvg-id": "tt31414760"
- },
+        "group": "Ben Bu Bosluğu Nasıl?",
+        "tvg-id": "tt24022460"
+    },
+    "/dizi/sen-ben-o": {
+        "group": "Sen Ben O",
+        "tvg-id": "tt27204916"
+    },
+    "/dizi/day-ov": {
+        "group": "Dayı Şov",
+        "tvg-id": "tt15404408"
+    },
+    "/dizi/tuzbiber": {
+        "group": "Tuz Biber",
+        "tvg-id": "tt31414760"
+    },
     "/dizi/ahmaran": {
-    "group": "Şahmaran",
-    "tvg-id": "tt16913068"
- },
+        "group": "Şahmaran",
+        "tvg-id": "tt16913068"
+    },
     "/dizi/etkileyici": {
-    "group": "Etkileyici",
-    "tvg-id": "tt15665202"
- },
+        "group": "Etkileyici",
+        "tvg-id": "tt15665202"
+    },
     "/dizi/ultrastories": {
-    "group": "Ultrastories",
-    "tvg-id": "tt12575052"
- },
+        "group": "Ultrastories",
+        "tvg-id": "tt12575052"
+    },
     "/dizi/dnyayla-benim-aramda": {
-    "group": "Dünyayla Benim Aramda",
-    "tvg-id": "tt17678852"
- },
+        "group": "Dünyayla Benim Aramda",
+        "tvg-id": "tt17678852"
+    },
     "/dizi/cezailer": {
-    "group": "Cezailer",
-    "tvg-id": "tt21029674"
- },
+        "group": "Cezailer",
+        "tvg-id": "tt21029674"
+    },
     "/dizi/sizi-dinliyorum": {
-    "group": "Sizi Dinliyorum",
-    "tvg-id": "tt21194680"
- },
-     "/dizi/ben-gri": {
-    "group": "Ben Gri",
-    "tvg-id": "tt22325952"
- },
-     "/dizi/scak-kafa": {
-    "group": "Sıcak Kafa",
-    "tvg-id": "tt11988676"
- },
-     "/dizi/meta-ak": {
-    "group": "Meta Aşk",
-    "tvg-id": "tt23016854"
- },
+        "group": "Sizi Dinliyorum",
+        "tvg-id": "tt21194680"
+    },
+    "/dizi/ben-gri": {
+        "group": "Ben Gri",
+        "tvg-id": "tt22325952"
+    },
+    "/dizi/scak-kafa": {
+        "group": "Sıcak Kafa",
+        "tvg-id": "tt11988676"
+    },
+    "/dizi/meta-ak": {
+        "group": "Meta Aşk",
+        "tvg-id": "tt23016854"
+    },
     "/dizi/esnaf": {
-    "group": "Esnaf",
-    "tvg-id": "tt23738874"
- },
-    "/dizi/var-bunlar-c21": {
-    "group": "Var Bunlar",
-    "tvg-id": "tt20603316"
- },
+        "group": "Esnaf",
+        "tvg-id": "tt23738874"
+    },
+    "/dizi/var-bunlar-c27": {
+        "group": "Var Bunlar",
+        "tvg-id": "tt20603316"
+    },
     "/dizi/sadece-arkadaz": {
-    "group": "Sadece Arkadaşız",
-    "tvg-id": "tt20319260"
- }
+        "group": "Sadece Arkadaşız",
+        "tvg-id": "tt20319260"
+    }
 }
