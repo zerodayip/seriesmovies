@@ -150,9 +150,49 @@ jobs:
           git push origin main
 
   part2:
-    name: Step 4-to-13 Çalıştır
+    name: Step 4 Çalıştır
     runs-on: ubuntu-latest
     needs: part1
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      # 4. DİZİLER KATEGORİ GÜNCELLEME
+      - name: Run yenibolumdenanajsona Script
+        run: python private_py/series/category.py
+
+      - name: Commit and Push Ana JSONs to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add series_category.json || echo "No files"
+          git commit -m "Series Category JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+          
+  part3:
+    name: Step 5-to-13 Çalıştır
+    runs-on: ubuntu-latest
+    needs: part2
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
@@ -178,7 +218,7 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv
           playwright install
 
-      # 4. Sezonlukdizi M3U Maker
+      # 5. Sezonlukdizi M3U Maker
       - name: Run SezonlukDizi yenibolumler.py
         run: python private_py/series/sezonlukdizi/yenibolumler.py
 
@@ -201,7 +241,7 @@ jobs:
           git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # 5. Dizigom M3U Maker
+      # 6. Dizigom M3U Maker
       - name: Run Dizigom yenibolumler.py
         run: python private_py/series/dizigom/yenibolumler.py
 
@@ -224,7 +264,7 @@ jobs:
           git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # 6. Anizm M3U Maker
+      # 7. Anizm M3U Maker
       - name: Run Anizm yenibolumler.py
         run: python private_py/anime/anizm/yenibolumler.py
 
@@ -247,7 +287,7 @@ jobs:
           git commit -m "Anizm çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-     #  7. RecTV Script (PASİF)
+     #  8. RecTV Script (PASİF)
 #      - name: Run RecTV Script
 #        run: python private_py/rectv/rectv.py
       
@@ -266,7 +306,7 @@ jobs:
 #         git commit -m "RecTV çıktıları güncellendi [auto]" || echo "No changes"
 #         git push origin main
 
-      # 8. AnimeNoSub M3U Maker
+      # 9. AnimeNoSub M3U Maker
       - name: Run AnimeNoSub yenibolumler.py
         run: python private_py/anime/ingilizce/animenosub/yenibolumler.py
 
@@ -289,7 +329,7 @@ jobs:
           git commit -m "AnimeNoSub çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # 9. SetFilmİzleDizi M3U Maker
+      # 10. SetFilmİzleDizi M3U Maker
       - name: Run SetFilmİzleDizi yenibolumler.py
         run: python private_py/series/setfilmizledizi/yenibolumler.py
 
@@ -313,7 +353,7 @@ jobs:
           git commit -m "SetFilmİzleDizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # 10. Dizipal M3U Maker ( cloudflare koruması mevcut )
+      # 11. Dizipal M3U Maker ( cloudflare koruması mevcut )
       #- name: Run Dizipal yenibolumler.py
        # run: python private_py/series/dizipal/yenibolumler.py
 
@@ -329,7 +369,7 @@ jobs:
 #          git commit -m "Dizipal linklerin çıktısı güncellendi [auto]" || echo "No changes"
 #          git push origin main
 
-      # 11. Diziyo M3U Maker
+      # 12. Diziyo M3U Maker
 #      - name: Run DiziYo yenibolumler.py
 #        run: python private_py/series/diziyo/yenibolumler.py
 
@@ -352,7 +392,7 @@ jobs:
           git commit -m "DiziYo çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # 12. Dizipall Yerli Dizi sadece gece 05:00 TR çalışacak ---
+      # 13. Dizipall Yerli Dizi sadece gece 05:00 TR çalışacak ---
       - name: Run dizipallyerlidizi.py (sadece Türkiye saati 05:00 ve Manuel Çalıştırmada)
         if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2')) || github.event_name == 'workflow_dispatch' }}
         run: python private_py/series/dizipall/yenibolumler.py
@@ -368,7 +408,7 @@ jobs:
           git commit -m "Dizipall Yerli Dizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      # 13. HDFilmsite Diziler 
+      # 14. HDFilmsite Diziler 
       - name: Run hdfilmsitedizi.py
         run: python private_py/series/hdfilmsite/yenibolumler.py
 
@@ -383,10 +423,10 @@ jobs:
           git commit -m "HDFilmsite Diziler çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
           
-  part3:
-    name: Step 14 Çalıştır
+  part4:
+    name: Step 15 Çalıştır
     runs-on: ubuntu-latest
-    needs: part2
+    needs: part3
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
@@ -406,7 +446,7 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      # 14. YeniJSON to AnaJSON
+      # 15. YeniJSON to AnaJSON
       - name: Run yenibolumdenanajsona Script
         run: python private_py/series/yenibolumdenanajsona.py
 
@@ -418,10 +458,10 @@ jobs:
           git commit -m "All Ana JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
-  part4:
-    name: Step 15-to-19 Çalıştır
+  part5:
+    name: Step 16-to-19 Çalıştır
     runs-on: ubuntu-latest
-    needs: part3
+    needs: part4
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
@@ -447,23 +487,23 @@ jobs:
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv playwright
           playwright install
        
-      # 14. Dizizgom Filmler
+      # 16. Dizizgom Filmler
       - name: Run dizigomfilmler Script
         run: python private_py/movies/dizigom/dizigomfilmler.py
 
-      # 15. SetFilmİzle Filmler
+      # 17. SetFilmİzle Filmler
       - name: Run Setfilm Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/setfilmizle/ilksayfatümm3uolusturma.py
 
-      # 16. HDFilm Yabancı ve Yerli Filmler
+      # 18. HDFilm Yabancı ve Yerli Filmler
       - name: Run HDFilm Yabancı ve Yerli Filmler Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/hdfilmsite/hemyabancihemdeyerli.py
 
-      # 18. Dizipal Yerli Filmler ( cloudflare koruması mevcut )
+      # 19. Dizipal Yerli Filmler ( cloudflare koruması mevcut )
 #      - name: Run Dizipal Yerli Filmler Script
 #        env:
 #          GH_TOKEN: ${{ secrets.GH_TOKEN }}
