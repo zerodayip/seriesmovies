@@ -1192,5 +1192,11 @@
     "last_season": 1,
     "last_episode": 8.0,
     "start_episode": 1
+  },
+  "/chainsaw-man-movie-reze-hen": {
+    "group": "CHAINSAW MAN MOVIE: REZE-HEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

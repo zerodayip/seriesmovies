@@ -1078,5 +1078,17 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi/pro-bono-asya": {
+    "group": "PRO BONO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/gyeongdoreul-gidarimyeo-asya": {
+    "group": "ELBET YARIN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -1,4 +1,16 @@
 {
+  "/dizi/pro-bono-asya": {
+    "group": "PRO BONO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/gyeongdoreul-gidarimyeo-asya": {
+    "group": "ELBET YARIN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/jabaekui-daega-asya": {
     "group": "THE PRICE OF CONFESSION",
     "last_season": 1,
@@ -129,24 +141,6 @@
     "group": "PLURIBUS",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/karma-yerli": {
-    "group": "KARMA",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/i-am": {
-    "group": "I AM...",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/shifting-gears": {
-    "group": "SHIFTING GEARS",
-    "last_season": 2,
-    "last_episode": 6,
     "start_episode": 1
   }
 }

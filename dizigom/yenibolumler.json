@@ -1,36 +1,18 @@
 {
-  "/dizi-izle/the-seduction": {
-    "group": "THE SEDUCTION (MERTEUIL)",
+  "/dizi-izle/i-love-la": {
+    "group": "I LOVE LA",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
-  "/dizi-izle/the-last-frontier": {
-    "group": "THE LAST FRONTIER",
+  "/dizi-izle/dynamite-kiss": {
+    "group": "DYNAMITE KISS",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/the-believers": {
     "group": "THE BELIEVERS",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/pluribus": {
-    "group": "PLURIBUS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-abandons": {
-    "group": "THE ABANDONS",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/owning-manhattan": {
-    "group": "OWNING MANHATTAN",
     "last_season": 2,
     "last_episode": 8,
     "start_episode": 1
@@ -41,10 +23,22 @@
     "last_episode": 2,
     "start_episode": 1
   },
-  "/dizi-izle/dynamite-kiss": {
-    "group": "DYNAMITE KISS",
-    "last_season": 1,
+  "/dizi-izle/owning-manhattan": {
+    "group": "OWNING MANHATTAN",
+    "last_season": 2,
     "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-seduction": {
+    "group": "THE SEDUCTION (MERTEUIL)",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/pluribus": {
+    "group": "PLURIBUS",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/the-price-of-confession": {
@@ -57,6 +51,24 @@
     "group": "SURELY TOMORROW",
     "last_season": 1,
     "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi-izle/it-welcome-to-derry": {
+    "group": "IT: WELCOME TO DERRY",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-last-frontier": {
+    "group": "THE LAST FRONTIER",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-abandons": {
+    "group": "THE ABANDONS",
+    "last_season": 1,
+    "last_episode": 7,
     "start_episode": 1
   }
 }
