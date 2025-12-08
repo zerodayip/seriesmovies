@@ -1,4 +1,10 @@
 {
+  "/dizi/surely-tomorrow/": {
+    "group": "SURELY TOMORROW",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/emily-in-paris/": {
     "group": "EMILY IN PARIS",
     "last_season": 4,
@@ -15,12 +21,6 @@
     "group": "THE PRICE OF CONFESSION",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi/surely-tomorrow/": {
-    "group": "SURELY TOMORROW",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/spartacus-house-of-ashur/": {
