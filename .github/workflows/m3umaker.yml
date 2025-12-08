@@ -182,7 +182,7 @@ jobs:
           pip install requests beautifulsoup4 lxml
 
       # 4. DİZİLER KATEGORİ GÜNCELLEME
-      - name: Run yenibolumdenanajsona Script
+      - name: Run series_kategori_guncelleme Script
         run: python private_py/series/category.py
 
       - name: Commit and Push Ana JSONs to public repo
