@@ -1,4 +1,10 @@
 {
+  "/diziler/ghosts.html": {
+    "group": "GHOSTS",
+    "last_season": 5,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/diziler/alls-fair.html": {
     "group": "ALL'S FAIR",
     "last_season": 1,
@@ -69,18 +75,6 @@
     "group": "DADDY ISSUES",
     "last_season": 2,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/ghosts.html": {
-    "group": "GHOSTS",
-    "last_season": 5,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/diziler/the-price-of-confession.html": {
-    "group": "THE PRICE OF CONFESSION",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
