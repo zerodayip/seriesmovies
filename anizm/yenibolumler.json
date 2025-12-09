@@ -1,4 +1,10 @@
 {
+  "/nmeneko": {
+    "group": "NMENEKO",
+    "last_season": 1,
+    "last_episode": 20.0,
+    "start_episode": 1
+  },
   "/soredemo-sekai-wa-utsukushii": {
     "group": "SOREDEMO SEKAI WA UTSUKUSHII",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/shabake": {
     "group": "SHABAKE",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/spy-x-family-season-3": {
-    "group": "SPY X FAMILY SEASON 3",
     "last_season": 1,
     "last_episode": 10.0,
     "start_episode": 1

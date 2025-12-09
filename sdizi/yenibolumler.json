@@ -1,4 +1,10 @@
 {
+  "/diziler/alls-fair.html": {
+    "group": "ALL'S FAIR",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "/diziler/king-and-conqueror.html": {
     "group": "KING & CONQUEROR",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "THE PRICE OF CONFESSION",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/the-last-frontier.html": {
-    "group": "THE LAST FRONTIER",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
