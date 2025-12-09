@@ -1,4 +1,10 @@
 {
+  "/soredemo-sekai-wa-utsukushii": {
+    "group": "SOREDEMO SEKAI WA UTSUKUSHII",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/chainsaw-man-movie-reze-hen": {
     "group": "CHAINSAW MAN MOVIE: REZE-HEN",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/spy-x-family-season-3": {
     "group": "SPY X FAMILY SEASON 3",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/nageki-no-bourei-wa-intai-shitai-part-2": {
-    "group": "NAGEKI NO BOUREI WA INTAI SHITAI PART 2",
     "last_season": 1,
     "last_episode": 10.0,
     "start_episode": 1
