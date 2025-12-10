@@ -1,128 +1,15 @@
-name: Step 5-to-13
+name: Find Final Redirect
 
 on:
-  workflow_dispatch:
-#  schedule:
-#    - cron: "0 */6 * * *"
-
-env:
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  workflow_dispatch:   # elle çalıştırmak için (input gerekmiyor)
 
 jobs:
-
-  sezonlukdizi:
-    name: Sezonlukdizi İşlemleri
+  check-redirect:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout public repo
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Clone Private Py Repo
+      - name: Son yönlendirme URL'sini bul
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
-
-      - name: Install Dependencies
-        run: |
-          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv
-          playwright install
-
-      - name: Run SezonlukDizi
-        run: python private_py/series/sezonlukdizi/yenibolumler.py
-
-      - name: Save Sezonlukdizi JSON
-        uses: actions/upload-artifact@v4
-        with:
-          name: sezonlukdizi-json
-          path: sdizi/*.json
-
-      - name: Sync to private sezondlukdizi repo
-        run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/sezonlukdizi.git private_sezonlukdizi
-          rsync -a sdizi/ private_sezonlukdizi/
-          cd private_sezonlukdizi
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
-          git push origin main
-
-
-  dizigom:
-    name: Dizigom İşlemleri
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout public repo
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Clone Private Py Repo
-        run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
-
-      - name: Install Dependencies
-        run: |
-          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv
-          playwright install
-
-      - name: Run Dizigom
-        run: python private_py/series/dizigom/yenibolumler.py
-
-      - name: Save Dizigom JSON
-        uses: actions/upload-artifact@v4
-        with:
-          name: dizigom-json
-          path: dizigom/*.json
-
-      - name: Sync to private dizigom repo
-        run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizigom.git private_dizigom
-          rsync -a dizigom/ private_dizigom/
-          cd private_dizigom
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
-          git push origin main
-
-
-  public_push:
-    name: Public Repo’ya Tek Seferde Push
-    runs-on: ubuntu-latest
-    needs:
-      - sezonlukdizi
-      - dizigom
-
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Download sezonlukdizi
-        uses: actions/download-artifact@v4
-        with:
-          name: sezonlukdizi-json
-          path: sdizi/
-
-      - name: Download dizigom
-        uses: actions/download-artifact@v4
-        with:
-          name: dizigom-json
-          path: dizigom/
-
-      - name: Commit & Push ALL JSON
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add sdizi/*.json dizigom/*.json
-          git commit -m "Toplu JSON güncelleme [auto]" || echo "No changes"
-          git push origin main
+          TARGET_URL="https://sezonlukdizi8.com/link.asp?id="
+          FINAL_URL=$(curl -Ls -o /dev/null -w '%{url_effective}' "$TARGET_URL")
+          echo "Son yönlendirme adresi:"
+          echo "$FINAL_URL"
