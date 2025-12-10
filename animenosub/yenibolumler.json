@@ -1,4 +1,10 @@
 {
+  "/anime/lets-play/": {
+    "group": "LET’S PLAY",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/anime/the-dark-history-of-the-reincarnated-villainess/": {
     "group": "THE DARK HISTORY OF THE REINCARNATED VILLAINESS",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "CHAINSAW MAN THE MOVIE: REZE ARC (DUB)",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/one-punch-man-season-3/": {
-    "group": "ONE-PUNCH MAN SEASON 3",
-    "last_season": 1,
-    "last_episode": 9,
     "start_episode": 1
   }
 }

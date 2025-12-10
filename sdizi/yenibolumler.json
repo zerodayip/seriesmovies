@@ -1,4 +1,10 @@
 {
+  "/diziler/record-of-ragnarok.html": {
+    "group": "RECORD OF RAGNAROK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/the-mighty-nein.html": {
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "SURELY TOMORROW",
     "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/gachiakuta.html": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 22,
     "start_episode": 1
   }
 }
