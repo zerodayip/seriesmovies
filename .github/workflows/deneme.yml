@@ -1,4 +1,4 @@
-name: Get Final Redirect HTML (Playwright Single Page Retry)
+name: Get Final Redirect HTML (Headers + Retry)
 
 on:
   workflow_dispatch:
@@ -22,7 +22,7 @@ jobs:
           npm install playwright
           npx playwright install
 
-      - name: Playwright ile retry ve HTML al (tek page)
+      - name: Playwright ile retry ve custom headers
         run: |
           node << 'EOF'
           const { chromium } = require("playwright");
@@ -33,6 +33,24 @@ jobs:
 
             const browser = await chromium.launch({ headless: true });
             const page = await browser.newPage();
+
+            // Özel headers
+            await page.setExtraHTTPHeaders({
+              'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+              'accept-encoding': 'gzip, deflate, br, zstd',
+              'accept-language': 'tr-TR,tr;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6',
+              'cache-control': 'max-age=0',
+              'sec-ch-ua': '"Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"',
+              'sec-ch-ua-platform': '"Windows"',
+              'sec-ch-ua-platform-version': '"10.0.0"',
+              'sec-ch-ua-mobile': '?0',
+              'sec-fetch-dest': 'document',
+              'sec-fetch-mode': 'navigate',
+              'sec-fetch-site': 'none',
+              'sec-fetch-user': '?1',
+              'upgrade-insecure-requests': '1',
+              'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36'
+            });
 
             let finalUrl = TARGET_URL;
             let html = "";
@@ -47,14 +65,14 @@ jobs:
               html = await page.content();
               finalUrl = page.url();
 
-              // Rate limit kontrolü ve dinamik bekleme
+              // Rate limit kontrolü
               const match = html.match(/Çok fazla istek yaptınız\. (\d+) saniye bekleyin/);
               if (match) {
                 const waitSeconds = parseInt(match[1], 10);
                 console.log(`Rate limit algılandı, ${waitSeconds} saniye bekleniyor...`);
                 await new Promise(resolve => setTimeout(resolve, waitSeconds * 1000));
               } else {
-                break; // Başarılı, rate limit yok
+                break;
               }
             }
 
