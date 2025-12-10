@@ -6565,10 +6565,15 @@
   ],
   "AMAZON PRIME VIDEO DİZİLERİ": [
     {"name": "THE TWELVE DATES OF CHRISTMAS", "year": "2025"},
-    {"name": "ELBET YARIN", "year": "2025"}
+    {"name": "ELBET YARIN", "year": "2025"},
+    {"name": "FAMILY LAW", "year": "2021"}
   ],
   "EXTRA DİZİLER": [
     {"name": "DOMISILADORE", "year": "2003"},
-    {"name": "HOSCAKAL YARIN", "year": "1998"}
+    {"name": "HOSCAKAL YARIN", "year": "1998"},
+    {"name": "THE WAR BETWEEN THE LAND AND THE SEA", "year": "2025"}
+  ],
+  "VIAPLAY AMAZON CHANNEL DİZİLERİ": [
+    {"name": "VERONIKA", "year": "2024"}
   ]
 }
