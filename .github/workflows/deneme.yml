@@ -1,4 +1,4 @@
-name: Get Final OUO.io HTML (Selenium)
+name: Get OUO.io Final HTML (Puppeteer)
 
 on:
   workflow_dispatch:
@@ -16,73 +16,64 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Selenium ve ChromeDriver kurulumu
+      - name: Puppeteer kurulumu
         run: |
           npm init -y
-          npm install selenium-webdriver chromedriver
+          npm install puppeteer fs
 
-      - name: Selenium ile OUO HTML al
+      - name: OUO HTML al ve kaydet
         run: |
           node << 'EOF'
-          const { Builder, By, until } = require('selenium-webdriver');
-          const chrome = require('selenium-webdriver/chrome');
+          const puppeteer = require('puppeteer');
+          const fs = require('fs');
 
           (async () => {
             const TARGET_URL = "https://ouo.io/BEvZB5";
-            const MAX_RETRIES = 3;
+            const OUTPUT_FILE = "ouo_final_page.html";
 
-            const options = new chrome.Options();
-            options.addArguments('--headless=new');
-            options.addArguments('--disable-gpu');
-            options.addArguments('--window-size=1920,1080');
-            options.addArguments('--no-sandbox');
-            options.addArguments('--disable-dev-shm-usage');
-            options.addArguments('--disable-blink-features=AutomationControlled');
-            options.excludeSwitches('enable-automation');
-            options.addArguments('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36');
+            const browser = await puppeteer.launch({
+              headless: false,        // headful Chrome daha güvenli
+              args: [
+                '--no-sandbox',
+                '--disable-setuid-sandbox',
+                '--disable-web-security',
+              ]
+            });
 
-            const driver = await new Builder()
-              .forBrowser('chrome')
-              .setChromeOptions(options)
-              .build();
+            const page = await browser.newPage();
 
+            // OUO headers
+            await page.setExtraHTTPHeaders({
+              'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+              'Accept-Language': 'tr-TR,tr;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6',
+              'Cache-Control': 'max-age=0'
+            });
+
+            await page.setUserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36");
+
+            console.log("Sayfa açılıyor:", TARGET_URL);
+            await page.goto(TARGET_URL, { waitUntil: 'networkidle2', timeout: 60000 });
+
+            // Eğer OUO "Continue" butonu varsa tıkla
             try {
-              for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
-                console.log(`Deneme #${attempt} - Sayfaya gidiliyor: ${TARGET_URL}`);
-                await driver.get(TARGET_URL);
-
-                // WebDriver imzasını gizle
-                await driver.executeScript(
-                  "Object.defineProperty(navigator, 'webdriver', {get: () => undefined});"
-                );
-
-                // OUO JS challenge için bekle (10 saniye)
-                await driver.sleep(10000);
-
-                // Sayfanın tamamen yüklenmesini bekle
-                await driver.wait(async () => {
-                  const readyState = await driver.executeScript('return document.readyState;');
-                  return readyState === 'complete';
-                }, 15000);
-
-                const html = await driver.getPageSource();
-                const currentUrl = await driver.getCurrentUrl();
-
-                // Basit rate limit kontrolü
-                if (/Çok fazla istek yaptınız/.test(html)) {
-                  console.log("Rate limit algılandı, 10 saniye bekleniyor...");
-                  await new Promise(resolve => setTimeout(resolve, 10000));
-                  continue;
-                }
-
-                console.log("Son URL:", currentUrl);
-                console.log("------- HTML BAŞLANGICI -------");
-                console.log(html);
-                console.log("------- HTML BİTİŞİ -------");
-                break;
-              }
-            } finally {
-              await driver.quit();
+              const buttonSelector = 'a#btn-main'; // OUO continue button
+              await page.waitForSelector(buttonSelector, { timeout: 15000 });
+              await page.click(buttonSelector);
+              console.log("Continue butonuna tıklandı...");
+              await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 30000 });
+            } catch (e) {
+              console.log("Continue butonu bulunamadı veya atlandı.");
             }
+
+            // Sayfa tamamen yüklendi
+            const currentUrl = page.url();
+            const html = await page.content();
+
+            console.log("Son URL:", currentUrl);
+
+            fs.writeFileSync(OUTPUT_FILE, html, { encoding: 'utf8' });
+            console.log(`HTML '${OUTPUT_FILE}' olarak kaydedildi.`);
+
+            await browser.close();
           })();
           EOF
