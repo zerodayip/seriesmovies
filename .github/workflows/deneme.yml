@@ -20,6 +20,7 @@ jobs:
         run: |
           npm init -y
           npm install playwright
+          npx playwright install  # <-- Tarayıcıları indiriyoruz
 
       - name: Playwright ile gerçek sayfayı çek
         run: |
