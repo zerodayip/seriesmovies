@@ -1,4 +1,34 @@
 {
+  "/wandance": {
+    "group": "WANDANCE",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
+  "/alma-chan-wa-kazoku-ni-naritai": {
+    "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
+  "/heika-watashi-wo-wasurete-kudasai": {
+    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
+  "/ganglion": {
+    "group": "GANGLION",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
+  "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
+    "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
   "/shuumatsu-no-walkure-iii": {
     "group": "SHUUMATSU NO WALKÜRE III",
     "last_season": 1,
@@ -69,36 +99,6 @@
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
     "last_episode": 13.0,
-    "start_episode": 1
-  },
-  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
-    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/one-punch-man-3": {
-    "group": "ONE PUNCH MAN 3",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/one-piece": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1152.0,
-    "start_episode": 1130
-  },
-  "/sawaranaide-kotesashi-kun": {
-    "group": "SAWARANAIDE KOTESASHI-KUN",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/gachiakuta": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 22.0,
     "start_episode": 1
   }
 }

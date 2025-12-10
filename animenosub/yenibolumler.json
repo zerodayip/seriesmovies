@@ -1,4 +1,34 @@
 {
+  "/anime/the-dark-history-of-the-reincarnated-villainess/": {
+    "group": "THE DARK HISTORY OF THE REINCARNATED VILLAINESS",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/anime/kakuriyo-bed-and-breakfast-for-spirits-season-2/": {
+    "group": "KAKURIYO: BED AND BREAKFAST FOR SPIRITS SEASON 2",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/anime/wandance/": {
+    "group": "WANDANCE",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/anime/the-mighty-nein/": {
+    "group": "THE MIGHTY NEIN",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/hero-without-a-class-who-even-needs-skills/": {
+    "group": "HERO WITHOUT A CLASS: WHO EVEN NEEDS SKILLS?!",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/anime/record-of-ragnarok-iii/": {
     "group": "RECORD OF RAGNAROK III",
     "last_season": 1,
@@ -87,36 +117,6 @@
     "group": "ONE-PUNCH MAN SEASON 3",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "/anime/hands-off-sawaranaide-kotesashi-kun-uncensored/": {
-    "group": "HANDS OFF: SAWARANAIDE KOTESASHI-KUN (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/the-fated-magical-princess-who-made-me-a-princess/": {
-    "group": "THE FATED MAGICAL PRINCESS: WHO MADE ME A PRINCESS",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/one-piece/": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1152,
-    "start_episode": 1130
-  },
-  "/anime/gachiakuta/": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 22,
-    "start_episode": 1
-  },
-  "/anime/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator/": {
-    "group": "DAD IS A HERO, MOM IS A SPIRIT, I’M A REINCARNATOR",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
