@@ -223,8 +223,8 @@ jobs:
           playwright install
 
       # 5. Sezonlukdizi M3U Maker
-      - name: Run SezonlukDizi yenibolumler.py
-        run: python private_py/series/sezonlukdizi/yenibolumler.py
+#      - name: Run SezonlukDizi yenibolumler.py
+#        run: python private_py/series/sezonlukdizi/yenibolumler.py
 
       - name: Commit and Push SezonlukDizi JSON to public repo
         run: |
