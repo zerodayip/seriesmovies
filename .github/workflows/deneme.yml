@@ -19,20 +19,18 @@ jobs:
       - name: Puppeteer kurulumu
         run: |
           npm init -y
-          npm install puppeteer fs
+          npm install puppeteer
 
-      - name: OUO HTML al ve kaydet
+      - name: OUO HTML al ve yazdır
         run: |
           node << 'EOF'
           const puppeteer = require('puppeteer');
-          const fs = require('fs');
 
           (async () => {
             const TARGET_URL = "https://ouo.io/BEvZB5";
-            const OUTPUT_FILE = "ouo_final_page.html";
 
             const browser = await puppeteer.launch({
-              headless: "new",        // Headless modda çalışıyor, CI uyumlu
+              headless: "new",        // CI uyumlu headless mod
               args: [
                 '--no-sandbox',
                 '--disable-setuid-sandbox',
@@ -70,9 +68,9 @@ jobs:
             const html = await page.content();
 
             console.log("Son URL:", currentUrl);
-
-            fs.writeFileSync(OUTPUT_FILE, html, { encoding: 'utf8' });
-            console.log(`HTML '${OUTPUT_FILE}' olarak kaydedildi.`);
+            console.log("==== HTML BAŞLANGIÇ ====");
+            console.log(html);
+            console.log("==== HTML BİTİŞ ====");
 
             await browser.close();
           })();
