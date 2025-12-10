@@ -9,7 +9,6 @@ jobs:
   part3:
     name: Step 5-to-13 Paralel Çalıştır
     runs-on: ubuntu-latest
-    needs: [part2]
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
