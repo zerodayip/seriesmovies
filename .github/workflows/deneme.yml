@@ -1,4 +1,4 @@
-name: Get Final Redirect HTML (Selenium)
+name: Get Final OUO.io HTML (Selenium)
 
 on:
   workflow_dispatch:
@@ -21,17 +21,16 @@ jobs:
           npm init -y
           npm install selenium-webdriver chromedriver
 
-      - name: Selenium ile retry ve HTML al
+      - name: Selenium ile OUO HTML al
         run: |
           node << 'EOF'
           const { Builder, By, until } = require('selenium-webdriver');
           const chrome = require('selenium-webdriver/chrome');
 
           (async () => {
-            const TARGET_URL = "https://sezonlukdizi8.com/link.asp?id=";
-            const MAX_RETRIES = 5;
+            const TARGET_URL = "https://ouo.io/BEvZB5";
+            const MAX_RETRIES = 3;
 
-            // Cloudflare ve OUO için Chrome seçenekleri
             const options = new chrome.Options();
             options.addArguments('--headless=new');
             options.addArguments('--disable-gpu');
@@ -47,15 +46,9 @@ jobs:
               .setChromeOptions(options)
               .build();
 
-            let finalUrl = TARGET_URL;
-            let html = "";
-            let attempt = 0;
-
             try {
-              while (attempt < MAX_RETRIES) {
-                attempt++;
+              for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
                 console.log(`Deneme #${attempt} - Sayfaya gidiliyor: ${TARGET_URL}`);
-
                 await driver.get(TARGET_URL);
 
                 // WebDriver imzasını gizle
@@ -63,34 +56,31 @@ jobs:
                   "Object.defineProperty(navigator, 'webdriver', {get: () => undefined});"
                 );
 
-                // OUO/Cloudflare JS challenge bekleme (8-10 saniye yeterli)
+                // OUO JS challenge için bekle (10 saniye)
                 await driver.sleep(10000);
 
-                // Sayfanın yüklenmesini bekleyelim
+                // Sayfanın tamamen yüklenmesini bekle
                 await driver.wait(async () => {
                   const readyState = await driver.executeScript('return document.readyState;');
                   return readyState === 'complete';
-                }, 120000);
+                }, 15000);
 
-                html = await driver.getPageSource();
-                finalUrl = await driver.getCurrentUrl();
+                const html = await driver.getPageSource();
+                const currentUrl = await driver.getCurrentUrl();
 
-                // Rate limit kontrolü (sayfada "Çok fazla istek yaptınız" yazısı varsa bekle)
-                const match = html.match(/Çok fazla istek yaptınız\. (\d+) saniye bekleyin/);
-                if (match) {
-                  const waitSeconds = parseInt(match[1], 10);
-                  console.log(`Rate limit algılandı, ${waitSeconds} saniye bekleniyor...`);
-                  await new Promise(resolve => setTimeout(resolve, waitSeconds * 1000));
-                } else {
-                  break; // Başarılı
+                // Basit rate limit kontrolü
+                if (/Çok fazla istek yaptınız/.test(html)) {
+                  console.log("Rate limit algılandı, 10 saniye bekleniyor...");
+                  await new Promise(resolve => setTimeout(resolve, 10000));
+                  continue;
                 }
+
+                console.log("Son URL:", currentUrl);
+                console.log("------- HTML BAŞLANGICI -------");
+                console.log(html);
+                console.log("------- HTML BİTİŞİ -------");
+                break;
               }
-
-              console.log("Son yönlendirme URL:", finalUrl);
-              console.log("------- HTML BAŞLANGICI -------");
-              console.log(html);
-              console.log("------- HTML BİTİŞİ -------");
-
             } finally {
               await driver.quit();
             }
