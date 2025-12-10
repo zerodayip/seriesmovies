@@ -1,4 +1,4 @@
-name: Get Final Redirect HTML (Playwright Dynamic Wait)
+name: Get Final Redirect HTML (Playwright Single Page Retry)
 
 on:
   workflow_dispatch:
@@ -22,7 +22,7 @@ jobs:
           npm install playwright
           npx playwright install
 
-      - name: Playwright ile retry ve HTML al (dinamik bekleme)
+      - name: Playwright ile retry ve HTML al (tek page)
         run: |
           node << 'EOF'
           const { chromium } = require("playwright");
@@ -32,6 +32,7 @@ jobs:
             const MAX_RETRIES = 5;
 
             const browser = await chromium.launch({ headless: true });
+            const page = await browser.newPage();
 
             let finalUrl = TARGET_URL;
             let html = "";
@@ -39,7 +40,6 @@ jobs:
 
             while (attempt < MAX_RETRIES) {
               attempt++;
-              const page = await browser.newPage();
               console.log(`Deneme #${attempt} - Sayfaya gidiliyor: ${TARGET_URL}`);
 
               await page.goto(TARGET_URL, { waitUntil: "networkidle", timeout: 120000 });
@@ -52,10 +52,8 @@ jobs:
               if (match) {
                 const waitSeconds = parseInt(match[1], 10);
                 console.log(`Rate limit algılandı, ${waitSeconds} saniye bekleniyor...`);
-                await page.close();
                 await new Promise(resolve => setTimeout(resolve, waitSeconds * 1000));
               } else {
-                await page.close();
                 break; // Başarılı, rate limit yok
               }
             }
