@@ -1,15 +1,23 @@
-name: Find Final Redirect
+name: Find Final Redirect and Print HTML
 
 on:
-  workflow_dispatch:   # elle çalıştırmak için (input gerekmiyor)
+  workflow_dispatch:
 
 jobs:
   check-redirect:
     runs-on: ubuntu-latest
     steps:
-      - name: Son yönlendirme URL'sini bul
+      - name: Son yönlendirme URL'sini bul ve HTML'i yazdır
         run: |
           TARGET_URL="https://sezonlukdizi8.com/link.asp?id="
+          
+          # Son yönlendirme URL'sini al
           FINAL_URL=$(curl -Ls -o /dev/null -w '%{url_effective}' "$TARGET_URL")
           echo "Son yönlendirme adresi:"
           echo "$FINAL_URL"
+          
+          echo ""
+          echo "HTML içeriği:"
+          
+          # Son URL'nin HTML içeriğini yazdır
+          curl -Ls "$FINAL_URL"
