@@ -1,23 +1,54 @@
-name: Find Final Redirect and Print HTML
+name: Get Final Redirect HTML (Playwright)
 
 on:
   workflow_dispatch:
 
 jobs:
-  check-redirect:
+  scrape:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Son yönlendirme URL'sini bul ve HTML'i yazdır
+      - name: Kod deposunu çek
+        uses: actions/checkout@v4
+
+      - name: Node kurulumu
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Playwright kurulumu
         run: |
-          TARGET_URL="https://sezonlukdizi8.com/link.asp?id="
-          
-          # Son yönlendirme URL'sini al
-          FINAL_URL=$(curl -Ls -o /dev/null -w '%{url_effective}' "$TARGET_URL")
-          echo "Son yönlendirme adresi:"
-          echo "$FINAL_URL"
-          
-          echo ""
-          echo "HTML içeriği:"
-          
-          # Son URL'nin HTML içeriğini yazdır
-          curl -Ls "$FINAL_URL"
+          npm init -y
+          npm install playwright
+
+      - name: Playwright ile gerçek sayfayı çek
+        run: |
+          node << 'EOF'
+          const { chromium } = require("playwright");
+
+          (async () => {
+            const TARGET_URL = "https://sezonlukdizi8.com/link.asp?id=";
+            const browser = await chromium.launch({ headless: true });
+            const page = await browser.newPage();
+
+            console.log("Sayfaya gidiliyor:", TARGET_URL);
+
+            await page.goto(TARGET_URL, {
+              waitUntil: "networkidle",
+              timeout: 120000
+            });
+
+            // Cloudflare challenge bekleme süresi
+            await page.waitForTimeout(8000);
+
+            const finalUrl = page.url();
+            console.log("Son yönlendirme URL:", finalUrl);
+
+            const html = await page.content();
+            console.log("------- HTML BAŞLANGICI -------");
+            console.log(html);
+            console.log("------- HTML BİTİŞİ -------");
+
+            await browser.close();
+          })();
+          EOF
