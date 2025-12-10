@@ -2,13 +2,13 @@
   "/dizi/universal-basic-guys": {
     "group": "UNIVERSAL BASIC GUYS",
     "last_season": 2,
-    "last_episode": 8,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/tracker": {
     "group": "TRACKER",
     "last_season": 3,
-    "last_episode": 6,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/the-ridge": {
@@ -62,7 +62,7 @@
   "/dizi/krapopolis": {
     "group": "KRAPOPOLIS",
     "last_season": 3,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/house-of-david": {
@@ -86,7 +86,7 @@
   "/dizi/dmv": {
     "group": "DMV",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/brilliant-minds": {
@@ -152,13 +152,13 @@
   "/dizi/the-simpsons": {
     "group": "THE SIMPSONS",
     "last_season": 37,
-    "last_episode": 8,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/fbi": {
     "group": "FBI",
     "last_season": 8,
-    "last_episode": 6,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/grey-s-anatomy": {
@@ -368,7 +368,7 @@
   "/dizi/loot": {
     "group": "LOOT",
     "last_season": 3,
-    "last_episode": 8,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/harlan-coben-s-lazarus": {
@@ -458,7 +458,7 @@
   "/dizi/down-cemetery-road": {
     "group": "DOWN CEMETERY ROAD",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/frauds": {
@@ -548,13 +548,13 @@
   "/dizi/alls-fair": {
     "group": "ALL'S FAIR",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/st-denis-medical": {
     "group": "ST. DENIS MEDICAL",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/return-to-paradise": {
@@ -734,7 +734,7 @@
   "/dizi/palm-royale": {
     "group": "PALM ROYALE",
     "last_season": 2,
-    "last_episode": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/final-gate-yerli": {
@@ -902,7 +902,7 @@
   "/dizi/the-mighty-nein": {
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/landman": {
@@ -1093,32 +1093,32 @@
   },
   "/dizi/percy-jackson-and-the-olympians": {
     "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/veronika": {
     "group": "VERONIKA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/the-war-between-the-land-and-the-sea": {
     "group": "THE WAR BETWEEN THE LAND AND THE SEA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/family-law": {
     "group": "FAMILY LAW",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/daddy-issues": {
     "group": "DADDY ISSUES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   }
 }

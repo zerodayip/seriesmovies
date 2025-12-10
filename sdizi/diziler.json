@@ -2785,8 +2785,8 @@
   },
   "/diziler/percy-jackson-and-the-olympians.html": {
     "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/diziler/carol-and-the-end-of-the-world.html": {
@@ -16142,7 +16142,7 @@
   "/diziler/the-mighty-nein.html": {
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/state-of-affairs.html": {

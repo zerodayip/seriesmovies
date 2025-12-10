@@ -716,7 +716,7 @@
   "/anime/disney-twisted-wonderland-the-animation/": {
     "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/anime/love-live-nijigasaki-high-school-idol-club-the-movie-finale/": {
@@ -764,7 +764,7 @@
   "/anime/record-of-ragnarok-iii/": {
     "group": "RECORD OF RAGNAROK III",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 15,
     "start_episode": 1
   }
 }
