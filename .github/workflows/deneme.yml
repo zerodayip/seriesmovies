@@ -1,4 +1,4 @@
-name: Get Final Redirect HTML (Headers + Retry)
+name: Get Final Redirect HTML (Selenium)
 
 on:
   workflow_dispatch:
@@ -16,71 +16,68 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Playwright kurulumu
+      - name: Selenium ve ChromeDriver kurulumu
         run: |
           npm init -y
-          npm install playwright
-          npx playwright install
+          npm install selenium-webdriver chromedriver
 
-      - name: Playwright ile retry ve custom headers
+      - name: Selenium ile retry ve HTML al
         run: |
           node << 'EOF'
-          const { chromium } = require("playwright");
+          const { Builder, By, until } = require('selenium-webdriver');
+          const chrome = require('selenium-webdriver/chrome');
 
           (async () => {
             const TARGET_URL = "https://sezonlukdizi8.com/link.asp?id=";
             const MAX_RETRIES = 5;
 
-            const browser = await chromium.launch({ headless: true });
-            const page = await browser.newPage();
+            const options = new chrome.Options();
+            options.addArguments('--headless=new');  // Headless mod
+            options.addArguments('--disable-gpu');
+            options.addArguments('--window-size=1920,1080');
 
-            // Özel headers
-            await page.setExtraHTTPHeaders({
-              'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-              'accept-encoding': 'gzip, deflate, br, zstd',
-              'accept-language': 'tr-TR,tr;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6',
-              'cache-control': 'max-age=0',
-              'sec-ch-ua': '"Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"',
-              'sec-ch-ua-platform': '"Windows"',
-              'sec-ch-ua-platform-version': '"10.0.0"',
-              'sec-ch-ua-mobile': '?0',
-              'sec-fetch-dest': 'document',
-              'sec-fetch-mode': 'navigate',
-              'sec-fetch-site': 'none',
-              'sec-fetch-user': '?1',
-              'upgrade-insecure-requests': '1',
-              'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36'
-            });
+            const driver = await new Builder()
+              .forBrowser('chrome')
+              .setChromeOptions(options)
+              .build();
 
             let finalUrl = TARGET_URL;
             let html = "";
             let attempt = 0;
 
-            while (attempt < MAX_RETRIES) {
-              attempt++;
-              console.log(`Deneme #${attempt} - Sayfaya gidiliyor: ${TARGET_URL}`);
+            try {
+              while (attempt < MAX_RETRIES) {
+                attempt++;
+                console.log(`Deneme #${attempt} - Sayfaya gidiliyor: ${TARGET_URL}`);
+                await driver.get(TARGET_URL);
 
-              await page.goto(TARGET_URL, { waitUntil: "networkidle", timeout: 120000 });
+                // Sayfanın yüklenmesini bekleyelim
+                await driver.wait(async () => {
+                  const readyState = await driver.executeScript('return document.readyState;');
+                  return readyState === 'complete';
+                }, 120000);
 
-              html = await page.content();
-              finalUrl = page.url();
+                html = await driver.getPageSource();
+                finalUrl = await driver.getCurrentUrl();
 
-              // Rate limit kontrolü
-              const match = html.match(/Çok fazla istek yaptınız\. (\d+) saniye bekleyin/);
-              if (match) {
-                const waitSeconds = parseInt(match[1], 10);
-                console.log(`Rate limit algılandı, ${waitSeconds} saniye bekleniyor...`);
-                await new Promise(resolve => setTimeout(resolve, waitSeconds * 1000));
-              } else {
-                break;
+                // Rate limit kontrolü
+                const match = html.match(/Çok fazla istek yaptınız\. (\d+) saniye bekleyin/);
+                if (match) {
+                  const waitSeconds = parseInt(match[1], 10);
+                  console.log(`Rate limit algılandı, ${waitSeconds} saniye bekleniyor...`);
+                  await new Promise(resolve => setTimeout(resolve, waitSeconds * 1000));
+                } else {
+                  break; // Başarılı
+                }
               }
+
+              console.log("Son yönlendirme URL:", finalUrl);
+              console.log("------- HTML BAŞLANGICI -------");
+              console.log(html);
+              console.log("------- HTML BİTİŞİ -------");
+
+            } finally {
+              await driver.quit();
             }
-
-            console.log("Son yönlendirme URL:", finalUrl);
-            console.log("------- HTML BAŞLANGICI -------");
-            console.log(html);
-            console.log("------- HTML BİTİŞİ -------");
-
-            await browser.close();
           })();
           EOF
