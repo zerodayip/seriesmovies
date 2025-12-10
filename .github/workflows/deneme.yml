@@ -32,7 +32,7 @@ jobs:
             const OUTPUT_FILE = "ouo_final_page.html";
 
             const browser = await puppeteer.launch({
-              headless: false,        // headful Chrome daha güvenli
+              headless: "new",        // Headless modda çalışıyor, CI uyumlu
               args: [
                 '--no-sandbox',
                 '--disable-setuid-sandbox',
