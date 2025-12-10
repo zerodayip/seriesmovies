@@ -17,12 +17,6 @@
     "last_episode": 5,
     "start_episode": 1
   },
-  "/dizi/landman": {
-    "group": "LANDMAN",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
   "/dizi/it-welcome-to-derry": {
     "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
@@ -139,6 +133,12 @@
   },
   "/dizi/matlock": {
     "group": "MATLOCK",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/georgie-mandy-s-first-marriage": {
+    "group": "GEORGIE & MANDY'S FIRST MARRIAGE",
     "last_season": 2,
     "last_episode": 6,
     "start_episode": 1
