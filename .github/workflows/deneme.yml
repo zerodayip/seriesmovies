@@ -1,4 +1,4 @@
-name: Get Final Redirect HTML (Playwright)
+name: Get Final Redirect HTML (Playwright Retry)
 
 on:
   workflow_dispatch:
@@ -22,31 +22,44 @@ jobs:
           npm install playwright
           npx playwright install
 
-      - name: Playwright ile gerçek sayfayı çek
+      - name: Playwright ile retry ve HTML al
         run: |
           node << 'EOF'
           const { chromium } = require("playwright");
 
           (async () => {
             const TARGET_URL = "https://sezonlukdizi8.com/link.asp?id=";
-
-            console.log("15 saniye bekleniyor, istek yapmadan...");
-            await new Promise(resolve => setTimeout(resolve, 15000));
+            const MAX_RETRIES = 5;
+            const WAIT_MS = 10000; // Bekleme süresi 10 saniye
 
             const browser = await chromium.launch({ headless: true });
             const page = await browser.newPage();
 
-            console.log("Sayfaya gidiliyor:", TARGET_URL);
+            let finalUrl = TARGET_URL;
+            let html = "";
+            let attempt = 0;
 
-            await page.goto(TARGET_URL, {
-              waitUntil: "networkidle",
-              timeout: 120000
-            });
+            while (attempt < MAX_RETRIES) {
+              attempt++;
+              console.log(`Deneme #${attempt} - Sayfaya gidiliyor: ${TARGET_URL}`);
 
-            const finalUrl = page.url();
+              await page.goto(TARGET_URL, {
+                waitUntil: "networkidle",
+                timeout: 120000
+              });
+
+              html = await page.content();
+              finalUrl = page.url();
+
+              if (html.includes("Çok fazla istek yaptınız")) {
+                console.log(`Rate limit algılandı. ${WAIT_MS/1000} saniye bekleniyor...`);
+                await page.waitForTimeout(WAIT_MS);
+              } else {
+                break; // Başarılı
+              }
+            }
+
             console.log("Son yönlendirme URL:", finalUrl);
-
-            const html = await page.content();
             console.log("------- HTML BAŞLANGICI -------");
             console.log(html);
             console.log("------- HTML BİTİŞİ -------");
