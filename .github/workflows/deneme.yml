@@ -20,7 +20,7 @@ jobs:
         run: |
           npm init -y
           npm install playwright
-          npx playwright install  # <-- Tarayıcıları indiriyoruz
+          npx playwright install
 
       - name: Playwright ile gerçek sayfayı çek
         run: |
@@ -29,6 +29,10 @@ jobs:
 
           (async () => {
             const TARGET_URL = "https://sezonlukdizi8.com/link.asp?id=";
+
+            console.log("15 saniye bekleniyor, istek yapmadan...");
+            await new Promise(resolve => setTimeout(resolve, 15000));
+
             const browser = await chromium.launch({ headless: true });
             const page = await browser.newPage();
 
@@ -38,9 +42,6 @@ jobs:
               waitUntil: "networkidle",
               timeout: 120000
             });
-
-            // Cloudflare challenge bekleme süresi
-            await page.waitForTimeout(8000);
 
             const finalUrl = page.url();
             console.log("Son yönlendirme URL:", finalUrl);
