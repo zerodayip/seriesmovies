@@ -1,0 +1,121 @@
+name: Part 3 – Paralel Script Çalıştırma
+
+on:
+  workflow_dispatch:
+#  schedule:
+#    - cron: "0 */6 * * *"     # ÖRNEK: 6 saatte bir çalışır (dilersen değiştirebilirsin)
+
+jobs:
+  part3:
+    name: Step 5-to-13 Paralel Çalıştır
+    runs-on: ubuntu-latest
+    needs: [part2]
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    strategy:
+      fail-fast: false
+      matrix:
+        script:
+          - sezonlukdizi
+          - dizigom
+          - anizm
+          - animenosub
+          - setfilmizledizi
+          - diziyo
+          - dizipall
+          - hdfilmsitedizi
+
+    steps:
+      - name: Checkout public repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Dependencies
+        run: |
+          pip install -U pip
+          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles python-dotenv
+          playwright install
+
+      # -------------------------------
+      #  PY SCRIPT ÇALIŞTIRMA
+      # -------------------------------
+      - name: Run Python Script
+        run: |
+          case "${{ matrix.script }}" in
+            sezonlukdizi)   python private_py/series/sezonlukdizi/yenibolumler.py ;;
+            dizigom)        python private_py/series/dizigom/yenibolumler.py ;;
+            anizm)          python private_py/anime/anizm/yenibolumler.py ;;
+            animenosub)     python private_py/anime/ingilizce/animenosub/yenibolumler.py ;;
+            setfilmizledizi) python private_py/series/setfilmizledizi/yenibolumler.py ;;
+            diziyo)         python private_py/series/diziyo/yenibolumler.py ;;
+            dizipall)       python private_py/series/dizipall/yenibolumler.py ;;
+            hdfilmsitedizi) python private_py/series/hdfilmsite/yenibolumler.py ;;
+          esac
+
+      # -------------------------------
+      #  PRIVATE REPO SENKRON – HER PY BİTİNCE
+      # -------------------------------
+      - name: Sync to private repos
+        run: |
+          REPO=""
+          SRC=""
+
+          case "${{ matrix.script }}" in
+            sezonlukdizi)    SRC="sdizi" ;          REPO="sezonlukdizi" ;;
+            dizigom)         SRC="dizigom" ;        REPO="dizigom" ;;
+            anizm)           SRC="anizm" ;          REPO="anizm" ;;
+            animenosub)      SRC="animenosub" ;     REPO="animenosub" ;;
+            setfilmizledizi) SRC="setfilmizledizi" ; REPO="setfilmizledizi" ;;
+            diziyo)          SRC="diziyo" ;         REPO="diziyo" ;;
+            dizipall)        SRC="dizipall" ;       REPO="dizipall" ;;
+            hdfilmsitedizi)  SRC="yereldiziler" ;   REPO="hdfilmsitedizi" ;;
+          esac
+
+          echo "Private repo: $REPO"
+          echo "Source folder: $SRC"
+
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/$REPO.git private_repo
+
+          rsync -a ${SRC}/ private_repo/
+
+          cd private_repo
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || true
+          git commit -m "${{ matrix.script }} çıktı güncellendi [auto]" || true
+          git push origin main || true
+
+
+  # -------------------------------
+  #  TÜM JOBLAR BİTTİKTEN SONRA PUBLIC JSON COMMIT
+  # -------------------------------
+  public_commit:
+    name: Public JSON Commit
+    runs-on: ubuntu-latest
+    needs: [part3]
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Commit all JSON at once
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add */*.json *.json || true
+          git commit -m "Tüm JSON çıktıları paralel çalıştırma sonrası toplu güncellendi [auto]" || true
+          git push origin main || true
