@@ -1,4 +1,4 @@
-name: Get Final Redirect HTML (Playwright Retry)
+name: Get Final Redirect HTML (Playwright Dynamic Wait)
 
 on:
   workflow_dispatch:
@@ -22,7 +22,7 @@ jobs:
           npm install playwright
           npx playwright install
 
-      - name: Playwright ile retry ve HTML al
+      - name: Playwright ile retry ve HTML al (dinamik bekleme)
         run: |
           node << 'EOF'
           const { chromium } = require("playwright");
@@ -30,10 +30,8 @@ jobs:
           (async () => {
             const TARGET_URL = "https://sezonlukdizi8.com/link.asp?id=";
             const MAX_RETRIES = 5;
-            const WAIT_MS = 10000; // Bekleme süresi 10 saniye
 
             const browser = await chromium.launch({ headless: true });
-            const page = await browser.newPage();
 
             let finalUrl = TARGET_URL;
             let html = "";
@@ -41,21 +39,24 @@ jobs:
 
             while (attempt < MAX_RETRIES) {
               attempt++;
+              const page = await browser.newPage();
               console.log(`Deneme #${attempt} - Sayfaya gidiliyor: ${TARGET_URL}`);
 
-              await page.goto(TARGET_URL, {
-                waitUntil: "networkidle",
-                timeout: 120000
-              });
+              await page.goto(TARGET_URL, { waitUntil: "networkidle", timeout: 120000 });
 
               html = await page.content();
               finalUrl = page.url();
 
-              if (html.includes("Çok fazla istek yaptınız")) {
-                console.log(`Rate limit algılandı. ${WAIT_MS/1000} saniye bekleniyor...`);
-                await page.waitForTimeout(WAIT_MS);
+              // Rate limit kontrolü ve dinamik bekleme
+              const match = html.match(/Çok fazla istek yaptınız\. (\d+) saniye bekleyin/);
+              if (match) {
+                const waitSeconds = parseInt(match[1], 10);
+                console.log(`Rate limit algılandı, ${waitSeconds} saniye bekleniyor...`);
+                await page.close();
+                await new Promise(resolve => setTimeout(resolve, waitSeconds * 1000));
               } else {
-                break; // Başarılı
+                await page.close();
+                break; // Başarılı, rate limit yok
               }
             }
 
