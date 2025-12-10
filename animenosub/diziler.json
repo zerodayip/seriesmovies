@@ -760,5 +760,11 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/anime/record-of-ragnarok-iii/": {
+    "group": "RECORD OF RAGNAROK III",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -1,4 +1,16 @@
 {
+  "/diziler/the-mighty-nein.html": {
+    "group": "THE MIGHTY NEIN",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/diziler/percy-jackson-and-the-olympians.html": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/palm-royale.html": {
     "group": "PALM ROYALE",
     "last_season": 2,
@@ -69,18 +81,6 @@
     "group": "GACHIAKUTA",
     "last_season": 1,
     "last_episode": 22,
-    "start_episode": 1
-  },
-  "/diziler/to-your-eternity.html": {
-    "group": "TO YOUR ETERNITY",
-    "last_season": 3,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/spy-x-family.html": {
-    "group": "SPY X FAMILY",
-    "last_season": 3,
-    "last_episode": 10,
     "start_episode": 1
   }
 }

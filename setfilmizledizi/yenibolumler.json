@@ -1,14 +1,14 @@
 {
-  "/dizi/the-crystal-cuckoo/": {
-    "group": "THE CRYSTAL CUCKOO",
+  "/dizi/the-mighty-nein/": {
+    "group": "THE MIGHTY NEIN",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 5,
     "start_episode": 1
   },
-  "/dizi/accidente/": {
-    "group": "ACCIDENTE",
+  "/dizi/percy-jackson-and-the-olympians/": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/pax-massilia/": {
@@ -17,28 +17,46 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi/surely-tomorrow/": {
-    "group": "SURELY TOMORROW",
+  "/bolum/alls-fair-1-sezon-9-bolum/": {
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 0,
+    "group": "ALL'S FAIR",
     "start_episode": 1
   },
-  "/dizi/emily-in-paris/": {
-    "group": "EMILY IN PARIS",
-    "last_season": 4,
-    "last_episode": 10,
+  "/bolum/alls-fair-1-sezon-8-bolum/": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "ALL'S FAIR",
     "start_episode": 1
   },
-  "/dizi/scream/": {
-    "group": "SCREAM",
+  "/bolum/alls-fair-1-sezon-7-bolum/": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "ALL'S FAIR",
+    "start_episode": 1
+  },
+  "/bolum/alls-fair-1-sezon-6-bolum/": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "ALL'S FAIR",
+    "start_episode": 1
+  },
+  "/dizi/the-manipulated/": {
+    "group": "THE MANIPULATED",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi/high-potential/": {
+    "group": "HIGH POTENTIAL",
     "last_season": 2,
     "last_episode": 13,
     "start_episode": 1
   },
-  "/dizi/the-price-of-confession/": {
-    "group": "THE PRICE OF CONFESSION",
+  "/dizi/the-crystal-cuckoo/": {
+    "group": "THE CRYSTAL CUCKOO",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 6,
     "start_episode": 1
   }
 }

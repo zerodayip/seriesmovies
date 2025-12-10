@@ -1,4 +1,16 @@
 {
+  "/anime/record-of-ragnarok-iii/": {
+    "group": "RECORD OF RAGNAROK III",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/disney-twisted-wonderland-the-animation/": {
+    "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/anime/yano-kuns-ordinary-days/": {
     "group": "YANO-KUN’S ORDINARY DAYS",
     "last_season": 1,
@@ -103,18 +115,6 @@
   },
   "/anime/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator/": {
     "group": "DAD IS A HERO, MOM IS A SPIRIT, I’M A REINCARNATOR",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/alma-chan-wants-to-be-a-family/": {
-    "group": "ALMA-CHAN WANTS TO BE A FAMILY!",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/mechanical-marie/": {
-    "group": "MECHANICAL MARIE",
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1

@@ -1204,5 +1204,11 @@
     "last_season": 1,
     "last_episode": 12.0,
     "start_episode": 1
+  },
+  "/shuumatsu-no-walkure-iii": {
+    "group": "SHUUMATSU NO WALKÜRE III",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

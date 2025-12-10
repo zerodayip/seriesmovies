@@ -1,4 +1,16 @@
 {
+  "/shuumatsu-no-walkure-iii": {
+    "group": "SHUUMATSU NO WALKÜRE III",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/disney-twisted-wonderland-the-animation-episode-of-heartslabyul": {
+    "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION: EPISODE OF HEARTSLABYUL",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
   "/yano-kun-no-futsuu-no-hibi": {
     "group": "YANO-KUN NO FUTSUU NO HIBI",
     "last_season": 1,
@@ -87,24 +99,6 @@
     "group": "GACHIAKUTA",
     "last_season": 1,
     "last_episode": 22.0,
-    "start_episode": 1
-  },
-  "/digimon-beatbreak": {
-    "group": "DIGIMON BEATBREAK",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/kingdom-6th-season": {
-    "group": "KINGDOM 6TH SEASON",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/chanto-suenai-kyuuketsuki-chan": {
-    "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
-    "last_season": 1,
-    "last_episode": 9.0,
     "start_episode": 1
   }
 }
