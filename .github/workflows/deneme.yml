@@ -31,10 +31,16 @@ jobs:
             const TARGET_URL = "https://sezonlukdizi8.com/link.asp?id=";
             const MAX_RETRIES = 5;
 
+            // Cloudflare ve OUO için Chrome seçenekleri
             const options = new chrome.Options();
-            options.addArguments('--headless=new');  // Headless mod
+            options.addArguments('--headless=new');
             options.addArguments('--disable-gpu');
             options.addArguments('--window-size=1920,1080');
+            options.addArguments('--no-sandbox');
+            options.addArguments('--disable-dev-shm-usage');
+            options.addArguments('--disable-blink-features=AutomationControlled');
+            options.excludeSwitches('enable-automation');
+            options.addArguments('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36');
 
             const driver = await new Builder()
               .forBrowser('chrome')
@@ -49,7 +55,16 @@ jobs:
               while (attempt < MAX_RETRIES) {
                 attempt++;
                 console.log(`Deneme #${attempt} - Sayfaya gidiliyor: ${TARGET_URL}`);
+
                 await driver.get(TARGET_URL);
+
+                // WebDriver imzasını gizle
+                await driver.executeScript(
+                  "Object.defineProperty(navigator, 'webdriver', {get: () => undefined});"
+                );
+
+                // OUO/Cloudflare JS challenge bekleme (8-10 saniye yeterli)
+                await driver.sleep(10000);
 
                 // Sayfanın yüklenmesini bekleyelim
                 await driver.wait(async () => {
@@ -60,7 +75,7 @@ jobs:
                 html = await driver.getPageSource();
                 finalUrl = await driver.getCurrentUrl();
 
-                // Rate limit kontrolü
+                // Rate limit kontrolü (sayfada "Çok fazla istek yaptınız" yazısı varsa bekle)
                 const match = html.match(/Çok fazla istek yaptınız\. (\d+) saniye bekleyin/);
                 if (match) {
                   const waitSeconds = parseInt(match[1], 10);
