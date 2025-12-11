@@ -1040,7 +1040,7 @@
   "/dizi/sweetpea": {
     "group": "SWEETPEA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/reckless": {
@@ -1124,7 +1124,7 @@
   "/dizi/pax-massilia": {
     "group": "KAN SAHILI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
