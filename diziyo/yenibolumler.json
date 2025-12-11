@@ -2,43 +2,43 @@
   "/dizi/wild-cherry": {
     "group": "WILD CHERRY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/south-park": {
     "group": "SOUTH PARK",
     "last_season": 28,
-    "last_episode": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/shifting-gears": {
     "group": "SHIFTING GEARS",
     "last_season": 2,
-    "last_episode": 6,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/shetland": {
     "group": "SHETLAND",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 10,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/ncis-sydney": {
     "group": "NCIS: SYDNEY",
     "last_season": 3,
-    "last_episode": 5,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/ncis-origins": {
     "group": "NCIS: ORIGINS",
     "last_season": 2,
-    "last_episode": 4,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/cooper-fry": {
     "group": "COOPER & FRY",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/man-vs-baby": {
