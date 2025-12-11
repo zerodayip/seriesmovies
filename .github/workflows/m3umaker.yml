@@ -226,24 +226,24 @@ jobs:
 #      - name: Run SezonlukDizi yenibolumler.py
 #        run: python private_py/series/sezonlukdizi/yenibolumler.py
 
-      - name: Commit and Push SezonlukDizi JSON to public repo
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add sdizi/*.json || echo "No JSON files"
-          git commit -m "SezonlukDizi JSON güncellendi [auto]" || echo "No changes"
-          git push origin main
+#      - name: Commit and Push SezonlukDizi JSON to public repo
+#        run: |
+#          git config user.name "GitHub Actions"
+#          git config user.email "actions@github.com"
+#          git add sdizi/*.json || echo "No JSON files"
+#          git commit -m "SezonlukDizi JSON güncellendi [auto]" || echo "No changes"
+#          git push origin main
 
-      - name: Sync SezonlukDizi output to private repo
-        run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/sezonlukdizi.git private_sezonlukdizi
-          rsync -a sdizi/ private_sezonlukdizi/
-          cd private_sezonlukdizi
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add . || echo "No files"
-          git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
-          git push origin main
+#      - name: Sync SezonlukDizi output to private repo
+#        run: |
+#          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/sezonlukdizi.git private_sezonlukdizi
+#          rsync -a sdizi/ private_sezonlukdizi/
+#          cd private_sezonlukdizi
+#          git config user.name "GitHub Actions"
+#          git config user.email "actions@github.com"
+#          git add . || echo "No files"
+#          git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
+#          git push origin main
 
       # 6. Dizigom M3U Maker
       - name: Run Dizigom yenibolumler.py
