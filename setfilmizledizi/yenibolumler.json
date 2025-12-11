@@ -47,28 +47,10 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "/bolum/alls-fair-1-sezon-9-bolum/": {
+  "/dizi/alls-fair/": {
+    "group": "ALL'S FAIR",
     "last_season": 1,
     "last_episode": 0,
-    "group": "ALL'S FAIR",
-    "start_episode": 1
-  },
-  "/bolum/alls-fair-1-sezon-8-bolum/": {
-    "last_season": 1,
-    "last_episode": 0,
-    "group": "ALL'S FAIR",
-    "start_episode": 1
-  },
-  "/bolum/alls-fair-1-sezon-7-bolum/": {
-    "last_season": 1,
-    "last_episode": 0,
-    "group": "ALL'S FAIR",
-    "start_episode": 1
-  },
-  "/bolum/alls-fair-1-sezon-6-bolum/": {
-    "last_season": 1,
-    "last_episode": 0,
-    "group": "ALL'S FAIR",
     "start_episode": 1
   }
 }
