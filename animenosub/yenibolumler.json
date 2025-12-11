@@ -1,4 +1,16 @@
 {
+  "/anime/blue-orchestra-season-2/": {
+    "group": "BLUE ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/anime/tooi-san-wa-seishun-shitai-baka-to-smartphone-to-romance-to/": {
+    "group": "TOOI-SAN WA SEISHUN SHITAI! BAKA TO SMARTPHONE TO ROMANCE TO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/lets-play/": {
     "group": "LET’S PLAY",
     "last_season": 1,
@@ -105,18 +117,6 @@
     "group": "A MANGAKA’S WEIRDLY WONDERFUL WORKPLACE",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/chainsaw-man-the-movie-reze-arc/": {
-    "group": "CHAINSAW MAN THE MOVIE: REZE ARC",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/chainsaw-man-the-movie-reze-arc-dub/": {
-    "group": "CHAINSAW MAN THE MOVIE: REZE ARC (DUB)",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }
