@@ -10412,13 +10412,13 @@
   "/dizi/man-vs-baby/": {
     "group": "MAN VS BABY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/kasaba-2025-izle/": {
     "group": "KASABA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   }
 }
