@@ -1,4 +1,16 @@
 {
+  "/dizi/man-vs-baby/": {
+    "group": "MAN VS BABY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/kasaba-2025-izle/": {
+    "group": "KASABA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/sandokan-the-pirate-prince/": {
     "group": "SANDOKAN: THE PIRATE PRINCE",
     "last_season": 1,
@@ -33,24 +45,6 @@
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/percy-jackson-and-the-olympians/": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/pax-massilia/": {
-    "group": "PAX MASSILIA",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/alls-fair/": {
-    "group": "ALL'S FAIR",
-    "last_season": 1,
-    "last_episode": 9,
     "start_episode": 1
   }
 }

@@ -1,4 +1,34 @@
 {
+  "/potion-wagami-wo-tasukeru": {
+    "group": "POTION, WAGAMI WO TASUKERU",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/akujiki-reijou-to-kyouketsu-koushaku": {
+    "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/towa-no-yuugure": {
+    "group": "TOWA NO YUUGURE",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/taiyou-yori-mo-mabushii-hoshi": {
+    "group": "TAIYOU YORI MO MABUSHII HOSHI",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/watashi-wo-tabetai-hitodenashi": {
+    "group": "WATASHI WO TABETAI, HITODENASHI",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
   "/bukiyou-na-senpai": {
     "group": "BUKIYOU NA SENPAI.",
     "last_season": 1,
@@ -69,36 +99,6 @@
     "group": "SHUUMATSU NO WALKÜRE III",
     "last_season": 1,
     "last_episode": 15.0,
-    "start_episode": 1
-  },
-  "/disney-twisted-wonderland-the-animation-episode-of-heartslabyul": {
-    "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION: EPISODE OF HEARTSLABYUL",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/yano-kun-no-futsuu-no-hibi": {
-    "group": "YANO-KUN NO FUTSUU NO HIBI",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/ninja-to-gokudou": {
-    "group": "NINJA TO GOKUDOU",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/chitose-kun-wa-ramune-bin-no-naka": {
-    "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/nmeneko": {
-    "group": "NMENEKO",
-    "last_season": 1,
-    "last_episode": 21.0,
     "start_episode": 1
   }
 }

@@ -1138,5 +1138,11 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/dizi/wild-cherry": {
+    "group": "WILD CHERRY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

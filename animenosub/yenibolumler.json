@@ -1,4 +1,40 @@
 {
+  "/anime/chainsaw-man-the-movie-reze-arc/": {
+    "group": "CHAINSAW MAN THE MOVIE: REZE ARC",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/pass-the-monster-meat-milady/": {
+    "group": "PASS THE MONSTER MEAT, MILADY!",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/anime/potion-wagami-wo-tasukeru/": {
+    "group": "POTION, WAGAMI WO TASUKERU",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/anime/solo-camping-for-two/": {
+    "group": "SOLO CAMPING FOR TWO",
+    "last_season": 1,
+    "last_episode": 22,
+    "start_episode": 1
+  },
+  "/anime/a-star-brighter-than-the-sun/": {
+    "group": "A STAR BRIGHTER THAN THE SUN",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/anime/dusk-beyond-the-end-of-the-world/": {
+    "group": "DUSK BEYOND THE END OF THE WORLD",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/anime/this-monster-wants-to-eat-me/": {
     "group": "THIS MONSTER WANTS TO EAT ME",
     "last_season": 1,
@@ -79,42 +115,6 @@
   },
   "/anime/ninja-vs-gokudo/": {
     "group": "NINJA VS. GOKUDO",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/chitose-is-in-the-ramune-bottle/": {
-    "group": "CHITOSE IS IN THE RAMUNE BOTTLE",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/anime/campfire-cooking-in-another-world-with-my-absurd-skill-season-2/": {
-    "group": "CAMPFIRE COOKING IN ANOTHER WORLD WITH MY ABSURD SKILL SEASON 2",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/with-you-our-love-will-make-it-through/": {
-    "group": "WITH YOU, OUR LOVE WILL MAKE IT THROUGH",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
-    "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/a-gatherers-adventure-in-isekai/": {
-    "group": "A GATHERER’S ADVENTURE IN ISEKAI",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/anime/gintama-mr-ginpachis-zany-class/": {
-    "group": "GINTAMA – MR. GINPACHI’S ZANY CLASS",
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1

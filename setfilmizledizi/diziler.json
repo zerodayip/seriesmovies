@@ -10408,5 +10408,17 @@
     "last_season": 2,
     "last_episode": 10,
     "start_episode": 1
+  },
+  "/dizi/man-vs-baby/": {
+    "group": "MAN VS BABY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/kasaba-2025-izle/": {
+    "group": "KASABA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

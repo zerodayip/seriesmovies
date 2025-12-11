@@ -910,5 +910,17 @@
     "last_season": 3,
     "last_episode": 15,
     "start_episode": 1
+  },
+  "/dizi-izle/simon-cowell-the-next-act": {
+    "group": "SIMON COWELL: THE NEXT ACT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/man-vs-baby": {
+    "group": "MAN VS BABY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
