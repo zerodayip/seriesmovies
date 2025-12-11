@@ -892,5 +892,23 @@
     "last_season": 2,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi-izle/the-accident": {
+    "group": "THE ACCIDENT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/record-of-ragnarok": {
+    "group": "RECORD OF RAGNAROK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -1,4 +1,10 @@
 {
+  "/chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha": {
+    "group": "CHICHI WA EIYUU, HAHA WA SEIREI, MUSUME NO WATASHI WA TENSEISHA.",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/lets-play-quest-darake-no-my-life": {
     "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "ISEKAI QUARTET 3",
     "last_season": 1,
     "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
-    "group": "ANSATSUSHA DE ARU ORE NO STATUS GA YUUSHA YORI MO AKIRAKA NI TSUYOI NO DA GA",
-    "last_season": 1,
-    "last_episode": 10.0,
     "start_episode": 1
   }
 }
