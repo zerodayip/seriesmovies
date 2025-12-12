@@ -1144,5 +1144,53 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/hjem-til-jul": {
+    "group": "HOME FOR CHRISTMAS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/ciudad-de-sombras": {
+    "group": "GÖLGELER ŞEHRI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/single-papa": {
+    "group": "BEKÂR BABA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/bob-s-burgers": {
+    "group": "BOB'S BURGERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/taylor-swift-the-eras-tour-the-end-of-an-era": {
+    "group": "TAYLOR SWIFT: THE ERAS TOUR - THE END OF AN ERA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/jasmine-yerli": {
+    "group": "JASMINE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/simon-cowell-the-next-act": {
+    "group": "SIMON COWELL: ŞIMDI SAHNE KIMIN?",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/breathe-into-the-shadows": {
+    "group": "BREATHE: INTO THE SHADOWS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

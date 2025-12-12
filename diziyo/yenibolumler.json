@@ -1,4 +1,88 @@
 {
+  "/dizi/hjem-til-jul": {
+    "group": "HOME FOR CHRISTMAS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/ciudad-de-sombras": {
+    "group": "GÖLGELER ŞEHRI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/single-papa": {
+    "group": "BEKÂR BABA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/pluribus": {
+    "group": "PLURIBUS",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi/bob-s-burgers": {
+    "group": "BOB'S BURGERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/taylor-swift-the-eras-tour-the-end-of-an-era": {
+    "group": "TAYLOR SWIFT: THE ERAS TOUR - THE END OF AN ERA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/jasmine-yerli": {
+    "group": "JASMINE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/karma-yerli": {
+    "group": "KARMA",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/i-am": {
+    "group": "I AM...",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/simon-cowell-the-next-act": {
+    "group": "SIMON COWELL: ŞIMDI SAHNE KIMIN?",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/vgly": {
+    "group": "VGLY",
+    "last_season": 2,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi/just-a-bit-espers-asya": {
+    "group": "JUST A BIT ESPERS",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/the-golden-egg-asya": {
+    "group": "THE GOLDEN EGG",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi/breathe-into-the-shadows": {
+    "group": "BREATHE: INTO THE SHADOWS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/wild-cherry": {
     "group": "WILD CHERRY",
     "last_season": 1,
@@ -75,84 +159,6 @@
     "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 2,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/palm-royale": {
-    "group": "PALM ROYALE",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/loot": {
-    "group": "LOOT",
-    "last_season": 3,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/down-cemetery-road": {
-    "group": "DOWN CEMETERY ROAD",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/alls-fair": {
-    "group": "ALL'S FAIR",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi/veronika": {
-    "group": "VERONIKA",
-    "last_season": 2,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/the-war-between-the-land-and-the-sea": {
-    "group": "THE WAR BETWEEN THE LAND AND THE SEA",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/family-law": {
-    "group": "FAMILY LAW",
-    "last_season": 4,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/daddy-issues": {
-    "group": "DADDY ISSUES",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/universal-basic-guys": {
-    "group": "UNIVERSAL BASIC GUYS",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/tracker": {
-    "group": "TRACKER",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/the-simpsons": {
-    "group": "THE SIMPSONS",
-    "last_season": 37,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/st-denis-medical": {
-    "group": "ST. DENIS MEDICAL",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/krapopolis": {
-    "group": "KRAPOPOLIS",
-    "last_season": 3,
-    "last_episode": 9,
     "start_episode": 1
   }
 }

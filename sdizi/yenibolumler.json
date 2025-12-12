@@ -1,4 +1,10 @@
 {
+  "/diziler/pluribus.html": {
+    "group": "PLURIBUS",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/diziler/man-vs-baby.html": {
     "group": "MAN VS BABY",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "ALL'S FAIR",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/king-and-conqueror.html": {
-    "group": "KING & CONQUEROR",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
