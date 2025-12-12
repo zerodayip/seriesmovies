@@ -715,7 +715,7 @@
   },
   "/dizi-izle/had-i-not-seen-the-sun": {
     "group": "HAD I NOT SEEN THE SUN",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 10,
     "start_episode": 1
   },
@@ -925,8 +925,8 @@
   },
   "/dizi-izle/tomb-raider-the-legend-of-lara-croft": {
     "group": "TOMB RAIDER: THE LEGEND OF LARA CROFT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   }
 }
