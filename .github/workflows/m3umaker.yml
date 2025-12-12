@@ -132,6 +132,9 @@ jobs:
       - name: Run Dizipall JSON Script
         run: python private_py/series/dizipall/jsonyonlendirmeguncelleme.py
 
+      - name: Run HDFilmCehennemi JSON Script
+        run: python private_py/series/hdfilmcehennemi/dizilerjson.py
+
       #- name: Run Dizipal JSON Script ( cloudflare koruması mevcut )
        # run: python private_py/series/dizipal/dizipaljson.py
 
@@ -150,6 +153,7 @@ jobs:
           git add dizipal/*.json || echo "No dizipal files"
           git add diziyo/*.json || echo "No diziyo files"
           git add dizipall/diziler.json || echo "No diziyo files"
+          git add hdfilmcehennemi/yenibolumler.json || echo "No hdfilmcehennemi files"
           git commit -m "All JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
@@ -425,6 +429,21 @@ jobs:
           git config user.email "actions@github.com"
           git add . || echo "No files"
           git commit -m "HDFilmsite Diziler çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+        # 15. HDFilmCehennemi Diziler 
+      - name: Run hdfilmcehennemi.py
+        run: python private_py/series/hdfilmcehennemi/yenibolumler.py
+
+      - name: Sync HDFilmCehennemi Diziler output to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/hdfilmcehennemi.git private_hdfilmcehennemi
+          rsync -a hdfilmcehennemi/ private_hdfilmcehennemi/
+          cd private_hdfilmcehennemi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "HDfilmcehennemi Diziler çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
           
   part4:
