@@ -1,5 +1,50 @@
 {
   "/dizi/pluribus/": {
     "group": "PLURIBUS"
+  },
+  "/dizi/tomb-raider-the-legend-of-lara-croft/": {
+    "group": "TOMB RAIDER THE LEGEND OF LARA CROFT"
+  },
+  "/dizi/man-vs-baby/": {
+    "group": "MAN VS BABY"
+  },
+  "/dizi/the-town-yerli/": {
+    "group": "KASABA"
+  },
+  "/dizi/down-cemetery-road/": {
+    "group": "DOWN CEMETERY ROAD"
+  },
+  "/dizi/the-mighty-nein/": {
+    "group": "THE MIGHTY NEIN"
+  },
+  "/dizi/disney-twisted-wonderland-the-animation/": {
+    "group": "DISNEY TWISTED-WONDERLAND: THE ANIMATION"
+  },
+  "/dizi/percy-jackson-and-the-olympians-42/": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS"
+  },
+  "/dizi/the-accident/": {
+    "group": "ACCIDENTE"
+  },
+  "/dizi/all-s-fair/": {
+    "group": "ALL'S FAIR"
+  },
+  "/dizi/palm-royale-43/": {
+    "group": "PALM ROYALE"
+  },
+  "/dizi/blood-coast/": {
+    "group": "KAN SAHILI"
+  },
+  "/dizi/ncis-origins-4/": {
+    "group": "NCIS ORIGINS"
+  },
+  "/dizi/it-welcome-to-derry/": {
+    "group": "IT WELCOME TO DERRY"
+  },
+  "/dizi/robin-hood/": {
+    "group": "ROBIN HOOD"
+  },
+  "/dizi/watson-1/": {
+    "group": "WATSON"
   }
 }

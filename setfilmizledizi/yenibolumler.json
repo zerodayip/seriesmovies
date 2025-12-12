@@ -1,4 +1,10 @@
 {
+  "/dizi/jasmine/": {
+    "group": "JASMINE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/it-welcome-to-derry/": {
     "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
@@ -39,12 +45,6 @@
     "group": "DOWN CEMETERY ROAD",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/loot/": {
-    "group": "LOOT",
-    "last_season": 3,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
