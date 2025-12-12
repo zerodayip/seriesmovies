@@ -2146,7 +2146,12 @@
     {"name": "THE BAD GUYS BREAKING IN", "year": "2025"},
     {"name": "THE PRICE OF CONFESSION", "year": "2025"},
     {"name": "PRO BONO", "year": "2025"},
-    {"name": "KAN SAHILI", "year": "2023"}
+    {"name": "KAN SAHILI", "year": "2023"},
+    {"name": "MAN VS BABY", "year": "2025"},
+    {"name": "TOMB RAIDER THE LEGEND OF LARA CROFT", "year": "2024"},
+    {"name": "SIMON COWELL THE NEXT ACT", "year": "2025"},
+    {"name": "GOLGELER SEHRI", "year": "2025"},
+    {"name": "SIMON COWELL SIMDI SAHNE KIMIN", "year": "2025"}
   ],
   "PARAMOUNT+ DİZİLERİ": [
     {"name": "DEXTER: RESURRECTION", "year": "2025"},
@@ -3280,7 +3285,8 @@
     {"name": "TREMEMBE", "year": "2025"},
     {"name": "TREMEMBÉ", "year": "2025"},
     {"name": "KOTULUK", "year": "2025"},
-    {"name": "ASKLA", "year": "2021"}
+    {"name": "ASKLA", "year": "2021"},
+    {"name": "BREATHE INTO THE SHADOWS", "year": "2020"}
   ],
   "TV TOKYO DİZİLERİ": [
     {"name": "BLEACH: THOUSAND-YEAR BLOOD WAR", "year": "2022"},
@@ -3522,7 +3528,9 @@
     {"name": "DISNEY TWISTED-WONDERLAND: THE ANIMATION", "year": "2025"},
     {"name": "CATS EYE", "year": "2025"},
     {"name": "ALL'S FAIR", "year": "2025"},
-    {"name": "ALL’S FAIR", "year": "2025"}
+    {"name": "ALL’S FAIR", "year": "2025"},
+    {"name": "DISNEY TWISTEDWONDERLAND THE ANIMATION", "year": "2025"},
+    {"name": "TAYLOR SWIFT THE ERAS TOUR THE END OF AN ERA", "year": "2025"}
   ],
   "FRANCE 2 DİZİLERİ": [
     {"name": "APOCALYPSE: THE SECOND WORLD WAR", "year": "2009"},
@@ -3989,7 +3997,8 @@
     {"name": "911", "year": "2018"},
     {"name": "TERAPIA ALTERNATIVA", "year": "2021"},
     {"name": "MARVELS MODOK", "year": "2021"},
-    {"name": "ALIENOID RETURN TO THE FUTURE", "year": "2024"}
+    {"name": "ALIENOID RETURN TO THE FUTURE", "year": "2024"},
+    {"name": "BOBS BURGERS", "year": "2011"}
   ],
   "MAX DİZİLERİ": [
     {"name": "ADVENTURE TIME: FIONNA & CAKE", "year": "2023"},
@@ -6576,5 +6585,22 @@
   ],
   "VIAPLAY AMAZON CHANNEL DİZİLERİ": [
     {"name": "VERONIKA", "year": "2024"}
+  ],
+  "APPLE TV+ DİZİLERİ": [
+
+  ],
+  "EXTRA DİZİLERİ": [
+    {"name": "BEKAR BABA", "year": "1931"},
+    {"name": "WILD CHERRY", "year": "2025"},
+    {"name": "COOPER FRY", "year": "2025"}
+  ],
+  "AMAZON VIDEO DİZİLERİ": [
+    {"name": "JASMINE", "year": "2015"}
+  ],
+  "BRITBOX APPLE TV CHANNEL DİZİLERİ": [
+    {"name": "SHETLAND", "year": "2013"}
+  ],
+  "SUN NXT DİZİLERİ": [
+    {"name": "KASABA", "year": "2016"}
   ]
 }
