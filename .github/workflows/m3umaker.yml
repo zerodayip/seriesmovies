@@ -64,9 +64,8 @@ jobs:
   #    - name: Run diziyiizleyenibolumler.py
   #      run: python private_py/series/diziyiizle/yenibolumler.py
 
-      # 2. EPG üretimi sadece gece 05:00 TR çalışacak ---
-      - name: Run epg.py (sadece Türkiye saati 05:00 ve Manuel Çalıştırmada)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2')) || github.event_name == 'workflow_dispatch' }}
+      # 2. EPG üretimi
+      - name: Run epg.py
         run: python private_py/channels/epg/gunlukepg.py
 
       # 2. DMAX sadece gece 04:00 TR çalışacak ---
