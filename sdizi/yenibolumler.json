@@ -1,4 +1,10 @@
 {
+  "/diziler/playing-gracie-darling.html": {
+    "group": "PLAYING GRACIE DARLING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/tomb-raider-the-legend-of-lara-croft.html": {
     "group": "TOMB RAIDER: THE LEGEND OF LARA CROFT",
     "last_season": 1,
@@ -73,12 +79,6 @@
   },
   "/diziler/robin-hood-2025.html": {
     "group": "ROBIN HOOD 2025",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/it-welcome-to-derry.html": {
-    "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
