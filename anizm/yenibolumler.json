@@ -1,4 +1,34 @@
 {
+  "/sanda": {
+    "group": "SANDA",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/watari-kun-no-xx-ga-houkai-sunzen": {
+    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
+    "last_season": 1,
+    "last_episode": 23.0,
+    "start_episode": 1
+  },
+  "/tougen-anki": {
+    "group": "TOUGEN ANKI",
+    "last_season": 1,
+    "last_episode": 21.0,
+    "start_episode": 1
+  },
+  "/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu--zamaa-shimasu": {
+    "group": "SHINJITEITA NAKAMA-TACHI NI DUNGEON OKUCHI DE KOROSAREKAKETA GA GIFT \"MUGEN GACHA\" DE LEVEL 9999 NO NAKAMA-TACHI WO TE NI IRETE MOTO PARTY MEMBER TO SEKAI NI FUKUSHUU & \"ZAMAA!\" SHIMASU!",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/ganglion": {
+    "group": "GANGLION",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
   "/futari-solo-camp": {
     "group": "FUTARI SOLO CAMP",
     "last_season": 1,
@@ -75,36 +105,6 @@
     "group": "WANDANCE",
     "last_season": 1,
     "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/alma-chan-wa-kazoku-ni-naritai": {
-    "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/heika-watashi-wo-wasurete-kudasai": {
-    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/ganglion": {
-    "group": "GANGLION",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
-    "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/shuumatsu-no-walkure-iii": {
-    "group": "SHUUMATSU NO WALKÜRE III",
-    "last_season": 1,
-    "last_episode": 15.0,
     "start_episode": 1
   }
 }

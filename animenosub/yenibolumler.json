@@ -1,4 +1,40 @@
 {
+  "/anime/sanda/": {
+    "group": "SANDA",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/anime/may-i-ask-for-one-final-thing/": {
+    "group": "MAY I ASK FOR ONE FINAL THING?",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anime/watari-kuns-is-about-to-collapse/": {
+    "group": "WATARI-KUN’S ****** IS ABOUT TO COLLAPSE",
+    "last_season": 1,
+    "last_episode": 23,
+    "start_episode": 1
+  },
+  "/anime/shabake/": {
+    "group": "SHABAKE",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/anime/tougen-anki/": {
+    "group": "TOUGEN ANKI",
+    "last_season": 1,
+    "last_episode": 21,
+    "start_episode": 1
+  },
+  "/anime/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge/": {
+    "group": "MY GIFT LVL 9999 UNLIMITED GACHA: BACKSTABBED IN A BACKWATER DUNGEON, I’M OUT FOR REVENGE!",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/anime/chainsaw-man-the-movie-reze-arc/": {
     "group": "CHAINSAW MAN THE MOVIE: REZE ARC",
     "last_season": 1,
@@ -79,42 +115,6 @@
   },
   "/anime/wandance/": {
     "group": "WANDANCE",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/the-mighty-nein/": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/hero-without-a-class-who-even-needs-skills/": {
-    "group": "HERO WITHOUT A CLASS: WHO EVEN NEEDS SKILLS?!",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/record-of-ragnarok-iii/": {
-    "group": "RECORD OF RAGNAROK III",
-    "last_season": 1,
-    "last_episode": 15,
-    "start_episode": 1
-  },
-  "/anime/disney-twisted-wonderland-the-animation/": {
-    "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/anime/yano-kuns-ordinary-days/": {
-    "group": "YANO-KUN’S ORDINARY DAYS",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/anime/ninja-vs-gokudo/": {
-    "group": "NINJA VS. GOKUDO",
     "last_season": 1,
     "last_episode": 10,
     "start_episode": 1

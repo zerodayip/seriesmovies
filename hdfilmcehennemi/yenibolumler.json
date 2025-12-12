@@ -2,6 +2,9 @@
   "/dizi/pluribus/": {
     "group": "PLURIBUS"
   },
+  "/dizi/power-book-iv-force-86/": {
+    "group": "POWER BOOK IV: FORCE"
+  },
   "/dizi/the-seduction/": {
     "group": "THE SEDUCTION - MERTEUIL"
   },
@@ -13,6 +16,12 @@
   },
   "/dizi/home-for-christmas-izle/": {
     "group": "HOME FOR CHRISTMAS"
+  },
+  "/dizi/matlock-1/": {
+    "group": "MATLOCK"
+  },
+  "/dizi/georgie-mandy-s-first-marriage/": {
+    "group": "GEORGIE & MANDYS FIRST MARRIAGE"
   },
   "/dizi/tomb-raider-the-legend-of-lara-croft/": {
     "group": "TOMB RAIDER THE LEGEND OF LARA CROFT"
@@ -37,14 +46,5 @@
   },
   "/dizi/the-accident/": {
     "group": "ACCIDENTE"
-  },
-  "/dizi/all-s-fair/": {
-    "group": "ALL'S FAIR"
-  },
-  "/dizi/palm-royale-43/": {
-    "group": "PALM ROYALE"
-  },
-  "/dizi/blood-coast/": {
-    "group": "KAN SAHILI"
   }
 }

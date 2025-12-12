@@ -1,34 +1,4 @@
 {
-  "/dizi-izle/the-mighty-nein": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/down-cemetery-road": {
-    "group": "DOWN CEMETERY ROAD",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/had-i-not-seen-the-sun": {
-    "group": "HAD I NOT SEEN THE SUN",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi-izle/tomb-raider-the-legend-of-lara-croft": {
-    "group": "TOMB RAIDER: THE LEGEND OF LARA CROFT",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/disney-twisted-wonderland-the-animation": {
-    "group": "DISNEY TWISTED-WONDERLAND: THE ANIMATION",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
   "/dizi-izle/record-of-ragnarok": {
     "group": "RECORD OF RAGNAROK",
     "last_season": 3,
@@ -41,10 +11,40 @@
     "last_episode": 4,
     "start_episode": 1
   },
+  "/dizi-izle/the-mighty-nein": {
+    "group": "THE MIGHTY NEIN",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/had-i-not-seen-the-sun": {
+    "group": "HAD I NOT SEEN THE SUN",
+    "last_season": 2,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/dizi-izle/the-accident": {
     "group": "THE ACCIDENT",
     "last_season": 2,
     "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/disney-twisted-wonderland-the-animation": {
+    "group": "DISNEY TWISTED-WONDERLAND: THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/dynamite-kiss": {
+    "group": "DYNAMITE KISS",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/down-cemetery-road": {
+    "group": "DOWN CEMETERY ROAD",
+    "last_season": 1,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/simon-cowell-the-next-act": {
@@ -53,10 +53,10 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi-izle/dynamite-kiss": {
-    "group": "DYNAMITE KISS",
-    "last_season": 1,
-    "last_episode": 10,
+  "/dizi-izle/tomb-raider-the-legend-of-lara-croft": {
+    "group": "TOMB RAIDER: THE LEGEND OF LARA CROFT",
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   }
 }
