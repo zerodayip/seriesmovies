@@ -1,4 +1,10 @@
 {
+  "/boku-no-hero-academia-final-season": {
+    "group": "BOKU NO HERO ACADEMIA: FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
   "/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka": {
     "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "CHICHI WA EIYUU, HAHA WA SEIREI, MUSUME NO WATASHI WA TENSEISHA.",
     "last_season": 1,
     "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/lets-play-quest-darake-no-my-life": {
-    "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
-    "last_season": 1,
-    "last_episode": 11.0,
     "start_episode": 1
   }
 }
