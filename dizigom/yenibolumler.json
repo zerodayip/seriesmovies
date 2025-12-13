@@ -8,19 +8,19 @@
   "/dizi-izle/taylor-swift-the-eras-tour-the-end-of-an-era": {
     "group": "TAYLOR SWIFT | THE ERAS TOUR | THE END OF AN ERA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi-izle/home-for-christmas": {
     "group": "HOME FOR CHRISTMAS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/the-seduction": {
     "group": "THE SEDUCTION (MERTEUIL)",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/tomb-raider-the-legend-of-lara-croft": {
@@ -32,7 +32,7 @@
   "/dizi-izle/city-of-shadows": {
     "group": "CITY OF SHADOWS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/dynamite-kiss": {
@@ -50,7 +50,7 @@
   "/dizi-izle/pluribus": {
     "group": "PLURIBUS",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   }
 }
