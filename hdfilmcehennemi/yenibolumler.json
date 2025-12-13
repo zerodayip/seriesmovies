@@ -5,8 +5,17 @@
   "/dizi/power-book-iv-force-86/": {
     "group": "POWER BOOK IV: FORCE"
   },
+  "/dizi/boston-blue/": {
+    "group": "BOSTON BLUE"
+  },
   "/dizi/the-seduction/": {
     "group": "THE SEDUCTION - MERTEUIL"
+  },
+  "/dizi/sheriff-country-3/": {
+    "group": "SHERIFF COUNTRY"
+  },
+  "/dizi/fire-country-7/": {
+    "group": "FIRE COUNTRY"
   },
   "/dizi/jasmine/": {
     "group": "JASMINE"
@@ -37,14 +46,5 @@
   },
   "/dizi/the-mighty-nein/": {
     "group": "THE MIGHTY NEIN"
-  },
-  "/dizi/disney-twisted-wonderland-the-animation/": {
-    "group": "DISNEY TWISTED-WONDERLAND: THE ANIMATION"
-  },
-  "/dizi/percy-jackson-and-the-olympians-42/": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS"
-  },
-  "/dizi/the-accident/": {
-    "group": "ACCIDENTE"
   }
 }
