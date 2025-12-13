@@ -6595,7 +6595,12 @@
     {"name": "BEKAR BABA", "year": "1931"},
     {"name": "WILD CHERRY", "year": "2025"},
     {"name": "COOPER FRY", "year": "2025"},
-    {"name": "INANILMAZ DIJITAL SIRK", "year": "2023"}
+    {"name": "INANILMAZ DIJITAL SIRK", "year": "2023"},
+    {"name": "SHIFTING GEARS", "year": "None"},
+    {"name": "SHETLAND", "year": "None"},
+    {"name": "NCIS SYDNEY", "year": "None"},
+    {"name": "NCIS ORIGINS", "year": "None"},
+    {"name": "COOPER FRY", "year": "None"}
   ],
   "AMAZON VIDEO DİZİLERİ": [
     {"name": "JASMINE", "year": "2015"}
