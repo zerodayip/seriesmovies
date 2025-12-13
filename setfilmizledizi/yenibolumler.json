@@ -1,4 +1,10 @@
 {
+  "/dizi/merteuil/": {
+    "group": "MERTEUIL",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/dizi/jasmine/": {
     "group": "JASMINE",
     "last_season": 1,
@@ -39,12 +45,6 @@
     "group": "ACCIDENTE",
     "last_season": 2,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/down-cemetery-road/": {
-    "group": "DOWN CEMETERY ROAD",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }

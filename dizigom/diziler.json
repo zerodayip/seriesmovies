@@ -928,5 +928,23 @@
     "last_season": 2,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/dizi-izle/taylor-swift-the-eras-tour-the-end-of-an-era": {
+    "group": "TAYLOR SWIFT | THE ERAS TOUR | THE END OF AN ERA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/home-for-christmas": {
+    "group": "HOME FOR CHRISTMAS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/city-of-shadows": {
+    "group": "CITY OF SHADOWS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
