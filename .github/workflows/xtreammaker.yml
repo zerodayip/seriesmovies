@@ -236,14 +236,14 @@ jobs:
         if: success()
         run: |
           MESSAGE="✅ Xtream dosyası başarıyla güncellendi! 🚀📺✨"
-          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
-            -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
             -d text="$MESSAGE"
 
       - name: Telegram Failure Notification
         if: failure()
         run: |
-          MESSAGE="❌ Xtream workflow HATA verdi! ⚠️🔥"
-          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
-            -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+          MESSAGE="❌ Xtream workflow hata verdi! ⚠️🔥"
+          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
             -d text="$MESSAGE"
