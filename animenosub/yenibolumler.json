@@ -1,4 +1,10 @@
 {
+  "/anime/kingdom-season-6/": {
+    "group": "KINGDOM: SEASON 6",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/anime/my-friends-little-sister-has-it-in-for-me/": {
     "group": "MY FRIEND’S LITTLE SISTER HAS IT IN FOR ME!",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "MY GIFT LVL 9999 UNLIMITED GACHA: BACKSTABBED IN A BACKWATER DUNGEON, I’M OUT FOR REVENGE!",
     "last_season": 1,
     "last_episode": 11,
-    "start_episode": 1
-  },
-  "/anime/chainsaw-man-the-movie-reze-arc/": {
-    "group": "CHAINSAW MAN THE MOVIE: REZE ARC",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }
