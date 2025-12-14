@@ -1,12 +1,42 @@
 {
+  "/dizi-izle/home-for-christmas": {
+    "group": "HOME FOR CHRISTMAS",
+    "last_season": 3,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/dynamite-kiss": {
+    "group": "DYNAMITE KISS",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/surely-tomorrow": {
+    "group": "SURELY TOMORROW",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/dizi-izle/man-vs-baby": {
     "group": "MAN VS BABY",
     "last_season": 1,
     "last_episode": 4,
     "start_episode": 1
   },
-  "/dizi-izle/surely-tomorrow": {
-    "group": "SURELY TOMORROW",
+  "/dizi-izle/city-of-shadows": {
+    "group": "CITY OF SHADOWS",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/had-i-not-seen-the-sun": {
+    "group": "HAD I NOT SEEN THE SUN",
+    "last_season": 2,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/pro-bono": {
+    "group": "PRO BONO",
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
@@ -23,46 +53,16 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/city-of-shadows": {
-    "group": "CITY OF SHADOWS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-seduction": {
-    "group": "THE SEDUCTION (MERTEUIL)",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/had-i-not-seen-the-sun": {
-    "group": "HAD I NOT SEEN THE SUN",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi-izle/dynamite-kiss": {
-    "group": "DYNAMITE KISS",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi-izle/home-for-christmas": {
-    "group": "HOME FOR CHRISTMAS",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1
-  },
   "/dizi-izle/taylor-swift-the-eras-tour-the-end-of-an-era": {
     "group": "TAYLOR SWIFT | THE ERAS TOUR | THE END OF AN ERA",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
   },
-  "/dizi-izle/pro-bono": {
-    "group": "PRO BONO",
+  "/dizi-izle/the-seduction": {
+    "group": "THE SEDUCTION (MERTEUIL)",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 5,
     "start_episode": 1
   }
 }

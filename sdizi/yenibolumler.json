@@ -1,4 +1,10 @@
 {
+  "/diziler/the-lowdown.html": {
+    "group": "THE LOWDOWN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/to-your-eternity.html": {
     "group": "TO YOUR ETERNITY",
     "last_season": 3,
@@ -75,12 +81,6 @@
     "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 2,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/palm-royale.html": {
-    "group": "PALM ROYALE",
-    "last_season": 2,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
