@@ -794,7 +794,7 @@
   "/si-vis-the-sound-of-heroes": {
     "group": "SI-VIS: THE SOUND OF HEROES",
     "last_season": 1,
-    "last_episode": 10.0,
+    "last_episode": 11.0,
     "start_episode": 1
   },
   "/nageki-no-bourei-wa-intai-shitai-part-2": {
@@ -830,7 +830,7 @@
   "/digimon-beatbreak": {
     "group": "DIGIMON BEATBREAK",
     "last_season": 1,
-    "last_episode": 10.0,
+    "last_episode": 11.0,
     "start_episode": 1
   },
   "/chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha": {
@@ -854,7 +854,7 @@
   "/shuumatsu-touring": {
     "group": "SHUUMATSU TOURING",
     "last_season": 1,
-    "last_episode": 10.0,
+    "last_episode": 11.0,
     "start_episode": 1
   },
   "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
@@ -896,7 +896,7 @@
   "/ao-no-orchestra-season-2": {
     "group": "AO NO ORCHESTRA SEASON 2",
     "last_season": 1,
-    "last_episode": 9.0,
+    "last_episode": 10.0,
     "start_episode": 1
   },
   "/shabake": {
@@ -1214,7 +1214,7 @@
   "/xian-wang-de-richang-shenghuo-5": {
     "group": "XIAN WANG DE RICHANG SHENGHUO 5",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2.0,
     "start_episode": 1
   }
 }
