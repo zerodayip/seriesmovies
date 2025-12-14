@@ -229,3 +229,19 @@ jobs:
         run: |
           echo "🚀 Clearing Xtream cache..."
           curl -X GET "$XTREAM_CACHE_URL" || echo "⚠️ Cache clear request failed"
+
+      - name: Telegram Success Notification
+        if: success()
+        run: |
+          MESSAGE="✅ Xtream dosyası başarıyla güncellendi! 🚀📺✨"
+          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+            -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+            -d text="$MESSAGE"
+
+      - name: Telegram Failure Notification
+        if: failure()
+        run: |
+          MESSAGE="❌ Xtream workflow HATA verdi! ⚠️🔥"
+          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+            -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+            -d text="$MESSAGE"
