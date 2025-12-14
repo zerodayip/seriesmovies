@@ -544,3 +544,11 @@ jobs:
           git add setfilmizlefilmler.m3u dizigomfilmler.m3u hdfilmsite.m3u dizipalyerlifilm.m3u
           git commit -m "Filmlerin çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
+
+      - name: Telegram Success Notification
+        if: success()
+        run: |
+          MESSAGE="✅ Xtream dosyası başarıyla güncellendi! 🚀📺✨"
+          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
+            -d text="$MESSAGE"
