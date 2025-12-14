@@ -10,6 +10,8 @@ on:
 env:
   XTREAM_CACHE_URL: ${{ secrets.XTREAM_CACHE_URL }}
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
 jobs:
   push-m3u-to-root:
