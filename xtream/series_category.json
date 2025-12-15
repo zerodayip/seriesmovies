@@ -3812,7 +3812,8 @@
     {"name": "LOVE DEATH", "year": "2023"},
     {"name": "PRETTY LITTLE LIARS ORIGINAL SIN", "year": "2022"},
     {"name": "ANGELA DINIZ MURDERED AND CONVICTED", "year": "2025"},
-    {"name": "THE SEDUCTION MERTEUIL", "year": "2025"}
+    {"name": "THE SEDUCTION MERTEUIL", "year": "2025"},
+    {"name": "ITS FLORIDA MAN", "year": "2024"}
   ],
   "TELETAMA DİZİLERİ": [
     {"name": "STEINS;GATE", "year": "2011"},
@@ -6612,5 +6613,8 @@
   ],
   "SUN NXT DİZİLERİ": [
     {"name": "KASABA", "year": "2016"}
+  ],
+  "RAKUTEN VIKI DİZİLERİ": [
+    {"name": "A HUNDRED MEMORIES", "year": "2025"}
   ]
 }
