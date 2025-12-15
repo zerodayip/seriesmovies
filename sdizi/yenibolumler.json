@@ -1,4 +1,16 @@
 {
+  "/diziler/home-for-christmas.html": {
+    "group": "HOME FOR CHRISTMAS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/nice-to-not-meet-you.html": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/diziler/robin-hood-2025.html": {
     "group": "ROBIN HOOD 2025",
     "last_season": 1,
@@ -67,18 +79,6 @@
   },
   "/diziler/man-vs-baby.html": {
     "group": "MAN VS BABY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/playing-gracie-darling.html": {
-    "group": "PLAYING GRACIE DARLING",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/tomb-raider-the-legend-of-lara-croft.html": {
-    "group": "TOMB RAIDER: THE LEGEND OF LARA CROFT",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
