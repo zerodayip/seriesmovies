@@ -1,4 +1,16 @@
 {
+  "/diziler/robin-hood-2025.html": {
+    "group": "ROBIN HOOD 2025",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/diziler/it-welcome-to-derry.html": {
+    "group": "IT: WELCOME TO DERRY",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "last_season": 1,
@@ -69,18 +81,6 @@
     "group": "TOMB RAIDER: THE LEGEND OF LARA CROFT",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/adventure-time-fionna-and-cake.html": {
-    "group": "ADVENTURE TIME: FIONNA & CAKE",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/south-park.html": {
-    "group": "SOUTH PARK",
-    "last_season": 28,
-    "last_episode": 4,
     "start_episode": 1
   }
 }

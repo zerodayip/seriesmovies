@@ -1,4 +1,52 @@
 {
+  "/dizi/it-welcome-to-derry": {
+    "group": "IT: WELCOME TO DERRY",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/robin-hood": {
+    "group": "ROBIN HOOD",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/gyeongdoreul-gidarimyeo-asya": {
+    "group": "ELBET YARIN",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi/pro-bono-asya": {
+    "group": "PRO BONO",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi/ki-seu-neun-gwaen-hi-hae-seo-asya": {
+    "group": "KI-SEU-NEUN GWAEN-HI HAE-SEO",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/it-s-florida-man": {
+    "group": "IT'S FLORIDA, MAN.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/chosen-home-asya": {
+    "group": "CHOSEN HOME",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi/angela-diniz-assassinada-e-condenada": {
+    "group": "ÂNGELA DINIZ: ASSASSINADA E CONDENADA",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/dizi/spartacus-house-of-ashur": {
     "group": "SPARTACUS: HOUSE OF ASHUR",
     "last_season": 1,
@@ -77,28 +125,10 @@
     "last_episode": 3,
     "start_episode": 1
   },
-  "/dizi/simon-cowell-the-next-act": {
-    "group": "SIMON COWELL: ŞIMDI SAHNE KIMIN?",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
   "/dizi/the-golden-egg-asya": {
     "group": "THE GOLDEN EGG",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/vgly": {
-    "group": "VGLY",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/just-a-bit-espers-asya": {
-    "group": "JUST A BIT ESPERS",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/breathe-into-the-shadows": {
@@ -107,46 +137,16 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi/wild-cherry": {
-    "group": "WILD CHERRY",
+  "/dizi/simon-cowell-the-next-act": {
+    "group": "SIMON COWELL: ŞIMDI SAHNE KIMIN?",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi/south-park": {
-    "group": "SOUTH PARK",
-    "last_season": 28,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/shifting-gears": {
-    "group": "SHIFTING GEARS",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/shetland": {
-    "group": "SHETLAND",
-    "last_season": 10,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/ncis-sydney": {
-    "group": "NCIS: SYDNEY",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/ncis-origins": {
-    "group": "NCIS: ORIGINS",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/cooper-fry": {
-    "group": "COOPER & FRY",
+  "/dizi/just-a-bit-espers-asya": {
+    "group": "JUST A BIT ESPERS",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 8,
     "start_episode": 1
   }
 }

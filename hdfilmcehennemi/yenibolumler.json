@@ -2,6 +2,9 @@
   "/dizi/robin-hood/": {
     "group": "ROBIN HOOD"
   },
+  "/dizi/it-welcome-to-derry/": {
+    "group": "IT WELCOME TO DERRY"
+  },
   "/dizi/pluribus/": {
     "group": "PLURIBUS"
   },
@@ -43,8 +46,5 @@
   },
   "/dizi/the-town-yerli/": {
     "group": "KASABA"
-  },
-  "/dizi/down-cemetery-road/": {
-    "group": "DOWN CEMETERY ROAD"
   }
 }
