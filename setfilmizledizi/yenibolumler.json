@@ -1,4 +1,16 @@
 {
+  "/dizi/it-welcome-to-derry/": {
+    "group": "IT: WELCOME TO DERRY",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/nice-to-not-meet-you/": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/dizi/surely-tomorrow/": {
     "group": "SURELY TOMORROW",
     "last_season": 1,
@@ -15,18 +27,6 @@
     "group": "MERTEUIL",
     "last_season": 1,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/jasmine/": {
-    "group": "JASMINE",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/it-welcome-to-derry/": {
-    "group": "IT: WELCOME TO DERRY",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   }
 }
