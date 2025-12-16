@@ -212,6 +212,17 @@ jobs:
           git add xtream/series_category.json || echo "No files"
           git commit -m "Series Category JSON güncellendi [auto]" || echo "No changes"
           git push origin main
+
+      - name: Send Telegram message
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          MESSAGE="M3u Workflow Part 1 - 2 bitti. Part 3 başlıyor!"
+          
+          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
+            -d text="$MESSAGE"
           
   part3:
     name: Step 5-to-13 Çalıştır
