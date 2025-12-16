@@ -23,9 +23,6 @@
   "/dizi/fire-country-7/": {
     "group": "FIRE COUNTRY"
   },
-  "/dizi/jasmine/": {
-    "group": "JASMINE"
-  },
   "/dizi/city-of-shadows/": {
     "group": "GÖLGELER ŞEHRI"
   },
@@ -46,5 +43,8 @@
   },
   "/dizi/the-town-yerli/": {
     "group": "KASABA"
+  },
+  "/dizi/down-cemetery-road/": {
+    "group": "DOWN CEMETERY ROAD"
   }
 }
