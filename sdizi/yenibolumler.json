@@ -1,4 +1,16 @@
 {
+  "/diziler/the-hunting-wives.html": {
+    "group": "THE HUNTING WIVES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/defiance.html": {
+    "group": "DEFIANCE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/home-for-christmas.html": {
     "group": "HOME FOR CHRISTMAS",
     "last_season": 1,
@@ -69,18 +81,6 @@
     "group": "MY HERO ACADEMIA",
     "last_season": 8,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/pluribus.html": {
-    "group": "PLURIBUS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/man-vs-baby.html": {
-    "group": "MAN VS BABY",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }
