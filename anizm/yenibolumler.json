@@ -1,4 +1,22 @@
 {
+  "/yano-kun-no-futsuu-no-hibi": {
+    "group": "YANO-KUN NO FUTSUU NO HIBI",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/ninja-to-gokudou": {
+    "group": "NINJA TO GOKUDOU",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/chitose-kun-wa-ramune-bin-no-naka": {
+    "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
   "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
     "group": "ANSATSUSHA DE ARU ORE NO STATUS GA YUUSHA YORI MO AKIRAKA NI TSUYOI NO DA GA",
     "last_season": 1,
@@ -87,18 +105,6 @@
     "group": "DIGIMON BEATBREAK",
     "last_season": 1,
     "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/shuumatsu-touring": {
-    "group": "SHUUMATSU TOURING",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/xian-wang-de-richang-shenghuo-5": {
-    "group": "XIAN WANG DE RICHANG SHENGHUO 5",
-    "last_season": 1,
-    "last_episode": 2.0,
     "start_episode": 1
   }
 }
