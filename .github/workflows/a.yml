@@ -13,7 +13,6 @@ jobs:
   part2:
     name: Step 4 Çalıştır
     runs-on: ubuntu-latest
-    needs: part1
 
     steps:
       - name: Checkout public repo (main)
