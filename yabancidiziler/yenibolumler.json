@@ -13,8 +13,8 @@
   },
   "/dizi/el-ninero": {
     "group": "El Ninero",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/palm-royale": {
@@ -44,7 +44,7 @@
   "/dizi/what-sharp039-s-in-the-box": {
     "group": "What's in the Box?",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
