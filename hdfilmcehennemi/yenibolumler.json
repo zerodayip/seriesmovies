@@ -2,6 +2,9 @@
   "/dizi/robin-hood/": {
     "group": "ROBIN HOOD"
   },
+  "/dizi/fbi-izle/": {
+    "group": "FBI"
+  },
   "/dizi/it-welcome-to-derry/": {
     "group": "IT WELCOME TO DERRY"
   },
@@ -43,8 +46,5 @@
   },
   "/dizi/tomb-raider-the-legend-of-lara-croft/": {
     "group": "TOMB RAIDER THE LEGEND OF LARA CROFT"
-  },
-  "/dizi/man-vs-baby/": {
-    "group": "MAN VS BABY"
   }
 }
