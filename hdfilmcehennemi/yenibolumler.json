@@ -1,4 +1,16 @@
 {
+  "/dizi/the-mighty-nein/": {
+    "group": "THE MIGHTY NEIN"
+  },
+  "/dizi/disney-twisted-wonderland-the-animation/": {
+    "group": "DISNEY TWISTED-WONDERLAND: THE ANIMATION"
+  },
+  "/dizi/percy-jackson-and-the-olympians-42/": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS"
+  },
+  "/dizi/palm-royale-43/": {
+    "group": "PALM ROYALE"
+  },
   "/dizi/robin-hood/": {
     "group": "ROBIN HOOD"
   },
@@ -34,17 +46,5 @@
   },
   "/dizi/home-for-christmas-izle/": {
     "group": "HOME FOR CHRISTMAS"
-  },
-  "/dizi/the-amazing-digital-circus-1/": {
-    "group": "THE AMAZING DIGITAL CIRCUS"
-  },
-  "/dizi/matlock-1/": {
-    "group": "MATLOCK"
-  },
-  "/dizi/georgie-mandy-s-first-marriage/": {
-    "group": "GEORGIE & MANDYS FIRST MARRIAGE"
-  },
-  "/dizi/tomb-raider-the-legend-of-lara-croft/": {
-    "group": "TOMB RAIDER THE LEGEND OF LARA CROFT"
   }
 }

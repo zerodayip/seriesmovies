@@ -34,5 +34,17 @@
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
+  },
+  "/dizi/el-ninero": {
+    "group": "El Ninero",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/what-sharp039-s-in-the-box": {
+    "group": "What's in the Box?",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

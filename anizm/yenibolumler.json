@@ -1,4 +1,22 @@
 {
+  "/lets-play-quest-darake-no-my-life": {
+    "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/tensei-akujo-no-kuro-rekishi": {
+    "group": "TENSEI AKUJO NO KURO REKISHI",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/wandance": {
+    "group": "WANDANCE",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
   "/enter-the-garden": {
     "group": "ENTER THE GARDEN",
     "last_season": 1,
@@ -79,24 +97,6 @@
   },
   "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
     "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/kingdom-6th-season": {
-    "group": "KINGDOM 6TH SEASON",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/one-piece": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1153.0,
-    "start_episode": 1130
-  },
-  "/sawaranaide-kotesashi-kun": {
-    "group": "SAWARANAIDE KOTESASHI-KUN",
     "last_season": 1,
     "last_episode": 11.0,
     "start_episode": 1

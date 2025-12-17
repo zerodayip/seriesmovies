@@ -1,4 +1,10 @@
 {
+  "/diziler/tracker.html": {
+    "group": "TRACKER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/the-mighty-nein.html": {
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
@@ -69,18 +75,6 @@
     "group": "ONE PUNCH MAN",
     "last_season": 3,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/gachiakuta.html": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 22,
-    "start_episode": 1
-  },
-  "/diziler/the-lowdown.html": {
-    "group": "THE LOWDOWN",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }
