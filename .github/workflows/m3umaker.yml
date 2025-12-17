@@ -157,6 +157,9 @@ jobs:
       - name: Run DiziYo JSON Script
         run: python private_py/series/diziyo/diziyojson.py
 
+      - name: Run YabancıDiziler JSON Script
+        run: python private_py/series/yabancidiziler/dizilerjson.py
+
       - name: Commit and Push All JSONs to public repo
         run: |
           git config user.name "GitHub Actions"
@@ -168,6 +171,7 @@ jobs:
           git add setfilmizledizi/*.json || echo "No setfilmizledizi files"
           git add dizipal/*.json || echo "No dizipal files"
           git add diziyo/*.json || echo "No diziyo files"
+          git add yabancidiziler/*.json || echo "No yabancidiziler files"
           git add dizipall/diziler.json || echo "No diziyo files"
           git add hdfilmcehennemi/yenibolumler.json || echo "No hdfilmcehennemi files"
           git commit -m "All JSON güncellendi [auto]" || echo "No changes"
@@ -259,6 +263,7 @@ jobs:
           python private_py/series/dizipall/yenibolumler.py &
           python private_py/series/hdfilmsite/yenibolumler.py &
           python private_py/series/hdfilmcehennemi/yenibolumler.py &
+          python private_py/series/yabancidiziler/yenibolumler.py &
           wait  # Tüm scriptlerin bitmesini bekle
 
       - name: Commit and Push All JSONs
@@ -356,6 +361,17 @@ jobs:
           git config user.email "actions@github.com"
           git add . || echo "No files"
           git commit -m "HDFilmCehennemi çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
+
+          # YabancıDiziler
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/yabancidiziler.git private_yabancidiziler
+          rsync -a yabancidiziler/ private_yabancidiziler/
+          cd private_yabancidiziler
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "YabanciDiziler çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
           cd ..
           
