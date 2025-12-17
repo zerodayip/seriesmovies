@@ -2,8 +2,6 @@ name: M3U Workflow
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 2 * * *'  # Türkiye saati 05:00 (UTC+3)
 
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
