@@ -225,12 +225,9 @@ jobs:
             -d text="$MESSAGE"
           
   part3:
-    name: Step 5-to-13 Çalıştır
+    name: Step 5-to-15 Çalıştır (Paralel)
     runs-on: ubuntu-latest
     needs: part2
-    env:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
     steps:
       - name: Checkout public repo (main)
         uses: actions/checkout@v4
@@ -244,8 +241,7 @@ jobs:
           python-version: '3.10'
 
       - name: Clone Private Py Repo
-        run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -253,43 +249,29 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv
           playwright install
 
-      # 5. Sezonlukdizi M3U Maker
-#      - name: Run SezonlukDizi yenibolumler.py
-#        run: python private_py/series/sezonlukdizi/yenibolumler.py
+      - name: Run All Scripts in Parallel
+        run: |
+          python private_py/series/dizigom/yenibolumler.py &
+          python private_py/anime/anizm/yenibolumler.py &
+          python private_py/anime/ingilizce/animenosub/yenibolumler.py &
+          python private_py/series/setfilmizledizi/yenibolumler.py &
+          python private_py/series/diziyo/yenibolumler.py &
+          python private_py/series/dizipall/yenibolumler.py &
+          python private_py/series/hdfilmsite/yenibolumler.py &
+          python private_py/series/hdfilmcehennemi/yenibolumler.py &
+          wait  # Tüm scriptlerin bitmesini bekle
 
-#      - name: Commit and Push SezonlukDizi JSON to public repo
-#        run: |
-#          git config user.name "GitHub Actions"
-#          git config user.email "actions@github.com"
-#          git add sdizi/*.json || echo "No JSON files"
-#          git commit -m "SezonlukDizi JSON güncellendi [auto]" || echo "No changes"
-#          git push origin main
-
-#      - name: Sync SezonlukDizi output to private repo
-#        run: |
-#          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/sezonlukdizi.git private_sezonlukdizi
-#          rsync -a sdizi/ private_sezonlukdizi/
-#          cd private_sezonlukdizi
-#          git config user.name "GitHub Actions"
-#          git config user.email "actions@github.com"
-#          git add . || echo "No files"
-#          git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
-#          git push origin main
-
-      # 6. Dizigom M3U Maker
-      - name: Run Dizigom yenibolumler.py
-        run: python private_py/series/dizigom/yenibolumler.py
-
-      - name: Commit and Push Dizigom JSON to public repo
+      - name: Commit and Push All JSONs
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add dizigom/*.json || echo "No JSON files"
-          git commit -m "Dizigom JSON güncellendi [auto]" || echo "No changes"
+          git add **/*.json || echo "No JSON files"
+          git commit -m "Tüm JSON dosyaları güncellendi [auto]" || echo "No changes"
           git push origin main
 
-      - name: Sync Dizigom output to private repo
+      - name: Sync Outputs to Private Repos
         run: |
+          # Dizigom
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizigom.git private_dizigom
           rsync -a dizigom/ private_dizigom/
           cd private_dizigom
@@ -298,21 +280,9 @@ jobs:
           git add . || echo "No files"
           git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
+          cd ..
 
-      # 7. Anizm M3U Maker
-      - name: Run Anizm yenibolumler.py
-        run: python private_py/anime/anizm/yenibolumler.py
-
-      - name: Commit and Push Anizm JSON to public repo
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add anizm/*.json || echo "No JSON files"
-          git commit -m "Anizm JSON güncellendi [auto]" || echo "No changes"
-          git push origin main
-
-      - name: Sync Anizm output to private repo
-        run: |
+          # Anizm
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/anizm.git private_anizm
           rsync -a anizm/ private_anizm/
           cd private_anizm
@@ -321,40 +291,9 @@ jobs:
           git add . || echo "No files"
           git commit -m "Anizm çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
+          cd ..
 
-     #  8. RecTV Script (PASİF)
-#      - name: Run RecTV Script
-#        run: python private_py/rectv/rectv.py
-      
-#      - name: Sync RecTV outputs to private m3u8file repo
-#        run: |
-#         git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file
-#         mkdir -p private_m3u8file/rec
-#         cp r/reccanli.m3u private_m3u8file/rec/ || echo "reccanli.m3u kopyalanamadı"
-#         cp r/recfilm.m3u private_m3u8file/rec/ || echo "recfilm.m3u kopyalanamadı"
-#         cp r/recdizi.m3u private_m3u8file/rec/ || echo "recdizi.m3u kopyalanamadı"
-#         cp r/recanime.m3u private_m3u8file/rec/ || echo "recanime.m3u kopyalanamadı"
-#         cd private_m3u8file
-#         git config user.name "GitHub Actions"
-#         git config user.email "actions@github.com"
-#         git add rec/*.m3u
-#         git commit -m "RecTV çıktıları güncellendi [auto]" || echo "No changes"
-#         git push origin main
-
-      # 9. AnimeNoSub M3U Maker
-      - name: Run AnimeNoSub yenibolumler.py
-        run: python private_py/anime/ingilizce/animenosub/yenibolumler.py
-
-      - name: Commit and Push AnimeNoSub JSON to public repo
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add animenosub/*.json || echo "No JSON files"
-          git commit -m "AnimeNoSub JSON güncellendi [auto]" || echo "No changes"
-          git push origin main
-
-      - name: Sync AnimeNoSub output to private repo
-        run: |
+          # AnimeNoSub
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/animenosub.git private_animenosub
           rsync -a animenosub/ private_animenosub/
           cd private_animenosub
@@ -363,22 +302,9 @@ jobs:
           git add . || echo "No files"
           git commit -m "AnimeNoSub çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
+          cd ..
 
-      # 10. SetFilmİzleDizi M3U Maker
-      - name: Run SetFilmİzleDizi yenibolumler.py
-        run: python private_py/series/setfilmizledizi/yenibolumler.py
-
-      - name: Commit and Push SetFilmİzleDizi JSON to public repo
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add setfilmizledizi/*.json || echo "No JSON files"
-          git commit -m "SetFilmİzleDizi JSON güncellendi [auto]" || echo "No changes"
-          git push origin main
-
-      # Direkt kendi gizli reposuna push yapmaktadır.
-      - name: Sync setfilmizledizi output to private repo
-        run: |
+          # SetFilmİzleDizi
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/setfilmizledizi.git private_setfilmizledizi
           rsync -a setfilmizledizi/ private_setfilmizledizi/
           cd private_setfilmizledizi
@@ -387,37 +313,9 @@ jobs:
           git add . || echo "No files"
           git commit -m "SetFilmİzleDizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
+          cd ..
 
-      # 11. Dizipal M3U Maker ( cloudflare koruması mevcut )
-      #- name: Run Dizipal yenibolumler.py
-       # run: python private_py/series/dizipal/yenibolumler.py
-
-      # Direkt m3ufile gizli reposuna push yapmaktadır.
-#      - name: Sync Dizipal outputs to private m3u8file repo
-#        run: |
-#          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8filex
-#          cp dizipalyerlidizi.m3u privaate_m3u8filex/dizipalyerlidizi.m3u || echo "dizipalyerlidizi.m3u bulunamadı"
-#          cd privaate_m3u8filex
-#          git config user.name "GitHub Actions"
-#          git config user.email "actions@github.com"
-#          git add dizipalyerlidizi.m3u
-#          git commit -m "Dizipal linklerin çıktısı güncellendi [auto]" || echo "No changes"
-#          git push origin main
-
-      # 12. Diziyo M3U Maker
-      - name: Run DiziYo yenibolumler.py
-        run: python private_py/series/diziyo/yenibolumler.py
-
-      - name: Commit and Push DiziYo JSON to public repo
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add diziyo/*.json || echo "No JSON files"
-          git commit -m "DiziYo JSON güncellendi [auto]" || echo "No changes"
-          git push origin main
-
-      - name: Sync Diziyo output to private repo
-        run: |
+          # DiziYo
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/diziyo.git private_diziyo
           rsync -a diziyo/ private_diziyo/
           cd private_diziyo
@@ -426,52 +324,40 @@ jobs:
           git add . || echo "No files"
           git commit -m "DiziYo çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
+          cd ..
 
-      # 13. Dizipall Yerli Dizi sadece gece 05:00 TR çalışacak ---
-      - name: Run dizipallyerlidizi.py (sadece Türkiye saati 05:00 ve Manuel Çalıştırmada)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2')) || github.event_name == 'workflow_dispatch' }}
-        run: python private_py/series/dizipall/yenibolumler.py
-
-      - name: Sync DiziPall Yerli Dizi output to private repo
-        run: |
+          # DiziPall
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizipall.git private_dizipall
           rsync -a dizipall/ private_dizipall/
           cd private_dizipall
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add . || echo "No files"
-          git commit -m "Dizipall Yerli Dizi çıktı güncellendi [auto]" || echo "No changes"
+          git commit -m "DiziPall çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
+          cd ..
 
-      # 14. HDFilmsite Diziler 
-      - name: Run hdfilmsitedizi.py
-        run: python private_py/series/hdfilmsite/yenibolumler.py
-
-      - name: Sync HDFilmsite Diziler output to private repo
-        run: |
+          # HDFilmsite
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/hdfilmsitedizi.git private_hdfilmsitedizi
           rsync -a yereldiziler/ private_hdfilmsitedizi/
           cd private_hdfilmsitedizi
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add . || echo "No files"
-          git commit -m "HDFilmsite Diziler çıktı güncellendi [auto]" || echo "No changes"
+          git commit -m "HDFilmsite çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
+          cd ..
 
-        # 15. HDFilmCehennemi Diziler 
-      - name: Run hdfilmcehennemi.py
-        run: python private_py/series/hdfilmcehennemi/yenibolumler.py
-
-      - name: Sync HDFilmCehennemi Diziler output to private repo
-        run: |
+          # HDFilmCehennemi
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/hdfilmcehennemi.git private_hdfilmcehennemi
           rsync -a hdfilmcehennemi/ private_hdfilmcehennemi/
           cd private_hdfilmcehennemi
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add . || echo "No files"
-          git commit -m "HDfilmcehennemi Diziler çıktı güncellendi [auto]" || echo "No changes"
+          git commit -m "HDFilmCehennemi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
+          cd ..
           
   part4:
     name: Step 15 Çalıştır
