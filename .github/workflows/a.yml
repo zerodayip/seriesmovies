@@ -85,6 +85,7 @@ jobs:
           python private_py/series/setfilmizledizi/yenibolumler.py &
           python private_py/series/hdfilmsite/yenibolumler.py &
           python private_py/series/hdfilmcehennemi/yenibolumler.py &
+          python private_py/anime/ingilizce/animenosub/yenibolumler.py &
           # Anime
           wait  # Tüm scriptlerin bitmesini bekle
 
