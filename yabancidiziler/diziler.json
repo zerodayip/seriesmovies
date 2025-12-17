@@ -2,37 +2,37 @@
   "/dizi/disney-twisted-wonderland-the-animation": {
     "group": "Disney Twisted-Wonderland: The Animation",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/dreaming-whilst-black": {
     "group": "Dreaming Whilst Black",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/palm-royale": {
     "group": "Palm Royale",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/percy-jackson-and-the-olympians": {
     "group": "Percy Jackson and the Olympians",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/st-denis-medical": {
     "group": "St. Denis Medical",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/the-mighty-nein": {
     "group": "The Mighty Nein",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   }
 }
