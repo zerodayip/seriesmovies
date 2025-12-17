@@ -1,4 +1,16 @@
 {
+  "/enter-the-garden": {
+    "group": "ENTER THE GARDEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/nukitashi-the-animation-specials": {
+    "group": "NUKITASHI THE ANIMATION SPECIALS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/heika-watashi-wo-wasurete-kudasai": {
     "group": "HEIKA WATASHI WO WASURETE KUDASAI",
     "last_season": 1,
@@ -87,24 +99,6 @@
     "group": "SAWARANAIDE KOTESASHI-KUN",
     "last_season": 1,
     "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/gachiakuta": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 23.0,
-    "start_episode": 1
-  },
-  "/one-punch-man-3": {
-    "group": "ONE PUNCH MAN 3",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/chanto-suenai-kyuuketsuki-chan": {
-    "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
-    "last_season": 1,
-    "last_episode": 10.0,
     "start_episode": 1
   }
 }

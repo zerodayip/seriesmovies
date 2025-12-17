@@ -1216,5 +1216,17 @@
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
+  },
+  "/enter-the-garden": {
+    "group": "ENTER THE GARDEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/nukitashi-the-animation-specials": {
+    "group": "NUKITASHI THE ANIMATION SPECIALS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
