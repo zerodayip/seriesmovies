@@ -1,0 +1,192 @@
+name: M3U Workflow
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'  # Türkiye saati 05:00 (UTC+3)
+
+env:
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+jobs:
+
+  part2:
+    name: Step 4 Çalıştır
+    runs-on: ubuntu-latest
+    needs: part1
+
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: Run series_kategori_guncelleme Script
+        run: python private_py/series/category.py
+
+      - name: Commit and Push Ana JSONs to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtream/series_category.json || echo "No files"
+          git commit -m "Series Category JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Send Telegram message
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          MESSAGE="M3u Workflow Part 1 - 2 bitti. Part 3 başlıyor!"
+          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
+            -d text="$MESSAGE"
+
+  part3:
+    name: Step 5-to-15 Çalıştır (Paralel)
+    runs-on: ubuntu-latest
+    needs: part2
+
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv
+          playwright install
+
+      - name: Run All Scripts in Parallel
+        run: |
+          # Series
+          python private_py/series/setfilmizledizi/yenibolumler.py &
+          python private_py/series/hdfilmsite/yenibolumler.py &
+          python private_py/series/hdfilmcehennemi/yenibolumler.py &
+          # Anime
+          wait  # Tüm scriptlerin bitmesini bekle
+
+      - name: Commit and Push All JSONs
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add **/*.json || echo "No JSON files"
+          git commit -m "Tüm JSON dosyaları güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          # Dizigom
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizigom.git private_dizigom
+          rsync -a dizigom/ private_dizigom/
+          cd private_dizigom
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
+
+          # Anizm
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/anizm.git private_anizm
+          rsync -a anizm/ private_anizm/
+          cd private_anizm
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Anizm çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
+
+          # AnimeNoSub
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/animenosub.git private_animenosub
+          rsync -a animenosub/ private_animenosub/
+          cd private_animenosub
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "AnimeNoSub çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
+
+          # SetFilmİzleDizi
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/setfilmizledizi.git private_setfilmizledizi
+          rsync -a setfilmizledizi/ private_setfilmizledizi/
+          cd private_setfilmizledizi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "SetFilmİzleDizi çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
+
+          # DiziYo
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/diziyo.git private_diziyo
+          rsync -a diziyo/ private_diziyo/
+          cd private_diziyo
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "DiziYo çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
+
+          # DiziPall (sadece schedule veya manuel)
+          if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" || "${GITHUB_EVENT_NAME}" == "schedule" ]]; then
+            git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizipall.git private_dizipall
+            rsync -a dizipall/ private_dizipall/
+            cd private_dizipall
+            git config user.name "GitHub Actions"
+            git config user.email "actions@github.com"
+            git add . || echo "No files"
+            git commit -m "DiziPall çıktı güncellendi [auto]" || echo "No changes"
+            git push origin main
+            cd ..
+          fi
+
+          # HDFilmsite
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/hdfilmsitedizi.git private_hdfilmsitedizi
+          rsync -a yereldiziler/ private_hdfilmsitedizi/
+          cd private_hdfilmsitedizi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "HDFilmsite çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
+
+          # HDFilmCehennemi
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/hdfilmcehennemi.git private_hdfilmcehennemi
+          rsync -a hdfilmcehennemi/ private_hdfilmcehennemi/
+          cd private_hdfilmcehennemi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "HDFilmCehennemi çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
