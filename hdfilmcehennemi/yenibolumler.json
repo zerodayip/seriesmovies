@@ -32,6 +32,9 @@
   "/dizi/home-for-christmas-izle/": {
     "group": "HOME FOR CHRISTMAS"
   },
+  "/dizi/the-amazing-digital-circus-1/": {
+    "group": "THE AMAZING DIGITAL CIRCUS"
+  },
   "/dizi/matlock-1/": {
     "group": "MATLOCK"
   },
@@ -43,8 +46,5 @@
   },
   "/dizi/man-vs-baby/": {
     "group": "MAN VS BABY"
-  },
-  "/dizi/the-town-yerli/": {
-    "group": "KASABA"
   }
 }

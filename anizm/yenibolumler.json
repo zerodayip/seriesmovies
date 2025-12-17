@@ -1,4 +1,10 @@
 {
+  "/cengjing-you-yongshi": {
+    "group": "CENGJING YOU YONGSHI",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
   "/yano-kun-no-futsuu-no-hibi": {
     "group": "YANO-KUN NO FUTSUU NO HIBI",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/si-vis-the-sound-of-heroes": {
     "group": "SI-VIS: THE SOUND OF HEROES",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/digimon-beatbreak": {
-    "group": "DIGIMON BEATBREAK",
     "last_season": 1,
     "last_episode": 11.0,
     "start_episode": 1
