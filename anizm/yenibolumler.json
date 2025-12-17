@@ -1,4 +1,10 @@
 {
+  "/heika-watashi-wo-wasurete-kudasai": {
+    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
   "/disney-twisted-wonderland-the-animation-episode-of-heartslabyul": {
     "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION: EPISODE OF HEARTSLABYUL",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/chanto-suenai-kyuuketsuki-chan": {
     "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/ao-no-orchestra-season-2": {
-    "group": "AO NO ORCHESTRA SEASON 2",
     "last_season": 1,
     "last_episode": 10.0,
     "start_episode": 1
