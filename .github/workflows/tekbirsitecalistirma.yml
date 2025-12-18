@@ -1,4 +1,4 @@
-name: Run Tek Bir Site
+name: ZZ Deneme Tek Bir Site Çalıştırma
 
 on:
   workflow_dispatch:
