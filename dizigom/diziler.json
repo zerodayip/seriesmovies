@@ -946,5 +946,17 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi-izle/the-manny": {
+    "group": "THE MANNY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/fallout": {
+    "group": "FALLOUT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
