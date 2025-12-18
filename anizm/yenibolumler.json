@@ -1,4 +1,10 @@
 {
+  "/bukiyou-na-senpai": {
+    "group": "BUKIYOU NA SENPAI.",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
   "/kakuriyo-no-yadomeshi-ni": {
     "group": "KAKURIYO NO YADOMESHI NI",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
     "last_season": 1,
     "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/alma-chan-wa-kazoku-ni-naritai": {
-    "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
-    "last_season": 1,
-    "last_episode": 11.0,
     "start_episode": 1
   }
 }
