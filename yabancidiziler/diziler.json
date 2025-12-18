@@ -46,5 +46,11 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/emily-in-paris": {
+    "group": "Emily in Paris",
+    "last_season": 5,
+    "last_episode": 10,
+    "start_episode": 1
   }
 }
