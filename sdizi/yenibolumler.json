@@ -1,4 +1,10 @@
 {
+  "/diziler/adventure-time-fionna-and-cake.html": {
+    "group": "ADVENTURE TIME: FIONNA & CAKE",
+    "last_season": 2,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "/diziler/ghosts.html": {
     "group": "GHOSTS",
     "last_season": 5,
@@ -70,11 +76,5 @@
     "last_season": 1,
     "last_episode": 1152,
     "start_episode": 1130
-  },
-  "/diziler/surely-tomorrow.html": {
-    "group": "SURELY TOMORROW",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
   }
 }

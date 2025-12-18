@@ -1,4 +1,7 @@
 {
+  "/dizi/emily-in-paris-izle-6/": {
+    "group": "EMILY IN PARIS"
+  },
   "/dizi/the-mighty-nein/": {
     "group": "THE MIGHTY NEIN"
   },
@@ -43,8 +46,5 @@
   },
   "/dizi/city-of-shadows/": {
     "group": "GÖLGELER ŞEHRI"
-  },
-  "/dizi/home-for-christmas-izle/": {
-    "group": "HOME FOR CHRISTMAS"
   }
 }

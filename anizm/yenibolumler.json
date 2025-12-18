@@ -1,4 +1,10 @@
 {
+  "/kakuriyo-no-yadomeshi-ni": {
+    "group": "KAKURIYO NO YADOMESHI NI",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
   "/ao-no-orchestra-season-2": {
     "group": "AO NO ORCHESTRA SEASON 2",
     "last_season": 1,
@@ -91,12 +97,6 @@
   },
   "/alma-chan-wa-kazoku-ni-naritai": {
     "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha": {
-    "group": "CHICHI WA EIYUU, HAHA WA SEIREI, MUSUME NO WATASHI WA TENSEISHA.",
     "last_season": 1,
     "last_episode": 11.0,
     "start_episode": 1
