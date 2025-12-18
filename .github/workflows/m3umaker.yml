@@ -378,7 +378,7 @@ jobs:
 
           # SezonlukDİzi
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/sezonlukdizi.git private_sezonlukdizi
-          rsync -a sezonlukdizi/ private_sezonlukdizi/
+          rsync -a sdizi/ private_sezonlukdizi/
           cd private_sezonlukdizi
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
