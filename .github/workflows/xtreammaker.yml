@@ -251,9 +251,9 @@ jobs:
          for i in {1..6}; do
            echo "🔁 Cache clear attempt $i/6"
            curl -X GET "$XTREAM_CACHE_URL" || echo "⚠️ Cache clear request failed"
-           [ "$i" -lt 6 ] && sleep 5
+           sleep 5
          done
-
+         
       - name: Telegram Success Notification
         if: success()
         run: |
