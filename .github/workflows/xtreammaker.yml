@@ -111,16 +111,6 @@ jobs:
       - name: Run Xtream Series M3u Script
         run: python private_py/xtream/series.py
 
-      - name: Commit group_order.json
-        run: |
-          mkdir -p xtream
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git pull --rebase origin main || echo "Pull yapılamadı"
-          git add xtream/group_order.json || echo "group_order.json yok"
-          git diff --cached --quiet || git commit -m "group_order.json güncellendi [auto]"
-          git push origin main
-
       - name: Clone Private m3u8file Repo
         run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file
 
