@@ -264,6 +264,7 @@ jobs:
           python private_py/series/hdfilmsite/yenibolumler.py &
           python private_py/series/hdfilmcehennemi/yenibolumler.py &
           python private_py/series/yabancidiziler/yenibolumler.py &
+          python private_py/series/sezonlukdizi/yenibolumler.py &
           wait  # Tüm scriptlerin bitmesini bekle
 
       - name: Commit and Push All JSONs
@@ -372,6 +373,17 @@ jobs:
           git config user.email "actions@github.com"
           git add . || echo "No files"
           git commit -m "YabanciDiziler çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
+
+          # SezonlukDİzi
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/sezonlukdizi.git private_sezonlukdizi
+          rsync -a sezonlukdizi/ private_sezonlukdizi/
+          cd private_sezonlukdizi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
           cd ..
           
