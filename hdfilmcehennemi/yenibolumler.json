@@ -8,6 +8,12 @@
   "/dizi/the-seduction/": {
     "group": "THE SEDUCTION - MERTEUIL"
   },
+  "/dizi/the-end-of-an-era/": {
+    "group": "THE END OF AN ERA"
+  },
+  "/dizi/born-to-be-wild/": {
+    "group": "BORN TO BE WILD"
+  },
   "/dizi/georgie-mandy-s-first-marriage/": {
     "group": "GEORGIE & MANDYS FIRST MARRIAGE"
   },
@@ -37,8 +43,5 @@
   },
   "/dizi/tracker/": {
     "group": "TRACKER"
-  },
-  "/dizi/boston-blue/": {
-    "group": "BOSTON BLUE"
   }
 }

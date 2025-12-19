@@ -964,5 +964,17 @@
     "last_season": 5,
     "last_episode": 10,
     "start_episode": 1
+  },
+  "/dizi-izle/culinary-class-wars": {
+    "group": "CULINARY CLASS WARS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/badly-in-love": {
+    "group": "BADLY IN LOVE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
