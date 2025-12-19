@@ -961,8 +961,8 @@
   },
   "/dizi-izle/emily-in-paris": {
     "group": "EMILY IN PARIS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 10,
     "start_episode": 1
   }
 }
