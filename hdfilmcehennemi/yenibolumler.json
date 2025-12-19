@@ -1,4 +1,7 @@
 {
+  "/dizi/pluribus/": {
+    "group": "PLURIBUS"
+  },
   "/dizi/emily-in-paris-izle-6/": {
     "group": "EMILY IN PARIS"
   },
@@ -26,9 +29,6 @@
   "/dizi/tracker/": {
     "group": "TRACKER"
   },
-  "/dizi/pluribus/": {
-    "group": "PLURIBUS"
-  },
   "/dizi/power-book-iv-force-86/": {
     "group": "POWER BOOK IV: FORCE"
   },
@@ -43,8 +43,5 @@
   },
   "/dizi/fire-country-7/": {
     "group": "FIRE COUNTRY"
-  },
-  "/dizi/city-of-shadows/": {
-    "group": "GÖLGELER ŞEHRI"
   }
 }
