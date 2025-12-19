@@ -1,4 +1,40 @@
 {
+  "/anime/fire-force-season-3-part-2/": {
+    "group": "FIRE FORCE SEASON 3 PART 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/oshi-no-ko-season-3/": {
+    "group": "OSHI NO KO SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/undead-unluck-winter-arc/": {
+    "group": "UNDEAD UNLUCK: WINTER ARC",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/blue-miburo-season-2/": {
+    "group": "BLUE MIBURO SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/hells-paradise-season-2/": {
+    "group": "HELL’S PARADISE SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/frieren-beyond-journeys-end-season-2/": {
+    "group": "FRIEREN: BEYOND JOURNEY’S END SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/potion-wagami-wo-tasukeru/": {
     "group": "POTION, WAGAMI WO TASUKERU",
     "last_season": 1,
@@ -81,42 +117,6 @@
     "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/anime/yano-kuns-ordinary-days/": {
-    "group": "YANO-KUN’S ORDINARY DAYS",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/ninja-vs-gokudo/": {
-    "group": "NINJA VS. GOKUDO",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/anime/chitose-is-in-the-ramune-bottle/": {
-    "group": "CHITOSE IS IN THE RAMUNE BOTTLE",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/anime/campfire-cooking-in-another-world-with-my-absurd-skill-season-2/": {
-    "group": "CAMPFIRE COOKING IN ANOTHER WORLD WITH MY ABSURD SKILL SEASON 2",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/anime/with-you-our-love-will-make-it-through/": {
-    "group": "WITH YOU, OUR LOVE WILL MAKE IT THROUGH",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
-    "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }

@@ -1,4 +1,10 @@
 {
+  "/diziler/pluribus.html": {
+    "group": "PLURIBUS",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/diziler/emily-in-paris.html": {
     "group": "EMILY IN PARIS",
     "last_season": 5,
@@ -67,12 +73,6 @@
   },
   "/diziler/robin-hood-2025.html": {
     "group": "ROBIN HOOD 2025",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/it-welcome-to-derry.html": {
-    "group": "IT: WELCOME TO DERRY",
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1

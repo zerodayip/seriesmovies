@@ -2,6 +2,15 @@
   "/dizi/pluribus/": {
     "group": "PLURIBUS"
   },
+  "/dizi/power-book-iv-force-86/": {
+    "group": "POWER BOOK IV: FORCE"
+  },
+  "/dizi/the-seduction/": {
+    "group": "THE SEDUCTION - MERTEUIL"
+  },
+  "/dizi/georgie-mandy-s-first-marriage/": {
+    "group": "GEORGIE & MANDYS FIRST MARRIAGE"
+  },
   "/dizi/emily-in-paris-izle-6/": {
     "group": "EMILY IN PARIS"
   },
@@ -29,19 +38,7 @@
   "/dizi/tracker/": {
     "group": "TRACKER"
   },
-  "/dizi/power-book-iv-force-86/": {
-    "group": "POWER BOOK IV: FORCE"
-  },
   "/dizi/boston-blue/": {
     "group": "BOSTON BLUE"
-  },
-  "/dizi/the-seduction/": {
-    "group": "THE SEDUCTION - MERTEUIL"
-  },
-  "/dizi/sheriff-country-3/": {
-    "group": "SHERIFF COUNTRY"
-  },
-  "/dizi/fire-country-7/": {
-    "group": "FIRE COUNTRY"
   }
 }

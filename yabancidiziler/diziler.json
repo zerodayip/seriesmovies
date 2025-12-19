@@ -52,5 +52,35 @@
     "last_season": 5,
     "last_episode": 10,
     "start_episode": 1
+  },
+  "/dizi/born-to-be-wild": {
+    "group": "Born to Be Wild",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/georgie-and-mandy-s-first-marriage": {
+    "group": "Georgie and Mandy’s First Marriage",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/merteuil": {
+    "group": "Merteuil",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/pluribus": {
+    "group": "Pluribus",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/power-book-iv-force": {
+    "group": "Power Book IV: Force",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

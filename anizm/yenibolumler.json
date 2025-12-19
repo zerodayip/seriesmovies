@@ -1,4 +1,10 @@
 {
+  "/cengjing-you-yongshi": {
+    "group": "CENGJING YOU YONGSHI",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
   "/futari-solo-camp": {
     "group": "FUTARI SOLO CAMP",
     "last_season": 1,
@@ -87,18 +93,6 @@
     "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION: EPISODE OF HEARTSLABYUL",
     "last_season": 1,
     "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/cengjing-you-yongshi": {
-    "group": "CENGJING YOU YONGSHI",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/yano-kun-no-futsuu-no-hibi": {
-    "group": "YANO-KUN NO FUTSUU NO HIBI",
-    "last_season": 1,
-    "last_episode": 12.0,
     "start_episode": 1
   }
 }

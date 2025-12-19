@@ -772,5 +772,41 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/fire-force-season-3-part-2/": {
+    "group": "FIRE FORCE SEASON 3 PART 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/oshi-no-ko-season-3/": {
+    "group": "OSHI NO KO SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/undead-unluck-winter-arc/": {
+    "group": "UNDEAD UNLUCK: WINTER ARC",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/blue-miburo-season-2/": {
+    "group": "BLUE MIBURO SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/hells-paradise-season-2/": {
+    "group": "HELL’S PARADISE SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/frieren-beyond-journeys-end-season-2/": {
+    "group": "FRIEREN: BEYOND JOURNEY’S END SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -1,4 +1,10 @@
 {
+  "/dizi/el-ni-ero": {
+    "group": "ADAM GIBI DADI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/emily-in-paris": {
     "group": "EMILY IN PARIS",
     "last_season": 5,
@@ -153,12 +159,6 @@
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/it-welcome-to-derry": {
-    "group": "IT: WELCOME TO DERRY",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
