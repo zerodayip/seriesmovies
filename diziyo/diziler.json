@@ -1198,5 +1198,23 @@
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
+  },
+  "/dizi/emily-in-paris": {
+    "group": "EMILY IN PARIS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/born-to-be-wild": {
+    "group": "BORN TO BE WILD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/hidden-assets": {
+    "group": "HIDDEN ASSETS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
