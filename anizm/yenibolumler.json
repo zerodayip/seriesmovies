@@ -1,4 +1,10 @@
 {
+  "/futari-solo-camp": {
+    "group": "FUTARI SOLO CAMP",
+    "last_season": 1,
+    "last_episode": 23.0,
+    "start_episode": 1
+  },
   "/potion-wagami-wo-tasukeru": {
     "group": "POTION, WAGAMI WO TASUKERU",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "YANO-KUN NO FUTSUU NO HIBI",
     "last_season": 1,
     "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/ninja-to-gokudou": {
-    "group": "NINJA TO GOKUDOU",
-    "last_season": 1,
-    "last_episode": 11.0,
     "start_episode": 1
   }
 }
