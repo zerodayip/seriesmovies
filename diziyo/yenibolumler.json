@@ -1,8 +1,8 @@
 {
   "/dizi/el-ni-ero": {
     "group": "ADAM GIBI DADI",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/emily-in-paris": {
@@ -56,7 +56,7 @@
   "/dizi/happy-s-place": {
     "group": "HAPPY'S PLACE",
     "last_season": 2,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/hidden-assets": {
@@ -128,7 +128,7 @@
   "/dizi/veronika": {
     "group": "VERONIKA",
     "last_season": 2,
-    "last_episode": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/watson": {
