@@ -976,5 +976,11 @@
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
+  },
+  "/dizi-izle/born-to-be-wild": {
+    "group": "BORN TO BE WILD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

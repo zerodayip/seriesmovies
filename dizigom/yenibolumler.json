@@ -1,32 +1,14 @@
 {
-  "/dizi-izle/it-welcome-to-derry": {
-    "group": "IT: WELCOME TO DERRY",
-    "last_season": 1,
+  "/dizi-izle/the-manny": {
+    "group": "THE MANNY",
+    "last_season": 3,
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/culinary-class-wars": {
-    "group": "CULINARY CLASS WARS",
-    "last_season": 2,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi-izle/disney-twisted-wonderland-the-animation": {
-    "group": "DISNEY TWISTED-WONDERLAND: THE ANIMATION",
+  "/dizi-izle/pluribus": {
+    "group": "PLURIBUS",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/palm-royale": {
-    "group": "PALM ROYALE",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/emily-in-paris": {
-    "group": "EMILY IN PARIS",
-    "last_season": 5,
-    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi-izle/badly-in-love": {
@@ -35,34 +17,10 @@
     "last_episode": 7,
     "start_episode": 1
   },
-  "/dizi-izle/i-love-la": {
-    "group": "I LOVE LA",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/are-you-sure": {
-    "group": "ARE YOU SURE?!",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/just-a-bit-espers": {
-    "group": "JUST A BIT ESPERS",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi-izle/percy-jackson-and-the-olympians": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 2,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-mighty-nein": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
-    "last_episode": 7,
+  "/dizi-izle/emily-in-paris": {
+    "group": "EMILY IN PARIS",
+    "last_season": 5,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi-izle/nice-to-not-meet-you": {
@@ -77,10 +35,16 @@
     "last_episode": 12,
     "start_episode": 1
   },
-  "/dizi-izle/the-manny": {
-    "group": "THE MANNY",
-    "last_season": 3,
-    "last_episode": 8,
+  "/dizi-izle/just-a-bit-espers": {
+    "group": "JUST A BIT ESPERS",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/palm-royale": {
+    "group": "PALM ROYALE",
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/the-seduction": {
@@ -89,10 +53,34 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi-izle/pluribus": {
-    "group": "PLURIBUS",
+  "/dizi-izle/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi-izle/are-you-sure": {
+    "group": "ARE YOU SURE?!",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-mighty-nein": {
+    "group": "THE MIGHTY NEIN",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/disney-twisted-wonderland-the-animation": {
+    "group": "DISNEY TWISTED-WONDERLAND: THE ANIMATION",
     "last_season": 1,
     "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/born-to-be-wild": {
+    "group": "BORN TO BE WILD",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/dizi-izle/taylor-swift-the-eras-tour-the-end-of-an-era": {
