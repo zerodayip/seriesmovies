@@ -82,5 +82,29 @@
     "last_season": 3,
     "last_episode": 7,
     "start_episode": 1
+  },
+  "/dizi/it-s-florida-man": {
+    "group": "It’s Florida, Man",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/sanda": {
+    "group": "SANDA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/elsbeth": {
+    "group": "Elsbeth",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-imposter": {
+    "group": "The Imposter",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

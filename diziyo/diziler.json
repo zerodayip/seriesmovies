@@ -1222,5 +1222,11 @@
     "last_season": 3,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/dizi/konusanlar-2025": {
+    "group": "KONUŞANLAR 2025",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
