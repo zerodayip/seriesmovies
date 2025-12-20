@@ -14,7 +14,7 @@
   "/dizi/pluribus/": {
     "group": "PLURIBUS",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/the-vince-staples-show/": {
@@ -8695,8 +8695,8 @@
   },
   "/dizi/9-1-1/": {
     "group": "9-1-1",
-    "last_season": 1,
-    "last_episode": 1,
+    "last_season": 3,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/dizi/forever/": {
