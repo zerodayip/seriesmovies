@@ -1,4 +1,10 @@
 {
+  "/diziler/spongebob-squarepants.html": {
+    "group": "SPONGEBOB SQUAREPANTS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/pluribus.html": {
     "group": "PLURIBUS",
     "last_season": 1,
@@ -68,12 +74,6 @@
   "/diziler/home-for-christmas.html": {
     "group": "HOME FOR CHRISTMAS",
     "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/robin-hood-2025.html": {
-    "group": "ROBIN HOOD 2025",
-    "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
   }
