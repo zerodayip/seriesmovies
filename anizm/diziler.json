@@ -1228,5 +1228,11 @@
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
+  },
+  "/ao-no-miburo-serizawa-ansatsu-hen": {
+    "group": "AO NO MIBURO: SERIZAWA ANSATSU-HEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

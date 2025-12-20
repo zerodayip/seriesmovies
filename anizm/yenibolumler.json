@@ -1,4 +1,40 @@
 {
+  "/kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun": {
+    "group": "KAO NI DENAI KASHIWADA-SAN TO KAO NI DERU OOTA-KUN",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/ranma--2024-2nd-season": {
+    "group": "RANMA ½ (2024) 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/gnosia": {
+    "group": "GNOSIA",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/ao-no-miburo-serizawa-ansatsu-hen": {
+    "group": "AO NO MIBURO: SERIZAWA ANSATSU-HEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu": {
+    "group": "MIKATA GA YOWASUGITE HOJO MAHOU NI TESSHITEITA KYUUTEI MAHOUSHI, TSUIHOU SARETE SAIKYOU WO MEZASHIMASU",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/kekkon-yubiwa-monogatari-ii": {
+    "group": "KEKKON YUBIWA MONOGATARI II",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
   "/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka": {
     "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
     "last_season": 1,
@@ -69,42 +105,6 @@
     "group": "TOWA NO YUUGURE",
     "last_season": 1,
     "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/bukiyou-na-senpai": {
-    "group": "BUKIYOU NA SENPAI.",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/kakuriyo-no-yadomeshi-ni": {
-    "group": "KAKURIYO NO YADOMESHI NI",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/ao-no-orchestra-season-2": {
-    "group": "AO NO ORCHESTRA SEASON 2",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/lets-play-quest-darake-no-my-life": {
-    "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/tensei-akujo-no-kuro-rekishi": {
-    "group": "TENSEI AKUJO NO KURO REKISHI",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/wandance": {
-    "group": "WANDANCE",
-    "last_season": 1,
-    "last_episode": 11.0,
     "start_episode": 1
   }
 }
