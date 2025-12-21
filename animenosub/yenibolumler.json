@@ -1,4 +1,10 @@
 {
+  "/anime/kingdom-season-6/": {
+    "group": "KINGDOM: SEASON 6",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/anime/my-friends-little-sister-has-it-in-for-me/": {
     "group": "MY FRIEND’S LITTLE SISTER HAS IT IN FOR ME!",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/oshi-no-ko-season-3/": {
     "group": "OSHI NO KO SEASON 3",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/undead-unluck-winter-arc/": {
-    "group": "UNDEAD UNLUCK: WINTER ARC",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1

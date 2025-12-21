@@ -1,4 +1,10 @@
 {
+  "/spy-x-family-season-3": {
+    "group": "SPY X FAMILY SEASON 3",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
   "/kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun": {
     "group": "KAO NI DENAI KASHIWADA-SAN TO KAO NI DERU OOTA-KUN",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/watashi-wo-tabetai-hitodenashi": {
     "group": "WATASHI WO TABETAI, HITODENASHI",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/towa-no-yuugure": {
-    "group": "TOWA NO YUUGURE",
     "last_season": 1,
     "last_episode": 12.0,
     "start_episode": 1

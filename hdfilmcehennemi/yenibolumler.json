@@ -5,8 +5,17 @@
   "/dizi/power-book-iv-force-86/": {
     "group": "POWER BOOK IV: FORCE"
   },
+  "/dizi/boston-blue/": {
+    "group": "BOSTON BLUE"
+  },
   "/dizi/the-seduction/": {
     "group": "THE SEDUCTION - MERTEUIL"
+  },
+  "/dizi/sheriff-country-3/": {
+    "group": "SHERIFF COUNTRY"
+  },
+  "/dizi/fire-country-7/": {
+    "group": "FIRE COUNTRY"
   },
   "/dizi/the-end-of-an-era/": {
     "group": "THE END OF AN ERA"
@@ -37,11 +46,5 @@
   },
   "/dizi/fbi-izle/": {
     "group": "FBI"
-  },
-  "/dizi/it-welcome-to-derry/": {
-    "group": "IT WELCOME TO DERRY"
-  },
-  "/dizi/tracker/": {
-    "group": "TRACKER"
   }
 }
