@@ -2,25 +2,25 @@
   "/dizi/pro-bono": {
     "group": "pro bono",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/ranma-1-2": {
     "group": "Ranma 1/2",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/dizi/robin-hood": {
     "group": "Robin Hood",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/surely-tomorrow": {
     "group": "Surely Tomorrow",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/boston-blue": {
