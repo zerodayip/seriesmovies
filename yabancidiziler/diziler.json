@@ -142,5 +142,23 @@
     "last_season": 1,
     "last_episode": 5,
     "start_episode": 1
+  },
+  "/dizi/pro-bono": {
+    "group": "pro bono",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/ranma-1-2": {
+    "group": "Ranma 1/2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/robin-hood": {
+    "group": "Robin Hood",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

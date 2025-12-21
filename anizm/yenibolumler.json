@@ -1,4 +1,58 @@
 {
+  "/one-piece": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1153.0,
+    "start_episode": 1130
+  },
+  "/chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha": {
+    "group": "CHICHI WA EIYUU, HAHA WA SEIREI, MUSUME NO WATASHI WA TENSEISHA.",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/sawaranaide-kotesashi-kun": {
+    "group": "SAWARANAIDE KOTESASHI-KUN",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/one-punch-man-3": {
+    "group": "ONE PUNCH MAN 3",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/gachiakuta": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 23.0,
+    "start_episode": 1
+  },
+  "/black-clover-2nd-season": {
+    "group": "BLACK CLOVER 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/chanto-suenai-kyuuketsuki-chan": {
+    "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/shuumatsu-touring": {
+    "group": "SHUUMATSU TOURING",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/digimon-beatbreak": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
   "/mofa-gongzhu-de-xiao-fannao": {
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
@@ -45,60 +99,6 @@
     "group": "RANMA ½ (2024) 2ND SEASON",
     "last_season": 1,
     "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/gnosia": {
-    "group": "GNOSIA",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/ao-no-miburo-serizawa-ansatsu-hen": {
-    "group": "AO NO MIBURO: SERIZAWA ANSATSU-HEN",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu": {
-    "group": "MIKATA GA YOWASUGITE HOJO MAHOU NI TESSHITEITA KYUUTEI MAHOUSHI, TSUIHOU SARETE SAIKYOU WO MEZASHIMASU",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/kekkon-yubiwa-monogatari-ii": {
-    "group": "KEKKON YUBIWA MONOGATARI II",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka": {
-    "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
-    "last_season": 1,
-    "last_episode": 13.0,
-    "start_episode": 1
-  },
-  "/sanda": {
-    "group": "SANDA",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/ganglion": {
-    "group": "GANGLION",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/watari-kun-no-xx-ga-houkai-sunzen": {
-    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
-    "last_season": 1,
-    "last_episode": 25.0,
-    "start_episode": 1
-  },
-  "/tougen-anki": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 23.0,
     "start_episode": 1
   }
 }

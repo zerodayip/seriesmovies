@@ -1,4 +1,7 @@
 {
+  "/dizi/robin-hood/": {
+    "group": "ROBIN HOOD"
+  },
   "/dizi/pluribus/": {
     "group": "PLURIBUS"
   },
@@ -40,11 +43,5 @@
   },
   "/dizi/palm-royale-43/": {
     "group": "PALM ROYALE"
-  },
-  "/dizi/robin-hood/": {
-    "group": "ROBIN HOOD"
-  },
-  "/dizi/fbi-izle/": {
-    "group": "FBI"
   }
 }
