@@ -1,4 +1,22 @@
 {
+  "/anime/blue-orchestra-season-2/": {
+    "group": "BLUE ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anime/umamusume-cinderella-gray-part-2/": {
+    "group": "UMAMUSUME: CINDERELLA GRAY PART 2",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/anime/digimon-beatbreak/": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/anime/kingdom-season-6/": {
     "group": "KINGDOM: SEASON 6",
     "last_season": 1,
@@ -99,24 +117,6 @@
     "group": "TOUGEN ANKI",
     "last_season": 1,
     "last_episode": 23,
-    "start_episode": 1
-  },
-  "/anime/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge/": {
-    "group": "MY GIFT LVL 9999 UNLIMITED GACHA: BACKSTABBED IN A BACKWATER DUNGEON, I’M OUT FOR REVENGE!",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/fire-force-season-3-part-2/": {
-    "group": "FIRE FORCE SEASON 3 PART 2",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/oshi-no-ko-season-3/": {
-    "group": "OSHI NO KO SEASON 3",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }

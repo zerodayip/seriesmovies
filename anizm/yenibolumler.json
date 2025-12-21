@@ -1,4 +1,34 @@
 {
+  "/mofa-gongzhu-de-xiao-fannao": {
+    "group": "MOFA GONGZHU DE XIAO FANNAO",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/dragon-raja-ii--the-mourners-eyes-": {
+    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
+    "last_season": 1,
+    "last_episode": 22.0,
+    "start_episode": 1
+  },
+  "/xian-wang-de-richang-shenghuo-5": {
+    "group": "XIAN WANG DE RICHANG SHENGHUO 5",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/si-vis-the-sound-of-heroes": {
+    "group": "SI-VIS: THE SOUND OF HEROES",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/fumetsu-no-anata-e-season-3": {
+    "group": "FUMETSU NO ANATA E SEASON 3",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
   "/spy-x-family-season-3": {
     "group": "SPY X FAMILY SEASON 3",
     "last_season": 1,
@@ -69,42 +99,6 @@
     "group": "TOUGEN ANKI",
     "last_season": 1,
     "last_episode": 23.0,
-    "start_episode": 1
-  },
-  "/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu--zamaa-shimasu": {
-    "group": "SHINJITEITA NAKAMA-TACHI NI DUNGEON OKUCHI DE KOROSAREKAKETA GA GIFT \"MUGEN GACHA\" DE LEVEL 9999 NO NAKAMA-TACHI WO TE NI IRETE MOTO PARTY MEMBER TO SEKAI NI FUKUSHUU & \"ZAMAA!\" SHIMASU!",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/cengjing-you-yongshi": {
-    "group": "CENGJING YOU YONGSHI",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/futari-solo-camp": {
-    "group": "FUTARI SOLO CAMP",
-    "last_season": 1,
-    "last_episode": 24.0,
-    "start_episode": 1
-  },
-  "/potion-wagami-wo-tasukeru": {
-    "group": "POTION, WAGAMI WO TASUKERU",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/akujiki-reijou-to-kyouketsu-koushaku": {
-    "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/watashi-wo-tabetai-hitodenashi": {
-    "group": "WATASHI WO TABETAI, HITODENASHI",
-    "last_season": 1,
-    "last_episode": 12.0,
     "start_episode": 1
   }
 }
