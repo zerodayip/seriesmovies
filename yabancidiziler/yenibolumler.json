@@ -22,47 +22,5 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
-  },
-  "/dizi/boston-blue": {
-    "group": "Boston Blue",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi/fire-country": {
-    "group": "Fire Country",
-    "last_season": 4,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi/happy-s-place": {
-    "group": "Happy’s Place",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/it-s-florida-man": {
-    "group": "It’s Florida, Man",
-    "last_season": 2,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi/sanda": {
-    "group": "SANDA",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi/sheriff-country": {
-    "group": "Sheriff Country",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi/stumble": {
-    "group": "Stumble",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
   }
 }
