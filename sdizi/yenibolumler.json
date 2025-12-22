@@ -1,4 +1,16 @@
 {
+  "/diziler/the-wonderfully-weird-world-of-gumball.html": {
+    "group": "THE WONDERFULLY WEIRD WORLD OF GUMBALL",
+    "last_season": 1,
+    "last_episode": 20,
+    "start_episode": 1
+  },
+  "/diziler/robin-hood-2025.html": {
+    "group": "ROBIN HOOD 2025",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/diziler/one-punch-man.html": {
     "group": "ONE PUNCH MAN",
     "last_season": 3,
@@ -69,12 +81,6 @@
     "group": "TRACKER",
     "last_season": 3,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/the-mighty-nein.html": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   }
 }
