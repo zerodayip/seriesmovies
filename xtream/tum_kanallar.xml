@@ -29707,7 +29707,7 @@
     <title>DW NEWS</title>
   </programme>
   <programme start="20251222101500 +0000" stop="20251222103000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>UNSEEN</title>
+    <title>GLOBAL 3000</title>
   </programme>
   <programme start="20251222103000 +0000" stop="20251222110000 +0000" channel="DEUTSCHE WELLE ENGLISH">
     <title>ECO AFRICA</title>
@@ -30954,73 +30954,100 @@
   <programme start="20251222092400 +0000" stop="20251222095100 +0000" channel="TV5 MONDE">
     <title>LE GOÛT DES RENCONTRES NOUVELLE-AQUITAINE</title>
   </programme>
-  <programme start="20251222095100 +0000" stop="20251222104100 +0000" channel="TV5 MONDE">
+  <programme start="20251222095100 +0000" stop="20251222103900 +0000" channel="TV5 MONDE">
     <title>CHAMPIONNATS DE PÂTISSERIE : 9 MOIS AVEC L'ÉQUIPE BELGE</title>
   </programme>
-  <programme start="20251222104100 +0000" stop="20251222105700 +0000" channel="TV5 MONDE">
+  <programme start="20251222103900 +0000" stop="20251222105300 +0000" channel="TV5 MONDE">
     <title>ITINÉRAIRES PAYSANS</title>
   </programme>
-  <programme start="20251222105700 +0000" stop="20251222112100 +0000" channel="TV5 MONDE">
+  <programme start="20251222105300 +0000" stop="20251222110000 +0000" channel="TV5 MONDE">
+    <title>TENDANCE XXI</title>
+  </programme>
+  <programme start="20251222110000 +0000" stop="20251222112300 +0000" channel="TV5 MONDE">
     <title>VIES DE CHIENS: LE GRAND PROJET DE MATHIEU LAVALLÉE</title>
   </programme>
-  <programme start="20251222112100 +0000" stop="20251222114300 +0000" channel="TV5 MONDE">
+  <programme start="20251222112300 +0000" stop="20251222114600 +0000" channel="TV5 MONDE">
     <title>UN SI GRAND SOLEIL</title>
   </programme>
-  <programme start="20251222114300 +0000" stop="20251222123000 +0000" channel="TV5 MONDE">
+  <programme start="20251222114600 +0000" stop="20251222123000 +0000" channel="TV5 MONDE">
     <title>TOUT LE MONDE VEUT PRENDRE SA PLACE</title>
   </programme>
-  <programme start="20251222123000 +0000" stop="20251222130300 +0000" channel="TV5 MONDE">
+  <programme start="20251222123000 +0000" stop="20251222125900 +0000" channel="TV5 MONDE">
     <title>JT 19H30</title>
   </programme>
-  <programme start="20251222130300 +0000" stop="20251222135900 +0000" channel="TV5 MONDE">
+  <programme start="20251222125900 +0000" stop="20251222135300 +0000" channel="TV5 MONDE">
     <title>LE CODE: A CHARGE</title>
   </programme>
-  <programme start="20251222135900 +0000" stop="20251222150000 +0000" channel="TV5 MONDE">
+  <programme start="20251222135300 +0000" stop="20251222144900 +0000" channel="TV5 MONDE">
     <title>LE CODE: IRRESPONSABLE</title>
   </programme>
-  <programme start="20251222150000 +0000" stop="20251222151500 +0000" channel="TV5 MONDE">
+  <programme start="20251222144900 +0000" stop="20251222145900 +0000" channel="TV5 MONDE">
+    <title>LIGUE 1 MCDONALD'S - PORTRAITS DE JOUEURS: MARIO BALOTELLI</title>
+  </programme>
+  <programme start="20251222145900 +0000" stop="20251222151000 +0000" channel="TV5 MONDE">
     <title>EDMOND ET LUCY: LA CHASSE AUX SURPRISES</title>
   </programme>
-  <programme start="20251222151500 +0000" stop="20251222153000 +0000" channel="TV5 MONDE">
+  <programme start="20251222151000 +0000" stop="20251222152100 +0000" channel="TV5 MONDE">
     <title>L'AFRIK EN CONTE</title>
   </programme>
-  <programme start="20251222153000 +0000" stop="20251222160000 +0000" channel="TV5 MONDE">
+  <programme start="20251222152100 +0000" stop="20251222154400 +0000" channel="TV5 MONDE">
     <title>DRONERS: LA COURSE DU CHEVALIER AQUAE</title>
   </programme>
-  <programme start="20251222160000 +0000" stop="20251222164500 +0000" channel="TV5 MONDE">
+  <programme start="20251222154400 +0000" stop="20251222154700 +0000" channel="TV5 MONDE">
+    <title>LES ÉMOTIONS DE P'TIT CUBE: LA JOIE</title>
+  </programme>
+  <programme start="20251222154700 +0000" stop="20251222155100 +0000" channel="TV5 MONDE">
+    <title>LES ÉMOTIONS DE P'TIT CUBE</title>
+  </programme>
+  <programme start="20251222155100 +0000" stop="20251222155400 +0000" channel="TV5 MONDE">
+    <title>VESTIAIRES: UN GESTE POUR UN AUTRE</title>
+  </programme>
+  <programme start="20251222155400 +0000" stop="20251222155900 +0000" channel="TV5 MONDE">
+    <title>VESTIAIRES</title>
+  </programme>
+  <programme start="20251222155900 +0000" stop="20251222164000 +0000" channel="TV5 MONDE">
     <title>LES CHEFS !</title>
   </programme>
-  <programme start="20251222164500 +0000" stop="20251222170000 +0000" channel="TV5 MONDE">
+  <programme start="20251222164000 +0000" stop="20251222165300 +0000" channel="TV5 MONDE">
     <title>ITINÉRAIRES PAYSANS: HUGO GUINET, PHILIPPE DE SANTIS</title>
   </programme>
-  <programme start="20251222170000 +0000" stop="20251222172700 +0000" channel="TV5 MONDE">
+  <programme start="20251222165300 +0000" stop="20251222170000 +0000" channel="TV5 MONDE">
+    <title>L'ÉCOLOGIE EN ACTION</title>
+  </programme>
+  <programme start="20251222170000 +0000" stop="20251222172600 +0000" channel="TV5 MONDE">
     <title>64' : ACTU</title>
   </programme>
-  <programme start="20251222172700 +0000" stop="20251222173000 +0000" channel="TV5 MONDE">
+  <programme start="20251222172600 +0000" stop="20251222173000 +0000" channel="TV5 MONDE">
     <title>MÉTÉO</title>
   </programme>
-  <programme start="20251222173000 +0000" stop="20251222175300 +0000" channel="TV5 MONDE">
+  <programme start="20251222173000 +0000" stop="20251222175400 +0000" channel="TV5 MONDE">
     <title>64' : DÉBAT</title>
   </programme>
-  <programme start="20251222175300 +0000" stop="20251222180100 +0000" channel="TV5 MONDE">
+  <programme start="20251222175400 +0000" stop="20251222180200 +0000" channel="TV5 MONDE">
     <title>L'INVITÉ</title>
   </programme>
-  <programme start="20251222180100 +0000" stop="20251222182500 +0000" channel="TV5 MONDE">
+  <programme start="20251222180200 +0000" stop="20251222182500 +0000" channel="TV5 MONDE">
     <title>UN SI GRAND SOLEIL</title>
   </programme>
-  <programme start="20251222182500 +0000" stop="20251222190000 +0000" channel="TV5 MONDE">
+  <programme start="20251222182500 +0000" stop="20251222185600 +0000" channel="TV5 MONDE">
     <title>SLAM</title>
   </programme>
-  <programme start="20251222190000 +0000" stop="20251222193000 +0000" channel="TV5 MONDE">
+  <programme start="20251222185600 +0000" stop="20251222190000 +0000" channel="TV5 MONDE">
+    <title>LE MARATHON SANS FIN: LE MUST DU MARATHON</title>
+  </programme>
+  <programme start="20251222190000 +0000" stop="20251222192600 +0000" channel="TV5 MONDE">
     <title>LE JOURNAL DE LA RTS</title>
+  </programme>
+  <programme start="20251222192600 +0000" stop="20251222193000 +0000" channel="TV5 MONDE">
+    <title>FLIPPÉ: LA VISITE</title>
   </programme>
   <programme start="20251222193000 +0000" stop="20251222200000 +0000" channel="TV5 MONDE">
     <title>LE JOURNAL DE FRANCE 2</title>
   </programme>
-  <programme start="20251222200000 +0000" stop="20251222204800 +0000" channel="TV5 MONDE">
+  <programme start="20251222200000 +0000" stop="20251222204900 +0000" channel="TV5 MONDE">
     <title>BOURVIL, LE RIRE ET LA TENDRESSE</title>
   </programme>
-  <programme start="20251222204800 +0000" stop="20251222214000 +0000" channel="TV5 MONDE">
+  <programme start="20251222204900 +0000" stop="20251222214200 +0000" channel="TV5 MONDE">
     <title>BOURVIL, LE RIRE ET LA TENDRESSE</title>
   </programme>
   <programme start="20251221210000 +0000" stop="20251222020000 +0000" channel="4K TR: NUMBER1 TV HD">
@@ -33922,7 +33949,7 @@
     <title>KÜRSÜDEN GÖNÜLLERE</title>
   </programme>
   <programme start="20251222100000 +0000" stop="20251222110000 +0000" channel="KONTV">
-    <title>BELGESEL</title>
+    <title>BELGESEL KUŞAĞI</title>
   </programme>
   <programme start="20251222110000 +0000" stop="20251222123000 +0000" channel="KONTV">
     <title>NELER OLUYOR</title>
@@ -33934,7 +33961,7 @@
     <title>DIZI KUŞAĞI</title>
   </programme>
   <programme start="20251222140000 +0000" stop="20251222150000 +0000" channel="KONTV">
-    <title>İSMAILCE</title>
+    <title>OTOSTART</title>
   </programme>
   <programme start="20251222150000 +0000" stop="20251222163000 +0000" channel="KONTV">
     <title>DÜZLEM</title>
@@ -33942,13 +33969,10 @@
   <programme start="20251222163000 +0000" stop="20251222174000 +0000" channel="KONTV">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20251222174000 +0000" stop="20251222183000 +0000" channel="KONTV">
+  <programme start="20251222174000 +0000" stop="20251222184000 +0000" channel="KONTV">
     <title>SORA SORA YARIŞMA</title>
   </programme>
-  <programme start="20251222183000 +0000" stop="20251222200000 +0000" channel="KONTV">
-    <title>SPOR GÜNDEMI</title>
-  </programme>
-  <programme start="20251222200000 +0000" stop="20251222210000 +0000" channel="KONTV">
+  <programme start="20251222184000 +0000" stop="20251222210000 +0000" channel="KONTV">
     <title>SPOR GÜNDEMI</title>
   </programme>
   <programme start="20251221210000 +0000" stop="20251222050000 +0000" channel="KANAL 23">
