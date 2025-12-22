@@ -808,5 +808,35 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/jack-of-all-trades-party-of-none/": {
+    "group": "JACK-OF-ALL-TRADES, PARTY OF NONE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan/": {
+    "group": "KAGUYA-SAMA WA KOKURASETAI: OTONA E NO KAIDAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her/": {
+    "group": "THERE WAS A CUTE GIRL IN THE HERO’S PARTY SO I TRIED CONFESSING TO HER.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/sentenced-to-be-a-hero/": {
+    "group": "SENTENCED TO BE A HERO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/chained-soldier-season-2-uncensored/": {
+    "group": "CHAINED SOLDIER SEASON 2 (UNCENSORED)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

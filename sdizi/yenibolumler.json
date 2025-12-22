@@ -1,4 +1,10 @@
 {
+  "/diziler/nice-to-not-meet-you.html": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/diziler/the-wonderfully-weird-world-of-gumball.html": {
     "group": "THE WONDERFULLY WEIRD WORLD OF GUMBALL",
     "last_season": 2,
@@ -75,12 +81,6 @@
     "group": "GHOSTS",
     "last_season": 5,
     "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/tracker.html": {
-    "group": "TRACKER",
-    "last_season": 3,
-    "last_episode": 2,
     "start_episode": 1
   }
 }
