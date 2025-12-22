@@ -182,7 +182,7 @@
   "/dizi-izle/nice-to-not-meet-you": {
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/dizi-izle/the-witcher": {
@@ -764,7 +764,7 @@
   "/dizi-izle/the-mighty-nein": {
     "group": "THE MIGHTY NEIN",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/just-a-bit-espers": {
@@ -986,7 +986,7 @@
   "/dizi-izle/idol-i": {
     "group": "IDOL I",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
