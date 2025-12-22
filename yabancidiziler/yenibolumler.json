@@ -1,4 +1,46 @@
 {
+  "/dizi/i-love-la": {
+    "group": "I Love LA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/miss-sophie-same-procedure-as-every-year": {
+    "group": "Miss Sophie – Same Procedure as Every Year",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/sicilia-express": {
+    "group": "Sicilia Express",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-mighty-nein": {
+    "group": "The Mighty Nein",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/the-war-between-the-land-and-the-sea": {
+    "group": "The War Between the Land and the Sea",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/universal-basic-guys": {
+    "group": "Universal Basic Guys",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/one-punch-man": {
+    "group": "One Punch Man",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/pro-bono": {
     "group": "pro bono",
     "last_season": 1,
