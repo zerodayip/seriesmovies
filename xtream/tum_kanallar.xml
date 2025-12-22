@@ -4035,26 +4035,26 @@
   <programme start="20251222153000 +0000" stop="20251222154500 +0000" channel="CNBC-E">
     <title>DÜNYADAN HABERLER</title>
   </programme>
-  <programme start="20251222154500 +0000" stop="20251222155500 +0000" channel="CNBC-E">
-    <title>SESLI EKONOMI</title>
+  <programme start="20251222154500 +0000" stop="20251222160000 +0000" channel="CNBC-E">
+    <title>TECH</title>
   </programme>
-  <programme start="20251222155500 +0000" stop="20251222162500 +0000" channel="CNBC-E">
-    <title>CNBC CONVERSATION</title>
+  <programme start="20251222160000 +0000" stop="20251222162500 +0000" channel="CNBC-E">
+    <title>CNBC SORUYOR</title>
   </programme>
   <programme start="20251222162500 +0000" stop="20251222170000 +0000" channel="CNBC-E">
     <title>ART-E</title>
   </programme>
   <programme start="20251222170000 +0000" stop="20251222173000 +0000" channel="CNBC-E">
-    <title>SPOR SEANSI</title>
+    <title>YAPAY ZEKA VE ÖTESI</title>
   </programme>
   <programme start="20251222173000 +0000" stop="20251222183000 +0000" channel="CNBC-E">
     <title>SABA TÜMER'LE</title>
   </programme>
-  <programme start="20251222183000 +0000" stop="20251222201000 +0000" channel="CNBC-E">
-    <title>YABANCI SINEMA</title>
+  <programme start="20251222183000 +0000" stop="20251222202000 +0000" channel="CNBC-E">
+    <title>LOUIS WAIN'IN RENKLI DÜNYASI</title>
   </programme>
-  <programme start="20251222201000 +0000" stop="20251222210000 +0000" channel="CNBC-E">
-    <title>SERDA ILE MASADAKI SIRLAR</title>
+  <programme start="20251222202000 +0000" stop="20251222213000 +0000" channel="CNBC-E">
+    <title>HAYATIN GUSTOSU</title>
   </programme>
   <programme start="20251221221500 +0000" stop="20251221233000 +0000" channel="4K TR: TEVE2 HD">
     <title>ÇOK GEZENTI</title>
@@ -5820,8 +5820,8 @@
   <programme start="20251222193000 +0000" stop="20251222201000 +0000" channel="GZT TV">
     <title>FUAT DIRI</title>
   </programme>
-  <programme start="20251222201000 +0000" stop="20251223205900 +0000" channel="GZT TV">
-    <title>KUZEYIN TIRCISI MURAT</title>
+  <programme start="20251222201000 +0000" stop="20251222210000 +0000" channel="GZT TV">
+    <title>GZT TV</title>
   </programme>
   <programme start="20251221210000 +0000" stop="20251221221500 +0000" channel="VAV TV">
     <title>VAKTIN NAKTI</title>
@@ -6249,35 +6249,11 @@
   <programme start="20251222114500 +0000" stop="20251222121500 +0000" channel="TV 4">
     <title>METREKARE</title>
   </programme>
-  <programme start="20251222121500 +0000" stop="20251222131500 +0000" channel="4K TR: TV 4">
+  <programme start="20251222121500 +0000" stop="20251222204500 +0000" channel="4K TR: TV 4">
     <title>GEZMEK OLSUN</title>
   </programme>
-  <programme start="20251222121500 +0000" stop="20251222131500 +0000" channel="TV 4">
+  <programme start="20251222121500 +0000" stop="20251222204500 +0000" channel="TV 4">
     <title>GEZMEK OLSUN</title>
-  </programme>
-  <programme start="20251222131500 +0000" stop="20251222150000 +0000" channel="4K TR: TV 4">
-    <title>VEFASIZ</title>
-  </programme>
-  <programme start="20251222131500 +0000" stop="20251222150000 +0000" channel="TV 4">
-    <title>VEFASIZ</title>
-  </programme>
-  <programme start="20251222150000 +0000" stop="20251222170000 +0000" channel="4K TR: TV 4">
-    <title>MALKOÇOĞLU ÖLÜM FEDAILERI</title>
-  </programme>
-  <programme start="20251222150000 +0000" stop="20251222170000 +0000" channel="TV 4">
-    <title>MALKOÇOĞLU ÖLÜM FEDAILERI</title>
-  </programme>
-  <programme start="20251222170000 +0000" stop="20251222190000 +0000" channel="4K TR: TV 4">
-    <title>SÖZ MÜDAFAANIN</title>
-  </programme>
-  <programme start="20251222170000 +0000" stop="20251222190000 +0000" channel="TV 4">
-    <title>SÖZ MÜDAFAANIN</title>
-  </programme>
-  <programme start="20251222190000 +0000" stop="20251222204500 +0000" channel="4K TR: TV 4">
-    <title>VEFASIZ</title>
-  </programme>
-  <programme start="20251222190000 +0000" stop="20251222204500 +0000" channel="TV 4">
-    <title>VEFASIZ</title>
   </programme>
   <programme start="20251222204500 +0000" stop="20251222210000 +0000" channel="4K TR: TV 4">
     <title>ATAMAN'LA DEVRI ALEM</title>
@@ -6444,22 +6420,13 @@
   <programme start="20251222160000 +0000" stop="20251222170000 +0000" channel="EKOL TV SD">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20251222170000 +0000" stop="20251222183000 +0000" channel="4K TR: EKOL TV">
-    <title>KRITIK GÜNDEM</title>
-  </programme>
-  <programme start="20251222170000 +0000" stop="20251222183000 +0000" channel="EKOL TV">
-    <title>KRITIK GÜNDEM</title>
-  </programme>
-  <programme start="20251222170000 +0000" stop="20251222183000 +0000" channel="EKOL TV SD">
-    <title>KRITIK GÜNDEM</title>
-  </programme>
-  <programme start="20251222183000 +0000" stop="20251222200000 +0000" channel="4K TR: EKOL TV">
+  <programme start="20251222170000 +0000" stop="20251222200000 +0000" channel="4K TR: EKOL TV">
     <title>HABER BÜLTENI</title>
   </programme>
-  <programme start="20251222183000 +0000" stop="20251222200000 +0000" channel="EKOL TV">
+  <programme start="20251222170000 +0000" stop="20251222200000 +0000" channel="EKOL TV">
     <title>HABER BÜLTENI</title>
   </programme>
-  <programme start="20251222183000 +0000" stop="20251222200000 +0000" channel="EKOL TV SD">
+  <programme start="20251222170000 +0000" stop="20251222200000 +0000" channel="EKOL TV SD">
     <title>HABER BÜLTENI</title>
   </programme>
   <programme start="20251222200000 +0000" stop="20251223050000 +0000" channel="4K TR: EKOL TV">
@@ -9928,16 +9895,16 @@
     <title>KAHVE MOLASI</title>
   </programme>
   <programme start="20251222100000 +0000" stop="20251222130000 +0000" channel="24">
-    <title>EKONOMI GÜNDEMI</title>
+    <title>MODERATÖR</title>
   </programme>
   <programme start="20251222100000 +0000" stop="20251222130000 +0000" channel="24 HABER HD+ SD">
-    <title>EKONOMI GÜNDEMI</title>
+    <title>MODERATÖR</title>
   </programme>
   <programme start="20251222100000 +0000" stop="20251222130000 +0000" channel="24 RAW">
-    <title>EKONOMI GÜNDEMI</title>
+    <title>MODERATÖR</title>
   </programme>
   <programme start="20251222100000 +0000" stop="20251222130000 +0000" channel="4K TR: 24 HD">
-    <title>EKONOMI GÜNDEMI</title>
+    <title>MODERATÖR</title>
   </programme>
   <programme start="20251222130000 +0000" stop="20251222150000 +0000" channel="24">
     <title>MODERATÖR</title>
@@ -13360,19 +13327,19 @@
     <title>SIPAY BODRUM - AMED S.F.</title>
   </programme>
   <programme start="20251222190000 +0000" stop="20251222210000 +0000" channel="4K TR: TRT SPOR HD">
-    <title>İTALYA SÜPER KUPA FINAL</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251222190000 +0000" stop="20251222210000 +0000" channel="TRT SPOR">
-    <title>İTALYA SÜPER KUPA FINAL</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251222190000 +0000" stop="20251222210000 +0000" channel="TRT SPOR FHD">
-    <title>İTALYA SÜPER KUPA FINAL</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251222190000 +0000" stop="20251222210000 +0000" channel="TRT SPOR HD">
-    <title>İTALYA SÜPER KUPA FINAL</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251222190000 +0000" stop="20251222210000 +0000" channel="TRT SPOR RAW">
-    <title>İTALYA SÜPER KUPA FINAL</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251221210000 +0000" stop="20251221211500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>HABER BÜLTENI</title>
@@ -32068,7 +32035,7 @@
     <title>SIPAY BODRUM - AMED S.F.</title>
   </programme>
   <programme start="20251222190000 +0000" stop="20251222210000 +0000" channel="4K TR: TRT 3">
-    <title>İTALYA SÜPER KUPA FINAL</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251221213000 +0000" stop="20251221223000 +0000" channel="4K TR: TRT T RK">
     <title>TÜRKÜ EVI</title>
