@@ -1,4 +1,34 @@
 {
+  "/dizi/badly-in-love": {
+    "group": "Badly in Love",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/culinary-class-wars": {
+    "group": "Culinary Class Wars",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/king-of-collectibles-the-goldin-touch": {
+    "group": "King of Collectibles: The Goldin Touch",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/love-is-blind-italy": {
+    "group": "Love is Blind: Italy",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/taylor-swift-the-eras-tour-the-end-of-an-era": {
+    "group": "Taylor Swift: The Eras Tour - The End of an Era",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/i-love-la": {
     "group": "I Love LA",
     "last_season": 1,
@@ -9,6 +39,12 @@
     "group": "Miss Sophie – Same Procedure as Every Year",
     "last_season": 1,
     "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/nice-to-not-meet-you": {
+    "group": "Nice to Not Meet You",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/dizi/sicilia-express": {
@@ -33,6 +69,12 @@
     "group": "Universal Basic Guys",
     "last_season": 2,
     "last_episode": 12,
+    "start_episode": 1
+  },
+  "/dizi/veronika": {
+    "group": "Veronika",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   }
 }

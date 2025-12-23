@@ -1,4 +1,10 @@
 {
+  "/anime/jujutsu-kaisen-hidden-inventory-premature-death-the-movie/": {
+    "group": "JUJUTSU KAISEN: HIDDEN INVENTORY / PREMATURE DEATH – THE MOVIE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
     "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "UMAMUSUME: CINDERELLA GRAY PART 2",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/anime/digimon-beatbreak/": {
-    "group": "DIGIMON BEATBREAK",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }

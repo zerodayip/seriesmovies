@@ -196,5 +196,47 @@
     "last_season": 3,
     "last_episode": 11,
     "start_episode": 1
+  },
+  "/dizi/badly-in-love": {
+    "group": "Badly in Love",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/culinary-class-wars": {
+    "group": "Culinary Class Wars",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/king-of-collectibles-the-goldin-touch": {
+    "group": "King of Collectibles: The Goldin Touch",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/love-is-blind-italy": {
+    "group": "Love is Blind: Italy",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/taylor-swift-the-eras-tour-the-end-of-an-era": {
+    "group": "Taylor Swift: The Eras Tour - The End of an Era",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/nice-to-not-meet-you": {
+    "group": "Nice to Not Meet You",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/veronika": {
+    "group": "Veronika",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

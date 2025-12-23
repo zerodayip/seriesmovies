@@ -2,6 +2,9 @@
   "/dizi/the-mighty-nein/": {
     "group": "THE MIGHTY NEIN"
   },
+  "/dizi/the-end-of-an-era/": {
+    "group": "THE END OF AN ERA"
+  },
   "/dizi/robin-hood/": {
     "group": "ROBIN HOOD"
   },
@@ -26,9 +29,6 @@
   "/dizi/fire-country-7/": {
     "group": "FIRE COUNTRY"
   },
-  "/dizi/the-end-of-an-era/": {
-    "group": "THE END OF AN ERA"
-  },
   "/dizi/born-to-be-wild/": {
     "group": "BORN TO BE WILD"
   },
@@ -40,8 +40,5 @@
   },
   "/dizi/disney-twisted-wonderland-the-animation/": {
     "group": "DISNEY TWISTED-WONDERLAND: THE ANIMATION"
-  },
-  "/dizi/percy-jackson-and-the-olympians-42/": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS"
   }
 }
