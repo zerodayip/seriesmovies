@@ -5730,8 +5730,8 @@
   <programme start="20251223195700 +0000" stop="20251223204700 +0000" channel="GZT TV">
     <title>ASBJORN OLSEN BERG BUSHCRAFT</title>
   </programme>
-  <programme start="20251223204700 +0000" stop="20251224205900 +0000" channel="GZT TV">
-    <title>VISUAL WALK UK</title>
+  <programme start="20251223204700 +0000" stop="20251223210000 +0000" channel="GZT TV">
+    <title>GZT TV</title>
   </programme>
   <programme start="20251222220000 +0000" stop="20251222230000 +0000" channel="VAV TV">
     <title>HADIS İKLIMI</title>
@@ -6180,11 +6180,23 @@
   <programme start="20251223114500 +0000" stop="20251223123000 +0000" channel="TV 4">
     <title>METREKARE</title>
   </programme>
-  <programme start="20251223123000 +0000" stop="20251223204500 +0000" channel="4K TR: TV 4">
+  <programme start="20251223123000 +0000" stop="20251223170000 +0000" channel="4K TR: TV 4">
     <title>GEZMEK OLSUN</title>
   </programme>
-  <programme start="20251223123000 +0000" stop="20251223204500 +0000" channel="TV 4">
+  <programme start="20251223123000 +0000" stop="20251223170000 +0000" channel="TV 4">
     <title>GEZMEK OLSUN</title>
+  </programme>
+  <programme start="20251223170000 +0000" stop="20251223190000 +0000" channel="4K TR: TV 4">
+    <title>ŞENLIK VAR</title>
+  </programme>
+  <programme start="20251223170000 +0000" stop="20251223190000 +0000" channel="TV 4">
+    <title>ŞENLIK VAR</title>
+  </programme>
+  <programme start="20251223190000 +0000" stop="20251223204500 +0000" channel="4K TR: TV 4">
+    <title>BEYAZ GÜLLER</title>
+  </programme>
+  <programme start="20251223190000 +0000" stop="20251223204500 +0000" channel="TV 4">
+    <title>BEYAZ GÜLLER</title>
   </programme>
   <programme start="20251223204500 +0000" stop="20251223210000 +0000" channel="4K TR: TV 4">
     <title>ATAMAN'LA DEVRI ALEM</title>
