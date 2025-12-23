@@ -16110,20 +16110,380 @@
   <programme start="20251223030000 +0000" stop="20251223035500 +0000" channel="TRT BELGESEL RAW">
     <title>TUHAF VAHŞI VE HARIKULADE</title>
   </programme>
-  <programme start="20251223035500 +0000" stop="20251224050000 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20251223035500 +0000" stop="20251223035800 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>TANITIM</title>
   </programme>
-  <programme start="20251223035500 +0000" stop="20251224050000 +0000" channel="TRT BELGESEL">
+  <programme start="20251223035500 +0000" stop="20251223035800 +0000" channel="TRT BELGESEL">
     <title>TANITIM</title>
   </programme>
-  <programme start="20251223035500 +0000" stop="20251224050000 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20251223035500 +0000" stop="20251223035800 +0000" channel="TRT BELGESEL HD+">
     <title>TANITIM</title>
   </programme>
-  <programme start="20251223035500 +0000" stop="20251224050000 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20251223035500 +0000" stop="20251223035800 +0000" channel="TRT BELGESEL HEVC">
     <title>TANITIM</title>
   </programme>
-  <programme start="20251223035500 +0000" stop="20251224050000 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20251223035500 +0000" stop="20251223035800 +0000" channel="TRT BELGESEL RAW">
     <title>TANITIM</title>
+  </programme>
+  <programme start="20251223035800 +0000" stop="20251223040000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20251223035800 +0000" stop="20251223040000 +0000" channel="TRT BELGESEL">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20251223035800 +0000" stop="20251223040000 +0000" channel="TRT BELGESEL HD+">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20251223035800 +0000" stop="20251223040000 +0000" channel="TRT BELGESEL HEVC">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20251223035800 +0000" stop="20251223040000 +0000" channel="TRT BELGESEL RAW">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20251223040000 +0000" stop="20251223044500 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>MAVI DÜNYA</title>
+  </programme>
+  <programme start="20251223040000 +0000" stop="20251223044500 +0000" channel="TRT BELGESEL">
+    <title>MAVI DÜNYA</title>
+  </programme>
+  <programme start="20251223040000 +0000" stop="20251223044500 +0000" channel="TRT BELGESEL HD+">
+    <title>MAVI DÜNYA</title>
+  </programme>
+  <programme start="20251223040000 +0000" stop="20251223044500 +0000" channel="TRT BELGESEL HEVC">
+    <title>MAVI DÜNYA</title>
+  </programme>
+  <programme start="20251223040000 +0000" stop="20251223044500 +0000" channel="TRT BELGESEL RAW">
+    <title>MAVI DÜNYA</title>
+  </programme>
+  <programme start="20251223044500 +0000" stop="20251223053500 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>ANADOLU'DA YAŞAM</title>
+  </programme>
+  <programme start="20251223044500 +0000" stop="20251223053500 +0000" channel="TRT BELGESEL">
+    <title>ANADOLU'DA YAŞAM</title>
+  </programme>
+  <programme start="20251223044500 +0000" stop="20251223053500 +0000" channel="TRT BELGESEL HD+">
+    <title>ANADOLU'DA YAŞAM</title>
+  </programme>
+  <programme start="20251223044500 +0000" stop="20251223053500 +0000" channel="TRT BELGESEL HEVC">
+    <title>ANADOLU'DA YAŞAM</title>
+  </programme>
+  <programme start="20251223044500 +0000" stop="20251223053500 +0000" channel="TRT BELGESEL RAW">
+    <title>ANADOLU'DA YAŞAM</title>
+  </programme>
+  <programme start="20251223053500 +0000" stop="20251223061000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>KRONOVIZÖR</title>
+  </programme>
+  <programme start="20251223053500 +0000" stop="20251223061000 +0000" channel="TRT BELGESEL">
+    <title>KRONOVIZÖR</title>
+  </programme>
+  <programme start="20251223053500 +0000" stop="20251223061000 +0000" channel="TRT BELGESEL HD+">
+    <title>KRONOVIZÖR</title>
+  </programme>
+  <programme start="20251223053500 +0000" stop="20251223061000 +0000" channel="TRT BELGESEL HEVC">
+    <title>KRONOVIZÖR</title>
+  </programme>
+  <programme start="20251223053500 +0000" stop="20251223061000 +0000" channel="TRT BELGESEL RAW">
+    <title>KRONOVIZÖR</title>
+  </programme>
+  <programme start="20251223061000 +0000" stop="20251223065000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>BENIM SAKIN DÜNYAM</title>
+  </programme>
+  <programme start="20251223061000 +0000" stop="20251223065000 +0000" channel="TRT BELGESEL">
+    <title>BENIM SAKIN DÜNYAM</title>
+  </programme>
+  <programme start="20251223061000 +0000" stop="20251223065000 +0000" channel="TRT BELGESEL HD+">
+    <title>BENIM SAKIN DÜNYAM</title>
+  </programme>
+  <programme start="20251223061000 +0000" stop="20251223065000 +0000" channel="TRT BELGESEL HEVC">
+    <title>BENIM SAKIN DÜNYAM</title>
+  </programme>
+  <programme start="20251223061000 +0000" stop="20251223065000 +0000" channel="TRT BELGESEL RAW">
+    <title>BENIM SAKIN DÜNYAM</title>
+  </programme>
+  <programme start="20251223065000 +0000" stop="20251223074500 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>ULAK</title>
+  </programme>
+  <programme start="20251223065000 +0000" stop="20251223074500 +0000" channel="TRT BELGESEL">
+    <title>ULAK</title>
+  </programme>
+  <programme start="20251223065000 +0000" stop="20251223074500 +0000" channel="TRT BELGESEL HD+">
+    <title>ULAK</title>
+  </programme>
+  <programme start="20251223065000 +0000" stop="20251223074500 +0000" channel="TRT BELGESEL HEVC">
+    <title>ULAK</title>
+  </programme>
+  <programme start="20251223065000 +0000" stop="20251223074500 +0000" channel="TRT BELGESEL RAW">
+    <title>ULAK</title>
+  </programme>
+  <programme start="20251223074500 +0000" stop="20251223084000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>YEDI DÜNYA BIR GEZEGEN</title>
+  </programme>
+  <programme start="20251223074500 +0000" stop="20251223084000 +0000" channel="TRT BELGESEL">
+    <title>YEDI DÜNYA BIR GEZEGEN</title>
+  </programme>
+  <programme start="20251223074500 +0000" stop="20251223084000 +0000" channel="TRT BELGESEL HD+">
+    <title>YEDI DÜNYA BIR GEZEGEN</title>
+  </programme>
+  <programme start="20251223074500 +0000" stop="20251223084000 +0000" channel="TRT BELGESEL HEVC">
+    <title>YEDI DÜNYA BIR GEZEGEN</title>
+  </programme>
+  <programme start="20251223074500 +0000" stop="20251223084000 +0000" channel="TRT BELGESEL RAW">
+    <title>YEDI DÜNYA BIR GEZEGEN</title>
+  </programme>
+  <programme start="20251223084000 +0000" stop="20251223093500 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>KAKTÜS OTELI</title>
+  </programme>
+  <programme start="20251223084000 +0000" stop="20251223093500 +0000" channel="TRT BELGESEL">
+    <title>KAKTÜS OTELI</title>
+  </programme>
+  <programme start="20251223084000 +0000" stop="20251223093500 +0000" channel="TRT BELGESEL HD+">
+    <title>KAKTÜS OTELI</title>
+  </programme>
+  <programme start="20251223084000 +0000" stop="20251223093500 +0000" channel="TRT BELGESEL HEVC">
+    <title>KAKTÜS OTELI</title>
+  </programme>
+  <programme start="20251223084000 +0000" stop="20251223093500 +0000" channel="TRT BELGESEL RAW">
+    <title>KAKTÜS OTELI</title>
+  </programme>
+  <programme start="20251223093500 +0000" stop="20251223100500 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>YIYECEĞIN SERÜVENI</title>
+  </programme>
+  <programme start="20251223093500 +0000" stop="20251223100500 +0000" channel="TRT BELGESEL">
+    <title>YIYECEĞIN SERÜVENI</title>
+  </programme>
+  <programme start="20251223093500 +0000" stop="20251223100500 +0000" channel="TRT BELGESEL HD+">
+    <title>YIYECEĞIN SERÜVENI</title>
+  </programme>
+  <programme start="20251223093500 +0000" stop="20251223100500 +0000" channel="TRT BELGESEL HEVC">
+    <title>YIYECEĞIN SERÜVENI</title>
+  </programme>
+  <programme start="20251223093500 +0000" stop="20251223100500 +0000" channel="TRT BELGESEL RAW">
+    <title>YIYECEĞIN SERÜVENI</title>
+  </programme>
+  <programme start="20251223100500 +0000" stop="20251223103000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>YÜZER EVIM</title>
+  </programme>
+  <programme start="20251223100500 +0000" stop="20251223103000 +0000" channel="TRT BELGESEL">
+    <title>YÜZER EVIM</title>
+  </programme>
+  <programme start="20251223100500 +0000" stop="20251223103000 +0000" channel="TRT BELGESEL HD+">
+    <title>YÜZER EVIM</title>
+  </programme>
+  <programme start="20251223100500 +0000" stop="20251223103000 +0000" channel="TRT BELGESEL HEVC">
+    <title>YÜZER EVIM</title>
+  </programme>
+  <programme start="20251223100500 +0000" stop="20251223103000 +0000" channel="TRT BELGESEL RAW">
+    <title>YÜZER EVIM</title>
+  </programme>
+  <programme start="20251223103000 +0000" stop="20251223110000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>MODERN ZAMAN İŞLERI</title>
+  </programme>
+  <programme start="20251223103000 +0000" stop="20251223110000 +0000" channel="TRT BELGESEL">
+    <title>MODERN ZAMAN İŞLERI</title>
+  </programme>
+  <programme start="20251223103000 +0000" stop="20251223110000 +0000" channel="TRT BELGESEL HD+">
+    <title>MODERN ZAMAN İŞLERI</title>
+  </programme>
+  <programme start="20251223103000 +0000" stop="20251223110000 +0000" channel="TRT BELGESEL HEVC">
+    <title>MODERN ZAMAN İŞLERI</title>
+  </programme>
+  <programme start="20251223103000 +0000" stop="20251223110000 +0000" channel="TRT BELGESEL RAW">
+    <title>MODERN ZAMAN İŞLERI</title>
+  </programme>
+  <programme start="20251223110000 +0000" stop="20251223113500 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>SU ALTI USTALARI</title>
+  </programme>
+  <programme start="20251223110000 +0000" stop="20251223113500 +0000" channel="TRT BELGESEL">
+    <title>SU ALTI USTALARI</title>
+  </programme>
+  <programme start="20251223110000 +0000" stop="20251223113500 +0000" channel="TRT BELGESEL HD+">
+    <title>SU ALTI USTALARI</title>
+  </programme>
+  <programme start="20251223110000 +0000" stop="20251223113500 +0000" channel="TRT BELGESEL HEVC">
+    <title>SU ALTI USTALARI</title>
+  </programme>
+  <programme start="20251223110000 +0000" stop="20251223113500 +0000" channel="TRT BELGESEL RAW">
+    <title>SU ALTI USTALARI</title>
+  </programme>
+  <programme start="20251223113500 +0000" stop="20251223123000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>EN TEHLIKELI OKUL YOLLARI</title>
+  </programme>
+  <programme start="20251223113500 +0000" stop="20251223123000 +0000" channel="TRT BELGESEL">
+    <title>EN TEHLIKELI OKUL YOLLARI</title>
+  </programme>
+  <programme start="20251223113500 +0000" stop="20251223123000 +0000" channel="TRT BELGESEL HD+">
+    <title>EN TEHLIKELI OKUL YOLLARI</title>
+  </programme>
+  <programme start="20251223113500 +0000" stop="20251223123000 +0000" channel="TRT BELGESEL HEVC">
+    <title>EN TEHLIKELI OKUL YOLLARI</title>
+  </programme>
+  <programme start="20251223113500 +0000" stop="20251223123000 +0000" channel="TRT BELGESEL RAW">
+    <title>EN TEHLIKELI OKUL YOLLARI</title>
+  </programme>
+  <programme start="20251223123000 +0000" stop="20251223130500 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>YÜKLENIYOR BIR OYUN BELGESELI</title>
+  </programme>
+  <programme start="20251223123000 +0000" stop="20251223130500 +0000" channel="TRT BELGESEL">
+    <title>YÜKLENIYOR BIR OYUN BELGESELI</title>
+  </programme>
+  <programme start="20251223123000 +0000" stop="20251223130500 +0000" channel="TRT BELGESEL HD+">
+    <title>YÜKLENIYOR BIR OYUN BELGESELI</title>
+  </programme>
+  <programme start="20251223123000 +0000" stop="20251223130500 +0000" channel="TRT BELGESEL HEVC">
+    <title>YÜKLENIYOR BIR OYUN BELGESELI</title>
+  </programme>
+  <programme start="20251223123000 +0000" stop="20251223130500 +0000" channel="TRT BELGESEL RAW">
+    <title>YÜKLENIYOR BIR OYUN BELGESELI</title>
+  </programme>
+  <programme start="20251223130500 +0000" stop="20251223133500 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>TUNA BOYU GÜNLÜKLERI</title>
+  </programme>
+  <programme start="20251223130500 +0000" stop="20251223133500 +0000" channel="TRT BELGESEL">
+    <title>TUNA BOYU GÜNLÜKLERI</title>
+  </programme>
+  <programme start="20251223130500 +0000" stop="20251223133500 +0000" channel="TRT BELGESEL HD+">
+    <title>TUNA BOYU GÜNLÜKLERI</title>
+  </programme>
+  <programme start="20251223130500 +0000" stop="20251223133500 +0000" channel="TRT BELGESEL HEVC">
+    <title>TUNA BOYU GÜNLÜKLERI</title>
+  </programme>
+  <programme start="20251223130500 +0000" stop="20251223133500 +0000" channel="TRT BELGESEL RAW">
+    <title>TUNA BOYU GÜNLÜKLERI</title>
+  </programme>
+  <programme start="20251223133500 +0000" stop="20251223142500 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>TARIHIN EFSANELERI</title>
+  </programme>
+  <programme start="20251223133500 +0000" stop="20251223142500 +0000" channel="TRT BELGESEL">
+    <title>TARIHIN EFSANELERI</title>
+  </programme>
+  <programme start="20251223133500 +0000" stop="20251223142500 +0000" channel="TRT BELGESEL HD+">
+    <title>TARIHIN EFSANELERI</title>
+  </programme>
+  <programme start="20251223133500 +0000" stop="20251223142500 +0000" channel="TRT BELGESEL HEVC">
+    <title>TARIHIN EFSANELERI</title>
+  </programme>
+  <programme start="20251223133500 +0000" stop="20251223142500 +0000" channel="TRT BELGESEL RAW">
+    <title>TARIHIN EFSANELERI</title>
+  </programme>
+  <programme start="20251223142500 +0000" stop="20251223152000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>BÜYÜLÜ ORMANLARIN SIRLARI</title>
+  </programme>
+  <programme start="20251223142500 +0000" stop="20251223152000 +0000" channel="TRT BELGESEL">
+    <title>BÜYÜLÜ ORMANLARIN SIRLARI</title>
+  </programme>
+  <programme start="20251223142500 +0000" stop="20251223152000 +0000" channel="TRT BELGESEL HD+">
+    <title>BÜYÜLÜ ORMANLARIN SIRLARI</title>
+  </programme>
+  <programme start="20251223142500 +0000" stop="20251223152000 +0000" channel="TRT BELGESEL HEVC">
+    <title>BÜYÜLÜ ORMANLARIN SIRLARI</title>
+  </programme>
+  <programme start="20251223142500 +0000" stop="20251223152000 +0000" channel="TRT BELGESEL RAW">
+    <title>BÜYÜLÜ ORMANLARIN SIRLARI</title>
+  </programme>
+  <programme start="20251223152000 +0000" stop="20251223162000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>ŞEHIRDEN UZAKTA</title>
+  </programme>
+  <programme start="20251223152000 +0000" stop="20251223162000 +0000" channel="TRT BELGESEL">
+    <title>ŞEHIRDEN UZAKTA</title>
+  </programme>
+  <programme start="20251223152000 +0000" stop="20251223162000 +0000" channel="TRT BELGESEL HD+">
+    <title>ŞEHIRDEN UZAKTA</title>
+  </programme>
+  <programme start="20251223152000 +0000" stop="20251223162000 +0000" channel="TRT BELGESEL HEVC">
+    <title>ŞEHIRDEN UZAKTA</title>
+  </programme>
+  <programme start="20251223152000 +0000" stop="20251223162000 +0000" channel="TRT BELGESEL RAW">
+    <title>ŞEHIRDEN UZAKTA</title>
+  </programme>
+  <programme start="20251223162000 +0000" stop="20251223164500 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>HURDADAN HAZINEYE</title>
+  </programme>
+  <programme start="20251223162000 +0000" stop="20251223164500 +0000" channel="TRT BELGESEL">
+    <title>HURDADAN HAZINEYE</title>
+  </programme>
+  <programme start="20251223162000 +0000" stop="20251223164500 +0000" channel="TRT BELGESEL HD+">
+    <title>HURDADAN HAZINEYE</title>
+  </programme>
+  <programme start="20251223162000 +0000" stop="20251223164500 +0000" channel="TRT BELGESEL HEVC">
+    <title>HURDADAN HAZINEYE</title>
+  </programme>
+  <programme start="20251223162000 +0000" stop="20251223164500 +0000" channel="TRT BELGESEL RAW">
+    <title>HURDADAN HAZINEYE</title>
+  </programme>
+  <programme start="20251223164500 +0000" stop="20251223174000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>YEDI DÜNYA BIR GEZEGEN</title>
+  </programme>
+  <programme start="20251223164500 +0000" stop="20251223174000 +0000" channel="TRT BELGESEL">
+    <title>YEDI DÜNYA BIR GEZEGEN</title>
+  </programme>
+  <programme start="20251223164500 +0000" stop="20251223174000 +0000" channel="TRT BELGESEL HD+">
+    <title>YEDI DÜNYA BIR GEZEGEN</title>
+  </programme>
+  <programme start="20251223164500 +0000" stop="20251223174000 +0000" channel="TRT BELGESEL HEVC">
+    <title>YEDI DÜNYA BIR GEZEGEN</title>
+  </programme>
+  <programme start="20251223164500 +0000" stop="20251223174000 +0000" channel="TRT BELGESEL RAW">
+    <title>YEDI DÜNYA BIR GEZEGEN</title>
+  </programme>
+  <programme start="20251223174000 +0000" stop="20251223181500 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>YIYECEĞIN SERÜVENI</title>
+  </programme>
+  <programme start="20251223174000 +0000" stop="20251223181500 +0000" channel="TRT BELGESEL">
+    <title>YIYECEĞIN SERÜVENI</title>
+  </programme>
+  <programme start="20251223174000 +0000" stop="20251223181500 +0000" channel="TRT BELGESEL HD+">
+    <title>YIYECEĞIN SERÜVENI</title>
+  </programme>
+  <programme start="20251223174000 +0000" stop="20251223181500 +0000" channel="TRT BELGESEL HEVC">
+    <title>YIYECEĞIN SERÜVENI</title>
+  </programme>
+  <programme start="20251223174000 +0000" stop="20251223181500 +0000" channel="TRT BELGESEL RAW">
+    <title>YIYECEĞIN SERÜVENI</title>
+  </programme>
+  <programme start="20251223181500 +0000" stop="20251223192000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>AILENIN YENI ÜYESI TÜRKIYE</title>
+  </programme>
+  <programme start="20251223181500 +0000" stop="20251223192000 +0000" channel="TRT BELGESEL">
+    <title>AILENIN YENI ÜYESI TÜRKIYE</title>
+  </programme>
+  <programme start="20251223181500 +0000" stop="20251223192000 +0000" channel="TRT BELGESEL HD+">
+    <title>AILENIN YENI ÜYESI TÜRKIYE</title>
+  </programme>
+  <programme start="20251223181500 +0000" stop="20251223192000 +0000" channel="TRT BELGESEL HEVC">
+    <title>AILENIN YENI ÜYESI TÜRKIYE</title>
+  </programme>
+  <programme start="20251223181500 +0000" stop="20251223192000 +0000" channel="TRT BELGESEL RAW">
+    <title>AILENIN YENI ÜYESI TÜRKIYE</title>
+  </programme>
+  <programme start="20251223192000 +0000" stop="20251223201500 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>DIŞI LEOPAR</title>
+  </programme>
+  <programme start="20251223192000 +0000" stop="20251223201500 +0000" channel="TRT BELGESEL">
+    <title>DIŞI LEOPAR</title>
+  </programme>
+  <programme start="20251223192000 +0000" stop="20251223201500 +0000" channel="TRT BELGESEL HD+">
+    <title>DIŞI LEOPAR</title>
+  </programme>
+  <programme start="20251223192000 +0000" stop="20251223201500 +0000" channel="TRT BELGESEL HEVC">
+    <title>DIŞI LEOPAR</title>
+  </programme>
+  <programme start="20251223192000 +0000" stop="20251223201500 +0000" channel="TRT BELGESEL RAW">
+    <title>DIŞI LEOPAR</title>
+  </programme>
+  <programme start="20251223201500 +0000" stop="20251223211000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>KAKTÜS OTELI</title>
+  </programme>
+  <programme start="20251223201500 +0000" stop="20251223211000 +0000" channel="TRT BELGESEL">
+    <title>KAKTÜS OTELI</title>
+  </programme>
+  <programme start="20251223201500 +0000" stop="20251223211000 +0000" channel="TRT BELGESEL HD+">
+    <title>KAKTÜS OTELI</title>
+  </programme>
+  <programme start="20251223201500 +0000" stop="20251223211000 +0000" channel="TRT BELGESEL HEVC">
+    <title>KAKTÜS OTELI</title>
+  </programme>
+  <programme start="20251223201500 +0000" stop="20251223211000 +0000" channel="TRT BELGESEL RAW">
+    <title>KAKTÜS OTELI</title>
   </programme>
   <programme start="20251222210000 +0000" stop="20251222213500 +0000" channel="TARIH TV">
     <title>DEMIRYOLU HIKAYEMIZ</title>
