@@ -1461,8 +1461,23 @@
   <programme start="20251223114300 +0000" stop="20251223141800 +0000" channel="TABII TV">
     <title>ELIMI BIRAKMA</title>
   </programme>
-  <programme start="20251223141800 +0000" stop="20251224160000 +0000" channel="TABII TV">
+  <programme start="20251223141800 +0000" stop="20251223154000 +0000" channel="TABII TV">
     <title>TABII TANITIM 1</title>
+  </programme>
+  <programme start="20251223154000 +0000" stop="20251223162700 +0000" channel="TABII TV">
+    <title>EN SON BABALAR DUYAR</title>
+  </programme>
+  <programme start="20251223162700 +0000" stop="20251223171400 +0000" channel="TABII TV">
+    <title>YEDI NUMARA</title>
+  </programme>
+  <programme start="20251223171400 +0000" stop="20251223182000 +0000" channel="TABII TV">
+    <title>YEŞIL DENIZ MILENYUM</title>
+  </programme>
+  <programme start="20251223182000 +0000" stop="20251223191900 +0000" channel="TABII TV">
+    <title>METAMORFOZ: KIRILMA</title>
+  </programme>
+  <programme start="20251223191900 +0000" stop="20251223215500 +0000" channel="TABII TV">
+    <title>ELIMI BIRAKMA</title>
   </programme>
   <programme start="20251222224500 +0000" stop="20251223003000 +0000" channel="4K TR: S NEMA YERL HD">
     <title>GENIŞ AILE 2: HER TÜRLÜ</title>
@@ -34644,11 +34659,8 @@
   <programme start="20251223081500 +0000" stop="20251223090000 +0000" channel="BRT 1">
     <title>TICARI AÇIDAN</title>
   </programme>
-  <programme start="20251223090000 +0000" stop="20251223090500 +0000" channel="BRT 1">
-    <title>KISA HABER</title>
-  </programme>
-  <programme start="20251223090500 +0000" stop="20251223100000 +0000" channel="BRT 1">
-    <title>BURASI ÖNEMLI</title>
+  <programme start="20251223090000 +0000" stop="20251223100000 +0000" channel="BRT 1">
+    <title>GÜNDEM 12</title>
   </programme>
   <programme start="20251223100000 +0000" stop="20251223103000 +0000" channel="BRT 1">
     <title>GÜN ORTASI</title>
@@ -34660,51 +34672,45 @@
     <title>İNGILIZCE HABERLER</title>
   </programme>
   <programme start="20251223110000 +0000" stop="20251223120000 +0000" channel="BRT 1">
-    <title>İNTERAKTIF</title>
+    <title>YA HIÇ SORMASAYDIK</title>
   </programme>
   <programme start="20251223120000 +0000" stop="20251223130000 +0000" channel="BRT 1">
-    <title>MÜZIK GEZEGENI</title>
+    <title>YAŞAMDAN KONUKLAR</title>
   </programme>
   <programme start="20251223130000 +0000" stop="20251223140000 +0000" channel="BRT 1">
     <title>45 +</title>
   </programme>
   <programme start="20251223140000 +0000" stop="20251223140500 +0000" channel="BRT 1">
-    <title>EĞITIME DAIR HERŞEY</title>
-  </programme>
-  <programme start="20251223140500 +0000" stop="20251223150000 +0000" channel="BRT 1">
     <title>KISA HABERLER</title>
   </programme>
-  <programme start="20251223150000 +0000" stop="20251223154000 +0000" channel="BRT 1">
-    <title>18. SAAT</title>
+  <programme start="20251223140500 +0000" stop="20251223150000 +0000" channel="BRT 1">
+    <title>KÖKLER VE KANATLAR</title>
   </programme>
-  <programme start="20251223154000 +0000" stop="20251223154500 +0000" channel="BRT 1">
-    <title>RUMCA HABERLER</title>
+  <programme start="20251223150000 +0000" stop="20251223160000 +0000" channel="BRT 1">
+    <title>YASALARIN İZINDE</title>
   </programme>
-  <programme start="20251223154500 +0000" stop="20251223160000 +0000" channel="BRT 1">
-    <title>İNGILIZCE HABERLER</title>
-  </programme>
-  <programme start="20251223160000 +0000" stop="20251223164500 +0000" channel="BRT 1">
+  <programme start="20251223160000 +0000" stop="20251223163500 +0000" channel="BRT 1">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20251223164500 +0000" stop="20251223165500 +0000" channel="BRT 1">
-    <title>SPOR GÜNDEMI</title>
+  <programme start="20251223163500 +0000" stop="20251223164000 +0000" channel="BRT 1">
+    <title>RUMCA HABERLER</title>
+  </programme>
+  <programme start="20251223164000 +0000" stop="20251223165500 +0000" channel="BRT 1">
+    <title>İNGILIZCE HABERLER</title>
   </programme>
   <programme start="20251223165500 +0000" stop="20251223170000 +0000" channel="BRT 1">
-    <title>PARA HAVA</title>
+    <title>SPOR PARA HAVA</title>
   </programme>
-  <programme start="20251223170000 +0000" stop="20251223180000 +0000" channel="BRT 1">
-    <title>KARŞIT GÖRÜŞ</title>
-  </programme>
-  <programme start="20251223180000 +0000" stop="20251223190000 +0000" channel="BRT 1">
+  <programme start="20251223170000 +0000" stop="20251223190000 +0000" channel="BRT 1">
     <title>SÜPER LIG YOLU</title>
   </programme>
-  <programme start="20251223190000 +0000" stop="20251223191000 +0000" channel="BRT 1">
+  <programme start="20251223190000 +0000" stop="20251223190500 +0000" channel="BRT 1">
     <title>GÜN SONU</title>
   </programme>
-  <programme start="20251223191000 +0000" stop="20251223200000 +0000" channel="BRT 1">
+  <programme start="20251223190500 +0000" stop="20251223200000 +0000" channel="BRT 1">
     <title>SÜPER LIG YOLU</title>
   </programme>
-  <programme start="20251223200000 +0000" stop="20251223210000 +0000" channel="BRT 1">
+  <programme start="20251223200000 +0000" stop="20251224040000 +0000" channel="BRT 1">
     <title>TRENDYOL SÜPER LIG MAÇ ÖZETLERI</title>
   </programme>
   <programme start="20251223040000 +0000" stop="20251223043000 +0000" channel="BRT 2">
