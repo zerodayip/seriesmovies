@@ -1,4 +1,22 @@
 {
+  "/debu-to-love-to-ayamachi-to": {
+    "group": "DEBU TO LOVE TO AYAMACHI TO!",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/ninja-to-gokudou": {
+    "group": "NINJA TO GOKUDOU",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/chitose-kun-wa-ramune-bin-no-naka": {
+    "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
   "/kikaijikake-no-marie": {
     "group": "KIKAIJIKAKE NO MARIE",
     "last_season": 1,
@@ -69,24 +87,6 @@
     "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
     "last_season": 1,
     "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/shuumatsu-touring": {
-    "group": "SHUUMATSU TOURING",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/digimon-beatbreak": {
-    "group": "DIGIMON BEATBREAK",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/dragon-raja-ii--the-mourners-eyes-": {
-    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
-    "last_season": 1,
-    "last_episode": 24.0,
     "start_episode": 1
   }
 }

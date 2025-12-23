@@ -1,4 +1,28 @@
 {
+  "/anime/ninja-vs-gokudo/": {
+    "group": "NINJA VS. GOKUDO",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anime/chitose-is-in-the-ramune-bottle/": {
+    "group": "CHITOSE IS IN THE RAMUNE BOTTLE",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/anime/campfire-cooking-in-another-world-with-my-absurd-skill-season-2/": {
+    "group": "CAMPFIRE COOKING IN ANOTHER WORLD WITH MY ABSURD SKILL SEASON 2",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anime/with-you-our-love-will-make-it-through/": {
+    "group": "WITH YOU, OUR LOVE WILL MAKE IT THROUGH",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/anime/jujutsu-kaisen-hidden-inventory-premature-death-the-movie/": {
     "group": "JUJUTSU KAISEN: HIDDEN INVENTORY / PREMATURE DEATH – THE MOVIE",
     "last_season": 1,
@@ -93,30 +117,6 @@
     "group": "DAD IS A HERO, MOM IS A SPIRIT, I’M A REINCARNATOR",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/lil-miss-vampire-cant-suck-right/": {
-    "group": "LI’L MISS VAMPIRE CAN’T SUCK RIGHT",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/anime/mechanical-marie/": {
-    "group": "MECHANICAL MARIE",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/blue-orchestra-season-2/": {
-    "group": "BLUE ORCHESTRA SEASON 2",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/anime/umamusume-cinderella-gray-part-2/": {
-    "group": "UMAMUSUME: CINDERELLA GRAY PART 2",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }

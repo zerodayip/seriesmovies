@@ -1,4 +1,22 @@
 {
+  "/dizi/robin-hood": {
+    "group": "ROBIN HOOD",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi/sicilya-ekspresi": {
+    "group": "SICILYA EKSPRESI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/gyeongdoreul-gidarimyeo-asya": {
+    "group": "ELBET YARIN",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/dizi/universal-basic-guys": {
     "group": "UNIVERSAL BASIC GUYS",
     "last_season": 2,
@@ -141,24 +159,6 @@
     "group": "KRAPOPOLIS",
     "last_season": 3,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/matlock": {
-    "group": "MATLOCK",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/st-denis-medical": {
-    "group": "ST. DENIS MEDICAL",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/stumble": {
-    "group": "STUMBLE",
-    "last_season": 1,
-    "last_episode": 5,
     "start_episode": 1
   }
 }

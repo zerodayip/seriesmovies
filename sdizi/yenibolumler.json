@@ -1,4 +1,10 @@
 {
+  "/diziler/younger.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "YOUNGER",
+    "start_episode": 1
+  },
   "/diziler/nice-to-not-meet-you.html": {
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
@@ -69,18 +75,6 @@
     "group": "EMILY IN PARIS",
     "last_season": 5,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/adventure-time-fionna-and-cake.html": {
-    "group": "ADVENTURE TIME: FIONNA & CAKE",
-    "last_season": 2,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/ghosts.html": {
-    "group": "GHOSTS",
-    "last_season": 5,
-    "last_episode": 5,
     "start_episode": 1
   }
 }
