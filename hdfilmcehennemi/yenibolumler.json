@@ -1,6 +1,12 @@
 {
+  "/dizi/pluribus/": {
+    "group": "PLURIBUS"
+  },
   "/dizi/the-mighty-nein/": {
     "group": "THE MIGHTY NEIN"
+  },
+  "/dizi/percy-jackson-and-the-olympians-42/": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS"
   },
   "/dizi/the-end-of-an-era/": {
     "group": "THE END OF AN ERA"
@@ -10,9 +16,6 @@
   },
   "/dizi/i-love-la/": {
     "group": "I LOVE LA"
-  },
-  "/dizi/pluribus/": {
-    "group": "PLURIBUS"
   },
   "/dizi/power-book-iv-force-86/": {
     "group": "POWER BOOK IV: FORCE"
@@ -38,7 +41,82 @@
   "/dizi/emily-in-paris-izle-6/": {
     "group": "EMILY IN PARIS"
   },
-  "/dizi/disney-twisted-wonderland-the-animation/": {
-    "group": "DISNEY TWISTED-WONDERLAND: THE ANIMATION"
+  "/dizi/heroes-2006/": {
+    "group": "HEROES"
+  },
+  "/dizi/the-strain/": {
+    "group": "THE STRAIN"
+  },
+  "/dizi/american-horror-story/": {
+    "group": "AMERICAN HORROR STORY"
+  },
+  "/dizi/sandokan/": {
+    "group": "SANDOKAN"
+  },
+  "/dizi/sicily-express/": {
+    "group": "SICILYA EKSPRESI"
+  },
+  "/dizi/this-way-up/": {
+    "group": "THIS WAY UP"
+  },
+  "/dizi/the-hunting-wives-3/": {
+    "group": "THE HUNTING WIVES"
+  },
+  "/dizi/barry-dizisi/": {
+    "group": "BARRY"
+  },
+  "/dizi/city-of-shadows/": {
+    "group": "GÖLGELER ŞEHRI"
+  },
+  "/dizi/jasmine/": {
+    "group": "JASMINE"
+  },
+  "/dizi/the-town-yerli-3/": {
+    "group": "KASABA"
+  },
+  "/dizi/man-vs-baby/": {
+    "group": "MAN VS BABY"
+  },
+  "/dizi/elementary/": {
+    "group": "ELEMENTARY"
+  },
+  "/dizi/feud-dizisi-2017/": {
+    "group": "FEUD"
+  },
+  "/dizi/community-dizisi/": {
+    "group": "COMMUNITY"
+  },
+  "/dizi/buffy-the-vampire-slayer-dizi-hdfc/": {
+    "group": "BUFFY THE VAMPIRE SLAYER"
+  },
+  "/dizi/castle-2009-dizisi/": {
+    "group": "CASTLE"
+  },
+  "/dizi/sean-combs-the-reckoning/": {
+    "group": "SEAN COMBS: HESAPLAŞMA"
+  },
+  "/dizi/the-price-of-confession/": {
+    "group": "THE PRICE OF CONFESSION"
+  },
+  "/dizi/crutch/": {
+    "group": "CRUTCH"
+  },
+  "/dizi/dmv-1/": {
+    "group": "DMV"
+  },
+  "/dizi/gilmore-girls/": {
+    "group": "GILMORE KIZLARI"
+  },
+  "/dizi/endeavour-3/": {
+    "group": "ENDEAVOUR"
+  },
+  "/dizi/gomorrah-la-serie/": {
+    "group": "GOMORRA - LA SERIE"
+  },
+  "/dizi/crazy-ex-girlfriend/": {
+    "group": "CRAZY EX-GIRLFRIEND"
+  },
+  "/dizi/lovesick-2014-hdfc/": {
+    "group": "AŞK ARARKEN"
   }
 }

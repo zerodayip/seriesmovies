@@ -1234,5 +1234,11 @@
     "last_season": 1,
     "last_episode": 5,
     "start_episode": 1
+  },
+  "/dizi/sekizinci-aile-yerli-3": {
+    "group": "SEKIZINCI AILE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

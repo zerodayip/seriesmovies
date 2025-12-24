@@ -1,4 +1,28 @@
 {
+  "/diziler/palm-royale.html": {
+    "group": "PALM ROYALE",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/percy-jackson-and-the-olympians.html": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/diziler/pluribus.html": {
+    "group": "PLURIBUS",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/the-mighty-nein.html": {
+    "group": "THE MIGHTY NEIN",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "/diziler/younger.html": {
     "group": "YOUNGER",
     "last_season": 7,
@@ -51,30 +75,6 @@
     "group": "TO YOUR ETERNITY",
     "last_season": 3,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/spy-x-family.html": {
-    "group": "SPY X FAMILY",
-    "last_season": 3,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/spongebob-squarepants.html": {
-    "group": "SPONGEBOB SQUAREPANTS",
-    "last_season": 15,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/diziler/pluribus.html": {
-    "group": "PLURIBUS",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/emily-in-paris.html": {
-    "group": "EMILY IN PARIS",
-    "last_season": 5,
-    "last_episode": 10,
     "start_episode": 1
   }
 }

@@ -1,4 +1,28 @@
 {
+  "/dizi/here-we-go": {
+    "group": "Here We Go",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/nice-to-not-meet-you": {
+    "group": "Nice to Not Meet You",
+    "last_season": 1,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/dizi/palm-royale": {
+    "group": "Palm Royale",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/pluribus": {
+    "group": "Pluribus",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/dizi/badly-in-love": {
     "group": "Badly in Love",
     "last_season": 1,
