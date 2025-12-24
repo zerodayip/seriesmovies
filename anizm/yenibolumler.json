@@ -1,4 +1,22 @@
 {
+  "/tensei-akujo-no-kuro-rekishi": {
+    "group": "TENSEI AKUJO NO KURO REKISHI",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/wandance": {
+    "group": "WANDANCE",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/kimi-to-koete-koi-ni-naru": {
+    "group": "KIMI TO KOETE KOI NI NARU",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
   "/heika-watashi-wo-wasurete-kudasai": {
     "group": "HEIKA WATASHI WO WASURETE KUDASAI",
     "last_season": 1,
@@ -69,24 +87,6 @@
     "group": "SAWARANAIDE KOTESASHI-KUN",
     "last_season": 1,
     "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/one-punch-man-3": {
-    "group": "ONE PUNCH MAN 3",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/gachiakuta": {
-    "group": "GACHIAKUTA",
-    "last_season": 1,
-    "last_episode": 24.0,
-    "start_episode": 1
-  },
-  "/black-clover-2nd-season": {
-    "group": "BLACK CLOVER 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }
