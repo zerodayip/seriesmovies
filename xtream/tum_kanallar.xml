@@ -1884,47 +1884,47 @@
   <programme start="20251223211500 +0000" stop="20251223224500 +0000" channel="TRT 1 SD">
     <title>HAYAT IŞIĞIM</title>
   </programme>
-  <programme start="20251223224500 +0000" stop="20251223234500 +0000" channel="TRT 1">
-    <title>SEKSENLER</title>
-  </programme>
-  <programme start="20251223224500 +0000" stop="20251223234500 +0000" channel="TRT 1 4K">
-    <title>SEKSENLER</title>
-  </programme>
-  <programme start="20251223224500 +0000" stop="20251223234500 +0000" channel="TRT 1 HD">
-    <title>SEKSENLER</title>
-  </programme>
-  <programme start="20251223224500 +0000" stop="20251223234500 +0000" channel="TRT 1 FHD">
-    <title>SEKSENLER</title>
-  </programme>
-  <programme start="20251223224500 +0000" stop="20251223234500 +0000" channel="TRT 1 HEVC">
-    <title>SEKSENLER</title>
-  </programme>
-  <programme start="20251223224500 +0000" stop="20251223234500 +0000" channel="TRT 1 RAW">
-    <title>SEKSENLER</title>
-  </programme>
-  <programme start="20251223224500 +0000" stop="20251223234500 +0000" channel="TRT 1 SD">
-    <title>SEKSENLER</title>
-  </programme>
-  <programme start="20251223234500 +0000" stop="20251224022500 +0000" channel="TRT 1">
+  <programme start="20251223232000 +0000" stop="20251224014500 +0000" channel="TRT 1">
     <title>KASABA DOKTORU</title>
   </programme>
-  <programme start="20251223234500 +0000" stop="20251224022500 +0000" channel="TRT 1 4K">
+  <programme start="20251223232000 +0000" stop="20251224014500 +0000" channel="TRT 1 4K">
     <title>KASABA DOKTORU</title>
   </programme>
-  <programme start="20251223234500 +0000" stop="20251224022500 +0000" channel="TRT 1 HD">
+  <programme start="20251223232000 +0000" stop="20251224014500 +0000" channel="TRT 1 HD">
     <title>KASABA DOKTORU</title>
   </programme>
-  <programme start="20251223234500 +0000" stop="20251224022500 +0000" channel="TRT 1 FHD">
+  <programme start="20251223232000 +0000" stop="20251224014500 +0000" channel="TRT 1 FHD">
     <title>KASABA DOKTORU</title>
   </programme>
-  <programme start="20251223234500 +0000" stop="20251224022500 +0000" channel="TRT 1 HEVC">
+  <programme start="20251223232000 +0000" stop="20251224014500 +0000" channel="TRT 1 HEVC">
     <title>KASABA DOKTORU</title>
   </programme>
-  <programme start="20251223234500 +0000" stop="20251224022500 +0000" channel="TRT 1 RAW">
+  <programme start="20251223232000 +0000" stop="20251224014500 +0000" channel="TRT 1 RAW">
     <title>KASABA DOKTORU</title>
   </programme>
-  <programme start="20251223234500 +0000" stop="20251224022500 +0000" channel="TRT 1 SD">
+  <programme start="20251223232000 +0000" stop="20251224014500 +0000" channel="TRT 1 SD">
     <title>KASABA DOKTORU</title>
+  </programme>
+  <programme start="20251224014500 +0000" stop="20251224022500 +0000" channel="TRT 1">
+    <title>SEKSENLER</title>
+  </programme>
+  <programme start="20251224014500 +0000" stop="20251224022500 +0000" channel="TRT 1 4K">
+    <title>SEKSENLER</title>
+  </programme>
+  <programme start="20251224014500 +0000" stop="20251224022500 +0000" channel="TRT 1 HD">
+    <title>SEKSENLER</title>
+  </programme>
+  <programme start="20251224014500 +0000" stop="20251224022500 +0000" channel="TRT 1 FHD">
+    <title>SEKSENLER</title>
+  </programme>
+  <programme start="20251224014500 +0000" stop="20251224022500 +0000" channel="TRT 1 HEVC">
+    <title>SEKSENLER</title>
+  </programme>
+  <programme start="20251224014500 +0000" stop="20251224022500 +0000" channel="TRT 1 RAW">
+    <title>SEKSENLER</title>
+  </programme>
+  <programme start="20251224014500 +0000" stop="20251224022500 +0000" channel="TRT 1 SD">
+    <title>SEKSENLER</title>
   </programme>
   <programme start="20251224022500 +0000" stop="20251224031500 +0000" channel="TRT 1">
     <title>TURGAY BAŞYAYLA ILE LEZZETLI TAVSIYE</title>
@@ -2136,26 +2136,26 @@
   <programme start="20251224170000 +0000" stop="20251224200000 +0000" channel="TRT 1 SD">
     <title>TAŞACAK BU DENIZ</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224220000 +0000" channel="TRT 1">
-    <title>KADIN ÖNDE YÜRÜR</title>
+  <programme start="20251224200000 +0000" stop="20251224231000 +0000" channel="TRT 1">
+    <title>GÖNÜL DAĞI</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224220000 +0000" channel="TRT 1 4K">
-    <title>KADIN ÖNDE YÜRÜR</title>
+  <programme start="20251224200000 +0000" stop="20251224231000 +0000" channel="TRT 1 4K">
+    <title>GÖNÜL DAĞI</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224220000 +0000" channel="TRT 1 HD">
-    <title>KADIN ÖNDE YÜRÜR</title>
+  <programme start="20251224200000 +0000" stop="20251224231000 +0000" channel="TRT 1 HD">
+    <title>GÖNÜL DAĞI</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224220000 +0000" channel="TRT 1 FHD">
-    <title>KADIN ÖNDE YÜRÜR</title>
+  <programme start="20251224200000 +0000" stop="20251224231000 +0000" channel="TRT 1 FHD">
+    <title>GÖNÜL DAĞI</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224220000 +0000" channel="TRT 1 HEVC">
-    <title>KADIN ÖNDE YÜRÜR</title>
+  <programme start="20251224200000 +0000" stop="20251224231000 +0000" channel="TRT 1 HEVC">
+    <title>GÖNÜL DAĞI</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224220000 +0000" channel="TRT 1 RAW">
-    <title>KADIN ÖNDE YÜRÜR</title>
+  <programme start="20251224200000 +0000" stop="20251224231000 +0000" channel="TRT 1 RAW">
+    <title>GÖNÜL DAĞI</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224220000 +0000" channel="TRT 1 SD">
-    <title>KADIN ÖNDE YÜRÜR</title>
+  <programme start="20251224200000 +0000" stop="20251224231000 +0000" channel="TRT 1 SD">
+    <title>GÖNÜL DAĞI</title>
   </programme>
   <programme start="20251223230000 +0000" stop="20251224010000 +0000" channel="4K TR: KANAL D HD">
     <title>SIYAH BEYAZ AŞK</title>
@@ -6507,40 +6507,40 @@
   <programme start="20251224200000 +0000" stop="20251224210000 +0000" channel="TURKHABER">
     <title>GÜNDEM ÖZEL</title>
   </programme>
-  <programme start="20251223220000 +0000" stop="20251223231500 +0000" channel="4K TR: CNN T RK HD">
+  <programme start="20251223220000 +0000" stop="20251223230000 +0000" channel="4K TR: CNN T RK HD">
     <title>GECE HABERLERI</title>
   </programme>
-  <programme start="20251223220000 +0000" stop="20251223231500 +0000" channel="CNN T RK HD+ SD">
+  <programme start="20251223220000 +0000" stop="20251223230000 +0000" channel="CNN T RK HD+ SD">
     <title>GECE HABERLERI</title>
   </programme>
-  <programme start="20251223220000 +0000" stop="20251223231500 +0000" channel="CNN T RK HEVC">
+  <programme start="20251223220000 +0000" stop="20251223230000 +0000" channel="CNN T RK HEVC">
     <title>GECE HABERLERI</title>
   </programme>
-  <programme start="20251223220000 +0000" stop="20251223231500 +0000" channel="CNN T RK RAW">
+  <programme start="20251223220000 +0000" stop="20251223230000 +0000" channel="CNN T RK RAW">
     <title>GECE HABERLERI</title>
   </programme>
-  <programme start="20251223220000 +0000" stop="20251223231500 +0000" channel="CNN TURK">
+  <programme start="20251223220000 +0000" stop="20251223230000 +0000" channel="CNN TURK">
     <title>GECE HABERLERI</title>
   </programme>
-  <programme start="20251223220000 +0000" stop="20251223231500 +0000" channel="CNN TURK HD">
+  <programme start="20251223220000 +0000" stop="20251223230000 +0000" channel="CNN TURK HD">
     <title>GECE HABERLERI</title>
   </programme>
-  <programme start="20251223231500 +0000" stop="20251224030000 +0000" channel="4K TR: CNN T RK HD">
+  <programme start="20251223230000 +0000" stop="20251224030000 +0000" channel="4K TR: CNN T RK HD">
     <title>NE OLUYOR?</title>
   </programme>
-  <programme start="20251223231500 +0000" stop="20251224030000 +0000" channel="CNN T RK HD+ SD">
+  <programme start="20251223230000 +0000" stop="20251224030000 +0000" channel="CNN T RK HD+ SD">
     <title>NE OLUYOR?</title>
   </programme>
-  <programme start="20251223231500 +0000" stop="20251224030000 +0000" channel="CNN T RK HEVC">
+  <programme start="20251223230000 +0000" stop="20251224030000 +0000" channel="CNN T RK HEVC">
     <title>NE OLUYOR?</title>
   </programme>
-  <programme start="20251223231500 +0000" stop="20251224030000 +0000" channel="CNN T RK RAW">
+  <programme start="20251223230000 +0000" stop="20251224030000 +0000" channel="CNN T RK RAW">
     <title>NE OLUYOR?</title>
   </programme>
-  <programme start="20251223231500 +0000" stop="20251224030000 +0000" channel="CNN TURK">
+  <programme start="20251223230000 +0000" stop="20251224030000 +0000" channel="CNN TURK">
     <title>NE OLUYOR?</title>
   </programme>
-  <programme start="20251223231500 +0000" stop="20251224030000 +0000" channel="CNN TURK HD">
+  <programme start="20251223230000 +0000" stop="20251224030000 +0000" channel="CNN TURK HD">
     <title>NE OLUYOR?</title>
   </programme>
   <programme start="20251224030000 +0000" stop="20251224040000 +0000" channel="4K TR: CNN T RK HD">
@@ -14088,131 +14088,167 @@
   <programme start="20251224050000 +0000" stop="20251224080000 +0000" channel="A SPOR RAW">
     <title>SABAH SPORU</title>
   </programme>
-  <programme start="20251224080000 +0000" stop="20251224110000 +0000" channel="4K TR: A SPOR HD">
+  <programme start="20251224080000 +0000" stop="20251224100000 +0000" channel="4K TR: A SPOR HD">
     <title>SPOR AJANSI</title>
   </programme>
-  <programme start="20251224080000 +0000" stop="20251224110000 +0000" channel="A SPOR">
+  <programme start="20251224080000 +0000" stop="20251224100000 +0000" channel="A SPOR">
     <title>SPOR AJANSI</title>
   </programme>
-  <programme start="20251224080000 +0000" stop="20251224110000 +0000" channel="A SPOR FHD">
+  <programme start="20251224080000 +0000" stop="20251224100000 +0000" channel="A SPOR FHD">
     <title>SPOR AJANSI</title>
   </programme>
-  <programme start="20251224080000 +0000" stop="20251224110000 +0000" channel="A SPOR HD">
+  <programme start="20251224080000 +0000" stop="20251224100000 +0000" channel="A SPOR HD">
     <title>SPOR AJANSI</title>
   </programme>
-  <programme start="20251224080000 +0000" stop="20251224110000 +0000" channel="A SPOR HEVC">
+  <programme start="20251224080000 +0000" stop="20251224100000 +0000" channel="A SPOR HEVC">
     <title>SPOR AJANSI</title>
   </programme>
-  <programme start="20251224080000 +0000" stop="20251224110000 +0000" channel="A SPOR RAW">
+  <programme start="20251224080000 +0000" stop="20251224100000 +0000" channel="A SPOR RAW">
     <title>SPOR AJANSI</title>
   </programme>
-  <programme start="20251224110000 +0000" stop="20251224120000 +0000" channel="4K TR: A SPOR HD">
-    <title>GÜN ORTASI</title>
+  <programme start="20251224100000 +0000" stop="20251224120000 +0000" channel="4K TR: A SPOR HD">
+    <title>A.H. IĞDIR FK - ALIAĞA</title>
   </programme>
-  <programme start="20251224110000 +0000" stop="20251224120000 +0000" channel="A SPOR">
-    <title>GÜN ORTASI</title>
+  <programme start="20251224100000 +0000" stop="20251224120000 +0000" channel="A SPOR">
+    <title>A.H. IĞDIR FK - ALIAĞA</title>
   </programme>
-  <programme start="20251224110000 +0000" stop="20251224120000 +0000" channel="A SPOR FHD">
-    <title>GÜN ORTASI</title>
+  <programme start="20251224100000 +0000" stop="20251224120000 +0000" channel="A SPOR FHD">
+    <title>A.H. IĞDIR FK - ALIAĞA</title>
   </programme>
-  <programme start="20251224110000 +0000" stop="20251224120000 +0000" channel="A SPOR HD">
-    <title>GÜN ORTASI</title>
+  <programme start="20251224100000 +0000" stop="20251224120000 +0000" channel="A SPOR HD">
+    <title>A.H. IĞDIR FK - ALIAĞA</title>
   </programme>
-  <programme start="20251224110000 +0000" stop="20251224120000 +0000" channel="A SPOR HEVC">
-    <title>GÜN ORTASI</title>
+  <programme start="20251224100000 +0000" stop="20251224120000 +0000" channel="A SPOR HEVC">
+    <title>A.H. IĞDIR FK - ALIAĞA</title>
   </programme>
-  <programme start="20251224110000 +0000" stop="20251224120000 +0000" channel="A SPOR RAW">
-    <title>GÜN ORTASI</title>
+  <programme start="20251224100000 +0000" stop="20251224120000 +0000" channel="A SPOR RAW">
+    <title>A.H. IĞDIR FK - ALIAĞA</title>
   </programme>
-  <programme start="20251224120000 +0000" stop="20251224150000 +0000" channel="4K TR: A SPOR HD">
-    <title>SPOR GÜNDEMI</title>
+  <programme start="20251224120000 +0000" stop="20251224123000 +0000" channel="4K TR: A SPOR HD">
+    <title>SPOR BÜLTENI</title>
   </programme>
-  <programme start="20251224120000 +0000" stop="20251224150000 +0000" channel="A SPOR">
-    <title>SPOR GÜNDEMI</title>
+  <programme start="20251224120000 +0000" stop="20251224123000 +0000" channel="A SPOR">
+    <title>SPOR BÜLTENI</title>
   </programme>
-  <programme start="20251224120000 +0000" stop="20251224150000 +0000" channel="A SPOR FHD">
-    <title>SPOR GÜNDEMI</title>
+  <programme start="20251224120000 +0000" stop="20251224123000 +0000" channel="A SPOR FHD">
+    <title>SPOR BÜLTENI</title>
   </programme>
-  <programme start="20251224120000 +0000" stop="20251224150000 +0000" channel="A SPOR HD">
-    <title>SPOR GÜNDEMI</title>
+  <programme start="20251224120000 +0000" stop="20251224123000 +0000" channel="A SPOR HD">
+    <title>SPOR BÜLTENI</title>
   </programme>
-  <programme start="20251224120000 +0000" stop="20251224150000 +0000" channel="A SPOR HEVC">
-    <title>SPOR GÜNDEMI</title>
+  <programme start="20251224120000 +0000" stop="20251224123000 +0000" channel="A SPOR HEVC">
+    <title>SPOR BÜLTENI</title>
   </programme>
-  <programme start="20251224120000 +0000" stop="20251224150000 +0000" channel="A SPOR RAW">
-    <title>SPOR GÜNDEMI</title>
+  <programme start="20251224120000 +0000" stop="20251224123000 +0000" channel="A SPOR RAW">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251224123000 +0000" stop="20251224143000 +0000" channel="4K TR: A SPOR HD">
+    <title>BOLUSPOR - FETHIYESPOR</title>
+  </programme>
+  <programme start="20251224123000 +0000" stop="20251224143000 +0000" channel="A SPOR">
+    <title>BOLUSPOR - FETHIYESPOR</title>
+  </programme>
+  <programme start="20251224123000 +0000" stop="20251224143000 +0000" channel="A SPOR FHD">
+    <title>BOLUSPOR - FETHIYESPOR</title>
+  </programme>
+  <programme start="20251224123000 +0000" stop="20251224143000 +0000" channel="A SPOR HD">
+    <title>BOLUSPOR - FETHIYESPOR</title>
+  </programme>
+  <programme start="20251224123000 +0000" stop="20251224143000 +0000" channel="A SPOR HEVC">
+    <title>BOLUSPOR - FETHIYESPOR</title>
+  </programme>
+  <programme start="20251224123000 +0000" stop="20251224143000 +0000" channel="A SPOR RAW">
+    <title>BOLUSPOR - FETHIYESPOR</title>
+  </programme>
+  <programme start="20251224143000 +0000" stop="20251224150000 +0000" channel="4K TR: A SPOR HD">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251224143000 +0000" stop="20251224150000 +0000" channel="A SPOR">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251224143000 +0000" stop="20251224150000 +0000" channel="A SPOR FHD">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251224143000 +0000" stop="20251224150000 +0000" channel="A SPOR HD">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251224143000 +0000" stop="20251224150000 +0000" channel="A SPOR HEVC">
+    <title>SPOR BÜLTENI</title>
+  </programme>
+  <programme start="20251224143000 +0000" stop="20251224150000 +0000" channel="A SPOR RAW">
+    <title>SPOR BÜLTENI</title>
   </programme>
   <programme start="20251224150000 +0000" stop="20251224170000 +0000" channel="4K TR: A SPOR HD">
-    <title>ANA HABER</title>
+    <title>KEÇIÖRENGÜCÜ -BEYOĞLU YÇ</title>
   </programme>
   <programme start="20251224150000 +0000" stop="20251224170000 +0000" channel="A SPOR">
-    <title>ANA HABER</title>
+    <title>KEÇIÖRENGÜCÜ -BEYOĞLU YÇ</title>
   </programme>
   <programme start="20251224150000 +0000" stop="20251224170000 +0000" channel="A SPOR FHD">
-    <title>ANA HABER</title>
+    <title>KEÇIÖRENGÜCÜ -BEYOĞLU YÇ</title>
   </programme>
   <programme start="20251224150000 +0000" stop="20251224170000 +0000" channel="A SPOR HD">
-    <title>ANA HABER</title>
+    <title>KEÇIÖRENGÜCÜ -BEYOĞLU YÇ</title>
   </programme>
   <programme start="20251224150000 +0000" stop="20251224170000 +0000" channel="A SPOR HEVC">
-    <title>ANA HABER</title>
+    <title>KEÇIÖRENGÜCÜ -BEYOĞLU YÇ</title>
   </programme>
   <programme start="20251224150000 +0000" stop="20251224170000 +0000" channel="A SPOR RAW">
-    <title>ANA HABER</title>
+    <title>KEÇIÖRENGÜCÜ -BEYOĞLU YÇ</title>
   </programme>
-  <programme start="20251224170000 +0000" stop="20251224180000 +0000" channel="4K TR: A SPOR HD">
-    <title>AVRUPA'DAN FUTBOL</title>
+  <programme start="20251224170000 +0000" stop="20251224173000 +0000" channel="4K TR: A SPOR HD">
+    <title>TÜRKIYE'NIN KUPASI</title>
   </programme>
-  <programme start="20251224170000 +0000" stop="20251224180000 +0000" channel="A SPOR">
-    <title>AVRUPA'DAN FUTBOL</title>
+  <programme start="20251224170000 +0000" stop="20251224173000 +0000" channel="A SPOR">
+    <title>TÜRKIYE'NIN KUPASI</title>
   </programme>
-  <programme start="20251224170000 +0000" stop="20251224180000 +0000" channel="A SPOR FHD">
-    <title>AVRUPA'DAN FUTBOL</title>
+  <programme start="20251224170000 +0000" stop="20251224173000 +0000" channel="A SPOR FHD">
+    <title>TÜRKIYE'NIN KUPASI</title>
   </programme>
-  <programme start="20251224170000 +0000" stop="20251224180000 +0000" channel="A SPOR HD">
-    <title>AVRUPA'DAN FUTBOL</title>
+  <programme start="20251224170000 +0000" stop="20251224173000 +0000" channel="A SPOR HD">
+    <title>TÜRKIYE'NIN KUPASI</title>
   </programme>
-  <programme start="20251224170000 +0000" stop="20251224180000 +0000" channel="A SPOR HEVC">
-    <title>AVRUPA'DAN FUTBOL</title>
+  <programme start="20251224170000 +0000" stop="20251224173000 +0000" channel="A SPOR HEVC">
+    <title>TÜRKIYE'NIN KUPASI</title>
   </programme>
-  <programme start="20251224170000 +0000" stop="20251224180000 +0000" channel="A SPOR RAW">
-    <title>AVRUPA'DAN FUTBOL</title>
+  <programme start="20251224170000 +0000" stop="20251224173000 +0000" channel="A SPOR RAW">
+    <title>TÜRKIYE'NIN KUPASI</title>
   </programme>
-  <programme start="20251224180000 +0000" stop="20251224200000 +0000" channel="4K TR: A SPOR HD">
-    <title>SPOR MERKEZI</title>
+  <programme start="20251224173000 +0000" stop="20251224193000 +0000" channel="4K TR: A SPOR HD">
+    <title>SAMSUNSPOR - İ.EYÜPSPOR</title>
   </programme>
-  <programme start="20251224180000 +0000" stop="20251224200000 +0000" channel="A SPOR">
-    <title>SPOR MERKEZI</title>
+  <programme start="20251224173000 +0000" stop="20251224193000 +0000" channel="A SPOR">
+    <title>SAMSUNSPOR - İ.EYÜPSPOR</title>
   </programme>
-  <programme start="20251224180000 +0000" stop="20251224200000 +0000" channel="A SPOR FHD">
-    <title>SPOR MERKEZI</title>
+  <programme start="20251224173000 +0000" stop="20251224193000 +0000" channel="A SPOR FHD">
+    <title>SAMSUNSPOR - İ.EYÜPSPOR</title>
   </programme>
-  <programme start="20251224180000 +0000" stop="20251224200000 +0000" channel="A SPOR HD">
-    <title>SPOR MERKEZI</title>
+  <programme start="20251224173000 +0000" stop="20251224193000 +0000" channel="A SPOR HD">
+    <title>SAMSUNSPOR - İ.EYÜPSPOR</title>
   </programme>
-  <programme start="20251224180000 +0000" stop="20251224200000 +0000" channel="A SPOR HEVC">
-    <title>SPOR MERKEZI</title>
+  <programme start="20251224173000 +0000" stop="20251224193000 +0000" channel="A SPOR HEVC">
+    <title>SAMSUNSPOR - İ.EYÜPSPOR</title>
   </programme>
-  <programme start="20251224180000 +0000" stop="20251224200000 +0000" channel="A SPOR RAW">
-    <title>SPOR MERKEZI</title>
+  <programme start="20251224173000 +0000" stop="20251224193000 +0000" channel="A SPOR RAW">
+    <title>SAMSUNSPOR - İ.EYÜPSPOR</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224230000 +0000" channel="4K TR: A SPOR HD">
-    <title>SON SAYFA</title>
+  <programme start="20251224193000 +0000" stop="20251224210000 +0000" channel="4K TR: A SPOR HD">
+    <title>TÜRKIYE'NIN KUPASI</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224230000 +0000" channel="A SPOR">
-    <title>SON SAYFA</title>
+  <programme start="20251224193000 +0000" stop="20251224210000 +0000" channel="A SPOR">
+    <title>TÜRKIYE'NIN KUPASI</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224230000 +0000" channel="A SPOR FHD">
-    <title>SON SAYFA</title>
+  <programme start="20251224193000 +0000" stop="20251224210000 +0000" channel="A SPOR FHD">
+    <title>TÜRKIYE'NIN KUPASI</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224230000 +0000" channel="A SPOR HD">
-    <title>SON SAYFA</title>
+  <programme start="20251224193000 +0000" stop="20251224210000 +0000" channel="A SPOR HD">
+    <title>TÜRKIYE'NIN KUPASI</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224230000 +0000" channel="A SPOR HEVC">
-    <title>SON SAYFA</title>
+  <programme start="20251224193000 +0000" stop="20251224210000 +0000" channel="A SPOR HEVC">
+    <title>TÜRKIYE'NIN KUPASI</title>
   </programme>
-  <programme start="20251224200000 +0000" stop="20251224230000 +0000" channel="A SPOR RAW">
-    <title>SON SAYFA</title>
+  <programme start="20251224193000 +0000" stop="20251224210000 +0000" channel="A SPOR RAW">
+    <title>TÜRKIYE'NIN KUPASI</title>
   </programme>
   <programme start="20251223220000 +0000" stop="20251224003000 +0000" channel="HT SPOR HD">
     <title>DAKIKA 90</title>
@@ -23550,22 +23586,13 @@
   <programme start="20251224005500 +0000" stop="20251224010500 +0000" channel="CARTOON NETWORK HD">
     <title>KRAL ŞAKIR</title>
   </programme>
-  <programme start="20251224010500 +0000" stop="20251224012000 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20251224010500 +0000" stop="20251224013000 +0000" channel="4K TR: CARTOON NETWORK">
     <title>KRAL ŞAKIR</title>
   </programme>
-  <programme start="20251224010500 +0000" stop="20251224012000 +0000" channel="CARTOON NETWORK">
+  <programme start="20251224010500 +0000" stop="20251224013000 +0000" channel="CARTOON NETWORK">
     <title>KRAL ŞAKIR</title>
   </programme>
-  <programme start="20251224010500 +0000" stop="20251224012000 +0000" channel="CARTOON NETWORK HD">
-    <title>KRAL ŞAKIR</title>
-  </programme>
-  <programme start="20251224012000 +0000" stop="20251224013000 +0000" channel="4K TR: CARTOON NETWORK">
-    <title>KRAL ŞAKIR</title>
-  </programme>
-  <programme start="20251224012000 +0000" stop="20251224013000 +0000" channel="CARTOON NETWORK">
-    <title>KRAL ŞAKIR</title>
-  </programme>
-  <programme start="20251224012000 +0000" stop="20251224013000 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20251224010500 +0000" stop="20251224013000 +0000" channel="CARTOON NETWORK HD">
     <title>KRAL ŞAKIR</title>
   </programme>
   <programme start="20251224013000 +0000" stop="20251224014500 +0000" channel="4K TR: CARTOON NETWORK">
@@ -23676,13 +23703,22 @@
   <programme start="20251224040000 +0000" stop="20251224041500 +0000" channel="CARTOON NETWORK HD">
     <title>BARNEY’NIN DÜNYASI</title>
   </programme>
-  <programme start="20251224041500 +0000" stop="20251224043000 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20251224041500 +0000" stop="20251224042000 +0000" channel="4K TR: CARTOON NETWORK">
     <title>BARNEY’NIN DÜNYASI</title>
   </programme>
-  <programme start="20251224041500 +0000" stop="20251224043000 +0000" channel="CARTOON NETWORK">
+  <programme start="20251224041500 +0000" stop="20251224042000 +0000" channel="CARTOON NETWORK">
     <title>BARNEY’NIN DÜNYASI</title>
   </programme>
-  <programme start="20251224041500 +0000" stop="20251224043000 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20251224041500 +0000" stop="20251224042000 +0000" channel="CARTOON NETWORK HD">
+    <title>BARNEY’NIN DÜNYASI</title>
+  </programme>
+  <programme start="20251224042000 +0000" stop="20251224043000 +0000" channel="4K TR: CARTOON NETWORK">
+    <title>BARNEY’NIN DÜNYASI</title>
+  </programme>
+  <programme start="20251224042000 +0000" stop="20251224043000 +0000" channel="CARTOON NETWORK">
+    <title>BARNEY’NIN DÜNYASI</title>
+  </programme>
+  <programme start="20251224042000 +0000" stop="20251224043000 +0000" channel="CARTOON NETWORK HD">
     <title>BARNEY’NIN DÜNYASI</title>
   </programme>
   <programme start="20251224043000 +0000" stop="20251224044500 +0000" channel="4K TR: CARTOON NETWORK">
@@ -23703,14 +23739,23 @@
   <programme start="20251224044500 +0000" stop="20251224050000 +0000" channel="CARTOON NETWORK HD">
     <title>BUGS BUNNY YAPI USTALARI</title>
   </programme>
-  <programme start="20251224050000 +0000" stop="20251224053000 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20251224050000 +0000" stop="20251224052500 +0000" channel="4K TR: CARTOON NETWORK">
     <title>PAW PATROL</title>
   </programme>
-  <programme start="20251224050000 +0000" stop="20251224053000 +0000" channel="CARTOON NETWORK">
+  <programme start="20251224050000 +0000" stop="20251224052500 +0000" channel="CARTOON NETWORK">
     <title>PAW PATROL</title>
   </programme>
-  <programme start="20251224050000 +0000" stop="20251224053000 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20251224050000 +0000" stop="20251224052500 +0000" channel="CARTOON NETWORK HD">
     <title>PAW PATROL</title>
+  </programme>
+  <programme start="20251224052500 +0000" stop="20251224053000 +0000" channel="4K TR: CARTOON NETWORK">
+    <title>BATWHEELS</title>
+  </programme>
+  <programme start="20251224052500 +0000" stop="20251224053000 +0000" channel="CARTOON NETWORK">
+    <title>BATWHEELS</title>
+  </programme>
+  <programme start="20251224052500 +0000" stop="20251224053000 +0000" channel="CARTOON NETWORK HD">
+    <title>BATWHEELS</title>
   </programme>
   <programme start="20251224053000 +0000" stop="20251224060000 +0000" channel="4K TR: CARTOON NETWORK">
     <title>GABBY’NIN HAYAL EVI</title>
@@ -23829,22 +23874,13 @@
   <programme start="20251224073500 +0000" stop="20251224074000 +0000" channel="CARTOON NETWORK HD">
     <title>TOM VE JERRY ŞOV</title>
   </programme>
-  <programme start="20251224074000 +0000" stop="20251224075000 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20251224074000 +0000" stop="20251224080000 +0000" channel="4K TR: CARTOON NETWORK">
     <title>TOM VE JERRY ŞOV</title>
   </programme>
-  <programme start="20251224074000 +0000" stop="20251224075000 +0000" channel="CARTOON NETWORK">
+  <programme start="20251224074000 +0000" stop="20251224080000 +0000" channel="CARTOON NETWORK">
     <title>TOM VE JERRY ŞOV</title>
   </programme>
-  <programme start="20251224074000 +0000" stop="20251224075000 +0000" channel="CARTOON NETWORK HD">
-    <title>TOM VE JERRY ŞOV</title>
-  </programme>
-  <programme start="20251224075000 +0000" stop="20251224080000 +0000" channel="4K TR: CARTOON NETWORK">
-    <title>TOM VE JERRY ŞOV</title>
-  </programme>
-  <programme start="20251224075000 +0000" stop="20251224080000 +0000" channel="CARTOON NETWORK">
-    <title>TOM VE JERRY ŞOV</title>
-  </programme>
-  <programme start="20251224075000 +0000" stop="20251224080000 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20251224074000 +0000" stop="20251224080000 +0000" channel="CARTOON NETWORK HD">
     <title>TOM VE JERRY ŞOV</title>
   </programme>
   <programme start="20251224080000 +0000" stop="20251224080500 +0000" channel="4K TR: CARTOON NETWORK">
@@ -23865,22 +23901,13 @@
   <programme start="20251224080500 +0000" stop="20251224081000 +0000" channel="CARTOON NETWORK HD">
     <title>TOM VE JERRY ŞOV</title>
   </programme>
-  <programme start="20251224081000 +0000" stop="20251224082000 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20251224081000 +0000" stop="20251224083000 +0000" channel="4K TR: CARTOON NETWORK">
     <title>TOM VE JERRY ŞOV</title>
   </programme>
-  <programme start="20251224081000 +0000" stop="20251224082000 +0000" channel="CARTOON NETWORK">
+  <programme start="20251224081000 +0000" stop="20251224083000 +0000" channel="CARTOON NETWORK">
     <title>TOM VE JERRY ŞOV</title>
   </programme>
-  <programme start="20251224081000 +0000" stop="20251224082000 +0000" channel="CARTOON NETWORK HD">
-    <title>TOM VE JERRY ŞOV</title>
-  </programme>
-  <programme start="20251224082000 +0000" stop="20251224083000 +0000" channel="4K TR: CARTOON NETWORK">
-    <title>TOM VE JERRY ŞOV</title>
-  </programme>
-  <programme start="20251224082000 +0000" stop="20251224083000 +0000" channel="CARTOON NETWORK">
-    <title>TOM VE JERRY ŞOV</title>
-  </programme>
-  <programme start="20251224082000 +0000" stop="20251224083000 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20251224081000 +0000" stop="20251224083000 +0000" channel="CARTOON NETWORK HD">
     <title>TOM VE JERRY ŞOV</title>
   </programme>
   <programme start="20251224083000 +0000" stop="20251224084500 +0000" channel="4K TR: CARTOON NETWORK">
@@ -23955,22 +23982,13 @@
   <programme start="20251224093500 +0000" stop="20251224094500 +0000" channel="CARTOON NETWORK HD">
     <title>MAŞA ILE KOCA AYI</title>
   </programme>
-  <programme start="20251224094500 +0000" stop="20251224095000 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20251224094500 +0000" stop="20251224100000 +0000" channel="4K TR: CARTOON NETWORK">
     <title>MAŞA ILE KOCA AYI</title>
   </programme>
-  <programme start="20251224094500 +0000" stop="20251224095000 +0000" channel="CARTOON NETWORK">
+  <programme start="20251224094500 +0000" stop="20251224100000 +0000" channel="CARTOON NETWORK">
     <title>MAŞA ILE KOCA AYI</title>
   </programme>
-  <programme start="20251224094500 +0000" stop="20251224095000 +0000" channel="CARTOON NETWORK HD">
-    <title>MAŞA ILE KOCA AYI</title>
-  </programme>
-  <programme start="20251224095000 +0000" stop="20251224100000 +0000" channel="4K TR: CARTOON NETWORK">
-    <title>MAŞA ILE KOCA AYI</title>
-  </programme>
-  <programme start="20251224095000 +0000" stop="20251224100000 +0000" channel="CARTOON NETWORK">
-    <title>MAŞA ILE KOCA AYI</title>
-  </programme>
-  <programme start="20251224095000 +0000" stop="20251224100000 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20251224094500 +0000" stop="20251224100000 +0000" channel="CARTOON NETWORK HD">
     <title>MAŞA ILE KOCA AYI</title>
   </programme>
   <programme start="20251224100000 +0000" stop="20251224100500 +0000" channel="4K TR: CARTOON NETWORK">
@@ -23991,22 +24009,13 @@
   <programme start="20251224100500 +0000" stop="20251224101000 +0000" channel="CARTOON NETWORK HD">
     <title>GRIZZY AND THE LEMMINGS</title>
   </programme>
-  <programme start="20251224101000 +0000" stop="20251224102000 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20251224101000 +0000" stop="20251224103000 +0000" channel="4K TR: CARTOON NETWORK">
     <title>GRIZZY AND THE LEMMINGS</title>
   </programme>
-  <programme start="20251224101000 +0000" stop="20251224102000 +0000" channel="CARTOON NETWORK">
+  <programme start="20251224101000 +0000" stop="20251224103000 +0000" channel="CARTOON NETWORK">
     <title>GRIZZY AND THE LEMMINGS</title>
   </programme>
-  <programme start="20251224101000 +0000" stop="20251224102000 +0000" channel="CARTOON NETWORK HD">
-    <title>GRIZZY AND THE LEMMINGS</title>
-  </programme>
-  <programme start="20251224102000 +0000" stop="20251224103000 +0000" channel="4K TR: CARTOON NETWORK">
-    <title>GRIZZY AND THE LEMMINGS</title>
-  </programme>
-  <programme start="20251224102000 +0000" stop="20251224103000 +0000" channel="CARTOON NETWORK">
-    <title>GRIZZY AND THE LEMMINGS</title>
-  </programme>
-  <programme start="20251224102000 +0000" stop="20251224103000 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20251224101000 +0000" stop="20251224103000 +0000" channel="CARTOON NETWORK HD">
     <title>GRIZZY AND THE LEMMINGS</title>
   </programme>
   <programme start="20251224103000 +0000" stop="20251224103500 +0000" channel="4K TR: CARTOON NETWORK">
@@ -24027,22 +24036,13 @@
   <programme start="20251224103500 +0000" stop="20251224104000 +0000" channel="CARTOON NETWORK HD">
     <title>GRIZZY AND THE LEMMINGS</title>
   </programme>
-  <programme start="20251224104000 +0000" stop="20251224105000 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20251224104000 +0000" stop="20251224110000 +0000" channel="4K TR: CARTOON NETWORK">
     <title>GRIZZY AND THE LEMMINGS</title>
   </programme>
-  <programme start="20251224104000 +0000" stop="20251224105000 +0000" channel="CARTOON NETWORK">
+  <programme start="20251224104000 +0000" stop="20251224110000 +0000" channel="CARTOON NETWORK">
     <title>GRIZZY AND THE LEMMINGS</title>
   </programme>
-  <programme start="20251224104000 +0000" stop="20251224105000 +0000" channel="CARTOON NETWORK HD">
-    <title>GRIZZY AND THE LEMMINGS</title>
-  </programme>
-  <programme start="20251224105000 +0000" stop="20251224110000 +0000" channel="4K TR: CARTOON NETWORK">
-    <title>GRIZZY AND THE LEMMINGS</title>
-  </programme>
-  <programme start="20251224105000 +0000" stop="20251224110000 +0000" channel="CARTOON NETWORK">
-    <title>GRIZZY AND THE LEMMINGS</title>
-  </programme>
-  <programme start="20251224105000 +0000" stop="20251224110000 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20251224104000 +0000" stop="20251224110000 +0000" channel="CARTOON NETWORK HD">
     <title>GRIZZY AND THE LEMMINGS</title>
   </programme>
   <programme start="20251224110000 +0000" stop="20251224111000 +0000" channel="4K TR: CARTOON NETWORK">
@@ -24207,22 +24207,13 @@
   <programme start="20251224153000 +0000" stop="20251224154000 +0000" channel="CARTOON NETWORK HD">
     <title>GUMBALL</title>
   </programme>
-  <programme start="20251224154000 +0000" stop="20251224154500 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20251224154000 +0000" stop="20251224160000 +0000" channel="4K TR: CARTOON NETWORK">
     <title>GUMBALL</title>
   </programme>
-  <programme start="20251224154000 +0000" stop="20251224154500 +0000" channel="CARTOON NETWORK">
+  <programme start="20251224154000 +0000" stop="20251224160000 +0000" channel="CARTOON NETWORK">
     <title>GUMBALL</title>
   </programme>
-  <programme start="20251224154000 +0000" stop="20251224154500 +0000" channel="CARTOON NETWORK HD">
-    <title>GUMBALL</title>
-  </programme>
-  <programme start="20251224154500 +0000" stop="20251224160000 +0000" channel="4K TR: CARTOON NETWORK">
-    <title>GUMBALL</title>
-  </programme>
-  <programme start="20251224154500 +0000" stop="20251224160000 +0000" channel="CARTOON NETWORK">
-    <title>GUMBALL</title>
-  </programme>
-  <programme start="20251224154500 +0000" stop="20251224160000 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20251224154000 +0000" stop="20251224160000 +0000" channel="CARTOON NETWORK HD">
     <title>GUMBALL</title>
   </programme>
   <programme start="20251224160000 +0000" stop="20251224161500 +0000" channel="4K TR: CARTOON NETWORK">
@@ -24243,23 +24234,68 @@
   <programme start="20251224161500 +0000" stop="20251224163000 +0000" channel="CARTOON NETWORK HD">
     <title>KUCHO SÜPER SIRADAN KÖPEK</title>
   </programme>
-  <programme start="20251224163000 +0000" stop="20251224164500 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20251224163000 +0000" stop="20251224170000 +0000" channel="4K TR: CARTOON NETWORK">
     <title>KUCHO SÜPER SIRADAN KÖPEK</title>
   </programme>
-  <programme start="20251224163000 +0000" stop="20251224164500 +0000" channel="CARTOON NETWORK">
+  <programme start="20251224163000 +0000" stop="20251224170000 +0000" channel="CARTOON NETWORK">
     <title>KUCHO SÜPER SIRADAN KÖPEK</title>
   </programme>
-  <programme start="20251224163000 +0000" stop="20251224164500 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20251224163000 +0000" stop="20251224170000 +0000" channel="CARTOON NETWORK HD">
     <title>KUCHO SÜPER SIRADAN KÖPEK</title>
   </programme>
-  <programme start="20251224164500 +0000" stop="20251224170000 +0000" channel="4K TR: CARTOON NETWORK">
-    <title>KUCHO SÜPER SIRADAN KÖPEK</title>
+  <programme start="20251224170000 +0000" stop="20251224171000 +0000" channel="4K TR: CARTOON NETWORK">
+    <title>TEEN TITANS GO!</title>
   </programme>
-  <programme start="20251224164500 +0000" stop="20251224170000 +0000" channel="CARTOON NETWORK">
-    <title>KUCHO SÜPER SIRADAN KÖPEK</title>
+  <programme start="20251224170000 +0000" stop="20251224171000 +0000" channel="CARTOON NETWORK">
+    <title>TEEN TITANS GO!</title>
   </programme>
-  <programme start="20251224164500 +0000" stop="20251224170000 +0000" channel="CARTOON NETWORK HD">
-    <title>KUCHO SÜPER SIRADAN KÖPEK</title>
+  <programme start="20251224170000 +0000" stop="20251224171000 +0000" channel="CARTOON NETWORK HD">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224171000 +0000" stop="20251224172000 +0000" channel="4K TR: CARTOON NETWORK">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224171000 +0000" stop="20251224172000 +0000" channel="CARTOON NETWORK">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224171000 +0000" stop="20251224172000 +0000" channel="CARTOON NETWORK HD">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224172000 +0000" stop="20251224173000 +0000" channel="4K TR: CARTOON NETWORK">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224172000 +0000" stop="20251224173000 +0000" channel="CARTOON NETWORK">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224172000 +0000" stop="20251224173000 +0000" channel="CARTOON NETWORK HD">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224173000 +0000" stop="20251224174500 +0000" channel="4K TR: CARTOON NETWORK">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224173000 +0000" stop="20251224174500 +0000" channel="CARTOON NETWORK">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224173000 +0000" stop="20251224174500 +0000" channel="CARTOON NETWORK HD">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224174500 +0000" stop="20251224180000 +0000" channel="4K TR: CARTOON NETWORK">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224174500 +0000" stop="20251224180000 +0000" channel="CARTOON NETWORK">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224174500 +0000" stop="20251224180000 +0000" channel="CARTOON NETWORK HD">
+    <title>TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20251224180000 +0000" stop="20251224181500 +0000" channel="4K TR: CARTOON NETWORK">
+    <title>GUMBALL'IN MUHTEŞEM TUHAF...</title>
+  </programme>
+  <programme start="20251224180000 +0000" stop="20251224181500 +0000" channel="CARTOON NETWORK">
+    <title>GUMBALL'IN MUHTEŞEM TUHAF...</title>
+  </programme>
+  <programme start="20251224180000 +0000" stop="20251224181500 +0000" channel="CARTOON NETWORK HD">
+    <title>GUMBALL'IN MUHTEŞEM TUHAF...</title>
   </programme>
   <programme start="20251223211500 +0000" stop="20251223213500 +0000" channel="TRT COCUK">
     <title>MAYSA VE BULUT</title>
