@@ -1,4 +1,40 @@
 {
+  "/anime/theres-no-freaking-way-ill-be-your-lover-unless-sequel/": {
+    "group": "THERE’S NO FREAKING WAY I’LL BE YOUR LOVER! UNLESS… (SEQUEL)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/golden-kamuy-final-season/": {
+    "group": "GOLDEN KAMUY FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-hero-academia-vigilantes-season-2/": {
+    "group": "MY HERO ACADEMIA: VIGILANTES SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/trigun-stargaze/": {
+    "group": "TRIGUN STARGAZE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/undead-unluck-winter-arc/": {
+    "group": "UNDEAD UNLUCK: WINTER ARC",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/blue-orchestra-season-2/": {
+    "group": "BLUE ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/anime/the-dark-history-of-the-reincarnated-villainess/": {
     "group": "THE DARK HISTORY OF THE REINCARNATED VILLAINESS",
     "last_season": 1,
@@ -81,42 +117,6 @@
     "group": "SENTENCED TO BE A HERO",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/chained-soldier-season-2-uncensored/": {
-    "group": "CHAINED SOLDIER SEASON 2 (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/plus-sized-misadventures-in-love/": {
-    "group": "PLUS-SIZED MISADVENTURES IN LOVE!",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/a-mangakas-weirdly-wonderful-workplace/": {
-    "group": "A MANGAKA’S WEIRDLY WONDERFUL WORKPLACE",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/hands-off-sawaranaide-kotesashi-kun-uncensored/": {
-    "group": "HANDS OFF: SAWARANAIDE KOTESASHI-KUN (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/the-fated-magical-princess-who-made-me-a-princess/": {
-    "group": "THE FATED MAGICAL PRINCESS: WHO MADE ME A PRINCESS",
-    "last_season": 1,
-    "last_episode": 15,
-    "start_episode": 1
-  },
-  "/anime/one-punch-man-season-3/": {
-    "group": "ONE-PUNCH MAN SEASON 3",
-    "last_season": 1,
-    "last_episode": 11,
     "start_episode": 1
   }
 }

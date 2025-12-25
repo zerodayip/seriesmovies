@@ -844,5 +844,29 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/theres-no-freaking-way-ill-be-your-lover-unless-sequel/": {
+    "group": "THERE’S NO FREAKING WAY I’LL BE YOUR LOVER! UNLESS… (SEQUEL)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/golden-kamuy-final-season/": {
+    "group": "GOLDEN KAMUY FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-hero-academia-vigilantes-season-2/": {
+    "group": "MY HERO ACADEMIA: VIGILANTES SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/trigun-stargaze/": {
+    "group": "TRIGUN STARGAZE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
