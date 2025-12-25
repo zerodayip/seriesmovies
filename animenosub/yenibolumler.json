@@ -1,4 +1,10 @@
 {
+  "/anime/this-monster-wants-to-eat-me/": {
+    "group": "THIS MONSTER WANTS TO EAT ME",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/anime/theres-no-freaking-way-ill-be-your-lover-unless-sequel/": {
     "group": "THERE’S NO FREAKING WAY I’LL BE YOUR LOVER! UNLESS… (SEQUEL)",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her/": {
     "group": "THERE WAS A CUTE GIRL IN THE HERO’S PARTY SO I TRIED CONFESSING TO HER.",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/sentenced-to-be-a-hero/": {
-    "group": "SENTENCED TO BE A HERO",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1

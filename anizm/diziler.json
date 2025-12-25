@@ -1240,5 +1240,11 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/undead-unluck-winter-hen": {
+    "group": "UNDEAD UNLUCK: WINTER-HEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

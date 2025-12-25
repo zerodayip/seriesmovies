@@ -1,4 +1,22 @@
 {
+  "/dizi/the-mighty-nein/": {
+    "group": "THE MIGHTY NEIN",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/spartacus-house-of-ashur/": {
+    "group": "SPARTACUS: HOUSE OF ASHUR",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi/nice-to-not-meet-you/": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/dizi/percy-jackson-and-the-olympians/": {
     "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 2,

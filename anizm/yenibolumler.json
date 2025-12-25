@@ -1,4 +1,16 @@
 {
+  "/watashi-wo-tabetai-hitodenashi": {
+    "group": "WATASHI WO TABETAI, HITODENASHI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/undead-unluck-winter-hen": {
+    "group": "UNDEAD UNLUCK: WINTER-HEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/ao-no-orchestra-season-2": {
     "group": "AO NO ORCHESTRA SEASON 2",
     "last_season": 1,
@@ -75,18 +87,6 @@
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
     "last_episode": 15.0,
-    "start_episode": 1
-  },
-  "/one-piece": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1154.0,
-    "start_episode": 1130
-  },
-  "/chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha": {
-    "group": "CHICHI WA EIYUU, HAHA WA SEIREI, MUSUME NO WATASHI WA TENSEISHA.",
-    "last_season": 1,
-    "last_episode": 12.0,
     "start_episode": 1
   }
 }
