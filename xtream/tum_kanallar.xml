@@ -1467,8 +1467,32 @@
   <programme start="20251225102700 +0000" stop="20251225121100 +0000" channel="TABII TV">
     <title>FILINTA</title>
   </programme>
-  <programme start="20251225121100 +0000" stop="20251226140000 +0000" channel="TABII TV">
+  <programme start="20251225121100 +0000" stop="20251225135500 +0000" channel="TABII TV">
     <title>FILINTA</title>
+  </programme>
+  <programme start="20251225135500 +0000" stop="20251225145600 +0000" channel="TABII TV">
+    <title>ÇIÇEK TAKSI</title>
+  </programme>
+  <programme start="20251225145600 +0000" stop="20251225155600 +0000" channel="TABII TV">
+    <title>ÇIÇEK TAKSI</title>
+  </programme>
+  <programme start="20251225155600 +0000" stop="20251225164300 +0000" channel="TABII TV">
+    <title>YEDI NUMARA</title>
+  </programme>
+  <programme start="20251225164300 +0000" stop="20251225172500 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20251225172500 +0000" stop="20251225181900 +0000" channel="TABII TV">
+    <title>METAMORFOZ: KIRILMA</title>
+  </programme>
+  <programme start="20251225181900 +0000" stop="20251225200300 +0000" channel="TABII TV">
+    <title>FILINTA</title>
+  </programme>
+  <programme start="20251225200300 +0000" stop="20251225205100 +0000" channel="TABII TV">
+    <title>KUZENLERIM</title>
+  </programme>
+  <programme start="20251225205100 +0000" stop="20251225213200 +0000" channel="TABII TV">
+    <title>BIZIMKILER</title>
   </programme>
   <programme start="20251224210000 +0000" stop="20251224224500 +0000" channel="4K TR: S NEMA YERL HD">
     <title>DÖNÜŞÜM: HTR2B</title>
@@ -34170,8 +34194,14 @@
   <programme start="20251225100000 +0000" stop="20251225103000 +0000" channel="KONTV">
     <title>BELGESEL</title>
   </programme>
-  <programme start="20251225103000 +0000" stop="20251225123000 +0000" channel="KONTV">
-    <title>İYILIKLE SEVINDIR</title>
+  <programme start="20251225103000 +0000" stop="20251225110000 +0000" channel="KONTV">
+    <title>KONTV</title>
+  </programme>
+  <programme start="20251225110000 +0000" stop="20251225120000 +0000" channel="KONTV">
+    <title>SELÇUKLU BELEDIYESI ŞIVLILIK</title>
+  </programme>
+  <programme start="20251225120000 +0000" stop="20251225123000 +0000" channel="KONTV">
+    <title>BUHÂRÎ-I ŞERÎF DERSLERI</title>
   </programme>
   <programme start="20251225123000 +0000" stop="20251225130000 +0000" channel="KONTV">
     <title>VELIVIZYON</title>
@@ -34182,20 +34212,20 @@
   <programme start="20251225140000 +0000" stop="20251225150000 +0000" channel="KONTV">
     <title>İZ BIRAKANLAR</title>
   </programme>
-  <programme start="20251225150000 +0000" stop="20251225163000 +0000" channel="KONTV">
-    <title>NELER OLUYOR</title>
+  <programme start="20251225150000 +0000" stop="20251225164500 +0000" channel="KONTV">
+    <title>REGAIB KANDILI ÖZEL: BOZKIR BÜYÜK CAMII</title>
   </programme>
-  <programme start="20251225163000 +0000" stop="20251225174000 +0000" channel="KONTV">
+  <programme start="20251225164500 +0000" stop="20251225180000 +0000" channel="KONTV">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20251225174000 +0000" stop="20251225184000 +0000" channel="KONTV">
+  <programme start="20251225180000 +0000" stop="20251225185000 +0000" channel="KONTV">
     <title>İYILIK YOLCULARI</title>
   </programme>
-  <programme start="20251225184000 +0000" stop="20251225200000 +0000" channel="KONTV">
-    <title>RAHMET İKLIMI</title>
+  <programme start="20251225185000 +0000" stop="20251225194500 +0000" channel="KONTV">
+    <title>KÜRSÜDEN GÖNÜLLERE</title>
   </programme>
-  <programme start="20251225200000 +0000" stop="20251225210000 +0000" channel="KONTV">
-    <title>NELER OLUYOR</title>
+  <programme start="20251225194500 +0000" stop="20251225210000 +0000" channel="KONTV">
+    <title>İZ BIRAKANLAR</title>
   </programme>
   <programme start="20251224210000 +0000" stop="20251225050000 +0000" channel="KANAL 23">
     <title>GECE GÖRÜŞÜ</title>
