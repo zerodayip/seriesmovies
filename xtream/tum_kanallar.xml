@@ -2592,22 +2592,22 @@
   <programme start="20251225160000 +0000" stop="20251225170000 +0000" channel="STAR TV RAW">
     <title>STAR HABER</title>
   </programme>
-  <programme start="20251225170000 +0000" stop="20251225213000 +0000" channel="4K TR: STAR TV HD">
+  <programme start="20251225170000 +0000" stop="20251225211500 +0000" channel="4K TR: STAR TV HD">
     <title>ÇOK GÜZEL HAREKETLER 2</title>
   </programme>
-  <programme start="20251225170000 +0000" stop="20251225213000 +0000" channel="STAR TV">
+  <programme start="20251225170000 +0000" stop="20251225211500 +0000" channel="STAR TV">
     <title>ÇOK GÜZEL HAREKETLER 2</title>
   </programme>
-  <programme start="20251225170000 +0000" stop="20251225213000 +0000" channel="STAR TV FHD">
+  <programme start="20251225170000 +0000" stop="20251225211500 +0000" channel="STAR TV FHD">
     <title>ÇOK GÜZEL HAREKETLER 2</title>
   </programme>
-  <programme start="20251225170000 +0000" stop="20251225213000 +0000" channel="STAR TV HD">
+  <programme start="20251225170000 +0000" stop="20251225211500 +0000" channel="STAR TV HD">
     <title>ÇOK GÜZEL HAREKETLER 2</title>
   </programme>
-  <programme start="20251225170000 +0000" stop="20251225213000 +0000" channel="STAR TV HEVC">
+  <programme start="20251225170000 +0000" stop="20251225211500 +0000" channel="STAR TV HEVC">
     <title>ÇOK GÜZEL HAREKETLER 2</title>
   </programme>
-  <programme start="20251225170000 +0000" stop="20251225213000 +0000" channel="STAR TV RAW">
+  <programme start="20251225170000 +0000" stop="20251225211500 +0000" channel="STAR TV RAW">
     <title>ÇOK GÜZEL HAREKETLER 2</title>
   </programme>
   <programme start="20251224212000 +0000" stop="20251224234000 +0000" channel="4K TR: ATV HD">
@@ -7974,29 +7974,53 @@
   <programme start="20251225122000 +0000" stop="20251225123000 +0000" channel="NTV SD">
     <title>SPOR</title>
   </programme>
-  <programme start="20251225123000 +0000" stop="20251225125500 +0000" channel="4K TR: NTV HD">
-    <title>BAKIŞ</title>
+  <programme start="20251225124000 +0000" stop="20251225124500 +0000" channel="4K TR: NTV HD">
+    <title>PARANIN NABZI</title>
   </programme>
-  <programme start="20251225123000 +0000" stop="20251225125500 +0000" channel="NTV">
-    <title>BAKIŞ</title>
+  <programme start="20251225124000 +0000" stop="20251225124500 +0000" channel="NTV">
+    <title>PARANIN NABZI</title>
   </programme>
-  <programme start="20251225123000 +0000" stop="20251225125500 +0000" channel="NTV HABER">
-    <title>BAKIŞ</title>
+  <programme start="20251225124000 +0000" stop="20251225124500 +0000" channel="NTV HABER">
+    <title>PARANIN NABZI</title>
   </programme>
-  <programme start="20251225123000 +0000" stop="20251225125500 +0000" channel="NTV HABER HD">
-    <title>BAKIŞ</title>
+  <programme start="20251225124000 +0000" stop="20251225124500 +0000" channel="NTV HABER HD">
+    <title>PARANIN NABZI</title>
   </programme>
-  <programme start="20251225123000 +0000" stop="20251225125500 +0000" channel="NTV HABER HEVC">
-    <title>BAKIŞ</title>
+  <programme start="20251225124000 +0000" stop="20251225124500 +0000" channel="NTV HABER HEVC">
+    <title>PARANIN NABZI</title>
   </programme>
-  <programme start="20251225123000 +0000" stop="20251225125500 +0000" channel="NTV HD">
-    <title>BAKIŞ</title>
+  <programme start="20251225124000 +0000" stop="20251225124500 +0000" channel="NTV HD">
+    <title>PARANIN NABZI</title>
   </programme>
-  <programme start="20251225123000 +0000" stop="20251225125500 +0000" channel="NTV RAW">
-    <title>BAKIŞ</title>
+  <programme start="20251225124000 +0000" stop="20251225124500 +0000" channel="NTV RAW">
+    <title>PARANIN NABZI</title>
   </programme>
-  <programme start="20251225123000 +0000" stop="20251225125500 +0000" channel="NTV SD">
-    <title>BAKIŞ</title>
+  <programme start="20251225124000 +0000" stop="20251225124500 +0000" channel="NTV SD">
+    <title>PARANIN NABZI</title>
+  </programme>
+  <programme start="20251225124500 +0000" stop="20251225125500 +0000" channel="4K TR: NTV HD">
+    <title>SPOR</title>
+  </programme>
+  <programme start="20251225124500 +0000" stop="20251225125500 +0000" channel="NTV">
+    <title>SPOR</title>
+  </programme>
+  <programme start="20251225124500 +0000" stop="20251225125500 +0000" channel="NTV HABER">
+    <title>SPOR</title>
+  </programme>
+  <programme start="20251225124500 +0000" stop="20251225125500 +0000" channel="NTV HABER HD">
+    <title>SPOR</title>
+  </programme>
+  <programme start="20251225124500 +0000" stop="20251225125500 +0000" channel="NTV HABER HEVC">
+    <title>SPOR</title>
+  </programme>
+  <programme start="20251225124500 +0000" stop="20251225125500 +0000" channel="NTV HD">
+    <title>SPOR</title>
+  </programme>
+  <programme start="20251225124500 +0000" stop="20251225125500 +0000" channel="NTV RAW">
+    <title>SPOR</title>
+  </programme>
+  <programme start="20251225124500 +0000" stop="20251225125500 +0000" channel="NTV SD">
+    <title>SPOR</title>
   </programme>
   <programme start="20251225125500 +0000" stop="20251225130000 +0000" channel="4K TR: NTV HD">
     <title>HAVA DURUMU</title>
@@ -12294,16 +12318,22 @@
   <programme start="20251225143000 +0000" stop="20251225153000 +0000" channel="AKIT TV">
     <title>İŞ VE EKONOMI</title>
   </programme>
-  <programme start="20251225153000 +0000" stop="20251225173000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251225153000 +0000" stop="20251225170000 +0000" channel="4K TR: AK T TV HD">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20251225153000 +0000" stop="20251225173000 +0000" channel="AKIT TV">
+  <programme start="20251225153000 +0000" stop="20251225170000 +0000" channel="AKIT TV">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20251225173000 +0000" stop="20251225203000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251225170000 +0000" stop="20251225183000 +0000" channel="4K TR: AK T TV HD">
+    <title>KANDIL ÖZEL</title>
+  </programme>
+  <programme start="20251225170000 +0000" stop="20251225183000 +0000" channel="AKIT TV">
+    <title>KANDIL ÖZEL</title>
+  </programme>
+  <programme start="20251225183000 +0000" stop="20251225203000 +0000" channel="4K TR: AK T TV HD">
     <title>SÖZ MEYDANI</title>
   </programme>
-  <programme start="20251225173000 +0000" stop="20251225203000 +0000" channel="AKIT TV">
+  <programme start="20251225183000 +0000" stop="20251225203000 +0000" channel="AKIT TV">
     <title>SÖZ MEYDANI</title>
   </programme>
   <programme start="20251225203000 +0000" stop="20251226040000 +0000" channel="4K TR: AK T TV HD">
@@ -13710,380 +13740,410 @@
   <programme start="20251225100000 +0000" stop="20251225101500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>HABER BÜLTENI</title>
   </programme>
-  <programme start="20251225101500 +0000" stop="20251225115000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251225101500 +0000" stop="20251225110500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>FRANSA - ABD</title>
   </programme>
-  <programme start="20251225101500 +0000" stop="20251225115000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251225101500 +0000" stop="20251225110500 +0000" channel="TRT SPOR YILDIZ">
     <title>FRANSA - ABD</title>
   </programme>
-  <programme start="20251225101500 +0000" stop="20251225115000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251225101500 +0000" stop="20251225110500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>FRANSA - ABD</title>
   </programme>
-  <programme start="20251225101500 +0000" stop="20251225115000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251225101500 +0000" stop="20251225110500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>FRANSA - ABD</title>
   </programme>
-  <programme start="20251225101500 +0000" stop="20251225115000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251225101500 +0000" stop="20251225110500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>FRANSA - ABD</title>
   </programme>
-  <programme start="20251225115000 +0000" stop="20251225120000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20251225115000 +0000" stop="20251225120000 +0000" channel="TRT SPOR YILDIZ">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20251225115000 +0000" stop="20251225120000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20251225115000 +0000" stop="20251225120000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20251225115000 +0000" stop="20251225120000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20251225120000 +0000" stop="20251225121500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>YAPABILIR MISIN?</title>
-  </programme>
-  <programme start="20251225120000 +0000" stop="20251225121500 +0000" channel="TRT SPOR YILDIZ">
-    <title>YAPABILIR MISIN?</title>
-  </programme>
-  <programme start="20251225120000 +0000" stop="20251225121500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>YAPABILIR MISIN?</title>
-  </programme>
-  <programme start="20251225120000 +0000" stop="20251225121500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>YAPABILIR MISIN?</title>
-  </programme>
-  <programme start="20251225120000 +0000" stop="20251225121500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>YAPABILIR MISIN?</title>
-  </programme>
-  <programme start="20251225121500 +0000" stop="20251225124000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>SPOR ÜNIVERSITEDE</title>
-  </programme>
-  <programme start="20251225121500 +0000" stop="20251225124000 +0000" channel="TRT SPOR YILDIZ">
-    <title>SPOR ÜNIVERSITEDE</title>
-  </programme>
-  <programme start="20251225121500 +0000" stop="20251225124000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SPOR ÜNIVERSITEDE</title>
-  </programme>
-  <programme start="20251225121500 +0000" stop="20251225124000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SPOR ÜNIVERSITEDE</title>
-  </programme>
-  <programme start="20251225121500 +0000" stop="20251225124000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SPOR ÜNIVERSITEDE</title>
-  </programme>
-  <programme start="20251225124000 +0000" stop="20251225130000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251225110500 +0000" stop="20251225112500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20251225124000 +0000" stop="20251225130000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251225110500 +0000" stop="20251225112500 +0000" channel="TRT SPOR YILDIZ">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20251225124000 +0000" stop="20251225130000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251225110500 +0000" stop="20251225112500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20251225124000 +0000" stop="20251225130000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251225110500 +0000" stop="20251225112500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20251225124000 +0000" stop="20251225130000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251225110500 +0000" stop="20251225112500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20251225130000 +0000" stop="20251225131500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251225112500 +0000" stop="20251225114000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>SPORLA DEĞIŞEN HAYATLAR</title>
   </programme>
-  <programme start="20251225130000 +0000" stop="20251225131500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251225112500 +0000" stop="20251225114000 +0000" channel="TRT SPOR YILDIZ">
     <title>SPORLA DEĞIŞEN HAYATLAR</title>
   </programme>
-  <programme start="20251225130000 +0000" stop="20251225131500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251225112500 +0000" stop="20251225114000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>SPORLA DEĞIŞEN HAYATLAR</title>
   </programme>
-  <programme start="20251225130000 +0000" stop="20251225131500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251225112500 +0000" stop="20251225114000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>SPORLA DEĞIŞEN HAYATLAR</title>
   </programme>
-  <programme start="20251225130000 +0000" stop="20251225131500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251225112500 +0000" stop="20251225114000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>SPORLA DEĞIŞEN HAYATLAR</title>
   </programme>
-  <programme start="20251225131500 +0000" stop="20251225132500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251225114000 +0000" stop="20251225115000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>6.ADAM</title>
   </programme>
-  <programme start="20251225131500 +0000" stop="20251225132500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251225114000 +0000" stop="20251225115000 +0000" channel="TRT SPOR YILDIZ">
     <title>6.ADAM</title>
   </programme>
-  <programme start="20251225131500 +0000" stop="20251225132500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251225114000 +0000" stop="20251225115000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>6.ADAM</title>
   </programme>
-  <programme start="20251225131500 +0000" stop="20251225132500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251225114000 +0000" stop="20251225115000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>6.ADAM</title>
   </programme>
-  <programme start="20251225131500 +0000" stop="20251225132500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251225114000 +0000" stop="20251225115000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>6.ADAM</title>
   </programme>
-  <programme start="20251225132500 +0000" stop="20251225151500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251225115000 +0000" stop="20251225134000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>NINERS - BEŞIKTAŞ GAIN</title>
   </programme>
-  <programme start="20251225132500 +0000" stop="20251225151500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251225115000 +0000" stop="20251225134000 +0000" channel="TRT SPOR YILDIZ">
     <title>NINERS - BEŞIKTAŞ GAIN</title>
   </programme>
-  <programme start="20251225132500 +0000" stop="20251225151500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251225115000 +0000" stop="20251225134000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>NINERS - BEŞIKTAŞ GAIN</title>
   </programme>
-  <programme start="20251225132500 +0000" stop="20251225151500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251225115000 +0000" stop="20251225134000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>NINERS - BEŞIKTAŞ GAIN</title>
   </programme>
-  <programme start="20251225132500 +0000" stop="20251225151500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251225115000 +0000" stop="20251225134000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>NINERS - BEŞIKTAŞ GAIN</title>
   </programme>
-  <programme start="20251225151500 +0000" stop="20251225153500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251225134000 +0000" stop="20251225140000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>EUROLEAGUE ÖZETLER</title>
   </programme>
-  <programme start="20251225151500 +0000" stop="20251225153500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251225134000 +0000" stop="20251225140000 +0000" channel="TRT SPOR YILDIZ">
     <title>EUROLEAGUE ÖZETLER</title>
   </programme>
-  <programme start="20251225151500 +0000" stop="20251225153500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251225134000 +0000" stop="20251225140000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>EUROLEAGUE ÖZETLER</title>
   </programme>
-  <programme start="20251225151500 +0000" stop="20251225153500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251225134000 +0000" stop="20251225140000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>EUROLEAGUE ÖZETLER</title>
   </programme>
-  <programme start="20251225151500 +0000" stop="20251225153500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251225134000 +0000" stop="20251225140000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>EUROLEAGUE ÖZETLER</title>
   </programme>
-  <programme start="20251225153500 +0000" stop="20251225154500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251225140000 +0000" stop="20251225141000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>YIL SONU 2025</title>
   </programme>
-  <programme start="20251225153500 +0000" stop="20251225154500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251225140000 +0000" stop="20251225141000 +0000" channel="TRT SPOR YILDIZ">
     <title>YIL SONU 2025</title>
   </programme>
-  <programme start="20251225153500 +0000" stop="20251225154500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251225140000 +0000" stop="20251225141000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>YIL SONU 2025</title>
   </programme>
-  <programme start="20251225153500 +0000" stop="20251225154500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251225140000 +0000" stop="20251225141000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>YIL SONU 2025</title>
   </programme>
-  <programme start="20251225153500 +0000" stop="20251225154500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251225140000 +0000" stop="20251225141000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>YIL SONU 2025</title>
   </programme>
-  <programme start="20251225154500 +0000" stop="20251225161000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251225141000 +0000" stop="20251225143500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>YENILMEZLER</title>
   </programme>
-  <programme start="20251225154500 +0000" stop="20251225161000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251225141000 +0000" stop="20251225143500 +0000" channel="TRT SPOR YILDIZ">
     <title>YENILMEZLER</title>
   </programme>
-  <programme start="20251225154500 +0000" stop="20251225161000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251225141000 +0000" stop="20251225143500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>YENILMEZLER</title>
   </programme>
-  <programme start="20251225154500 +0000" stop="20251225161000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251225141000 +0000" stop="20251225143500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>YENILMEZLER</title>
   </programme>
-  <programme start="20251225154500 +0000" stop="20251225161000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251225141000 +0000" stop="20251225143500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>YENILMEZLER</title>
   </programme>
-  <programme start="20251225161000 +0000" stop="20251225172500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ALMANYA - DANIMARKA</title>
-  </programme>
-  <programme start="20251225161000 +0000" stop="20251225172500 +0000" channel="TRT SPOR YILDIZ">
-    <title>ALMANYA - DANIMARKA</title>
-  </programme>
-  <programme start="20251225161000 +0000" stop="20251225172500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ALMANYA - DANIMARKA</title>
-  </programme>
-  <programme start="20251225161000 +0000" stop="20251225172500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ALMANYA - DANIMARKA</title>
-  </programme>
-  <programme start="20251225161000 +0000" stop="20251225172500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ALMANYA - DANIMARKA</title>
-  </programme>
-  <programme start="20251225172500 +0000" stop="20251225173000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251225143500 +0000" stop="20251225144000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>NEDIR, NASIL OYNANIR?</title>
   </programme>
-  <programme start="20251225172500 +0000" stop="20251225173000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251225143500 +0000" stop="20251225144000 +0000" channel="TRT SPOR YILDIZ">
     <title>NEDIR, NASIL OYNANIR?</title>
   </programme>
-  <programme start="20251225172500 +0000" stop="20251225173000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251225143500 +0000" stop="20251225144000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>NEDIR, NASIL OYNANIR?</title>
   </programme>
-  <programme start="20251225172500 +0000" stop="20251225173000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251225143500 +0000" stop="20251225144000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>NEDIR, NASIL OYNANIR?</title>
   </programme>
-  <programme start="20251225172500 +0000" stop="20251225173000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251225143500 +0000" stop="20251225144000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>NEDIR, NASIL OYNANIR?</title>
   </programme>
-  <programme start="20251225173000 +0000" stop="20251225174500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251225173000 +0000" stop="20251225174500 +0000" channel="TRT SPOR YILDIZ">
-    <title>HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251225173000 +0000" stop="20251225174500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251225173000 +0000" stop="20251225174500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251225173000 +0000" stop="20251225174500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251225174500 +0000" stop="20251225180500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20251225144000 +0000" stop="20251225150000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20251225174500 +0000" stop="20251225180500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20251225144000 +0000" stop="20251225150000 +0000" channel="TRT SPOR YILDIZ">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20251225174500 +0000" stop="20251225180500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20251225144000 +0000" stop="20251225150000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20251225174500 +0000" stop="20251225180500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20251225144000 +0000" stop="20251225150000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20251225174500 +0000" stop="20251225180500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20251225144000 +0000" stop="20251225150000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>YILDIZ'DA SÖYLEŞI</title>
+  </programme>
+  <programme start="20251225150000 +0000" stop="20251225151500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251225150000 +0000" stop="20251225151500 +0000" channel="TRT SPOR YILDIZ">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251225150000 +0000" stop="20251225151500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251225150000 +0000" stop="20251225151500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251225150000 +0000" stop="20251225151500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251225151500 +0000" stop="20251225153000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>SPORLA DEĞIŞEN HAYATLAR</title>
+  </programme>
+  <programme start="20251225151500 +0000" stop="20251225153000 +0000" channel="TRT SPOR YILDIZ">
+    <title>SPORLA DEĞIŞEN HAYATLAR</title>
+  </programme>
+  <programme start="20251225151500 +0000" stop="20251225153000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>SPORLA DEĞIŞEN HAYATLAR</title>
+  </programme>
+  <programme start="20251225151500 +0000" stop="20251225153000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>SPORLA DEĞIŞEN HAYATLAR</title>
+  </programme>
+  <programme start="20251225151500 +0000" stop="20251225153000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>SPORLA DEĞIŞEN HAYATLAR</title>
+  </programme>
+  <programme start="20251225153000 +0000" stop="20251225155500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>SPOR ÜNIVERSITEDE</title>
+  </programme>
+  <programme start="20251225153000 +0000" stop="20251225155500 +0000" channel="TRT SPOR YILDIZ">
+    <title>SPOR ÜNIVERSITEDE</title>
+  </programme>
+  <programme start="20251225153000 +0000" stop="20251225155500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>SPOR ÜNIVERSITEDE</title>
+  </programme>
+  <programme start="20251225153000 +0000" stop="20251225155500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>SPOR ÜNIVERSITEDE</title>
+  </programme>
+  <programme start="20251225153000 +0000" stop="20251225155500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>SPOR ÜNIVERSITEDE</title>
+  </programme>
+  <programme start="20251225155500 +0000" stop="20251225161000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ÖZEL DOSYA</title>
+  </programme>
+  <programme start="20251225155500 +0000" stop="20251225161000 +0000" channel="TRT SPOR YILDIZ">
+    <title>ÖZEL DOSYA</title>
+  </programme>
+  <programme start="20251225155500 +0000" stop="20251225161000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ÖZEL DOSYA</title>
+  </programme>
+  <programme start="20251225155500 +0000" stop="20251225161000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ÖZEL DOSYA</title>
+  </programme>
+  <programme start="20251225155500 +0000" stop="20251225161000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ÖZEL DOSYA</title>
+  </programme>
+  <programme start="20251225161000 +0000" stop="20251225163500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>SPORUN İKONLARI</title>
+  </programme>
+  <programme start="20251225161000 +0000" stop="20251225163500 +0000" channel="TRT SPOR YILDIZ">
+    <title>SPORUN İKONLARI</title>
+  </programme>
+  <programme start="20251225161000 +0000" stop="20251225163500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>SPORUN İKONLARI</title>
+  </programme>
+  <programme start="20251225161000 +0000" stop="20251225163500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>SPORUN İKONLARI</title>
+  </programme>
+  <programme start="20251225161000 +0000" stop="20251225163500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>SPORUN İKONLARI</title>
+  </programme>
+  <programme start="20251225163500 +0000" stop="20251225164500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251225163500 +0000" stop="20251225164500 +0000" channel="TRT SPOR YILDIZ">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251225163500 +0000" stop="20251225164500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251225163500 +0000" stop="20251225164500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251225163500 +0000" stop="20251225164500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251225164500 +0000" stop="20251225170500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>SPOR HER YERDE</title>
+  </programme>
+  <programme start="20251225164500 +0000" stop="20251225170500 +0000" channel="TRT SPOR YILDIZ">
+    <title>SPOR HER YERDE</title>
+  </programme>
+  <programme start="20251225164500 +0000" stop="20251225170500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>SPOR HER YERDE</title>
+  </programme>
+  <programme start="20251225164500 +0000" stop="20251225170500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>SPOR HER YERDE</title>
+  </programme>
+  <programme start="20251225164500 +0000" stop="20251225170500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>SPOR HER YERDE</title>
+  </programme>
+  <programme start="20251225170500 +0000" stop="20251225172000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>SAKARYA OFF ROAD</title>
+  </programme>
+  <programme start="20251225170500 +0000" stop="20251225172000 +0000" channel="TRT SPOR YILDIZ">
+    <title>SAKARYA OFF ROAD</title>
+  </programme>
+  <programme start="20251225170500 +0000" stop="20251225172000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>SAKARYA OFF ROAD</title>
+  </programme>
+  <programme start="20251225170500 +0000" stop="20251225172000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>SAKARYA OFF ROAD</title>
+  </programme>
+  <programme start="20251225170500 +0000" stop="20251225172000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>SAKARYA OFF ROAD</title>
+  </programme>
+  <programme start="20251225172000 +0000" stop="20251225174000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>EUROLEAGUE ÖZETLER</title>
+  </programme>
+  <programme start="20251225172000 +0000" stop="20251225174000 +0000" channel="TRT SPOR YILDIZ">
+    <title>EUROLEAGUE ÖZETLER</title>
+  </programme>
+  <programme start="20251225172000 +0000" stop="20251225174000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>EUROLEAGUE ÖZETLER</title>
+  </programme>
+  <programme start="20251225172000 +0000" stop="20251225174000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>EUROLEAGUE ÖZETLER</title>
+  </programme>
+  <programme start="20251225172000 +0000" stop="20251225174000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>EUROLEAGUE ÖZETLER</title>
+  </programme>
+  <programme start="20251225174000 +0000" stop="20251225180500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>TÜM ZAMANLARIN EN İYILERI</title>
+  </programme>
+  <programme start="20251225174000 +0000" stop="20251225180500 +0000" channel="TRT SPOR YILDIZ">
+    <title>TÜM ZAMANLARIN EN İYILERI</title>
+  </programme>
+  <programme start="20251225174000 +0000" stop="20251225180500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>TÜM ZAMANLARIN EN İYILERI</title>
+  </programme>
+  <programme start="20251225174000 +0000" stop="20251225180500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>TÜM ZAMANLARIN EN İYILERI</title>
+  </programme>
+  <programme start="20251225174000 +0000" stop="20251225180500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>TÜM ZAMANLARIN EN İYILERI</title>
   </programme>
   <programme start="20251225180500 +0000" stop="20251225182000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>SPORLA DEĞIŞEN HAYATLAR</title>
+    <title>YAPABILIR MISIN?</title>
   </programme>
   <programme start="20251225180500 +0000" stop="20251225182000 +0000" channel="TRT SPOR YILDIZ">
-    <title>SPORLA DEĞIŞEN HAYATLAR</title>
+    <title>YAPABILIR MISIN?</title>
   </programme>
   <programme start="20251225180500 +0000" stop="20251225182000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SPORLA DEĞIŞEN HAYATLAR</title>
+    <title>YAPABILIR MISIN?</title>
   </programme>
   <programme start="20251225180500 +0000" stop="20251225182000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SPORLA DEĞIŞEN HAYATLAR</title>
+    <title>YAPABILIR MISIN?</title>
   </programme>
   <programme start="20251225180500 +0000" stop="20251225182000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SPORLA DEĞIŞEN HAYATLAR</title>
-  </programme>
-  <programme start="20251225182000 +0000" stop="20251225184500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>SPOR ÜNIVERSITEDE</title>
-  </programme>
-  <programme start="20251225182000 +0000" stop="20251225184500 +0000" channel="TRT SPOR YILDIZ">
-    <title>SPOR ÜNIVERSITEDE</title>
-  </programme>
-  <programme start="20251225182000 +0000" stop="20251225184500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SPOR ÜNIVERSITEDE</title>
-  </programme>
-  <programme start="20251225182000 +0000" stop="20251225184500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SPOR ÜNIVERSITEDE</title>
-  </programme>
-  <programme start="20251225182000 +0000" stop="20251225184500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SPOR ÜNIVERSITEDE</title>
-  </programme>
-  <programme start="20251225184500 +0000" stop="20251225190000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ULTRA</title>
-  </programme>
-  <programme start="20251225184500 +0000" stop="20251225190000 +0000" channel="TRT SPOR YILDIZ">
-    <title>ULTRA</title>
-  </programme>
-  <programme start="20251225184500 +0000" stop="20251225190000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ULTRA</title>
-  </programme>
-  <programme start="20251225184500 +0000" stop="20251225190000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ULTRA</title>
-  </programme>
-  <programme start="20251225184500 +0000" stop="20251225190000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ULTRA</title>
-  </programme>
-  <programme start="20251225190000 +0000" stop="20251225192500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>SPORUN İKONLARI</title>
-  </programme>
-  <programme start="20251225190000 +0000" stop="20251225192500 +0000" channel="TRT SPOR YILDIZ">
-    <title>SPORUN İKONLARI</title>
-  </programme>
-  <programme start="20251225190000 +0000" stop="20251225192500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SPORUN İKONLARI</title>
-  </programme>
-  <programme start="20251225190000 +0000" stop="20251225192500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SPORUN İKONLARI</title>
-  </programme>
-  <programme start="20251225190000 +0000" stop="20251225192500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SPORUN İKONLARI</title>
-  </programme>
-  <programme start="20251225192500 +0000" stop="20251225193500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251225192500 +0000" stop="20251225193500 +0000" channel="TRT SPOR YILDIZ">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251225192500 +0000" stop="20251225193500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251225192500 +0000" stop="20251225193500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251225192500 +0000" stop="20251225193500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ONSUZ ASLA</title>
-  </programme>
-  <programme start="20251225193500 +0000" stop="20251225195500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>SPOR HER YERDE</title>
-  </programme>
-  <programme start="20251225193500 +0000" stop="20251225195500 +0000" channel="TRT SPOR YILDIZ">
-    <title>SPOR HER YERDE</title>
-  </programme>
-  <programme start="20251225193500 +0000" stop="20251225195500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SPOR HER YERDE</title>
-  </programme>
-  <programme start="20251225193500 +0000" stop="20251225195500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SPOR HER YERDE</title>
-  </programme>
-  <programme start="20251225193500 +0000" stop="20251225195500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SPOR HER YERDE</title>
-  </programme>
-  <programme start="20251225195500 +0000" stop="20251225201000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>SAKARYA OFF ROAD</title>
-  </programme>
-  <programme start="20251225195500 +0000" stop="20251225201000 +0000" channel="TRT SPOR YILDIZ">
-    <title>SAKARYA OFF ROAD</title>
-  </programme>
-  <programme start="20251225195500 +0000" stop="20251225201000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SAKARYA OFF ROAD</title>
-  </programme>
-  <programme start="20251225195500 +0000" stop="20251225201000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SAKARYA OFF ROAD</title>
-  </programme>
-  <programme start="20251225195500 +0000" stop="20251225201000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SAKARYA OFF ROAD</title>
-  </programme>
-  <programme start="20251225201000 +0000" stop="20251225203000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>EUROLEAGUE ÖZETLER</title>
-  </programme>
-  <programme start="20251225201000 +0000" stop="20251225203000 +0000" channel="TRT SPOR YILDIZ">
-    <title>EUROLEAGUE ÖZETLER</title>
-  </programme>
-  <programme start="20251225201000 +0000" stop="20251225203000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>EUROLEAGUE ÖZETLER</title>
-  </programme>
-  <programme start="20251225201000 +0000" stop="20251225203000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>EUROLEAGUE ÖZETLER</title>
-  </programme>
-  <programme start="20251225201000 +0000" stop="20251225203000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>EUROLEAGUE ÖZETLER</title>
-  </programme>
-  <programme start="20251225203000 +0000" stop="20251225205500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>TÜM ZAMANLARIN EN İYILERI</title>
-  </programme>
-  <programme start="20251225203000 +0000" stop="20251225205500 +0000" channel="TRT SPOR YILDIZ">
-    <title>TÜM ZAMANLARIN EN İYILERI</title>
-  </programme>
-  <programme start="20251225203000 +0000" stop="20251225205500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>TÜM ZAMANLARIN EN İYILERI</title>
-  </programme>
-  <programme start="20251225203000 +0000" stop="20251225205500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>TÜM ZAMANLARIN EN İYILERI</title>
-  </programme>
-  <programme start="20251225203000 +0000" stop="20251225205500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>TÜM ZAMANLARIN EN İYILERI</title>
-  </programme>
-  <programme start="20251225205500 +0000" stop="20251225211000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>YAPABILIR MISIN?</title>
   </programme>
-  <programme start="20251225205500 +0000" stop="20251225211000 +0000" channel="TRT SPOR YILDIZ">
-    <title>YAPABILIR MISIN?</title>
+  <programme start="20251225182000 +0000" stop="20251225184000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>SORMAZSAM OLMAZ</title>
   </programme>
-  <programme start="20251225205500 +0000" stop="20251225211000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>YAPABILIR MISIN?</title>
+  <programme start="20251225182000 +0000" stop="20251225184000 +0000" channel="TRT SPOR YILDIZ">
+    <title>SORMAZSAM OLMAZ</title>
   </programme>
-  <programme start="20251225205500 +0000" stop="20251225211000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>YAPABILIR MISIN?</title>
+  <programme start="20251225182000 +0000" stop="20251225184000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>SORMAZSAM OLMAZ</title>
   </programme>
-  <programme start="20251225205500 +0000" stop="20251225211000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>YAPABILIR MISIN?</title>
+  <programme start="20251225182000 +0000" stop="20251225184000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20251225182000 +0000" stop="20251225184000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20251225184000 +0000" stop="20251225190500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>YENILMEZLER</title>
+  </programme>
+  <programme start="20251225184000 +0000" stop="20251225190500 +0000" channel="TRT SPOR YILDIZ">
+    <title>YENILMEZLER</title>
+  </programme>
+  <programme start="20251225184000 +0000" stop="20251225190500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>YENILMEZLER</title>
+  </programme>
+  <programme start="20251225184000 +0000" stop="20251225190500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>YENILMEZLER</title>
+  </programme>
+  <programme start="20251225184000 +0000" stop="20251225190500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>YENILMEZLER</title>
+  </programme>
+  <programme start="20251225190500 +0000" stop="20251225195000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>PARALIMPIK SPOR</title>
+  </programme>
+  <programme start="20251225190500 +0000" stop="20251225195000 +0000" channel="TRT SPOR YILDIZ">
+    <title>PARALIMPIK SPOR</title>
+  </programme>
+  <programme start="20251225190500 +0000" stop="20251225195000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>PARALIMPIK SPOR</title>
+  </programme>
+  <programme start="20251225190500 +0000" stop="20251225195000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>PARALIMPIK SPOR</title>
+  </programme>
+  <programme start="20251225190500 +0000" stop="20251225195000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>PARALIMPIK SPOR</title>
+  </programme>
+  <programme start="20251225195000 +0000" stop="20251225201500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20251225195000 +0000" stop="20251225201500 +0000" channel="TRT SPOR YILDIZ">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20251225195000 +0000" stop="20251225201500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20251225195000 +0000" stop="20251225201500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20251225195000 +0000" stop="20251225201500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20251225201500 +0000" stop="20251225205000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>KARDEŞLER TAKIMI</title>
+  </programme>
+  <programme start="20251225201500 +0000" stop="20251225205000 +0000" channel="TRT SPOR YILDIZ">
+    <title>KARDEŞLER TAKIMI</title>
+  </programme>
+  <programme start="20251225201500 +0000" stop="20251225205000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>KARDEŞLER TAKIMI</title>
+  </programme>
+  <programme start="20251225201500 +0000" stop="20251225205000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>KARDEŞLER TAKIMI</title>
+  </programme>
+  <programme start="20251225201500 +0000" stop="20251225205000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>KARDEŞLER TAKIMI</title>
+  </programme>
+  <programme start="20251225205000 +0000" stop="20251225210000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251225205000 +0000" stop="20251225210000 +0000" channel="TRT SPOR YILDIZ">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251225205000 +0000" stop="20251225210000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251225205000 +0000" stop="20251225210000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20251225205000 +0000" stop="20251225210000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ONSUZ ASLA</title>
   </programme>
   <programme start="20251224210000 +0000" stop="20251224230000 +0000" channel="4K TR: A SPOR HD">
     <title>SON SAYFA</title>
@@ -34900,10 +34960,10 @@
     <title>STAR KIBRIS GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251225170000 +0000" stop="20251225190000 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNDEM ÖZEL</title>
+    <title>REGAIB KANDILI ÖZEL</title>
   </programme>
   <programme start="20251225190000 +0000" stop="20251225210000 +0000" channel="KIBRIS ADA TV">
-    <title>HABER AJANSI</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251224210000 +0000" stop="20251227000000 +0000" channel="ŞÖMİNE PLUS">
     <title>ŞÖMİNE PLUS</title>
