@@ -2,19 +2,19 @@
   "/dizi/haha-you-clowns": {
     "group": "Haha, You Clowns",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/sandokan": {
     "group": "Sandokan",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/the-madame-blanc-mysteries": {
     "group": "The Madame Blanc Mysteries",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/are-you-sure": {
