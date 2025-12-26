@@ -2,6 +2,9 @@
   "/dizi/pluribus/": {
     "group": "PLURIBUS"
   },
+  "/dizi/stranger-things-izle-733360/": {
+    "group": "STRANGER THINGS"
+  },
   "/dizi/nice-to-not-meet-you/": {
     "group": "NICE TO NOT MEET YOU"
   },
@@ -38,9 +41,6 @@
   "/dizi/fire-country-7/": {
     "group": "FIRE COUNTRY"
   },
-  "/dizi/born-to-be-wild/": {
-    "group": "BORN TO BE WILD"
-  },
   "/dizi/heroes-2006/": {
     "group": "HEROES"
   },
@@ -55,6 +55,9 @@
   },
   "/dizi/sicily-express/": {
     "group": "SICILYA EKSPRESI"
+  },
+  "/dizi/born-to-be-wild/": {
+    "group": "BORN TO BE WILD"
   },
   "/dizi/this-way-up/": {
     "group": "THIS WAY UP"
