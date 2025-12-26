@@ -1473,8 +1473,32 @@
   <programme start="20251226120200 +0000" stop="20251226125800 +0000" channel="TABII TV">
     <title>METAMORFOZ: KIRILMA</title>
   </programme>
-  <programme start="20251226125800 +0000" stop="20251227140000 +0000" channel="TABII TV">
+  <programme start="20251226125800 +0000" stop="20251226142500 +0000" channel="TABII TV">
     <title>AVRUPA AVRUPA</title>
+  </programme>
+  <programme start="20251226142500 +0000" stop="20251226150600 +0000" channel="TABII TV">
+    <title>BIZIMKILER</title>
+  </programme>
+  <programme start="20251226150600 +0000" stop="20251226155400 +0000" channel="TABII TV">
+    <title>KUZENLERIM</title>
+  </programme>
+  <programme start="20251226155400 +0000" stop="20251226163500 +0000" channel="TABII TV">
+    <title>BIZIMKILER</title>
+  </programme>
+  <programme start="20251226163500 +0000" stop="20251226171900 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20251226171900 +0000" stop="20251226181400 +0000" channel="TABII TV">
+    <title>METAMORFOZ: KIRILMA</title>
+  </programme>
+  <programme start="20251226181400 +0000" stop="20251226194200 +0000" channel="TABII TV">
+    <title>AVRUPA AVRUPA</title>
+  </programme>
+  <programme start="20251226194200 +0000" stop="20251226203000 +0000" channel="TABII TV">
+    <title>KUZENLERIM</title>
+  </programme>
+  <programme start="20251226203000 +0000" stop="20251226211800 +0000" channel="TABII TV">
+    <title>KUZENLERIM</title>
   </programme>
   <programme start="20251225211500 +0000" stop="20251225231500 +0000" channel="4K TR: S NEMA YERL HD">
     <title>OFLU HOCA'NIN ŞIFRESI 2</title>
@@ -32100,13 +32124,13 @@
   <programme start="20251226170000 +0000" stop="20251226180000 +0000" channel="MELTEM TV">
     <title>BAŞARI HIKAYELERI</title>
   </programme>
-  <programme start="20251226180000 +0000" stop="20251227130000 +0000" channel="4K TR: MELTEM TV">
+  <programme start="20251226180000 +0000" stop="20251227093000 +0000" channel="4K TR: MELTEM TV">
     <title>GÜNDEM MASASI</title>
   </programme>
-  <programme start="20251226180000 +0000" stop="20251227130000 +0000" channel="MELTEM">
+  <programme start="20251226180000 +0000" stop="20251227093000 +0000" channel="MELTEM">
     <title>GÜNDEM MASASI</title>
   </programme>
-  <programme start="20251226180000 +0000" stop="20251227130000 +0000" channel="MELTEM TV">
+  <programme start="20251226180000 +0000" stop="20251227093000 +0000" channel="MELTEM TV">
     <title>GÜNDEM MASASI</title>
   </programme>
   <programme start="20251225220000 +0000" stop="20251225230000 +0000" channel="4K TR: TRT 3">
