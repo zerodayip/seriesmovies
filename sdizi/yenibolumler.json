@@ -1,4 +1,10 @@
 {
+  "/diziler/cashero.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "CASHERO",
+    "start_episode": 1
+  },
   "/diziler/stranger-things.html": {
     "group": "STRANGER THINGS",
     "last_season": 5,
@@ -76,11 +82,5 @@
     "last_season": 3,
     "last_episode": 11,
     "start_episode": 1
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1154,
-    "start_episode": 1130
   }
 }

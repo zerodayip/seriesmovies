@@ -1,4 +1,22 @@
 {
+  "/watari-kun-no-xx-ga-houkai-sunzen": {
+    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
+    "last_season": 1,
+    "last_episode": 25.0,
+    "start_episode": 1
+  },
+  "/tougen-anki": {
+    "group": "TOUGEN ANKI",
+    "last_season": 1,
+    "last_episode": 23.0,
+    "start_episode": 1
+  },
+  "/cengjing-you-yongshi": {
+    "group": "CENGJING YOU YONGSHI",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
   "/catseye": {
     "group": "CAT'S♥EYE",
     "last_season": 1,
@@ -73,18 +91,6 @@
   },
   "/kikaijikake-no-marie": {
     "group": "KIKAIJIKAKE NO MARIE",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
-    "group": "ANSATSUSHA DE ARU ORE NO STATUS GA YUUSHA YORI MO AKIRAKA NI TSUYOI NO DA GA",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
-    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
     "last_season": 1,
     "last_episode": 12.0,
     "start_episode": 1

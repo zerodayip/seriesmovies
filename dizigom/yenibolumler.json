@@ -1,68 +1,8 @@
 {
-  "/dizi-izle/nice-to-not-meet-you": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-mighty-nein": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/culinary-class-wars": {
-    "group": "CULINARY CLASS WARS",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1
-  },
   "/dizi-izle/made-in-korea": {
     "group": "MADE IN KOREA",
     "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi-izle/pro-bono": {
-    "group": "PRO BONO",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-golden-egg": {
-    "group": "THE GOLDEN EGG",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi-izle/taylor-swift-the-eras-tour-the-end-of-an-era": {
-    "group": "TAYLOR SWIFT | THE ERAS TOUR | THE END OF AN ERA",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/idol-i": {
-    "group": "IDOL I",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-seduction": {
-    "group": "THE SEDUCTION (MERTEUIL)",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/badly-in-love": {
-    "group": "BADLY IN LOVE",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi-izle/born-to-be-wild": {
-    "group": "BORN TO BE WILD",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/i-love-la": {
@@ -71,9 +11,33 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/percy-jackson-and-the-olympians": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
+  "/dizi-izle/pro-bono": {
+    "group": "PRO BONO",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/culinary-class-wars": {
+    "group": "CULINARY CLASS WARS",
     "last_season": 2,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi-izle/badly-in-love": {
+    "group": "BADLY IN LOVE",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/king-of-collectibles-the-goldin-touch": {
+    "group": "KING OF COLLECTIBLES: THE GOLDIN TOUCH",
+    "last_season": 3,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/taylor-swift-the-eras-tour-the-end-of-an-era": {
+    "group": "TAYLOR SWIFT | THE ERAS TOUR | THE END OF AN ERA",
+    "last_season": 1,
     "last_episode": 4,
     "start_episode": 1
   },
@@ -83,8 +47,50 @@
     "last_episode": 14,
     "start_episode": 1
   },
+  "/dizi-izle/the-seduction": {
+    "group": "THE SEDUCTION (MERTEUIL)",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/nice-to-not-meet-you": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 14,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-golden-egg": {
+    "group": "THE GOLDEN EGG",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/dizi-izle/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 4,
+    "start_episode": 1
+  },
   "/dizi-izle/surely-tomorrow": {
     "group": "SURELY TOMORROW",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/idol-i": {
+    "group": "IDOL I",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-mighty-nein": {
+    "group": "THE MIGHTY NEIN",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/born-to-be-wild": {
+    "group": "BORN TO BE WILD",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
@@ -93,12 +99,6 @@
     "group": "PLURIBUS",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi-izle/king-of-collectibles-the-goldin-touch": {
-    "group": "KING OF COLLECTIBLES: THE GOLDIN TOUCH",
-    "last_season": 3,
-    "last_episode": 6,
     "start_episode": 1
   }
 }

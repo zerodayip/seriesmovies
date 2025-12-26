@@ -1,4 +1,16 @@
 {
+  "/anime/tougen-anki/": {
+    "group": "TOUGEN ANKI",
+    "last_season": 1,
+    "last_episode": 23,
+    "start_episode": 1
+  },
+  "/anime/shabake/": {
+    "group": "SHABAKE",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/anime/cats-eye/": {
     "group": "CAT’S EYE",
     "last_season": 1,
@@ -105,18 +117,6 @@
     "group": "GINTAMA – MR. GINPACHI’S ZANY CLASS",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/jack-of-all-trades-party-of-none/": {
-    "group": "JACK-OF-ALL-TRADES, PARTY OF NONE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan/": {
-    "group": "KAGUYA-SAMA WA KOKURASETAI: OTONA E NO KAIDAN",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }
