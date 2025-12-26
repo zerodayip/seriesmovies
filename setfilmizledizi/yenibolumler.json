@@ -1,4 +1,10 @@
 {
+  "/dizi/stranger-things/": {
+    "group": "STRANGER THINGS",
+    "last_season": 5,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "/dizi/the-mighty-nein/": {
     "group": "THE MIGHTY NEIN",
     "last_season": 1,

@@ -274,5 +274,23 @@
     "last_season": 4,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/dizi/all-creatures-great-and-small": {
+    "group": "All Creatures Great and Small",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/dynamite-kiss": {
+    "group": "Dynamite Kiss",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/stranger-things": {
+    "group": "Stranger Things",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
