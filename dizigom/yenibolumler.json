@@ -25,8 +25,8 @@
   },
   "/dizi-izle/king-of-collectibles-the-goldin-touch": {
     "group": "KING OF COLLECTIBLES: THE GOLDIN TOUCH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/surely-tomorrow": {
@@ -50,7 +50,7 @@
   "/dizi-izle/dynamite-kiss": {
     "group": "DYNAMITE KISS",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/dizi-izle/born-to-be-wild": {
@@ -98,7 +98,7 @@
   "/dizi-izle/percy-jackson-and-the-olympians": {
     "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 2,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   }
 }
