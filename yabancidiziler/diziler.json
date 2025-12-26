@@ -80,7 +80,7 @@
   "/dizi/power-book-iv-force": {
     "group": "Power Book IV: Force",
     "last_season": 3,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/it-s-florida-man": {
@@ -296,19 +296,19 @@
   "/dizi/cat-s-eye": {
     "group": "Cat’s Eye",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/heated-rivalry": {
     "group": "Heated Rivalry",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/shoresy": {
     "group": "Shoresy",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
