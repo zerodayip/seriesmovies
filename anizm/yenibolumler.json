@@ -1,4 +1,16 @@
 {
+  "/catseye": {
+    "group": "CAT'S♥EYE",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2": {
+    "group": "ITAI NO WA IYA NANO DE BOUGYORYOKU NI KYOKUFURI SHITAI TO OMOIMASU. 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/watashi-wo-tabetai-hitodenashi": {
     "group": "WATASHI WO TABETAI, HITODENASHI",
     "last_season": 1,
@@ -75,18 +87,6 @@
     "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
     "last_season": 1,
     "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/kingdom-6th-season": {
-    "group": "KINGDOM 6TH SEASON",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/mofa-gongzhu-de-xiao-fannao": {
-    "group": "MOFA GONGZHU DE XIAO FANNAO",
-    "last_season": 1,
-    "last_episode": 15.0,
     "start_episode": 1
   }
 }
