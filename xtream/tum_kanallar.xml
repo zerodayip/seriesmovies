@@ -3088,16 +3088,16 @@
     <title>KISKANMAK</title>
   </programme>
   <programme start="20251226160000 +0000" stop="20251226170000 +0000" channel="4K TR: NOW HD">
-    <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
+    <title>NOW ANA HABER</title>
   </programme>
   <programme start="20251226160000 +0000" stop="20251226170000 +0000" channel="NOW TV FHD">
-    <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
+    <title>NOW ANA HABER</title>
   </programme>
   <programme start="20251226160000 +0000" stop="20251226170000 +0000" channel="NOW TV HD">
-    <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
+    <title>NOW ANA HABER</title>
   </programme>
   <programme start="20251226160000 +0000" stop="20251226170000 +0000" channel="NOW TV">
-    <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
+    <title>NOW ANA HABER</title>
   </programme>
   <programme start="20251226170000 +0000" stop="20251226201500 +0000" channel="4K TR: NOW HD">
     <title>BEN LEMAN</title>
@@ -5766,8 +5766,8 @@
   <programme start="20251226202000 +0000" stop="20251226203100 +0000" channel="GZT TV">
     <title>BENTROPI</title>
   </programme>
-  <programme start="20251226203100 +0000" stop="20251227205900 +0000" channel="GZT TV">
-    <title>ANTIQUE VINTAGE RESTORATIONS</title>
+  <programme start="20251226203100 +0000" stop="20251226210000 +0000" channel="GZT TV">
+    <title>GZT TV</title>
   </programme>
   <programme start="20251225220000 +0000" stop="20251225230000 +0000" channel="VAV TV">
     <title>KIRILMA</title>
@@ -32908,7 +32908,7 @@
     <title>AFTER AL ASSAD</title>
   </programme>
   <programme start="20251226190000 +0000" stop="20251226200000 +0000" channel="TRT ARABI">
-    <title>NEWS</title>
+    <title>LAND OF THE VICTIMS</title>
   </programme>
   <programme start="20251226200000 +0000" stop="20251226204000 +0000" channel="TRT ARABI">
     <title>NEWS</title>
@@ -33573,7 +33573,7 @@
   <programme start="20251226201500 +0000" stop="20251226203000 +0000" channel="DIYANET TV">
     <title>OSMANLI PADIŞAHLARI</title>
   </programme>
-  <programme start="20251226203000 +0000" stop="20251226210000 +0000" channel="DIYANET TV">
+  <programme start="20251226203000 +0000" stop="20251226211500 +0000" channel="DIYANET TV">
     <title>SATIR ARASI</title>
   </programme>
   <programme start="20251225210000 +0000" stop="20251225213000 +0000" channel="SEMERKAND RAW">
