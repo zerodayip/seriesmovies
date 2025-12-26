@@ -584,7 +584,7 @@
   "/dizi/yalmiun-sarang-asya": {
     "group": "MEMNUN OLDUM",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/dizi/marvel-s-m-o-d-o-k": {
@@ -973,8 +973,8 @@
   },
   "/dizi/stranger-things": {
     "group": "STRANGER THINGS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/three-idiots-in-kenya": {
