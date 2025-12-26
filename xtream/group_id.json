@@ -67325,6 +67325,62 @@
     "15956": {
       "name": "WWE CHANNEL",
       "category_id": "31"
+    },
+    "15957": {
+      "name": "KS THRILLER",
+      "category_id": "19"
+    },
+    "15958": {
+      "name": "FRANCOPHONIE 24",
+      "category_id": "22"
+    },
+    "15959": {
+      "name": "TRACE HITS",
+      "category_id": "29"
+    },
+    "15960": {
+      "name": "13 TV",
+      "category_id": "30"
+    },
+    "15961": {
+      "name": "LIGA TV BAR 3 HD",
+      "category_id": "30"
+    },
+    "15962": {
+      "name": "MOVISTAR DEPORTE 1 HD",
+      "category_id": "30"
+    },
+    "15963": {
+      "name": "MTV ESPANA",
+      "category_id": "30"
+    },
+    "15964": {
+      "name": "27 TWENTY SEVEN",
+      "category_id": "31"
+    },
+    "15965": {
+      "name": "DAZN",
+      "category_id": "31"
+    },
+    "15966": {
+      "name": "RAI ITALIA",
+      "category_id": "31"
+    },
+    "15967": {
+      "name": "RAKUTEN ACTION MOVIES",
+      "category_id": "31"
+    },
+    "15968": {
+      "name": "RAKUTEN TOP FREE",
+      "category_id": "31"
+    },
+    "15969": {
+      "name": "SKY ARTE",
+      "category_id": "31"
+    },
+    "15970": {
+      "name": "SKY CINEMA UNO +24",
+      "category_id": "31"
     }
   }
 }
