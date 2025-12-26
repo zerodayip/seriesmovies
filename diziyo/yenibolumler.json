@@ -1,4 +1,22 @@
 {
+  "/dizi/karma-yerli": {
+    "group": "KARMA",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/stranger-things": {
+    "group": "STRANGER THINGS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/yalmiun-sarang-asya": {
+    "group": "MEMNUN OLDUM",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/dizi/sekizinci-aile-yerli-3": {
     "group": "SEKIZINCI AILE",
     "last_season": 1,
@@ -111,36 +129,6 @@
     "group": "ADAM GIBI DADI",
     "last_season": 3,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/emily-in-paris": {
-    "group": "EMILY IN PARIS",
-    "last_season": 5,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/born-to-be-wild": {
-    "group": "BORN TO BE WILD",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/boston-blue": {
-    "group": "BOSTON BLUE",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/elsbeth": {
-    "group": "ELSBETH",
-    "last_season": 3,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi/fbi": {
-    "group": "FBI",
-    "last_season": 8,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
