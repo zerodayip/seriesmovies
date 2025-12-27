@@ -74,19 +74,19 @@
   "/dizi-izle/pro-bono": {
     "group": "PRO BONO",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/its-florida-man": {
     "group": "IT'S FLORIDA, MAN.",
     "last_season": 2,
-    "last_episode": 1,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/surely-tomorrow": {
     "group": "SURELY TOMORROW",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/made-in-korea": {
