@@ -1,4 +1,7 @@
 {
+  "/dizi/sanctuary-a-witch-s-tale/": {
+    "group": "SANCTUARY: A WITCH'S TALE"
+  },
   "/dizi/pluribus/": {
     "group": "PLURIBUS"
   },
@@ -40,9 +43,6 @@
   },
   "/dizi/sheriff-country-3/": {
     "group": "SHERIFF COUNTRY"
-  },
-  "/dizi/fire-country-7/": {
-    "group": "FIRE COUNTRY"
   },
   "/dizi/heroes-2006/": {
     "group": "HEROES"
@@ -118,8 +118,5 @@
   },
   "/dizi/gomorrah-la-serie/": {
     "group": "GOMORRA - LA SERIE"
-  },
-  "/dizi/crazy-ex-girlfriend/": {
-    "group": "CRAZY EX-GIRLFRIEND"
   }
 }

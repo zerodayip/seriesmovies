@@ -16246,5 +16246,17 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/diziler/spartacus.html": {
+    "group": "SPARTACUS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/spartacus-gods-of-the-arena.html": {
+    "group": "SPARTACUS: GODS OF THE ARENA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

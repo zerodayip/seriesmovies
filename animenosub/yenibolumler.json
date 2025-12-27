@@ -1,4 +1,10 @@
 {
+  "/anime/blue-miburo-season-2/": {
+    "group": "BLUE MIBURO SEASON 2",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/watari-kuns-is-about-to-collapse/": {
     "group": "WATARI-KUN’S ****** IS ABOUT TO COLLAPSE",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "JUJUTSU KAISEN: HIDDEN INVENTORY / PREMATURE DEATH – THE MOVIE",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
-    "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
