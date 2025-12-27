@@ -1,4 +1,40 @@
 {
+  "/shabake": {
+    "group": "SHABAKE",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/gnosia": {
+    "group": "GNOSIA",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/hifuu-katsudou-kiroku-the-sealed-esoteric-history": {
+    "group": "HIFUU KATSUDOU KIROKU: THE SEALED ESOTERIC HISTORY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/gensou-mangekyou-the-memories-of-phantasm": {
+    "group": "GENSOU MANGEKYOU: THE MEMORIES OF PHANTASM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/kekkon-yubiwa-monogatari-ii": {
+    "group": "KEKKON YUBIWA MONOGATARI II",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/touhou-niji-sousaku-doujin-anime-musou-kakyou": {
+    "group": "TOUHOU NIJI SOUSAKU DOUJIN ANIME: MUSOU KAKYOU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/watari-kun-no-xx-ga-houkai-sunzen": {
     "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
     "last_season": 1,
@@ -55,42 +91,6 @@
   },
   "/wandance": {
     "group": "WANDANCE",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/kimi-to-koete-koi-ni-naru": {
-    "group": "KIMI TO KOETE KOI NI NARU",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/heika-watashi-wo-wasurete-kudasai": {
-    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/debu-to-love-to-ayamachi-to": {
-    "group": "DEBU TO LOVE TO AYAMACHI TO!",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/ninja-to-gokudou": {
-    "group": "NINJA TO GOKUDOU",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/chitose-kun-wa-ramune-bin-no-naka": {
-    "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
-    "last_season": 1,
-    "last_episode": 9.0,
-    "start_episode": 1
-  },
-  "/kikaijikake-no-marie": {
-    "group": "KIKAIJIKAKE NO MARIE",
     "last_season": 1,
     "last_episode": 12.0,
     "start_episode": 1

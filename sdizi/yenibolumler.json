@@ -1,4 +1,22 @@
 {
+  "/diziler/surely-tomorrow.html": {
+    "group": "SURELY TOMORROW",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/to-your-eternity.html": {
+    "group": "TO YOUR ETERNITY",
+    "last_season": 3,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/diziler/spy-x-family.html": {
+    "group": "SPY X FAMILY",
+    "last_season": 3,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/diziler/cashero.html": {
     "group": "CASHERO",
     "last_season": 1,
@@ -63,24 +81,6 @@
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
     "last_episode": 14,
-    "start_episode": 1
-  },
-  "/diziler/the-wonderfully-weird-world-of-gumball.html": {
-    "group": "THE WONDERFULLY WEIRD WORLD OF GUMBALL",
-    "last_season": 2,
-    "last_episode": 20,
-    "start_episode": 1
-  },
-  "/diziler/robin-hood-2025.html": {
-    "group": "ROBIN HOOD 2025",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/one-punch-man.html": {
-    "group": "ONE PUNCH MAN",
-    "last_season": 3,
-    "last_episode": 11,
     "start_episode": 1
   }
 }

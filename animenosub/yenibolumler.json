@@ -1,4 +1,40 @@
 {
+  "/anime/tojima-wants-to-be-a-kamen-rider/": {
+    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/anime/gnosia/": {
+    "group": "GNOSIA",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/anime/to-your-eternity-season-3/": {
+    "group": "TO YOUR ETERNITY SEASON 3",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/anime/nukitashi-the-animation-ova-uncensored-bd/": {
+    "group": "NUKITASHI THE ANIMATION OVA (UNCENSORED) BD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/spy-x-family-season-3/": {
+    "group": "SPY X FAMILY SEASON 3",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/anime/tales-of-wedding-rings-season-2-uncensored/": {
+    "group": "TALES OF WEDDING RINGS SEASON 2 (UNCENSORED)",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/anime/blue-miburo-season-2/": {
     "group": "BLUE MIBURO SEASON 2",
     "last_season": 1,
@@ -81,42 +117,6 @@
     "group": "WANDANCE",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/the-mighty-nein/": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/ninja-vs-gokudo/": {
-    "group": "NINJA VS. GOKUDO",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/chitose-is-in-the-ramune-bottle/": {
-    "group": "CHITOSE IS IN THE RAMUNE BOTTLE",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/anime/campfire-cooking-in-another-world-with-my-absurd-skill-season-2/": {
-    "group": "CAMPFIRE COOKING IN ANOTHER WORLD WITH MY ABSURD SKILL SEASON 2",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/with-you-our-love-will-make-it-through/": {
-    "group": "WITH YOU, OUR LOVE WILL MAKE IT THROUGH",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/anime/jujutsu-kaisen-hidden-inventory-premature-death-the-movie/": {
-    "group": "JUJUTSU KAISEN: HIDDEN INVENTORY / PREMATURE DEATH – THE MOVIE",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }
