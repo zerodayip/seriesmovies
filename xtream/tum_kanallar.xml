@@ -1473,8 +1473,32 @@
   <programme start="20251227121800 +0000" stop="20251227132300 +0000" channel="TABII TV">
     <title>METAMORFOZ: KIRILMA</title>
   </programme>
-  <programme start="20251227132300 +0000" stop="20251228150000 +0000" channel="TABII TV">
+  <programme start="20251227132300 +0000" stop="20251227142300 +0000" channel="TABII TV">
     <title>METAMORFOZ: KIRILMA</title>
+  </programme>
+  <programme start="20251227142300 +0000" stop="20251227150100 +0000" channel="TABII TV">
+    <title>BIZIMKILER</title>
+  </programme>
+  <programme start="20251227150100 +0000" stop="20251227160600 +0000" channel="TABII TV">
+    <title>YEŞIL DENIZ MILENYUM</title>
+  </programme>
+  <programme start="20251227160600 +0000" stop="20251227171100 +0000" channel="TABII TV">
+    <title>YEŞIL DENIZ MILENYUM</title>
+  </programme>
+  <programme start="20251227171100 +0000" stop="20251227183100 +0000" channel="TABII TV">
+    <title>YEŞIL DENIZ MILENYUM</title>
+  </programme>
+  <programme start="20251227183100 +0000" stop="20251227191200 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20251227191200 +0000" stop="20251227195500 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20251227195500 +0000" stop="20251227203400 +0000" channel="TABII TV">
+    <title>ŞAŞIFELEK ÇIKMAZI</title>
+  </programme>
+  <programme start="20251227203400 +0000" stop="20251227212100 +0000" channel="TABII TV">
+    <title>YEDI NUMARA</title>
   </programme>
   <programme start="20251226221500 +0000" stop="20251226234500 +0000" channel="4K TR: S NEMA YERL HD">
     <title>OFLU HOCA TRAKYA'DA</title>
@@ -13767,6 +13791,162 @@
   <programme start="20251227020000 +0000" stop="20251227063000 +0000" channel="FB TV">
     <title>BASKETBOL: SÜPER LIG</title>
   </programme>
+  <programme start="20251227091500 +0000" stop="20251227093000 +0000" channel="4K TR: FB TV">
+    <title>TARIHTE BUGÜN</title>
+  </programme>
+  <programme start="20251227091500 +0000" stop="20251227093000 +0000" channel="FB TV">
+    <title>TARIHTE BUGÜN</title>
+  </programme>
+  <programme start="20251227093000 +0000" stop="20251227094500 +0000" channel="4K TR: FB TV">
+    <title>NUMARALI TRIBÜN</title>
+  </programme>
+  <programme start="20251227093000 +0000" stop="20251227094500 +0000" channel="FB TV">
+    <title>NUMARALI TRIBÜN</title>
+  </programme>
+  <programme start="20251227094500 +0000" stop="20251227100000 +0000" channel="4K TR: FB TV">
+    <title>SÖZ TARAFTARDA</title>
+  </programme>
+  <programme start="20251227094500 +0000" stop="20251227100000 +0000" channel="FB TV">
+    <title>SÖZ TARAFTARDA</title>
+  </programme>
+  <programme start="20251227100000 +0000" stop="20251227103000 +0000" channel="4K TR: FB TV">
+    <title>U19 PAF LIGI</title>
+  </programme>
+  <programme start="20251227100000 +0000" stop="20251227103000 +0000" channel="FB TV">
+    <title>U19 PAF LIGI</title>
+  </programme>
+  <programme start="20251227103000 +0000" stop="20251227110000 +0000" channel="4K TR: FB TV">
+    <title>EFSANELER</title>
+  </programme>
+  <programme start="20251227103000 +0000" stop="20251227110000 +0000" channel="FB TV">
+    <title>EFSANELER</title>
+  </programme>
+  <programme start="20251227110000 +0000" stop="20251227111500 +0000" channel="4K TR: FB TV">
+    <title>HABER</title>
+  </programme>
+  <programme start="20251227110000 +0000" stop="20251227111500 +0000" channel="FB TV">
+    <title>HABER</title>
+  </programme>
+  <programme start="20251227111500 +0000" stop="20251227113000 +0000" channel="4K TR: FB TV">
+    <title>TARIHTE BUGÜN</title>
+  </programme>
+  <programme start="20251227111500 +0000" stop="20251227113000 +0000" channel="FB TV">
+    <title>TARIHTE BUGÜN</title>
+  </programme>
+  <programme start="20251227113000 +0000" stop="20251227120000 +0000" channel="4K TR: FB TV">
+    <title>BASKETBOL: TEKERLEKLI SANDALYE SÜPER LIGI</title>
+  </programme>
+  <programme start="20251227113000 +0000" stop="20251227120000 +0000" channel="FB TV">
+    <title>BASKETBOL: TEKERLEKLI SANDALYE SÜPER LIGI</title>
+  </programme>
+  <programme start="20251227120000 +0000" stop="20251227130000 +0000" channel="4K TR: FB TV">
+    <title>FENERIN MAÇI VAR</title>
+  </programme>
+  <programme start="20251227120000 +0000" stop="20251227130000 +0000" channel="FB TV">
+    <title>FENERIN MAÇI VAR</title>
+  </programme>
+  <programme start="20251227130000 +0000" stop="20251227131500 +0000" channel="4K TR: FB TV">
+    <title>HABER</title>
+  </programme>
+  <programme start="20251227130000 +0000" stop="20251227131500 +0000" channel="FB TV">
+    <title>HABER</title>
+  </programme>
+  <programme start="20251227131500 +0000" stop="20251227133000 +0000" channel="4K TR: FB TV">
+    <title>FENERIUM SAATI</title>
+  </programme>
+  <programme start="20251227131500 +0000" stop="20251227133000 +0000" channel="FB TV">
+    <title>FENERIUM SAATI</title>
+  </programme>
+  <programme start="20251227133000 +0000" stop="20251227140000 +0000" channel="4K TR: FB TV">
+    <title>BASKETBOL: EUROLEAGUE</title>
+  </programme>
+  <programme start="20251227133000 +0000" stop="20251227140000 +0000" channel="FB TV">
+    <title>BASKETBOL: EUROLEAGUE</title>
+  </programme>
+  <programme start="20251227140000 +0000" stop="20251227150000 +0000" channel="4K TR: FB TV">
+    <title>MAÇ HAVASI</title>
+  </programme>
+  <programme start="20251227140000 +0000" stop="20251227150000 +0000" channel="FB TV">
+    <title>MAÇ HAVASI</title>
+  </programme>
+  <programme start="20251227150000 +0000" stop="20251227160000 +0000" channel="4K TR: FB TV">
+    <title>NUMARALI TRIBÜN</title>
+  </programme>
+  <programme start="20251227150000 +0000" stop="20251227160000 +0000" channel="FB TV">
+    <title>NUMARALI TRIBÜN</title>
+  </programme>
+  <programme start="20251227160000 +0000" stop="20251227160700 +0000" channel="4K TR: FB TV">
+    <title>MAÇIN ARDINDAN</title>
+  </programme>
+  <programme start="20251227160000 +0000" stop="20251227160700 +0000" channel="FB TV">
+    <title>MAÇIN ARDINDAN</title>
+  </programme>
+  <programme start="20251227160700 +0000" stop="20251227163000 +0000" channel="4K TR: FB TV">
+    <title>ANA HABER</title>
+  </programme>
+  <programme start="20251227160700 +0000" stop="20251227163000 +0000" channel="FB TV">
+    <title>ANA HABER</title>
+  </programme>
+  <programme start="20251227163000 +0000" stop="20251227170000 +0000" channel="4K TR: FB TV">
+    <title>YAŞAYAN ÇINARLARIMIZ</title>
+  </programme>
+  <programme start="20251227163000 +0000" stop="20251227170000 +0000" channel="FB TV">
+    <title>YAŞAYAN ÇINARLARIMIZ</title>
+  </programme>
+  <programme start="20251227170000 +0000" stop="20251227173000 +0000" channel="4K TR: FB TV">
+    <title>TARIH VE FENERBAHÇE</title>
+  </programme>
+  <programme start="20251227170000 +0000" stop="20251227173000 +0000" channel="FB TV">
+    <title>TARIH VE FENERBAHÇE</title>
+  </programme>
+  <programme start="20251227173000 +0000" stop="20251227174500 +0000" channel="4K TR: FB TV">
+    <title>SARI LACIVERT HAYATLAR</title>
+  </programme>
+  <programme start="20251227173000 +0000" stop="20251227174500 +0000" channel="FB TV">
+    <title>SARI LACIVERT HAYATLAR</title>
+  </programme>
+  <programme start="20251227174500 +0000" stop="20251227180000 +0000" channel="4K TR: FB TV">
+    <title>MAÇIN ARDINDAN</title>
+  </programme>
+  <programme start="20251227174500 +0000" stop="20251227180000 +0000" channel="FB TV">
+    <title>MAÇIN ARDINDAN</title>
+  </programme>
+  <programme start="20251227180000 +0000" stop="20251227190000 +0000" channel="4K TR: FB TV">
+    <title>TEKNIK ANALIZ</title>
+  </programme>
+  <programme start="20251227180000 +0000" stop="20251227190000 +0000" channel="FB TV">
+    <title>TEKNIK ANALIZ</title>
+  </programme>
+  <programme start="20251227190000 +0000" stop="20251227191500 +0000" channel="4K TR: FB TV">
+    <title>BASKETBOL: KADINLAR SÜPER LIGI</title>
+  </programme>
+  <programme start="20251227190000 +0000" stop="20251227191500 +0000" channel="FB TV">
+    <title>BASKETBOL: KADINLAR SÜPER LIGI</title>
+  </programme>
+  <programme start="20251227191500 +0000" stop="20251227194500 +0000" channel="4K TR: FB TV">
+    <title>SARI LACIVERT HAYATLAR</title>
+  </programme>
+  <programme start="20251227191500 +0000" stop="20251227194500 +0000" channel="FB TV">
+    <title>SARI LACIVERT HAYATLAR</title>
+  </programme>
+  <programme start="20251227194500 +0000" stop="20251227203000 +0000" channel="4K TR: FB TV">
+    <title>YILDIZ TAKIMI</title>
+  </programme>
+  <programme start="20251227194500 +0000" stop="20251227203000 +0000" channel="FB TV">
+    <title>YILDIZ TAKIMI</title>
+  </programme>
+  <programme start="20251227203000 +0000" stop="20251227204500 +0000" channel="4K TR: FB TV">
+    <title>FENERIUM SAATI</title>
+  </programme>
+  <programme start="20251227203000 +0000" stop="20251227204500 +0000" channel="FB TV">
+    <title>FENERIUM SAATI</title>
+  </programme>
+  <programme start="20251227204500 +0000" stop="20251227210000 +0000" channel="4K TR: FB TV">
+    <title>GECE HABERI</title>
+  </programme>
+  <programme start="20251227204500 +0000" stop="20251227210000 +0000" channel="FB TV">
+    <title>GECE HABERI</title>
+  </programme>
   <programme start="20251226210000 +0000" stop="20251226210500 +0000" channel="TABII SPOR 1 4K">
     <title>ONSUZ ASLA 5. BÖLÜM</title>
   </programme>
@@ -13936,25 +14116,25 @@
     <title>AVRUPA SAHNESI</title>
   </programme>
   <programme start="20251227103000 +0000" stop="20251227121500 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251227103000 +0000" stop="20251227121500 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251227103000 +0000" stop="20251227121500 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251227103000 +0000" stop="20251227121500 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251227103000 +0000" stop="20251227121500 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251227103000 +0000" stop="20251227121500 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251227103000 +0000" stop="20251227121500 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251227121500 +0000" stop="20251227122500 +0000" channel="TABII SPOR 1 4K">
     <title>YILSONU 2025</title>
@@ -13978,25 +14158,25 @@
     <title>YILSONU 2025</title>
   </programme>
   <programme start="20251227122500 +0000" stop="20251227142000 +0000" channel="TABII SPOR 1 4K">
-    <title>İSKOÇYA PREMIER LIG FUTBOL KARŞILAŞMASI 'HIBERNIAN - HEART OF MIDLOTHIAN'</title>
+    <title>HIBERNIAN - HEART OF MIDLOTHIAN</title>
   </programme>
   <programme start="20251227122500 +0000" stop="20251227142000 +0000" channel="TABII SPOR 1 720P">
-    <title>İSKOÇYA PREMIER LIG FUTBOL KARŞILAŞMASI 'HIBERNIAN - HEART OF MIDLOTHIAN'</title>
+    <title>HIBERNIAN - HEART OF MIDLOTHIAN</title>
   </programme>
   <programme start="20251227122500 +0000" stop="20251227142000 +0000" channel="TABII SPOR 1 UHD">
-    <title>İSKOÇYA PREMIER LIG FUTBOL KARŞILAŞMASI 'HIBERNIAN - HEART OF MIDLOTHIAN'</title>
+    <title>HIBERNIAN - HEART OF MIDLOTHIAN</title>
   </programme>
   <programme start="20251227122500 +0000" stop="20251227142000 +0000" channel="TABII SPOR HD">
-    <title>İSKOÇYA PREMIER LIG FUTBOL KARŞILAŞMASI 'HIBERNIAN - HEART OF MIDLOTHIAN'</title>
+    <title>HIBERNIAN - HEART OF MIDLOTHIAN</title>
   </programme>
   <programme start="20251227122500 +0000" stop="20251227142000 +0000" channel="TABII SPOR SD">
-    <title>İSKOÇYA PREMIER LIG FUTBOL KARŞILAŞMASI 'HIBERNIAN - HEART OF MIDLOTHIAN'</title>
+    <title>HIBERNIAN - HEART OF MIDLOTHIAN</title>
   </programme>
   <programme start="20251227122500 +0000" stop="20251227142000 +0000" channel="TABII SPOR">
-    <title>İSKOÇYA PREMIER LIG FUTBOL KARŞILAŞMASI 'HIBERNIAN - HEART OF MIDLOTHIAN'</title>
+    <title>HIBERNIAN - HEART OF MIDLOTHIAN</title>
   </programme>
   <programme start="20251227122500 +0000" stop="20251227142000 +0000" channel="TABII SPOR 1">
-    <title>İSKOÇYA PREMIER LIG FUTBOL KARŞILAŞMASI 'HIBERNIAN - HEART OF MIDLOTHIAN'</title>
+    <title>HIBERNIAN - HEART OF MIDLOTHIAN</title>
   </programme>
   <programme start="20251227142000 +0000" stop="20251227144500 +0000" channel="TABII SPOR 1 4K">
     <title>TÜM ZAMANLARIN EN İYILERI</title>
@@ -14020,25 +14200,25 @@
     <title>TÜM ZAMANLARIN EN İYILERI</title>
   </programme>
   <programme start="20251227144500 +0000" stop="20251227164000 +0000" channel="TABII SPOR 1 4K">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSR - AL OKHDOOD'</title>
+    <title>AL NASSR - AL OKHDOOD</title>
   </programme>
   <programme start="20251227144500 +0000" stop="20251227164000 +0000" channel="TABII SPOR 1 720P">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSR - AL OKHDOOD'</title>
+    <title>AL NASSR - AL OKHDOOD</title>
   </programme>
   <programme start="20251227144500 +0000" stop="20251227164000 +0000" channel="TABII SPOR 1 UHD">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSR - AL OKHDOOD'</title>
+    <title>AL NASSR - AL OKHDOOD</title>
   </programme>
   <programme start="20251227144500 +0000" stop="20251227164000 +0000" channel="TABII SPOR HD">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSR - AL OKHDOOD'</title>
+    <title>AL NASSR - AL OKHDOOD</title>
   </programme>
   <programme start="20251227144500 +0000" stop="20251227164000 +0000" channel="TABII SPOR SD">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSR - AL OKHDOOD'</title>
+    <title>AL NASSR - AL OKHDOOD</title>
   </programme>
   <programme start="20251227144500 +0000" stop="20251227164000 +0000" channel="TABII SPOR">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSR - AL OKHDOOD'</title>
+    <title>AL NASSR - AL OKHDOOD</title>
   </programme>
   <programme start="20251227144500 +0000" stop="20251227164000 +0000" channel="TABII SPOR 1">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSR - AL OKHDOOD'</title>
+    <title>AL NASSR - AL OKHDOOD</title>
   </programme>
   <programme start="20251227164000 +0000" stop="20251227170500 +0000" channel="TABII SPOR 1 4K">
     <title>YENILMEZLER</title>
@@ -14062,67 +14242,67 @@
     <title>YENILMEZLER</title>
   </programme>
   <programme start="20251227170500 +0000" stop="20251227172500 +0000" channel="TABII SPOR 1 4K">
-    <title>BIZIM LIGLER ORDU DERBISI</title>
+    <title>BIZIM LIGLER</title>
   </programme>
   <programme start="20251227170500 +0000" stop="20251227172500 +0000" channel="TABII SPOR 1 720P">
-    <title>BIZIM LIGLER ORDU DERBISI</title>
+    <title>BIZIM LIGLER</title>
   </programme>
   <programme start="20251227170500 +0000" stop="20251227172500 +0000" channel="TABII SPOR 1 UHD">
-    <title>BIZIM LIGLER ORDU DERBISI</title>
+    <title>BIZIM LIGLER</title>
   </programme>
   <programme start="20251227170500 +0000" stop="20251227172500 +0000" channel="TABII SPOR HD">
-    <title>BIZIM LIGLER ORDU DERBISI</title>
+    <title>BIZIM LIGLER</title>
   </programme>
   <programme start="20251227170500 +0000" stop="20251227172500 +0000" channel="TABII SPOR SD">
-    <title>BIZIM LIGLER ORDU DERBISI</title>
+    <title>BIZIM LIGLER</title>
   </programme>
   <programme start="20251227170500 +0000" stop="20251227172500 +0000" channel="TABII SPOR">
-    <title>BIZIM LIGLER ORDU DERBISI</title>
+    <title>BIZIM LIGLER</title>
   </programme>
   <programme start="20251227170500 +0000" stop="20251227172500 +0000" channel="TABII SPOR 1">
-    <title>BIZIM LIGLER ORDU DERBISI</title>
+    <title>BIZIM LIGLER</title>
   </programme>
   <programme start="20251227172500 +0000" stop="20251227192000 +0000" channel="TABII SPOR 1 4K">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL ITTIHAD - AL SHABAB'</title>
+    <title>AL ITTIHAD - AL SHABAB</title>
   </programme>
   <programme start="20251227172500 +0000" stop="20251227192000 +0000" channel="TABII SPOR 1 720P">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL ITTIHAD - AL SHABAB'</title>
+    <title>AL ITTIHAD - AL SHABAB</title>
   </programme>
   <programme start="20251227172500 +0000" stop="20251227192000 +0000" channel="TABII SPOR 1 UHD">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL ITTIHAD - AL SHABAB'</title>
+    <title>AL ITTIHAD - AL SHABAB</title>
   </programme>
   <programme start="20251227172500 +0000" stop="20251227192000 +0000" channel="TABII SPOR HD">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL ITTIHAD - AL SHABAB'</title>
+    <title>AL ITTIHAD - AL SHABAB</title>
   </programme>
   <programme start="20251227172500 +0000" stop="20251227192000 +0000" channel="TABII SPOR SD">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL ITTIHAD - AL SHABAB'</title>
+    <title>AL ITTIHAD - AL SHABAB</title>
   </programme>
   <programme start="20251227172500 +0000" stop="20251227192000 +0000" channel="TABII SPOR">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL ITTIHAD - AL SHABAB'</title>
+    <title>AL ITTIHAD - AL SHABAB</title>
   </programme>
   <programme start="20251227172500 +0000" stop="20251227192000 +0000" channel="TABII SPOR 1">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL ITTIHAD - AL SHABAB'</title>
+    <title>AL ITTIHAD - AL SHABAB</title>
   </programme>
   <programme start="20251227192000 +0000" stop="20251227210000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'JUVENTUS - PAFOS'</title>
+    <title>JUVENTUS - PAFOS</title>
   </programme>
   <programme start="20251227192000 +0000" stop="20251227210000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'JUVENTUS - PAFOS'</title>
+    <title>JUVENTUS - PAFOS</title>
   </programme>
   <programme start="20251227192000 +0000" stop="20251227210000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'JUVENTUS - PAFOS'</title>
+    <title>JUVENTUS - PAFOS</title>
   </programme>
   <programme start="20251227192000 +0000" stop="20251227210000 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'JUVENTUS - PAFOS'</title>
+    <title>JUVENTUS - PAFOS</title>
   </programme>
   <programme start="20251227192000 +0000" stop="20251227210000 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'JUVENTUS - PAFOS'</title>
+    <title>JUVENTUS - PAFOS</title>
   </programme>
   <programme start="20251227192000 +0000" stop="20251227210000 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'JUVENTUS - PAFOS'</title>
+    <title>JUVENTUS - PAFOS</title>
   </programme>
   <programme start="20251227192000 +0000" stop="20251227210000 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'JUVENTUS - PAFOS'</title>
+    <title>JUVENTUS - PAFOS</title>
   </programme>
   <programme start="20251226213000 +0000" stop="20251226220000 +0000" channel="4K TR: S SPORT">
     <title>MONSTER JAM</title>
@@ -14413,13 +14593,13 @@
     <title>MONSTER JAM</title>
   </programme>
   <programme start="20251227140000 +0000" stop="20251227160000 +0000" channel="SARAN SPORT 2">
-    <title>TORINO - CAGLIARI</title>
+    <title>LECCE - COMO</title>
   </programme>
   <programme start="20251227140000 +0000" stop="20251227160000 +0000" channel="S SPORT 2">
-    <title>TORINO - CAGLIARI</title>
+    <title>LECCE - COMO</title>
   </programme>
   <programme start="20251227140000 +0000" stop="20251227160000 +0000" channel="4K TR: S SPORT 2">
-    <title>TORINO - CAGLIARI</title>
+    <title>LECCE - COMO</title>
   </programme>
   <programme start="20251227160000 +0000" stop="20251227163000 +0000" channel="SARAN SPORT 2">
     <title>MADE IN ITALY</title>
@@ -31341,23 +31521,29 @@
   <programme start="20251227073000 +0000" stop="20251227080000 +0000" channel="Bi Kanal">
     <title>YER GÖK AŞK</title>
   </programme>
-  <programme start="20251227080000 +0000" stop="20251227120000 +0000" channel="Bi Kanal">
+  <programme start="20251227080000 +0000" stop="20251227093000 +0000" channel="Bi Kanal">
     <title>BI HAFTA SONU</title>
   </programme>
-  <programme start="20251227120000 +0000" stop="20251227141500 +0000" channel="Bi Kanal">
-    <title>BEYAZ KÖLE</title>
+  <programme start="20251227093000 +0000" stop="20251227100000 +0000" channel="Bi Kanal">
+    <title>PIST GÜNLÜĞÜ</title>
   </programme>
-  <programme start="20251227141500 +0000" stop="20251227150000 +0000" channel="Bi Kanal">
-    <title>AŞKA MAHKUM</title>
+  <programme start="20251227100000 +0000" stop="20251227124500 +0000" channel="Bi Kanal">
+    <title>AŞK VE GURUR</title>
   </programme>
-  <programme start="20251227150000 +0000" stop="20251227180000 +0000" channel="Bi Kanal">
-    <title>GEÇEN HAFTANIN ENLERI</title>
+  <programme start="20251227124500 +0000" stop="20251227160000 +0000" channel="Bi Kanal">
+    <title>LEYLIFER</title>
   </programme>
-  <programme start="20251227180000 +0000" stop="20251227183000 +0000" channel="Bi Kanal">
+  <programme start="20251227160000 +0000" stop="20251227173000 +0000" channel="Bi Kanal">
+    <title>METEOR KIYAMETI</title>
+  </programme>
+  <programme start="20251227173000 +0000" stop="20251227200000 +0000" channel="Bi Kanal">
+    <title>CAN BAĞI</title>
+  </programme>
+  <programme start="20251227200000 +0000" stop="20251227203000 +0000" channel="Bi Kanal">
     <title>3. LIG ÖZETLERI</title>
   </programme>
-  <programme start="20251227183000 +0000" stop="20251227220000 +0000" channel="Bi Kanal">
-    <title>SINEMA</title>
+  <programme start="20251227203000 +0000" stop="20251227220000 +0000" channel="Bi Kanal">
+    <title>METEOR KIYAMETI</title>
   </programme>
   <programme start="20251227093000 +0000" stop="20251227120000 +0000" channel="4K TR: MELTEM TV">
     <title>YAĞMUR ZEYNEP TOPRAK ILE DÜNYANIN LEZZETLERI</title>
@@ -33855,13 +34041,19 @@
   <programme start="20251226210000 +0000" stop="20251227030000 +0000" channel="KIBRIS TV">
     <title>KIBRIS TV</title>
   </programme>
-  <programme start="20251227030000 +0000" stop="20251229000000 +0000" channel="KIBRIS TV">
+  <programme start="20251227030000 +0000" stop="20251227150000 +0000" channel="KIBRIS TV">
+    <title>KIBRIS TV</title>
+  </programme>
+  <programme start="20251227150000 +0000" stop="20251227210000 +0000" channel="KIBRIS TV">
     <title>KIBRIS TV</title>
   </programme>
   <programme start="20251226210000 +0000" stop="20251227030000 +0000" channel="KANAL T">
     <title>KANAL T</title>
   </programme>
-  <programme start="20251227030000 +0000" stop="20251229000000 +0000" channel="KANAL T">
+  <programme start="20251227030000 +0000" stop="20251227150000 +0000" channel="KANAL T">
+    <title>KANAL T</title>
+  </programme>
+  <programme start="20251227150000 +0000" stop="20251227210000 +0000" channel="KANAL T">
     <title>KANAL T</title>
   </programme>
   <programme start="20251226210000 +0000" stop="20251226220000 +0000" channel="KIBRIS ADA TV">
