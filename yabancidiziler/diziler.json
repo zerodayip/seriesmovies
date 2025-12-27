@@ -86,7 +86,7 @@
   "/dizi/it-s-florida-man": {
     "group": "It’s Florida, Man",
     "last_season": 2,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/sanda": {
@@ -302,13 +302,13 @@
   "/dizi/heated-rivalry": {
     "group": "Heated Rivalry",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/shoresy": {
     "group": "Shoresy",
     "last_season": 5,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/amandaland": {
