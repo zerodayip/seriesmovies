@@ -1,4 +1,16 @@
 {
+  "/dizi/the-lowdown-2025-izle/": {
+    "group": "THE LOWDOWN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/tracker/": {
+    "group": "TRACKER",
+    "last_season": 3,
+    "last_episode": 20,
+    "start_episode": 1
+  },
   "/dizi/jasmine/": {
     "group": "JASMINE",
     "last_season": 1,
