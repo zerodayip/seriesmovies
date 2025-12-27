@@ -1,14 +1,20 @@
 {
-  "/anime/tougen-anki/": {
-    "group": "TOUGEN ANKI",
+  "/anime/watari-kuns-is-about-to-collapse/": {
+    "group": "WATARI-KUN’S ****** IS ABOUT TO COLLAPSE",
     "last_season": 1,
-    "last_episode": 24,
+    "last_episode": 25,
     "start_episode": 1
   },
   "/anime/shabake/": {
     "group": "SHABAKE",
     "last_season": 1,
     "last_episode": 12,
+    "start_episode": 1
+  },
+  "/anime/tougen-anki/": {
+    "group": "TOUGEN ANKI",
+    "last_season": 1,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/anime/cats-eye/": {
@@ -109,12 +115,6 @@
   },
   "/anime/my-status-as-an-assassin-obviously-exceeds-the-heros/": {
     "group": "MY STATUS AS AN ASSASSIN OBVIOUSLY EXCEEDS THE HERO’S",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/gintama-mr-ginpachis-zany-class/": {
-    "group": "GINTAMA – MR. GINPACHI’S ZANY CLASS",
     "last_season": 1,
     "last_episode": 12,
     "start_episode": 1

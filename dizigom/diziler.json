@@ -1000,5 +1000,11 @@
     "last_season": 3,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi-izle/cashero": {
+    "group": "CASHERO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
