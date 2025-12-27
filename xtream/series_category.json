@@ -2156,7 +2156,8 @@
     {"name": "CITY OF SHADOWS CIUDAD DE SOMBRAS", "year": "2025"},
     {"name": "BADLY IN LOVE", "year": "2025"},
     {"name": "SICILYA EKSPRESI", "year": "2025"},
-    {"name": "KING OF COLLECTIBLES THE GOLDIN TOUCH", "year": "2023"}
+    {"name": "KING OF COLLECTIBLES THE GOLDIN TOUCH", "year": "2023"},
+    {"name": "CASHERO", "year": "2025"}
   ],
   "PARAMOUNT+ DİZİLERİ": [
     {"name": "DEXTER: RESURRECTION", "year": "2025"},
@@ -3821,7 +3822,8 @@
     {"name": "PRETTY LITTLE LIARS ORIGINAL SIN", "year": "2022"},
     {"name": "ANGELA DINIZ MURDERED AND CONVICTED", "year": "2025"},
     {"name": "THE SEDUCTION MERTEUIL", "year": "2025"},
-    {"name": "ITS FLORIDA MAN", "year": "2024"}
+    {"name": "ITS FLORIDA MAN", "year": "2024"},
+    {"name": "HAHA YOU CLOWNS", "year": "2025"}
   ],
   "TELETAMA DİZİLERİ": [
     {"name": "STEINS;GATE", "year": "2011"},
@@ -4009,7 +4011,8 @@
     {"name": "TERAPIA ALTERNATIVA", "year": "2021"},
     {"name": "MARVELS MODOK", "year": "2021"},
     {"name": "ALIENOID RETURN TO THE FUTURE", "year": "2024"},
-    {"name": "BOBS BURGERS", "year": "2011"}
+    {"name": "BOBS BURGERS", "year": "2011"},
+    {"name": "SHORESY", "year": "2022"}
   ],
   "MAX DİZİLERİ": [
     {"name": "ADVENTURE TIME: FIONNA & CAKE", "year": "2023"},
@@ -6616,7 +6619,9 @@
     {"name": "BILDIGIN GIBI DEGIL", "year": "2025"},
     {"name": "KONUSANLAR", "year": "2020"},
     {"name": "SEKIZINCI AILE", "year": "2025"},
-    {"name": "VICDANSIZ", "year": "2025"}
+    {"name": "VICDANSIZ", "year": "2025"},
+    {"name": "AMANDALAND", "year": "2025"},
+    {"name": "BUYUK KUCUK TUM HAYVANLAR", "year": "2020"}
   ],
   "AMAZON VIDEO DİZİLERİ": [
     {"name": "JASMINE", "year": "2015"}
