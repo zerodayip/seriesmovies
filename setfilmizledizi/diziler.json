@@ -824,7 +824,7 @@
   "/dizi/the-lowdown/": {
     "group": "THE LOWDOWN",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/kaosun-anatomisi/": {
@@ -10442,7 +10442,7 @@
   "/dizi/the-lowdown-2025-izle/": {
     "group": "THE LOWDOWN",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 8,
     "start_episode": 1
   }
 }
