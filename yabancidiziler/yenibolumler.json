@@ -16,47 +16,5 @@
     "last_season": 5,
     "last_episode": 2,
     "start_episode": 1
-  },
-  "/dizi/all-creatures-great-and-small": {
-    "group": "All Creatures Great and Small",
-    "last_season": 6,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/amandaland": {
-    "group": "Amandaland",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/cashero": {
-    "group": "Cashero",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/cat-s-eye": {
-    "group": "Cat’s Eye",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/dynamite-kiss": {
-    "group": "Dynamite Kiss",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "/dizi/power-book-iv-force": {
-    "group": "Power Book IV: Force",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/stranger-things": {
-    "group": "Stranger Things",
-    "last_season": 5,
-    "last_episode": 7,
-    "start_episode": 1
   }
 }

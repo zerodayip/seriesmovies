@@ -10444,5 +10444,17 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/dizi/cashero/": {
+    "group": "CASHERO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-chair-company/": {
+    "group": "THE CHAIR COMPANY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
