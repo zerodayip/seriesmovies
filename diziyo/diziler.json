@@ -854,7 +854,7 @@
   "/dizi/ghosts-2021": {
     "group": "GHOSTS",
     "last_season": 5,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/lego-marvel-avengers-strange-tails": {
@@ -1280,7 +1280,7 @@
   "/dizi/sanctuary-a-witch-s-tale": {
     "group": "SANCTUARY: A WITCH'S TALE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   }
 }
