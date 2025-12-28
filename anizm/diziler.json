@@ -758,7 +758,7 @@
   "/fumetsu-no-anata-e-season-3": {
     "group": "FUMETSU NO ANATA E SEASON 3",
     "last_season": 1,
-    "last_episode": 12.0,
+    "last_episode": 13.0,
     "start_episode": 1
   },
   "/ranma--2024-2nd-season": {
@@ -794,7 +794,7 @@
   "/si-vis-the-sound-of-heroes": {
     "group": "SI-VIS: THE SOUND OF HEROES",
     "last_season": 1,
-    "last_episode": 12.0,
+    "last_episode": 13.0,
     "start_episode": 1
   },
   "/nageki-no-bourei-wa-intai-shitai-part-2": {
@@ -938,7 +938,7 @@
   "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
     "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
     "last_season": 1,
-    "last_episode": 12.0,
+    "last_episode": 13.0,
     "start_episode": 1
   },
   "/gnosia": {
@@ -1274,13 +1274,13 @@
   "/oshiete-galko-chan-natsuyasumi-tte-hontou-desu-ka": {
     "group": "OSHIETE! GALKO-CHAN: NATSUYASUMI TTE HONTOU DESU KA?",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/oshiete-galko-chan": {
     "group": "OSHIETE! GALKO-CHAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12.0,
     "start_episode": 1
   }
 }
