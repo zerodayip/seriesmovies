@@ -1270,5 +1270,17 @@
     "last_season": 1,
     "last_episode": 4.0,
     "start_episode": 1
+  },
+  "/oshiete-galko-chan-natsuyasumi-tte-hontou-desu-ka": {
+    "group": "OSHIETE! GALKO-CHAN: NATSUYASUMI TTE HONTOU DESU KA?",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/oshiete-galko-chan": {
+    "group": "OSHIETE! GALKO-CHAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

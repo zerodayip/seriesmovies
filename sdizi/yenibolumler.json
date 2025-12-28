@@ -1,4 +1,10 @@
 {
+  "/diziler/amphibia-izle.html": {
+    "group": "AMPHIBIA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/surely-tomorrow.html": {
     "group": "SURELY TOMORROW",
     "last_season": 1,
