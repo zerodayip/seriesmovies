@@ -68,7 +68,7 @@
   "/dizi-izle/pro-bono": {
     "group": "PRO BONO",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/are-you-sure": {
@@ -98,7 +98,7 @@
   "/dizi-izle/surely-tomorrow": {
     "group": "SURELY TOMORROW",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   }
 }
