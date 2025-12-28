@@ -1,4 +1,7 @@
 {
+  "/dizi/robin-hood/": {
+    "group": "ROBIN HOOD"
+  },
   "/dizi/sanctuary-a-witch-s-tale/": {
     "group": "SANCTUARY: A WITCH'S TALE"
   },
@@ -7,6 +10,9 @@
   },
   "/dizi/stranger-things-izle-733360/": {
     "group": "STRANGER THINGS"
+  },
+  "/dizi/power-book-iv-force-86/": {
+    "group": "POWER BOOK IV: FORCE"
   },
   "/dizi/cashero/": {
     "group": "CASHERO"
@@ -26,23 +32,11 @@
   "/dizi/the-end-of-an-era/": {
     "group": "THE END OF AN ERA"
   },
-  "/dizi/robin-hood/": {
-    "group": "ROBIN HOOD"
-  },
   "/dizi/i-love-la/": {
     "group": "I LOVE LA"
   },
-  "/dizi/power-book-iv-force-86/": {
-    "group": "POWER BOOK IV: FORCE"
-  },
   "/dizi/boston-blue/": {
     "group": "BOSTON BLUE"
-  },
-  "/dizi/the-seduction/": {
-    "group": "THE SEDUCTION - MERTEUIL"
-  },
-  "/dizi/sheriff-country-3/": {
-    "group": "SHERIFF COUNTRY"
   },
   "/dizi/heroes-2006/": {
     "group": "HEROES"

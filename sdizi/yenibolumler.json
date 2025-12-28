@@ -1,14 +1,26 @@
 {
-  "/diziler/amphibia-izle.html": {
-    "group": "AMPHIBIA",
+  "/diziler/one-punch-man.html": {
+    "group": "ONE PUNCH MAN",
     "last_season": 3,
-    "last_episode": 18,
+    "last_episode": 11,
     "start_episode": 1
+  },
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1154,
+    "start_episode": 1130
   },
   "/diziler/surely-tomorrow.html": {
     "group": "SURELY TOMORROW",
     "last_season": 1,
     "last_episode": 7,
+    "start_episode": 1
+  },
+  "/diziler/amphibia-izle.html": {
+    "group": "AMPHIBIA",
+    "last_season": 3,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/diziler/to-your-eternity.html": {
@@ -69,24 +81,6 @@
     "group": "PLURIBUS",
     "last_season": 1,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/the-mighty-nein.html": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/younger.html": {
-    "group": "YOUNGER",
-    "last_season": 7,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/nice-to-not-meet-you.html": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 14,
     "start_episode": 1
   }
 }
