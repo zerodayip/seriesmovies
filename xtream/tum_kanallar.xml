@@ -32227,7 +32227,7 @@
     <title>NEWS</title>
   </programme>
   <programme start="20251228134000 +0000" stop="20251228140000 +0000" channel="TRT ARABI">
-    <title>DOCUMENTARY</title>
+    <title>GAZA: FRAGILE TRUCE</title>
   </programme>
   <programme start="20251228140000 +0000" stop="20251228143000 +0000" channel="TRT ARABI">
     <title>NEWS</title>
@@ -32245,7 +32245,7 @@
     <title>NEWS</title>
   </programme>
   <programme start="20251228164000 +0000" stop="20251228170000 +0000" channel="TRT ARABI">
-    <title>DOCUMENTARY</title>
+    <title>GAZA: FRAGILE TRUCE</title>
   </programme>
   <programme start="20251228170000 +0000" stop="20251228180000 +0000" channel="TRT ARABI">
     <title>NEWS</title>
@@ -33384,14 +33384,14 @@
   <programme start="20251228163000 +0000" stop="20251228174000 +0000" channel="KONTV">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20251228174000 +0000" stop="20251228184000 +0000" channel="KONTV">
+  <programme start="20251228174000 +0000" stop="20251228185000 +0000" channel="KONTV">
+    <title>İSMAILCE</title>
+  </programme>
+  <programme start="20251228185000 +0000" stop="20251228194000 +0000" channel="KONTV">
     <title>HAYAT VAR</title>
   </programme>
-  <programme start="20251228184000 +0000" stop="20251228195000 +0000" channel="KONTV">
-    <title>ŞUHUDI DIKICI EFSANESI</title>
-  </programme>
-  <programme start="20251228195000 +0000" stop="20251228210000 +0000" channel="KONTV">
-    <title>İYILIKLE SEVINDIR: GAZZE DÜĞÜN</title>
+  <programme start="20251228194000 +0000" stop="20251228210000 +0000" channel="KONTV">
+    <title>TÜRKÜ FILMI</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251228050000 +0000" channel="KANAL 23">
     <title>ANA HABER</title>
