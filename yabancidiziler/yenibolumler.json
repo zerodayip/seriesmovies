@@ -11,6 +11,12 @@
     "last_episode": 1,
     "start_episode": 1
   },
+  "/dizi/krapopolis": {
+    "group": "Krapopolis",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/members-only-palm-beach": {
     "group": "Members Only: Palm Beach",
     "last_season": 1,

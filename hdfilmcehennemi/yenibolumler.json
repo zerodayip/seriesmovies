@@ -2,6 +2,9 @@
   "/dizi/robin-hood/": {
     "group": "ROBIN HOOD"
   },
+  "/dizi/surely-tomorrow/": {
+    "group": "ELBET YARIN"
+  },
   "/dizi/the-copenhagen-test/": {
     "group": "THE COPENHAGEN TEST"
   },
@@ -34,9 +37,6 @@
   },
   "/dizi/i-love-la/": {
     "group": "I LOVE LA"
-  },
-  "/dizi/boston-blue/": {
-    "group": "BOSTON BLUE"
   },
   "/dizi/sanctuary-a-witch-s-tale/": {
     "group": "SANCTUARY: A WITCH'S TALE"
@@ -109,8 +109,5 @@
   },
   "/dizi/gilmore-girls/": {
     "group": "GILMORE KIZLARI"
-  },
-  "/dizi/endeavour-3/": {
-    "group": "ENDEAVOUR"
   }
 }

@@ -1,4 +1,34 @@
 {
+  "/anime/shiboyugi-playing-death-games-to-put-food-on-the-table/": {
+    "group": "SHIBOYUGI: PLAYING DEATH GAMES TO PUT FOOD ON THE TABLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power/": {
+    "group": "NOBLE REINCARNATION: BORN BLESSED, SO I’LL OBTAIN ULTIMATE POWER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/journal-with-witch/": {
+    "group": "JOURNAL WITH WITCH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/mf-ghost-season-3/": {
+    "group": "MF GHOST SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/a-mangakas-weirdly-wonderful-workplace/": {
+    "group": "A MANGAKA’S WEIRDLY WONDERFUL WORKPLACE",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle/": {
     "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE",
     "last_season": 1,
@@ -87,36 +117,6 @@
     "group": "SHABAKE",
     "last_season": 1,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/tougen-anki/": {
-    "group": "TOUGEN ANKI",
-    "last_season": 1,
-    "last_episode": 24,
-    "start_episode": 1
-  },
-  "/anime/cats-eye/": {
-    "group": "CAT’S EYE",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/anime/this-monster-wants-to-eat-me/": {
-    "group": "THIS MONSTER WANTS TO EAT ME",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/theres-no-freaking-way-ill-be-your-lover-unless-sequel/": {
-    "group": "THERE’S NO FREAKING WAY I’LL BE YOUR LOVER! UNLESS… (SEQUEL)",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/golden-kamuy-final-season/": {
-    "group": "GOLDEN KAMUY FINAL SEASON",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }

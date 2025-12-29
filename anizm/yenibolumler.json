@@ -1,4 +1,22 @@
 {
+  "/kimetsu-no-yaiba-movie-mugen-jou-hen": {
+    "group": "KIMETSU NO YAIBA MOVIE: MUGEN JOU-HEN",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/ao-no-miburo-serizawa-ansatsu-hen": {
+    "group": "AO NO MIBURO: SERIZAWA ANSATSU-HEN",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/nukitashi-the-animation-specials": {
+    "group": "NUKITASHI THE ANIMATION SPECIALS",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/mofa-gongzhu-de-xiao-fannao": {
     "group": "MOFA GONGZHU DE XIAO FANNAO",
     "last_season": 1,
@@ -81,18 +99,6 @@
     "group": "HIFUU KATSUDOU KIROKU: THE SEALED ESOTERIC HISTORY",
     "last_season": 1,
     "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/shabake": {
-    "group": "SHABAKE",
-    "last_season": 1,
-    "last_episode": 13.0,
-    "start_episode": 1
-  },
-  "/gnosia": {
-    "group": "GNOSIA",
-    "last_season": 1,
-    "last_episode": 12.0,
     "start_episode": 1
   }
 }

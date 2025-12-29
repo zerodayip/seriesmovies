@@ -874,5 +874,29 @@
     "last_season": 1,
     "last_episode": 4,
     "start_episode": 1
+  },
+  "/anime/shiboyugi-playing-death-games-to-put-food-on-the-table/": {
+    "group": "SHIBOYUGI: PLAYING DEATH GAMES TO PUT FOOD ON THE TABLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power/": {
+    "group": "NOBLE REINCARNATION: BORN BLESSED, SO I’LL OBTAIN ULTIMATE POWER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/journal-with-witch/": {
+    "group": "JOURNAL WITH WITCH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/mf-ghost-season-3/": {
+    "group": "MF GHOST SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
