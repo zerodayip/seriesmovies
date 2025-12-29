@@ -1,4 +1,16 @@
 {
+  "/dizi/the-crowded-room/": {
+    "group": "THE CROWDED ROOM",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/defending-jacob/": {
+    "group": "DEFENDING JACOB",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/spartacus-house-of-ashur/": {
     "group": "SPARTACUS: HOUSE OF ASHUR",
     "last_season": 1,
