@@ -1,4 +1,10 @@
 {
+  "/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle/": {
+    "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/one-punch-man-season-3/": {
     "group": "ONE-PUNCH MAN SEASON 3",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/golden-kamuy-final-season/": {
     "group": "GOLDEN KAMUY FINAL SEASON",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/my-hero-academia-vigilantes-season-2/": {
-    "group": "MY HERO ACADEMIA: VIGILANTES SEASON 2",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1

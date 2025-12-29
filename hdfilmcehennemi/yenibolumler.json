@@ -2,8 +2,8 @@
   "/dizi/robin-hood/": {
     "group": "ROBIN HOOD"
   },
-  "/dizi/sanctuary-a-witch-s-tale/": {
-    "group": "SANCTUARY: A WITCH'S TALE"
+  "/dizi/the-copenhagen-test/": {
+    "group": "THE COPENHAGEN TEST"
   },
   "/dizi/pluribus/": {
     "group": "PLURIBUS"
@@ -37,6 +37,9 @@
   },
   "/dizi/boston-blue/": {
     "group": "BOSTON BLUE"
+  },
+  "/dizi/sanctuary-a-witch-s-tale/": {
+    "group": "SANCTUARY: A WITCH'S TALE"
   },
   "/dizi/heroes-2006/": {
     "group": "HEROES"
@@ -109,8 +112,5 @@
   },
   "/dizi/endeavour-3/": {
     "group": "ENDEAVOUR"
-  },
-  "/dizi/gomorrah-la-serie/": {
-    "group": "GOMORRA - LA SERIE"
   }
 }

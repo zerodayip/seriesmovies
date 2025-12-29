@@ -322,5 +322,41 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/dizi/amadeus": {
+    "group": "Amadeus",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/animal-control": {
+    "group": "Animal Control",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/members-only-palm-beach": {
+    "group": "Members Only: Palm Beach",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-simpsons": {
+    "group": "The Simpsons",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-copenhagen-test": {
+    "group": "The Copenhagen Test",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-good-ship-murder": {
+    "group": "The Good Ship Murder",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

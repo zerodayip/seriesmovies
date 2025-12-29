@@ -1,4 +1,52 @@
 {
+  "/dizi/pro-bono-asya": {
+    "group": "PRO BONO",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi/bob-s-burgers": {
+    "group": "BOB'S BURGERS",
+    "last_season": 16,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi/gyeongdoreul-gidarimyeo-asya": {
+    "group": "ELBET YARIN",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/robin-hood": {
+    "group": "ROBIN HOOD",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi/i-love-la": {
+    "group": "I LOVE LA",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/it-s-florida-man": {
+    "group": "IT'S FLORIDA, MAN.",
+    "last_season": 2,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi/ki-seu-neun-gwaen-hi-hae-seo-asya": {
+    "group": "KI-SEU-NEUN GWAEN-HI HAE-SEO",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi/the-golden-egg-asya": {
+    "group": "THE GOLDEN EGG",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/dizi/sanctuary-a-witch-s-tale": {
     "group": "SANCTUARY: A WITCH'S TALE",
     "last_season": 2,
@@ -87,48 +135,6 @@
     "group": "SEKIZINCI AILE",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/vicdansiz": {
-    "group": "VICDANSIZ",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi/this-way-up": {
-    "group": "THIS WAY UP",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi/the-mighty-nein": {
-    "group": "THE MIGHTY NEIN",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/percy-jackson-and-the-olympians": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 2,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi/karma-yerli": {
-    "group": "KARMA",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/yalmiun-sarang-asya": {
-    "group": "MEMNUN OLDUM",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "/dizi/taylor-swift-the-eras-tour-the-end-of-an-era": {
-    "group": "TAYLOR SWIFT: THE ERAS TOUR - THE END OF AN ERA",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
