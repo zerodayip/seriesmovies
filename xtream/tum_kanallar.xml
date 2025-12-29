@@ -14532,32 +14532,293 @@
   <programme start="20251228225000 +0000" stop="20251230000000 +0000" channel="TABII SPOR 1">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20251229040000 +0000" stop="20251230040000 +0000" channel="4K TR: S SPORT">
+  <programme start="20251228230000 +0000" stop="20251229010000 +0000" channel="4K TR: S SPORT">
+    <title>İSPANYA LALIGA</title>
+  </programme>
+  <programme start="20251228230000 +0000" stop="20251229010000 +0000" channel="S SPORT">
+    <title>İSPANYA LALIGA</title>
+  </programme>
+  <programme start="20251228230000 +0000" stop="20251229010000 +0000" channel="SARAN SPORT 1">
+    <title>İSPANYA LALIGA</title>
+  </programme>
+  <programme start="20251229010000 +0000" stop="20251229030000 +0000" channel="4K TR: S SPORT">
+    <title>MOTO GP - MOTO 2-3</title>
+  </programme>
+  <programme start="20251229010000 +0000" stop="20251229030000 +0000" channel="S SPORT">
+    <title>MOTO GP - MOTO 2-3</title>
+  </programme>
+  <programme start="20251229010000 +0000" stop="20251229030000 +0000" channel="SARAN SPORT 1">
+    <title>MOTO GP - MOTO 2-3</title>
+  </programme>
+  <programme start="20251229030000 +0000" stop="20251229040000 +0000" channel="4K TR: S SPORT">
+    <title>ESPN BELGESELI</title>
+  </programme>
+  <programme start="20251229030000 +0000" stop="20251229040000 +0000" channel="S SPORT">
+    <title>ESPN BELGESELI</title>
+  </programme>
+  <programme start="20251229030000 +0000" stop="20251229040000 +0000" channel="SARAN SPORT 1">
+    <title>ESPN BELGESELI</title>
+  </programme>
+  <programme start="20251229040000 +0000" stop="20251229060000 +0000" channel="4K TR: S SPORT">
     <title>EUROLEAGUE</title>
   </programme>
-  <programme start="20251229040000 +0000" stop="20251230040000 +0000" channel="S SPORT">
+  <programme start="20251229040000 +0000" stop="20251229060000 +0000" channel="S SPORT">
     <title>EUROLEAGUE</title>
   </programme>
-  <programme start="20251229040000 +0000" stop="20251230040000 +0000" channel="SARAN SPORT 1">
+  <programme start="20251229040000 +0000" stop="20251229060000 +0000" channel="SARAN SPORT 1">
     <title>EUROLEAGUE</title>
   </programme>
-  <programme start="20251229040000 +0000" stop="20251229113000 +0000" channel="SARAN SPORT 2">
+  <programme start="20251229060000 +0000" stop="20251229063000 +0000" channel="4K TR: S SPORT">
+    <title>GEARING UP</title>
+  </programme>
+  <programme start="20251229060000 +0000" stop="20251229063000 +0000" channel="S SPORT">
+    <title>GEARING UP</title>
+  </programme>
+  <programme start="20251229060000 +0000" stop="20251229063000 +0000" channel="SARAN SPORT 1">
+    <title>GEARING UP</title>
+  </programme>
+  <programme start="20251229063000 +0000" stop="20251229083000 +0000" channel="4K TR: S SPORT">
+    <title>NBA</title>
+  </programme>
+  <programme start="20251229063000 +0000" stop="20251229083000 +0000" channel="S SPORT">
+    <title>NBA</title>
+  </programme>
+  <programme start="20251229063000 +0000" stop="20251229083000 +0000" channel="SARAN SPORT 1">
+    <title>NBA</title>
+  </programme>
+  <programme start="20251229083000 +0000" stop="20251229093000 +0000" channel="4K TR: S SPORT">
+    <title>EUROLEAGUE CUMARTESI</title>
+  </programme>
+  <programme start="20251229083000 +0000" stop="20251229093000 +0000" channel="S SPORT">
+    <title>EUROLEAGUE CUMARTESI</title>
+  </programme>
+  <programme start="20251229083000 +0000" stop="20251229093000 +0000" channel="SARAN SPORT 1">
+    <title>EUROLEAGUE CUMARTESI</title>
+  </programme>
+  <programme start="20251229093000 +0000" stop="20251229113000 +0000" channel="4K TR: S SPORT">
+    <title>İSPANYA LALIGA</title>
+  </programme>
+  <programme start="20251229093000 +0000" stop="20251229113000 +0000" channel="S SPORT">
+    <title>İSPANYA LALIGA</title>
+  </programme>
+  <programme start="20251229093000 +0000" stop="20251229113000 +0000" channel="SARAN SPORT 1">
+    <title>İSPANYA LALIGA</title>
+  </programme>
+  <programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="4K TR: S SPORT">
+    <title>NBA ÖZETLER</title>
+  </programme>
+  <programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="S SPORT">
+    <title>NBA ÖZETLER</title>
+  </programme>
+  <programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="SARAN SPORT 1">
+    <title>NBA ÖZETLER</title>
+  </programme>
+  <programme start="20251229120000 +0000" stop="20251229140000 +0000" channel="4K TR: S SPORT">
+    <title>EUROLEAGUE</title>
+  </programme>
+  <programme start="20251229120000 +0000" stop="20251229140000 +0000" channel="S SPORT">
+    <title>EUROLEAGUE</title>
+  </programme>
+  <programme start="20251229120000 +0000" stop="20251229140000 +0000" channel="SARAN SPORT 1">
+    <title>EUROLEAGUE</title>
+  </programme>
+  <programme start="20251229140000 +0000" stop="20251229160000 +0000" channel="4K TR: S SPORT">
+    <title>NBA</title>
+  </programme>
+  <programme start="20251229140000 +0000" stop="20251229160000 +0000" channel="S SPORT">
+    <title>NBA</title>
+  </programme>
+  <programme start="20251229140000 +0000" stop="20251229160000 +0000" channel="SARAN SPORT 1">
+    <title>NBA</title>
+  </programme>
+  <programme start="20251229160000 +0000" stop="20251229170000 +0000" channel="4K TR: S SPORT">
+    <title>EUROLEAGUE TV</title>
+  </programme>
+  <programme start="20251229160000 +0000" stop="20251229170000 +0000" channel="S SPORT">
+    <title>EUROLEAGUE TV</title>
+  </programme>
+  <programme start="20251229160000 +0000" stop="20251229170000 +0000" channel="SARAN SPORT 1">
+    <title>EUROLEAGUE TV</title>
+  </programme>
+  <programme start="20251229170000 +0000" stop="20251229180000 +0000" channel="4K TR: S SPORT">
+    <title>S SPORT 2025 ÖZEL</title>
+  </programme>
+  <programme start="20251229170000 +0000" stop="20251229180000 +0000" channel="S SPORT">
+    <title>S SPORT 2025 ÖZEL</title>
+  </programme>
+  <programme start="20251229170000 +0000" stop="20251229180000 +0000" channel="SARAN SPORT 1">
+    <title>S SPORT 2025 ÖZEL</title>
+  </programme>
+  <programme start="20251229180000 +0000" stop="20251229190000 +0000" channel="4K TR: S SPORT">
+    <title>3'TE 3 NBA</title>
+  </programme>
+  <programme start="20251229180000 +0000" stop="20251229190000 +0000" channel="S SPORT">
+    <title>3'TE 3 NBA</title>
+  </programme>
+  <programme start="20251229180000 +0000" stop="20251229190000 +0000" channel="SARAN SPORT 1">
+    <title>3'TE 3 NBA</title>
+  </programme>
+  <programme start="20251229190000 +0000" stop="20251229200000 +0000" channel="4K TR: S SPORT">
+    <title>ÖZEL RÖPORTAJ</title>
+  </programme>
+  <programme start="20251229190000 +0000" stop="20251229200000 +0000" channel="S SPORT">
+    <title>ÖZEL RÖPORTAJ</title>
+  </programme>
+  <programme start="20251229190000 +0000" stop="20251229200000 +0000" channel="SARAN SPORT 1">
+    <title>ÖZEL RÖPORTAJ</title>
+  </programme>
+  <programme start="20251229200000 +0000" stop="20251230040000 +0000" channel="4K TR: S SPORT">
+    <title>ALMANYA BUNDESLIGA</title>
+  </programme>
+  <programme start="20251229200000 +0000" stop="20251230040000 +0000" channel="S SPORT">
+    <title>ALMANYA BUNDESLIGA</title>
+  </programme>
+  <programme start="20251229200000 +0000" stop="20251230040000 +0000" channel="SARAN SPORT 1">
+    <title>ALMANYA BUNDESLIGA</title>
+  </programme>
+  <programme start="20251228214500 +0000" stop="20251228220000 +0000" channel="SARAN SPORT 2">
+    <title>ÖZETLER</title>
+  </programme>
+  <programme start="20251228214500 +0000" stop="20251228220000 +0000" channel="S SPORT 2">
+    <title>ÖZETLER</title>
+  </programme>
+  <programme start="20251228214500 +0000" stop="20251228220000 +0000" channel="4K TR: S SPORT 2">
+    <title>ÖZETLER</title>
+  </programme>
+  <programme start="20251228220000 +0000" stop="20251229000000 +0000" channel="SARAN SPORT 2">
+    <title>MOTO GP - MOTO 2 -3</title>
+  </programme>
+  <programme start="20251228220000 +0000" stop="20251229000000 +0000" channel="S SPORT 2">
+    <title>MOTO GP - MOTO 2 -3</title>
+  </programme>
+  <programme start="20251228220000 +0000" stop="20251229000000 +0000" channel="4K TR: S SPORT 2">
+    <title>MOTO GP - MOTO 2 -3</title>
+  </programme>
+  <programme start="20251229000000 +0000" stop="20251229020000 +0000" channel="SARAN SPORT 2">
     <title>İTALYA SERIE A</title>
   </programme>
-  <programme start="20251229040000 +0000" stop="20251229113000 +0000" channel="S SPORT 2">
+  <programme start="20251229000000 +0000" stop="20251229020000 +0000" channel="S SPORT 2">
     <title>İTALYA SERIE A</title>
   </programme>
-  <programme start="20251229040000 +0000" stop="20251229113000 +0000" channel="4K TR: S SPORT 2">
+  <programme start="20251229000000 +0000" stop="20251229020000 +0000" channel="4K TR: S SPORT 2">
     <title>İTALYA SERIE A</title>
   </programme>
-  <programme start="20251229113000 +0000" stop="20251230040000 +0000" channel="SARAN SPORT 2">
+  <programme start="20251229020000 +0000" stop="20251229040000 +0000" channel="SARAN SPORT 2">
+    <title>MONACO  - REAL MADRID</title>
+  </programme>
+  <programme start="20251229020000 +0000" stop="20251229040000 +0000" channel="S SPORT 2">
+    <title>MONACO  - REAL MADRID</title>
+  </programme>
+  <programme start="20251229020000 +0000" stop="20251229040000 +0000" channel="4K TR: S SPORT 2">
+    <title>MONACO  - REAL MADRID</title>
+  </programme>
+  <programme start="20251229040000 +0000" stop="20251229060000 +0000" channel="SARAN SPORT 2">
+    <title>İTALYA SERIE A</title>
+  </programme>
+  <programme start="20251229040000 +0000" stop="20251229060000 +0000" channel="S SPORT 2">
+    <title>İTALYA SERIE A</title>
+  </programme>
+  <programme start="20251229040000 +0000" stop="20251229060000 +0000" channel="4K TR: S SPORT 2">
+    <title>İTALYA SERIE A</title>
+  </programme>
+  <programme start="20251229060000 +0000" stop="20251229070000 +0000" channel="SARAN SPORT 2">
+    <title>SUPER CARS</title>
+  </programme>
+  <programme start="20251229060000 +0000" stop="20251229070000 +0000" channel="S SPORT 2">
+    <title>SUPER CARS</title>
+  </programme>
+  <programme start="20251229060000 +0000" stop="20251229070000 +0000" channel="4K TR: S SPORT 2">
+    <title>SUPER CARS</title>
+  </programme>
+  <programme start="20251229070000 +0000" stop="20251229080000 +0000" channel="SARAN SPORT 2">
+    <title>SUPER CARS</title>
+  </programme>
+  <programme start="20251229070000 +0000" stop="20251229080000 +0000" channel="S SPORT 2">
+    <title>SUPER CARS</title>
+  </programme>
+  <programme start="20251229070000 +0000" stop="20251229080000 +0000" channel="4K TR: S SPORT 2">
+    <title>SUPER CARS</title>
+  </programme>
+  <programme start="20251229080000 +0000" stop="20251229083000 +0000" channel="SARAN SPORT 2">
+    <title>WORLDS STRONGEST MAN</title>
+  </programme>
+  <programme start="20251229080000 +0000" stop="20251229083000 +0000" channel="S SPORT 2">
+    <title>WORLDS STRONGEST MAN</title>
+  </programme>
+  <programme start="20251229080000 +0000" stop="20251229083000 +0000" channel="4K TR: S SPORT 2">
+    <title>WORLDS STRONGEST MAN</title>
+  </programme>
+  <programme start="20251229083000 +0000" stop="20251229103000 +0000" channel="SARAN SPORT 2">
+    <title>ZALGIRIS - PANATHINAIKOS</title>
+  </programme>
+  <programme start="20251229083000 +0000" stop="20251229103000 +0000" channel="S SPORT 2">
+    <title>ZALGIRIS - PANATHINAIKOS</title>
+  </programme>
+  <programme start="20251229083000 +0000" stop="20251229103000 +0000" channel="4K TR: S SPORT 2">
+    <title>ZALGIRIS - PANATHINAIKOS</title>
+  </programme>
+  <programme start="20251229103000 +0000" stop="20251229123000 +0000" channel="SARAN SPORT 2">
+    <title>İTALYA SERIE A</title>
+  </programme>
+  <programme start="20251229103000 +0000" stop="20251229123000 +0000" channel="S SPORT 2">
+    <title>İTALYA SERIE A</title>
+  </programme>
+  <programme start="20251229103000 +0000" stop="20251229123000 +0000" channel="4K TR: S SPORT 2">
+    <title>İTALYA SERIE A</title>
+  </programme>
+  <programme start="20251229123000 +0000" stop="20251229143000 +0000" channel="SARAN SPORT 2">
+    <title>MOTO GP - MOTO 2 - VALENCIA</title>
+  </programme>
+  <programme start="20251229123000 +0000" stop="20251229143000 +0000" channel="S SPORT 2">
+    <title>MOTO GP - MOTO 2 - VALENCIA</title>
+  </programme>
+  <programme start="20251229123000 +0000" stop="20251229143000 +0000" channel="4K TR: S SPORT 2">
+    <title>MOTO GP - MOTO 2 - VALENCIA</title>
+  </programme>
+  <programme start="20251229143000 +0000" stop="20251229150000 +0000" channel="SARAN SPORT 2">
+    <title>THE OUTDOOR SPORTS</title>
+  </programme>
+  <programme start="20251229143000 +0000" stop="20251229150000 +0000" channel="S SPORT 2">
+    <title>THE OUTDOOR SPORTS</title>
+  </programme>
+  <programme start="20251229143000 +0000" stop="20251229150000 +0000" channel="4K TR: S SPORT 2">
+    <title>THE OUTDOOR SPORTS</title>
+  </programme>
+  <programme start="20251229150000 +0000" stop="20251229170000 +0000" channel="SARAN SPORT 2">
+    <title>İTALYA SERIE A</title>
+  </programme>
+  <programme start="20251229150000 +0000" stop="20251229170000 +0000" channel="S SPORT 2">
+    <title>İTALYA SERIE A</title>
+  </programme>
+  <programme start="20251229150000 +0000" stop="20251229170000 +0000" channel="4K TR: S SPORT 2">
+    <title>İTALYA SERIE A</title>
+  </programme>
+  <programme start="20251229170000 +0000" stop="20251229183000 +0000" channel="SARAN SPORT 2">
     <title>İTALYA SERIE A GENIŞ ÖZETLER</title>
   </programme>
-  <programme start="20251229113000 +0000" stop="20251230040000 +0000" channel="S SPORT 2">
+  <programme start="20251229170000 +0000" stop="20251229183000 +0000" channel="S SPORT 2">
     <title>İTALYA SERIE A GENIŞ ÖZETLER</title>
   </programme>
-  <programme start="20251229113000 +0000" stop="20251230040000 +0000" channel="4K TR: S SPORT 2">
+  <programme start="20251229170000 +0000" stop="20251229183000 +0000" channel="4K TR: S SPORT 2">
     <title>İTALYA SERIE A GENIŞ ÖZETLER</title>
+  </programme>
+  <programme start="20251229183000 +0000" stop="20251229194500 +0000" channel="SARAN SPORT 2">
+    <title>BARCELONA - BASKONIA</title>
+  </programme>
+  <programme start="20251229183000 +0000" stop="20251229194500 +0000" channel="S SPORT 2">
+    <title>BARCELONA - BASKONIA</title>
+  </programme>
+  <programme start="20251229183000 +0000" stop="20251229194500 +0000" channel="4K TR: S SPORT 2">
+    <title>BARCELONA - BASKONIA</title>
+  </programme>
+  <programme start="20251229194500 +0000" stop="20251229214500 +0000" channel="SARAN SPORT 2">
+    <title>ROMA - GENOA</title>
+  </programme>
+  <programme start="20251229194500 +0000" stop="20251229214500 +0000" channel="S SPORT 2">
+    <title>ROMA - GENOA</title>
+  </programme>
+  <programme start="20251229194500 +0000" stop="20251229214500 +0000" channel="4K TR: S SPORT 2">
+    <title>ROMA - GENOA</title>
   </programme>
   <programme start="20251228211000 +0000" stop="20251228220000 +0000" channel="EUROSPORT 1">
     <title>BIATLON WORLD CHALLANGE</title>
@@ -22290,8 +22551,149 @@
   <programme start="20251229032700 +0000" stop="20251229034900 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20251229034900 +0000" stop="20251230050000 +0000" channel="NICKTOONS">
+  <programme start="20251229034900 +0000" stop="20251229042100 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229042100 +0000" stop="20251229044400 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229044400 +0000" stop="20251229050700 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229050700 +0000" stop="20251229052100 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229052100 +0000" stop="20251229054600 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229054600 +0000" stop="20251229061000 +0000" channel="NICKTOONS">
+    <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
+  </programme>
+  <programme start="20251229061000 +0000" stop="20251229063300 +0000" channel="NICKTOONS">
+    <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
+  </programme>
+  <programme start="20251229063300 +0000" stop="20251229065700 +0000" channel="NICKTOONS">
+    <title>THE CASAGRANDES</title>
+  </programme>
+  <programme start="20251229065700 +0000" stop="20251229072100 +0000" channel="NICKTOONS">
+    <title>THE CASAGRANDES</title>
+  </programme>
+  <programme start="20251229072100 +0000" stop="20251229074500 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229074500 +0000" stop="20251229080900 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229080900 +0000" stop="20251229083100 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229083100 +0000" stop="20251229085500 +0000" channel="NICKTOONS">
+    <title>TALES OF THE TEENAGE MUTANT NINJA TURTLES</title>
+  </programme>
+  <programme start="20251229085500 +0000" stop="20251229092000 +0000" channel="NICKTOONS">
+    <title>THE PATRICK STAR SHOW</title>
+  </programme>
+  <programme start="20251229092000 +0000" stop="20251229094400 +0000" channel="NICKTOONS">
+    <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
+  </programme>
+  <programme start="20251229094400 +0000" stop="20251229100600 +0000" channel="NICKTOONS">
+    <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
+  </programme>
+  <programme start="20251229100600 +0000" stop="20251229103000 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229103000 +0000" stop="20251229105400 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229105400 +0000" stop="20251229111800 +0000" channel="NICKTOONS">
+    <title>THE FAIRLY ODDPARENTS: A NEW WISH</title>
+  </programme>
+  <programme start="20251229111800 +0000" stop="20251229113200 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229113200 +0000" stop="20251229115700 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229115700 +0000" stop="20251229121800 +0000" channel="NICKTOONS">
+    <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
+  </programme>
+  <programme start="20251229121800 +0000" stop="20251229123200 +0000" channel="NICKTOONS">
+    <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
+  </programme>
+  <programme start="20251229123200 +0000" stop="20251229125600 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229125600 +0000" stop="20251229132000 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229132000 +0000" stop="20251229133400 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229133400 +0000" stop="20251229140000 +0000" channel="NICKTOONS">
+    <title>SONIC PRIME</title>
+  </programme>
+  <programme start="20251229140000 +0000" stop="20251229142400 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229142400 +0000" stop="20251229144900 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229144900 +0000" stop="20251229150300 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229150300 +0000" stop="20251229152700 +0000" channel="NICKTOONS">
+    <title>THE PATRICK STAR SHOW</title>
+  </programme>
+  <programme start="20251229152700 +0000" stop="20251229154900 +0000" channel="NICKTOONS">
+    <title>SUPER DUPER BUNNY LEAGUE</title>
+  </programme>
+  <programme start="20251229154900 +0000" stop="20251229160100 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229160100 +0000" stop="20251229161500 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229161500 +0000" stop="20251229163900 +0000" channel="NICKTOONS">
+    <title>THE FAIRLY ODDPARENTS: A NEW WISH</title>
+  </programme>
+  <programme start="20251229163900 +0000" stop="20251229170200 +0000" channel="NICKTOONS">
+    <title>SONIC PRIME</title>
+  </programme>
+  <programme start="20251229170200 +0000" stop="20251229172700 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229172700 +0000" stop="20251229175100 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229175100 +0000" stop="20251229181600 +0000" channel="NICKTOONS">
+    <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
+  </programme>
+  <programme start="20251229181600 +0000" stop="20251229183800 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20251229183800 +0000" stop="20251229185200 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229185200 +0000" stop="20251229190600 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229190600 +0000" stop="20251229193000 +0000" channel="NICKTOONS">
+    <title>THE LOUD HOUSE</title>
+  </programme>
+  <programme start="20251229193000 +0000" stop="20251229195300 +0000" channel="NICKTOONS">
+    <title>THE FAIRLY ODDPARENTS</title>
+  </programme>
+  <programme start="20251229195300 +0000" stop="20251229200500 +0000" channel="NICKTOONS">
+    <title>THE FAIRLY ODDPARENTS</title>
+  </programme>
+  <programme start="20251229200500 +0000" stop="20251229203000 +0000" channel="NICKTOONS">
+    <title>THE PENGUINS OF MADAGASCAR</title>
+  </programme>
+  <programme start="20251229203000 +0000" stop="20251229205500 +0000" channel="NICKTOONS">
+    <title>THE PENGUINS OF MADAGASCAR</title>
+  </programme>
+  <programme start="20251229205500 +0000" stop="20251229211800 +0000" channel="NICKTOONS">
+    <title>KUNG FU PANDA: LEGENDS OF AWESOMENESS</title>
   </programme>
   <programme start="20251228210000 +0000" stop="20251228214800 +0000" channel="4K TR: DA VINCI">
     <title>NASA'SIZ DÜNYA: TEKNOLOJININ NABZI</title>
