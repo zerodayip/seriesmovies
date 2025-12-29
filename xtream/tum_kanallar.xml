@@ -1413,8 +1413,41 @@
   <programme start="20251229202500 +0000" stop="20251229211500 +0000" channel="FX">
     <title>UNDER THE BRIDGE</title>
   </programme>
-  <programme start="20251229130000 +0000" stop="20251231000000 +0000" channel="TABII TV">
-    <title>TABII TV</title>
+  <programme start="20251229071800 +0000" stop="20251229080600 +0000" channel="TABII TV">
+    <title>EN SON BABALAR DUYAR</title>
+  </programme>
+  <programme start="20251229080600 +0000" stop="20251229085000 +0000" channel="TABII TV">
+    <title>YEDI NUMARA</title>
+  </programme>
+  <programme start="20251229085000 +0000" stop="20251229093500 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20251229093500 +0000" stop="20251229102500 +0000" channel="TABII TV">
+    <title>METAMORFOZ: KIRILMA</title>
+  </programme>
+  <programme start="20251229102500 +0000" stop="20251229124400 +0000" channel="TABII TV">
+    <title>MASUMLAR APARTMANI</title>
+  </programme>
+  <programme start="20251229124400 +0000" stop="20251229150300 +0000" channel="TABII TV">
+    <title>MASUMLAR APARTMANI</title>
+  </programme>
+  <programme start="20251229150300 +0000" stop="20251229155100 +0000" channel="TABII TV">
+    <title>EN SON BABALAR DUYAR</title>
+  </programme>
+  <programme start="20251229155100 +0000" stop="20251229163400 +0000" channel="TABII TV">
+    <title>YEDI NUMARA</title>
+  </programme>
+  <programme start="20251229163400 +0000" stop="20251229172000 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20251229172000 +0000" stop="20251229180900 +0000" channel="TABII TV">
+    <title>METAMORFOZ: KIRILMA</title>
+  </programme>
+  <programme start="20251229180900 +0000" stop="20251229202800 +0000" channel="TABII TV">
+    <title>MASUMLAR APARTMANI</title>
+  </programme>
+  <programme start="20251229202800 +0000" stop="20251229211000 +0000" channel="TABII TV">
+    <title>ŞAŞIFELEK ÇIKMAZI</title>
   </programme>
   <programme start="20251228223000 +0000" stop="20251229003000 +0000" channel="4K TR: S NEMA YERL HD">
     <title>KADIN İŞI BANKA SOYGUNU</title>
@@ -12246,71 +12279,77 @@
   <programme start="20251229050000 +0000" stop="20251229083000 +0000" channel="AKIT TV">
     <title>GÜN BAŞLIYOR</title>
   </programme>
-  <programme start="20251229083000 +0000" stop="20251229100000 +0000" channel="4K TR: AK T TV HD">
-    <title>MANŞETLERIN DILI</title>
+  <programme start="20251229083000 +0000" stop="20251229090000 +0000" channel="4K TR: AK T TV HD">
+    <title>AKİT TV</title>
   </programme>
-  <programme start="20251229083000 +0000" stop="20251229100000 +0000" channel="AKIT TV">
-    <title>MANŞETLERIN DILI</title>
+  <programme start="20251229083000 +0000" stop="20251229090000 +0000" channel="AKIT TV">
+    <title>AKİT TV</title>
+  </programme>
+  <programme start="20251229090000 +0000" stop="20251229100000 +0000" channel="4K TR: AK T TV HD">
+    <title>ÖĞLE BÜLTENI</title>
+  </programme>
+  <programme start="20251229090000 +0000" stop="20251229100000 +0000" channel="AKIT TV">
+    <title>ÖĞLE BÜLTENI</title>
   </programme>
   <programme start="20251229100000 +0000" stop="20251229110000 +0000" channel="4K TR: AK T TV HD">
-    <title>ÖĞLE BÜLTENI</title>
+    <title>GÜN ORTASI</title>
   </programme>
   <programme start="20251229100000 +0000" stop="20251229110000 +0000" channel="AKIT TV">
-    <title>ÖĞLE BÜLTENI</title>
-  </programme>
-  <programme start="20251229110000 +0000" stop="20251229120000 +0000" channel="4K TR: AK T TV HD">
     <title>GÜN ORTASI</title>
   </programme>
-  <programme start="20251229110000 +0000" stop="20251229120000 +0000" channel="AKIT TV">
-    <title>GÜN ORTASI</title>
-  </programme>
-  <programme start="20251229120000 +0000" stop="20251229123000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251229110000 +0000" stop="20251229113000 +0000" channel="4K TR: AK T TV HD">
     <title>HABER BÜLTENI</title>
   </programme>
-  <programme start="20251229120000 +0000" stop="20251229123000 +0000" channel="AKIT TV">
+  <programme start="20251229110000 +0000" stop="20251229113000 +0000" channel="AKIT TV">
     <title>HABER BÜLTENI</title>
   </programme>
-  <programme start="20251229123000 +0000" stop="20251229130000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="4K TR: AK T TV HD">
     <title>EKONOMI AJANDASI</title>
   </programme>
-  <programme start="20251229123000 +0000" stop="20251229130000 +0000" channel="AKIT TV">
+  <programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="AKIT TV">
     <title>EKONOMI AJANDASI</title>
+  </programme>
+  <programme start="20251229120000 +0000" stop="20251229130000 +0000" channel="4K TR: AK T TV HD">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20251229120000 +0000" stop="20251229130000 +0000" channel="AKIT TV">
+    <title>HABER BÜLTENI</title>
   </programme>
   <programme start="20251229130000 +0000" stop="20251229140000 +0000" channel="4K TR: AK T TV HD">
-    <title>HABER BÜLTENI</title>
+    <title>HABER 16</title>
   </programme>
   <programme start="20251229130000 +0000" stop="20251229140000 +0000" channel="AKIT TV">
-    <title>HABER BÜLTENI</title>
-  </programme>
-  <programme start="20251229140000 +0000" stop="20251229150000 +0000" channel="4K TR: AK T TV HD">
     <title>HABER 16</title>
   </programme>
-  <programme start="20251229140000 +0000" stop="20251229150000 +0000" channel="AKIT TV">
-    <title>HABER 16</title>
-  </programme>
-  <programme start="20251229150000 +0000" stop="20251229154500 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251229140000 +0000" stop="20251229143000 +0000" channel="4K TR: AK T TV HD">
     <title>AKŞAMA DOĞRU</title>
   </programme>
-  <programme start="20251229150000 +0000" stop="20251229154500 +0000" channel="AKIT TV">
+  <programme start="20251229140000 +0000" stop="20251229143000 +0000" channel="AKIT TV">
     <title>AKŞAMA DOĞRU</title>
   </programme>
-  <programme start="20251229154500 +0000" stop="20251229170000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251229143000 +0000" stop="20251229153000 +0000" channel="4K TR: AK T TV HD">
     <title>İŞ VE EKONOMI</title>
   </programme>
-  <programme start="20251229154500 +0000" stop="20251229170000 +0000" channel="AKIT TV">
+  <programme start="20251229143000 +0000" stop="20251229153000 +0000" channel="AKIT TV">
     <title>İŞ VE EKONOMI</title>
   </programme>
-  <programme start="20251229170000 +0000" stop="20251229183000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20251229153000 +0000" stop="20251229173000 +0000" channel="4K TR: AK T TV HD">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20251229170000 +0000" stop="20251229183000 +0000" channel="AKIT TV">
+  <programme start="20251229153000 +0000" stop="20251229173000 +0000" channel="AKIT TV">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20251229183000 +0000" stop="20251229213000 +0000" channel="4K TR: AK T TV HD">
-    <title>SÖZ MEYDANI</title>
+  <programme start="20251229173000 +0000" stop="20251229203000 +0000" channel="4K TR: AK T TV HD">
+    <title>GÜNDEM ANALIZ</title>
   </programme>
-  <programme start="20251229183000 +0000" stop="20251229213000 +0000" channel="AKIT TV">
-    <title>SÖZ MEYDANI</title>
+  <programme start="20251229173000 +0000" stop="20251229203000 +0000" channel="AKIT TV">
+    <title>GÜNDEM ANALIZ</title>
+  </programme>
+  <programme start="20251229203000 +0000" stop="20251230040000 +0000" channel="4K TR: AK T TV HD">
+    <title>GECE AJANSI</title>
+  </programme>
+  <programme start="20251229203000 +0000" stop="20251230040000 +0000" channel="AKIT TV">
+    <title>GECE AJANSI</title>
   </programme>
   <programme start="20251228210000 +0000" stop="20251229050000 +0000" channel="4K TR: BENG T RK">
     <title>GECE HABERLERI</title>
@@ -33649,7 +33688,7 @@
     <title>KÜRSÜDEN GÖNÜLLERE</title>
   </programme>
   <programme start="20251229100000 +0000" stop="20251229110000 +0000" channel="KONTV">
-    <title>BELGESEL</title>
+    <title>BELGESEL KUŞAĞI</title>
   </programme>
   <programme start="20251229110000 +0000" stop="20251229123000 +0000" channel="KONTV">
     <title>NELER OLUYOR</title>
@@ -33661,7 +33700,7 @@
     <title>DIZI KUŞAĞI</title>
   </programme>
   <programme start="20251229140000 +0000" stop="20251229150000 +0000" channel="KONTV">
-    <title>İSMAILCE</title>
+    <title>OTOSTART</title>
   </programme>
   <programme start="20251229150000 +0000" stop="20251229163000 +0000" channel="KONTV">
     <title>DÜZLEM</title>
@@ -33669,13 +33708,10 @@
   <programme start="20251229163000 +0000" stop="20251229174000 +0000" channel="KONTV">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20251229174000 +0000" stop="20251229183000 +0000" channel="KONTV">
+  <programme start="20251229174000 +0000" stop="20251229184000 +0000" channel="KONTV">
     <title>SORA SORA YARIŞMA</title>
   </programme>
-  <programme start="20251229183000 +0000" stop="20251229200000 +0000" channel="KONTV">
-    <title>SPOR GÜNDEMI</title>
-  </programme>
-  <programme start="20251229200000 +0000" stop="20251229210000 +0000" channel="KONTV">
+  <programme start="20251229184000 +0000" stop="20251229210000 +0000" channel="KONTV">
     <title>SPOR GÜNDEMI</title>
   </programme>
   <programme start="20251228210000 +0000" stop="20251229050000 +0000" channel="KANAL 23">
