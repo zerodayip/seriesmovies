@@ -14331,12 +14331,6 @@
   <programme start="20251230063000 +0000" stop="20251230064500 +0000" channel="FB TV">
     <title>TARIHTE BUGÜN</title>
   </programme>
-  <programme start="20251230064500 +0000" stop="20251230071500 +0000" channel="4K TR: FB TV">
-    <title>EFSANELER</title>
-  </programme>
-  <programme start="20251230064500 +0000" stop="20251230071500 +0000" channel="FB TV">
-    <title>EFSANELER</title>
-  </programme>
   <programme start="20251230071500 +0000" stop="20251230090000 +0000" channel="4K TR: FB TV">
     <title>FUTBOL: TÜRKIYE SÜPER KUPASI</title>
   </programme>
@@ -14374,28 +14368,28 @@
     <title>HABER</title>
   </programme>
   <programme start="20251230111500 +0000" stop="20251230113000 +0000" channel="4K TR: FB TV">
-    <title>TARIHTE BUGÜN</title>
+    <title>YILIN GOLLERI</title>
   </programme>
   <programme start="20251230111500 +0000" stop="20251230113000 +0000" channel="FB TV">
-    <title>TARIHTE BUGÜN</title>
+    <title>YILIN GOLLERI</title>
   </programme>
-  <programme start="20251230113000 +0000" stop="20251230114500 +0000" channel="4K TR: FB TV">
-    <title>ANALIZ FENERBAHÇE</title>
+  <programme start="20251230113000 +0000" stop="20251230120000 +0000" channel="4K TR: FB TV">
+    <title>SARI LACIVERT HAYATLAR: RAHMI ZÜLBAHAROĞLU</title>
   </programme>
-  <programme start="20251230113000 +0000" stop="20251230114500 +0000" channel="FB TV">
-    <title>ANALIZ FENERBAHÇE</title>
+  <programme start="20251230113000 +0000" stop="20251230120000 +0000" channel="FB TV">
+    <title>SARI LACIVERT HAYATLAR: RAHMI ZÜLBAHAROĞLU</title>
   </programme>
-  <programme start="20251230114500 +0000" stop="20251230120000 +0000" channel="4K TR: FB TV">
-    <title>SÖZ TARAFTARDA</title>
+  <programme start="20251230120000 +0000" stop="20251230123000 +0000" channel="4K TR: FB TV">
+    <title>TARIH VE FENERBAHÇE</title>
   </programme>
-  <programme start="20251230114500 +0000" stop="20251230120000 +0000" channel="FB TV">
-    <title>SÖZ TARAFTARDA</title>
+  <programme start="20251230120000 +0000" stop="20251230123000 +0000" channel="FB TV">
+    <title>TARIH VE FENERBAHÇE</title>
   </programme>
-  <programme start="20251230120000 +0000" stop="20251230130000 +0000" channel="4K TR: FB TV">
-    <title>FUTBOL DOSYASI</title>
+  <programme start="20251230123000 +0000" stop="20251230130000 +0000" channel="4K TR: FB TV">
+    <title>EFSANELER</title>
   </programme>
-  <programme start="20251230120000 +0000" stop="20251230130000 +0000" channel="FB TV">
-    <title>FUTBOL DOSYASI</title>
+  <programme start="20251230123000 +0000" stop="20251230130000 +0000" channel="FB TV">
+    <title>EFSANELER</title>
   </programme>
   <programme start="20251230130000 +0000" stop="20251230131500 +0000" channel="4K TR: FB TV">
     <title>HABER</title>
@@ -14403,53 +14397,65 @@
   <programme start="20251230130000 +0000" stop="20251230131500 +0000" channel="FB TV">
     <title>HABER</title>
   </programme>
-  <programme start="20251230131500 +0000" stop="20251230140000 +0000" channel="4K TR: FB TV">
-    <title>TOP 50</title>
+  <programme start="20251230131500 +0000" stop="20251230133000 +0000" channel="4K TR: FB TV">
+    <title>DÜNYA SPORU</title>
   </programme>
-  <programme start="20251230131500 +0000" stop="20251230140000 +0000" channel="FB TV">
-    <title>TOP 50</title>
+  <programme start="20251230131500 +0000" stop="20251230133000 +0000" channel="FB TV">
+    <title>DÜNYA SPORU</title>
   </programme>
-  <programme start="20251230140000 +0000" stop="20251230143000 +0000" channel="4K TR: FB TV">
+  <programme start="20251230133000 +0000" stop="20251230150000 +0000" channel="4K TR: FB TV">
+    <title>BASKETBOL: SÜPER LIG</title>
+  </programme>
+  <programme start="20251230133000 +0000" stop="20251230150000 +0000" channel="FB TV">
+    <title>BASKETBOL: SÜPER LIG</title>
+  </programme>
+  <programme start="20251230150000 +0000" stop="20251230160700 +0000" channel="4K TR: FB TV">
     <title>EUROLEAGUE ANALIZ</title>
   </programme>
-  <programme start="20251230140000 +0000" stop="20251230143000 +0000" channel="FB TV">
+  <programme start="20251230150000 +0000" stop="20251230160700 +0000" channel="FB TV">
     <title>EUROLEAGUE ANALIZ</title>
   </programme>
-  <programme start="20251230143000 +0000" stop="20251230144500 +0000" channel="4K TR: FB TV">
-    <title>SÖZ TARAFTARDA</title>
+  <programme start="20251230160700 +0000" stop="20251230163000 +0000" channel="4K TR: FB TV">
+    <title>ANA HABER</title>
   </programme>
-  <programme start="20251230143000 +0000" stop="20251230144500 +0000" channel="FB TV">
-    <title>SÖZ TARAFTARDA</title>
+  <programme start="20251230160700 +0000" stop="20251230163000 +0000" channel="FB TV">
+    <title>ANA HABER</title>
   </programme>
-  <programme start="20251230144500 +0000" stop="20251230150000 +0000" channel="4K TR: FB TV">
-    <title>ANALIZ FENERBAHÇE</title>
+  <programme start="20251230163000 +0000" stop="20251230173000 +0000" channel="4K TR: FB TV">
+    <title>TEKNIK ANALIZ</title>
   </programme>
-  <programme start="20251230144500 +0000" stop="20251230150000 +0000" channel="FB TV">
-    <title>ANALIZ FENERBAHÇE</title>
-  </programme>
-  <programme start="20251230150000 +0000" stop="20251230160000 +0000" channel="4K TR: FB TV">
-    <title>HEAD TO HEAD</title>
-  </programme>
-  <programme start="20251230150000 +0000" stop="20251230160000 +0000" channel="FB TV">
-    <title>HEAD TO HEAD</title>
-  </programme>
-  <programme start="20251230160000 +0000" stop="20251230173000 +0000" channel="4K TR: FB TV">
-    <title>MAÇ BAŞLIYOR</title>
-  </programme>
-  <programme start="20251230160000 +0000" stop="20251230173000 +0000" channel="FB TV">
-    <title>MAÇ BAŞLIYOR</title>
+  <programme start="20251230163000 +0000" stop="20251230173000 +0000" channel="FB TV">
+    <title>TEKNIK ANALIZ</title>
   </programme>
   <programme start="20251230173000 +0000" stop="20251230193000 +0000" channel="4K TR: FB TV">
-    <title>MAÇ HAVASI</title>
+    <title>FENERBAHÇE 2025</title>
   </programme>
   <programme start="20251230173000 +0000" stop="20251230193000 +0000" channel="FB TV">
-    <title>MAÇ HAVASI</title>
+    <title>FENERBAHÇE 2025</title>
   </programme>
-  <programme start="20251230193000 +0000" stop="20251230210000 +0000" channel="4K TR: FB TV">
-    <title>MAÇIN ARDINDAN</title>
+  <programme start="20251230193000 +0000" stop="20251230201500 +0000" channel="4K TR: FB TV">
+    <title>FENERBAHÇE GOLLER</title>
   </programme>
-  <programme start="20251230193000 +0000" stop="20251230210000 +0000" channel="FB TV">
-    <title>MAÇIN ARDINDAN</title>
+  <programme start="20251230193000 +0000" stop="20251230201500 +0000" channel="FB TV">
+    <title>FENERBAHÇE GOLLER</title>
+  </programme>
+  <programme start="20251230201500 +0000" stop="20251230203000 +0000" channel="4K TR: FB TV">
+    <title>DÜNYA SPORU</title>
+  </programme>
+  <programme start="20251230201500 +0000" stop="20251230203000 +0000" channel="FB TV">
+    <title>DÜNYA SPORU</title>
+  </programme>
+  <programme start="20251230203000 +0000" stop="20251230204500 +0000" channel="4K TR: FB TV">
+    <title>YILIN GOLLERI</title>
+  </programme>
+  <programme start="20251230203000 +0000" stop="20251230204500 +0000" channel="FB TV">
+    <title>YILIN GOLLERI</title>
+  </programme>
+  <programme start="20251230204500 +0000" stop="20251230210000 +0000" channel="4K TR: FB TV">
+    <title>GECE HABERI</title>
+  </programme>
+  <programme start="20251230204500 +0000" stop="20251230210000 +0000" channel="FB TV">
+    <title>GECE HABERI</title>
   </programme>
   <programme start="20251229222500 +0000" stop="20251229223500 +0000" channel="TABII SPOR 1 4K">
     <title>YILSONU 2025</title>
@@ -14641,25 +14647,25 @@
     <title>YENILMEZLER</title>
   </programme>
   <programme start="20251230100500 +0000" stop="20251230114500 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251230100500 +0000" stop="20251230114500 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251230100500 +0000" stop="20251230114500 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251230100500 +0000" stop="20251230114500 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251230100500 +0000" stop="20251230114500 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251230100500 +0000" stop="20251230114500 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251230100500 +0000" stop="20251230114500 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BARCELONA - E. FRANKFURT'</title>
+    <title>BARCELONA - E. FRANKFURT</title>
   </programme>
   <programme start="20251230114500 +0000" stop="20251230115500 +0000" channel="TABII SPOR 1 4K">
     <title>YILSONU 2025</title>
@@ -14683,25 +14689,25 @@
     <title>YILSONU 2025</title>
   </programme>
   <programme start="20251230115500 +0000" stop="20251230133500 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ATALANTA - CHELSEA'</title>
+    <title>ATALANTA - CHELSEA</title>
   </programme>
   <programme start="20251230115500 +0000" stop="20251230133500 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ATALANTA - CHELSEA'</title>
+    <title>ATALANTA - CHELSEA</title>
   </programme>
   <programme start="20251230115500 +0000" stop="20251230133500 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ATALANTA - CHELSEA'</title>
+    <title>ATALANTA - CHELSEA</title>
   </programme>
   <programme start="20251230115500 +0000" stop="20251230133500 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ATALANTA - CHELSEA'</title>
+    <title>ATALANTA - CHELSEA</title>
   </programme>
   <programme start="20251230115500 +0000" stop="20251230133500 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ATALANTA - CHELSEA'</title>
+    <title>ATALANTA - CHELSEA</title>
   </programme>
   <programme start="20251230115500 +0000" stop="20251230133500 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ATALANTA - CHELSEA'</title>
+    <title>ATALANTA - CHELSEA</title>
   </programme>
   <programme start="20251230115500 +0000" stop="20251230133500 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ATALANTA - CHELSEA'</title>
+    <title>ATALANTA - CHELSEA</title>
   </programme>
   <programme start="20251230133500 +0000" stop="20251230135000 +0000" channel="TABII SPOR 1 4K">
     <title>SAKARYA OFF ROAD</title>
@@ -14725,46 +14731,46 @@
     <title>SAKARYA OFF ROAD</title>
   </programme>
   <programme start="20251230135000 +0000" stop="20251230153000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSV EINDHOVEN - ATLETICO MADRID'</title>
+    <title>PSV EINDHOVEN - ATLETICO MADRID</title>
   </programme>
   <programme start="20251230135000 +0000" stop="20251230153000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSV EINDHOVEN - ATLETICO MADRID'</title>
+    <title>PSV EINDHOVEN - ATLETICO MADRID</title>
   </programme>
   <programme start="20251230135000 +0000" stop="20251230153000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSV EINDHOVEN - ATLETICO MADRID'</title>
+    <title>PSV EINDHOVEN - ATLETICO MADRID</title>
   </programme>
   <programme start="20251230135000 +0000" stop="20251230153000 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSV EINDHOVEN - ATLETICO MADRID'</title>
+    <title>PSV EINDHOVEN - ATLETICO MADRID</title>
   </programme>
   <programme start="20251230135000 +0000" stop="20251230153000 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSV EINDHOVEN - ATLETICO MADRID'</title>
+    <title>PSV EINDHOVEN - ATLETICO MADRID</title>
   </programme>
   <programme start="20251230135000 +0000" stop="20251230153000 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSV EINDHOVEN - ATLETICO MADRID'</title>
+    <title>PSV EINDHOVEN - ATLETICO MADRID</title>
   </programme>
   <programme start="20251230135000 +0000" stop="20251230153000 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSV EINDHOVEN - ATLETICO MADRID'</title>
+    <title>PSV EINDHOVEN - ATLETICO MADRID</title>
   </programme>
   <programme start="20251230153000 +0000" stop="20251230171500 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20251230153000 +0000" stop="20251230171500 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20251230153000 +0000" stop="20251230171500 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20251230153000 +0000" stop="20251230171500 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20251230153000 +0000" stop="20251230171500 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20251230153000 +0000" stop="20251230171500 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20251230153000 +0000" stop="20251230171500 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20251230171500 +0000" stop="20251230172500 +0000" channel="TABII SPOR 1 4K">
     <title>YILSONU 2025</title>
@@ -14788,46 +14794,46 @@
     <title>YILSONU 2025</title>
   </programme>
   <programme start="20251230172500 +0000" stop="20251230191000 +0000" channel="TABII SPOR 1 4K">
-    <title>İTALYA SÜPER KUPA FINALI FUTBOL KARŞILAŞMASI 'NAPOLI - BOLOGNA'</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251230172500 +0000" stop="20251230191000 +0000" channel="TABII SPOR 1 720P">
-    <title>İTALYA SÜPER KUPA FINALI FUTBOL KARŞILAŞMASI 'NAPOLI - BOLOGNA'</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251230172500 +0000" stop="20251230191000 +0000" channel="TABII SPOR 1 UHD">
-    <title>İTALYA SÜPER KUPA FINALI FUTBOL KARŞILAŞMASI 'NAPOLI - BOLOGNA'</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251230172500 +0000" stop="20251230191000 +0000" channel="TABII SPOR HD">
-    <title>İTALYA SÜPER KUPA FINALI FUTBOL KARŞILAŞMASI 'NAPOLI - BOLOGNA'</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251230172500 +0000" stop="20251230191000 +0000" channel="TABII SPOR SD">
-    <title>İTALYA SÜPER KUPA FINALI FUTBOL KARŞILAŞMASI 'NAPOLI - BOLOGNA'</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251230172500 +0000" stop="20251230191000 +0000" channel="TABII SPOR">
-    <title>İTALYA SÜPER KUPA FINALI FUTBOL KARŞILAŞMASI 'NAPOLI - BOLOGNA'</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251230172500 +0000" stop="20251230191000 +0000" channel="TABII SPOR 1">
-    <title>İTALYA SÜPER KUPA FINALI FUTBOL KARŞILAŞMASI 'NAPOLI - BOLOGNA'</title>
+    <title>NAPOLI - BOLOGNA</title>
   </programme>
   <programme start="20251230191000 +0000" stop="20251230205500 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20251230191000 +0000" stop="20251230205500 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20251230191000 +0000" stop="20251230205500 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20251230191000 +0000" stop="20251230205500 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20251230191000 +0000" stop="20251230205500 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20251230191000 +0000" stop="20251230205500 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20251230191000 +0000" stop="20251230205500 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20251230205500 +0000" stop="20251230210000 +0000" channel="TABII SPOR 1 4K">
     <title>YILSONU 2025</title>
