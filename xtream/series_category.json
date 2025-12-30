@@ -5480,7 +5480,8 @@
     {"name": "BRILLIANT MINDS", "year": "2024"},
     {"name": "CHICAGO PD", "year": "2014"},
     {"name": "ALL HER FAULT", "year": "2025"},
-    {"name": "HAPPYS PLACE", "year": "2024"}
+    {"name": "HAPPYS PLACE", "year": "2024"},
+    {"name": "THE COPENHAGEN TEST", "year": "2025"}
   ],
   "BRITBOX APPLE TV CHANNEL  DİZİLERİ": [
     {"name": "RETURN TO PARADISE", "year": "2024"}
@@ -6623,13 +6624,16 @@
     {"name": "VICDANSIZ", "year": "2025"},
     {"name": "AMANDALAND", "year": "2025"},
     {"name": "BUYUK KUCUK TUM HAYVANLAR", "year": "2020"},
-    {"name": "TWELVE DATES TIL CHRISTMAS", "year": "2025"}
+    {"name": "TWELVE DATES TIL CHRISTMAS", "year": "2025"},
+    {"name": "SUNNY NIGHTS", "year": "2025"}
   ],
   "AMAZON VIDEO DİZİLERİ": [
-    {"name": "JASMINE", "year": "2015"}
+    {"name": "JASMINE", "year": "2015"},
+    {"name": "ANIMAL CONTROL", "year": "2023"}
   ],
   "BRITBOX APPLE TV CHANNEL DİZİLERİ": [
-    {"name": "SHETLAND", "year": "2013"}
+    {"name": "SHETLAND", "year": "2013"},
+    {"name": "THE GOOD SHIP MURDER", "year": "2023"}
   ],
   "SUN NXT DİZİLERİ": [
     {"name": "KASABA", "year": "2016"}
