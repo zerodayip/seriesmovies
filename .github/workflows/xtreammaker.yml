@@ -25,10 +25,12 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           MESSAGE="🔔 Xtream workflow başladı!"
-          
-          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
-            -d chat_id="$TELEGRAM_CHAT_ID" \
-            -d text="$MESSAGE"
+
+          curl --ipv4 --connect-timeout 10 --max-time 25 \
+          -s -o /dev/null \
+          -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+          -d chat_id="$TELEGRAM_CHAT_ID" \
+          -d text="$MESSAGE"
             
   push-m3u-to-root:
     runs-on: ubuntu-latest
