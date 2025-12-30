@@ -1303,8 +1303,8 @@
   },
   "/dizi/animal-control": {
     "group": "ANIMAL CONTROL",
-    "last_season": 3,
-    "last_episode": 10,
+    "last_season": 4,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
