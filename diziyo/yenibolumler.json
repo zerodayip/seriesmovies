@@ -1,4 +1,46 @@
 {
+  "/dizi/the-simpsons": {
+    "group": "THE SIMPSONS",
+    "last_season": 37,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/dizi/the-good-ship-murder": {
+    "group": "THE GOOD SHIP MURDER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-copenhagen-test": {
+    "group": "THE COPENHAGEN TEST",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/sunny-nights": {
+    "group": "SUNNY NIGHTS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/shoresy": {
+    "group": "SHORESY",
+    "last_season": 5,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi/krapopolis": {
+    "group": "KRAPOPOLIS",
+    "last_season": 3,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi/animal-control": {
+    "group": "ANIMAL CONTROL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/pro-bono-asya": {
     "group": "PRO BONO",
     "last_season": 1,
@@ -83,12 +125,6 @@
     "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi/shoresy": {
-    "group": "SHORESY",
-    "last_season": 5,
-    "last_episode": 2,
-    "start_episode": 1
-  },
   "/dizi/power-book-iv-force": {
     "group": "POWER BOOK IV: FORCE",
     "last_season": 3,
@@ -129,12 +165,6 @@
     "group": "STRANGER THINGS",
     "last_season": 5,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/sekizinci-aile-yerli-3": {
-    "group": "SEKIZINCI AILE",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }

@@ -28,41 +28,5 @@
     "last_season": 37,
     "last_episode": 12,
     "start_episode": 1
-  },
-  "/dizi/one-punch-man": {
-    "group": "One Punch Man",
-    "last_season": 3,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi/pro-bono": {
-    "group": "pro bono",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/robin-hood": {
-    "group": "Robin Hood",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/surely-tomorrow": {
-    "group": "Surely Tomorrow",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/the-copenhagen-test": {
-    "group": "The Copenhagen Test",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/the-good-ship-murder": {
-    "group": "The Good Ship Murder",
-    "last_season": 3,
-    "last_episode": 1,
-    "start_episode": 1
   }
 }

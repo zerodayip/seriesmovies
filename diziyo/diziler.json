@@ -1282,5 +1282,29 @@
     "last_season": 2,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/the-good-ship-murder": {
+    "group": "THE GOOD SHIP MURDER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-copenhagen-test": {
+    "group": "THE COPENHAGEN TEST",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/sunny-nights": {
+    "group": "SUNNY NIGHTS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/animal-control": {
+    "group": "ANIMAL CONTROL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
