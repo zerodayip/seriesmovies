@@ -1,4 +1,10 @@
 {
+  "/diziler/nice-to-not-meet-you.html": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 15,
+    "start_episode": 1
+  },
   "/diziler/wizards-beyond-waverly-place.html": {
     "group": "WIZARDS BEYOND WAVERLY PLACE",
     "last_season": 2,
@@ -9,12 +15,6 @@
     "group": "ROBIN HOOD 2025",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/nice-to-not-meet-you.html": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 15,
     "start_episode": 1
   },
   "/diziler/one-punch-man.html": {
@@ -75,12 +75,6 @@
     "group": "ELSBETH",
     "last_season": 3,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/adventure-time-fionna-and-cake.html": {
-    "group": "ADVENTURE TIME: FIONNA & CAKE",
-    "last_season": 2,
-    "last_episode": 10,
     "start_episode": 1
   }
 }

@@ -1,4 +1,22 @@
 {
+  "/anime/100-meters/": {
+    "group": "100 METERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/chitose-is-in-the-ramune-bottle/": {
+    "group": "CHITOSE IS IN THE RAMUNE BOTTLE",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/anime/with-you-our-love-will-make-it-through/": {
+    "group": "WITH YOU, OUR LOVE WILL MAKE IT THROUGH",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/anime/shiboyugi-playing-death-games-to-put-food-on-the-table/": {
     "group": "SHIBOYUGI: PLAYING DEATH GAMES TO PUT FOOD ON THE TABLE",
     "last_season": 1,
@@ -97,24 +115,6 @@
   },
   "/anime/tales-of-wedding-rings-season-2-uncensored/": {
     "group": "TALES OF WEDDING RINGS SEASON 2 (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/blue-miburo-season-2/": {
-    "group": "BLUE MIBURO SEASON 2",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/watari-kuns-is-about-to-collapse/": {
-    "group": "WATARI-KUN’S ****** IS ABOUT TO COLLAPSE",
-    "last_season": 1,
-    "last_episode": 26,
-    "start_episode": 1
-  },
-  "/anime/shabake/": {
-    "group": "SHABAKE",
     "last_season": 1,
     "last_episode": 13,
     "start_episode": 1
