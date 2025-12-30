@@ -1467,8 +1467,26 @@
   <programme start="20251230102200 +0000" stop="20251230124900 +0000" channel="TABII TV">
     <title>ELIMI BIRAKMA</title>
   </programme>
-  <programme start="20251230124900 +0000" stop="20251231140000 +0000" channel="TABII TV">
+  <programme start="20251230124900 +0000" stop="20251230151600 +0000" channel="TABII TV">
     <title>ELIMI BIRAKMA</title>
+  </programme>
+  <programme start="20251230151600 +0000" stop="20251230155800 +0000" channel="TABII TV">
+    <title>ŞAŞIFELEK ÇIKMAZI</title>
+  </programme>
+  <programme start="20251230155800 +0000" stop="20251230163800 +0000" channel="TABII TV">
+    <title>BIZIMKILER</title>
+  </programme>
+  <programme start="20251230163800 +0000" stop="20251230172700 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20251230172700 +0000" stop="20251230181600 +0000" channel="TABII TV">
+    <title>METAMORFOZ: KIRILMA</title>
+  </programme>
+  <programme start="20251230181600 +0000" stop="20251230204300 +0000" channel="TABII TV">
+    <title>ELIMI BIRAKMA</title>
+  </programme>
+  <programme start="20251230204300 +0000" stop="20251230213400 +0000" channel="TABII TV">
+    <title>ÇIÇEK TAKSI</title>
   </programme>
   <programme start="20251229210000 +0000" stop="20251229231500 +0000" channel="4K TR: S NEMA YERL HD">
     <title>MAGI</title>
@@ -4587,22 +4605,13 @@
   <programme start="20251230150000 +0000" stop="20251230170000 +0000" channel="TV 100">
     <title>KÜBRA PAR İLE ANA HABER BÜLTENI</title>
   </programme>
-  <programme start="20251230170000 +0000" stop="20251230173000 +0000" channel="4K TR: TV100">
-    <title>ÖZEL RÖPORTAJ</title>
-  </programme>
-  <programme start="20251230170000 +0000" stop="20251230173000 +0000" channel="TV100">
-    <title>ÖZEL RÖPORTAJ</title>
-  </programme>
-  <programme start="20251230170000 +0000" stop="20251230173000 +0000" channel="TV 100">
-    <title>ÖZEL RÖPORTAJ</title>
-  </programme>
-  <programme start="20251230173000 +0000" stop="20251230203000 +0000" channel="4K TR: TV100">
+  <programme start="20251230170000 +0000" stop="20251230203000 +0000" channel="4K TR: TV100">
     <title>BAŞAK ŞENGÜL ILE DOĞRU YORUM</title>
   </programme>
-  <programme start="20251230173000 +0000" stop="20251230203000 +0000" channel="TV100">
+  <programme start="20251230170000 +0000" stop="20251230203000 +0000" channel="TV100">
     <title>BAŞAK ŞENGÜL ILE DOĞRU YORUM</title>
   </programme>
-  <programme start="20251230173000 +0000" stop="20251230203000 +0000" channel="TV 100">
+  <programme start="20251230170000 +0000" stop="20251230203000 +0000" channel="TV 100">
     <title>BAŞAK ŞENGÜL ILE DOĞRU YORUM</title>
   </programme>
   <programme start="20251230203000 +0000" stop="20251230220000 +0000" channel="4K TR: TV100">
@@ -32190,41 +32199,29 @@
   <programme start="20251230064500 +0000" stop="20251230074500 +0000" channel="TRT MUZIK RAW">
     <title>GÜNAYDIN</title>
   </programme>
-  <programme start="20251230074500 +0000" stop="20251230081500 +0000" channel="4K TR: TRT M Z K">
-    <title>TÜRKIYE'YI DINLIYORUM</title>
+  <programme start="20251230074500 +0000" stop="20251230084500 +0000" channel="4K TR: TRT M Z K">
+    <title>ARŞIVDEN</title>
   </programme>
-  <programme start="20251230074500 +0000" stop="20251230081500 +0000" channel="TRT MUZIK">
-    <title>TÜRKIYE'YI DINLIYORUM</title>
+  <programme start="20251230074500 +0000" stop="20251230084500 +0000" channel="TRT MUZIK">
+    <title>ARŞIVDEN</title>
   </programme>
-  <programme start="20251230074500 +0000" stop="20251230081500 +0000" channel="TRT MUZIK HD+">
-    <title>TÜRKIYE'YI DINLIYORUM</title>
+  <programme start="20251230074500 +0000" stop="20251230084500 +0000" channel="TRT MUZIK HD+">
+    <title>ARŞIVDEN</title>
   </programme>
-  <programme start="20251230074500 +0000" stop="20251230081500 +0000" channel="TRT MUZIK RAW">
-    <title>TÜRKIYE'YI DINLIYORUM</title>
-  </programme>
-  <programme start="20251230081500 +0000" stop="20251230084500 +0000" channel="4K TR: TRT M Z K">
-    <title>SAHNEMIZ SOKAK</title>
-  </programme>
-  <programme start="20251230081500 +0000" stop="20251230084500 +0000" channel="TRT MUZIK">
-    <title>SAHNEMIZ SOKAK</title>
-  </programme>
-  <programme start="20251230081500 +0000" stop="20251230084500 +0000" channel="TRT MUZIK HD+">
-    <title>SAHNEMIZ SOKAK</title>
-  </programme>
-  <programme start="20251230081500 +0000" stop="20251230084500 +0000" channel="TRT MUZIK RAW">
-    <title>SAHNEMIZ SOKAK</title>
+  <programme start="20251230074500 +0000" stop="20251230084500 +0000" channel="TRT MUZIK RAW">
+    <title>ARŞIVDEN</title>
   </programme>
   <programme start="20251230084500 +0000" stop="20251230093000 +0000" channel="4K TR: TRT M Z K">
-    <title>MELIKE İLE MÜZIĞIN RITMI</title>
+    <title>NEVBAHAR</title>
   </programme>
   <programme start="20251230084500 +0000" stop="20251230093000 +0000" channel="TRT MUZIK">
-    <title>MELIKE İLE MÜZIĞIN RITMI</title>
+    <title>NEVBAHAR</title>
   </programme>
   <programme start="20251230084500 +0000" stop="20251230093000 +0000" channel="TRT MUZIK HD+">
-    <title>MELIKE İLE MÜZIĞIN RITMI</title>
+    <title>NEVBAHAR</title>
   </programme>
   <programme start="20251230084500 +0000" stop="20251230093000 +0000" channel="TRT MUZIK RAW">
-    <title>MELIKE İLE MÜZIĞIN RITMI</title>
+    <title>NEVBAHAR</title>
   </programme>
   <programme start="20251230093000 +0000" stop="20251230103000 +0000" channel="4K TR: TRT M Z K">
     <title>SINAN'LA SAHNEDE</title>
@@ -32238,76 +32235,64 @@
   <programme start="20251230093000 +0000" stop="20251230103000 +0000" channel="TRT MUZIK RAW">
     <title>SINAN'LA SAHNEDE</title>
   </programme>
-  <programme start="20251230103000 +0000" stop="20251230111500 +0000" channel="4K TR: TRT M Z K">
-    <title>ROTAMIZ MÜZIK</title>
+  <programme start="20251230103000 +0000" stop="20251230113000 +0000" channel="4K TR: TRT M Z K">
+    <title>SANDIKTAKI TÜRKÜLER</title>
   </programme>
-  <programme start="20251230103000 +0000" stop="20251230111500 +0000" channel="TRT MUZIK">
-    <title>ROTAMIZ MÜZIK</title>
+  <programme start="20251230103000 +0000" stop="20251230113000 +0000" channel="TRT MUZIK">
+    <title>SANDIKTAKI TÜRKÜLER</title>
   </programme>
-  <programme start="20251230103000 +0000" stop="20251230111500 +0000" channel="TRT MUZIK HD+">
-    <title>ROTAMIZ MÜZIK</title>
+  <programme start="20251230103000 +0000" stop="20251230113000 +0000" channel="TRT MUZIK HD+">
+    <title>SANDIKTAKI TÜRKÜLER</title>
   </programme>
-  <programme start="20251230103000 +0000" stop="20251230111500 +0000" channel="TRT MUZIK RAW">
-    <title>ROTAMIZ MÜZIK</title>
+  <programme start="20251230103000 +0000" stop="20251230113000 +0000" channel="TRT MUZIK RAW">
+    <title>SANDIKTAKI TÜRKÜLER</title>
   </programme>
-  <programme start="20251230111500 +0000" stop="20251230120000 +0000" channel="4K TR: TRT M Z K">
-    <title>YAREN</title>
+  <programme start="20251230113000 +0000" stop="20251230123000 +0000" channel="4K TR: TRT M Z K">
+    <title>SERKAN ÇAĞRI SAHNESI</title>
   </programme>
-  <programme start="20251230111500 +0000" stop="20251230120000 +0000" channel="TRT MUZIK">
-    <title>YAREN</title>
+  <programme start="20251230113000 +0000" stop="20251230123000 +0000" channel="TRT MUZIK">
+    <title>SERKAN ÇAĞRI SAHNESI</title>
   </programme>
-  <programme start="20251230111500 +0000" stop="20251230120000 +0000" channel="TRT MUZIK HD+">
-    <title>YAREN</title>
+  <programme start="20251230113000 +0000" stop="20251230123000 +0000" channel="TRT MUZIK HD+">
+    <title>SERKAN ÇAĞRI SAHNESI</title>
   </programme>
-  <programme start="20251230111500 +0000" stop="20251230120000 +0000" channel="TRT MUZIK RAW">
-    <title>YAREN</title>
+  <programme start="20251230113000 +0000" stop="20251230123000 +0000" channel="TRT MUZIK RAW">
+    <title>SERKAN ÇAĞRI SAHNESI</title>
   </programme>
-  <programme start="20251230120000 +0000" stop="20251230130000 +0000" channel="4K TR: TRT M Z K">
-    <title>KLIPARK</title>
+  <programme start="20251230123000 +0000" stop="20251230133000 +0000" channel="4K TR: TRT M Z K">
+    <title>METIN ŞENTÜRK İLE GÖNÜLDEN GÖNÜLE</title>
   </programme>
-  <programme start="20251230120000 +0000" stop="20251230130000 +0000" channel="TRT MUZIK">
-    <title>KLIPARK</title>
+  <programme start="20251230123000 +0000" stop="20251230133000 +0000" channel="TRT MUZIK">
+    <title>METIN ŞENTÜRK İLE GÖNÜLDEN GÖNÜLE</title>
   </programme>
-  <programme start="20251230120000 +0000" stop="20251230130000 +0000" channel="TRT MUZIK HD+">
-    <title>KLIPARK</title>
+  <programme start="20251230123000 +0000" stop="20251230133000 +0000" channel="TRT MUZIK HD+">
+    <title>METIN ŞENTÜRK İLE GÖNÜLDEN GÖNÜLE</title>
   </programme>
-  <programme start="20251230120000 +0000" stop="20251230130000 +0000" channel="TRT MUZIK RAW">
-    <title>KLIPARK</title>
+  <programme start="20251230123000 +0000" stop="20251230133000 +0000" channel="TRT MUZIK RAW">
+    <title>METIN ŞENTÜRK İLE GÖNÜLDEN GÖNÜLE</title>
   </programme>
-  <programme start="20251230130000 +0000" stop="20251230140000 +0000" channel="4K TR: TRT M Z K">
+  <programme start="20251230133000 +0000" stop="20251230143000 +0000" channel="4K TR: TRT M Z K">
     <title>AHENK</title>
   </programme>
-  <programme start="20251230130000 +0000" stop="20251230140000 +0000" channel="TRT MUZIK">
+  <programme start="20251230133000 +0000" stop="20251230143000 +0000" channel="TRT MUZIK">
     <title>AHENK</title>
   </programme>
-  <programme start="20251230130000 +0000" stop="20251230140000 +0000" channel="TRT MUZIK HD+">
+  <programme start="20251230133000 +0000" stop="20251230143000 +0000" channel="TRT MUZIK HD+">
     <title>AHENK</title>
   </programme>
-  <programme start="20251230130000 +0000" stop="20251230140000 +0000" channel="TRT MUZIK RAW">
+  <programme start="20251230133000 +0000" stop="20251230143000 +0000" channel="TRT MUZIK RAW">
     <title>AHENK</title>
   </programme>
-  <programme start="20251230140000 +0000" stop="20251230141500 +0000" channel="4K TR: TRT M Z K">
-    <title>3 SES</title>
-  </programme>
-  <programme start="20251230140000 +0000" stop="20251230141500 +0000" channel="TRT MUZIK">
-    <title>3 SES</title>
-  </programme>
-  <programme start="20251230140000 +0000" stop="20251230141500 +0000" channel="TRT MUZIK HD+">
-    <title>3 SES</title>
-  </programme>
-  <programme start="20251230140000 +0000" stop="20251230141500 +0000" channel="TRT MUZIK RAW">
-    <title>3 SES</title>
-  </programme>
-  <programme start="20251230141500 +0000" stop="20251230150000 +0000" channel="4K TR: TRT M Z K">
+  <programme start="20251230143000 +0000" stop="20251230150000 +0000" channel="4K TR: TRT M Z K">
     <title>NEYDI O ŞARKI</title>
   </programme>
-  <programme start="20251230141500 +0000" stop="20251230150000 +0000" channel="TRT MUZIK">
+  <programme start="20251230143000 +0000" stop="20251230150000 +0000" channel="TRT MUZIK">
     <title>NEYDI O ŞARKI</title>
   </programme>
-  <programme start="20251230141500 +0000" stop="20251230150000 +0000" channel="TRT MUZIK HD+">
+  <programme start="20251230143000 +0000" stop="20251230150000 +0000" channel="TRT MUZIK HD+">
     <title>NEYDI O ŞARKI</title>
   </programme>
-  <programme start="20251230141500 +0000" stop="20251230150000 +0000" channel="TRT MUZIK RAW">
+  <programme start="20251230143000 +0000" stop="20251230150000 +0000" channel="TRT MUZIK RAW">
     <title>NEYDI O ŞARKI</title>
   </programme>
   <programme start="20251230150000 +0000" stop="20251230160000 +0000" channel="4K TR: TRT M Z K">
@@ -32567,6 +32552,51 @@
   </programme>
   <programme start="20251230204500 +0000" stop="20251230213000 +0000" channel="Bi Kanal">
     <title>BI GÜNDEM</title>
+  </programme>
+  <programme start="20251230121000 +0000" stop="20251230140000 +0000" channel="4K TR: MELTEM TV">
+    <title>HER ŞEYDEN BIRAZ</title>
+  </programme>
+  <programme start="20251230121000 +0000" stop="20251230140000 +0000" channel="MELTEM">
+    <title>HER ŞEYDEN BIRAZ</title>
+  </programme>
+  <programme start="20251230121000 +0000" stop="20251230140000 +0000" channel="MELTEM TV">
+    <title>HER ŞEYDEN BIRAZ</title>
+  </programme>
+  <programme start="20251230140000 +0000" stop="20251230153000 +0000" channel="4K TR: MELTEM TV">
+    <title>KENT VE YAŞAM</title>
+  </programme>
+  <programme start="20251230140000 +0000" stop="20251230153000 +0000" channel="MELTEM">
+    <title>KENT VE YAŞAM</title>
+  </programme>
+  <programme start="20251230140000 +0000" stop="20251230153000 +0000" channel="MELTEM TV">
+    <title>KENT VE YAŞAM</title>
+  </programme>
+  <programme start="20251230153000 +0000" stop="20251230170000 +0000" channel="4K TR: MELTEM TV">
+    <title>HAFTA SONU ANA HABER</title>
+  </programme>
+  <programme start="20251230153000 +0000" stop="20251230170000 +0000" channel="MELTEM">
+    <title>HAFTA SONU ANA HABER</title>
+  </programme>
+  <programme start="20251230153000 +0000" stop="20251230170000 +0000" channel="MELTEM TV">
+    <title>HAFTA SONU ANA HABER</title>
+  </programme>
+  <programme start="20251230170000 +0000" stop="20251230180000 +0000" channel="4K TR: MELTEM TV">
+    <title>BAŞARI HIKAYELERI</title>
+  </programme>
+  <programme start="20251230170000 +0000" stop="20251230180000 +0000" channel="MELTEM">
+    <title>BAŞARI HIKAYELERI</title>
+  </programme>
+  <programme start="20251230170000 +0000" stop="20251230180000 +0000" channel="MELTEM TV">
+    <title>BAŞARI HIKAYELERI</title>
+  </programme>
+  <programme start="20251230180000 +0000" stop="20251231121000 +0000" channel="4K TR: MELTEM TV">
+    <title>GÜNDEM MASASI</title>
+  </programme>
+  <programme start="20251230180000 +0000" stop="20251231121000 +0000" channel="MELTEM">
+    <title>GÜNDEM MASASI</title>
+  </programme>
+  <programme start="20251230180000 +0000" stop="20251231121000 +0000" channel="MELTEM TV">
+    <title>GÜNDEM MASASI</title>
   </programme>
   <programme start="20251229210000 +0000" stop="20251229220000 +0000" channel="4K TR: TRT 3">
     <title>SPOR ARTI</title>
