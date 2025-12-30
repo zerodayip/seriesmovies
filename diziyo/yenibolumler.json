@@ -2,7 +2,7 @@
   "/dizi/the-simpsons": {
     "group": "THE SIMPSONS",
     "last_season": 37,
-    "last_episode": 11,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/dizi/the-good-ship-murder": {
@@ -14,13 +14,13 @@
   "/dizi/the-copenhagen-test": {
     "group": "THE COPENHAGEN TEST",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/sunny-nights": {
     "group": "SUNNY NIGHTS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/shoresy": {
@@ -32,13 +32,13 @@
   "/dizi/krapopolis": {
     "group": "KRAPOPOLIS",
     "last_season": 3,
-    "last_episode": 10,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/dizi/animal-control": {
     "group": "ANIMAL CONTROL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/pro-bono-asya": {
