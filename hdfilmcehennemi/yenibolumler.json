@@ -1,4 +1,7 @@
 {
+  "/dizi/nice-to-not-meet-you/": {
+    "group": "NICE TO NOT MEET YOU"
+  },
   "/dizi/robin-hood/": {
     "group": "ROBIN HOOD"
   },
@@ -19,9 +22,6 @@
   },
   "/dizi/cashero/": {
     "group": "CASHERO"
-  },
-  "/dizi/nice-to-not-meet-you/": {
-    "group": "NICE TO NOT MEET YOU"
   },
   "/dizi/the-mighty-nein/": {
     "group": "THE MIGHTY NEIN"

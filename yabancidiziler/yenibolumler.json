@@ -5,46 +5,10 @@
     "last_episode": 10,
     "start_episode": 1
   },
-  "/dizi/amadeus": {
-    "group": "Amadeus",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/animal-control": {
-    "group": "Animal Control",
-    "last_season": 4,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/idol-i": {
-    "group": "Idol I",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/krapopolis": {
-    "group": "Krapopolis",
-    "last_season": 3,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/dizi/members-only-palm-beach": {
-    "group": "Members Only: Palm Beach",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
   "/dizi/nice-to-not-meet-you": {
     "group": "Nice to Not Meet You",
     "last_season": 1,
     "last_episode": 15,
-    "start_episode": 1
-  },
-  "/dizi/the-simpsons": {
-    "group": "The Simpsons",
-    "last_season": 37,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
