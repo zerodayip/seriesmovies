@@ -1470,8 +1470,26 @@
   <programme start="20251231133400 +0000" stop="20251231142500 +0000" channel="TABII TV">
     <title>ÇIÇEK TAKSI</title>
   </programme>
-  <programme start="20251231142500 +0000" stop="20260101160000 +0000" channel="TABII TV">
+  <programme start="20251231142500 +0000" stop="20251231151100 +0000" channel="TABII TV">
     <title>YEDI NUMARA</title>
+  </programme>
+  <programme start="20251231151100 +0000" stop="20251231160200 +0000" channel="TABII TV">
+    <title>ÇIÇEK TAKSI</title>
+  </programme>
+  <programme start="20251231160200 +0000" stop="20251231164800 +0000" channel="TABII TV">
+    <title>YEDI NUMARA</title>
+  </programme>
+  <programme start="20251231164800 +0000" stop="20251231173000 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20251231173000 +0000" stop="20251231181900 +0000" channel="TABII TV">
+    <title>METAMORFOZ: KIRILMA</title>
+  </programme>
+  <programme start="20251231181900 +0000" stop="20251231201700 +0000" channel="TABII TV">
+    <title>DIRILIŞ ERTUĞRUL</title>
+  </programme>
+  <programme start="20251231201700 +0000" stop="20251231210700 +0000" channel="TABII TV">
+    <title>KUZENLERIM</title>
   </programme>
   <programme start="20251230211500 +0000" stop="20251230230000 +0000" channel="4K TR: S NEMA YERL HD">
     <title>CINNET</title>
@@ -12198,68 +12216,68 @@
   <programme start="20251231170000 +0000" stop="20251231173000 +0000" channel="TVNET HD">
     <title>19. SAAT</title>
   </programme>
-  <programme start="20251231173000 +0000" stop="20251231174500 +0000" channel="4K TR: TVNET HD">
-    <title>EDITÖR ANLATIYOR</title>
+  <programme start="20251231173000 +0000" stop="20251231180000 +0000" channel="4K TR: TVNET HD">
+    <title>GÜNDEM ÖZEL</title>
   </programme>
-  <programme start="20251231173000 +0000" stop="20251231174500 +0000" channel="TVNET">
-    <title>EDITÖR ANLATIYOR</title>
+  <programme start="20251231173000 +0000" stop="20251231180000 +0000" channel="TVNET">
+    <title>GÜNDEM ÖZEL</title>
   </programme>
-  <programme start="20251231173000 +0000" stop="20251231174500 +0000" channel="TVNET HD">
-    <title>EDITÖR ANLATIYOR</title>
+  <programme start="20251231173000 +0000" stop="20251231180000 +0000" channel="TVNET HD">
+    <title>GÜNDEM ÖZEL</title>
   </programme>
-  <programme start="20251231174500 +0000" stop="20251231183000 +0000" channel="4K TR: TVNET HD">
-    <title>SIYASETEN</title>
+  <programme start="20251231180000 +0000" stop="20251231183000 +0000" channel="4K TR: TVNET HD">
+    <title>GÜNDEM ÖZEL</title>
   </programme>
-  <programme start="20251231174500 +0000" stop="20251231183000 +0000" channel="TVNET">
-    <title>SIYASETEN</title>
+  <programme start="20251231180000 +0000" stop="20251231183000 +0000" channel="TVNET">
+    <title>GÜNDEM ÖZEL</title>
   </programme>
-  <programme start="20251231174500 +0000" stop="20251231183000 +0000" channel="TVNET HD">
-    <title>SIYASETEN</title>
+  <programme start="20251231180000 +0000" stop="20251231183000 +0000" channel="TVNET HD">
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251231183000 +0000" stop="20251231190000 +0000" channel="4K TR: TVNET HD">
-    <title>SIYASETEN</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251231183000 +0000" stop="20251231190000 +0000" channel="TVNET">
-    <title>SIYASETEN</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251231183000 +0000" stop="20251231190000 +0000" channel="TVNET HD">
-    <title>SIYASETEN</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251231190000 +0000" stop="20251231193000 +0000" channel="4K TR: TVNET HD">
-    <title>SIYASETEN</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251231190000 +0000" stop="20251231193000 +0000" channel="TVNET">
-    <title>SIYASETEN</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251231190000 +0000" stop="20251231193000 +0000" channel="TVNET HD">
-    <title>SIYASETEN</title>
+    <title>GÜNDEM ÖZEL</title>
   </programme>
   <programme start="20251231193000 +0000" stop="20251231200000 +0000" channel="4K TR: TVNET HD">
-    <title>SIYASETEN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251231193000 +0000" stop="20251231200000 +0000" channel="TVNET">
-    <title>SIYASETEN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251231193000 +0000" stop="20251231200000 +0000" channel="TVNET HD">
-    <title>SIYASETEN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251231200000 +0000" stop="20251231203000 +0000" channel="4K TR: TVNET HD">
-    <title>SIYASETEN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251231200000 +0000" stop="20251231203000 +0000" channel="TVNET">
-    <title>SIYASETEN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251231200000 +0000" stop="20251231203000 +0000" channel="TVNET HD">
-    <title>SIYASETEN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251231203000 +0000" stop="20251231210000 +0000" channel="4K TR: TVNET HD">
-    <title>GÜNÜN ARDINDAN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251231203000 +0000" stop="20251231210000 +0000" channel="TVNET">
-    <title>GÜNÜN ARDINDAN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251231203000 +0000" stop="20251231210000 +0000" channel="TVNET HD">
-    <title>GÜNÜN ARDINDAN</title>
+    <title>SERDAR TUNCER'LE BAŞKA ŞEYLER</title>
   </programme>
   <programme start="20251231040000 +0000" stop="20251231073000 +0000" channel="4K TR: AK T TV HD">
     <title>GÜN BAŞLIYOR</title>
@@ -34975,13 +34993,13 @@
     <title>HAYAT VAR</title>
   </programme>
   <programme start="20251231123000 +0000" stop="20251231130000 +0000" channel="KONTV">
-    <title>VELIVIZYON</title>
+    <title>MUZAFFER DERELI VAAZ</title>
   </programme>
   <programme start="20251231130000 +0000" stop="20251231140000 +0000" channel="KONTV">
-    <title>DIZI KUŞAĞI</title>
+    <title>BELGESEL</title>
   </programme>
   <programme start="20251231140000 +0000" stop="20251231150000 +0000" channel="KONTV">
-    <title>OTOSTART</title>
+    <title>TASARIM EVI</title>
   </programme>
   <programme start="20251231150000 +0000" stop="20251231163000 +0000" channel="KONTV">
     <title>DÜZLEM</title>
