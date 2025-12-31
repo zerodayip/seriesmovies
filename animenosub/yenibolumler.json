@@ -1,4 +1,10 @@
 {
+  "/anime/tamons-b-side/": {
+    "group": "TAMON’S B-SIDE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/100-meters/": {
     "group": "100 METERS",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/spy-x-family-season-3/": {
     "group": "SPY X FAMILY SEASON 3",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/tales-of-wedding-rings-season-2-uncensored/": {
-    "group": "TALES OF WEDDING RINGS SEASON 2 (UNCENSORED)",
     "last_season": 1,
     "last_episode": 13,
     "start_episode": 1

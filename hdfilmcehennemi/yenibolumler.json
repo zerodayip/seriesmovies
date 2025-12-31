@@ -2,6 +2,12 @@
   "/dizi/nice-to-not-meet-you/": {
     "group": "NICE TO NOT MEET YOU"
   },
+  "/dizi/palm-royale-43/": {
+    "group": "PALM ROYALE"
+  },
+  "/dizi/percy-jackson-and-the-olympians-42/": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS"
+  },
   "/dizi/robin-hood/": {
     "group": "ROBIN HOOD"
   },
@@ -26,17 +32,8 @@
   "/dizi/the-mighty-nein/": {
     "group": "THE MIGHTY NEIN"
   },
-  "/dizi/percy-jackson-and-the-olympians-42/": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS"
-  },
   "/dizi/nightmares-of-nature/": {
     "group": "NIGHTMARES OF NATURE"
-  },
-  "/dizi/the-end-of-an-era/": {
-    "group": "THE END OF AN ERA"
-  },
-  "/dizi/i-love-la/": {
-    "group": "I LOVE LA"
   },
   "/dizi/sanctuary-a-witch-s-tale/": {
     "group": "SANCTUARY: A WITCH'S TALE"
@@ -59,6 +56,9 @@
   "/dizi/born-to-be-wild/": {
     "group": "BORN TO BE WILD"
   },
+  "/dizi/the-end-of-an-era/": {
+    "group": "THE END OF AN ERA"
+  },
   "/dizi/this-way-up/": {
     "group": "THIS WAY UP"
   },
@@ -74,7 +74,7 @@
   "/dizi/jasmine/": {
     "group": "JASMINE"
   },
-  "/dizi/the-town-yerli-3/": {
+  "/dizi/the-town-yerli-4/": {
     "group": "KASABA"
   },
   "/dizi/man-vs-baby/": {

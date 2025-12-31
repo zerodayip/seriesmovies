@@ -904,5 +904,11 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/tamons-b-side/": {
+    "group": "TAMON’S B-SIDE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -1,8 +1,20 @@
 {
-  "/dizi/landman": {
-    "group": "LANDMAN",
+  "/dizi/me-i-deu-in-ko-ri-a-asya": {
+    "group": "MADE IN KOREA",
     "last_season": 1,
     "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/a-i-dol-a-i-asya": {
+    "group": "IDOL I",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/palm-royale": {
+    "group": "PALM ROYALE",
+    "last_season": 2,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/the-simpsons": {
@@ -141,30 +153,6 @@
     "group": "HAPPY'S PLACE",
     "last_season": 2,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/haha-you-clowns": {
-    "group": "HAHA, YOU CLOWNS",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/fire-country": {
-    "group": "FIRE COUNTRY",
-    "last_season": 4,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi/amandaland": {
-    "group": "AMANDALAND",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/all-creatures-great-small": {
-    "group": "BÜYÜK KÜÇÜK TÜM HAYVANLAR",
-    "last_season": 6,
-    "last_episode": 7,
     "start_episode": 1
   }
 }

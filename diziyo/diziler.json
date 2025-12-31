@@ -1306,5 +1306,17 @@
     "last_season": 4,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/me-i-deu-in-ko-ri-a-asya": {
+    "group": "MADE IN KOREA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/a-i-dol-a-i-asya": {
+    "group": "IDOL I",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
