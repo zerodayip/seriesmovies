@@ -14,13 +14,13 @@
   "/dizi/palm-royale": {
     "group": "Palm Royale",
     "last_season": 2,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/percy-jackson-and-the-olympians": {
     "group": "Percy Jackson and the Olympians",
     "last_season": 2,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/st-denis-medical": {
@@ -248,7 +248,7 @@
   "/dizi/made-in-korea": {
     "group": "Made in Korea",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/are-you-sure": {
