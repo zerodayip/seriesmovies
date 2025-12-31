@@ -1,4 +1,10 @@
 {
+  "/yuusha-party-wo-oidasareta-kiyoubinbou": {
+    "group": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/hyakuemu": {
     "group": "HYAKUEMU.",
     "last_season": 1,
@@ -91,12 +97,6 @@
   },
   "/si-vis-the-sound-of-heroes": {
     "group": "SI-VIS: THE SOUND OF HEROES",
-    "last_season": 1,
-    "last_episode": 13.0,
-    "start_episode": 1
-  },
-  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
-    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
     "last_season": 1,
     "last_episode": 13.0,
     "start_episode": 1

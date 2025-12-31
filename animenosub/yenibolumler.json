@@ -5,6 +5,18 @@
     "last_episode": 0,
     "start_episode": 1
   },
+  "/anime/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan/": {
+    "group": "KAGUYA-SAMA WA KOKURASETAI: OTONA E NO KAIDAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/jack-of-all-trades-party-of-none/": {
+    "group": "JACK-OF-ALL-TRADES, PARTY OF NONE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/100-meters/": {
     "group": "100 METERS",
     "last_season": 1,
@@ -103,18 +115,6 @@
   },
   "/anime/to-your-eternity-season-3/": {
     "group": "TO YOUR ETERNITY SEASON 3",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/nukitashi-the-animation-ova-uncensored-bd/": {
-    "group": "NUKITASHI THE ANIMATION OVA (UNCENSORED) BD",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/anime/spy-x-family-season-3/": {
-    "group": "SPY X FAMILY SEASON 3",
     "last_season": 1,
     "last_episode": 13,
     "start_episode": 1
