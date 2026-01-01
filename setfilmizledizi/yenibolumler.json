@@ -1,4 +1,22 @@
 {
+  "/dizi/stranger-things/": {
+    "group": "STRANGER THINGS",
+    "last_season": 5,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi/rick-and-morty/": {
+    "group": "RICK AND MORTY",
+    "last_season": 8,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/dizi/nice-to-not-meet-you/": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 14,
+    "start_episode": 1
+  },
   "/dizi/surely-tomorrow/": {
     "group": "SURELY TOMORROW",
     "last_season": 1,
@@ -31,12 +49,6 @@
   },
   "/dizi/the-chair-company/": {
     "group": "THE CHAIR COMPANY",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/the-lowdown-2025-izle/": {
-    "group": "THE LOWDOWN",
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
