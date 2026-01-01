@@ -380,13 +380,13 @@
   "/dizi/el-tiempo-de-las-moscas": {
     "group": "El Tiempo de las Moscas",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/run-away": {
     "group": "Run Away",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   }
 }
