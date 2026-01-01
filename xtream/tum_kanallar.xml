@@ -3078,53 +3078,89 @@
   <programme start="20260101050000 +0000" stop="20260101074500 +0000" channel="NOW TV">
     <title>İLKER KARAGÖZ İLE ÇALAR SAAT</title>
   </programme>
-  <programme start="20260101074500 +0000" stop="20260101093000 +0000" channel="4K TR: NOW HD">
-    <title>ÇAĞLA ILE YENI BIR GÜN</title>
+  <programme start="20260101074500 +0000" stop="20260101094500 +0000" channel="4K TR: NOW HD">
+    <title>ZOOTROPOLIS: HAYVANLAR ŞEHRI</title>
   </programme>
-  <programme start="20260101074500 +0000" stop="20260101093000 +0000" channel="NOW TV FHD">
-    <title>ÇAĞLA ILE YENI BIR GÜN</title>
+  <programme start="20260101074500 +0000" stop="20260101094500 +0000" channel="NOW TV FHD">
+    <title>ZOOTROPOLIS: HAYVANLAR ŞEHRI</title>
   </programme>
-  <programme start="20260101074500 +0000" stop="20260101093000 +0000" channel="NOW TV HD">
-    <title>ÇAĞLA ILE YENI BIR GÜN</title>
+  <programme start="20260101074500 +0000" stop="20260101094500 +0000" channel="NOW TV HD">
+    <title>ZOOTROPOLIS: HAYVANLAR ŞEHRI</title>
   </programme>
-  <programme start="20260101074500 +0000" stop="20260101093000 +0000" channel="NOW TV">
-    <title>ÇAĞLA ILE YENI BIR GÜN</title>
+  <programme start="20260101074500 +0000" stop="20260101094500 +0000" channel="NOW TV">
+    <title>ZOOTROPOLIS: HAYVANLAR ŞEHRI</title>
   </programme>
-  <programme start="20260101093000 +0000" stop="20260101103000 +0000" channel="4K TR: NOW HD">
+  <programme start="20260101094500 +0000" stop="20260101103000 +0000" channel="4K TR: NOW HD">
     <title>YASAK ELMA</title>
   </programme>
-  <programme start="20260101093000 +0000" stop="20260101103000 +0000" channel="NOW TV FHD">
+  <programme start="20260101094500 +0000" stop="20260101103000 +0000" channel="NOW TV FHD">
     <title>YASAK ELMA</title>
   </programme>
-  <programme start="20260101093000 +0000" stop="20260101103000 +0000" channel="NOW TV HD">
+  <programme start="20260101094500 +0000" stop="20260101103000 +0000" channel="NOW TV HD">
     <title>YASAK ELMA</title>
   </programme>
-  <programme start="20260101093000 +0000" stop="20260101103000 +0000" channel="NOW TV">
+  <programme start="20260101094500 +0000" stop="20260101103000 +0000" channel="NOW TV">
     <title>YASAK ELMA</title>
   </programme>
-  <programme start="20260101103000 +0000" stop="20260101160000 +0000" channel="4K TR: NOW HD">
+  <programme start="20260101103000 +0000" stop="20260101133000 +0000" channel="4K TR: NOW HD">
     <title>EN HAMARAT BENIM</title>
   </programme>
-  <programme start="20260101103000 +0000" stop="20260101160000 +0000" channel="NOW TV FHD">
+  <programme start="20260101103000 +0000" stop="20260101133000 +0000" channel="NOW TV FHD">
     <title>EN HAMARAT BENIM</title>
   </programme>
-  <programme start="20260101103000 +0000" stop="20260101160000 +0000" channel="NOW TV HD">
+  <programme start="20260101103000 +0000" stop="20260101133000 +0000" channel="NOW TV HD">
     <title>EN HAMARAT BENIM</title>
   </programme>
-  <programme start="20260101103000 +0000" stop="20260101160000 +0000" channel="NOW TV">
+  <programme start="20260101103000 +0000" stop="20260101133000 +0000" channel="NOW TV">
     <title>EN HAMARAT BENIM</title>
   </programme>
-  <programme start="20260101160000 +0000" stop="20260102011500 +0000" channel="4K TR: NOW HD">
+  <programme start="20260101133000 +0000" stop="20260101160000 +0000" channel="4K TR: NOW HD">
+    <title>KISKANMAK</title>
+  </programme>
+  <programme start="20260101133000 +0000" stop="20260101160000 +0000" channel="NOW TV FHD">
+    <title>KISKANMAK</title>
+  </programme>
+  <programme start="20260101133000 +0000" stop="20260101160000 +0000" channel="NOW TV HD">
+    <title>KISKANMAK</title>
+  </programme>
+  <programme start="20260101133000 +0000" stop="20260101160000 +0000" channel="NOW TV">
+    <title>KISKANMAK</title>
+  </programme>
+  <programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="4K TR: NOW HD">
     <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
   </programme>
-  <programme start="20260101160000 +0000" stop="20260102011500 +0000" channel="NOW TV FHD">
+  <programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="NOW TV FHD">
     <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
   </programme>
-  <programme start="20260101160000 +0000" stop="20260102011500 +0000" channel="NOW TV HD">
+  <programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="NOW TV HD">
     <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
   </programme>
-  <programme start="20260101160000 +0000" stop="20260102011500 +0000" channel="NOW TV">
+  <programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="NOW TV">
     <title>SELÇUK TEPELI ILE NOW ANA HABER</title>
+  </programme>
+  <programme start="20260101170000 +0000" stop="20260101193000 +0000" channel="4K TR: NOW HD">
+    <title>RECEP İVEDIK 2</title>
+  </programme>
+  <programme start="20260101170000 +0000" stop="20260101193000 +0000" channel="NOW TV FHD">
+    <title>RECEP İVEDIK 2</title>
+  </programme>
+  <programme start="20260101170000 +0000" stop="20260101193000 +0000" channel="NOW TV HD">
+    <title>RECEP İVEDIK 2</title>
+  </programme>
+  <programme start="20260101170000 +0000" stop="20260101193000 +0000" channel="NOW TV">
+    <title>RECEP İVEDIK 2</title>
+  </programme>
+  <programme start="20260101193000 +0000" stop="20260101223000 +0000" channel="4K TR: NOW HD">
+    <title>HALEF</title>
+  </programme>
+  <programme start="20260101193000 +0000" stop="20260101223000 +0000" channel="NOW TV FHD">
+    <title>HALEF</title>
+  </programme>
+  <programme start="20260101193000 +0000" stop="20260101223000 +0000" channel="NOW TV HD">
+    <title>HALEF</title>
+  </programme>
+  <programme start="20260101193000 +0000" stop="20260101223000 +0000" channel="NOW TV">
+    <title>HALEF</title>
   </programme>
   <programme start="20251231211500 +0000" stop="20260101003000 +0000" channel="4K TR: TV8 HD">
     <title>ZAHIDE YETIŞ'LE SENCE?</title>
@@ -3274,25 +3310,25 @@
     <title>ZUHAL TOPAL'LA YEMEKTEYIZ</title>
   </programme>
   <programme start="20260101170000 +0000" stop="20260101211500 +0000" channel="4K TR: TV8 HD">
-    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
+    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
   <programme start="20260101170000 +0000" stop="20260101211500 +0000" channel="TV 8">
-    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
+    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
   <programme start="20260101170000 +0000" stop="20260101211500 +0000" channel="TV 8 HD">
-    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
+    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
   <programme start="20260101170000 +0000" stop="20260101211500 +0000" channel="TV 8 HEVC">
-    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
+    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
   <programme start="20260101170000 +0000" stop="20260101211500 +0000" channel="TV 8 SD">
-    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
+    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
   <programme start="20260101170000 +0000" stop="20260101211500 +0000" channel="TV8 FHD">
-    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
+    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
   <programme start="20260101170000 +0000" stop="20260101211500 +0000" channel="TV8 RAW">
-    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
+    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
   <programme start="20251231214500 +0000" stop="20251231231500 +0000" channel="360">
     <title>SATIN ALINAN KOCA</title>
@@ -5886,23 +5922,41 @@
   <programme start="20260101024300 +0000" stop="20260101024500 +0000" channel="TRT 2 UHD">
     <title>İSTIKLAL MARŞI</title>
   </programme>
-  <programme start="20260101024500 +0000" stop="20260101040000 +0000" channel="4K TR: TRT 2 HD">
+  <programme start="20260101024500 +0000" stop="20260101031300 +0000" channel="4K TR: TRT 2 HD">
     <title>KONSER ZAMANI</title>
   </programme>
-  <programme start="20260101024500 +0000" stop="20260101040000 +0000" channel="TRT 2">
+  <programme start="20260101024500 +0000" stop="20260101031300 +0000" channel="TRT 2">
     <title>KONSER ZAMANI</title>
   </programme>
-  <programme start="20260101024500 +0000" stop="20260101040000 +0000" channel="TRT 2 UHD">
+  <programme start="20260101024500 +0000" stop="20260101031300 +0000" channel="TRT 2 UHD">
     <title>KONSER ZAMANI</title>
   </programme>
-  <programme start="20260101040000 +0000" stop="20260101043000 +0000" channel="4K TR: TRT 2 HD">
+  <programme start="20260101031300 +0000" stop="20260101031500 +0000" channel="4K TR: TRT 2 HD">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20260101031300 +0000" stop="20260101031500 +0000" channel="TRT 2">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20260101031300 +0000" stop="20260101031500 +0000" channel="TRT 2 UHD">
+    <title>İSTIKLAL MARŞI</title>
+  </programme>
+  <programme start="20260101031500 +0000" stop="20260101034500 +0000" channel="4K TR: TRT 2 HD">
     <title>MEDENIYET VE MIMARI</title>
   </programme>
-  <programme start="20260101040000 +0000" stop="20260101043000 +0000" channel="TRT 2">
+  <programme start="20260101031500 +0000" stop="20260101034500 +0000" channel="TRT 2">
     <title>MEDENIYET VE MIMARI</title>
   </programme>
-  <programme start="20260101040000 +0000" stop="20260101043000 +0000" channel="TRT 2 UHD">
+  <programme start="20260101031500 +0000" stop="20260101034500 +0000" channel="TRT 2 UHD">
     <title>MEDENIYET VE MIMARI</title>
+  </programme>
+  <programme start="20260101034500 +0000" stop="20260101043000 +0000" channel="4K TR: TRT 2 HD">
+    <title>EVLIYA ÇELEBI</title>
+  </programme>
+  <programme start="20260101034500 +0000" stop="20260101043000 +0000" channel="TRT 2">
+    <title>EVLIYA ÇELEBI</title>
+  </programme>
+  <programme start="20260101034500 +0000" stop="20260101043000 +0000" channel="TRT 2 UHD">
+    <title>EVLIYA ÇELEBI</title>
   </programme>
   <programme start="20260101043000 +0000" stop="20260101050000 +0000" channel="4K TR: TRT 2 HD">
     <title>HAYAT SANAT</title>
@@ -5950,13 +6004,13 @@
     <title>HÜLYA KOÇYIĞIT ILE FILM GIBI HAYATLAR</title>
   </programme>
   <programme start="20260101073000 +0000" stop="20260101090000 +0000" channel="4K TR: TRT 2 HD">
-    <title>MONET'NIN NILÜFERLERI - SU VE IŞIĞIN BÜYÜSÜ</title>
+    <title>BELGESEL: MONET'NIN NILÜFERLERI - SU VE IŞIĞIN BÜYÜSÜ ( WATER LILIES OF MONET - THE MAGIC OF WATER AND LIGHT )</title>
   </programme>
   <programme start="20260101073000 +0000" stop="20260101090000 +0000" channel="TRT 2">
-    <title>MONET'NIN NILÜFERLERI - SU VE IŞIĞIN BÜYÜSÜ</title>
+    <title>BELGESEL: MONET'NIN NILÜFERLERI - SU VE IŞIĞIN BÜYÜSÜ ( WATER LILIES OF MONET - THE MAGIC OF WATER AND LIGHT )</title>
   </programme>
   <programme start="20260101073000 +0000" stop="20260101090000 +0000" channel="TRT 2 UHD">
-    <title>MONET'NIN NILÜFERLERI - SU VE IŞIĞIN BÜYÜSÜ</title>
+    <title>BELGESEL: MONET'NIN NILÜFERLERI - SU VE IŞIĞIN BÜYÜSÜ ( WATER LILIES OF MONET - THE MAGIC OF WATER AND LIGHT )</title>
   </programme>
   <programme start="20260101090000 +0000" stop="20260101093000 +0000" channel="4K TR: TRT 2 HD">
     <title>HAYAT SANAT</title>
@@ -5995,13 +6049,13 @@
     <title>VIYANA FILARMONI ORKESTRASI YENI YIL KONSERI 2026</title>
   </programme>
   <programme start="20260101124500 +0000" stop="20260101143000 +0000" channel="4K TR: TRT 2 HD">
-    <title>NOTTING HILL'DEKI PASTANE</title>
+    <title>YABANCI SINEMA: NOTTING HILL'DEKI PASTANE ( LOVE SARAH )</title>
   </programme>
   <programme start="20260101124500 +0000" stop="20260101143000 +0000" channel="TRT 2">
-    <title>NOTTING HILL'DEKI PASTANE</title>
+    <title>YABANCI SINEMA: NOTTING HILL'DEKI PASTANE ( LOVE SARAH )</title>
   </programme>
   <programme start="20260101124500 +0000" stop="20260101143000 +0000" channel="TRT 2 UHD">
-    <title>NOTTING HILL'DEKI PASTANE</title>
+    <title>YABANCI SINEMA: NOTTING HILL'DEKI PASTANE ( LOVE SARAH )</title>
   </programme>
   <programme start="20260101143000 +0000" stop="20260101150000 +0000" channel="4K TR: TRT 2 HD">
     <title>ADAGIO</title>
@@ -6022,13 +6076,13 @@
     <title>HAYAT SANAT</title>
   </programme>
   <programme start="20260101153000 +0000" stop="20260101163000 +0000" channel="4K TR: TRT 2 HD">
-    <title>KAPANMAMIŞ DOSYA AĞAÇ KÖKLERI: VAN GOGH'UN SON RESMI</title>
+    <title>BELGESEL: KAPANMAMIŞ DOSYA AĞAÇ KÖKLERI: VAN GOGH'UN SON RESMI ( THE TREE ROOTS COLD CASE. ON VAN GOGH'S ULTIMATE PAINTING )</title>
   </programme>
   <programme start="20260101153000 +0000" stop="20260101163000 +0000" channel="TRT 2">
-    <title>KAPANMAMIŞ DOSYA AĞAÇ KÖKLERI: VAN GOGH'UN SON RESMI</title>
+    <title>BELGESEL: KAPANMAMIŞ DOSYA AĞAÇ KÖKLERI: VAN GOGH'UN SON RESMI ( THE TREE ROOTS COLD CASE. ON VAN GOGH'S ULTIMATE PAINTING )</title>
   </programme>
   <programme start="20260101153000 +0000" stop="20260101163000 +0000" channel="TRT 2 UHD">
-    <title>KAPANMAMIŞ DOSYA AĞAÇ KÖKLERI: VAN GOGH'UN SON RESMI</title>
+    <title>BELGESEL: KAPANMAMIŞ DOSYA AĞAÇ KÖKLERI: VAN GOGH'UN SON RESMI ( THE TREE ROOTS COLD CASE. ON VAN GOGH'S ULTIMATE PAINTING )</title>
   </programme>
   <programme start="20260101163000 +0000" stop="20260101173000 +0000" channel="4K TR: TRT 2 HD">
     <title>SINEMA +</title>
@@ -6040,13 +6094,13 @@
     <title>SINEMA +</title>
   </programme>
   <programme start="20260101173000 +0000" stop="20260101181500 +0000" channel="4K TR: TRT 2 HD">
-    <title>İBRAHIM MAALOUF BIRKAÇ MELODI</title>
+    <title>İBRAHIM MAALOUF BIRKAÇ MELODI ( İBRAHIM MAALOUF A FEW MELODIES )</title>
   </programme>
   <programme start="20260101173000 +0000" stop="20260101181500 +0000" channel="TRT 2">
-    <title>İBRAHIM MAALOUF BIRKAÇ MELODI</title>
+    <title>İBRAHIM MAALOUF BIRKAÇ MELODI ( İBRAHIM MAALOUF A FEW MELODIES )</title>
   </programme>
   <programme start="20260101173000 +0000" stop="20260101181500 +0000" channel="TRT 2 UHD">
-    <title>İBRAHIM MAALOUF BIRKAÇ MELODI</title>
+    <title>İBRAHIM MAALOUF BIRKAÇ MELODI ( İBRAHIM MAALOUF A FEW MELODIES )</title>
   </programme>
   <programme start="20260101181500 +0000" stop="20260101183000 +0000" channel="4K TR: TRT 2 HD">
     <title>DESTANSI KARELER</title>
@@ -6058,13 +6112,13 @@
     <title>DESTANSI KARELER</title>
   </programme>
   <programme start="20260101183000 +0000" stop="20260101203000 +0000" channel="4K TR: TRT 2 HD">
-    <title>BÜTÜN BIR ÖMÜR</title>
+    <title>YABANCI SINEMA: BÜTÜN BIR ÖMÜR ( A WHOLE LIFE )</title>
   </programme>
   <programme start="20260101183000 +0000" stop="20260101203000 +0000" channel="TRT 2">
-    <title>BÜTÜN BIR ÖMÜR</title>
+    <title>YABANCI SINEMA: BÜTÜN BIR ÖMÜR ( A WHOLE LIFE )</title>
   </programme>
   <programme start="20260101183000 +0000" stop="20260101203000 +0000" channel="TRT 2 UHD">
-    <title>BÜTÜN BIR ÖMÜR</title>
+    <title>YABANCI SINEMA: BÜTÜN BIR ÖMÜR ( A WHOLE LIFE )</title>
   </programme>
   <programme start="20260101203000 +0000" stop="20260101230000 +0000" channel="4K TR: TRT 2 HD">
     <title>VIYANA FILARMONI ORKESTRASI YENI YIL KONSERI 2026</title>
@@ -9225,20 +9279,50 @@
   <programme start="20260101180000 +0000" stop="20260101210000 +0000" channel="A HABER RAW">
     <title>ARKA PLAN</title>
   </programme>
-  <programme start="20251231220000 +0000" stop="20260101005500 +0000" channel="4K TR: TRT HABER HD">
+  <programme start="20251231225000 +0000" stop="20251231230000 +0000" channel="4K TR: TRT HABER HD">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20251231225000 +0000" stop="20251231230000 +0000" channel="TRT HABER">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20251231225000 +0000" stop="20251231230000 +0000" channel="TRT HABER HD">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20251231225000 +0000" stop="20251231230000 +0000" channel="TRT HABER HEVC">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20251231225000 +0000" stop="20251231230000 +0000" channel="TRT HABER RAW">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20251231230000 +0000" stop="20260101005000 +0000" channel="4K TR: TRT HABER HD">
     <title>GÜN SONU</title>
   </programme>
-  <programme start="20251231220000 +0000" stop="20260101005500 +0000" channel="TRT HABER">
+  <programme start="20251231230000 +0000" stop="20260101005000 +0000" channel="TRT HABER">
     <title>GÜN SONU</title>
   </programme>
-  <programme start="20251231220000 +0000" stop="20260101005500 +0000" channel="TRT HABER HD">
+  <programme start="20251231230000 +0000" stop="20260101005000 +0000" channel="TRT HABER HD">
     <title>GÜN SONU</title>
   </programme>
-  <programme start="20251231220000 +0000" stop="20260101005500 +0000" channel="TRT HABER HEVC">
+  <programme start="20251231230000 +0000" stop="20260101005000 +0000" channel="TRT HABER HEVC">
     <title>GÜN SONU</title>
   </programme>
-  <programme start="20251231220000 +0000" stop="20260101005500 +0000" channel="TRT HABER RAW">
+  <programme start="20251231230000 +0000" stop="20260101005000 +0000" channel="TRT HABER RAW">
     <title>GÜN SONU</title>
+  </programme>
+  <programme start="20260101005000 +0000" stop="20260101005500 +0000" channel="4K TR: TRT HABER HD">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20260101005000 +0000" stop="20260101005500 +0000" channel="TRT HABER">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20260101005000 +0000" stop="20260101005500 +0000" channel="TRT HABER HD">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20260101005000 +0000" stop="20260101005500 +0000" channel="TRT HABER HEVC">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20260101005000 +0000" stop="20260101005500 +0000" channel="TRT HABER RAW">
+    <title>ALMANAK 2025</title>
   </programme>
   <programme start="20260101005500 +0000" stop="20260101010000 +0000" channel="4K TR: TRT HABER HD">
     <title>HAVA DURUMU</title>
@@ -9255,20 +9339,35 @@
   <programme start="20260101005500 +0000" stop="20260101010000 +0000" channel="TRT HABER RAW">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20260101010000 +0000" stop="20260101015500 +0000" channel="4K TR: TRT HABER HD">
+  <programme start="20260101010000 +0000" stop="20260101015000 +0000" channel="4K TR: TRT HABER HD">
     <title>HABER 04</title>
   </programme>
-  <programme start="20260101010000 +0000" stop="20260101015500 +0000" channel="TRT HABER">
+  <programme start="20260101010000 +0000" stop="20260101015000 +0000" channel="TRT HABER">
     <title>HABER 04</title>
   </programme>
-  <programme start="20260101010000 +0000" stop="20260101015500 +0000" channel="TRT HABER HD">
+  <programme start="20260101010000 +0000" stop="20260101015000 +0000" channel="TRT HABER HD">
     <title>HABER 04</title>
   </programme>
-  <programme start="20260101010000 +0000" stop="20260101015500 +0000" channel="TRT HABER HEVC">
+  <programme start="20260101010000 +0000" stop="20260101015000 +0000" channel="TRT HABER HEVC">
     <title>HABER 04</title>
   </programme>
-  <programme start="20260101010000 +0000" stop="20260101015500 +0000" channel="TRT HABER RAW">
+  <programme start="20260101010000 +0000" stop="20260101015000 +0000" channel="TRT HABER RAW">
     <title>HABER 04</title>
+  </programme>
+  <programme start="20260101015000 +0000" stop="20260101015500 +0000" channel="4K TR: TRT HABER HD">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20260101015000 +0000" stop="20260101015500 +0000" channel="TRT HABER">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20260101015000 +0000" stop="20260101015500 +0000" channel="TRT HABER HD">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20260101015000 +0000" stop="20260101015500 +0000" channel="TRT HABER HEVC">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20260101015000 +0000" stop="20260101015500 +0000" channel="TRT HABER RAW">
+    <title>ALMANAK 2025</title>
   </programme>
   <programme start="20260101015500 +0000" stop="20260101020000 +0000" channel="4K TR: TRT HABER HD">
     <title>HAVA DURUMU</title>
@@ -9285,20 +9384,35 @@
   <programme start="20260101015500 +0000" stop="20260101020000 +0000" channel="TRT HABER RAW">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20260101020000 +0000" stop="20260101025500 +0000" channel="4K TR: TRT HABER HD">
+  <programme start="20260101020000 +0000" stop="20260101025000 +0000" channel="4K TR: TRT HABER HD">
     <title>HABER 05</title>
   </programme>
-  <programme start="20260101020000 +0000" stop="20260101025500 +0000" channel="TRT HABER">
+  <programme start="20260101020000 +0000" stop="20260101025000 +0000" channel="TRT HABER">
     <title>HABER 05</title>
   </programme>
-  <programme start="20260101020000 +0000" stop="20260101025500 +0000" channel="TRT HABER HD">
+  <programme start="20260101020000 +0000" stop="20260101025000 +0000" channel="TRT HABER HD">
     <title>HABER 05</title>
   </programme>
-  <programme start="20260101020000 +0000" stop="20260101025500 +0000" channel="TRT HABER HEVC">
+  <programme start="20260101020000 +0000" stop="20260101025000 +0000" channel="TRT HABER HEVC">
     <title>HABER 05</title>
   </programme>
-  <programme start="20260101020000 +0000" stop="20260101025500 +0000" channel="TRT HABER RAW">
+  <programme start="20260101020000 +0000" stop="20260101025000 +0000" channel="TRT HABER RAW">
     <title>HABER 05</title>
+  </programme>
+  <programme start="20260101025000 +0000" stop="20260101025500 +0000" channel="4K TR: TRT HABER HD">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20260101025000 +0000" stop="20260101025500 +0000" channel="TRT HABER">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20260101025000 +0000" stop="20260101025500 +0000" channel="TRT HABER HD">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20260101025000 +0000" stop="20260101025500 +0000" channel="TRT HABER HEVC">
+    <title>ALMANAK 2025</title>
+  </programme>
+  <programme start="20260101025000 +0000" stop="20260101025500 +0000" channel="TRT HABER RAW">
+    <title>ALMANAK 2025</title>
   </programme>
   <programme start="20260101025500 +0000" stop="20260101030000 +0000" channel="4K TR: TRT HABER HD">
     <title>HAVA DURUMU</title>
@@ -10293,10 +10407,10 @@
   <programme start="20260101190000 +0000" stop="20260101200000 +0000" channel="A PARA RAW">
     <title>MUHTEŞEM DÜETLER</title>
   </programme>
-  <programme start="20260101200000 +0000" stop="20260101210000 +0000" channel="A PARA">
+  <programme start="20260101200000 +0000" stop="20260101220000 +0000" channel="A PARA">
     <title>İNSAN HALI</title>
   </programme>
-  <programme start="20260101200000 +0000" stop="20260101210000 +0000" channel="A PARA RAW">
+  <programme start="20260101200000 +0000" stop="20260101220000 +0000" channel="A PARA RAW">
     <title>İNSAN HALI</title>
   </programme>
   <programme start="20260101040000 +0000" stop="20260101050000 +0000" channel="4K TR: HALK TV">
@@ -12384,41 +12498,53 @@
   <programme start="20260101205500 +0000" stop="20260102020000 +0000" channel="TV5">
     <title>HAVA-YOL-PARA DURUMU</title>
   </programme>
-  <programme start="20251231213000 +0000" stop="20251231221500 +0000" channel="S ZC SZC TV">
+  <programme start="20251231213000 +0000" stop="20251231220000 +0000" channel="S ZC SZC TV">
     <title>S RAPORU</title>
   </programme>
-  <programme start="20251231213000 +0000" stop="20251231221500 +0000" channel="4K TR: SOZCU TV">
+  <programme start="20251231213000 +0000" stop="20251231220000 +0000" channel="4K TR: SOZCU TV">
     <title>S RAPORU</title>
   </programme>
-  <programme start="20251231213000 +0000" stop="20251231221500 +0000" channel="SOZCU SZC TV SD">
+  <programme start="20251231213000 +0000" stop="20251231220000 +0000" channel="SOZCU SZC TV SD">
     <title>S RAPORU</title>
   </programme>
-  <programme start="20251231213000 +0000" stop="20251231221500 +0000" channel="SÖZCÜ TV">
+  <programme start="20251231213000 +0000" stop="20251231220000 +0000" channel="SÖZCÜ TV">
     <title>S RAPORU</title>
   </programme>
-  <programme start="20251231221500 +0000" stop="20251231230000 +0000" channel="S ZC SZC TV">
-    <title>TÜRKIYE'NIN SÖZÜ</title>
+  <programme start="20251231220000 +0000" stop="20251231230000 +0000" channel="S ZC SZC TV">
+    <title>İÇINIZDEN BIRI</title>
   </programme>
-  <programme start="20251231221500 +0000" stop="20251231230000 +0000" channel="4K TR: SOZCU TV">
-    <title>TÜRKIYE'NIN SÖZÜ</title>
+  <programme start="20251231220000 +0000" stop="20251231230000 +0000" channel="4K TR: SOZCU TV">
+    <title>İÇINIZDEN BIRI</title>
   </programme>
-  <programme start="20251231221500 +0000" stop="20251231230000 +0000" channel="SOZCU SZC TV SD">
-    <title>TÜRKIYE'NIN SÖZÜ</title>
+  <programme start="20251231220000 +0000" stop="20251231230000 +0000" channel="SOZCU SZC TV SD">
+    <title>İÇINIZDEN BIRI</title>
   </programme>
-  <programme start="20251231221500 +0000" stop="20251231230000 +0000" channel="SÖZCÜ TV">
-    <title>TÜRKIYE'NIN SÖZÜ</title>
+  <programme start="20251231220000 +0000" stop="20251231230000 +0000" channel="SÖZCÜ TV">
+    <title>İÇINIZDEN BIRI</title>
   </programme>
-  <programme start="20251231230000 +0000" stop="20260101030000 +0000" channel="S ZC SZC TV">
+  <programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="S ZC SZC TV">
     <title>GÜNÜN DOSYASI</title>
   </programme>
-  <programme start="20251231230000 +0000" stop="20260101030000 +0000" channel="4K TR: SOZCU TV">
+  <programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="4K TR: SOZCU TV">
     <title>GÜNÜN DOSYASI</title>
   </programme>
-  <programme start="20251231230000 +0000" stop="20260101030000 +0000" channel="SOZCU SZC TV SD">
+  <programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="SOZCU SZC TV SD">
     <title>GÜNÜN DOSYASI</title>
   </programme>
-  <programme start="20251231230000 +0000" stop="20260101030000 +0000" channel="SÖZCÜ TV">
+  <programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="SÖZCÜ TV">
     <title>GÜNÜN DOSYASI</title>
+  </programme>
+  <programme start="20260101000000 +0000" stop="20260101030000 +0000" channel="S ZC SZC TV">
+    <title>TÜRKIYE'NIN SÖZÜ</title>
+  </programme>
+  <programme start="20260101000000 +0000" stop="20260101030000 +0000" channel="4K TR: SOZCU TV">
+    <title>TÜRKIYE'NIN SÖZÜ</title>
+  </programme>
+  <programme start="20260101000000 +0000" stop="20260101030000 +0000" channel="SOZCU SZC TV SD">
+    <title>TÜRKIYE'NIN SÖZÜ</title>
+  </programme>
+  <programme start="20260101000000 +0000" stop="20260101030000 +0000" channel="SÖZCÜ TV">
+    <title>TÜRKIYE'NIN SÖZÜ</title>
   </programme>
   <programme start="20260101030000 +0000" stop="20260101040000 +0000" channel="S ZC SZC TV">
     <title>ANA HABER</title>
@@ -12588,16 +12714,16 @@
   <programme start="20260101170000 +0000" stop="20260101180000 +0000" channel="SÖZCÜ TV">
     <title>GÜNÜN DOSYASI</title>
   </programme>
-  <programme start="20260101180000 +0000" stop="20260101213000 +0000" channel="S ZC SZC TV">
+  <programme start="20260101180000 +0000" stop="20260101210000 +0000" channel="S ZC SZC TV">
     <title>ÖNCESI SONRASI GECE</title>
   </programme>
-  <programme start="20260101180000 +0000" stop="20260101213000 +0000" channel="4K TR: SOZCU TV">
+  <programme start="20260101180000 +0000" stop="20260101210000 +0000" channel="4K TR: SOZCU TV">
     <title>ÖNCESI SONRASI GECE</title>
   </programme>
-  <programme start="20260101180000 +0000" stop="20260101213000 +0000" channel="SOZCU SZC TV SD">
+  <programme start="20260101180000 +0000" stop="20260101210000 +0000" channel="SOZCU SZC TV SD">
     <title>ÖNCESI SONRASI GECE</title>
   </programme>
-  <programme start="20260101180000 +0000" stop="20260101213000 +0000" channel="SÖZCÜ TV">
+  <programme start="20260101180000 +0000" stop="20260101210000 +0000" channel="SÖZCÜ TV">
     <title>ÖNCESI SONRASI GECE</title>
   </programme>
   <programme start="20251231210000 +0000" stop="20251231223000 +0000" channel="4K TR: TRT SPOR HD">
@@ -14022,26 +14148,383 @@
   <programme start="20251231222000 +0000" stop="20251231224500 +0000" channel="TABII SPOR 1">
     <title>TÜM ZAMANLARIN EN İYILERI</title>
   </programme>
-  <programme start="20251231224500 +0000" stop="20260102000000 +0000" channel="TABII SPOR 1 4K">
+  <programme start="20251231224500 +0000" stop="20260101063000 +0000" channel="TABII SPOR 1 4K">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20251231224500 +0000" stop="20260102000000 +0000" channel="TABII SPOR 1 720P">
+  <programme start="20251231224500 +0000" stop="20260101063000 +0000" channel="TABII SPOR 1 720P">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20251231224500 +0000" stop="20260102000000 +0000" channel="TABII SPOR 1 UHD">
+  <programme start="20251231224500 +0000" stop="20260101063000 +0000" channel="TABII SPOR 1 UHD">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20251231224500 +0000" stop="20260102000000 +0000" channel="TABII SPOR HD">
+  <programme start="20251231224500 +0000" stop="20260101063000 +0000" channel="TABII SPOR HD">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20251231224500 +0000" stop="20260102000000 +0000" channel="TABII SPOR SD">
+  <programme start="20251231224500 +0000" stop="20260101063000 +0000" channel="TABII SPOR SD">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20251231224500 +0000" stop="20260102000000 +0000" channel="TABII SPOR">
+  <programme start="20251231224500 +0000" stop="20260101063000 +0000" channel="TABII SPOR">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20251231224500 +0000" stop="20260102000000 +0000" channel="TABII SPOR 1">
+  <programme start="20251231224500 +0000" stop="20260101063000 +0000" channel="TABII SPOR 1">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
+  </programme>
+  <programme start="20260101063000 +0000" stop="20260101081000 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - ASTON VILLA'</title>
+  </programme>
+  <programme start="20260101063000 +0000" stop="20260101081000 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - ASTON VILLA'</title>
+  </programme>
+  <programme start="20260101063000 +0000" stop="20260101081000 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - ASTON VILLA'</title>
+  </programme>
+  <programme start="20260101063000 +0000" stop="20260101081000 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - ASTON VILLA'</title>
+  </programme>
+  <programme start="20260101063000 +0000" stop="20260101081000 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - ASTON VILLA'</title>
+  </programme>
+  <programme start="20260101063000 +0000" stop="20260101081000 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - ASTON VILLA'</title>
+  </programme>
+  <programme start="20260101063000 +0000" stop="20260101081000 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BASEL - ASTON VILLA'</title>
+  </programme>
+  <programme start="20260101081000 +0000" stop="20260101083500 +0000" channel="TABII SPOR 1 4K">
+    <title>SATRANÇ DÜNYASI</title>
+  </programme>
+  <programme start="20260101081000 +0000" stop="20260101083500 +0000" channel="TABII SPOR 1 720P">
+    <title>SATRANÇ DÜNYASI</title>
+  </programme>
+  <programme start="20260101081000 +0000" stop="20260101083500 +0000" channel="TABII SPOR 1 UHD">
+    <title>SATRANÇ DÜNYASI</title>
+  </programme>
+  <programme start="20260101081000 +0000" stop="20260101083500 +0000" channel="TABII SPOR HD">
+    <title>SATRANÇ DÜNYASI</title>
+  </programme>
+  <programme start="20260101081000 +0000" stop="20260101083500 +0000" channel="TABII SPOR SD">
+    <title>SATRANÇ DÜNYASI</title>
+  </programme>
+  <programme start="20260101081000 +0000" stop="20260101083500 +0000" channel="TABII SPOR">
+    <title>SATRANÇ DÜNYASI</title>
+  </programme>
+  <programme start="20260101081000 +0000" stop="20260101083500 +0000" channel="TABII SPOR 1">
+    <title>SATRANÇ DÜNYASI</title>
+  </programme>
+  <programme start="20260101083500 +0000" stop="20260101084000 +0000" channel="TABII SPOR 1 4K">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101083500 +0000" stop="20260101084000 +0000" channel="TABII SPOR 1 720P">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101083500 +0000" stop="20260101084000 +0000" channel="TABII SPOR 1 UHD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101083500 +0000" stop="20260101084000 +0000" channel="TABII SPOR HD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101083500 +0000" stop="20260101084000 +0000" channel="TABII SPOR SD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101083500 +0000" stop="20260101084000 +0000" channel="TABII SPOR">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101083500 +0000" stop="20260101084000 +0000" channel="TABII SPOR 1">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101084000 +0000" stop="20260101102000 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+  </programme>
+  <programme start="20260101084000 +0000" stop="20260101102000 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+  </programme>
+  <programme start="20260101084000 +0000" stop="20260101102000 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+  </programme>
+  <programme start="20260101084000 +0000" stop="20260101102000 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+  </programme>
+  <programme start="20260101084000 +0000" stop="20260101102000 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+  </programme>
+  <programme start="20260101084000 +0000" stop="20260101102000 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+  </programme>
+  <programme start="20260101084000 +0000" stop="20260101102000 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+  </programme>
+  <programme start="20260101102000 +0000" stop="20260101103000 +0000" channel="TABII SPOR 1 4K">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101102000 +0000" stop="20260101103000 +0000" channel="TABII SPOR 1 720P">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101102000 +0000" stop="20260101103000 +0000" channel="TABII SPOR 1 UHD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101102000 +0000" stop="20260101103000 +0000" channel="TABII SPOR HD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101102000 +0000" stop="20260101103000 +0000" channel="TABII SPOR SD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101102000 +0000" stop="20260101103000 +0000" channel="TABII SPOR">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101102000 +0000" stop="20260101103000 +0000" channel="TABII SPOR 1">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101103000 +0000" stop="20260101121000 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+  </programme>
+  <programme start="20260101103000 +0000" stop="20260101121000 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+  </programme>
+  <programme start="20260101103000 +0000" stop="20260101121000 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+  </programme>
+  <programme start="20260101103000 +0000" stop="20260101121000 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+  </programme>
+  <programme start="20260101103000 +0000" stop="20260101121000 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+  </programme>
+  <programme start="20260101103000 +0000" stop="20260101121000 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+  </programme>
+  <programme start="20260101103000 +0000" stop="20260101121000 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+  </programme>
+  <programme start="20260101121000 +0000" stop="20260101122000 +0000" channel="TABII SPOR 1 4K">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101121000 +0000" stop="20260101122000 +0000" channel="TABII SPOR 1 720P">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101121000 +0000" stop="20260101122000 +0000" channel="TABII SPOR 1 UHD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101121000 +0000" stop="20260101122000 +0000" channel="TABII SPOR HD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101121000 +0000" stop="20260101122000 +0000" channel="TABII SPOR SD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101121000 +0000" stop="20260101122000 +0000" channel="TABII SPOR">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101121000 +0000" stop="20260101122000 +0000" channel="TABII SPOR 1">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101122000 +0000" stop="20260101131000 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101122000 +0000" stop="20260101131000 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101122000 +0000" stop="20260101131000 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101122000 +0000" stop="20260101131000 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101122000 +0000" stop="20260101131000 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101122000 +0000" stop="20260101131000 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101122000 +0000" stop="20260101131000 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101131000 +0000" stop="20260101145000 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+  </programme>
+  <programme start="20260101131000 +0000" stop="20260101145000 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+  </programme>
+  <programme start="20260101131000 +0000" stop="20260101145000 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+  </programme>
+  <programme start="20260101131000 +0000" stop="20260101145000 +0000" channel="TABII SPOR HD">
+    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+  </programme>
+  <programme start="20260101131000 +0000" stop="20260101145000 +0000" channel="TABII SPOR SD">
+    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+  </programme>
+  <programme start="20260101131000 +0000" stop="20260101145000 +0000" channel="TABII SPOR">
+    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+  </programme>
+  <programme start="20260101131000 +0000" stop="20260101145000 +0000" channel="TABII SPOR 1">
+    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+  </programme>
+  <programme start="20260101145000 +0000" stop="20260101151500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101145000 +0000" stop="20260101151500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101145000 +0000" stop="20260101151500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101145000 +0000" stop="20260101151500 +0000" channel="TABII SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101145000 +0000" stop="20260101151500 +0000" channel="TABII SPOR SD">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101145000 +0000" stop="20260101151500 +0000" channel="TABII SPOR">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101145000 +0000" stop="20260101151500 +0000" channel="TABII SPOR 1">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260101151500 +0000" stop="20260101153000 +0000" channel="TABII SPOR 1 4K">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20260101151500 +0000" stop="20260101153000 +0000" channel="TABII SPOR 1 720P">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20260101151500 +0000" stop="20260101153000 +0000" channel="TABII SPOR 1 UHD">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20260101151500 +0000" stop="20260101153000 +0000" channel="TABII SPOR HD">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20260101151500 +0000" stop="20260101153000 +0000" channel="TABII SPOR SD">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20260101151500 +0000" stop="20260101153000 +0000" channel="TABII SPOR">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20260101151500 +0000" stop="20260101153000 +0000" channel="TABII SPOR 1">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20260101153000 +0000" stop="20260101171500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260101153000 +0000" stop="20260101171500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260101153000 +0000" stop="20260101171500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260101153000 +0000" stop="20260101171500 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260101153000 +0000" stop="20260101171500 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260101153000 +0000" stop="20260101171500 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260101153000 +0000" stop="20260101171500 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260101171500 +0000" stop="20260101172500 +0000" channel="TABII SPOR 1 4K">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101171500 +0000" stop="20260101172500 +0000" channel="TABII SPOR 1 720P">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101171500 +0000" stop="20260101172500 +0000" channel="TABII SPOR 1 UHD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101171500 +0000" stop="20260101172500 +0000" channel="TABII SPOR HD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101171500 +0000" stop="20260101172500 +0000" channel="TABII SPOR SD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101171500 +0000" stop="20260101172500 +0000" channel="TABII SPOR">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101171500 +0000" stop="20260101172500 +0000" channel="TABII SPOR 1">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101172500 +0000" stop="20260101190500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+  </programme>
+  <programme start="20260101172500 +0000" stop="20260101190500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+  </programme>
+  <programme start="20260101172500 +0000" stop="20260101190500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+  </programme>
+  <programme start="20260101172500 +0000" stop="20260101190500 +0000" channel="TABII SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+  </programme>
+  <programme start="20260101172500 +0000" stop="20260101190500 +0000" channel="TABII SPOR SD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+  </programme>
+  <programme start="20260101172500 +0000" stop="20260101190500 +0000" channel="TABII SPOR">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+  </programme>
+  <programme start="20260101172500 +0000" stop="20260101190500 +0000" channel="TABII SPOR 1">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+  </programme>
+  <programme start="20260101190500 +0000" stop="20260101191500 +0000" channel="TABII SPOR 1 4K">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101190500 +0000" stop="20260101191500 +0000" channel="TABII SPOR 1 720P">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101190500 +0000" stop="20260101191500 +0000" channel="TABII SPOR 1 UHD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101190500 +0000" stop="20260101191500 +0000" channel="TABII SPOR HD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101190500 +0000" stop="20260101191500 +0000" channel="TABII SPOR SD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101190500 +0000" stop="20260101191500 +0000" channel="TABII SPOR">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101190500 +0000" stop="20260101191500 +0000" channel="TABII SPOR 1">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260101191500 +0000" stop="20260101205500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'UTRECHT - NOTTINGHAM FOREST'</title>
+  </programme>
+  <programme start="20260101191500 +0000" stop="20260101205500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'UTRECHT - NOTTINGHAM FOREST'</title>
+  </programme>
+  <programme start="20260101191500 +0000" stop="20260101205500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'UTRECHT - NOTTINGHAM FOREST'</title>
+  </programme>
+  <programme start="20260101191500 +0000" stop="20260101205500 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'UTRECHT - NOTTINGHAM FOREST'</title>
+  </programme>
+  <programme start="20260101191500 +0000" stop="20260101205500 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'UTRECHT - NOTTINGHAM FOREST'</title>
+  </programme>
+  <programme start="20260101191500 +0000" stop="20260101205500 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'UTRECHT - NOTTINGHAM FOREST'</title>
+  </programme>
+  <programme start="20260101191500 +0000" stop="20260101205500 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'UTRECHT - NOTTINGHAM FOREST'</title>
+  </programme>
+  <programme start="20260101205500 +0000" stop="20260101210000 +0000" channel="TABII SPOR 1 4K">
+    <title>ONSUZ ASLA 5. BÖLÜM</title>
+  </programme>
+  <programme start="20260101205500 +0000" stop="20260101210000 +0000" channel="TABII SPOR 1 720P">
+    <title>ONSUZ ASLA 5. BÖLÜM</title>
+  </programme>
+  <programme start="20260101205500 +0000" stop="20260101210000 +0000" channel="TABII SPOR 1 UHD">
+    <title>ONSUZ ASLA 5. BÖLÜM</title>
+  </programme>
+  <programme start="20260101205500 +0000" stop="20260101210000 +0000" channel="TABII SPOR HD">
+    <title>ONSUZ ASLA 5. BÖLÜM</title>
+  </programme>
+  <programme start="20260101205500 +0000" stop="20260101210000 +0000" channel="TABII SPOR SD">
+    <title>ONSUZ ASLA 5. BÖLÜM</title>
+  </programme>
+  <programme start="20260101205500 +0000" stop="20260101210000 +0000" channel="TABII SPOR">
+    <title>ONSUZ ASLA 5. BÖLÜM</title>
+  </programme>
+  <programme start="20260101205500 +0000" stop="20260101210000 +0000" channel="TABII SPOR 1">
+    <title>ONSUZ ASLA 5. BÖLÜM</title>
   </programme>
   <programme start="20251231223000 +0000" stop="20260101003000 +0000" channel="4K TR: S SPORT">
     <title>MONACO - FENERBAHÇE BEKO</title>
@@ -14196,13 +14679,22 @@
   <programme start="20251231223000 +0000" stop="20251231230000 +0000" channel="4K TR: S SPORT 2">
     <title>MADE IN ITALY</title>
   </programme>
-  <programme start="20251231230000 +0000" stop="20260101010000 +0000" channel="SARAN SPORT 2">
+  <programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="SARAN SPORT 2">
     <title>SUPER CARS</title>
   </programme>
-  <programme start="20251231230000 +0000" stop="20260101010000 +0000" channel="S SPORT 2">
+  <programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="S SPORT 2">
     <title>SUPER CARS</title>
   </programme>
-  <programme start="20251231230000 +0000" stop="20260101010000 +0000" channel="4K TR: S SPORT 2">
+  <programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="4K TR: S SPORT 2">
+    <title>SUPER CARS</title>
+  </programme>
+  <programme start="20260101000000 +0000" stop="20260101010000 +0000" channel="SARAN SPORT 2">
+    <title>SUPER CARS</title>
+  </programme>
+  <programme start="20260101000000 +0000" stop="20260101010000 +0000" channel="S SPORT 2">
+    <title>SUPER CARS</title>
+  </programme>
+  <programme start="20260101000000 +0000" stop="20260101010000 +0000" channel="4K TR: S SPORT 2">
     <title>SUPER CARS</title>
   </programme>
   <programme start="20260101010000 +0000" stop="20260101020000 +0000" channel="SARAN SPORT 2">
@@ -14241,13 +14733,22 @@
   <programme start="20260101040000 +0000" stop="20260101060000 +0000" channel="4K TR: S SPORT 2">
     <title>İTALYA SERIE A</title>
   </programme>
-  <programme start="20260101060000 +0000" stop="20260101080000 +0000" channel="SARAN SPORT 2">
+  <programme start="20260101060000 +0000" stop="20260101070000 +0000" channel="SARAN SPORT 2">
     <title>SUPER CARS</title>
   </programme>
-  <programme start="20260101060000 +0000" stop="20260101080000 +0000" channel="S SPORT 2">
+  <programme start="20260101060000 +0000" stop="20260101070000 +0000" channel="S SPORT 2">
     <title>SUPER CARS</title>
   </programme>
-  <programme start="20260101060000 +0000" stop="20260101080000 +0000" channel="4K TR: S SPORT 2">
+  <programme start="20260101060000 +0000" stop="20260101070000 +0000" channel="4K TR: S SPORT 2">
+    <title>SUPER CARS</title>
+  </programme>
+  <programme start="20260101070000 +0000" stop="20260101080000 +0000" channel="SARAN SPORT 2">
+    <title>SUPER CARS</title>
+  </programme>
+  <programme start="20260101070000 +0000" stop="20260101080000 +0000" channel="S SPORT 2">
+    <title>SUPER CARS</title>
+  </programme>
+  <programme start="20260101070000 +0000" stop="20260101080000 +0000" channel="4K TR: S SPORT 2">
     <title>SUPER CARS</title>
   </programme>
   <programme start="20260101080000 +0000" stop="20260101083000 +0000" channel="SARAN SPORT 2">
@@ -14278,13 +14779,13 @@
     <title>İTALYA SERIE A</title>
   </programme>
   <programme start="20260101123000 +0000" stop="20260101143000 +0000" channel="SARAN SPORT 2">
-    <title>MOTO GP -AMP; MOTO 2 - ABD</title>
+    <title>MOTO GP - MOTO 2 - ABD</title>
   </programme>
   <programme start="20260101123000 +0000" stop="20260101143000 +0000" channel="S SPORT 2">
-    <title>MOTO GP -AMP; MOTO 2 - ABD</title>
+    <title>MOTO GP - MOTO 2 - ABD</title>
   </programme>
   <programme start="20260101123000 +0000" stop="20260101143000 +0000" channel="4K TR: S SPORT 2">
-    <title>MOTO GP -AMP; MOTO 2 - ABD</title>
+    <title>MOTO GP - MOTO 2 - ABD</title>
   </programme>
   <programme start="20260101143000 +0000" stop="20260101150000 +0000" channel="SARAN SPORT 2">
     <title>MONSTER JAM</title>
@@ -22662,25 +23163,25 @@
   <programme start="20260101042100 +0000" stop="20260101044400 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101044400 +0000" stop="20260101050600 +0000" channel="NICKTOONS">
+  <programme start="20260101044400 +0000" stop="20260101050700 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101050600 +0000" stop="20260101051900 +0000" channel="NICKTOONS">
+  <programme start="20260101050700 +0000" stop="20260101051900 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
   <programme start="20260101051900 +0000" stop="20260101054100 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101054100 +0000" stop="20260101060300 +0000" channel="NICKTOONS">
+  <programme start="20260101054100 +0000" stop="20260101060400 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260101060300 +0000" stop="20260101061500 +0000" channel="NICKTOONS">
+  <programme start="20260101060400 +0000" stop="20260101061500 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260101061500 +0000" stop="20260101063700 +0000" channel="NICKTOONS">
+  <programme start="20260101061500 +0000" stop="20260101063800 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260101063700 +0000" stop="20260101070000 +0000" channel="NICKTOONS">
+  <programme start="20260101063800 +0000" stop="20260101070000 +0000" channel="NICKTOONS">
     <title>THE CASAGRANDES</title>
   </programme>
   <programme start="20260101070000 +0000" stop="20260101072200 +0000" channel="NICKTOONS">
@@ -22722,10 +23223,10 @@
   <programme start="20260101111600 +0000" stop="20260101112900 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101112900 +0000" stop="20260101115100 +0000" channel="NICKTOONS">
+  <programme start="20260101112900 +0000" stop="20260101115200 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101115100 +0000" stop="20260101121400 +0000" channel="NICKTOONS">
+  <programme start="20260101115200 +0000" stop="20260101121400 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
   <programme start="20260101121400 +0000" stop="20260101123600 +0000" channel="NICKTOONS">
@@ -22734,73 +23235,73 @@
   <programme start="20260101123600 +0000" stop="20260101125800 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260101125800 +0000" stop="20260101132100 +0000" channel="NICKTOONS">
+  <programme start="20260101125800 +0000" stop="20260101131900 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260101132100 +0000" stop="20260101133300 +0000" channel="NICKTOONS">
+  <programme start="20260101131900 +0000" stop="20260101133000 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260101133300 +0000" stop="20260101135200 +0000" channel="NICKTOONS">
+  <programme start="20260101133000 +0000" stop="20260101135000 +0000" channel="NICKTOONS">
     <title>SONIC PRIME</title>
   </programme>
-  <programme start="20260101135200 +0000" stop="20260101140400 +0000" channel="NICKTOONS">
+  <programme start="20260101135000 +0000" stop="20260101140500 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101140400 +0000" stop="20260101142600 +0000" channel="NICKTOONS">
+  <programme start="20260101140500 +0000" stop="20260101142700 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101142600 +0000" stop="20260101144900 +0000" channel="NICKTOONS">
+  <programme start="20260101142700 +0000" stop="20260101145000 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101144900 +0000" stop="20260101150100 +0000" channel="NICKTOONS">
+  <programme start="20260101145000 +0000" stop="20260101150200 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101150100 +0000" stop="20260101152300 +0000" channel="NICKTOONS">
+  <programme start="20260101150200 +0000" stop="20260101152400 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260101152300 +0000" stop="20260101154500 +0000" channel="NICKTOONS">
+  <programme start="20260101152400 +0000" stop="20260101154600 +0000" channel="NICKTOONS">
     <title>SUPER DUPER BUNNY LEAGUE</title>
   </programme>
-  <programme start="20260101154500 +0000" stop="20260101155700 +0000" channel="NICKTOONS">
+  <programme start="20260101154600 +0000" stop="20260101155800 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260101155700 +0000" stop="20260101160900 +0000" channel="NICKTOONS">
+  <programme start="20260101155800 +0000" stop="20260101161000 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260101160900 +0000" stop="20260101163100 +0000" channel="NICKTOONS">
+  <programme start="20260101161000 +0000" stop="20260101163200 +0000" channel="NICKTOONS">
     <title>THE FAIRLY ODDPARENTS: A NEW WISH</title>
   </programme>
-  <programme start="20260101163100 +0000" stop="20260101165200 +0000" channel="NICKTOONS">
+  <programme start="20260101163200 +0000" stop="20260101165300 +0000" channel="NICKTOONS">
     <title>SONIC PRIME</title>
   </programme>
-  <programme start="20260101165200 +0000" stop="20260101171500 +0000" channel="NICKTOONS">
+  <programme start="20260101165300 +0000" stop="20260101171700 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101171500 +0000" stop="20260101172800 +0000" channel="NICKTOONS">
+  <programme start="20260101171700 +0000" stop="20260101172900 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101172800 +0000" stop="20260101175000 +0000" channel="NICKTOONS">
+  <programme start="20260101172900 +0000" stop="20260101175100 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101175000 +0000" stop="20260101181200 +0000" channel="NICKTOONS">
+  <programme start="20260101175100 +0000" stop="20260101181400 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260101181200 +0000" stop="20260101183500 +0000" channel="NICKTOONS">
+  <programme start="20260101181400 +0000" stop="20260101183600 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260101183500 +0000" stop="20260101184700 +0000" channel="NICKTOONS">
+  <programme start="20260101183600 +0000" stop="20260101184800 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260101184700 +0000" stop="20260101190900 +0000" channel="NICKTOONS">
+  <programme start="20260101184800 +0000" stop="20260101191000 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260101190900 +0000" stop="20260101193200 +0000" channel="NICKTOONS">
+  <programme start="20260101191000 +0000" stop="20260101193300 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260101193200 +0000" stop="20260101195500 +0000" channel="NICKTOONS">
+  <programme start="20260101193300 +0000" stop="20260101195600 +0000" channel="NICKTOONS">
     <title>THE FAIRLY ODDPARENTS</title>
   </programme>
-  <programme start="20260101195500 +0000" stop="20260101200800 +0000" channel="NICKTOONS">
+  <programme start="20260101195600 +0000" stop="20260101200800 +0000" channel="NICKTOONS">
     <title>THE FAIRLY ODDPARENTS</title>
   </programme>
   <programme start="20260101200800 +0000" stop="20260101203100 +0000" channel="NICKTOONS">
