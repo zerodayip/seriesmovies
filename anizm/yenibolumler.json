@@ -1,4 +1,16 @@
 {
+  "/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta-2026": {
+    "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?) (2026)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/kimi-to-koete-koi-ni-naru": {
+    "group": "KIMI TO KOETE KOI NI NARU",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
   "/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan": {
     "group": "KAGUYA-SAMA WA KOKURASETAI: OTONA E NO KAIDAN",
     "last_season": 1,
@@ -81,18 +93,6 @@
     "group": "SPY X FAMILY SEASON 3",
     "last_season": 1,
     "last_episode": 13.0,
-    "start_episode": 1
-  },
-  "/chanto-suenai-kyuuketsuki-chan": {
-    "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/xian-wang-de-richang-shenghuo-5": {
-    "group": "XIAN WANG DE RICHANG SHENGHUO 5",
-    "last_season": 1,
-    "last_episode": 4.0,
     "start_episode": 1
   }
 }
