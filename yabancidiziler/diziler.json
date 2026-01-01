@@ -370,5 +370,11 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/dizi/amor-de-oficina": {
+    "group": "Amor de oficina",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

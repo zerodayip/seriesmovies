@@ -1,4 +1,28 @@
 {
+  "/dizi/vicdansiz": {
+    "group": "VICDANSIZ",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi/this-way-up": {
+    "group": "THIS WAY UP",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi/the-capture": {
+    "group": "THE CAPTURE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 4,
+    "start_episode": 1
+  },
   "/dizi/yalmiun-sarang-asya": {
     "group": "MEMNUN OLDUM",
     "last_season": 1,
@@ -123,30 +147,6 @@
     "group": "SANCTUARY: A WITCH'S TALE",
     "last_season": 2,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/ghosts-2021": {
-    "group": "GHOSTS",
-    "last_season": 5,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/kaesyeoro-asya": {
-    "group": "CA$HERO",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/veronika": {
-    "group": "VERONIKA",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/twelve-dates-til-christmas": {
-    "group": "TWELVE DATES 'TIL CHRISTMAS",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }

@@ -1,4 +1,10 @@
 {
+  "/diziler/stranger-things.html": {
+    "group": "STRANGER THINGS",
+    "last_season": 5,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "/diziler/percy-jackson-and-the-olympians.html": {
     "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 2,
@@ -69,12 +75,6 @@
     "group": "CASHERO",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/stranger-things.html": {
-    "group": "STRANGER THINGS",
-    "last_season": 5,
-    "last_episode": 7,
     "start_episode": 1
   }
 }
