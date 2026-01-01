@@ -1,4 +1,10 @@
 {
+  "/anime/theres-no-freaking-way-ill-be-your-lover-unless-sequel/": {
+    "group": "THERE’S NO FREAKING WAY I’LL BE YOUR LOVER! UNLESS… (SEQUEL)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/tamons-b-side/": {
     "group": "TAMON’S B-SIDE",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "GNOSIA",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/to-your-eternity-season-3/": {
-    "group": "TO YOUR ETERNITY SEASON 3",
-    "last_season": 1,
-    "last_episode": 13,
     "start_episode": 1
   }
 }

@@ -17,6 +17,12 @@
     "last_episode": 7,
     "start_episode": 1
   },
+  "/dizi/landman": {
+    "group": "LANDMAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/the-simpsons": {
     "group": "THE SIMPSONS",
     "last_season": 37,
@@ -147,12 +153,6 @@
     "group": "POWER BOOK IV: FORCE",
     "last_season": 3,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/happy-s-place": {
-    "group": "HAPPY'S PLACE",
-    "last_season": 2,
-    "last_episode": 6,
     "start_episode": 1
   }
 }

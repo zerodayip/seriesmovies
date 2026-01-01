@@ -1,4 +1,16 @@
 {
+  "/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan": {
+    "group": "KAGUYA-SAMA WA KOKURASETAI: OTONA E NO KAIDAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/tamon-kun-ima-docchi": {
+    "group": "TAMON-KUN IMA DOCCHI!?",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/yuusha-party-wo-oidasareta-kiyoubinbou": {
     "group": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
     "last_season": 1,
@@ -81,24 +93,6 @@
     "group": "XIAN WANG DE RICHANG SHENGHUO 5",
     "last_season": 1,
     "last_episode": 4.0,
-    "start_episode": 1
-  },
-  "/oshiete-galko-chan-natsuyasumi-tte-hontou-desu-ka": {
-    "group": "OSHIETE! GALKO-CHAN: NATSUYASUMI TTE HONTOU DESU KA?",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/oshiete-galko-chan": {
-    "group": "OSHIETE! GALKO-CHAN",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/si-vis-the-sound-of-heroes": {
-    "group": "SI-VIS: THE SOUND OF HEROES",
-    "last_season": 1,
-    "last_episode": 13.0,
     "start_episode": 1
   }
 }
