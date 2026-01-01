@@ -1,4 +1,7 @@
 {
+  "/dizi/stranger-things-izle-733360/": {
+    "group": "STRANGER THINGS"
+  },
   "/dizi/nice-to-not-meet-you/": {
     "group": "NICE TO NOT MEET YOU"
   },
@@ -19,9 +22,6 @@
   },
   "/dizi/pluribus/": {
     "group": "PLURIBUS"
-  },
-  "/dizi/stranger-things-izle-733360/": {
-    "group": "STRANGER THINGS"
   },
   "/dizi/power-book-iv-force-86/": {
     "group": "POWER BOOK IV: FORCE"
@@ -106,8 +106,5 @@
   },
   "/dizi/dmv-1/": {
     "group": "DMV"
-  },
-  "/dizi/gilmore-girls/": {
-    "group": "GILMORE KIZLARI"
   }
 }
