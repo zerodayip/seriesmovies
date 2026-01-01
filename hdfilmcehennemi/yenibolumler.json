@@ -2,6 +2,9 @@
   "/dizi/stranger-things-izle-733360/": {
     "group": "STRANGER THINGS"
   },
+  "/dizi/run-away-2026/": {
+    "group": "RUN AWAY"
+  },
   "/dizi/nice-to-not-meet-you/": {
     "group": "NICE TO NOT MEET YOU"
   },
@@ -31,9 +34,6 @@
   },
   "/dizi/the-mighty-nein/": {
     "group": "THE MIGHTY NEIN"
-  },
-  "/dizi/nightmares-of-nature/": {
-    "group": "NIGHTMARES OF NATURE"
   },
   "/dizi/sanctuary-a-witch-s-tale/": {
     "group": "SANCTUARY: A WITCH'S TALE"
@@ -103,8 +103,5 @@
   },
   "/dizi/crutch/": {
     "group": "CRUTCH"
-  },
-  "/dizi/dmv-1/": {
-    "group": "DMV"
   }
 }
