@@ -261,8 +261,7 @@ jobs:
           python private_py/series/setfilmizledizi/yenibolumler.py &
           python private_py/series/diziyo/yenibolumler.py &
           python private_py/series/dizipall/yenibolumler.py &
-          python private_py/series/hdfilmsite/yenibolumler.py &
-          python private_py/series/hdfilmcehennemi/yenibolumler.py &
+          python private_py/series/hdfilmsite/yenibolumler.py &        # HDFilmCehennemi simdilik kaldirildi
           python private_py/series/yabancidiziler/yenibolumler.py &
           python private_py/series/sezonlukdizi/yenibolumler.py &
           wait  # Tüm scriptlerin bitmesini bekle
