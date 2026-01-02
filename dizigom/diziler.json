@@ -1012,5 +1012,17 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi-izle/run-away": {
+    "group": "RUN AWAY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/my-korean-boyfriend": {
+    "group": "MY KOREAN BOYFRIEND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
