@@ -308,7 +308,7 @@
   "/nyaight-of-the-living-cat": {
     "group": "NYAIGHT OF THE LIVING CAT",
     "last_season": 1,
-    "last_episode": 8.0,
+    "last_episode": 10.0,
     "start_episode": 1
   },
   "/gachiakuta": {
@@ -632,7 +632,7 @@
   "/catseye": {
     "group": "CAT'S♥EYE",
     "last_season": 1,
-    "last_episode": 7.0,
+    "last_episode": 8.0,
     "start_episode": 1
   },
   "/lupin-iii-vs-cats-eye": {
@@ -1190,7 +1190,7 @@
   "/cengjing-you-yongshi": {
     "group": "CENGJING YOU YONGSHI",
     "last_season": 1,
-    "last_episode": 11.0,
+    "last_episode": 12.0,
     "start_episode": 1
   },
   "/chainsaw-man-movie-reze-hen": {
@@ -1316,7 +1316,7 @@
   "/yi-ren-zhi-xia-6": {
     "group": "YI REN ZHI XIA 6",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   }
 }
