@@ -1,74 +1,8 @@
 {
-  "/dizi-izle/my-korean-boyfriend": {
-    "group": "MY KOREAN BOYFRIEND",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/palm-royale": {
-    "group": "PALM ROYALE",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/its-florida-man": {
-    "group": "IT'S FLORIDA, MAN.",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/dynamite-kiss": {
-    "group": "DYNAMITE KISS",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-kardashians": {
-    "group": "THE KARDASHIANS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi-izle/cashero": {
-    "group": "CASHERO",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/made-in-korea": {
-    "group": "MADE IN KOREA",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/stranger-things": {
-    "group": "STRANGER THINGS",
-    "last_season": 5,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/idol-i": {
-    "group": "IDOL I",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/mayor-of-kingstown": {
-    "group": "MAYOR OF KINGSTOWN",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
   "/dizi-izle/run-away": {
     "group": "RUN AWAY",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/percy-jackson-and-the-olympians": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 2,
-    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/culinary-class-wars": {
@@ -83,16 +17,82 @@
     "last_episode": 8,
     "start_episode": 1
   },
+  "/dizi-izle/made-in-korea": {
+    "group": "MADE IN KOREA",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/idol-i": {
+    "group": "IDOL I",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/stranger-things": {
+    "group": "STRANGER THINGS",
+    "last_season": 5,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/dizi-izle/nice-to-not-meet-you": {
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
     "last_episode": 16,
     "start_episode": 1
   },
+  "/dizi-izle/dynamite-kiss": {
+    "group": "DYNAMITE KISS",
+    "last_season": 1,
+    "last_episode": 14,
+    "start_episode": 1
+  },
   "/dizi-izle/pro-bono": {
     "group": "PRO BONO",
     "last_season": 1,
     "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/palm-royale": {
+    "group": "PALM ROYALE",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/cashero": {
+    "group": "CASHERO",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/its-florida-man": {
+    "group": "IT'S FLORIDA, MAN.",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/my-korean-boyfriend": {
+    "group": "MY KOREAN BOYFRIEND",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-kardashians": {
+    "group": "THE KARDASHIANS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/mayor-of-kingstown": {
+    "group": "MAYOR OF KINGSTOWN",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   }
 }

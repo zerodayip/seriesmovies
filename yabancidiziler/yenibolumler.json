@@ -11,6 +11,18 @@
     "last_episode": 9,
     "start_episode": 1
   },
+  "/dizi/red-eye": {
+    "group": "Red Eye",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/shoresy": {
+    "group": "Shoresy",
+    "last_season": 5,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/dizi/synden": {
     "group": "Synden",
     "last_season": 1,

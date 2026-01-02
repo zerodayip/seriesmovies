@@ -35,6 +35,9 @@
   "/dizi/cashero/": {
     "group": "CASHERO"
   },
+  "/dizi/dispatches-from-elsewhere/": {
+    "group": "DISPATCHES FROM ELSEWHERE"
+  },
   "/dizi/sanctuary-a-witch-s-tale/": {
     "group": "SANCTUARY: A WITCH'S TALE"
   },
@@ -97,8 +100,5 @@
   },
   "/dizi/sean-combs-the-reckoning/": {
     "group": "SEAN COMBS: HESAPLAŞMA"
-  },
-  "/dizi/the-price-of-confession/": {
-    "group": "THE PRICE OF CONFESSION"
   }
 }
