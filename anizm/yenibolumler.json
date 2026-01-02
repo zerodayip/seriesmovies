@@ -1,4 +1,10 @@
 {
+  "/kakuriyo-no-yadomeshi-ni": {
+    "group": "KAKURIYO NO YADOMESHI NI",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
   "/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta-2026": {
     "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?) (2026)",
     "last_season": 1,
@@ -87,12 +93,6 @@
     "group": "ONE PUNCH MAN 3",
     "last_season": 1,
     "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/spy-x-family-season-3": {
-    "group": "SPY X FAMILY SEASON 3",
-    "last_season": 1,
-    "last_episode": 13.0,
     "start_episode": 1
   }
 }
