@@ -2,13 +2,13 @@
   "/dizi/dispatches-from-elsewhere": {
     "group": "DISPATCHES FROM ELSEWHERE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/yuzde-iki": {
     "group": "YÜZDE İKI",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/vicdansiz": {

@@ -2,25 +2,25 @@
   "/dizi/cat-s-eye": {
     "group": "Cat’s Eye",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/power-book-iv-force": {
     "group": "Power Book IV: Force",
     "last_season": 3,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/synden": {
     "group": "Synden",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/the-night-manager": {
     "group": "The Night Manager",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/amor-de-oficina": {
@@ -38,7 +38,7 @@
   "/dizi/meu-namorado-coreano": {
     "group": "Meu Namorado Coreano",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/run-away": {
