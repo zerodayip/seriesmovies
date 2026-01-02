@@ -5796,7 +5796,7 @@
   <programme start="20260102202500 +0000" stop="20260102205000 +0000" channel="GZT TV">
     <title>PANGVOSS</title>
   </programme>
-  <programme start="20260102205000 +0000" stop="20260103205900 +0000" channel="GZT TV">
+  <programme start="20260102205000 +0000" stop="20260102210000 +0000" channel="GZT TV">
     <title>FOOD TOUR</title>
   </programme>
   <programme start="20260101210000 +0000" stop="20260101220000 +0000" channel="VAV TV">
@@ -13233,49 +13233,49 @@
   <programme start="20260102150000 +0000" stop="20260102170000 +0000" channel="TRT SPOR RAW">
     <title>TAKTIK ANALIZ</title>
   </programme>
-  <programme start="20260102170000 +0000" stop="20260102180000 +0000" channel="4K TR: TRT SPOR HD">
+  <programme start="20260102170000 +0000" stop="20260102173000 +0000" channel="4K TR: TRT SPOR HD">
     <title>SPOR AKŞAMI</title>
   </programme>
-  <programme start="20260102170000 +0000" stop="20260102180000 +0000" channel="TRT SPOR">
+  <programme start="20260102170000 +0000" stop="20260102173000 +0000" channel="TRT SPOR">
     <title>SPOR AKŞAMI</title>
   </programme>
-  <programme start="20260102170000 +0000" stop="20260102180000 +0000" channel="TRT SPOR FHD">
+  <programme start="20260102170000 +0000" stop="20260102173000 +0000" channel="TRT SPOR FHD">
     <title>SPOR AKŞAMI</title>
   </programme>
-  <programme start="20260102170000 +0000" stop="20260102180000 +0000" channel="TRT SPOR HD">
+  <programme start="20260102170000 +0000" stop="20260102173000 +0000" channel="TRT SPOR HD">
     <title>SPOR AKŞAMI</title>
   </programme>
-  <programme start="20260102170000 +0000" stop="20260102180000 +0000" channel="TRT SPOR RAW">
+  <programme start="20260102170000 +0000" stop="20260102173000 +0000" channel="TRT SPOR RAW">
     <title>SPOR AKŞAMI</title>
   </programme>
-  <programme start="20260102180000 +0000" stop="20260102193000 +0000" channel="4K TR: TRT SPOR HD">
-    <title>TRANSFER GÜNDEMI</title>
+  <programme start="20260102173000 +0000" stop="20260102193000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>AL AHLI - AL NASSER</title>
   </programme>
-  <programme start="20260102180000 +0000" stop="20260102193000 +0000" channel="TRT SPOR">
-    <title>TRANSFER GÜNDEMI</title>
+  <programme start="20260102173000 +0000" stop="20260102193000 +0000" channel="TRT SPOR">
+    <title>AL AHLI - AL NASSER</title>
   </programme>
-  <programme start="20260102180000 +0000" stop="20260102193000 +0000" channel="TRT SPOR FHD">
-    <title>TRANSFER GÜNDEMI</title>
+  <programme start="20260102173000 +0000" stop="20260102193000 +0000" channel="TRT SPOR FHD">
+    <title>AL AHLI - AL NASSER</title>
   </programme>
-  <programme start="20260102180000 +0000" stop="20260102193000 +0000" channel="TRT SPOR HD">
-    <title>TRANSFER GÜNDEMI</title>
+  <programme start="20260102173000 +0000" stop="20260102193000 +0000" channel="TRT SPOR HD">
+    <title>AL AHLI - AL NASSER</title>
   </programme>
-  <programme start="20260102180000 +0000" stop="20260102193000 +0000" channel="TRT SPOR RAW">
-    <title>TRANSFER GÜNDEMI</title>
+  <programme start="20260102173000 +0000" stop="20260102193000 +0000" channel="TRT SPOR RAW">
+    <title>AL AHLI - AL NASSER</title>
   </programme>
-  <programme start="20260102193000 +0000" stop="20260102213000 +0000" channel="4K TR: TRT SPOR HD">
+  <programme start="20260102193000 +0000" stop="20260102210000 +0000" channel="4K TR: TRT SPOR HD">
     <title>İLERI ÜÇLÜ TRANSFER</title>
   </programme>
-  <programme start="20260102193000 +0000" stop="20260102213000 +0000" channel="TRT SPOR">
+  <programme start="20260102193000 +0000" stop="20260102210000 +0000" channel="TRT SPOR">
     <title>İLERI ÜÇLÜ TRANSFER</title>
   </programme>
-  <programme start="20260102193000 +0000" stop="20260102213000 +0000" channel="TRT SPOR FHD">
+  <programme start="20260102193000 +0000" stop="20260102210000 +0000" channel="TRT SPOR FHD">
     <title>İLERI ÜÇLÜ TRANSFER</title>
   </programme>
-  <programme start="20260102193000 +0000" stop="20260102213000 +0000" channel="TRT SPOR HD">
+  <programme start="20260102193000 +0000" stop="20260102210000 +0000" channel="TRT SPOR HD">
     <title>İLERI ÜÇLÜ TRANSFER</title>
   </programme>
-  <programme start="20260102193000 +0000" stop="20260102213000 +0000" channel="TRT SPOR RAW">
+  <programme start="20260102193000 +0000" stop="20260102210000 +0000" channel="TRT SPOR RAW">
     <title>İLERI ÜÇLÜ TRANSFER</title>
   </programme>
   <programme start="20260101210000 +0000" stop="20260102003500 +0000" channel="4K TR: TRT SPOR YILDIZ">
@@ -14847,13 +14847,22 @@
   <programme start="20260102161500 +0000" stop="20260102170000 +0000" channel="SARAN SPORT 1">
     <title>MAÇA DOĞRU</title>
   </programme>
-  <programme start="20260102170000 +0000" stop="20260102210000 +0000" channel="4K TR: S SPORT">
+  <programme start="20260102170000 +0000" stop="20260102190000 +0000" channel="4K TR: S SPORT">
+    <title>ANADOLU EFES - KIZILYILDIZ</title>
+  </programme>
+  <programme start="20260102170000 +0000" stop="20260102190000 +0000" channel="S SPORT">
+    <title>ANADOLU EFES - KIZILYILDIZ</title>
+  </programme>
+  <programme start="20260102170000 +0000" stop="20260102190000 +0000" channel="SARAN SPORT 1">
+    <title>ANADOLU EFES - KIZILYILDIZ</title>
+  </programme>
+  <programme start="20260102190000 +0000" stop="20260102210000 +0000" channel="4K TR: S SPORT">
     <title>BASKONIA - FENERBAHÇE BEKO</title>
   </programme>
-  <programme start="20260102170000 +0000" stop="20260102210000 +0000" channel="S SPORT">
+  <programme start="20260102190000 +0000" stop="20260102210000 +0000" channel="S SPORT">
     <title>BASKONIA - FENERBAHÇE BEKO</title>
   </programme>
-  <programme start="20260102170000 +0000" stop="20260102210000 +0000" channel="SARAN SPORT 1">
+  <programme start="20260102190000 +0000" stop="20260102210000 +0000" channel="SARAN SPORT 1">
     <title>BASKONIA - FENERBAHÇE BEKO</title>
   </programme>
   <programme start="20260101210000 +0000" stop="20260101230000 +0000" channel="SARAN SPORT 2">
@@ -35149,7 +35158,7 @@
     <title>İYILIK YOLCULARI</title>
   </programme>
   <programme start="20260102150000 +0000" stop="20260102163000 +0000" channel="KONTV">
-    <title>DÜŞÜNCE MELTEMI</title>
+    <title>HAYAT VAR</title>
   </programme>
   <programme start="20260102163000 +0000" stop="20260102174000 +0000" channel="KONTV">
     <title>ANA HABER</title>
@@ -35161,7 +35170,7 @@
     <title>CAHIT NAZLI İLE GÖNÜL DILI</title>
   </programme>
   <programme start="20260102200000 +0000" stop="20260102210000 +0000" channel="KONTV">
-    <title>İYILIKLE SEVINDIR: ÖZEL GAZZE'DE DÜĞÜNÜMÜZ VAR</title>
+    <title>TÜRKÜ FILMI</title>
   </programme>
   <programme start="20260101210000 +0000" stop="20260102050000 +0000" channel="KANAL 23">
     <title>GECE GÖRÜŞÜ</title>
