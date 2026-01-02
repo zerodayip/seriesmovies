@@ -1,4 +1,16 @@
 {
+  "/dizi/dispatches-from-elsewhere": {
+    "group": "DISPATCHES FROM ELSEWHERE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/yuzde-iki": {
+    "group": "YÜZDE İKI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/vicdansiz": {
     "group": "VICDANSIZ",
     "last_season": 1,
@@ -135,18 +147,6 @@
     "group": "KI-SEU-NEUN GWAEN-HI HAE-SEO",
     "last_season": 1,
     "last_episode": 14,
-    "start_episode": 1
-  },
-  "/dizi/the-golden-egg-asya": {
-    "group": "THE GOLDEN EGG",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi/sanctuary-a-witch-s-tale": {
-    "group": "SANCTUARY: A WITCH'S TALE",
-    "last_season": 2,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

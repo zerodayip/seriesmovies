@@ -1,4 +1,16 @@
 {
+  "/diziler/run-away.html": {
+    "group": "RUN AWAY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/cats-eye.html": {
+    "group": "CAT'S EYE",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "/diziler/stranger-things.html": {
     "group": "STRANGER THINGS",
     "last_season": 5,
@@ -63,18 +75,6 @@
     "group": "TO YOUR ETERNITY",
     "last_season": 3,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "/diziler/spy-x-family.html": {
-    "group": "SPY X FAMILY",
-    "last_season": 3,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/diziler/cashero.html": {
-    "group": "CASHERO",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }

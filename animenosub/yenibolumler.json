@@ -1,4 +1,10 @@
 {
+  "/anime/cats-eye/": {
+    "group": "CAT’S EYE",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "/anime/mf-ghost-season-3/": {
     "group": "MF GHOST SEASON 3",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
     "last_season": 1,
     "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/gnosia/": {
-    "group": "GNOSIA",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }

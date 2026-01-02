@@ -1,4 +1,10 @@
 {
+  "/dizi/power-book-iv-force-86/": {
+    "group": "POWER BOOK IV: FORCE"
+  },
+  "/dizi/land-of-sin/": {
+    "group": "GÜNAH - SYNDEN"
+  },
   "/dizi/stranger-things-izle-733360/": {
     "group": "STRANGER THINGS"
   },
@@ -26,14 +32,8 @@
   "/dizi/pluribus/": {
     "group": "PLURIBUS"
   },
-  "/dizi/power-book-iv-force-86/": {
-    "group": "POWER BOOK IV: FORCE"
-  },
   "/dizi/cashero/": {
     "group": "CASHERO"
-  },
-  "/dizi/the-mighty-nein/": {
-    "group": "THE MIGHTY NEIN"
   },
   "/dizi/sanctuary-a-witch-s-tale/": {
     "group": "SANCTUARY: A WITCH'S TALE"
@@ -100,8 +100,5 @@
   },
   "/dizi/the-price-of-confession/": {
     "group": "THE PRICE OF CONFESSION"
-  },
-  "/dizi/crutch/": {
-    "group": "CRUTCH"
   }
 }
