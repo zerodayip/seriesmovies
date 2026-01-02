@@ -271,6 +271,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+          git config status.showUntrackedFiles no
           git add **/*.json || echo "No JSON files"
           git commit -m "Tüm JSON dosyaları güncellendi [auto]" || echo "No changes"
           git push origin main
