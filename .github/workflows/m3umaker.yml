@@ -425,7 +425,7 @@ jobs:
   part5:
     name: Step 16-to-19 Çalıştır
     runs-on: ubuntu-latest
-    needs: part4
+  #  needs: part4
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
