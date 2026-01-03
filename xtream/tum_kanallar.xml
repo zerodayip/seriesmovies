@@ -11907,23 +11907,23 @@
   <programme start="20260103103000 +0000" stop="20260103110000 +0000" channel="TVNET HD">
     <title>DÜNYADAN TÜRKIYE</title>
   </programme>
-  <programme start="20260103110000 +0000" stop="20260103112000 +0000" channel="4K TR: TVNET HD">
+  <programme start="20260103110000 +0000" stop="20260103114000 +0000" channel="4K TR: TVNET HD">
     <title>HABER</title>
   </programme>
-  <programme start="20260103110000 +0000" stop="20260103112000 +0000" channel="TVNET">
+  <programme start="20260103110000 +0000" stop="20260103114000 +0000" channel="TVNET">
     <title>HABER</title>
   </programme>
-  <programme start="20260103110000 +0000" stop="20260103112000 +0000" channel="TVNET HD">
+  <programme start="20260103110000 +0000" stop="20260103114000 +0000" channel="TVNET HD">
     <title>HABER</title>
   </programme>
-  <programme start="20260103112000 +0000" stop="20260103120000 +0000" channel="4K TR: TVNET HD">
-    <title>KETEBE</title>
+  <programme start="20260103114000 +0000" stop="20260103120000 +0000" channel="4K TR: TVNET HD">
+    <title>BELGESEL KUŞAĞI</title>
   </programme>
-  <programme start="20260103112000 +0000" stop="20260103120000 +0000" channel="TVNET">
-    <title>KETEBE</title>
+  <programme start="20260103114000 +0000" stop="20260103120000 +0000" channel="TVNET">
+    <title>BELGESEL KUŞAĞI</title>
   </programme>
-  <programme start="20260103112000 +0000" stop="20260103120000 +0000" channel="TVNET HD">
-    <title>KETEBE</title>
+  <programme start="20260103114000 +0000" stop="20260103120000 +0000" channel="TVNET HD">
+    <title>BELGESEL KUŞAĞI</title>
   </programme>
   <programme start="20260103120000 +0000" stop="20260103123000 +0000" channel="4K TR: TVNET HD">
     <title>HABER</title>
@@ -12070,13 +12070,13 @@
     <title>BILMENIZ GEREKEN 7 ŞEY</title>
   </programme>
   <programme start="20260103193000 +0000" stop="20260103203000 +0000" channel="4K TR: TVNET HD">
-    <title>DÜŞÜNMEYE DEĞER</title>
+    <title>BELGESEL KUŞAĞI</title>
   </programme>
   <programme start="20260103193000 +0000" stop="20260103203000 +0000" channel="TVNET">
-    <title>DÜŞÜNMEYE DEĞER</title>
+    <title>BELGESEL KUŞAĞI</title>
   </programme>
   <programme start="20260103193000 +0000" stop="20260103203000 +0000" channel="TVNET HD">
-    <title>DÜŞÜNMEYE DEĞER</title>
+    <title>BELGESEL KUŞAĞI</title>
   </programme>
   <programme start="20260103203000 +0000" stop="20260103210000 +0000" channel="4K TR: TVNET HD">
     <title>BELGESEL KUŞAĞI</title>
