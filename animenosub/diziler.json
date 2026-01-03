@@ -830,7 +830,7 @@
   "/anime/sentenced-to-be-a-hero/": {
     "group": "SENTENCED TO BE A HERO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/chained-soldier-season-2-uncensored/": {
@@ -926,7 +926,7 @@
   "/anime/fate-strange-fake/": {
     "group": "FATE/STRANGE FAKE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/fate-strange-fake-dub/": {
@@ -938,7 +938,7 @@
   "/anime/fate-strange-fake-whispers-of-dawn/": {
     "group": "FATE/STRANGE FAKE: WHISPERS OF DAWN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
