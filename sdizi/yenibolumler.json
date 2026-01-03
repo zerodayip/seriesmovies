@@ -1,4 +1,16 @@
 {
+  "/diziler/elsbeth.html": {
+    "group": "ELSBETH",
+    "last_season": 3,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/ghosts.html": {
+    "group": "GHOSTS",
+    "last_season": 5,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/diziler/run-away.html": {
     "group": "RUN AWAY",
     "last_season": 1,
@@ -69,12 +81,6 @@
     "group": "AMPHIBIA",
     "last_season": 3,
     "last_episode": 18,
-    "start_episode": 1
-  },
-  "/diziler/to-your-eternity.html": {
-    "group": "TO YOUR ETERNITY",
-    "last_season": 3,
-    "last_episode": 13,
     "start_episode": 1
   }
 }

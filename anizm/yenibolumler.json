@@ -1,4 +1,10 @@
 {
+  "/koi-wa-futago-de-warikirenai": {
+    "group": "KOI WA FUTAGO DE WARIKIRENAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/mf-ghost-3rd-season": {
     "group": "MF GHOST 3RD SEASON",
     "last_season": 1,
@@ -87,12 +93,6 @@
     "group": "AO NO MIBURO: SERIZAWA ANSATSU-HEN",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/nukitashi-the-animation-specials": {
-    "group": "NUKITASHI THE ANIMATION SPECIALS",
-    "last_season": 1,
-    "last_episode": 4.0,
     "start_episode": 1
   }
 }
