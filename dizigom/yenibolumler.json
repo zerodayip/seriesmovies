@@ -20,13 +20,13 @@
   "/dizi-izle/time-flies": {
     "group": "TIME FLIES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/cats-eye": {
     "group": "CAT'S EYE",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/nice-to-not-meet-you": {
@@ -38,7 +38,7 @@
   "/dizi-izle/land-of-sin": {
     "group": "LAND OF SIN (SYNDEN)",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/percy-jackson-and-the-olympians": {
@@ -50,7 +50,7 @@
   "/dizi-izle/surely-tomorrow": {
     "group": "SURELY TOMORROW",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi-izle/idol-i": {
@@ -62,7 +62,7 @@
   "/dizi-izle/members-only-palm-beach": {
     "group": "MEMBERS ONLY: PALM BEACH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/run-away": {
@@ -74,7 +74,7 @@
   "/dizi-izle/pro-bono": {
     "group": "PRO BONO",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi-izle/culinary-class-wars": {
