@@ -1476,8 +1476,26 @@
   <programme start="20260103115600 +0000" stop="20260103141500 +0000" channel="TABII TV">
     <title>MASUMLAR APARTMANI</title>
   </programme>
-  <programme start="20260103141500 +0000" stop="20260104160000 +0000" channel="TABII TV">
+  <programme start="20260103141500 +0000" stop="20260103164200 +0000" channel="TABII TV">
     <title>EN SON BABALAR DUYAR</title>
+  </programme>
+  <programme start="20260103164200 +0000" stop="20260103172500 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20260103172500 +0000" stop="20260103180900 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20260103180900 +0000" stop="20260103185200 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20260103185200 +0000" stop="20260103194200 +0000" channel="TABII TV">
+    <title>KUZENLERIM</title>
+  </programme>
+  <programme start="20260103194200 +0000" stop="20260103202900 +0000" channel="TABII TV">
+    <title>YEDI NUMARA</title>
+  </programme>
+  <programme start="20260103202900 +0000" stop="20260103211600 +0000" channel="TABII TV">
+    <title>YEDI NUMARA</title>
   </programme>
   <programme start="20260102224500 +0000" stop="20260103001500 +0000" channel="4K TR: S NEMA YERL HD">
     <title>DABBE 2</title>
@@ -5952,8 +5970,8 @@
   <programme start="20260103201200 +0000" stop="20260103204500 +0000" channel="GZT TV">
     <title>FOOD TOUR</title>
   </programme>
-  <programme start="20260103204500 +0000" stop="20260104205900 +0000" channel="GZT TV">
-    <title>HALIL ÇIN'DE</title>
+  <programme start="20260103204500 +0000" stop="20260103210000 +0000" channel="GZT TV">
+    <title>GZT TV</title>
   </programme>
   <programme start="20260102210000 +0000" stop="20260102220000 +0000" channel="VAV TV">
     <title>SELÇUKLULAR ÇAĞI</title>
@@ -33126,8 +33144,8 @@
   <programme start="20260103173000 +0000" stop="20260103200000 +0000" channel="Bi Kanal">
     <title>CAN BAĞI</title>
   </programme>
-  <programme start="20260103200000 +0000" stop="20260103213000 +0000" channel="Bi Kanal">
-    <title>AY METEORU</title>
+  <programme start="20260103200000 +0000" stop="20260103210000 +0000" channel="Bi Kanal">
+    <title>BI KANAL</title>
   </programme>
   <programme start="20260103093000 +0000" stop="20260103120000 +0000" channel="4K TR: MELTEM TV">
     <title>YAĞMUR ZEYNEP TOPRAK ILE DÜNYANIN LEZZETLERI</title>
