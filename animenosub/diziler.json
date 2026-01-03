@@ -910,5 +910,35 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/anime/the-daily-life-of-a-part-time-torturer/": {
+    "group": "THE DAILY LIFE OF A PART-TIME TORTURER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/kunon-the-sorcerer-can-see/": {
+    "group": "KUNON THE SORCERER CAN SEE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/fate-strange-fake/": {
+    "group": "FATE/STRANGE FAKE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/fate-strange-fake-dub/": {
+    "group": "FATE/STRANGE FAKE DUB",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/fate-strange-fake-whispers-of-dawn/": {
+    "group": "FATE/STRANGE FAKE: WHISPERS OF DAWN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

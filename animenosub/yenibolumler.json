@@ -1,4 +1,40 @@
 {
+  "/anime/the-daily-life-of-a-part-time-torturer/": {
+    "group": "THE DAILY LIFE OF A PART-TIME TORTURER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/kunon-the-sorcerer-can-see/": {
+    "group": "KUNON THE SORCERER CAN SEE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/fate-strange-fake/": {
+    "group": "FATE/STRANGE FAKE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/fate-strange-fake-dub/": {
+    "group": "FATE/STRANGE FAKE DUB",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/fate-strange-fake-whispers-of-dawn/": {
+    "group": "FATE/STRANGE FAKE: WHISPERS OF DAWN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/sentenced-to-be-a-hero/": {
+    "group": "SENTENCED TO BE A HERO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/cats-eye/": {
     "group": "CAT’S EYE",
     "last_season": 1,
@@ -81,42 +117,6 @@
     "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/one-punch-man-season-3/": {
-    "group": "ONE-PUNCH MAN SEASON 3",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/the-fated-magical-princess-who-made-me-a-princess/": {
-    "group": "THE FATED MAGICAL PRINCESS: WHO MADE ME A PRINCESS",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "/anime/one-piece/": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 1155,
-    "start_episode": 1130
-  },
-  "/anime/lil-miss-vampire-cant-suck-right/": {
-    "group": "LI’L MISS VAMPIRE CAN’T SUCK RIGHT",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/kingdom-season-6/": {
-    "group": "KINGDOM: SEASON 6",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/tojima-wants-to-be-a-kamen-rider/": {
-    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
-    "last_season": 1,
-    "last_episode": 13,
     "start_episode": 1
   }
 }

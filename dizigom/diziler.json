@@ -1030,5 +1030,23 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi-izle/time-flies": {
+    "group": "TIME FLIES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/land-of-sin": {
+    "group": "LAND OF SIN (SYNDEN)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/members-only-palm-beach": {
+    "group": "MEMBERS ONLY: PALM BEACH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

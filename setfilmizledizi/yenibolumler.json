@@ -1,4 +1,16 @@
 {
+  "/dizi/halef/": {
+    "group": "HALEF",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/spartacus-house-of-ashur/": {
+    "group": "SPARTACUS: HOUSE OF ASHUR",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
   "/dizi/jasmine/": {
     "group": "JASMINE",
     "last_season": 1,
@@ -33,48 +45,6 @@
     "group": "STRANGER THINGS",
     "last_season": 5,
     "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi/rick-and-morty/": {
-    "group": "RICK AND MORTY",
-    "last_season": 8,
-    "last_episode": 11,
-    "start_episode": 1
-  },
-  "/dizi/nice-to-not-meet-you/": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "/dizi/surely-tomorrow/": {
-    "group": "SURELY TOMORROW",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/the-crowded-room/": {
-    "group": "THE CROWDED ROOM",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/defending-jacob/": {
-    "group": "DEFENDING JACOB",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/spartacus-house-of-ashur/": {
-    "group": "SPARTACUS: HOUSE OF ASHUR",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/cashero/": {
-    "group": "CASHERO",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }

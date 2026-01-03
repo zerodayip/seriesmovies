@@ -1,4 +1,10 @@
 {
+  "/diziler/surely-tomorrow.html": {
+    "group": "SURELY TOMORROW",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/diziler/elsbeth.html": {
     "group": "ELSBETH",
     "last_season": 3,
@@ -70,17 +76,5 @@
     "last_season": 1,
     "last_episode": 1155,
     "start_episode": 1130
-  },
-  "/diziler/surely-tomorrow.html": {
-    "group": "SURELY TOMORROW",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/amphibia-izle.html": {
-    "group": "AMPHIBIA",
-    "last_season": 3,
-    "last_episode": 18,
-    "start_episode": 1
   }
 }
