@@ -1,50 +1,8 @@
 {
-  "/dizi/halef/": {
-    "group": "HALEF",
+  "/dizi/lie-to-me/": {
+    "group": "LIE TO ME",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi/spartacus-house-of-ashur/": {
-    "group": "SPARTACUS: HOUSE OF ASHUR",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/jasmine/": {
-    "group": "JASMINE",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi/percy-jackson-and-the-olympians/": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/tracker/": {
-    "group": "TRACKER",
-    "last_season": 3,
-    "last_episode": 20,
-    "start_episode": 1
-  },
-  "/dizi/palm-royale/": {
-    "group": "PALM ROYALE",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/sandokan-the-pirate-prince/": {
-    "group": "SANDOKAN: THE PIRATE PRINCE",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/stranger-things/": {
-    "group": "STRANGER THINGS",
-    "last_season": 5,
-    "last_episode": 9,
     "start_episode": 1
   }
 }

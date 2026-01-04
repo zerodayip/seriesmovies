@@ -1,4 +1,7 @@
 {
+  "/dizi/red-eye-hdfc/": {
+    "group": "RED EYE"
+  },
   "/dizi/power-book-iv-force-86/": {
     "group": "POWER BOOK IV: FORCE"
   },
@@ -29,17 +32,14 @@
   "/dizi/surely-tomorrow/": {
     "group": "ELBET YARIN"
   },
+  "/dizi/dispatches-from-elsewhere/": {
+    "group": "DISPATCHES FROM ELSEWHERE"
+  },
   "/dizi/the-copenhagen-test/": {
     "group": "THE COPENHAGEN TEST"
   },
-  "/dizi/pluribus/": {
-    "group": "PLURIBUS"
-  },
   "/dizi/cashero/": {
     "group": "CASHERO"
-  },
-  "/dizi/dispatches-from-elsewhere/": {
-    "group": "DISPATCHES FROM ELSEWHERE"
   },
   "/dizi/heroes-2006/": {
     "group": "HEROES"
