@@ -1,4 +1,10 @@
 {
+  "/majutsushi-kunon-wa-mieteiru": {
+    "group": "MAJUTSUSHI KUNON WA MIETEIRU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/xian-wang-de-richang-shenghuo-5": {
     "group": "XIAN WANG DE RICHANG SHENGHUO 5",
     "last_season": 1,
@@ -81,18 +87,6 @@
     "group": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
     "last_season": 1,
     "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/hyakuemu": {
-    "group": "HYAKUEMU.",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/chitose-kun-wa-ramune-bin-no-naka": {
-    "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
-    "last_season": 1,
-    "last_episode": 10.0,
     "start_episode": 1
   }
 }
