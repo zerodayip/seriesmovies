@@ -1,38 +1,38 @@
 {
-  "/dizi/cat-s-eye": {
-    "group": "Cat’s Eye",
+  "/dizi/de-big-fuck-up": {
+    "group": "De Big Fuck-up",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/it-s-florida-man": {
+    "group": "It’s Florida, Man",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi/juice": {
+    "group": "Juice",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/niebo-rok-w-piekle": {
+    "group": "Niebo. Rok w piekle",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/pro-bono": {
+    "group": "pro bono",
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi/power-book-iv-force": {
-    "group": "Power Book IV: Force",
-    "last_season": 3,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi/red-eye": {
-    "group": "Red Eye",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/shoresy": {
-    "group": "Shoresy",
-    "last_season": 5,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/synden": {
-    "group": "Synden",
+  "/dizi/surely-tomorrow": {
+    "group": "Surely Tomorrow",
     "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/the-night-manager": {
-    "group": "The Night Manager",
-    "last_season": 2,
-    "last_episode": 2,
+    "last_episode": 8,
     "start_episode": 1
   }
 }

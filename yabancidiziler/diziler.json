@@ -412,5 +412,23 @@
     "last_season": 2,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/de-big-fuck-up": {
+    "group": "De Big Fuck-up",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/juice": {
+    "group": "Juice",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/niebo-rok-w-piekle": {
+    "group": "Niebo. Rok w piekle",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
