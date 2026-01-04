@@ -2,37 +2,37 @@
   "/dizi/de-big-fuck-up": {
     "group": "De Big Fuck-up",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/it-s-florida-man": {
     "group": "It’s Florida, Man",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/juice": {
     "group": "Juice",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/niebo-rok-w-piekle": {
     "group": "Niebo. Rok w piekle",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/pro-bono": {
     "group": "pro bono",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/surely-tomorrow": {
     "group": "Surely Tomorrow",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   }
 }
