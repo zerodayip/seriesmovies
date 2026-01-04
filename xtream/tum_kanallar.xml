@@ -14154,26 +14154,341 @@
   <programme start="20260103210500 +0000" stop="20260103225000 +0000" channel="TABII SPOR 1">
     <title>AJAX - GALATASARAY</title>
   </programme>
-  <programme start="20260103225000 +0000" stop="20260105000000 +0000" channel="TABII SPOR 1 4K">
+  <programme start="20260103225000 +0000" stop="20260104095500 +0000" channel="TABII SPOR 1 4K">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260103225000 +0000" stop="20260105000000 +0000" channel="TABII SPOR 1 720P">
+  <programme start="20260103225000 +0000" stop="20260104095500 +0000" channel="TABII SPOR 1 720P">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260103225000 +0000" stop="20260105000000 +0000" channel="TABII SPOR 1 UHD">
+  <programme start="20260103225000 +0000" stop="20260104095500 +0000" channel="TABII SPOR 1 UHD">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260103225000 +0000" stop="20260105000000 +0000" channel="TABII SPOR HD">
+  <programme start="20260103225000 +0000" stop="20260104095500 +0000" channel="TABII SPOR HD">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260103225000 +0000" stop="20260105000000 +0000" channel="TABII SPOR SD">
+  <programme start="20260103225000 +0000" stop="20260104095500 +0000" channel="TABII SPOR SD">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260103225000 +0000" stop="20260105000000 +0000" channel="TABII SPOR">
+  <programme start="20260103225000 +0000" stop="20260104095500 +0000" channel="TABII SPOR">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260103225000 +0000" stop="20260105000000 +0000" channel="TABII SPOR 1">
+  <programme start="20260103225000 +0000" stop="20260104095500 +0000" channel="TABII SPOR 1">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
+  </programme>
+  <programme start="20260104095500 +0000" stop="20260104100500 +0000" channel="TABII SPOR 1 4K">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104095500 +0000" stop="20260104100500 +0000" channel="TABII SPOR 1 720P">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104095500 +0000" stop="20260104100500 +0000" channel="TABII SPOR 1 UHD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104095500 +0000" stop="20260104100500 +0000" channel="TABII SPOR HD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104095500 +0000" stop="20260104100500 +0000" channel="TABII SPOR SD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104095500 +0000" stop="20260104100500 +0000" channel="TABII SPOR">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104095500 +0000" stop="20260104100500 +0000" channel="TABII SPOR 1">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104100500 +0000" stop="20260104101000 +0000" channel="TABII SPOR 1 4K">
+    <title>ONSUZ ASLA 6. BÖLÜM</title>
+  </programme>
+  <programme start="20260104100500 +0000" stop="20260104101000 +0000" channel="TABII SPOR 1 720P">
+    <title>ONSUZ ASLA 6. BÖLÜM</title>
+  </programme>
+  <programme start="20260104100500 +0000" stop="20260104101000 +0000" channel="TABII SPOR 1 UHD">
+    <title>ONSUZ ASLA 6. BÖLÜM</title>
+  </programme>
+  <programme start="20260104100500 +0000" stop="20260104101000 +0000" channel="TABII SPOR HD">
+    <title>ONSUZ ASLA 6. BÖLÜM</title>
+  </programme>
+  <programme start="20260104100500 +0000" stop="20260104101000 +0000" channel="TABII SPOR SD">
+    <title>ONSUZ ASLA 6. BÖLÜM</title>
+  </programme>
+  <programme start="20260104100500 +0000" stop="20260104101000 +0000" channel="TABII SPOR">
+    <title>ONSUZ ASLA 6. BÖLÜM</title>
+  </programme>
+  <programme start="20260104100500 +0000" stop="20260104101000 +0000" channel="TABII SPOR 1">
+    <title>ONSUZ ASLA 6. BÖLÜM</title>
+  </programme>
+  <programme start="20260104101000 +0000" stop="20260104110000 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104101000 +0000" stop="20260104110000 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104101000 +0000" stop="20260104110000 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104101000 +0000" stop="20260104110000 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104101000 +0000" stop="20260104110000 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104101000 +0000" stop="20260104110000 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104101000 +0000" stop="20260104110000 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104110000 +0000" stop="20260104122500 +0000" channel="TABII SPOR 1 4K">
+    <title>ŞAMPIYONLAR LIGI 6. HAFTA ÖZETLER</title>
+  </programme>
+  <programme start="20260104110000 +0000" stop="20260104122500 +0000" channel="TABII SPOR 1 720P">
+    <title>ŞAMPIYONLAR LIGI 6. HAFTA ÖZETLER</title>
+  </programme>
+  <programme start="20260104110000 +0000" stop="20260104122500 +0000" channel="TABII SPOR 1 UHD">
+    <title>ŞAMPIYONLAR LIGI 6. HAFTA ÖZETLER</title>
+  </programme>
+  <programme start="20260104110000 +0000" stop="20260104122500 +0000" channel="TABII SPOR HD">
+    <title>ŞAMPIYONLAR LIGI 6. HAFTA ÖZETLER</title>
+  </programme>
+  <programme start="20260104110000 +0000" stop="20260104122500 +0000" channel="TABII SPOR SD">
+    <title>ŞAMPIYONLAR LIGI 6. HAFTA ÖZETLER</title>
+  </programme>
+  <programme start="20260104110000 +0000" stop="20260104122500 +0000" channel="TABII SPOR">
+    <title>ŞAMPIYONLAR LIGI 6. HAFTA ÖZETLER</title>
+  </programme>
+  <programme start="20260104110000 +0000" stop="20260104122500 +0000" channel="TABII SPOR 1">
+    <title>ŞAMPIYONLAR LIGI 6. HAFTA ÖZETLER</title>
+  </programme>
+  <programme start="20260104122500 +0000" stop="20260104124000 +0000" channel="TABII SPOR 1 4K">
+    <title>YAPABILIR MISIN? TOKAT</title>
+  </programme>
+  <programme start="20260104122500 +0000" stop="20260104124000 +0000" channel="TABII SPOR 1 720P">
+    <title>YAPABILIR MISIN? TOKAT</title>
+  </programme>
+  <programme start="20260104122500 +0000" stop="20260104124000 +0000" channel="TABII SPOR 1 UHD">
+    <title>YAPABILIR MISIN? TOKAT</title>
+  </programme>
+  <programme start="20260104122500 +0000" stop="20260104124000 +0000" channel="TABII SPOR HD">
+    <title>YAPABILIR MISIN? TOKAT</title>
+  </programme>
+  <programme start="20260104122500 +0000" stop="20260104124000 +0000" channel="TABII SPOR SD">
+    <title>YAPABILIR MISIN? TOKAT</title>
+  </programme>
+  <programme start="20260104122500 +0000" stop="20260104124000 +0000" channel="TABII SPOR">
+    <title>YAPABILIR MISIN? TOKAT</title>
+  </programme>
+  <programme start="20260104122500 +0000" stop="20260104124000 +0000" channel="TABII SPOR 1">
+    <title>YAPABILIR MISIN? TOKAT</title>
+  </programme>
+  <programme start="20260104124000 +0000" stop="20260104130500 +0000" channel="TABII SPOR 1 4K">
+    <title>ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104124000 +0000" stop="20260104130500 +0000" channel="TABII SPOR 1 720P">
+    <title>ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104124000 +0000" stop="20260104130500 +0000" channel="TABII SPOR 1 UHD">
+    <title>ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104124000 +0000" stop="20260104130500 +0000" channel="TABII SPOR HD">
+    <title>ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104124000 +0000" stop="20260104130500 +0000" channel="TABII SPOR SD">
+    <title>ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104124000 +0000" stop="20260104130500 +0000" channel="TABII SPOR">
+    <title>ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104124000 +0000" stop="20260104130500 +0000" channel="TABII SPOR 1">
+    <title>ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260104130500 +0000" stop="20260104144500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'MIDJYLLAND - GENT'</title>
+  </programme>
+  <programme start="20260104130500 +0000" stop="20260104144500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'MIDJYLLAND - GENT'</title>
+  </programme>
+  <programme start="20260104130500 +0000" stop="20260104144500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'MIDJYLLAND - GENT'</title>
+  </programme>
+  <programme start="20260104130500 +0000" stop="20260104144500 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'MIDJYLLAND - GENT'</title>
+  </programme>
+  <programme start="20260104130500 +0000" stop="20260104144500 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'MIDJYLLAND - GENT'</title>
+  </programme>
+  <programme start="20260104130500 +0000" stop="20260104144500 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'MIDJYLLAND - GENT'</title>
+  </programme>
+  <programme start="20260104130500 +0000" stop="20260104144500 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'MIDJYLLAND - GENT'</title>
+  </programme>
+  <programme start="20260104144500 +0000" stop="20260104145500 +0000" channel="TABII SPOR 1 4K">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104144500 +0000" stop="20260104145500 +0000" channel="TABII SPOR 1 720P">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104144500 +0000" stop="20260104145500 +0000" channel="TABII SPOR 1 UHD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104144500 +0000" stop="20260104145500 +0000" channel="TABII SPOR HD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104144500 +0000" stop="20260104145500 +0000" channel="TABII SPOR SD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104144500 +0000" stop="20260104145500 +0000" channel="TABII SPOR">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104144500 +0000" stop="20260104145500 +0000" channel="TABII SPOR 1">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104145500 +0000" stop="20260104163500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTIC - ROMA'</title>
+  </programme>
+  <programme start="20260104145500 +0000" stop="20260104163500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTIC - ROMA'</title>
+  </programme>
+  <programme start="20260104145500 +0000" stop="20260104163500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTIC - ROMA'</title>
+  </programme>
+  <programme start="20260104145500 +0000" stop="20260104163500 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTIC - ROMA'</title>
+  </programme>
+  <programme start="20260104145500 +0000" stop="20260104163500 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTIC - ROMA'</title>
+  </programme>
+  <programme start="20260104145500 +0000" stop="20260104163500 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTIC - ROMA'</title>
+  </programme>
+  <programme start="20260104145500 +0000" stop="20260104163500 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTIC - ROMA'</title>
+  </programme>
+  <programme start="20260104163500 +0000" stop="20260104164500 +0000" channel="TABII SPOR 1 4K">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104163500 +0000" stop="20260104164500 +0000" channel="TABII SPOR 1 720P">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104163500 +0000" stop="20260104164500 +0000" channel="TABII SPOR 1 UHD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104163500 +0000" stop="20260104164500 +0000" channel="TABII SPOR HD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104163500 +0000" stop="20260104164500 +0000" channel="TABII SPOR SD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104163500 +0000" stop="20260104164500 +0000" channel="TABII SPOR">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104163500 +0000" stop="20260104164500 +0000" channel="TABII SPOR 1">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104164500 +0000" stop="20260104182500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260104164500 +0000" stop="20260104182500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260104164500 +0000" stop="20260104182500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260104164500 +0000" stop="20260104182500 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260104164500 +0000" stop="20260104182500 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260104164500 +0000" stop="20260104182500 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260104164500 +0000" stop="20260104182500 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+  </programme>
+  <programme start="20260104182500 +0000" stop="20260104183500 +0000" channel="TABII SPOR 1 4K">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104182500 +0000" stop="20260104183500 +0000" channel="TABII SPOR 1 720P">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104182500 +0000" stop="20260104183500 +0000" channel="TABII SPOR 1 UHD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104182500 +0000" stop="20260104183500 +0000" channel="TABII SPOR HD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104182500 +0000" stop="20260104183500 +0000" channel="TABII SPOR SD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104182500 +0000" stop="20260104183500 +0000" channel="TABII SPOR">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104182500 +0000" stop="20260104183500 +0000" channel="TABII SPOR 1">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104183500 +0000" stop="20260104201500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+  </programme>
+  <programme start="20260104183500 +0000" stop="20260104201500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+  </programme>
+  <programme start="20260104183500 +0000" stop="20260104201500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+  </programme>
+  <programme start="20260104183500 +0000" stop="20260104201500 +0000" channel="TABII SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+  </programme>
+  <programme start="20260104183500 +0000" stop="20260104201500 +0000" channel="TABII SPOR SD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+  </programme>
+  <programme start="20260104183500 +0000" stop="20260104201500 +0000" channel="TABII SPOR">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+  </programme>
+  <programme start="20260104183500 +0000" stop="20260104201500 +0000" channel="TABII SPOR 1">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+  </programme>
+  <programme start="20260104201500 +0000" stop="20260104202500 +0000" channel="TABII SPOR 1 4K">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104201500 +0000" stop="20260104202500 +0000" channel="TABII SPOR 1 720P">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104201500 +0000" stop="20260104202500 +0000" channel="TABII SPOR 1 UHD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104201500 +0000" stop="20260104202500 +0000" channel="TABII SPOR HD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104201500 +0000" stop="20260104202500 +0000" channel="TABII SPOR SD">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104201500 +0000" stop="20260104202500 +0000" channel="TABII SPOR">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104201500 +0000" stop="20260104202500 +0000" channel="TABII SPOR 1">
+    <title>YILSONU 2025</title>
+  </programme>
+  <programme start="20260104202500 +0000" stop="20260104220500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+  </programme>
+  <programme start="20260104202500 +0000" stop="20260104220500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+  </programme>
+  <programme start="20260104202500 +0000" stop="20260104220500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+  </programme>
+  <programme start="20260104202500 +0000" stop="20260104220500 +0000" channel="TABII SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+  </programme>
+  <programme start="20260104202500 +0000" stop="20260104220500 +0000" channel="TABII SPOR SD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+  </programme>
+  <programme start="20260104202500 +0000" stop="20260104220500 +0000" channel="TABII SPOR">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+  </programme>
+  <programme start="20260104202500 +0000" stop="20260104220500 +0000" channel="TABII SPOR 1">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
   </programme>
   <programme start="20260103220000 +0000" stop="20260104000000 +0000" channel="4K TR: S SPORT">
     <title>EUROLEAGUE</title>
@@ -14318,15 +14633,6 @@
   </programme>
   <programme start="20260104193000 +0000" stop="20260104200000 +0000" channel="SARAN SPORT 1">
     <title>NBA ÖZETLER</title>
-  </programme>
-  <programme start="20260104200000 +0000" stop="20260105040000 +0000" channel="4K TR: S SPORT">
-    <title>REAL SOCIEDAD - ATLETICO MADRID</title>
-  </programme>
-  <programme start="20260104200000 +0000" stop="20260105040000 +0000" channel="S SPORT">
-    <title>REAL SOCIEDAD - ATLETICO MADRID</title>
-  </programme>
-  <programme start="20260104200000 +0000" stop="20260105040000 +0000" channel="SARAN SPORT 1">
-    <title>REAL SOCIEDAD - ATLETICO MADRID</title>
   </programme>
   <programme start="20260103214500 +0000" stop="20260103220000 +0000" channel="SARAN SPORT 2">
     <title>ÖZETLER</title>
