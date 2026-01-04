@@ -44,7 +44,7 @@
   "/dizi-izle/surely-tomorrow": {
     "group": "SURELY TOMORROW",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi-izle/land-of-sin": {
@@ -86,7 +86,7 @@
   "/dizi-izle/pro-bono": {
     "group": "PRO BONO",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1
   }
 }

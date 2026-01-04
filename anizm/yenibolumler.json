@@ -2,13 +2,13 @@
   "/ikoku-nikki": {
     "group": "IKOKU NIKKI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru": {
     "group": "KIZOKU TENSEI: MEGUMARETA UMARE KARA SAIKYOU NO CHIKARA WO ERU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/majutsushi-kunon-wa-mieteiru": {
