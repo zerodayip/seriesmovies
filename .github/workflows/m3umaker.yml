@@ -60,26 +60,15 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv zstandard cloudscraper python-dateutil
           playwright install
 
-      # --- IPTV & Dizi Scriptleri ---
+      # 1. Canlı Yayın ve EPG üretimi
       - name: Run Vavoo Yayınları.py
         run: python private_py/vavoo/iptv/vavooiptvkendi.py
 
       - name: Run GunlukSporAkısı.py
         run: python private_py/channels/gunluksporakısı/tvyayinakisi.py
 
-      # 2. DiziFun Diziler Yerli Scripts ( site kapandı )
-      # - name: Run dizifunyenibolumler.py
-      #   run: python private_py/series/dizifun/yenibolumler.py
-
       - name: Run dizilifeyenibolumler.py
         run: python private_py/series/dizilife/yenibolumler.py
-
-      # 2. FilmHane Diziler Yerli Scripts ( şimdilik kullanmaya gerek yok )
-      # - name: Run filmhaneyenibolumler.py
-      #   run: python private_py/series/filmhane/yenibolumler.py
-
-  #    - name: Run diziyiizleyenibolumler.py
-  #      run: python private_py/series/diziyiizle/yenibolumler.py
 
       # 2. EPG üretimi
       - name: Run epg.py
@@ -113,11 +102,8 @@ jobs:
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8file
 
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
-          cp dizifundizi.m3u privaate_m3u8file/dizifundizi.m3u || echo "dizifundizi.m3u bulunamadı"
           cp dizilifedizi.m3u privaate_m3u8file/dizilifedizi.m3u || echo "dizilifedizi.m3u bulunamadı"
-          cp filmhanedizi.m3u privaate_m3u8file/filmhanedizi.m3u || echo "filmhanedizi.m3u bulunamadı"
           cp gunluk_spor.m3u privaate_m3u8file/gunluk_spor.m3u || echo "gunluk_spor.m3u bulunamadı"
-          cp diziyiizledizi.m3u privaate_m3u8file/diziyiizledizi.m3u || echo "diziyiizledizi.m3u bulunamadı"
           cp dmax.m3u privaate_m3u8file/dmax.m3u || echo "dmax.m3u bulunamadı"
           cp tlc.m3u privaate_m3u8file/tlc.m3u || echo "tlc.m3u bulunamadı"
           cp televizyondizileri.m3u privaate_m3u8file/televizyondizileri.m3u || echo "televizyondizileri.m3u bulunamadı"
@@ -151,9 +137,6 @@ jobs:
       - name: Run HDFilmCehennemi JSON Script
         run: python private_py/series/hdfilmcehennemi/dizilerjson.py
 
-      #- name: Run Dizipal JSON Script ( cloudflare koruması mevcut )
-       # run: python private_py/series/dizipal/dizipaljson.py
-
       - name: Run DiziYo JSON Script
         run: python private_py/series/diziyo/diziyojson.py
 
@@ -169,7 +152,6 @@ jobs:
           git add anizm/*.json || echo "No anizm files"
           git add animenosub/*.json || echo "No animenosub files"
           git add setfilmizledizi/*.json || echo "No setfilmizledizi files"
-          git add dizipal/*.json || echo "No dizipal files"
           git add diziyo/*.json || echo "No diziyo files"
           git add yabancidiziler/*.json || echo "No yabancidiziler files"
           git add dizipall/diziler.json || echo "No diziyo files"
@@ -216,17 +198,6 @@ jobs:
           git add xtream/series_category.json || echo "No files"
           git commit -m "Series Category JSON güncellendi [auto]" || echo "No changes"
           git push origin main
-
- #     - name: Send Telegram message
- #       env:
- #         TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
- #         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
- #       run: |
- #         MESSAGE="M3u Workflow Part 1 - 2 bitti. Part 3 başlıyor!"
-          
- #         curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
- #           -d chat_id="$TELEGRAM_CHAT_ID" \
- #           -d text="$MESSAGE"
           
   part3:
     name: Step 5-to-15 Çalıştır (Paralel)
@@ -265,6 +236,7 @@ jobs:
           python private_py/series/hdfilmcehennemi/yenibolumler.py &
           python private_py/series/yabancidiziler/yenibolumler.py &
           python private_py/series/sezonlukdizi/yenibolumler.py &
+          python private_py/series/dizipal/yenibolumler.py &
           wait  # Tüm scriptlerin bitmesini bekle
 
       - name: Commit and Push All JSONs
@@ -387,6 +359,17 @@ jobs:
           git commit -m "SezonlukDizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
           cd ..
+
+          # Dizipal
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizipal.git private_dizipal
+          rsync -a dizipal/ private_dzipal/
+          cd private_dizipal
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Dizipal çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
           
   part4:
     name: Step 15 Çalıştır
@@ -468,19 +451,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python private_py/movies/hdfilmsite/hemyabancihemdeyerli.py
 
-      # 19. Dizipal Yerli Filmler ( cloudflare koruması mevcut )
-#      - name: Run Dizipal Yerli Filmler Script
-#        env:
-#          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-#        run: python private_py/movies/dizipal/yerlifilm.py
-
       - name: Sync Filmler outputs to private m3u8file repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privatate_m3u8file
           cp dizigomfilmler.m3u privatate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler.m3u bulunamadı"
           cp xtream/setfilmizlefilmler.m3u privatate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler.m3u bulunamadı"
           cp hdfilmsite.m3u privatate_m3u8file/hdfilmsite.m3u || echo "hdfilmsite.m3u bulunamadı"
-          cp dizipalyerlifilm.m3u privatate_m3u8file/dizipalyerlifilm.m3u || echo "dizipalyerlifilm.m3u bulunamadı"
           cd privatate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
