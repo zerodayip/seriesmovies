@@ -362,7 +362,7 @@ jobs:
 
           # Dizipal
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizipal.git private_dizipal
-          rsync -a dizipal/ private_dzipal/
+          rsync -a dizipal/ private_dizipal/
           cd private_dizipal
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
