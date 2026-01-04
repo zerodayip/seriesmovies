@@ -1,4 +1,10 @@
 {
+  "/xian-wang-de-richang-shenghuo-5": {
+    "group": "XIAN WANG DE RICHANG SHENGHUO 5",
+    "last_season": 1,
+    "last_episode": 4.0,
+    "start_episode": 1
+  },
   "/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku": {
     "group": "YUUSHA-KEI NI SHOSU: CHOUBATSU YUUSHA 9004-TAI KEIMU KIROKU",
     "last_season": 1,
@@ -87,12 +93,6 @@
     "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
     "last_season": 1,
     "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/kimetsu-no-yaiba-movie-mugen-jou-hen": {
-    "group": "KIMETSU NO YAIBA MOVIE: MUGEN JOU-HEN",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

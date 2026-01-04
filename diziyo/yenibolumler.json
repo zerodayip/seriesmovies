@@ -1,4 +1,16 @@
 {
+  "/dizi/the-neighborhood": {
+    "group": "THE NEIGHBORHOOD",
+    "last_season": 8,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi/ghosts-2021": {
+    "group": "GHOSTS",
+    "last_season": 5,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/dizi/dispatches-from-elsewhere": {
     "group": "DISPATCHES FROM ELSEWHERE",
     "last_season": 1,
@@ -65,6 +77,12 @@
     "last_episode": 8,
     "start_episode": 1
   },
+  "/dizi/landman": {
+    "group": "LANDMAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/the-simpsons": {
     "group": "THE SIMPSONS",
     "last_season": 37,
@@ -129,24 +147,6 @@
     "group": "ROBIN HOOD",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/i-love-la": {
-    "group": "I LOVE LA",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/it-s-florida-man": {
-    "group": "IT'S FLORIDA, MAN.",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/ki-seu-neun-gwaen-hi-hae-seo-asya": {
-    "group": "KI-SEU-NEUN GWAEN-HI HAE-SEO",
-    "last_season": 1,
-    "last_episode": 14,
     "start_episode": 1
   }
 }

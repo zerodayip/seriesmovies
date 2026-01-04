@@ -1,4 +1,22 @@
 {
+  "/anime/hana-kimi/": {
+    "group": "HANA-KIMI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/blue-orchestra-season-2/": {
+    "group": "BLUE ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/anime/digimon-beatbreak/": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/anime/the-daily-life-of-a-part-time-torturer/": {
     "group": "THE DAILY LIFE OF A PART-TIME TORTURER",
     "last_season": 1,
@@ -99,24 +117,6 @@
     "group": "NOBLE REINCARNATION: BORN BLESSED, SO I’LL OBTAIN ULTIMATE POWER",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/journal-with-witch/": {
-    "group": "JOURNAL WITH WITCH",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/a-mangakas-weirdly-wonderful-workplace/": {
-    "group": "A MANGAKA’S WEIRDLY WONDERFUL WORKPLACE",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle/": {
-    "group": "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

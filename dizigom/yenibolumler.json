@@ -11,56 +11,8 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/percy-jackson-and-the-olympians": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/made-in-korea": {
-    "group": "MADE IN KOREA",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/cats-eye": {
-    "group": "CAT'S EYE",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/members-only-palm-beach": {
-    "group": "MEMBERS ONLY: PALM BEACH",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
   "/dizi-izle/my-korean-boyfriend": {
     "group": "MY KOREAN BOYFRIEND",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/culinary-class-wars": {
-    "group": "CULINARY CLASS WARS",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi-izle/palm-royale": {
-    "group": "PALM ROYALE",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/land-of-sin": {
-    "group": "LAND OF SIN (SYNDEN)",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/idol-i": {
-    "group": "IDOL I",
     "last_season": 1,
     "last_episode": 4,
     "start_episode": 1
@@ -69,6 +21,60 @@
     "group": "SURELY TOMORROW",
     "last_season": 1,
     "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/land-of-sin": {
+    "group": "LAND OF SIN (SYNDEN)",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/nice-to-not-meet-you": {
+    "group": "NICE TO NOT MEET YOU",
+    "last_season": 1,
+    "last_episode": 16,
+    "start_episode": 1
+  },
+  "/dizi-izle/idol-i": {
+    "group": "IDOL I",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/members-only-palm-beach": {
+    "group": "MEMBERS ONLY: PALM BEACH",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/palm-royale": {
+    "group": "PALM ROYALE",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/cats-eye": {
+    "group": "CAT'S EYE",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/made-in-korea": {
+    "group": "MADE IN KOREA",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/culinary-class-wars": {
+    "group": "CULINARY CLASS WARS",
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi-izle/time-flies": {
@@ -81,12 +87,6 @@
     "group": "RUN AWAY",
     "last_season": 1,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/nice-to-not-meet-you": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 16,
     "start_episode": 1
   }
 }
