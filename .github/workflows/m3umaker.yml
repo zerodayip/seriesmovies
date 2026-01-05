@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */6 * * *'    # Her 6 saatte bir tüm scriptler çalışır
-    - cron: '0 2 * * *'     # Türkiye saati 05:00 -> 02:00 UTC (DMAX - TLC - TV DİZİLERİ bu tetikte çalışacak)
 
 jobs:
   notify_start:
@@ -67,26 +66,11 @@ jobs:
       - name: Run GunlukSporAkısı.py
         run: python private_py/channels/gunluksporakısı/tvyayinakisi.py
 
-      - name: Run dizilifeyenibolumler.py
-        run: python private_py/series/dizilife/yenibolumler.py
-
-      # 2. EPG üretimi
       - name: Run epg.py
         run: python private_py/channels/epg/gunlukepg.py
 
-      # 2. DMAX sadece gece 04:00 TR çalışacak ---
-      - name: Run dmax.py (sadece Türkiye saati 05:00)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2'))}}
-        run: python private_py/series/dmax/yenibolumler.py
-
-      # 2. TLC sadece gece 04:00 TR çalışacak ---
-      - name: Run tlc.py (sadece Türkiye saati 05:00)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2'))}}
-        run: python private_py/series/tlc/yenibolumler.py
-
-      # 2. TV Dizileri sadece gece 05:00 TR çalışacak ---
-      - name: Run yereldiziler.py (sadece Türkiye saati 05:00 ve Manuel Çalıştırmada)
-        if: ${{ (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2')) || github.event_name == 'workflow_dispatch' }}
+      # 2. TV Dizileri
+      - name: Run yereldiziler.py
         run: python private_py/series/yereldiziler/yereldiziler.py
 
       - name: Commit and Push EPG to public repo
@@ -102,10 +86,7 @@ jobs:
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8file
 
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
-          cp dizilifedizi.m3u privaate_m3u8file/dizilifedizi.m3u || echo "dizilifedizi.m3u bulunamadı"
           cp gunluk_spor.m3u privaate_m3u8file/gunluk_spor.m3u || echo "gunluk_spor.m3u bulunamadı"
-          cp dmax.m3u privaate_m3u8file/dmax.m3u || echo "dmax.m3u bulunamadı"
-          cp tlc.m3u privaate_m3u8file/tlc.m3u || echo "tlc.m3u bulunamadı"
           cp televizyondizileri.m3u privaate_m3u8file/televizyondizileri.m3u || echo "televizyondizileri.m3u bulunamadı"
 
           cd privaate_m3u8file
@@ -224,31 +205,34 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv httpx
           playwright install
 
-      - name: Run Scripts in Controlled Parallel Batches (ignore errors)
+      - name: Run Scripts in Controlled Parallel Batches
         run: |
           set +e
       
-          echo "Batch 1 başlıyor"
-          ( python private_py/series/dizigom/yenibolumler.py || true ) &
+          echo "🔄 Batch 1 başlıyor (HDFilmSite & Anizm & AnimeNoSub & SetFilmİzle & Diziyo)"
+          ( python private_py/series/hdfilmsite/yenibolumler.py || true ) &
           ( python private_py/anime/anizm/yenibolumler.py || true ) &
           ( python private_py/anime/ingilizce/animenosub/yenibolumler.py || true ) &
           ( python private_py/series/setfilmizledizi/yenibolumler.py || true ) &
           ( python private_py/series/diziyo/yenibolumler.py || true ) &
           wait
       
-          echo "Batch 2 başlıyor"
+          echo "🔄 Batch 2 başlıyor (Dizigom & Dizipall & HDFilmCehennemi & YabancıDiziler & Dizipal)"
+          ( python private_py/series/dizigom/yenibolumler.py || true ) &
           ( python private_py/series/dizipall/yenibolumler.py || true ) &
-          ( python private_py/series/hdfilmsite/yenibolumler.py || true ) &
           ( python private_py/series/hdfilmcehennemi/yenibolumler.py || true ) &
           ( python private_py/series/yabancidiziler/yenibolumler.py || true ) &
-          wait
-      
-          echo "Batch 3 başlıyor"
-          ( python private_py/series/sezonlukdizi/yenibolumler.py || true ) &
           ( python private_py/series/dizipal/yenibolumler.py || true ) &
           wait
       
-          echo "Tüm scriptler tamamlandı.."
+          echo "🔄 Batch 3 başlıyor (SezonlukDizi & DiziLife & Tlc & Dmax)"
+          ( python private_py/series/sezonlukdizi/yenibolumler.py || true ) &
+          ( python private_py/series/dizilife/yenibolumler.py || true ) &
+          ( python private_py/series/tlc/yenibolumler.py || true ) &
+          ( python private_py/series/dmax/yenibolumler.py || true ) &
+          wait
+      
+          echo "✅ Tüm scriptler tamamlandı.."
 
       - name: Commit and Push All JSONs
         run: |
@@ -379,6 +363,17 @@ jobs:
           git config user.email "actions@github.com"
           git add . || echo "No files"
           git commit -m "Dizipal çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
+
+          # Dizilife & Tlc & Dmax
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8filee
+          rsync -a dizilife/ private_m3u8filee/
+          cd private_m3u8filee
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Dizilife & Tlc & Dmax çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
           cd ..
           
