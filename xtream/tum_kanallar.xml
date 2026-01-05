@@ -1416,8 +1416,41 @@
   <programme start="20260105201000 +0000" stop="20260105210000 +0000" channel="FX">
     <title>UNDER THE BRIDGE</title>
   </programme>
-  <programme start="20260105170000 +0000" stop="20260107000000 +0000" channel="TABII TV">
-    <title>TABII TV</title>
+  <programme start="20260105053200 +0000" stop="20260105081900 +0000" channel="TABII TV">
+    <title>MASUMLAR APARTMANI</title>
+  </programme>
+  <programme start="20260105081900 +0000" stop="20260105085700 +0000" channel="TABII TV">
+    <title>ŞAŞIFELEK ÇIKMAZI</title>
+  </programme>
+  <programme start="20260105085700 +0000" stop="20260105093600 +0000" channel="TABII TV">
+    <title>BIZIMKILER</title>
+  </programme>
+  <programme start="20260105093600 +0000" stop="20260105102100 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20260105102100 +0000" stop="20260105112200 +0000" channel="TABII TV">
+    <title>YEŞIL DENIZ MILENYUM</title>
+  </programme>
+  <programme start="20260105112200 +0000" stop="20260105140900 +0000" channel="TABII TV">
+    <title>MASUMLAR APARTMANI</title>
+  </programme>
+  <programme start="20260105140900 +0000" stop="20260105151000 +0000" channel="TABII TV">
+    <title>YEŞIL DENIZ MILENYUM</title>
+  </programme>
+  <programme start="20260105151000 +0000" stop="20260105154900 +0000" channel="TABII TV">
+    <title>ŞAŞIFELEK ÇIKMAZI</title>
+  </programme>
+  <programme start="20260105154900 +0000" stop="20260105162700 +0000" channel="TABII TV">
+    <title>BIZIMKILER</title>
+  </programme>
+  <programme start="20260105162700 +0000" stop="20260105171200 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20260105171200 +0000" stop="20260105181300 +0000" channel="TABII TV">
+    <title>YEŞIL DENIZ MILENYUM</title>
+  </programme>
+  <programme start="20260105181300 +0000" stop="20260105210000 +0000" channel="TABII TV">
+    <title>MASUMLAR APARTMANI</title>
   </programme>
   <programme start="20260104210000 +0000" stop="20260104233000 +0000" channel="4K TR: S NEMA YERL HD">
     <title>DABBE: CIN ÇARPMASI</title>
