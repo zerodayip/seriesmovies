@@ -1,4 +1,28 @@
 {
+  "/taiyou-yori-mo-mabushii-hoshi": {
+    "group": "TAIYOU YORI MO MABUSHII HOSHI",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/kirei-ni-shitemoraemasu-ka": {
+    "group": "KIREI NI SHITEMORAEMASU KA.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/osananajimi-to-wa-love-comedy-ni-naranai": {
+    "group": "OSANANAJIMI TO WA LOVE COMEDY NI NARANAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/vigilante-boku-no-hero-academia-illegals-2nd-season": {
+    "group": "VIGILANTE: BOKU NO HERO ACADEMIA ILLEGALS 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/digimon-beatbreak": {
     "group": "DIGIMON BEATBREAK",
     "last_season": 1,
@@ -69,24 +93,6 @@
     "group": "NYAIGHT OF THE LIVING CAT",
     "last_season": 1,
     "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/catseye": {
-    "group": "CAT'S♥EYE",
-    "last_season": 1,
-    "last_episode": 8.0,
-    "start_episode": 1
-  },
-  "/kakuriyo-no-yadomeshi-ni": {
-    "group": "KAKURIYO NO YADOMESHI NI",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta-2026": {
-    "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?) (2026)",
-    "last_season": 1,
-    "last_episode": 5.0,
     "start_episode": 1
   }
 }

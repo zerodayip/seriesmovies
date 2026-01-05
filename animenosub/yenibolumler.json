@@ -5,6 +5,18 @@
     "last_episode": 0,
     "start_episode": 1
   },
+  "/anime/golden-kamuy-final-season/": {
+    "group": "GOLDEN KAMUY FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-hero-academia-vigilantes-season-2/": {
+    "group": "MY HERO ACADEMIA: VIGILANTES SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/wash-it-all-away/": {
     "group": "WASH IT ALL AWAY",
     "last_season": 1,
@@ -105,18 +117,6 @@
     "group": "KAGUYA-SAMA WA KOKURASETAI: OTONA E NO KAIDAN",
     "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/jack-of-all-trades-party-of-none/": {
-    "group": "JACK-OF-ALL-TRADES, PARTY OF NONE",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/100-meters/": {
-    "group": "100 METERS",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }
