@@ -1,4 +1,10 @@
 {
+  "/digimon-beatbreak": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
   "/hanazakari-no-kimitachi-e": {
     "group": "HANAZAKARI NO KIMITACHI E",
     "last_season": 1,
@@ -81,12 +87,6 @@
     "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?) (2026)",
     "last_season": 1,
     "last_episode": 5.0,
-    "start_episode": 1
-  },
-  "/kimi-to-koete-koi-ni-naru": {
-    "group": "KIMI TO KOETE KOI NI NARU",
-    "last_season": 1,
-    "last_episode": 12.0,
     "start_episode": 1
   }
 }

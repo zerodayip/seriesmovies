@@ -2,11 +2,17 @@
   "/dizi/red-eye-hdfc/": {
     "group": "RED EYE"
   },
+  "/dizi/surely-tomorrow/": {
+    "group": "ELBET YARIN"
+  },
   "/dizi/power-book-iv-force-86/": {
     "group": "POWER BOOK IV: FORCE"
   },
   "/dizi/land-of-sin/": {
     "group": "GÜNAH - SYNDEN"
+  },
+  "/dizi/heaven-2025-dizi-hdfc/": {
+    "group": "HEAVEN"
   },
   "/dizi/stranger-things-izle-733360/": {
     "group": "STRANGER THINGS"
@@ -22,15 +28,6 @@
   },
   "/dizi/palm-royale-43/": {
     "group": "PALM ROYALE"
-  },
-  "/dizi/percy-jackson-and-the-olympians-42/": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS"
-  },
-  "/dizi/robin-hood/": {
-    "group": "ROBIN HOOD"
-  },
-  "/dizi/surely-tomorrow/": {
-    "group": "ELBET YARIN"
   },
   "/dizi/dispatches-from-elsewhere/": {
     "group": "DISPATCHES FROM ELSEWHERE"
@@ -97,8 +94,5 @@
   },
   "/dizi/castle-2009-dizisi/": {
     "group": "CASTLE"
-  },
-  "/dizi/sean-combs-the-reckoning/": {
-    "group": "SEAN COMBS: HESAPLAŞMA"
   }
 }

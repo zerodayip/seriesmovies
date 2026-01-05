@@ -946,5 +946,17 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/anime/you-cant-be-in-a-rom-com-with-your-childhood-friends/": {
+    "group": "YOU CAN’T BE IN A ROM-COM WITH YOUR CHILDHOOD FRIENDS!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/wash-it-all-away/": {
+    "group": "WASH IT ALL AWAY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
