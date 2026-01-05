@@ -112,16 +112,16 @@ jobs:
         run: python private_py/xtream/series.py
 
       - name: Clone Private m3u8file Repo
-        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8file
+        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/xtreamsistemi.git private_xtreamsistemi
 
       - name: Copy updated M3U
         run: |
-          mkdir -p private_m3u8file/xtream
-          rsync -a xtream/ private_m3u8file/xtream/ --include="*.m3u" --exclude="*"
+          mkdir -p private_xtreamsistemi/xtream
+          rsync -a xtream/ private_xtreamsistemi/xtream/ --include="*.m3u" --exclude="*"
 
       - name: Commit and Push M3U
         run: |
-          cd private_m3u8file
+          cd private_xtreamsistemi
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git pull --rebase origin main || echo "Pull yapılamadı"
@@ -166,16 +166,16 @@ jobs:
           git push origin main || echo "No push needed"
 
       - name: Clone m3u8file Repo
-        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git m3u8file_repo
+        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/xtreamsistemi.git xtreamsistemi_repo
 
       - name: Copy JSON Files
         run: |
-          mkdir -p m3u8file_repo/xtreamjson
-          find xtream -name "*.json" ! -name "times.json" -exec cp {} m3u8file_repo/xtreamjson/ \;
+          mkdir -p xtreamsistemi_repo/xtreamjson
+          find xtream -name "*.json" ! -name "times.json" -exec cp {} xtreamsistemi_repo/xtreamjson/ \;
 
       - name: Commit JSON
         run: |
-          cd m3u8file_repo
+          cd xtreamsistemi_repo
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add xtreamjson/*.json || echo "No JSON files to add"
@@ -217,12 +217,12 @@ jobs:
           git push origin main || echo "No push needed"
           
       - name: Clone m3u8file Repo
-        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git m3u8file_repoo
+        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/xtreamsistemi.git xtreamsistemi_repoo
 
       - name: Copy Updated JSONs
         run: |
-          mkdir -p m3u8file_repoo/xtreamjsonfinal
-          cp *_updated.json m3u8file_repoo/xtreamjsonfinal/ || echo "⚠️ No updated JSON files found"
+          mkdir -p xtreamsistemi_repoo/xtreamjsonfinal
+          cp *_updated.json xtreamsistemi_repoo/xtreamjsonfinal/ || echo "⚠️ No updated JSON files found"
 
       - name: Commit Updated JSONs
         run: |
