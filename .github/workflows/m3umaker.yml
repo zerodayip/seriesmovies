@@ -224,20 +224,31 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv httpx
           playwright install
 
-      - name: Run All Scripts in Parallel
+      - name: Run Scripts in Controlled Parallel Batches (ignore errors)
         run: |
-          python private_py/series/dizigom/yenibolumler.py &
-          python private_py/anime/anizm/yenibolumler.py &
-          python private_py/anime/ingilizce/animenosub/yenibolumler.py &
-          python private_py/series/setfilmizledizi/yenibolumler.py &
-          python private_py/series/diziyo/yenibolumler.py &
-          python private_py/series/dizipall/yenibolumler.py &
-          python private_py/series/hdfilmsite/yenibolumler.py &
-          python private_py/series/hdfilmcehennemi/yenibolumler.py &
-          python private_py/series/yabancidiziler/yenibolumler.py &
-          python private_py/series/sezonlukdizi/yenibolumler.py &
-          python private_py/series/dizipal/yenibolumler.py &
-          wait  # Tüm scriptlerin bitmesini bekle
+          set +e
+      
+          echo "Batch 1 başlıyor"
+          ( python private_py/series/dizigom/yenibolumler.py || true ) &
+          ( python private_py/anime/anizm/yenibolumler.py || true ) &
+          ( python private_py/anime/ingilizce/animenosub/yenibolumler.py || true ) &
+          ( python private_py/series/setfilmizledizi/yenibolumler.py || true ) &
+          ( python private_py/series/diziyo/yenibolumler.py || true ) &
+          wait
+      
+          echo "Batch 2 başlıyor"
+          ( python private_py/series/dizipall/yenibolumler.py || true ) &
+          ( python private_py/series/hdfilmsite/yenibolumler.py || true ) &
+          ( python private_py/series/hdfilmcehennemi/yenibolumler.py || true ) &
+          ( python private_py/series/yabancidiziler/yenibolumler.py || true ) &
+          wait
+      
+          echo "Batch 3 başlıyor"
+          ( python private_py/series/sezonlukdizi/yenibolumler.py || true ) &
+          ( python private_py/series/dizipal/yenibolumler.py || true ) &
+          wait
+      
+          echo "Tüm scriptler tamamlandı.."
 
       - name: Commit and Push All JSONs
         run: |
