@@ -344,7 +344,7 @@
   "/dizi/the-simpsons": {
     "group": "The Simpsons",
     "last_season": 37,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/dizi/the-copenhagen-test": {
@@ -362,7 +362,7 @@
   "/dizi/krapopolis": {
     "group": "Krapopolis",
     "last_season": 3,
-    "last_episode": 11,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/dizi/idol-i": {
@@ -440,19 +440,19 @@
   "/dizi/best-medicine": {
     "group": "Best Medicine",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/dear-life": {
     "group": "Dear Life",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/when-calls-the-heart": {
     "group": "When Calls the Heart",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 13,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
