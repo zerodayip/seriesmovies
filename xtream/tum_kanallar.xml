@@ -12222,59 +12222,59 @@
   <programme start="20260105100000 +0000" stop="20260105110000 +0000" channel="AKIT TV">
     <title>ÖĞLE BÜLTENI</title>
   </programme>
-  <programme start="20260105110000 +0000" stop="20260105120000 +0000" channel="4K TR: AK T TV HD">
-    <title>GÜN ORTASI</title>
-  </programme>
-  <programme start="20260105110000 +0000" stop="20260105120000 +0000" channel="AKIT TV">
-    <title>GÜN ORTASI</title>
-  </programme>
-  <programme start="20260105120000 +0000" stop="20260105123000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20260105110000 +0000" stop="20260105113000 +0000" channel="4K TR: AK T TV HD">
     <title>HABER BÜLTENI</title>
   </programme>
-  <programme start="20260105120000 +0000" stop="20260105123000 +0000" channel="AKIT TV">
+  <programme start="20260105110000 +0000" stop="20260105113000 +0000" channel="AKIT TV">
     <title>HABER BÜLTENI</title>
   </programme>
-  <programme start="20260105123000 +0000" stop="20260105130000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20260105113000 +0000" stop="20260105120000 +0000" channel="4K TR: AK T TV HD">
     <title>EKONOMI AJANDASI</title>
   </programme>
-  <programme start="20260105123000 +0000" stop="20260105130000 +0000" channel="AKIT TV">
+  <programme start="20260105113000 +0000" stop="20260105120000 +0000" channel="AKIT TV">
     <title>EKONOMI AJANDASI</title>
+  </programme>
+  <programme start="20260105120000 +0000" stop="20260105130000 +0000" channel="4K TR: AK T TV HD">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260105120000 +0000" stop="20260105130000 +0000" channel="AKIT TV">
+    <title>HABER BÜLTENI</title>
   </programme>
   <programme start="20260105130000 +0000" stop="20260105140000 +0000" channel="4K TR: AK T TV HD">
-    <title>HABER BÜLTENI</title>
+    <title>HABER 16</title>
   </programme>
   <programme start="20260105130000 +0000" stop="20260105140000 +0000" channel="AKIT TV">
-    <title>HABER BÜLTENI</title>
-  </programme>
-  <programme start="20260105140000 +0000" stop="20260105150000 +0000" channel="4K TR: AK T TV HD">
     <title>HABER 16</title>
   </programme>
-  <programme start="20260105140000 +0000" stop="20260105150000 +0000" channel="AKIT TV">
-    <title>HABER 16</title>
-  </programme>
-  <programme start="20260105150000 +0000" stop="20260105154500 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20260105140000 +0000" stop="20260105143000 +0000" channel="4K TR: AK T TV HD">
     <title>AKŞAMA DOĞRU</title>
   </programme>
-  <programme start="20260105150000 +0000" stop="20260105154500 +0000" channel="AKIT TV">
+  <programme start="20260105140000 +0000" stop="20260105143000 +0000" channel="AKIT TV">
     <title>AKŞAMA DOĞRU</title>
   </programme>
-  <programme start="20260105154500 +0000" stop="20260105170000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20260105143000 +0000" stop="20260105153000 +0000" channel="4K TR: AK T TV HD">
     <title>İŞ VE EKONOMI</title>
   </programme>
-  <programme start="20260105154500 +0000" stop="20260105170000 +0000" channel="AKIT TV">
+  <programme start="20260105143000 +0000" stop="20260105153000 +0000" channel="AKIT TV">
     <title>İŞ VE EKONOMI</title>
   </programme>
-  <programme start="20260105170000 +0000" stop="20260105183000 +0000" channel="4K TR: AK T TV HD">
+  <programme start="20260105153000 +0000" stop="20260105173000 +0000" channel="4K TR: AK T TV HD">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20260105170000 +0000" stop="20260105183000 +0000" channel="AKIT TV">
+  <programme start="20260105153000 +0000" stop="20260105173000 +0000" channel="AKIT TV">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20260105183000 +0000" stop="20260105213000 +0000" channel="4K TR: AK T TV HD">
-    <title>SÖZ MEYDANI</title>
+  <programme start="20260105173000 +0000" stop="20260105203000 +0000" channel="4K TR: AK T TV HD">
+    <title>GÜNDEM ANALIZ</title>
   </programme>
-  <programme start="20260105183000 +0000" stop="20260105213000 +0000" channel="AKIT TV">
-    <title>SÖZ MEYDANI</title>
+  <programme start="20260105173000 +0000" stop="20260105203000 +0000" channel="AKIT TV">
+    <title>GÜNDEM ANALIZ</title>
+  </programme>
+  <programme start="20260105203000 +0000" stop="20260106050000 +0000" channel="4K TR: AK T TV HD">
+    <title>GECE AJANSI</title>
+  </programme>
+  <programme start="20260105203000 +0000" stop="20260106050000 +0000" channel="AKIT TV">
+    <title>GECE AJANSI</title>
   </programme>
   <programme start="20260104210000 +0000" stop="20260105050000 +0000" channel="4K TR: BENG T RK">
     <title>GECE HABERLERI</title>
@@ -14169,17 +14169,11 @@
   <programme start="20260105120000 +0000" stop="20260105150000 +0000" channel="HT SPOR">
     <title>SATIR ARASI</title>
   </programme>
-  <programme start="20260105150000 +0000" stop="20260105170000 +0000" channel="HT SPOR HD">
+  <programme start="20260105150000 +0000" stop="20260105171500 +0000" channel="HT SPOR HD">
     <title>MAÇ YOLU</title>
   </programme>
-  <programme start="20260105150000 +0000" stop="20260105170000 +0000" channel="HT SPOR">
+  <programme start="20260105150000 +0000" stop="20260105171500 +0000" channel="HT SPOR">
     <title>MAÇ YOLU</title>
-  </programme>
-  <programme start="20260105170000 +0000" stop="20260105171500 +0000" channel="HT SPOR HD">
-    <title>ALMANAK 2025</title>
-  </programme>
-  <programme start="20260105170000 +0000" stop="20260105171500 +0000" channel="HT SPOR">
-    <title>ALMANAK 2025</title>
   </programme>
   <programme start="20260105171500 +0000" stop="20260105191500 +0000" channel="HT SPOR HD">
     <title>BANDIRMA-GÖZTEPE</title>
@@ -28140,8 +28134,92 @@
   <programme start="20260105013000 +0000" stop="20260105020000 +0000" channel="SPACETOON">
     <title>ZATONYA</title>
   </programme>
-  <programme start="20260105020000 +0000" stop="20260106040000 +0000" channel="SPACETOON">
+  <programme start="20260105020000 +0000" stop="20260105073000 +0000" channel="SPACETOON">
     <title>ZATONYA</title>
+  </programme>
+  <programme start="20260105073000 +0000" stop="20260105080000 +0000" channel="SPACETOON">
+    <title>ŞIRINLER - SMURF</title>
+  </programme>
+  <programme start="20260105080000 +0000" stop="20260105083000 +0000" channel="SPACETOON">
+    <title>BLUEY</title>
+  </programme>
+  <programme start="20260105083000 +0000" stop="20260105090000 +0000" channel="SPACETOON">
+    <title>BLUEY</title>
+  </programme>
+  <programme start="20260105090000 +0000" stop="20260105093000 +0000" channel="SPACETOON">
+    <title>44 KEDI</title>
+  </programme>
+  <programme start="20260105093000 +0000" stop="20260105100000 +0000" channel="SPACETOON">
+    <title>THAT'S JOEY</title>
+  </programme>
+  <programme start="20260105100000 +0000" stop="20260105103000 +0000" channel="SPACETOON">
+    <title>TOPO GIGIO</title>
+  </programme>
+  <programme start="20260105103000 +0000" stop="20260105110000 +0000" channel="SPACETOON">
+    <title>ÇILEK KIZ BÜYÜK ŞEHIRDE</title>
+  </programme>
+  <programme start="20260105110000 +0000" stop="20260105113000 +0000" channel="SPACETOON">
+    <title>KID LUCKY</title>
+  </programme>
+  <programme start="20260105113000 +0000" stop="20260105120000 +0000" channel="SPACETOON">
+    <title>ZATONYA</title>
+  </programme>
+  <programme start="20260105120000 +0000" stop="20260105123000 +0000" channel="SPACETOON">
+    <title>ŞIRINLER - SMURF</title>
+  </programme>
+  <programme start="20260105123000 +0000" stop="20260105130000 +0000" channel="SPACETOON">
+    <title>INAZUMA ELEVEN</title>
+  </programme>
+  <programme start="20260105130000 +0000" stop="20260105132000 +0000" channel="SPACETOON">
+    <title>KUROKO'NUN BASKETBOLU</title>
+  </programme>
+  <programme start="20260105132000 +0000" stop="20260105133000 +0000" channel="SPACETOON">
+    <title>SLUGTERRA ASCENSION</title>
+  </programme>
+  <programme start="20260105133000 +0000" stop="20260105140000 +0000" channel="SPACETOON">
+    <title>BEYBLADE X</title>
+  </programme>
+  <programme start="20260105140000 +0000" stop="20260105143000 +0000" channel="SPACETOON">
+    <title>KITERETSU ANSIKLOPEDISI</title>
+  </programme>
+  <programme start="20260105143000 +0000" stop="20260105150000 +0000" channel="SPACETOON">
+    <title>DORAEMON</title>
+  </programme>
+  <programme start="20260105150000 +0000" stop="20260105153000 +0000" channel="SPACETOON">
+    <title>KID LUCKY</title>
+  </programme>
+  <programme start="20260105153000 +0000" stop="20260105160000 +0000" channel="SPACETOON">
+    <title>BLUEY</title>
+  </programme>
+  <programme start="20260105160000 +0000" stop="20260105163000 +0000" channel="SPACETOON">
+    <title>BLUEY</title>
+  </programme>
+  <programme start="20260105163000 +0000" stop="20260105170000 +0000" channel="SPACETOON">
+    <title>ŞIRINLER - SMURF</title>
+  </programme>
+  <programme start="20260105170000 +0000" stop="20260105173000 +0000" channel="SPACETOON">
+    <title>ŞIRINLER - SMURF</title>
+  </programme>
+  <programme start="20260105173000 +0000" stop="20260105180000 +0000" channel="SPACETOON">
+    <title>ŞIRINLER - SMURF</title>
+  </programme>
+  <programme start="20260105180000 +0000" stop="20260105181500 +0000" channel="SPACETOON">
+    <title>DORAEMON</title>
+  </programme>
+  <programme start="20260105181500 +0000" stop="20260105190000 +0000" channel="SPACETOON">
+    <title>NARUTO</title>
+  </programme>
+  <programme start="20260105190000 +0000" stop="20260105193000 +0000" channel="SPACETOON">
+    <title>NARUTO</title>
+  </programme>
+  <programme start="20260105193000 +0000" stop="20260105200000 +0000" channel="SPACETOON">
+    <title>BEYBLADE X</title>
+  </programme>
+  <programme start="20260105200000 +0000" stop="20260105203000 +0000" channel="SPACETOON">
+    <title>ŞIRINLER - SMURF</title>
+  </programme>
+  <programme start="20260105203000 +0000" stop="20260105210000 +0000" channel="SPACETOON">
+    <title>ŞIRINLER - SMURF</title>
   </programme>
   <programme start="20260104210500 +0000" stop="20260104211500 +0000" channel="TRT DIYANET COCUK">
     <title>DÜŞ FIRÇASI</title>
