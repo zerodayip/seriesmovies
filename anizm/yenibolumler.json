@@ -1,4 +1,40 @@
 {
+  "/arne-no-jikenbo": {
+    "group": "ARNE NO JIKENBO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/mayonaka-heart-tune": {
+    "group": "MAYONAKA HEART TUNE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/yoroi-shin-den-samurai-troopers": {
+    "group": "YOROI SHIN DEN SAMURAI TROOPERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/darwin-jihen": {
+    "group": "DARWIN JIHEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita": {
+    "group": "YUUSHA PARTY NI KAWAII KO GA ITA NODE, KOKUHAKU SHITEMITA.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/maou-no-musume-wa-yasashisugiru": {
+    "group": "MAOU NO MUSUME WA YASASHISUGIRU!!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/taiyou-yori-mo-mabushii-hoshi": {
     "group": "TAIYOU YORI MO MABUSHII HOSHI",
     "last_season": 1,
@@ -51,48 +87,6 @@
     "group": "MAJUTSUSHI KUNON WA MIETEIRU",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/xian-wang-de-richang-shenghuo-5": {
-    "group": "XIAN WANG DE RICHANG SHENGHUO 5",
-    "last_season": 1,
-    "last_episode": 5.0,
-    "start_episode": 1
-  },
-  "/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku": {
-    "group": "YUUSHA-KEI NI SHOSU: CHOUBATSU YUUSHA 9004-TAI KEIMU KIROKU",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/koi-wa-futago-de-warikirenai": {
-    "group": "KOI WA FUTAGO DE WARIKIRENAI",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/mf-ghost-3rd-season": {
-    "group": "MF GHOST 3RD SEASON",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/cengjing-you-yongshi": {
-    "group": "CENGJING YOU YONGSHI",
-    "last_season": 1,
-    "last_episode": 12.0,
-    "start_episode": 1
-  },
-  "/yi-ren-zhi-xia-6": {
-    "group": "YI REN ZHI XIA 6",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/nyaight-of-the-living-cat": {
-    "group": "NYAIGHT OF THE LIVING CAT",
-    "last_season": 1,
-    "last_episode": 10.0,
     "start_episode": 1
   }
 }

@@ -1,4 +1,28 @@
 {
+  "/dizi/brilliant-minds": {
+    "group": "Brilliant Minds",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/culinary-class-wars": {
+    "group": "Culinary Class Wars",
+    "last_season": 2,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi/saint-pierre": {
+    "group": "Saint-Pierre",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/st-denis-medical": {
+    "group": "St. Denis Medical",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/dizi/best-medicine": {
     "group": "Best Medicine",
     "last_season": 1,
