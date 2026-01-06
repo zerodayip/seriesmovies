@@ -22,47 +22,5 @@
     "last_season": 2,
     "last_episode": 9,
     "start_episode": 1
-  },
-  "/dizi/best-medicine": {
-    "group": "Best Medicine",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/dear-life": {
-    "group": "Dear Life",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/idol-i": {
-    "group": "Idol I",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/krapopolis": {
-    "group": "Krapopolis",
-    "last_season": 3,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi/miss-scarlet-and-the-duke": {
-    "group": "Miss Scarlet and the Duke",
-    "last_season": 6,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/the-simpsons": {
-    "group": "The Simpsons",
-    "last_season": 37,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/dizi/when-calls-the-heart": {
-    "group": "When Calls the Heart",
-    "last_season": 13,
-    "last_episode": 1,
-    "start_episode": 1
   }
 }

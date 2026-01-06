@@ -2,6 +2,9 @@
   "/dizi/red-eye-hdfc/": {
     "group": "RED EYE"
   },
+  "/dizi/spring-fever/": {
+    "group": "SPRING FEVER"
+  },
   "/dizi/surely-tomorrow/": {
     "group": "ELBET YARIN"
   },
@@ -22,12 +25,6 @@
   },
   "/dizi/run-away-2026/": {
     "group": "RUN AWAY"
-  },
-  "/dizi/nice-to-not-meet-you/": {
-    "group": "NICE TO NOT MEET YOU"
-  },
-  "/dizi/palm-royale-43/": {
-    "group": "PALM ROYALE"
   },
   "/dizi/the-war-between-the-land-and-the-sea/": {
     "group": "THE WAR BETWEEN THE LAND AND THE SEA"
@@ -91,8 +88,5 @@
   },
   "/dizi/community-dizisi/": {
     "group": "COMMUNITY"
-  },
-  "/dizi/buffy-the-vampire-slayer-dizi-hdfc/": {
-    "group": "BUFFY THE VAMPIRE SLAYER"
   }
 }
