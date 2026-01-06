@@ -2784,23 +2784,23 @@
   <programme start="20260106173000 +0000" stop="20260106195000 +0000" channel="ATV SD">
     <title>FENERBAHÇE - SAMSUNSPOR</title>
   </programme>
-  <programme start="20260106195000 +0000" stop="20260106214000 +0000" channel="4K TR: ATV HD">
-    <title>ÇAKALLARLA DANS 4</title>
+  <programme start="20260106195000 +0000" stop="20260106230000 +0000" channel="4K TR: ATV HD">
+    <title>KURULUŞ ORHAN</title>
   </programme>
-  <programme start="20260106195000 +0000" stop="20260106214000 +0000" channel="ATV">
-    <title>ÇAKALLARLA DANS 4</title>
+  <programme start="20260106195000 +0000" stop="20260106230000 +0000" channel="ATV">
+    <title>KURULUŞ ORHAN</title>
   </programme>
-  <programme start="20260106195000 +0000" stop="20260106214000 +0000" channel="ATV HD">
-    <title>ÇAKALLARLA DANS 4</title>
+  <programme start="20260106195000 +0000" stop="20260106230000 +0000" channel="ATV HD">
+    <title>KURULUŞ ORHAN</title>
   </programme>
-  <programme start="20260106195000 +0000" stop="20260106214000 +0000" channel="ATV HEVC">
-    <title>ÇAKALLARLA DANS 4</title>
+  <programme start="20260106195000 +0000" stop="20260106230000 +0000" channel="ATV HEVC">
+    <title>KURULUŞ ORHAN</title>
   </programme>
-  <programme start="20260106195000 +0000" stop="20260106214000 +0000" channel="ATV RAW">
-    <title>ÇAKALLARLA DANS 4</title>
+  <programme start="20260106195000 +0000" stop="20260106230000 +0000" channel="ATV RAW">
+    <title>KURULUŞ ORHAN</title>
   </programme>
-  <programme start="20260106195000 +0000" stop="20260106214000 +0000" channel="ATV SD">
-    <title>ÇAKALLARLA DANS 4</title>
+  <programme start="20260106195000 +0000" stop="20260106230000 +0000" channel="ATV SD">
+    <title>KURULUŞ ORHAN</title>
   </programme>
   <programme start="20260105211500 +0000" stop="20260106000000 +0000" channel="4K TR: SHOW TV HD">
     <title>RÜYA GIBI</title>
@@ -5829,8 +5829,8 @@
   <programme start="20260106200900 +0000" stop="20260106204800 +0000" channel="GZT TV">
     <title>ANTIK SEYYAH</title>
   </programme>
-  <programme start="20260106204800 +0000" stop="20260107205900 +0000" channel="GZT TV">
-    <title>SEYYARHANE</title>
+  <programme start="20260106204800 +0000" stop="20260106210000 +0000" channel="GZT TV">
+    <title>GZT TV</title>
   </programme>
   <programme start="20260105220000 +0000" stop="20260105230000 +0000" channel="VAV TV">
     <title>HADIS İKLIMI</title>
@@ -13758,110 +13758,95 @@
   <programme start="20260106163000 +0000" stop="20260106165500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>SPORUN İKONLARI</title>
   </programme>
-  <programme start="20260106165500 +0000" stop="20260106190000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260106165500 +0000" stop="20260106184500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>LODZ - FENERBAHÇE MEDICANA</title>
   </programme>
-  <programme start="20260106165500 +0000" stop="20260106190000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260106165500 +0000" stop="20260106184500 +0000" channel="TRT SPOR YILDIZ">
     <title>LODZ - FENERBAHÇE MEDICANA</title>
   </programme>
-  <programme start="20260106165500 +0000" stop="20260106190000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260106165500 +0000" stop="20260106184500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>LODZ - FENERBAHÇE MEDICANA</title>
   </programme>
-  <programme start="20260106165500 +0000" stop="20260106190000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260106165500 +0000" stop="20260106184500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>LODZ - FENERBAHÇE MEDICANA</title>
   </programme>
-  <programme start="20260106165500 +0000" stop="20260106190000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260106165500 +0000" stop="20260106184500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>LODZ - FENERBAHÇE MEDICANA</title>
   </programme>
-  <programme start="20260106190000 +0000" stop="20260106192000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260106184500 +0000" stop="20260106193000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>CEDEVITA O. - BAHÇEŞEHIR K.</title>
+  </programme>
+  <programme start="20260106184500 +0000" stop="20260106193000 +0000" channel="TRT SPOR YILDIZ">
+    <title>CEDEVITA O. - BAHÇEŞEHIR K.</title>
+  </programme>
+  <programme start="20260106184500 +0000" stop="20260106193000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>CEDEVITA O. - BAHÇEŞEHIR K.</title>
+  </programme>
+  <programme start="20260106184500 +0000" stop="20260106193000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>CEDEVITA O. - BAHÇEŞEHIR K.</title>
+  </programme>
+  <programme start="20260106184500 +0000" stop="20260106193000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>CEDEVITA O. - BAHÇEŞEHIR K.</title>
+  </programme>
+  <programme start="20260106193000 +0000" stop="20260106195000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>SPOR HER YERDE</title>
   </programme>
-  <programme start="20260106190000 +0000" stop="20260106192000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260106193000 +0000" stop="20260106195000 +0000" channel="TRT SPOR YILDIZ">
     <title>SPOR HER YERDE</title>
   </programme>
-  <programme start="20260106190000 +0000" stop="20260106192000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260106193000 +0000" stop="20260106195000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>SPOR HER YERDE</title>
   </programme>
-  <programme start="20260106190000 +0000" stop="20260106192000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260106193000 +0000" stop="20260106195000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>SPOR HER YERDE</title>
   </programme>
-  <programme start="20260106190000 +0000" stop="20260106192000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260106193000 +0000" stop="20260106195000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>SPOR HER YERDE</title>
   </programme>
-  <programme start="20260106192000 +0000" stop="20260106193500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260106195000 +0000" stop="20260106200500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>ULTRA</title>
   </programme>
-  <programme start="20260106192000 +0000" stop="20260106193500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260106195000 +0000" stop="20260106200500 +0000" channel="TRT SPOR YILDIZ">
     <title>ULTRA</title>
   </programme>
-  <programme start="20260106192000 +0000" stop="20260106193500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260106195000 +0000" stop="20260106200500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>ULTRA</title>
   </programme>
-  <programme start="20260106192000 +0000" stop="20260106193500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260106195000 +0000" stop="20260106200500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>ULTRA</title>
   </programme>
-  <programme start="20260106192000 +0000" stop="20260106193500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260106195000 +0000" stop="20260106200500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>ULTRA</title>
   </programme>
-  <programme start="20260106193500 +0000" stop="20260106200000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>SORMAZSAM OLMAZ</title>
-  </programme>
-  <programme start="20260106193500 +0000" stop="20260106200000 +0000" channel="TRT SPOR YILDIZ">
-    <title>SORMAZSAM OLMAZ</title>
-  </programme>
-  <programme start="20260106193500 +0000" stop="20260106200000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SORMAZSAM OLMAZ</title>
-  </programme>
-  <programme start="20260106193500 +0000" stop="20260106200000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SORMAZSAM OLMAZ</title>
-  </programme>
-  <programme start="20260106193500 +0000" stop="20260106200000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SORMAZSAM OLMAZ</title>
-  </programme>
-  <programme start="20260106200000 +0000" stop="20260106202500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20260106200000 +0000" stop="20260106202500 +0000" channel="TRT SPOR YILDIZ">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20260106200000 +0000" stop="20260106202500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20260106200000 +0000" stop="20260106202500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20260106200000 +0000" stop="20260106202500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20260106202500 +0000" stop="20260106205500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260106200500 +0000" stop="20260106203500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>ETNOSPOR</title>
   </programme>
-  <programme start="20260106202500 +0000" stop="20260106205500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260106200500 +0000" stop="20260106203500 +0000" channel="TRT SPOR YILDIZ">
     <title>ETNOSPOR</title>
   </programme>
-  <programme start="20260106202500 +0000" stop="20260106205500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260106200500 +0000" stop="20260106203500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>ETNOSPOR</title>
   </programme>
-  <programme start="20260106202500 +0000" stop="20260106205500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260106200500 +0000" stop="20260106203500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>ETNOSPOR</title>
   </programme>
-  <programme start="20260106202500 +0000" stop="20260106205500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260106200500 +0000" stop="20260106203500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>ETNOSPOR</title>
   </programme>
-  <programme start="20260106205500 +0000" stop="20260106210000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ONSUZ ASLA</title>
+  <programme start="20260106203500 +0000" stop="20260106210000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>SORMAZSAM OLMAZ</title>
   </programme>
-  <programme start="20260106205500 +0000" stop="20260106210000 +0000" channel="TRT SPOR YILDIZ">
-    <title>ONSUZ ASLA</title>
+  <programme start="20260106203500 +0000" stop="20260106210000 +0000" channel="TRT SPOR YILDIZ">
+    <title>SORMAZSAM OLMAZ</title>
   </programme>
-  <programme start="20260106205500 +0000" stop="20260106210000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ONSUZ ASLA</title>
+  <programme start="20260106203500 +0000" stop="20260106210000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>SORMAZSAM OLMAZ</title>
   </programme>
-  <programme start="20260106205500 +0000" stop="20260106210000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ONSUZ ASLA</title>
+  <programme start="20260106203500 +0000" stop="20260106210000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>SORMAZSAM OLMAZ</title>
   </programme>
-  <programme start="20260106205500 +0000" stop="20260106210000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ONSUZ ASLA</title>
+  <programme start="20260106203500 +0000" stop="20260106210000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>SORMAZSAM OLMAZ</title>
   </programme>
   <programme start="20260105223000 +0000" stop="20260106010000 +0000" channel="4K TR: A SPOR HD">
     <title>GALATASARAY - TRABZONSPOR</title>
@@ -35670,10 +35655,10 @@
   <programme start="20260106163000 +0000" stop="20260106174000 +0000" channel="KONTV">
     <title>ANA HABER</title>
   </programme>
-  <programme start="20260106174000 +0000" stop="20260106184000 +0000" channel="KONTV">
+  <programme start="20260106174000 +0000" stop="20260106183000 +0000" channel="KONTV">
     <title>İYILIKLE SEVINDIR</title>
   </programme>
-  <programme start="20260106184000 +0000" stop="20260106200000 +0000" channel="KONTV">
+  <programme start="20260106183000 +0000" stop="20260106200000 +0000" channel="KONTV">
     <title>TARIHIN KADRAJINDAN</title>
   </programme>
   <programme start="20260106200000 +0000" stop="20260106210000 +0000" channel="KONTV">
