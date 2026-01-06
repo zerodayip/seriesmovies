@@ -2,6 +2,9 @@
   "/dizi/red-eye-hdfc/": {
     "group": "RED EYE"
   },
+  "/dizi/landman/": {
+    "group": "LANDMAN"
+  },
   "/dizi/surely-tomorrow/": {
     "group": "ELBET YARIN"
   },
@@ -25,9 +28,6 @@
   },
   "/dizi/nice-to-not-meet-you/": {
     "group": "NICE TO NOT MEET YOU"
-  },
-  "/dizi/palm-royale-43/": {
-    "group": "PALM ROYALE"
   },
   "/dizi/dispatches-from-elsewhere/": {
     "group": "DISPATCHES FROM ELSEWHERE"

@@ -11,10 +11,22 @@
     "last_episode": 6,
     "start_episode": 1
   },
+  "/dizi/idol-i": {
+    "group": "Idol I",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/dizi/krapopolis": {
     "group": "Krapopolis",
     "last_season": 3,
     "last_episode": 12,
+    "start_episode": 1
+  },
+  "/dizi/miss-scarlet-and-the-duke": {
+    "group": "Miss Scarlet and the Duke",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/dizi/the-simpsons": {
@@ -27,24 +39,6 @@
     "group": "When Calls the Heart",
     "last_season": 13,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/pro-bono": {
-    "group": "pro bono",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/ripple": {
-    "group": "Ripple",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/surely-tomorrow": {
-    "group": "Surely Tomorrow",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }

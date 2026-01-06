@@ -1,4 +1,34 @@
 {
+  "/anime/the-case-book-of-arne/": {
+    "group": "THE CASE BOOK OF ARNE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/the-darwin-incident/": {
+    "group": "THE DARWIN INCIDENT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/tune-in-to-the-midnight-heart/": {
+    "group": "TUNE IN TO THE MIDNIGHT HEART",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter-isekai-no-sata-wa-shachiku-shidai/": {
+    "group": "ISEKAI OFFICE WORKER: THE OTHER WORLD’S BOOKS DEPEND ON THE BEAN COUNTER ISEKAI NO SATA WA SHACHIKU SHIDAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/the-demon-kings-daughter-is-too-kind/": {
+    "group": "THE DEMON KING’S DAUGHTER IS TOO KIND!!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/you-cant-be-in-a-rom-com-with-your-childhood-friends/": {
     "group": "YOU CAN’T BE IN A ROM-COM WITH YOUR CHILDHOOD FRIENDS!",
     "last_season": 1,
@@ -87,36 +117,6 @@
     "group": "SENTENCED TO BE A HERO",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/cats-eye/": {
-    "group": "CAT’S EYE",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/anime/mf-ghost-season-3/": {
-    "group": "MF GHOST SEASON 3",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/theres-no-freaking-way-ill-be-your-lover-unless-sequel/": {
-    "group": "THERE’S NO FREAKING WAY I’LL BE YOUR LOVER! UNLESS… (SEQUEL)",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/anime/tamons-b-side/": {
-    "group": "TAMON’S B-SIDE",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan/": {
-    "group": "KAGUYA-SAMA WA KOKURASETAI: OTONA E NO KAIDAN",
-    "last_season": 1,
-    "last_episode": 2,
     "start_episode": 1
   }
 }
