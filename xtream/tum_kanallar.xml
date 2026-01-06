@@ -4123,13 +4123,13 @@
     <title>KELIME OYUNU</title>
   </programme>
   <programme start="20260106181500 +0000" stop="20260106204500 +0000" channel="4K TR: TEVE2 HD">
-    <title>BEN BILMEM EŞIM BILIR</title>
+    <title>BEYAZ'LA JOKER</title>
   </programme>
   <programme start="20260106181500 +0000" stop="20260106204500 +0000" channel="TEVE2 RAW">
-    <title>BEN BILMEM EŞIM BILIR</title>
+    <title>BEYAZ'LA JOKER</title>
   </programme>
   <programme start="20260106181500 +0000" stop="20260106204500 +0000" channel="TEVE 2">
-    <title>BEN BILMEM EŞIM BILIR</title>
+    <title>BEYAZ'LA JOKER</title>
   </programme>
   <programme start="20260106204500 +0000" stop="20260106223000 +0000" channel="4K TR: TEVE2 HD">
     <title>KANIT</title>
@@ -35845,10 +35845,10 @@
     <title>ANA HABER</title>
   </programme>
   <programme start="20260106160000 +0000" stop="20260106163000 +0000" channel="KANAL V">
-    <title>HAYAT OKULU</title>
+    <title>HAYAT MOTORCUYA GÜZEL</title>
   </programme>
   <programme start="20260106163000 +0000" stop="20260106170000 +0000" channel="KANAL V">
-    <title>HAYAT OKULU</title>
+    <title>HAYAT MOTORCUYA GÜZEL</title>
   </programme>
   <programme start="20260106170000 +0000" stop="20260106173000 +0000" channel="KANAL V">
     <title>ATA SPORU</title>
@@ -36147,17 +36147,17 @@
   <programme start="20260106165500 +0000" stop="20260106170000 +0000" channel="BRT 1">
     <title>SPOR PARA HAVA</title>
   </programme>
-  <programme start="20260106170000 +0000" stop="20260106190000 +0000" channel="BRT 1">
-    <title>SÜPER LIG YOLU</title>
+  <programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="BRT 1">
+    <title>YEREL YÖNETIMLER</title>
+  </programme>
+  <programme start="20260106180000 +0000" stop="20260106190000 +0000" channel="BRT 1">
+    <title>BILGININ İZINDE</title>
   </programme>
   <programme start="20260106190000 +0000" stop="20260106190500 +0000" channel="BRT 1">
     <title>GÜN SONU</title>
   </programme>
-  <programme start="20260106190500 +0000" stop="20260106200000 +0000" channel="BRT 1">
-    <title>SÜPER LIG YOLU</title>
-  </programme>
-  <programme start="20260106200000 +0000" stop="20260107040000 +0000" channel="BRT 1">
-    <title>TRENDYOL SÜPER LIG MAÇ ÖZETLERI</title>
+  <programme start="20260106190500 +0000" stop="20260107040000 +0000" channel="BRT 1">
+    <title>KONSER</title>
   </programme>
   <programme start="20260106040000 +0000" stop="20260106043000 +0000" channel="BRT 2">
     <title>DEĞIŞEN HAYATLAR</title>
