@@ -29,6 +29,9 @@
   "/dizi/nice-to-not-meet-you/": {
     "group": "NICE TO NOT MEET YOU"
   },
+  "/dizi/the-war-between-the-land-and-the-sea/": {
+    "group": "THE WAR BETWEEN THE LAND AND THE SEA"
+  },
   "/dizi/dispatches-from-elsewhere/": {
     "group": "DISPATCHES FROM ELSEWHERE"
   },
@@ -91,8 +94,5 @@
   },
   "/dizi/buffy-the-vampire-slayer-dizi-hdfc/": {
     "group": "BUFFY THE VAMPIRE SLAYER"
-  },
-  "/dizi/castle-2009-dizisi/": {
-    "group": "CASTLE"
   }
 }
