@@ -1470,8 +1470,23 @@
   <programme start="20260106110000 +0000" stop="20260106134700 +0000" channel="TABII TV">
     <title>ELIMI BIRAKMA</title>
   </programme>
-  <programme start="20260106134700 +0000" stop="20260107150000 +0000" channel="TABII TV">
+  <programme start="20260106134700 +0000" stop="20260106144100 +0000" channel="TABII TV">
     <title>YEDI NUMARA</title>
+  </programme>
+  <programme start="20260106144100 +0000" stop="20260106153300 +0000" channel="TABII TV">
+    <title>ÇIÇEK TAKSI</title>
+  </programme>
+  <programme start="20260106153300 +0000" stop="20260106162700 +0000" channel="TABII TV">
+    <title>YEDI NUMARA</title>
+  </programme>
+  <programme start="20260106162700 +0000" stop="20260106171400 +0000" channel="TABII TV">
+    <title>EYVAH RAMAZAN BEY</title>
+  </programme>
+  <programme start="20260106171400 +0000" stop="20260106182100 +0000" channel="TABII TV">
+    <title>YEŞIL DENIZ MILENYUM</title>
+  </programme>
+  <programme start="20260106182100 +0000" stop="20260106210700 +0000" channel="TABII TV">
+    <title>ELIMI BIRAKMA</title>
   </programme>
   <programme start="20260105220000 +0000" stop="20260106003000 +0000" channel="4K TR: S NEMA YERL HD">
     <title>DABBE: ZEHR-I CIN</title>
@@ -15738,79 +15753,79 @@
   <programme start="20260106035800 +0000" stop="20260106040000 +0000" channel="TRT BELGESEL RAW">
     <title>İSTIKLAL MARŞI</title>
   </programme>
-  <programme start="20260106040000 +0000" stop="20260106050000 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106040000 +0000" stop="20260106045500 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>TÜRKIYE'NIN DEV YAPILARI ILISU BARAJI</title>
   </programme>
-  <programme start="20260106040000 +0000" stop="20260106050000 +0000" channel="TRT BELGESEL">
+  <programme start="20260106040000 +0000" stop="20260106045500 +0000" channel="TRT BELGESEL">
     <title>TÜRKIYE'NIN DEV YAPILARI ILISU BARAJI</title>
   </programme>
-  <programme start="20260106040000 +0000" stop="20260106050000 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106040000 +0000" stop="20260106045500 +0000" channel="TRT BELGESEL HD+">
     <title>TÜRKIYE'NIN DEV YAPILARI ILISU BARAJI</title>
   </programme>
-  <programme start="20260106040000 +0000" stop="20260106050000 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106040000 +0000" stop="20260106045500 +0000" channel="TRT BELGESEL HEVC">
     <title>TÜRKIYE'NIN DEV YAPILARI ILISU BARAJI</title>
   </programme>
-  <programme start="20260106040000 +0000" stop="20260106050000 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106040000 +0000" stop="20260106045500 +0000" channel="TRT BELGESEL RAW">
     <title>TÜRKIYE'NIN DEV YAPILARI ILISU BARAJI</title>
   </programme>
-  <programme start="20260106050000 +0000" stop="20260106052500 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106045500 +0000" stop="20260106052000 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>YÜZER EVIM</title>
   </programme>
-  <programme start="20260106050000 +0000" stop="20260106052500 +0000" channel="TRT BELGESEL">
+  <programme start="20260106045500 +0000" stop="20260106052000 +0000" channel="TRT BELGESEL">
     <title>YÜZER EVIM</title>
   </programme>
-  <programme start="20260106050000 +0000" stop="20260106052500 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106045500 +0000" stop="20260106052000 +0000" channel="TRT BELGESEL HD+">
     <title>YÜZER EVIM</title>
   </programme>
-  <programme start="20260106050000 +0000" stop="20260106052500 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106045500 +0000" stop="20260106052000 +0000" channel="TRT BELGESEL HEVC">
     <title>YÜZER EVIM</title>
   </programme>
-  <programme start="20260106050000 +0000" stop="20260106052500 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106045500 +0000" stop="20260106052000 +0000" channel="TRT BELGESEL RAW">
     <title>YÜZER EVIM</title>
   </programme>
-  <programme start="20260106052500 +0000" stop="20260106055000 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106052000 +0000" stop="20260106054500 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>YÜZER EVIM</title>
   </programme>
-  <programme start="20260106052500 +0000" stop="20260106055000 +0000" channel="TRT BELGESEL">
+  <programme start="20260106052000 +0000" stop="20260106054500 +0000" channel="TRT BELGESEL">
     <title>YÜZER EVIM</title>
   </programme>
-  <programme start="20260106052500 +0000" stop="20260106055000 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106052000 +0000" stop="20260106054500 +0000" channel="TRT BELGESEL HD+">
     <title>YÜZER EVIM</title>
   </programme>
-  <programme start="20260106052500 +0000" stop="20260106055000 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106052000 +0000" stop="20260106054500 +0000" channel="TRT BELGESEL HEVC">
     <title>YÜZER EVIM</title>
   </programme>
-  <programme start="20260106052500 +0000" stop="20260106055000 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106052000 +0000" stop="20260106054500 +0000" channel="TRT BELGESEL RAW">
     <title>YÜZER EVIM</title>
   </programme>
-  <programme start="20260106055000 +0000" stop="20260106063500 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106054500 +0000" stop="20260106064000 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>ULAK</title>
   </programme>
-  <programme start="20260106055000 +0000" stop="20260106063500 +0000" channel="TRT BELGESEL">
+  <programme start="20260106054500 +0000" stop="20260106064000 +0000" channel="TRT BELGESEL">
     <title>ULAK</title>
   </programme>
-  <programme start="20260106055000 +0000" stop="20260106063500 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106054500 +0000" stop="20260106064000 +0000" channel="TRT BELGESEL HD+">
     <title>ULAK</title>
   </programme>
-  <programme start="20260106055000 +0000" stop="20260106063500 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106054500 +0000" stop="20260106064000 +0000" channel="TRT BELGESEL HEVC">
     <title>ULAK</title>
   </programme>
-  <programme start="20260106055000 +0000" stop="20260106063500 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106054500 +0000" stop="20260106064000 +0000" channel="TRT BELGESEL RAW">
     <title>ULAK</title>
   </programme>
-  <programme start="20260106063500 +0000" stop="20260106073500 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106064000 +0000" stop="20260106073500 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>TUHAF VAHŞI VE HARIKULADE</title>
   </programme>
-  <programme start="20260106063500 +0000" stop="20260106073500 +0000" channel="TRT BELGESEL">
+  <programme start="20260106064000 +0000" stop="20260106073500 +0000" channel="TRT BELGESEL">
     <title>TUHAF VAHŞI VE HARIKULADE</title>
   </programme>
-  <programme start="20260106063500 +0000" stop="20260106073500 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106064000 +0000" stop="20260106073500 +0000" channel="TRT BELGESEL HD+">
     <title>TUHAF VAHŞI VE HARIKULADE</title>
   </programme>
-  <programme start="20260106063500 +0000" stop="20260106073500 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106064000 +0000" stop="20260106073500 +0000" channel="TRT BELGESEL HEVC">
     <title>TUHAF VAHŞI VE HARIKULADE</title>
   </programme>
-  <programme start="20260106063500 +0000" stop="20260106073500 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106064000 +0000" stop="20260106073500 +0000" channel="TRT BELGESEL RAW">
     <title>TUHAF VAHŞI VE HARIKULADE</title>
   </programme>
   <programme start="20260106073500 +0000" stop="20260106083000 +0000" channel="4K TR: TRT BELGESEL HD">
@@ -15858,185 +15873,215 @@
   <programme start="20260106090500 +0000" stop="20260106100000 +0000" channel="TRT BELGESEL RAW">
     <title>YIRTICI KUŞLAR</title>
   </programme>
-  <programme start="20260106100000 +0000" stop="20260106104000 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106100000 +0000" stop="20260106103000 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>ANTIKA DEDEKTIFI</title>
   </programme>
-  <programme start="20260106100000 +0000" stop="20260106104000 +0000" channel="TRT BELGESEL">
+  <programme start="20260106100000 +0000" stop="20260106103000 +0000" channel="TRT BELGESEL">
     <title>ANTIKA DEDEKTIFI</title>
   </programme>
-  <programme start="20260106100000 +0000" stop="20260106104000 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106100000 +0000" stop="20260106103000 +0000" channel="TRT BELGESEL HD+">
     <title>ANTIKA DEDEKTIFI</title>
   </programme>
-  <programme start="20260106100000 +0000" stop="20260106104000 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106100000 +0000" stop="20260106103000 +0000" channel="TRT BELGESEL HEVC">
     <title>ANTIKA DEDEKTIFI</title>
   </programme>
-  <programme start="20260106100000 +0000" stop="20260106104000 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106100000 +0000" stop="20260106103000 +0000" channel="TRT BELGESEL RAW">
     <title>ANTIKA DEDEKTIFI</title>
   </programme>
-  <programme start="20260106104000 +0000" stop="20260106110500 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106103000 +0000" stop="20260106105500 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>HURDADAN HAZINEYE</title>
   </programme>
-  <programme start="20260106104000 +0000" stop="20260106110500 +0000" channel="TRT BELGESEL">
+  <programme start="20260106103000 +0000" stop="20260106105500 +0000" channel="TRT BELGESEL">
     <title>HURDADAN HAZINEYE</title>
   </programme>
-  <programme start="20260106104000 +0000" stop="20260106110500 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106103000 +0000" stop="20260106105500 +0000" channel="TRT BELGESEL HD+">
     <title>HURDADAN HAZINEYE</title>
   </programme>
-  <programme start="20260106104000 +0000" stop="20260106110500 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106103000 +0000" stop="20260106105500 +0000" channel="TRT BELGESEL HEVC">
     <title>HURDADAN HAZINEYE</title>
   </programme>
-  <programme start="20260106104000 +0000" stop="20260106110500 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106103000 +0000" stop="20260106105500 +0000" channel="TRT BELGESEL RAW">
     <title>HURDADAN HAZINEYE</title>
   </programme>
-  <programme start="20260106110500 +0000" stop="20260106120500 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106105500 +0000" stop="20260106115000 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>AILENIN YENI ÜYESI</title>
   </programme>
-  <programme start="20260106110500 +0000" stop="20260106120500 +0000" channel="TRT BELGESEL">
+  <programme start="20260106105500 +0000" stop="20260106115000 +0000" channel="TRT BELGESEL">
     <title>AILENIN YENI ÜYESI</title>
   </programme>
-  <programme start="20260106110500 +0000" stop="20260106120500 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106105500 +0000" stop="20260106115000 +0000" channel="TRT BELGESEL HD+">
     <title>AILENIN YENI ÜYESI</title>
   </programme>
-  <programme start="20260106110500 +0000" stop="20260106120500 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106105500 +0000" stop="20260106115000 +0000" channel="TRT BELGESEL HEVC">
     <title>AILENIN YENI ÜYESI</title>
   </programme>
-  <programme start="20260106110500 +0000" stop="20260106120500 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106105500 +0000" stop="20260106115000 +0000" channel="TRT BELGESEL RAW">
     <title>AILENIN YENI ÜYESI</title>
   </programme>
-  <programme start="20260106120500 +0000" stop="20260106123500 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106115000 +0000" stop="20260106122000 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>GÜMRÜK 24 SAAT</title>
   </programme>
-  <programme start="20260106120500 +0000" stop="20260106123500 +0000" channel="TRT BELGESEL">
+  <programme start="20260106115000 +0000" stop="20260106122000 +0000" channel="TRT BELGESEL">
     <title>GÜMRÜK 24 SAAT</title>
   </programme>
-  <programme start="20260106120500 +0000" stop="20260106123500 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106115000 +0000" stop="20260106122000 +0000" channel="TRT BELGESEL HD+">
     <title>GÜMRÜK 24 SAAT</title>
   </programme>
-  <programme start="20260106120500 +0000" stop="20260106123500 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106115000 +0000" stop="20260106122000 +0000" channel="TRT BELGESEL HEVC">
     <title>GÜMRÜK 24 SAAT</title>
   </programme>
-  <programme start="20260106120500 +0000" stop="20260106123500 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106115000 +0000" stop="20260106122000 +0000" channel="TRT BELGESEL RAW">
     <title>GÜMRÜK 24 SAAT</title>
   </programme>
-  <programme start="20260106123500 +0000" stop="20260106132500 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106122000 +0000" stop="20260106131000 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>MAVI DÜNYA</title>
   </programme>
-  <programme start="20260106123500 +0000" stop="20260106132500 +0000" channel="TRT BELGESEL">
+  <programme start="20260106122000 +0000" stop="20260106131000 +0000" channel="TRT BELGESEL">
     <title>MAVI DÜNYA</title>
   </programme>
-  <programme start="20260106123500 +0000" stop="20260106132500 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106122000 +0000" stop="20260106131000 +0000" channel="TRT BELGESEL HD+">
     <title>MAVI DÜNYA</title>
   </programme>
-  <programme start="20260106123500 +0000" stop="20260106132500 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106122000 +0000" stop="20260106131000 +0000" channel="TRT BELGESEL HEVC">
     <title>MAVI DÜNYA</title>
   </programme>
-  <programme start="20260106123500 +0000" stop="20260106132500 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106122000 +0000" stop="20260106131000 +0000" channel="TRT BELGESEL RAW">
     <title>MAVI DÜNYA</title>
   </programme>
-  <programme start="20260106132500 +0000" stop="20260106135500 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106131000 +0000" stop="20260106134000 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>KRONOVIZÖR</title>
   </programme>
-  <programme start="20260106132500 +0000" stop="20260106135500 +0000" channel="TRT BELGESEL">
+  <programme start="20260106131000 +0000" stop="20260106134000 +0000" channel="TRT BELGESEL">
     <title>KRONOVIZÖR</title>
   </programme>
-  <programme start="20260106132500 +0000" stop="20260106135500 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106131000 +0000" stop="20260106134000 +0000" channel="TRT BELGESEL HD+">
     <title>KRONOVIZÖR</title>
   </programme>
-  <programme start="20260106132500 +0000" stop="20260106135500 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106131000 +0000" stop="20260106134000 +0000" channel="TRT BELGESEL HEVC">
     <title>KRONOVIZÖR</title>
   </programme>
-  <programme start="20260106132500 +0000" stop="20260106135500 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106131000 +0000" stop="20260106134000 +0000" channel="TRT BELGESEL RAW">
     <title>KRONOVIZÖR</title>
   </programme>
-  <programme start="20260106135500 +0000" stop="20260106145000 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106134000 +0000" stop="20260106143500 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>YAĞMURLARIN PEŞINDE</title>
   </programme>
-  <programme start="20260106135500 +0000" stop="20260106145000 +0000" channel="TRT BELGESEL">
+  <programme start="20260106134000 +0000" stop="20260106143500 +0000" channel="TRT BELGESEL">
     <title>YAĞMURLARIN PEŞINDE</title>
   </programme>
-  <programme start="20260106135500 +0000" stop="20260106145000 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106134000 +0000" stop="20260106143500 +0000" channel="TRT BELGESEL HD+">
     <title>YAĞMURLARIN PEŞINDE</title>
   </programme>
-  <programme start="20260106135500 +0000" stop="20260106145000 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106134000 +0000" stop="20260106143500 +0000" channel="TRT BELGESEL HEVC">
     <title>YAĞMURLARIN PEŞINDE</title>
   </programme>
-  <programme start="20260106135500 +0000" stop="20260106145000 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106134000 +0000" stop="20260106143500 +0000" channel="TRT BELGESEL RAW">
     <title>YAĞMURLARIN PEŞINDE</title>
   </programme>
-  <programme start="20260106145000 +0000" stop="20260106155500 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106143500 +0000" stop="20260106154000 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>ŞEHIRDEN UZAKTA</title>
   </programme>
-  <programme start="20260106145000 +0000" stop="20260106155500 +0000" channel="TRT BELGESEL">
+  <programme start="20260106143500 +0000" stop="20260106154000 +0000" channel="TRT BELGESEL">
     <title>ŞEHIRDEN UZAKTA</title>
   </programme>
-  <programme start="20260106145000 +0000" stop="20260106155500 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106143500 +0000" stop="20260106154000 +0000" channel="TRT BELGESEL HD+">
     <title>ŞEHIRDEN UZAKTA</title>
   </programme>
-  <programme start="20260106145000 +0000" stop="20260106155500 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106143500 +0000" stop="20260106154000 +0000" channel="TRT BELGESEL HEVC">
     <title>ŞEHIRDEN UZAKTA</title>
   </programme>
-  <programme start="20260106145000 +0000" stop="20260106155500 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106143500 +0000" stop="20260106154000 +0000" channel="TRT BELGESEL RAW">
     <title>ŞEHIRDEN UZAKTA</title>
   </programme>
-  <programme start="20260106155500 +0000" stop="20260106165000 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106154000 +0000" stop="20260106163500 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>ANADOLU İNSANI</title>
   </programme>
-  <programme start="20260106155500 +0000" stop="20260106165000 +0000" channel="TRT BELGESEL">
+  <programme start="20260106154000 +0000" stop="20260106163500 +0000" channel="TRT BELGESEL">
     <title>ANADOLU İNSANI</title>
   </programme>
-  <programme start="20260106155500 +0000" stop="20260106165000 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106154000 +0000" stop="20260106163500 +0000" channel="TRT BELGESEL HD+">
     <title>ANADOLU İNSANI</title>
   </programme>
-  <programme start="20260106155500 +0000" stop="20260106165000 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106154000 +0000" stop="20260106163500 +0000" channel="TRT BELGESEL HEVC">
     <title>ANADOLU İNSANI</title>
   </programme>
-  <programme start="20260106155500 +0000" stop="20260106165000 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106154000 +0000" stop="20260106163500 +0000" channel="TRT BELGESEL RAW">
     <title>ANADOLU İNSANI</title>
   </programme>
-  <programme start="20260106165000 +0000" stop="20260106174500 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106163500 +0000" stop="20260106173000 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>YIRTICI KUŞLAR</title>
   </programme>
-  <programme start="20260106165000 +0000" stop="20260106174500 +0000" channel="TRT BELGESEL">
+  <programme start="20260106163500 +0000" stop="20260106173000 +0000" channel="TRT BELGESEL">
     <title>YIRTICI KUŞLAR</title>
   </programme>
-  <programme start="20260106165000 +0000" stop="20260106174500 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106163500 +0000" stop="20260106173000 +0000" channel="TRT BELGESEL HD+">
     <title>YIRTICI KUŞLAR</title>
   </programme>
-  <programme start="20260106165000 +0000" stop="20260106174500 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106163500 +0000" stop="20260106173000 +0000" channel="TRT BELGESEL HEVC">
     <title>YIRTICI KUŞLAR</title>
   </programme>
-  <programme start="20260106165000 +0000" stop="20260106174500 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106163500 +0000" stop="20260106173000 +0000" channel="TRT BELGESEL RAW">
     <title>YIRTICI KUŞLAR</title>
   </programme>
-  <programme start="20260106174500 +0000" stop="20260106184500 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106173000 +0000" stop="20260106182500 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>MÜKEMMEL GEZEGEN</title>
   </programme>
-  <programme start="20260106174500 +0000" stop="20260106184500 +0000" channel="TRT BELGESEL">
+  <programme start="20260106173000 +0000" stop="20260106182500 +0000" channel="TRT BELGESEL">
     <title>MÜKEMMEL GEZEGEN</title>
   </programme>
-  <programme start="20260106174500 +0000" stop="20260106184500 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106173000 +0000" stop="20260106182500 +0000" channel="TRT BELGESEL HD+">
     <title>MÜKEMMEL GEZEGEN</title>
   </programme>
-  <programme start="20260106174500 +0000" stop="20260106184500 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106173000 +0000" stop="20260106182500 +0000" channel="TRT BELGESEL HEVC">
     <title>MÜKEMMEL GEZEGEN</title>
   </programme>
-  <programme start="20260106174500 +0000" stop="20260106184500 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106173000 +0000" stop="20260106182500 +0000" channel="TRT BELGESEL RAW">
     <title>MÜKEMMEL GEZEGEN</title>
   </programme>
-  <programme start="20260106184500 +0000" stop="20260106194500 +0000" channel="4K TR: TRT BELGESEL HD">
+  <programme start="20260106182500 +0000" stop="20260106192500 +0000" channel="4K TR: TRT BELGESEL HD">
     <title>GELENEĞI YAŞATMAK</title>
   </programme>
-  <programme start="20260106184500 +0000" stop="20260106194500 +0000" channel="TRT BELGESEL">
+  <programme start="20260106182500 +0000" stop="20260106192500 +0000" channel="TRT BELGESEL">
     <title>GELENEĞI YAŞATMAK</title>
   </programme>
-  <programme start="20260106184500 +0000" stop="20260106194500 +0000" channel="TRT BELGESEL HD+">
+  <programme start="20260106182500 +0000" stop="20260106192500 +0000" channel="TRT BELGESEL HD+">
     <title>GELENEĞI YAŞATMAK</title>
   </programme>
-  <programme start="20260106184500 +0000" stop="20260106194500 +0000" channel="TRT BELGESEL HEVC">
+  <programme start="20260106182500 +0000" stop="20260106192500 +0000" channel="TRT BELGESEL HEVC">
     <title>GELENEĞI YAŞATMAK</title>
   </programme>
-  <programme start="20260106184500 +0000" stop="20260106194500 +0000" channel="TRT BELGESEL RAW">
+  <programme start="20260106182500 +0000" stop="20260106192500 +0000" channel="TRT BELGESEL RAW">
     <title>GELENEĞI YAŞATMAK</title>
+  </programme>
+  <programme start="20260106192500 +0000" stop="20260106202000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>TUHAF VAHŞI VE HARIKULADE</title>
+  </programme>
+  <programme start="20260106192500 +0000" stop="20260106202000 +0000" channel="TRT BELGESEL">
+    <title>TUHAF VAHŞI VE HARIKULADE</title>
+  </programme>
+  <programme start="20260106192500 +0000" stop="20260106202000 +0000" channel="TRT BELGESEL HD+">
+    <title>TUHAF VAHŞI VE HARIKULADE</title>
+  </programme>
+  <programme start="20260106192500 +0000" stop="20260106202000 +0000" channel="TRT BELGESEL HEVC">
+    <title>TUHAF VAHŞI VE HARIKULADE</title>
+  </programme>
+  <programme start="20260106192500 +0000" stop="20260106202000 +0000" channel="TRT BELGESEL RAW">
+    <title>TUHAF VAHŞI VE HARIKULADE</title>
+  </programme>
+  <programme start="20260106202000 +0000" stop="20260106211000 +0000" channel="4K TR: TRT BELGESEL HD">
+    <title>MAVI DÜNYA</title>
+  </programme>
+  <programme start="20260106202000 +0000" stop="20260106211000 +0000" channel="TRT BELGESEL">
+    <title>MAVI DÜNYA</title>
+  </programme>
+  <programme start="20260106202000 +0000" stop="20260106211000 +0000" channel="TRT BELGESEL HD+">
+    <title>MAVI DÜNYA</title>
+  </programme>
+  <programme start="20260106202000 +0000" stop="20260106211000 +0000" channel="TRT BELGESEL HEVC">
+    <title>MAVI DÜNYA</title>
+  </programme>
+  <programme start="20260106202000 +0000" stop="20260106211000 +0000" channel="TRT BELGESEL RAW">
+    <title>MAVI DÜNYA</title>
   </programme>
   <programme start="20260105210500 +0000" stop="20260105213500 +0000" channel="TARIH TV">
     <title>DEMIRYOLU HIKAYEMIZ</title>
