@@ -225,8 +225,9 @@ jobs:
           ( python private_py/series/dizipal/yenibolumler.py || true ) &
           wait
       
-          echo "🔄 Batch 3 başlıyor (SezonlukDizi & DiziLife & Tlc & Dmax)"
+          echo "🔄 Batch 3 başlıyor (SezonlukDizi & AnimeHeaven & DiziLife & Tlc & Dmax)"
           ( python private_py/series/sezonlukdizi/yenibolumler.py || true ) &
+          ( python private_py/anime/ingilizce/animeheaven/yenibolumler.py || true ) &
           ( python private_py/series/dizilife/yenibolumler.py || true ) &
           ( python private_py/series/tlc/yenibolumler.py || true ) &
           ( python private_py/series/dmax/yenibolumler.py || true ) &
@@ -363,6 +364,17 @@ jobs:
           git config user.email "actions@github.com"
           git add . || echo "No files"
           git commit -m "Dizipal çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
+
+          # AnimeHeaven
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/animeheaven.git private_animeheaven
+          rsync -a animeheaven/ private_animeheaven/
+          cd private_animeheaven
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "AnimeHeaven çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
           cd ..
 
