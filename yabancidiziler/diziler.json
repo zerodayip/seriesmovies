@@ -368,7 +368,7 @@
   "/dizi/idol-i": {
     "group": "Idol I",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/amor-de-oficina": {
@@ -457,8 +457,8 @@
   },
   "/dizi/miss-scarlet-and-the-duke": {
     "group": "Miss Scarlet and the Duke",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
