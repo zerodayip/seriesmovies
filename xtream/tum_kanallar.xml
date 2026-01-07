@@ -2365,25 +2365,25 @@
     <title>EŞREF RÜYA</title>
   </programme>
   <programme start="20260107201500 +0000" stop="20260107220000 +0000" channel="4K TR: KANAL D HD">
-    <title>SINEMA</title>
+    <title>BEYAZ'LA JOKER</title>
   </programme>
   <programme start="20260107201500 +0000" stop="20260107220000 +0000" channel="KANAL D">
-    <title>SINEMA</title>
+    <title>BEYAZ'LA JOKER</title>
   </programme>
   <programme start="20260107201500 +0000" stop="20260107220000 +0000" channel="KANAL D FHD">
-    <title>SINEMA</title>
+    <title>BEYAZ'LA JOKER</title>
   </programme>
   <programme start="20260107201500 +0000" stop="20260107220000 +0000" channel="KANAL D HD">
-    <title>SINEMA</title>
+    <title>BEYAZ'LA JOKER</title>
   </programme>
   <programme start="20260107201500 +0000" stop="20260107220000 +0000" channel="KANAL D HEVC">
-    <title>SINEMA</title>
+    <title>BEYAZ'LA JOKER</title>
   </programme>
   <programme start="20260107201500 +0000" stop="20260107220000 +0000" channel="KANAL D RAW">
-    <title>SINEMA</title>
+    <title>BEYAZ'LA JOKER</title>
   </programme>
   <programme start="20260107201500 +0000" stop="20260107220000 +0000" channel="KANAL D SD">
-    <title>SINEMA</title>
+    <title>BEYAZ'LA JOKER</title>
   </programme>
   <programme start="20260106213000 +0000" stop="20260106233000 +0000" channel="4K TR: STAR TV HD">
     <title>SON HIÇKIRIK</title>
@@ -13086,16 +13086,16 @@
   <programme start="20260107170000 +0000" stop="20260107180000 +0000" channel="SÖZCÜ TV">
     <title>GÜNÜN DOSYASI</title>
   </programme>
-  <programme start="20260107180000 +0000" stop="20260107213000 +0000" channel="S ZC SZC TV">
+  <programme start="20260107180000 +0000" stop="20260107210000 +0000" channel="S ZC SZC TV">
     <title>TÜRKIYE'NIN SÖZÜ</title>
   </programme>
-  <programme start="20260107180000 +0000" stop="20260107213000 +0000" channel="4K TR: SOZCU TV">
+  <programme start="20260107180000 +0000" stop="20260107210000 +0000" channel="4K TR: SOZCU TV">
     <title>TÜRKIYE'NIN SÖZÜ</title>
   </programme>
-  <programme start="20260107180000 +0000" stop="20260107213000 +0000" channel="SOZCU SZC TV SD">
+  <programme start="20260107180000 +0000" stop="20260107210000 +0000" channel="SOZCU SZC TV SD">
     <title>TÜRKIYE'NIN SÖZÜ</title>
   </programme>
-  <programme start="20260107180000 +0000" stop="20260107213000 +0000" channel="SÖZCÜ TV">
+  <programme start="20260107180000 +0000" stop="20260107210000 +0000" channel="SÖZCÜ TV">
     <title>TÜRKIYE'NIN SÖZÜ</title>
   </programme>
   <programme start="20260106210000 +0000" stop="20260106223000 +0000" channel="4K TR: TRT SPOR HD">
@@ -23820,46 +23820,46 @@
   <programme start="20260106222600 +0000" stop="20260106224900 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260106224900 +0000" stop="20260106231000 +0000" channel="NICKTOONS">
-    <title>SPONGEBOB SQUAREPANTS</title>
-  </programme>
-  <programme start="20260106231000 +0000" stop="20260106233200 +0000" channel="NICKTOONS">
+  <programme start="20260106230600 +0000" stop="20260106232800 +0000" channel="NICKTOONS">
     <title>TRANSFORMERS: EARTHSPARK</title>
   </programme>
-  <programme start="20260106233200 +0000" stop="20260106235400 +0000" channel="NICKTOONS">
+  <programme start="20260106232800 +0000" stop="20260106234900 +0000" channel="NICKTOONS">
     <title>MONSTER HIGH</title>
   </programme>
-  <programme start="20260106235400 +0000" stop="20260107001500 +0000" channel="NICKTOONS">
+  <programme start="20260106234900 +0000" stop="20260107001000 +0000" channel="NICKTOONS">
     <title>BEST AND BESTER</title>
   </programme>
-  <programme start="20260107001500 +0000" stop="20260107003600 +0000" channel="NICKTOONS">
+  <programme start="20260107001000 +0000" stop="20260107003100 +0000" channel="NICKTOONS">
     <title>BEST AND BESTER</title>
   </programme>
-  <programme start="20260107003600 +0000" stop="20260107005700 +0000" channel="NICKTOONS">
+  <programme start="20260107003100 +0000" stop="20260107005200 +0000" channel="NICKTOONS">
     <title>BEST AND BESTER</title>
   </programme>
-  <programme start="20260107005700 +0000" stop="20260107011900 +0000" channel="NICKTOONS">
+  <programme start="20260107005200 +0000" stop="20260107011400 +0000" channel="NICKTOONS">
     <title>HARVEY BEAKS</title>
   </programme>
-  <programme start="20260107011900 +0000" stop="20260107014000 +0000" channel="NICKTOONS">
+  <programme start="20260107011400 +0000" stop="20260107013700 +0000" channel="NICKTOONS">
     <title>WALLYKAZAM!</title>
   </programme>
-  <programme start="20260107014000 +0000" stop="20260107020100 +0000" channel="NICKTOONS">
+  <programme start="20260107013700 +0000" stop="20260107015900 +0000" channel="NICKTOONS">
     <title>WINX CLUB</title>
   </programme>
-  <programme start="20260107020100 +0000" stop="20260107022400 +0000" channel="NICKTOONS">
+  <programme start="20260107015900 +0000" stop="20260107022100 +0000" channel="NICKTOONS">
     <title>AVATAR: THE LAST AIRBENDER</title>
   </programme>
-  <programme start="20260107022400 +0000" stop="20260107024500 +0000" channel="NICKTOONS">
+  <programme start="20260107022100 +0000" stop="20260107024300 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107024500 +0000" stop="20260107025700 +0000" channel="NICKTOONS">
+  <programme start="20260107024300 +0000" stop="20260107025400 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107025700 +0000" stop="20260107031800 +0000" channel="NICKTOONS">
+  <programme start="20260107025400 +0000" stop="20260107031600 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107031800 +0000" stop="20260107034000 +0000" channel="NICKTOONS">
+  <programme start="20260107031600 +0000" stop="20260107033800 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20260107033800 +0000" stop="20260107034000 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
   <programme start="20260107034000 +0000" stop="20260107040000 +0000" channel="NICKTOONS">
@@ -23871,25 +23871,25 @@
   <programme start="20260107042100 +0000" stop="20260107044400 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107044400 +0000" stop="20260107050600 +0000" channel="NICKTOONS">
+  <programme start="20260107044400 +0000" stop="20260107050700 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107050600 +0000" stop="20260107051900 +0000" channel="NICKTOONS">
+  <programme start="20260107050700 +0000" stop="20260107051900 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107051900 +0000" stop="20260107054100 +0000" channel="NICKTOONS">
+  <programme start="20260107051900 +0000" stop="20260107054200 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107054100 +0000" stop="20260107060300 +0000" channel="NICKTOONS">
+  <programme start="20260107054200 +0000" stop="20260107060400 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260107060300 +0000" stop="20260107061500 +0000" channel="NICKTOONS">
+  <programme start="20260107060400 +0000" stop="20260107061600 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260107061500 +0000" stop="20260107063700 +0000" channel="NICKTOONS">
+  <programme start="20260107061600 +0000" stop="20260107063800 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260107063700 +0000" stop="20260107070000 +0000" channel="NICKTOONS">
+  <programme start="20260107063800 +0000" stop="20260107070000 +0000" channel="NICKTOONS">
     <title>THE CASAGRANDES</title>
   </programme>
   <programme start="20260107070000 +0000" stop="20260107072200 +0000" channel="NICKTOONS">
@@ -23898,124 +23898,124 @@
   <programme start="20260107072200 +0000" stop="20260107074400 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107074400 +0000" stop="20260107080600 +0000" channel="NICKTOONS">
+  <programme start="20260107074400 +0000" stop="20260107080700 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107080600 +0000" stop="20260107082800 +0000" channel="NICKTOONS">
+  <programme start="20260107080700 +0000" stop="20260107082800 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107082800 +0000" stop="20260107085100 +0000" channel="NICKTOONS">
+  <programme start="20260107082800 +0000" stop="20260107085000 +0000" channel="NICKTOONS">
     <title>TALES OF THE TEENAGE MUTANT NINJA TURTLES</title>
   </programme>
-  <programme start="20260107085100 +0000" stop="20260107091300 +0000" channel="NICKTOONS">
+  <programme start="20260107085000 +0000" stop="20260107091300 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260107091300 +0000" stop="20260107092500 +0000" channel="NICKTOONS">
+  <programme start="20260107091300 +0000" stop="20260107092400 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260107092500 +0000" stop="20260107094700 +0000" channel="NICKTOONS">
+  <programme start="20260107092400 +0000" stop="20260107094700 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260107094700 +0000" stop="20260107100900 +0000" channel="NICKTOONS">
+  <programme start="20260107094700 +0000" stop="20260107100800 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260107100900 +0000" stop="20260107103100 +0000" channel="NICKTOONS">
+  <programme start="20260107100800 +0000" stop="20260107103000 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107103100 +0000" stop="20260107105300 +0000" channel="NICKTOONS">
+  <programme start="20260107103000 +0000" stop="20260107105200 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107105300 +0000" stop="20260107111600 +0000" channel="NICKTOONS">
+  <programme start="20260107105200 +0000" stop="20260107111600 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107111600 +0000" stop="20260107112900 +0000" channel="NICKTOONS">
+  <programme start="20260107111600 +0000" stop="20260107112800 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107112900 +0000" stop="20260107115100 +0000" channel="NICKTOONS">
+  <programme start="20260107112800 +0000" stop="20260107115000 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107115100 +0000" stop="20260107121400 +0000" channel="NICKTOONS">
+  <programme start="20260107115000 +0000" stop="20260107121200 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260107121400 +0000" stop="20260107123600 +0000" channel="NICKTOONS">
+  <programme start="20260107121200 +0000" stop="20260107123500 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260107123600 +0000" stop="20260107125800 +0000" channel="NICKTOONS">
+  <programme start="20260107123500 +0000" stop="20260107125700 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107125800 +0000" stop="20260107132100 +0000" channel="NICKTOONS">
+  <programme start="20260107125700 +0000" stop="20260107131900 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107132100 +0000" stop="20260107133300 +0000" channel="NICKTOONS">
+  <programme start="20260107131900 +0000" stop="20260107133100 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107133300 +0000" stop="20260107135200 +0000" channel="NICKTOONS">
+  <programme start="20260107133100 +0000" stop="20260107135000 +0000" channel="NICKTOONS">
     <title>SONIC PRIME</title>
   </programme>
-  <programme start="20260107135200 +0000" stop="20260107140400 +0000" channel="NICKTOONS">
+  <programme start="20260107135000 +0000" stop="20260107140100 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260107140400 +0000" stop="20260107142600 +0000" channel="NICKTOONS">
+  <programme start="20260107140100 +0000" stop="20260107142300 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260107142600 +0000" stop="20260107144900 +0000" channel="NICKTOONS">
+  <programme start="20260107142300 +0000" stop="20260107144500 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260107144900 +0000" stop="20260107150100 +0000" channel="NICKTOONS">
+  <programme start="20260107144500 +0000" stop="20260107145700 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107150100 +0000" stop="20260107152300 +0000" channel="NICKTOONS">
+  <programme start="20260107145700 +0000" stop="20260107152000 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107152300 +0000" stop="20260107154500 +0000" channel="NICKTOONS">
+  <programme start="20260107152000 +0000" stop="20260107154200 +0000" channel="NICKTOONS">
     <title>THE FAIRLY ODDPARENTS: A NEW WISH</title>
   </programme>
-  <programme start="20260107154500 +0000" stop="20260107160900 +0000" channel="NICKTOONS">
+  <programme start="20260107154200 +0000" stop="20260107160400 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107160900 +0000" stop="20260107163100 +0000" channel="NICKTOONS">
+  <programme start="20260107160400 +0000" stop="20260107162700 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107163100 +0000" stop="20260107165200 +0000" channel="NICKTOONS">
+  <programme start="20260107162700 +0000" stop="20260107164700 +0000" channel="NICKTOONS">
     <title>SONIC PRIME</title>
   </programme>
-  <programme start="20260107165200 +0000" stop="20260107170700 +0000" channel="NICKTOONS">
+  <programme start="20260107164700 +0000" stop="20260107170100 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107170700 +0000" stop="20260107172800 +0000" channel="NICKTOONS">
+  <programme start="20260107170100 +0000" stop="20260107172400 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107172800 +0000" stop="20260107175000 +0000" channel="NICKTOONS">
+  <programme start="20260107172400 +0000" stop="20260107174700 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107175000 +0000" stop="20260107181200 +0000" channel="NICKTOONS">
+  <programme start="20260107174700 +0000" stop="20260107180900 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260107181200 +0000" stop="20260107183500 +0000" channel="NICKTOONS">
+  <programme start="20260107180900 +0000" stop="20260107183200 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260107183500 +0000" stop="20260107184700 +0000" channel="NICKTOONS">
+  <programme start="20260107183200 +0000" stop="20260107184300 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107184700 +0000" stop="20260107190200 +0000" channel="NICKTOONS">
+  <programme start="20260107184300 +0000" stop="20260107185700 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107190200 +0000" stop="20260107192600 +0000" channel="NICKTOONS">
+  <programme start="20260107185700 +0000" stop="20260107192000 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260107192600 +0000" stop="20260107194900 +0000" channel="NICKTOONS">
+  <programme start="20260107192000 +0000" stop="20260107194300 +0000" channel="NICKTOONS">
     <title>THE FAIRLY ODDPARENTS</title>
   </programme>
-  <programme start="20260107194900 +0000" stop="20260107200800 +0000" channel="NICKTOONS">
+  <programme start="20260107194300 +0000" stop="20260107200600 +0000" channel="NICKTOONS">
     <title>THE FAIRLY ODDPARENTS</title>
   </programme>
-  <programme start="20260107200800 +0000" stop="20260107203100 +0000" channel="NICKTOONS">
+  <programme start="20260107200600 +0000" stop="20260107202900 +0000" channel="NICKTOONS">
     <title>THE PENGUINS OF MADAGASCAR</title>
   </programme>
-  <programme start="20260107203100 +0000" stop="20260107205400 +0000" channel="NICKTOONS">
+  <programme start="20260107202900 +0000" stop="20260107205100 +0000" channel="NICKTOONS">
     <title>THE PENGUINS OF MADAGASCAR</title>
   </programme>
-  <programme start="20260107205400 +0000" stop="20260107211700 +0000" channel="NICKTOONS">
+  <programme start="20260107205100 +0000" stop="20260107211500 +0000" channel="NICKTOONS">
     <title>KUNG FU PANDA: LEGENDS OF AWESOMENESS</title>
   </programme>
   <programme start="20260106210300 +0000" stop="20260106211700 +0000" channel="AZOOMEE">
