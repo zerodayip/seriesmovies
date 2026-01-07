@@ -1,4 +1,16 @@
 {
+  "/anime/easygoing-territory-defense-by-the-optimistic-lord/": {
+    "group": "EASYGOING TERRITORY DEFENSE BY THE OPTIMISTIC LORD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/an-adventurers-daily-grind-at-age-29/": {
+    "group": "AN ADVENTURER’S DAILY GRIND AT AGE 29",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/the-case-book-of-arne/": {
     "group": "THE CASE BOOK OF ARNE",
     "last_season": 1,
@@ -103,18 +115,6 @@
   },
   "/anime/fate-strange-fake/": {
     "group": "FATE/STRANGE FAKE",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/fate-strange-fake-dub/": {
-    "group": "FATE/STRANGE FAKE DUB",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/fate-strange-fake-whispers-of-dawn/": {
-    "group": "FATE/STRANGE FAKE: WHISPERS OF DAWN",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1

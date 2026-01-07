@@ -1054,5 +1054,11 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/dizi-izle/the-darwin-incident": {
+    "group": "THE DARWIN INCIDENT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -1414,5 +1414,11 @@
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
+  },
+  "/boukyaku-battery-tv": {
+    "group": "BOUKYAKU BATTERY (TV)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

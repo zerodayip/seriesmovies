@@ -988,5 +988,17 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/anime/easygoing-territory-defense-by-the-optimistic-lord/": {
+    "group": "EASYGOING TERRITORY DEFENSE BY THE OPTIMISTIC LORD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/an-adventurers-daily-grind-at-age-29/": {
+    "group": "AN ADVENTURER’S DAILY GRIND AT AGE 29",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

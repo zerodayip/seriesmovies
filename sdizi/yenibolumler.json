@@ -1,4 +1,16 @@
 {
+  "/diziler/percy-jackson-and-the-olympians.html": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/diziler/palm-royale.html": {
+    "group": "PALM ROYALE",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/diziler/tracker.html": {
     "group": "TRACKER",
     "last_season": 3,
@@ -41,18 +53,6 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/diziler/percy-jackson-and-the-olympians.html": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/diziler/palm-royale.html": {
-    "group": "PALM ROYALE",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
   "/diziler/nice-to-not-meet-you.html": {
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
@@ -69,12 +69,6 @@
     "group": "ROBIN HOOD 2025",
     "last_season": 1,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/one-punch-man.html": {
-    "group": "ONE PUNCH MAN",
-    "last_season": 3,
-    "last_episode": 12,
     "start_episode": 1
   }
 }
