@@ -1,56 +1,56 @@
 {
   "/dizi/doc": {
     "group": "Doc",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/high-potential": {
     "group": "High Potential",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/made-in-korea": {
     "group": "Made in Korea",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/palm-royale": {
     "group": "Palm Royale",
     "last_season": 2,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/percy-jackson-and-the-olympians": {
     "group": "Percy Jackson and the Olympians",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/the-good-ship-murder": {
     "group": "The Good Ship Murder",
     "last_season": 3,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/the-rookie": {
     "group": "The Rookie",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 8,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/unlocked-a-jail-experiment": {
     "group": "Unlocked: A Jail Experiment",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/will-trent": {
     "group": "Will Trent",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/brilliant-minds": {
@@ -68,7 +68,7 @@
   "/dizi/idol-i": {
     "group": "Idol I",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/saint-pierre": {
@@ -80,7 +80,7 @@
   "/dizi/spring-fever": {
     "group": "Spring Fever",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/st-denis-medical": {
