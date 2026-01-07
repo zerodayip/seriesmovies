@@ -6270,47 +6270,77 @@
   <programme start="20260107051500 +0000" stop="20260107053000 +0000" channel="TV 4">
     <title>ATAMAN'LA DEVRI ALEM</title>
   </programme>
-  <programme start="20260107053000 +0000" stop="20260107100000 +0000" channel="4K TR: TV 4">
+  <programme start="20260107053000 +0000" stop="20260107083000 +0000" channel="4K TR: TV 4">
     <title>SOFRAMDAN LEZZETLER</title>
   </programme>
-  <programme start="20260107053000 +0000" stop="20260107100000 +0000" channel="TV 4">
+  <programme start="20260107053000 +0000" stop="20260107083000 +0000" channel="TV 4">
     <title>SOFRAMDAN LEZZETLER</title>
   </programme>
-  <programme start="20260107100000 +0000" stop="20260107111500 +0000" channel="4K TR: TV 4">
-    <title>TUĞÇE'NIN MUTFAĞI</title>
+  <programme start="20260107083000 +0000" stop="20260107084500 +0000" channel="4K TR: TV 4">
+    <title>MUTLU KAHVALTILAR</title>
   </programme>
-  <programme start="20260107100000 +0000" stop="20260107111500 +0000" channel="TV 4">
-    <title>TUĞÇE'NIN MUTFAĞI</title>
+  <programme start="20260107083000 +0000" stop="20260107084500 +0000" channel="TV 4">
+    <title>MUTLU KAHVALTILAR</title>
   </programme>
-  <programme start="20260107111500 +0000" stop="20260107114500 +0000" channel="4K TR: TV 4">
-    <title>TARIHI ROTALAR</title>
+  <programme start="20260107084500 +0000" stop="20260107090000 +0000" channel="4K TR: TV 4">
+    <title>KOLAY MI SANDIN</title>
   </programme>
-  <programme start="20260107111500 +0000" stop="20260107114500 +0000" channel="TV 4">
-    <title>TARIHI ROTALAR</title>
+  <programme start="20260107084500 +0000" stop="20260107090000 +0000" channel="TV 4">
+    <title>KOLAY MI SANDIN</title>
   </programme>
-  <programme start="20260107114500 +0000" stop="20260107123000 +0000" channel="4K TR: TV 4">
-    <title>METREKARE</title>
+  <programme start="20260107090000 +0000" stop="20260107110000 +0000" channel="4K TR: TV 4">
+    <title>BIR TESELLI VER</title>
   </programme>
-  <programme start="20260107114500 +0000" stop="20260107123000 +0000" channel="TV 4">
-    <title>METREKARE</title>
+  <programme start="20260107090000 +0000" stop="20260107110000 +0000" channel="TV 4">
+    <title>BIR TESELLI VER</title>
   </programme>
-  <programme start="20260107123000 +0000" stop="20260107150000 +0000" channel="4K TR: TV 4">
+  <programme start="20260107110000 +0000" stop="20260107120000 +0000" channel="4K TR: TV 4">
+    <title>SÜPER KUMBARA</title>
+  </programme>
+  <programme start="20260107110000 +0000" stop="20260107120000 +0000" channel="TV 4">
+    <title>SÜPER KUMBARA</title>
+  </programme>
+  <programme start="20260107120000 +0000" stop="20260107121500 +0000" channel="4K TR: TV 4">
+    <title>TATLI TUZLU</title>
+  </programme>
+  <programme start="20260107120000 +0000" stop="20260107121500 +0000" channel="TV 4">
+    <title>TATLI TUZLU</title>
+  </programme>
+  <programme start="20260107121500 +0000" stop="20260107131500 +0000" channel="4K TR: TV 4">
     <title>GEZMEK OLSUN</title>
   </programme>
-  <programme start="20260107123000 +0000" stop="20260107150000 +0000" channel="TV 4">
+  <programme start="20260107121500 +0000" stop="20260107131500 +0000" channel="TV 4">
     <title>GEZMEK OLSUN</title>
   </programme>
-  <programme start="20260107150000 +0000" stop="20260107151500 +0000" channel="4K TR: TV 4">
+  <programme start="20260107131500 +0000" stop="20260107150000 +0000" channel="4K TR: TV 4">
+    <title>BABALARIN BABASI</title>
+  </programme>
+  <programme start="20260107131500 +0000" stop="20260107150000 +0000" channel="TV 4">
+    <title>BABALARIN BABASI</title>
+  </programme>
+  <programme start="20260107150000 +0000" stop="20260107170000 +0000" channel="4K TR: TV 4">
+    <title>GELIN KIZ</title>
+  </programme>
+  <programme start="20260107150000 +0000" stop="20260107170000 +0000" channel="TV 4">
+    <title>GELIN KIZ</title>
+  </programme>
+  <programme start="20260107170000 +0000" stop="20260107190000 +0000" channel="4K TR: TV 4">
+    <title>ZULÜM</title>
+  </programme>
+  <programme start="20260107170000 +0000" stop="20260107190000 +0000" channel="TV 4">
+    <title>ZULÜM</title>
+  </programme>
+  <programme start="20260107190000 +0000" stop="20260107204500 +0000" channel="4K TR: TV 4">
+    <title>BABALARIN BABASI</title>
+  </programme>
+  <programme start="20260107190000 +0000" stop="20260107204500 +0000" channel="TV 4">
+    <title>BABALARIN BABASI</title>
+  </programme>
+  <programme start="20260107204500 +0000" stop="20260107210000 +0000" channel="4K TR: TV 4">
     <title>ATAMAN'LA DEVRI ALEM</title>
   </programme>
-  <programme start="20260107150000 +0000" stop="20260107151500 +0000" channel="TV 4">
+  <programme start="20260107204500 +0000" stop="20260107210000 +0000" channel="TV 4">
     <title>ATAMAN'LA DEVRI ALEM</title>
-  </programme>
-  <programme start="20260107151500 +0000" stop="20260108033000 +0000" channel="4K TR: TV 4">
-    <title>ŞEFLERIN MUTFAĞI</title>
-  </programme>
-  <programme start="20260107151500 +0000" stop="20260108033000 +0000" channel="TV 4">
-    <title>ŞEFLERIN MUTFAĞI</title>
   </programme>
   <programme start="20260106212500 +0000" stop="20260106222000 +0000" channel="AS TV">
     <title>TÜRKIYE ŞEHIRLERI</title>
@@ -35523,23 +35553,35 @@
   <programme start="20260107100000 +0000" stop="20260107110000 +0000" channel="KONTV">
     <title>BELGESEL KUŞAĞI</title>
   </programme>
-  <programme start="20260107110000 +0000" stop="20260107123000 +0000" channel="KONTV">
+  <programme start="20260107110000 +0000" stop="20260107120000 +0000" channel="KONTV">
+    <title>HAYAT VAR</title>
+  </programme>
+  <programme start="20260107120000 +0000" stop="20260107123000 +0000" channel="KONTV">
     <title>HAYAT VAR</title>
   </programme>
   <programme start="20260107123000 +0000" stop="20260107130000 +0000" channel="KONTV">
-    <title>MUZAFFER DERELI VAAZ</title>
+    <title>VELIVIZYON</title>
   </programme>
   <programme start="20260107130000 +0000" stop="20260107140000 +0000" channel="KONTV">
-    <title>BELGESEL</title>
+    <title>BIZIM EV</title>
   </programme>
   <programme start="20260107140000 +0000" stop="20260107150000 +0000" channel="KONTV">
-    <title>TASARIM EVI</title>
+    <title>ALIN TERI</title>
   </programme>
-  <programme start="20260107150000 +0000" stop="20260107163000 +0000" channel="KONTV">
+  <programme start="20260107150000 +0000" stop="20260107160000 +0000" channel="KONTV">
     <title>DÜZLEM</title>
   </programme>
-  <programme start="20260107163000 +0000" stop="20260107174000 +0000" channel="KONTV">
+  <programme start="20260107160000 +0000" stop="20260107163000 +0000" channel="KONTV">
+    <title>SICAK SAATLER</title>
+  </programme>
+  <programme start="20260107163000 +0000" stop="20260107173400 +0000" channel="KONTV">
     <title>ANA HABER</title>
+  </programme>
+  <programme start="20260107173400 +0000" stop="20260107173600 +0000" channel="KONTV">
+    <title>HAVA DURUMU</title>
+  </programme>
+  <programme start="20260107173600 +0000" stop="20260107174000 +0000" channel="KONTV">
+    <title>SPOR HABER</title>
   </programme>
   <programme start="20260107174000 +0000" stop="20260107184000 +0000" channel="KONTV">
     <title>ENDÜSTRI KONYA</title>
