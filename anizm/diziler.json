@@ -1436,13 +1436,13 @@
   "/okiraku-ryoushu-no-tanoshii-ryouchi-bouei-seisankei-majutsu-de-na-mo-naki-mura-wo-saikyou-no-jousai-toshi-ni": {
     "group": "OKIRAKU RYOUSHU NO TANOSHII RYOUCHI BOUEI: SEISANKEI MAJUTSU DE NA MO NAKI MURA WO SAIKYOU NO JOUSAI TOSHI NI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/29-sai-dokushin-chuuken-boukensha-no-nichijou": {
     "group": "29-SAI DOKUSHIN CHUUKEN BOUKENSHA NO NICHIJOU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   }
 }
