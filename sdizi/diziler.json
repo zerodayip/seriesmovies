@@ -16264,5 +16264,11 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/diziler/alf.html": {
+    "group": "ALF",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
