@@ -472,5 +472,41 @@
     "last_season": 2,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/doc": {
+    "group": "Doc",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/high-potential": {
+    "group": "High Potential",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-rookie": {
+    "group": "The Rookie",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/unlocked-a-jail-experiment": {
+    "group": "Unlocked: A Jail Experiment",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/will-trent": {
+    "group": "Will Trent",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/spring-fever": {
+    "group": "Spring Fever",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

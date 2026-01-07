@@ -1420,5 +1420,17 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/odayaka-kizoku-no-kyuuka-no-susume": {
+    "group": "ODAYAKA KIZOKU NO KYUUKA NO SUSUME.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/shibou-yuugi-de-meshi-wo-kuu": {
+    "group": "SHIBOU YUUGI DE MESHI WO KUU.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

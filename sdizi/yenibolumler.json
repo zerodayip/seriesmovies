@@ -1,4 +1,10 @@
 {
+  "/diziler/alf.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "ALF",
+    "start_episode": 1
+  },
   "/diziler/percy-jackson-and-the-olympians.html": {
     "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 2,
@@ -62,12 +68,6 @@
   "/diziler/wizards-beyond-waverly-place.html": {
     "group": "WIZARDS BEYOND WAVERLY PLACE",
     "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/robin-hood-2025.html": {
-    "group": "ROBIN HOOD 2025",
-    "last_season": 1,
     "last_episode": 10,
     "start_episode": 1
   }

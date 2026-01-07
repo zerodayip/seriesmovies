@@ -1,4 +1,28 @@
 {
+  "/odayaka-kizoku-no-kyuuka-no-susume": {
+    "group": "ODAYAKA KIZOKU NO KYUUKA NO SUSUME.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/tamon-kun-ima-docchi": {
+    "group": "TAMON-KUN IMA DOCCHI!?",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/yuusha-party-wo-oidasareta-kiyoubinbou": {
+    "group": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/shibou-yuugi-de-meshi-wo-kuu": {
+    "group": "SHIBOU YUUGI DE MESHI WO KUU.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/boukyaku-battery-tv": {
     "group": "BOUKYAKU BATTERY (TV)",
     "last_season": 1,
@@ -73,24 +97,6 @@
   },
   "/hanazakari-no-kimitachi-e": {
     "group": "HANAZAKARI NO KIMITACHI E",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/ikoku-nikki": {
-    "group": "IKOKU NIKKI",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru": {
-    "group": "KIZOKU TENSEI: MEGUMARETA UMARE KARA SAIKYOU NO CHIKARA WO ERU",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/majutsushi-kunon-wa-mieteiru": {
-    "group": "MAJUTSUSHI KUNON WA MIETEIRU",
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
