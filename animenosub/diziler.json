@@ -812,7 +812,7 @@
   "/anime/jack-of-all-trades-party-of-none/": {
     "group": "JACK-OF-ALL-TRADES, PARTY OF NONE",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/anime/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan/": {
@@ -878,7 +878,7 @@
   "/anime/shiboyugi-playing-death-games-to-put-food-on-the-table/": {
     "group": "SHIBOYUGI: PLAYING DEATH GAMES TO PUT FOOD ON THE TABLE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power/": {
@@ -908,7 +908,7 @@
   "/anime/tamons-b-side/": {
     "group": "TAMON’S B-SIDE",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/anime/the-daily-life-of-a-part-time-torturer/": {
@@ -992,25 +992,25 @@
   "/anime/easygoing-territory-defense-by-the-optimistic-lord/": {
     "group": "EASYGOING TERRITORY DEFENSE BY THE OPTIMISTIC LORD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/an-adventurers-daily-grind-at-age-29/": {
     "group": "AN ADVENTURER’S DAILY GRIND AT AGE 29",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/hell-teacher-jigoku-sensei-nube-part-2/": {
     "group": "HELL TEACHER: JIGOKU SENSEI NUBE PART 2",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/a-gentle-nobles-vacation-recommendation/": {
     "group": "A GENTLE NOBLE’S VACATION RECOMMENDATION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }

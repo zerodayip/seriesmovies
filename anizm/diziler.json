@@ -1292,7 +1292,7 @@
   "/yuusha-party-wo-oidasareta-kiyoubinbou": {
     "group": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
     "last_season": 1,
-    "last_episode": 1.0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan": {
@@ -1304,7 +1304,7 @@
   "/tamon-kun-ima-docchi": {
     "group": "TAMON-KUN IMA DOCCHI!?",
     "last_season": 1,
-    "last_episode": 1.0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta-2026": {
@@ -1424,13 +1424,13 @@
   "/odayaka-kizoku-no-kyuuka-no-susume": {
     "group": "ODAYAKA KIZOKU NO KYUUKA NO SUSUME.",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/shibou-yuugi-de-meshi-wo-kuu": {
     "group": "SHIBOU YUUGI DE MESHI WO KUU.",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   }
 }
