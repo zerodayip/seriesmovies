@@ -1022,7 +1022,7 @@
   "/dizi-izle/my-korean-boyfriend": {
     "group": "MY KOREAN BOYFRIEND",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/mayor-of-kingstown": {
@@ -1070,7 +1070,7 @@
   "/dizi-izle/his-hers": {
     "group": "HIS & HERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
