@@ -152,12 +152,6 @@ jobs:
 
       - name: Run Xtream Full Script
         run: python private_py/xtream/convert_full.py
-        
-      - name: Run Xtream Premium Script
-        run: python private_py/xtream/convert_premium.py
-
-      - name: Run Xtream Standard Script
-        run: python private_py/xtream/convert_standard.py
 
       - name: Commit times.json
         run: |
@@ -167,6 +161,12 @@ jobs:
           git diff --cached --quiet || git commit -m "times.json güncellendi [auto]"
           git pull --rebase origin main || echo "No upstream changes"
           git push origin main || echo "No push needed"
+        
+      - name: Run Xtream Premium Script
+        run: python private_py/xtream/convert_premium.py
+
+      - name: Run Xtream Standard Script
+        run: python private_py/xtream/convert_standard.py
 
       - name: Clone m3u8file Repo
         run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/xtreamsistemi.git xtreamsistemi_repo
