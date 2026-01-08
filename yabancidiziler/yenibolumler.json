@@ -5,6 +5,24 @@
     "last_episode": 9,
     "start_episode": 1
   },
+  "/dizi/chicago-fire": {
+    "group": "Chicago Fire",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/chicago-med": {
+    "group": "Chicago Med",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/chicago-pd": {
+    "group": "Chicago PD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/his-hers": {
     "group": "His & Hers",
     "last_season": 1,

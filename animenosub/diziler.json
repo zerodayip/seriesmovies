@@ -1030,5 +1030,23 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/champignon-witch/": {
+    "group": "CHAMPIGNON WITCH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/anyway-im-falling-in-love-with-you-season-2/": {
+    "group": "ANYWAY, I’M FALLING IN LOVE WITH YOU. SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/all-you-need-is-kill/": {
+    "group": "ALL YOU NEED IS KILL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

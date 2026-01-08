@@ -1,12 +1,42 @@
 {
+  "/anime/champignon-witch/": {
+    "group": "CHAMPIGNON WITCH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/anyway-im-falling-in-love-with-you-season-2/": {
+    "group": "ANYWAY, I’M FALLING IN LOVE WITH YOU. SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/jujutsu-kaisen-the-culling-game-part-1/": {
+    "group": "JUJUTSU KAISEN: THE CULLING GAME PART 1",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/roll-over-and-die/": {
+    "group": "ROLL OVER AND DIE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/chained-soldier-season-2-uncensored/": {
     "group": "CHAINED SOLDIER SEASON 2 (UNCENSORED)",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
   },
-  "/anime/roll-over-and-die/": {
-    "group": "ROLL OVER AND DIE",
+  "/anime/all-you-need-is-kill/": {
+    "group": "ALL YOU NEED IS KILL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/the-invisible-man-and-his-soon-to-be-wife/": {
+    "group": "THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
@@ -17,10 +47,10 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "/anime/the-invisible-man-and-his-soon-to-be-wife/": {
-    "group": "THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE",
+  "/anime/mf-ghost-season-3/": {
+    "group": "MF GHOST SEASON 3",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/blue-orchestra-season-2/": {
@@ -85,36 +115,6 @@
   },
   "/anime/isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter-isekai-no-sata-wa-shachiku-shidai/": {
     "group": "ISEKAI OFFICE WORKER: THE OTHER WORLD’S BOOKS DEPEND ON THE BEAN COUNTER ISEKAI NO SATA WA SHACHIKU SHIDAI",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/tune-in-to-the-midnight-heart/": {
-    "group": "TUNE IN TO THE MIDNIGHT HEART",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her/": {
-    "group": "THERE WAS A CUTE GIRL IN THE HERO’S PARTY SO I TRIED CONFESSING TO HER.",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/the-demon-kings-daughter-is-too-kind/": {
-    "group": "THE DEMON KING’S DAUGHTER IS TOO KIND!!",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/you-cant-be-in-a-rom-com-with-your-childhood-friends/": {
-    "group": "YOU CAN’T BE IN A ROM-COM WITH YOUR CHILDHOOD FRIENDS!",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/golden-kamuy-final-season/": {
-    "group": "GOLDEN KAMUY FINAL SEASON",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1

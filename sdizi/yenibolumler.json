@@ -1,4 +1,10 @@
 {
+  "/diziler/his-hers.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "HIS & HERS",
+    "start_episode": 1
+  },
   "/diziler/alf.html": {
     "group": "ALF",
     "last_season": 1,
@@ -63,12 +69,6 @@
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
     "last_episode": 16,
-    "start_episode": 1
-  },
-  "/diziler/wizards-beyond-waverly-place.html": {
-    "group": "WIZARDS BEYOND WAVERLY PLACE",
-    "last_season": 2,
-    "last_episode": 10,
     "start_episode": 1
   }
 }

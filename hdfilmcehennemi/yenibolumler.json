@@ -1,4 +1,7 @@
 {
+  "/dizi/his-hers-hdfc/": {
+    "group": "NE YAPTIĞINI BILIYORUM - HIS HERS"
+  },
   "/dizi/high-potential/": {
     "group": "HIGH POTENTIAL"
   },
@@ -38,8 +41,8 @@
   "/dizi/stranger-things-izle-733360/": {
     "group": "STRANGER THINGS"
   },
-  "/dizi/sanctuary-a-witch-s-tale/": {
-    "group": "SANCTUARY: A WITCH'S TALE"
+  "/dizi/his-hers-2026-hdfc/": {
+    "group": "NE YAPTIĞINI BILIYORUM - HIS HERS"
   },
   "/dizi/the-war-between-the-land-and-the-sea/": {
     "group": "THE WAR BETWEEN THE LAND AND THE SEA"
@@ -52,6 +55,9 @@
   },
   "/dizi/the-copenhagen-test/": {
     "group": "THE COPENHAGEN TEST"
+  },
+  "/dizi/sanctuary-a-witch-s-tale/": {
+    "group": "SANCTUARY: A WITCH'S TALE"
   },
   "/dizi/cashero/": {
     "group": "CASHERO"
@@ -103,8 +109,5 @@
   },
   "/dizi/feud-dizisi-2017/": {
     "group": "FEUD"
-  },
-  "/dizi/community-dizisi/": {
-    "group": "COMMUNITY"
   }
 }
