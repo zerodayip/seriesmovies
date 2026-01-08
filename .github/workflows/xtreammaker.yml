@@ -150,6 +150,9 @@ jobs:
           pip install --upgrade pip
           pip install requests
 
+      - name: Run Xtream Full Script
+        run: python private_py/xtream/convert_full.py
+        
       - name: Run Xtream Premium Script
         run: python private_py/xtream/convert_premium.py
 
