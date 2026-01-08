@@ -508,5 +508,23 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/dizi/abbott-elementary": {
+    "group": "Abbott Elementary",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/his-hers": {
+    "group": "His & Hers",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/love-is-blind-germany": {
+    "group": "Love Is Blind: Germany",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

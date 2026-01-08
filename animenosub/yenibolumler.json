@@ -1,4 +1,34 @@
 {
+  "/anime/chained-soldier-season-2-uncensored/": {
+    "group": "CHAINED SOLDIER SEASON 2 (UNCENSORED)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/roll-over-and-die/": {
+    "group": "ROLL OVER AND DIE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/the-holy-grail-of-eris/": {
+    "group": "THE HOLY GRAIL OF ERIS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/the-invisible-man-and-his-soon-to-be-wife/": {
+    "group": "THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/blue-orchestra-season-2/": {
+    "group": "BLUE ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
   "/anime/hell-teacher-jigoku-sensei-nube-part-2/": {
     "group": "HELL TEACHER: JIGOKU SENSEI NUBE PART 2",
     "last_season": 1,
@@ -85,36 +115,6 @@
   },
   "/anime/golden-kamuy-final-season/": {
     "group": "GOLDEN KAMUY FINAL SEASON",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/my-hero-academia-vigilantes-season-2/": {
-    "group": "MY HERO ACADEMIA: VIGILANTES SEASON 2",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/wash-it-all-away/": {
-    "group": "WASH IT ALL AWAY",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/journal-with-witch/": {
-    "group": "JOURNAL WITH WITCH",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power/": {
-    "group": "NOBLE REINCARNATION: BORN BLESSED, SO I’LL OBTAIN ULTIMATE POWER",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/the-daily-life-of-a-part-time-torturer/": {
-    "group": "THE DAILY LIFE OF A PART-TIME TORTURER",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1

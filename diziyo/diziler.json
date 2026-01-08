@@ -1336,5 +1336,17 @@
     "last_season": 2,
     "last_episode": 10,
     "start_episode": 1
+  },
+  "/dizi/will-trent": {
+    "group": "WILL TRENT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/his-hers": {
+    "group": "NE YAPTIĞINI BILIYORUM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

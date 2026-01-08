@@ -1012,5 +1012,23 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/anime/roll-over-and-die/": {
+    "group": "ROLL OVER AND DIE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/the-holy-grail-of-eris/": {
+    "group": "THE HOLY GRAIL OF ERIS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/the-invisible-man-and-his-soon-to-be-wife/": {
+    "group": "THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
