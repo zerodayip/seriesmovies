@@ -5,6 +5,9 @@
   "/dizi/percy-jackson-and-the-olympians-42/": {
     "group": "PERCY JACKSON AND THE OLYMPIANS"
   },
+  "/dizi/beast-games/": {
+    "group": "BEAST GAMES"
+  },
   "/dizi/palm-royale-43/": {
     "group": "PALM ROYALE"
   },
@@ -38,14 +41,14 @@
   "/dizi/sanctuary-a-witch-s-tale/": {
     "group": "SANCTUARY: A WITCH'S TALE"
   },
-  "/dizi/run-away-2026/": {
-    "group": "RUN AWAY"
-  },
   "/dizi/the-war-between-the-land-and-the-sea/": {
     "group": "THE WAR BETWEEN THE LAND AND THE SEA"
   },
   "/dizi/dispatches-from-elsewhere/": {
     "group": "DISPATCHES FROM ELSEWHERE"
+  },
+  "/dizi/run-away-2026/": {
+    "group": "RUN AWAY"
   },
   "/dizi/the-copenhagen-test/": {
     "group": "THE COPENHAGEN TEST"

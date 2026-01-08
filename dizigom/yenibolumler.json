@@ -1,14 +1,8 @@
 {
-  "/dizi-izle/palm-royale": {
-    "group": "PALM ROYALE",
-    "last_season": 2,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi-izle/its-florida-man": {
-    "group": "IT'S FLORIDA, MAN.",
-    "last_season": 2,
-    "last_episode": 6,
+  "/dizi-izle/land-of-sin": {
+    "group": "LAND OF SIN (SYNDEN)",
+    "last_season": 1,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/run-away": {
@@ -17,64 +11,10 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/made-in-korea": {
-    "group": "MADE IN KOREA",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/my-korean-boyfriend": {
-    "group": "MY KOREAN BOYFRIEND",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-darwin-incident": {
-    "group": "THE DARWIN INCIDENT",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi-izle/culinary-class-wars": {
-    "group": "CULINARY CLASS WARS",
+  "/dizi-izle/its-florida-man": {
+    "group": "IT'S FLORIDA, MAN.",
     "last_season": 2,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi-izle/spring-fever": {
-    "group": "SPRING FEVER",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi-izle/cats-eye": {
-    "group": "CAT'S EYE",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/land-of-sin": {
-    "group": "LAND OF SIN (SYNDEN)",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/time-flies": {
-    "group": "TIME FLIES",
-    "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/idol-i": {
-    "group": "IDOL I",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/unlocked-a-jail-experiment": {
-    "group": "UNLOCKED: A JAIL EXPERIMENT",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/fallout": {
@@ -83,10 +23,16 @@
     "last_episode": 4,
     "start_episode": 1
   },
-  "/dizi-izle/pro-bono": {
-    "group": "PRO BONO",
+  "/dizi-izle/palm-royale": {
+    "group": "PALM ROYALE",
+    "last_season": 2,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/time-flies": {
+    "group": "TIME FLIES",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/percy-jackson-and-the-olympians": {
@@ -95,10 +41,64 @@
     "last_episode": 6,
     "start_episode": 1
   },
+  "/dizi-izle/pro-bono": {
+    "group": "PRO BONO",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/made-in-korea": {
+    "group": "MADE IN KOREA",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/culinary-class-wars": {
+    "group": "CULINARY CLASS WARS",
+    "last_season": 2,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/dizi-izle/idol-i": {
+    "group": "IDOL I",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/dizi-izle/surely-tomorrow": {
     "group": "SURELY TOMORROW",
     "last_season": 1,
     "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/cats-eye": {
+    "group": "CAT'S EYE",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/unlocked-a-jail-experiment": {
+    "group": "UNLOCKED: A JAIL EXPERIMENT",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-darwin-incident": {
+    "group": "THE DARWIN INCIDENT",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi-izle/my-korean-boyfriend": {
+    "group": "MY KOREAN BOYFRIEND",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi-izle/spring-fever": {
+    "group": "SPRING FEVER",
+    "last_season": 1,
+    "last_episode": 2,
     "start_episode": 1
   }
 }
