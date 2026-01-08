@@ -1,8 +1,8 @@
 {
   "/dizi/will-trent": {
     "group": "WILL TRENT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/vicdansiz": {
@@ -14,19 +14,19 @@
   "/dizi/the-capture": {
     "group": "THE CAPTURE",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/percy-jackson-and-the-olympians": {
     "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/his-hers": {
     "group": "NE YAPTIĞINI BILIYORUM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/the-neighborhood": {
@@ -55,8 +55,8 @@
   },
   "/dizi/this-way-up": {
     "group": "THIS WAY UP",
-    "last_season": 1,
-    "last_episode": 6,
+    "last_season": 2,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/yalmiun-sarang-asya": {
