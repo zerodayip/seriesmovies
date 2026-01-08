@@ -1476,8 +1476,29 @@
   <programme start="20260108115700 +0000" stop="20260108133000 +0000" channel="TABII TV">
     <title>FILINTA</title>
   </programme>
-  <programme start="20260108133000 +0000" stop="20260109150000 +0000" channel="TABII TV">
+  <programme start="20260108133000 +0000" stop="20260108150800 +0000" channel="TABII TV">
     <title>EN SON BABALAR DUYAR</title>
+  </programme>
+  <programme start="20260108150800 +0000" stop="20260108155700 +0000" channel="TABII TV">
+    <title>EN SON BABALAR DUYAR</title>
+  </programme>
+  <programme start="20260108155700 +0000" stop="20260108164600 +0000" channel="TABII TV">
+    <title>YEDI NUMARA</title>
+  </programme>
+  <programme start="20260108164600 +0000" stop="20260108172300 +0000" channel="TABII TV">
+    <title>KOYU BEYAZ</title>
+  </programme>
+  <programme start="20260108172300 +0000" stop="20260108183000 +0000" channel="TABII TV">
+    <title>YEŞIL DENIZ MILENYUM</title>
+  </programme>
+  <programme start="20260108183000 +0000" stop="20260108200200 +0000" channel="TABII TV">
+    <title>FILINTA</title>
+  </programme>
+  <programme start="20260108200200 +0000" stop="20260108204400 +0000" channel="TABII TV">
+    <title>ŞAŞIFELEK ÇIKMAZI</title>
+  </programme>
+  <programme start="20260108204400 +0000" stop="20260108212400 +0000" channel="TABII TV">
+    <title>BIZIMKILER</title>
   </programme>
   <programme start="20260107221500 +0000" stop="20260108001500 +0000" channel="4K TR: S NEMA YERL HD">
     <title>NALAN</title>
@@ -2065,25 +2086,25 @@
     <title>SEKSENLER</title>
   </programme>
   <programme start="20260108113500 +0000" stop="20260108144500 +0000" channel="TRT 1">
-    <title>KASABA DOKTORU</title>
+    <title>KARA AĞAÇ DESTANI</title>
   </programme>
   <programme start="20260108113500 +0000" stop="20260108144500 +0000" channel="TRT 1 4K">
-    <title>KASABA DOKTORU</title>
+    <title>KARA AĞAÇ DESTANI</title>
   </programme>
   <programme start="20260108113500 +0000" stop="20260108144500 +0000" channel="TRT 1 HD">
-    <title>KASABA DOKTORU</title>
+    <title>KARA AĞAÇ DESTANI</title>
   </programme>
   <programme start="20260108113500 +0000" stop="20260108144500 +0000" channel="TRT 1 FHD">
-    <title>KASABA DOKTORU</title>
+    <title>KARA AĞAÇ DESTANI</title>
   </programme>
   <programme start="20260108113500 +0000" stop="20260108144500 +0000" channel="TRT 1 HEVC">
-    <title>KASABA DOKTORU</title>
+    <title>KARA AĞAÇ DESTANI</title>
   </programme>
   <programme start="20260108113500 +0000" stop="20260108144500 +0000" channel="TRT 1 RAW">
-    <title>KASABA DOKTORU</title>
+    <title>KARA AĞAÇ DESTANI</title>
   </programme>
   <programme start="20260108113500 +0000" stop="20260108144500 +0000" channel="TRT 1 SD">
-    <title>KASABA DOKTORU</title>
+    <title>KARA AĞAÇ DESTANI</title>
   </programme>
   <programme start="20260108144500 +0000" stop="20260108160000 +0000" channel="TRT 1">
     <title>LINGO TÜRKIYE</title>
@@ -13281,35 +13302,50 @@
   <programme start="20260108145500 +0000" stop="20260108170000 +0000" channel="TRT SPOR RAW">
     <title>AL HILAL - AL HAZEM</title>
   </programme>
-  <programme start="20260108170000 +0000" stop="20260108190000 +0000" channel="4K TR: TRT SPOR HD">
+  <programme start="20260108170000 +0000" stop="20260108191000 +0000" channel="4K TR: TRT SPOR HD">
     <title>KAMP GÜNLÜĞÜ</title>
   </programme>
-  <programme start="20260108170000 +0000" stop="20260108190000 +0000" channel="TRT SPOR">
+  <programme start="20260108170000 +0000" stop="20260108191000 +0000" channel="TRT SPOR">
     <title>KAMP GÜNLÜĞÜ</title>
   </programme>
-  <programme start="20260108170000 +0000" stop="20260108190000 +0000" channel="TRT SPOR FHD">
+  <programme start="20260108170000 +0000" stop="20260108191000 +0000" channel="TRT SPOR FHD">
     <title>KAMP GÜNLÜĞÜ</title>
   </programme>
-  <programme start="20260108170000 +0000" stop="20260108190000 +0000" channel="TRT SPOR HD">
+  <programme start="20260108170000 +0000" stop="20260108191000 +0000" channel="TRT SPOR HD">
     <title>KAMP GÜNLÜĞÜ</title>
   </programme>
-  <programme start="20260108170000 +0000" stop="20260108190000 +0000" channel="TRT SPOR RAW">
+  <programme start="20260108170000 +0000" stop="20260108191000 +0000" channel="TRT SPOR RAW">
     <title>KAMP GÜNLÜĞÜ</title>
   </programme>
-  <programme start="20260108190000 +0000" stop="20260108210000 +0000" channel="4K TR: TRT SPOR HD">
-    <title>CHOLET BASKET - TOFAŞ</title>
+  <programme start="20260108191000 +0000" stop="20260108204000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>SCANDICCI - VAKIFBANK</title>
   </programme>
-  <programme start="20260108190000 +0000" stop="20260108210000 +0000" channel="TRT SPOR">
-    <title>CHOLET BASKET - TOFAŞ</title>
+  <programme start="20260108191000 +0000" stop="20260108204000 +0000" channel="TRT SPOR">
+    <title>SCANDICCI - VAKIFBANK</title>
   </programme>
-  <programme start="20260108190000 +0000" stop="20260108210000 +0000" channel="TRT SPOR FHD">
-    <title>CHOLET BASKET - TOFAŞ</title>
+  <programme start="20260108191000 +0000" stop="20260108204000 +0000" channel="TRT SPOR FHD">
+    <title>SCANDICCI - VAKIFBANK</title>
   </programme>
-  <programme start="20260108190000 +0000" stop="20260108210000 +0000" channel="TRT SPOR HD">
-    <title>CHOLET BASKET - TOFAŞ</title>
+  <programme start="20260108191000 +0000" stop="20260108204000 +0000" channel="TRT SPOR HD">
+    <title>SCANDICCI - VAKIFBANK</title>
   </programme>
-  <programme start="20260108190000 +0000" stop="20260108210000 +0000" channel="TRT SPOR RAW">
-    <title>CHOLET BASKET - TOFAŞ</title>
+  <programme start="20260108191000 +0000" stop="20260108204000 +0000" channel="TRT SPOR RAW">
+    <title>SCANDICCI - VAKIFBANK</title>
+  </programme>
+  <programme start="20260108204000 +0000" stop="20260108224000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>AKTÜEL FUTBOL TRANSFER</title>
+  </programme>
+  <programme start="20260108204000 +0000" stop="20260108224000 +0000" channel="TRT SPOR">
+    <title>AKTÜEL FUTBOL TRANSFER</title>
+  </programme>
+  <programme start="20260108204000 +0000" stop="20260108224000 +0000" channel="TRT SPOR FHD">
+    <title>AKTÜEL FUTBOL TRANSFER</title>
+  </programme>
+  <programme start="20260108204000 +0000" stop="20260108224000 +0000" channel="TRT SPOR HD">
+    <title>AKTÜEL FUTBOL TRANSFER</title>
+  </programme>
+  <programme start="20260108204000 +0000" stop="20260108224000 +0000" channel="TRT SPOR RAW">
+    <title>AKTÜEL FUTBOL TRANSFER</title>
   </programme>
   <programme start="20260107210000 +0000" stop="20260107211500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>HABER BÜLTENI</title>
@@ -13536,80 +13572,65 @@
   <programme start="20260108110000 +0000" stop="20260108111500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>HABER BÜLTENI</title>
   </programme>
-  <programme start="20260108111500 +0000" stop="20260108114000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260108111500 +0000" stop="20260108114500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20260108111500 +0000" stop="20260108114000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260108111500 +0000" stop="20260108114500 +0000" channel="TRT SPOR YILDIZ">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20260108111500 +0000" stop="20260108114000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260108111500 +0000" stop="20260108114500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20260108111500 +0000" stop="20260108114000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260108111500 +0000" stop="20260108114500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20260108111500 +0000" stop="20260108114000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260108111500 +0000" stop="20260108114500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20260108114000 +0000" stop="20260108115000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260108114500 +0000" stop="20260108115500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>SPOR ATLASI</title>
   </programme>
-  <programme start="20260108114000 +0000" stop="20260108115000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260108114500 +0000" stop="20260108115500 +0000" channel="TRT SPOR YILDIZ">
     <title>SPOR ATLASI</title>
   </programme>
-  <programme start="20260108114000 +0000" stop="20260108115000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260108114500 +0000" stop="20260108115500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>SPOR ATLASI</title>
   </programme>
-  <programme start="20260108114000 +0000" stop="20260108115000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260108114500 +0000" stop="20260108115500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>SPOR ATLASI</title>
   </programme>
-  <programme start="20260108114000 +0000" stop="20260108115000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260108114500 +0000" stop="20260108115500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>SPOR ATLASI</title>
   </programme>
-  <programme start="20260108115000 +0000" stop="20260108121000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260108115500 +0000" stop="20260108121500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20260108115000 +0000" stop="20260108121000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260108115500 +0000" stop="20260108121500 +0000" channel="TRT SPOR YILDIZ">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20260108115000 +0000" stop="20260108121000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260108115500 +0000" stop="20260108121500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20260108115000 +0000" stop="20260108121000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260108115500 +0000" stop="20260108121500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20260108115000 +0000" stop="20260108121000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260108115500 +0000" stop="20260108121500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20260108121000 +0000" stop="20260108134500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260108121500 +0000" stop="20260108135000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>BULGARISTAN - TÜRKIYE</title>
   </programme>
-  <programme start="20260108121000 +0000" stop="20260108134500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260108121500 +0000" stop="20260108135000 +0000" channel="TRT SPOR YILDIZ">
     <title>BULGARISTAN - TÜRKIYE</title>
   </programme>
-  <programme start="20260108121000 +0000" stop="20260108134500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260108121500 +0000" stop="20260108135000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>BULGARISTAN - TÜRKIYE</title>
   </programme>
-  <programme start="20260108121000 +0000" stop="20260108134500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260108121500 +0000" stop="20260108135000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>BULGARISTAN - TÜRKIYE</title>
   </programme>
-  <programme start="20260108121000 +0000" stop="20260108134500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260108121500 +0000" stop="20260108135000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>BULGARISTAN - TÜRKIYE</title>
-  </programme>
-  <programme start="20260108134500 +0000" stop="20260108135000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260108134500 +0000" stop="20260108135000 +0000" channel="TRT SPOR YILDIZ">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260108134500 +0000" stop="20260108135000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260108134500 +0000" stop="20260108135000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260108134500 +0000" stop="20260108135000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>NEDIR, NASIL OYNANIR?</title>
   </programme>
   <programme start="20260108135000 +0000" stop="20260108141500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>ALBÜMDEKI YILDIZLAR</title>
@@ -13701,20 +13722,20 @@
   <programme start="20260108185500 +0000" stop="20260108205000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>LE MANS SARTHE BASKET - MERSIN</title>
   </programme>
-  <programme start="20260108205000 +0000" stop="20260108210000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ONSUZ ASLA</title>
+  <programme start="20260108205000 +0000" stop="20260108212000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20260108205000 +0000" stop="20260108210000 +0000" channel="TRT SPOR YILDIZ">
-    <title>ONSUZ ASLA</title>
+  <programme start="20260108205000 +0000" stop="20260108212000 +0000" channel="TRT SPOR YILDIZ">
+    <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20260108205000 +0000" stop="20260108210000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ONSUZ ASLA</title>
+  <programme start="20260108205000 +0000" stop="20260108212000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20260108205000 +0000" stop="20260108210000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ONSUZ ASLA</title>
+  <programme start="20260108205000 +0000" stop="20260108212000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ENGELSIZ SPOR</title>
   </programme>
-  <programme start="20260108205000 +0000" stop="20260108210000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ONSUZ ASLA</title>
+  <programme start="20260108205000 +0000" stop="20260108212000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ENGELSIZ SPOR</title>
   </programme>
   <programme start="20260107230000 +0000" stop="20260108010000 +0000" channel="4K TR: A SPOR HD">
     <title>TRANSFER RAPORU</title>
@@ -14326,25 +14347,25 @@
     <title>YILSONU 2025</title>
   </programme>
   <programme start="20260108084000 +0000" stop="20260108102000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+    <title>FCSB - FEYENOORD</title>
   </programme>
   <programme start="20260108084000 +0000" stop="20260108102000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+    <title>FCSB - FEYENOORD</title>
   </programme>
   <programme start="20260108084000 +0000" stop="20260108102000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+    <title>FCSB - FEYENOORD</title>
   </programme>
   <programme start="20260108084000 +0000" stop="20260108102000 +0000" channel="TABII SPOR HD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+    <title>FCSB - FEYENOORD</title>
   </programme>
   <programme start="20260108084000 +0000" stop="20260108102000 +0000" channel="TABII SPOR SD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+    <title>FCSB - FEYENOORD</title>
   </programme>
   <programme start="20260108084000 +0000" stop="20260108102000 +0000" channel="TABII SPOR">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+    <title>FCSB - FEYENOORD</title>
   </programme>
   <programme start="20260108084000 +0000" stop="20260108102000 +0000" channel="TABII SPOR 1">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FCSB - FEYENOORD'</title>
+    <title>FCSB - FEYENOORD</title>
   </programme>
   <programme start="20260108102000 +0000" stop="20260108103000 +0000" channel="TABII SPOR 1 4K">
     <title>YILSONU 2025</title>
@@ -14368,25 +14389,25 @@
     <title>YILSONU 2025</title>
   </programme>
   <programme start="20260108103000 +0000" stop="20260108121000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+    <title>CELTA VIGO - BOLOGNA</title>
   </programme>
   <programme start="20260108103000 +0000" stop="20260108121000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+    <title>CELTA VIGO - BOLOGNA</title>
   </programme>
   <programme start="20260108103000 +0000" stop="20260108121000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+    <title>CELTA VIGO - BOLOGNA</title>
   </programme>
   <programme start="20260108103000 +0000" stop="20260108121000 +0000" channel="TABII SPOR HD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+    <title>CELTA VIGO - BOLOGNA</title>
   </programme>
   <programme start="20260108103000 +0000" stop="20260108121000 +0000" channel="TABII SPOR SD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+    <title>CELTA VIGO - BOLOGNA</title>
   </programme>
   <programme start="20260108103000 +0000" stop="20260108121000 +0000" channel="TABII SPOR">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+    <title>CELTA VIGO - BOLOGNA</title>
   </programme>
   <programme start="20260108103000 +0000" stop="20260108121000 +0000" channel="TABII SPOR 1">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'CELTA VIGO - BOLOGNA'</title>
+    <title>CELTA VIGO - BOLOGNA</title>
   </programme>
   <programme start="20260108121000 +0000" stop="20260108121500 +0000" channel="TABII SPOR 1 4K">
     <title>GALATASARAY ŞAMPIYONLAR LIGI GOLLER</title>
@@ -14431,25 +14452,25 @@
     <title>UEFA AVRUPA LIGI MAGAZIN</title>
   </programme>
   <programme start="20260108130500 +0000" stop="20260108144500 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+    <title>FIORENTINA - DINAMO KIEV</title>
   </programme>
   <programme start="20260108130500 +0000" stop="20260108144500 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+    <title>FIORENTINA - DINAMO KIEV</title>
   </programme>
   <programme start="20260108130500 +0000" stop="20260108144500 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+    <title>FIORENTINA - DINAMO KIEV</title>
   </programme>
   <programme start="20260108130500 +0000" stop="20260108144500 +0000" channel="TABII SPOR HD">
-    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+    <title>FIORENTINA - DINAMO KIEV</title>
   </programme>
   <programme start="20260108130500 +0000" stop="20260108144500 +0000" channel="TABII SPOR SD">
-    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+    <title>FIORENTINA - DINAMO KIEV</title>
   </programme>
   <programme start="20260108130500 +0000" stop="20260108144500 +0000" channel="TABII SPOR">
-    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+    <title>FIORENTINA - DINAMO KIEV</title>
   </programme>
   <programme start="20260108130500 +0000" stop="20260108144500 +0000" channel="TABII SPOR 1">
-    <title>UEFA KONFERANS LIGI FUTBOL KARŞILAŞMASI 'FIORENTINA - DINAMO KIEV'</title>
+    <title>FIORENTINA - DINAMO KIEV</title>
   </programme>
   <programme start="20260108144500 +0000" stop="20260108151000 +0000" channel="TABII SPOR 1 4K">
     <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
@@ -14473,25 +14494,25 @@
     <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
   </programme>
   <programme start="20260108151000 +0000" stop="20260108165500 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+    <title>BRANN - FENERBAHÇE</title>
   </programme>
   <programme start="20260108151000 +0000" stop="20260108165500 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+    <title>BRANN - FENERBAHÇE</title>
   </programme>
   <programme start="20260108151000 +0000" stop="20260108165500 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+    <title>BRANN - FENERBAHÇE</title>
   </programme>
   <programme start="20260108151000 +0000" stop="20260108165500 +0000" channel="TABII SPOR HD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+    <title>BRANN - FENERBAHÇE</title>
   </programme>
   <programme start="20260108151000 +0000" stop="20260108165500 +0000" channel="TABII SPOR SD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+    <title>BRANN - FENERBAHÇE</title>
   </programme>
   <programme start="20260108151000 +0000" stop="20260108165500 +0000" channel="TABII SPOR">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+    <title>BRANN - FENERBAHÇE</title>
   </programme>
   <programme start="20260108151000 +0000" stop="20260108165500 +0000" channel="TABII SPOR 1">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'BRANN - FENERBAHÇE'</title>
+    <title>BRANN - FENERBAHÇE</title>
   </programme>
   <programme start="20260108165500 +0000" stop="20260108172500 +0000" channel="TABII SPOR 1 4K">
     <title>FENERBAHÇE AVRUPA LIGI ÖZETLER</title>
@@ -14515,46 +14536,46 @@
     <title>FENERBAHÇE AVRUPA LIGI ÖZETLER</title>
   </programme>
   <programme start="20260108172500 +0000" stop="20260108192000 +0000" channel="TABII SPOR 1 4K">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSER - AL QADSIAH'</title>
+    <title>AL NASSER - AL QADSIAH</title>
   </programme>
   <programme start="20260108172500 +0000" stop="20260108192000 +0000" channel="TABII SPOR 1 720P">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSER - AL QADSIAH'</title>
+    <title>AL NASSER - AL QADSIAH</title>
   </programme>
   <programme start="20260108172500 +0000" stop="20260108192000 +0000" channel="TABII SPOR 1 UHD">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSER - AL QADSIAH'</title>
+    <title>AL NASSER - AL QADSIAH</title>
   </programme>
   <programme start="20260108172500 +0000" stop="20260108192000 +0000" channel="TABII SPOR HD">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSER - AL QADSIAH'</title>
+    <title>AL NASSER - AL QADSIAH</title>
   </programme>
   <programme start="20260108172500 +0000" stop="20260108192000 +0000" channel="TABII SPOR SD">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSER - AL QADSIAH'</title>
+    <title>AL NASSER - AL QADSIAH</title>
   </programme>
   <programme start="20260108172500 +0000" stop="20260108192000 +0000" channel="TABII SPOR">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSER - AL QADSIAH'</title>
+    <title>AL NASSER - AL QADSIAH</title>
   </programme>
   <programme start="20260108172500 +0000" stop="20260108192000 +0000" channel="TABII SPOR 1">
-    <title>SUUDI ARABISTAN PRO LIG FUTBOL KARŞILAŞMASI 'AL NASSER - AL QADSIAH'</title>
+    <title>AL NASSER - AL QADSIAH</title>
   </programme>
   <programme start="20260108192000 +0000" stop="20260108210500 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+    <title>INTER - LIVERPOOL</title>
   </programme>
   <programme start="20260108192000 +0000" stop="20260108210500 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+    <title>INTER - LIVERPOOL</title>
   </programme>
   <programme start="20260108192000 +0000" stop="20260108210500 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+    <title>INTER - LIVERPOOL</title>
   </programme>
   <programme start="20260108192000 +0000" stop="20260108210500 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+    <title>INTER - LIVERPOOL</title>
   </programme>
   <programme start="20260108192000 +0000" stop="20260108210500 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+    <title>INTER - LIVERPOOL</title>
   </programme>
   <programme start="20260108192000 +0000" stop="20260108210500 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+    <title>INTER - LIVERPOOL</title>
   </programme>
   <programme start="20260108192000 +0000" stop="20260108210500 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'INTER - LIVERPOOL'</title>
+    <title>INTER - LIVERPOOL</title>
   </programme>
   <programme start="20260107213000 +0000" stop="20260107220000 +0000" channel="4K TR: S SPORT">
     <title>İTALYA SERIE A</title>
@@ -35704,16 +35725,16 @@
     <title>TARIHÇE</title>
   </programme>
   <programme start="20260108190000 +0000" stop="20260108193000 +0000" channel="KANAL V">
-    <title>FILM KUŞAĞI</title>
+    <title>SINEMA</title>
   </programme>
   <programme start="20260108193000 +0000" stop="20260108200000 +0000" channel="KANAL V">
-    <title>FILM KUŞAĞI</title>
+    <title>SINEMA</title>
   </programme>
   <programme start="20260108200000 +0000" stop="20260108203000 +0000" channel="KANAL V">
-    <title>FILM KUŞAĞI</title>
+    <title>SINEMA</title>
   </programme>
   <programme start="20260108203000 +0000" stop="20260108210000 +0000" channel="KANAL V">
-    <title>FILM KUŞAĞI</title>
+    <title>SINEMA</title>
   </programme>
   <programme start="20260107210000 +0000" stop="20260108043000 +0000" channel="KANAL 26">
     <title>GECE HABERLERI</title>
