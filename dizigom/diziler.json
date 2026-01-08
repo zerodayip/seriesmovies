@@ -1060,5 +1060,11 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi-izle/unlocked-a-jail-experiment": {
+    "group": "UNLOCKED: A JAIL EXPERIMENT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
