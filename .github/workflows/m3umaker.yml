@@ -2,8 +2,8 @@ name: M3U MAKER
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 */6 * * *'    # Her 6 saatte bir tüm scriptler çalışır
+#  schedule:
+#    - cron: '0 */6 * * *'    # Her 6 saatte bir tüm scriptler çalışır
 
 jobs:
   notify_start:
@@ -16,7 +16,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          MESSAGE="🔔 M3U workflow başladı!"
+          MESSAGE="🔔 SeriesMovies M3U workflow başladı!"
           
           curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
             -d chat_id="$TELEGRAM_CHAT_ID" \
@@ -488,7 +488,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         if: success()
         run: |
-          MESSAGE="✅ M3U dosyaları başarıyla güncellendi!"
+          MESSAGE="✅ SeriesMovies M3U dosyaları başarıyla güncellendi!"
           curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
             -d chat_id="$TELEGRAM_CHAT_ID" \
             -d text="$MESSAGE"
