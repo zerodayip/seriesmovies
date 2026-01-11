@@ -1072,5 +1072,35 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi-izle/the-pitt": {
+    "group": "THE PITT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/paparazzi-king": {
+    "group": "PAPARAZZI KING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/alpha-males": {
+    "group": "ALPHA MALES (MACHOS ALFA)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/a-thousand-blows": {
+    "group": "A THOUSAND BLOWS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/heaven": {
+    "group": "HEAVEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

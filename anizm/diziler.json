@@ -1468,5 +1468,65 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/kaya-chan-wa-kowakunai": {
+    "group": "KAYA-CHAN WA KOWAKUNAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dead-account": {
+    "group": "DEAD ACCOUNT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/yuusha-no-kuzu": {
+    "group": "YUUSHA NO KUZU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/jingai-kyoushitsu-no-ningengirai-kyoushi": {
+    "group": "JINGAI KYOUSHITSU NO NINGENGIRAI KYOUSHI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/tensei-shitara-dragon-no-tamago-datta": {
+    "group": "TENSEI SHITARA DRAGON NO TAMAGO DATTA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/fatestrange-fake": {
+    "group": "FATE/STRANGE FAKE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/trigun-stargaze": {
+    "group": "TRIGUN STARGAZE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/isekai-no-sata-wa-shachiku-shidai": {
+    "group": "ISEKAI NO SATA WA SHACHIKU SHIDAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru": {
+    "group": "HELL MODE: YARIKOMIZUKI NO GAMER WA HAI SETTEI NO ISEKAI DE MUSOU SURU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/android-wa-keiken-ninzuu-ni-hairimasu-ka": {
+    "group": "ANDROID WA KEIKEN NINZUU NI HAIRIMASU KA??",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

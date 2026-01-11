@@ -1,8 +1,56 @@
 {
-  "/diziler/his-hers.html": {
+  "/diziler/fate-strange-fake.html": {
+    "group": "FATE/STRANGE FAKE",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/to-your-eternity.html": {
+    "group": "TO YOUR ETERNITY",
+    "last_season": 3,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/diziler/surely-tomorrow.html": {
+    "group": "SURELY TOMORROW",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/diziler/sentenced-to-be-a-hero.html": {
+    "group": "SENTENCED TO BE A HERO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/fire-country.html": {
+    "group": "FIRE COUNTRY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/pokemon-horizons.html": {
+    "group": "POKEMON HORIZONS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/cats-eye.html": {
+    "group": "CAT'S EYE",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/jujutsu-kaisen.html": {
+    "group": "JUJUTSU KAISEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/his-hers.html": {
     "group": "HIS & HERS",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/diziler/alf.html": {
@@ -27,48 +75,6 @@
     "group": "TRACKER",
     "last_season": 3,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/surely-tomorrow.html": {
-    "group": "SURELY TOMORROW",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/elsbeth.html": {
-    "group": "ELSBETH",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/ghosts.html": {
-    "group": "GHOSTS",
-    "last_season": 5,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/run-away.html": {
-    "group": "RUN AWAY",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/cats-eye.html": {
-    "group": "CAT'S EYE",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/stranger-things.html": {
-    "group": "STRANGER THINGS",
-    "last_season": 5,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/nice-to-not-meet-you.html": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 16,
     "start_episode": 1
   }
 }

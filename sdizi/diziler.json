@@ -16270,5 +16270,17 @@
     "last_season": 1,
     "last_episode": 26,
     "start_episode": 1
+  },
+  "/diziler/sentenced-to-be-a-hero.html": {
+    "group": "SENTENCED TO BE A HERO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/his-hers.html": {
+    "group": "HIS & HERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

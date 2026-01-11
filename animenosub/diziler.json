@@ -1048,5 +1048,53 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/kaya-chan-isnt-scary/": {
+    "group": "KAYA-CHAN ISN’T SCARY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/you-and-i-are-polar-opposites/": {
+    "group": "YOU AND I ARE POLAR OPPOSITES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/in-the-clear-moonlit-dusk/": {
+    "group": "IN THE CLEAR MOONLIT DUSK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/oedo-fire-slayer-the-legend-of-phoenix/": {
+    "group": "OEDO FIRE SLAYER: THE LEGEND OF PHOENIX",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom/": {
+    "group": "THE VILLAINESS IS ADORED BY THE PRINCE OF THE NEIGHBOR KINGDOM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/scum-of-the-brave/": {
+    "group": "SCUM OF THE BRAVE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/a-misanthrope-teaches-a-class-for-demi-humans/": {
+    "group": "A MISANTHROPE TEACHES A CLASS FOR DEMI-HUMANS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/dead-account/": {
+    "group": "DEAD ACCOUNT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

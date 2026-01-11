@@ -1,122 +1,122 @@
 {
-  "/anime/champignon-witch/": {
-    "group": "CHAMPIGNON WITCH",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/anyway-im-falling-in-love-with-you-season-2/": {
-    "group": "ANYWAY, I’M FALLING IN LOVE WITH YOU. SEASON 2",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/jujutsu-kaisen-the-culling-game-part-1/": {
-    "group": "JUJUTSU KAISEN: THE CULLING GAME PART 1",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/roll-over-and-die/": {
-    "group": "ROLL OVER AND DIE",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/chained-soldier-season-2-uncensored/": {
-    "group": "CHAINED SOLDIER SEASON 2 (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/all-you-need-is-kill/": {
-    "group": "ALL YOU NEED IS KILL",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/the-invisible-man-and-his-soon-to-be-wife/": {
-    "group": "THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/the-holy-grail-of-eris/": {
-    "group": "THE HOLY GRAIL OF ERIS",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/mf-ghost-season-3/": {
-    "group": "MF GHOST SEASON 3",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
   "/anime/blue-orchestra-season-2/": {
     "group": "BLUE ORCHESTRA SEASON 2",
     "last_season": 1,
     "last_episode": 13,
     "start_episode": 1
   },
-  "/anime/hell-teacher-jigoku-sensei-nube-part-2/": {
-    "group": "HELL TEACHER: JIGOKU SENSEI NUBE PART 2",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/tamons-b-side/": {
-    "group": "TAMON’S B-SIDE",
+  "/anime/kunon-the-sorcerer-can-see/": {
+    "group": "KUNON THE SORCERER CAN SEE",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
   },
-  "/anime/a-gentle-nobles-vacation-recommendation/": {
-    "group": "A GENTLE NOBLE’S VACATION RECOMMENDATION",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/jack-of-all-trades-party-of-none/": {
-    "group": "JACK-OF-ALL-TRADES, PARTY OF NONE",
+  "/anime/hana-kimi/": {
+    "group": "HANA-KIMI",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
   },
-  "/anime/shiboyugi-playing-death-games-to-put-food-on-the-table/": {
-    "group": "SHIBOYUGI: PLAYING DEATH GAMES TO PUT FOOD ON THE TABLE",
+  "/anime/fate-strange-fake-dub/": {
+    "group": "FATE/STRANGE FAKE DUB",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/kaya-chan-isnt-scary/": {
+    "group": "KAYA-CHAN ISN’T SCARY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/you-and-i-are-polar-opposites/": {
+    "group": "YOU AND I ARE POLAR OPPOSITES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/in-the-clear-moonlit-dusk/": {
+    "group": "IN THE CLEAR MOONLIT DUSK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/digimon-beatbreak/": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/anime/oedo-fire-slayer-the-legend-of-phoenix/": {
+    "group": "OEDO FIRE SLAYER: THE LEGEND OF PHOENIX",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom/": {
+    "group": "THE VILLAINESS IS ADORED BY THE PRINCE OF THE NEIGHBOR KINGDOM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/scum-of-the-brave/": {
+    "group": "SCUM OF THE BRAVE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/gnosia/": {
+    "group": "GNOSIA",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/anime/tojima-wants-to-be-a-kamen-rider/": {
+    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
+    "last_season": 1,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/anime/fate-strange-fake/": {
+    "group": "FATE/STRANGE FAKE",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
   },
-  "/anime/an-adventurers-daily-grind-at-age-29/": {
-    "group": "AN ADVENTURER’S DAILY GRIND AT AGE 29",
+  "/anime/to-your-eternity-season-3/": {
+    "group": "TO YOUR ETERNITY SEASON 3",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 13,
     "start_episode": 1
   },
-  "/anime/easygoing-territory-defense-by-the-optimistic-lord/": {
-    "group": "EASYGOING TERRITORY DEFENSE BY THE OPTIMISTIC LORD",
+  "/anime/a-misanthrope-teaches-a-class-for-demi-humans/": {
+    "group": "A MISANTHROPE TEACHES A CLASS FOR DEMI-HUMANS",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "/anime/the-case-book-of-arne/": {
-    "group": "THE CASE BOOK OF ARNE",
+  "/anime/trigun-stargaze/": {
+    "group": "TRIGUN STARGAZE",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "/anime/the-darwin-incident/": {
-    "group": "THE DARWIN INCIDENT",
+  "/anime/dead-account/": {
+    "group": "DEAD ACCOUNT",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "/anime/isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter-isekai-no-sata-wa-shachiku-shidai/": {
-    "group": "ISEKAI OFFICE WORKER: THE OTHER WORLD’S BOOKS DEPEND ON THE BEAN COUNTER ISEKAI NO SATA WA SHACHIKU SHIDAI",
+  "/anime/blue-miburo-season-2/": {
+    "group": "BLUE MIBURO SEASON 2",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/fire-force-season-3-part-2/": {
+    "group": "FIRE FORCE SEASON 3 PART 2",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   }
 }

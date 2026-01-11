@@ -1348,5 +1348,83 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/wild-cards": {
+    "group": "WILD CARDS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/patience": {
+    "group": "PATIENCE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-hunting-party": {
+    "group": "THE HUNTING PARTY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/girl-taken": {
+    "group": "GIRL TAKEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/allegiance-2024": {
+    "group": "ALLEGIANCE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/a-thousand-blows": {
+    "group": "A THOUSAND BLOWS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/niebo": {
+    "group": "HEAVEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-pitt": {
+    "group": "THE PITT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/darwin-jihen": {
+    "group": "THE DARWIN INCIDENT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/tehran": {
+    "group": "TEHRAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/moshimo-konoyo-ga-butai-nara-gakuya-wa-doko-ni-arunodaro-asya": {
+    "group": "PRAY SPEAK WHAT HAS HAPPENED",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/meu-namorado-coreano": {
+    "group": "SEVGILIM BIR KORELI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/when-calls-the-heart": {
+    "group": "KALP ÇAĞRISI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -1,6 +1,24 @@
 {
+  "/dizi/feride-hdfc/": {
+    "group": "FERIDE"
+  },
+  "/dizi/heaven-2025-dizi-hdfc/": {
+    "group": "HEAVEN"
+  },
+  "/dizi/a-thousand-blows/": {
+    "group": "A THOUSAND BLOWS"
+  },
+  "/dizi/sanctuary-a-witch-s-tale/": {
+    "group": "SANCTUARY: A WITCH'S TALE"
+  },
   "/dizi/his-hers-hdfc/": {
     "group": "NE YAPTIĞINI BILIYORUM - HIS HERS"
+  },
+  "/dizi/the-pitt-2/": {
+    "group": "THE PITT"
+  },
+  "/dizi/the-hunting-party-2025-hdfc/": {
+    "group": "THE HUNTING PARTY"
   },
   "/dizi/high-potential/": {
     "group": "HIGH POTENTIAL"
@@ -10,6 +28,12 @@
   },
   "/dizi/beast-games/": {
     "group": "BEAST GAMES"
+  },
+  "/dizi/allegiance-hdfc/": {
+    "group": "ALLEGIANCE"
+  },
+  "/dizi/patience/": {
+    "group": "PATIENCE"
   },
   "/dizi/palm-royale-43/": {
     "group": "PALM ROYALE"
@@ -23,24 +47,6 @@
   "/dizi/the-rookie-izle-hdf9-a86/": {
     "group": "THE ROOKIE"
   },
-  "/dizi/brilliant-minds/": {
-    "group": "BRILLIANT MINDS"
-  },
-  "/dizi/surely-tomorrow/": {
-    "group": "ELBET YARIN"
-  },
-  "/dizi/power-book-iv-force-86/": {
-    "group": "POWER BOOK IV: FORCE"
-  },
-  "/dizi/land-of-sin/": {
-    "group": "GÜNAH - SYNDEN"
-  },
-  "/dizi/heaven-2025-dizi-hdfc/": {
-    "group": "HEAVEN"
-  },
-  "/dizi/stranger-things-izle-733360/": {
-    "group": "STRANGER THINGS"
-  },
   "/dizi/his-hers-2026-hdfc/": {
     "group": "NE YAPTIĞINI BILIYORUM - HIS HERS"
   },
@@ -50,14 +56,20 @@
   "/dizi/dispatches-from-elsewhere/": {
     "group": "DISPATCHES FROM ELSEWHERE"
   },
+  "/dizi/land-of-sin/": {
+    "group": "GÜNAH - SYNDEN"
+  },
   "/dizi/run-away-2026/": {
     "group": "RUN AWAY"
   },
+  "/dizi/stranger-things-izle-733360/": {
+    "group": "STRANGER THINGS"
+  },
+  "/dizi/surely-tomorrow/": {
+    "group": "ELBET YARIN"
+  },
   "/dizi/the-copenhagen-test/": {
     "group": "THE COPENHAGEN TEST"
-  },
-  "/dizi/sanctuary-a-witch-s-tale/": {
-    "group": "SANCTUARY: A WITCH'S TALE"
   },
   "/dizi/cashero/": {
     "group": "CASHERO"
