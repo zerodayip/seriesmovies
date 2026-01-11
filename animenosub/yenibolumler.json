@@ -26,25 +26,25 @@
   "/anime/kaya-chan-isnt-scary/": {
     "group": "KAYA-CHAN ISN’T SCARY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/you-and-i-are-polar-opposites/": {
     "group": "YOU AND I ARE POLAR OPPOSITES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/in-the-clear-moonlit-dusk/": {
     "group": "IN THE CLEAR MOONLIT DUSK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/digimon-beatbreak/": {
     "group": "DIGIMON BEATBREAK",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/anime/oedo-fire-slayer-the-legend-of-phoenix/": {
@@ -62,61 +62,61 @@
   "/anime/scum-of-the-brave/": {
     "group": "SCUM OF THE BRAVE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/gnosia/": {
     "group": "GNOSIA",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/anime/tojima-wants-to-be-a-kamen-rider/": {
     "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/anime/fate-strange-fake/": {
     "group": "FATE/STRANGE FAKE",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/anime/to-your-eternity-season-3/": {
     "group": "TO YOUR ETERNITY SEASON 3",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/anime/a-misanthrope-teaches-a-class-for-demi-humans/": {
     "group": "A MISANTHROPE TEACHES A CLASS FOR DEMI-HUMANS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/trigun-stargaze/": {
     "group": "TRIGUN STARGAZE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/dead-account/": {
     "group": "DEAD ACCOUNT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/blue-miburo-season-2/": {
     "group": "BLUE MIBURO SEASON 2",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/anime/fire-force-season-3-part-2/": {
     "group": "FIRE FORCE SEASON 3 PART 2",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
