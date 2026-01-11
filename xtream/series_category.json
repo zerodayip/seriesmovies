@@ -2164,7 +2164,10 @@
     {"name": "LAND OF SIN SYNDEN", "year": "2026"},
     {"name": "MEMBERS ONLY PALM BEACH", "year": "2025"},
     {"name": "UNLOCKED A JAIL EXPERIMENT", "year": "2024"},
-    {"name": "HIS HERS", "year": "2026"}
+    {"name": "HIS HERS", "year": "2026"},
+    {"name": "PAPARAZZI KING", "year": "2026"},
+    {"name": "ALPHA MALES MACHOS ALFA", "year": "2022"},
+    {"name": "SEVGILIM BIR KORELI", "year": "2026"}
   ],
   "PARAMOUNT+ DİZİLERİ": [
     {"name": "DEXTER: RESURRECTION", "year": "2025"},
@@ -3832,7 +3835,9 @@
     {"name": "ANGELA DINIZ MURDERED AND CONVICTED", "year": "2025"},
     {"name": "THE SEDUCTION MERTEUIL", "year": "2025"},
     {"name": "ITS FLORIDA MAN", "year": "2024"},
-    {"name": "HAHA YOU CLOWNS", "year": "2025"}
+    {"name": "HAHA YOU CLOWNS", "year": "2025"},
+    {"name": "HEAVEN", "year": "2025"},
+    {"name": "THE PITT", "year": "2025"}
   ],
   "TELETAMA DİZİLERİ": [
     {"name": "STEINS;GATE", "year": "2011"},
@@ -4021,7 +4026,8 @@
     {"name": "MARVELS MODOK", "year": "2021"},
     {"name": "ALIENOID RETURN TO THE FUTURE", "year": "2024"},
     {"name": "BOBS BURGERS", "year": "2011"},
-    {"name": "SHORESY", "year": "2022"}
+    {"name": "SHORESY", "year": "2022"},
+    {"name": "GIRL TAKEN", "year": "2025"}
   ],
   "MAX DİZİLERİ": [
     {"name": "ADVENTURE TIME: FIONNA & CAKE", "year": "2023"},
@@ -6636,7 +6642,9 @@
     {"name": "BUYUK KUCUK TUM HAYVANLAR", "year": "2020"},
     {"name": "TWELVE DATES TIL CHRISTMAS", "year": "2025"},
     {"name": "SUNNY NIGHTS", "year": "2025"},
-    {"name": "YUZDE IKI", "year": "2025"}
+    {"name": "YUZDE IKI", "year": "2025"},
+    {"name": "ALLEGIANCE", "year": "2024"},
+    {"name": "KALP CAGRISI", "year": "2014"}
   ],
   "AMAZON VIDEO DİZİLERİ": [
     {"name": "JASMINE", "year": "2015"},
@@ -6659,6 +6667,9 @@
     {"name": "HIDDEN ASSETS", "year": "2021"}
   ],
   "FANDANGO AT HOME DİZİLERİ": [
+
+  ],
+  "YOUTUBE TV DİZİLERİ": [
 
   ]
 }
