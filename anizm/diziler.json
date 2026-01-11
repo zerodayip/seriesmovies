@@ -758,7 +758,7 @@
   "/fumetsu-no-anata-e-season-3": {
     "group": "FUMETSU NO ANATA E SEASON 3",
     "last_season": 1,
-    "last_episode": 13.0,
+    "last_episode": 14.0,
     "start_episode": 1
   },
   "/ranma--2024-2nd-season": {
@@ -794,7 +794,7 @@
   "/si-vis-the-sound-of-heroes": {
     "group": "SI-VIS: THE SOUND OF HEROES",
     "last_season": 1,
-    "last_episode": 13.0,
+    "last_episode": 14.0,
     "start_episode": 1
   },
   "/nageki-no-bourei-wa-intai-shitai-part-2": {
@@ -878,7 +878,7 @@
   "/tondemo-skill-de-isekai-hourou-meshi-2": {
     "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
     "last_season": 1,
-    "last_episode": 9.0,
+    "last_episode": 10.0,
     "start_episode": 1
   },
   "/tensei-akujo-no-kuro-rekishi": {
@@ -914,7 +914,7 @@
   "/ganglion": {
     "group": "GANGLION",
     "last_season": 1,
-    "last_episode": 12.0,
+    "last_episode": 13.0,
     "start_episode": 1
   },
   "/heika-watashi-wo-wasurete-kudasai": {
@@ -938,13 +938,13 @@
   "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
     "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
     "last_season": 1,
-    "last_episode": 13.0,
+    "last_episode": 14.0,
     "start_episode": 1
   },
   "/gnosia": {
     "group": "GNOSIA",
     "last_season": 1,
-    "last_episode": 12.0,
+    "last_episode": 13.0,
     "start_episode": 1
   },
   "/chanto-suenai-kyuuketsuki-chan": {
@@ -1214,7 +1214,7 @@
   "/xian-wang-de-richang-shenghuo-5": {
     "group": "XIAN WANG DE RICHANG SHENGHUO 5",
     "last_season": 1,
-    "last_episode": 5.0,
+    "last_episode": 6.0,
     "start_episode": 1
   },
   "/enter-the-garden": {
@@ -1232,7 +1232,7 @@
   "/ao-no-miburo-serizawa-ansatsu-hen": {
     "group": "AO NO MIBURO: SERIZAWA ANSATSU-HEN",
     "last_season": 1,
-    "last_episode": 2.0,
+    "last_episode": 3.0,
     "start_episode": 1
   },
   "/black-clover-2nd-season": {
@@ -1472,61 +1472,61 @@
   "/kaya-chan-wa-kowakunai": {
     "group": "KAYA-CHAN WA KOWAKUNAI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/dead-account": {
     "group": "DEAD ACCOUNT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/yuusha-no-kuzu": {
     "group": "YUUSHA NO KUZU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/jingai-kyoushitsu-no-ningengirai-kyoushi": {
     "group": "JINGAI KYOUSHITSU NO NINGENGIRAI KYOUSHI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/tensei-shitara-dragon-no-tamago-datta": {
     "group": "TENSEI SHITARA DRAGON NO TAMAGO DATTA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/fatestrange-fake": {
     "group": "FATE/STRANGE FAKE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/trigun-stargaze": {
     "group": "TRIGUN STARGAZE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/isekai-no-sata-wa-shachiku-shidai": {
     "group": "ISEKAI NO SATA WA SHACHIKU SHIDAI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru": {
     "group": "HELL MODE: YARIKOMIZUKI NO GAMER WA HAI SETTEI NO ISEKAI DE MUSOU SURU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/android-wa-keiken-ninzuu-ni-hairimasu-ka": {
     "group": "ANDROID WA KEIKEN NINZUU NI HAIRIMASU KA??",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   }
 }

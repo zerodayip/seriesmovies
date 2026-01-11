@@ -878,13 +878,13 @@
   "/dizi-izle/surely-tomorrow": {
     "group": "SURELY TOMORROW",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/dizi-izle/pro-bono": {
     "group": "PRO BONO",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/dizi-izle/blood-coast": {
@@ -1082,25 +1082,25 @@
   "/dizi-izle/paparazzi-king": {
     "group": "PAPARAZZI KING",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/alpha-males": {
     "group": "ALPHA MALES (MACHOS ALFA)",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/a-thousand-blows": {
     "group": "A THOUSAND BLOWS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/heaven": {
     "group": "HEAVEN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   }
 }
